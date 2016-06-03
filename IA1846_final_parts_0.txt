@@ -1,0 +1,1063 @@
+  This one is ready to go.
+  
+  JW 8/13/02
+  
+  *** CSTART  IA 08/03/1846 09/03/1857 ***
+  
+  CONSTITUTION OF IOWA 1846
+  
+  *** ASTART 9001.0 IA 1846 ***
+  *** SSTART 001.0 9001.0 0 IA 1846 *** 
+  
+  We, the People of the Territory of Iowa, grateful to the Supreme Being for the blessings
+  hitherto enjoyed, and feeling our dependence on Him for a continuation of those blessings,
+  do ordain and establish, a free and independent government, by the name of the State of
+  Iowa, the boundaries whereof shall be as follows:
+  Beginning in the middle of the main channel of the Mississippi river, at a point due east of
+  the middle of the mouth of the main channel of the Des Moines river; thence up the middle
+  of the main channel of the said Des Moines river, to a point on said river where the northern
+  boundary line of the State of Missouri - as established by the Constitution of that State,
+  adopted June 12th, 1820 - crosses the said middle of the main channel of the said Des
+  Moines river; thence westwardly along the said northern boundary line of the State of
+  Missouri, as established at the time aforesaid, until an extension of said line intersects the
+  middle of the main channel of the Missouri river; thence up the middle of the main channel
+  of the said Missouri river to a point opposite the middle of the main channel of the Big
+  Sioux river, according to Nicollett's map; thence up the main channel of the said Big Sioux
+  river, according to said map, until it is intersected by the parallel of forty-three degrees and
+  thirty minutes north latitude; thence east along said parallel of forty-three degrees and thirty
+  minutes until said parallel intersects the middle of the main channel of the Mississippi river;
+  thence down the middle of the main channel of said Mississippi river to the place of
+  beginning.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 001.0 IA 1846 ***
+  
+  ARTICLE 1
+  
+  BILL OF RIGHTS
+  
+  *** SSTART 001.0 001.0 0 IA 1846 ***
+  
+  SECTION 1. All men are, by nature, free and independent, and have certain unalienable
+  rights - among which are those of enjoying and defending life and liberty, acquiring,
+  possessing and protecting property, and pursuing and obtaining safety and happiness.
+  
+  *** SEND ***
+  *** SSTART 002.0 001.0 0 IA 1846 ***
+  
+  SECTION 2. All political power is inherent in the people. Government is instituted for the
+  protection, security, and benefit of the people, and they have the right, at all times, to alter
+  or reform the same, whenever the public good may require it.
+  
+  *** SEND ***
+  *** SSTART 003.0 001.0 0 IA 1846 ***
+  
+  SECTION 3. The general assembly shall make no law respecting an establishment of
+  religion, or prohibiting the free exercise thereof; nor shall any person be compelled to attend
+  any place of worship, pay tithes, taxes, or other rates for building or repairing places of
+  worship, or the maintenance of any minister or ministry.
+  
+  *** SEND ***
+  *** SSTART 004.0 001.0 0 IA 1846 ***
+  
+  SECTION 4. No religious test shall be required as a qualification for any office or public
+  trust, and no person shall be deprived of any of his rights, privileges or capacities, or
+  disqualified from the performance of any of his public or private duties, or rendered
+  incompetent to give evidence in any court of law or equity, in consequence of his opinions
+  on the subject of religion.
+  
+  *** SEND ***
+  *** SSTART 005.0 001.0 0 IA 1846 ***
+  
+  SECTION 5. Any citizen of this State who may hereafter be engaged, either directly or
+  indirectly, in a duel, either as principal or accessory before the fact, shall forever be
+  disqualified from holding any office under the constitution and laws of this State.
+  
+  *** SEND ***
+  *** SSTART 006.0 001.0 0 IA 1846 ***
+  
+  SECTION 6. All laws of a general nature shall have a uniform operation.
+  
+  *** SEND ***
+  *** SSTART 007.0 001.0 0 IA 1846 ***
+  
+  SECTION 7. Every person may speak, write, and publish his sentiments on all subjects,
+  being responsible for the abuse of that right. No law shall be passed to restrain or abridge
+  the liberty of speech or of the press. In all prosecutions, or indictments for libel, the truth
+  may be given in evidence to the jury, and if it appear to the jury that the matter charged as
+  libelous was true, and was published with good motives, and for justifiable ends, the party
+  shall be acquitted.
+  
+  *** SEND ***
+  *** SSTART 008.0 001.0 0 IA 1846 ***
+  
+  SECTION 8. The right of the people to be secure in their persons, houses, papers and
+  effects, against unreasonable seizures and searches shall not be violated; and no warrant
+  shall issue but on probable cause, supported by oath or affirmation, particularly describing
+  the place to be searched, and the papers and things to be seized.
+  
+  *** SEND ***
+  *** SSTART 009.0 001.0 0 IA 1846 ***
+  
+  SECTION 9. The right of trial by jury shall remain inviolate; but the general assembly may
+  authorize trial by a jury of a less number than twelve men in inferior courts.
+  
+  *** SEND ***
+  *** SSTART 010.0 001.0 0 IA 1846 ***
+  
+  SECTION 10. In all criminal prosecutions, the accused shall have a right to a speedy trial
+  by an impartial jury ; to be informed of the accusation against him; to be confronted with the
+  witnesses against him; to have compulsory process for his own witnesses, and to have the
+  assistance of a counsel.
+  
+  *** SEND ***
+  *** SSTART 011.0 001.0 0 IA 1846 ***
+  
+  SECTION 11. No person shall be held to answer for a criminal offense, unless on
+  presentment or indictment by a grand jury, except in cases cognizable before a justice of the
+  peace, or arising in the army or navy, or in the militia, when in actual service, in time of war
+  or public danger.
+  
+  *** SEND ***
+  *** SSTART 012.0 001.0 0 IA 1846 ***
+  
+  SECTION 12. No person shall, after acquittal, be tried for the same offense. All persons
+  shall, before conviction, be bailable by sufficient sureties, except for capital offenses where
+  the proof is evident, or the presumption great.
+  
+  *** SEND ***
+  *** SSTART 013.0 001.0 0 IA 1846 ***
+  
+  SECTION 13. The writ of habeas corpus shall not be suspended, unless in case of rebellion
+  or invasion the public safety may require it.
+  
+  *** SEND ***
+  *** SSTART 014.0 001.0 0 IA 1846 ***
+  
+  SECTION 14. The military shall be subordinate to the civil power. No standing army shall
+  be kept up by the State in time of peace; and in time of war, no appropriation for a standing
+  army shall be for a longer time than two years.
+  
+  *** SEND ***
+  *** SSTART 015.0 001.0 0 IA 1846 ***
+  
+  SECTION 15. No soldier shall, in time of peace, be quartered in any house without the
+  consent of the owner, nor in time of war, except in the manner prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 016.0 001.0 0 IA 1846 ***
+  
+  SECTION 16. Treason against the State shall consist only in levying war against it,
+  adhering to its enemies, or giving them aid and comfort. No person shall be convicted of
+  treason unless on the evidence of two witnesses to the same overt act, or confession in open
+  court.
+  
+  *** SEND ***
+  *** SSTART 017.0 001.0 0 IA 1846 ***
+  
+  SECTION 17. Excessive bail shall not be required; excessive fines shall not be imposed, and
+  cruel and unusual punishments shall not be inflicted.
+  
+  *** SEND ***
+  *** SSTART 018.0 001.0 0 IA 1846 ***
+  
+  SECTION 18. Private property shall not be taken for public use without just compensation.
+  
+  *** SEND ***
+  *** SSTART 019.0 001.0 0 IA 1846 ***
+  
+  SECTION 19. No person shall be imprisoned for debt in any civil action, on mesne or final
+  process, unless in case of fraud; and no person shall be imprisoned for a militia fine in time
+  of peace.
+  
+  *** SEND ***
+  *** SSTART 020.0 001.0 0 IA 1846 ***
+  
+  SECTION 20. The people have the right freely to assemble together to counsel for the
+  common good; to make known their opinions to their representatives, and to petition for a
+  redress of grievances. 
+  
+  *** SEND ***
+  *** SSTART 021.0 001.0 0 IA 1846 ***
+  
+  SECTION 21. No bill of attainer, ex-post-facto-law, or law impairing the obligation of
+  contracts shall ever be passed.
+  
+  *** SEND ***
+  *** SSTART 022.0 001.0 0 IA 1846 ***
+  
+  SECTION 22. Foreigners who are, or may hereafter become residents of this State, shall
+  enjoy the same rights in respect to the possession, enjoyment and descent of property, as
+  native-born citizens.
+  
+  *** SEND ***
+  *** SSTART 023.0 001.0 0 IA 1846 ***
+  
+  SECTION 23. Neither slavery nor involuntary servitude, unless for the punishment of
+  crimes, shall ever be tolerated in this State.
+  
+  *** SEND ***
+  *** SSTART 024.0 001.0 0 IA 1846 ***
+  
+  SECTION 24. This enumeration of rights shall not be construed to impair or deny others,
+  retained by the people.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 002.0 IA 1846 ***
+  
+  ARTICLE 2
+  
+  RIGHT OF SUFFRAGE
+  
+  *** SSTART 001.0 002.0 0 IA 1846 ***
+  
+  SECTION 1. Every white male citizen of the United States, of the age of twenty-one years,
+  who shall have been a resident of the State six months next preceding the election, and the
+  county in which he claims his vote, twenty days, shall be entitled to vote at all elections
+  which are now or hereafter may be authorized by law.
+  
+  *** SEND ***
+  *** SSTART 002.0 002.0 0 IA 1846 ***
+  
+  SECTION 2. Electors shall, in all cases except treason, felony, or breach of the peace, be
+  privileged from arrest on the days of election, during their attendance at such election,
+  going to and returning therefrom.
+  
+  *** SEND ***
+  *** SSTART 003.0 002.0 0 IA 1846 ***
+  
+  SECTION 3. No elector shall be obliged to perform militia duty on the day of election,
+  except in time of war or public danger.
+  
+  *** SEND ***
+  *** SSTART 004.0 002.0 0 IA 1846 ***
+  
+  SECTION 4. No person in the military, naval or marine service of the United States shall be
+  considered a resident of this State by being stationed in any garrison, barrack, or military or
+  naval place or station within this State.
+  
+  *** SEND ***
+  *** SSTART 005.0 002.0 0 IA 1846 ***
+  
+  SECTION 5. No idiot or insane person, or person convicted of any infamous crime, shall be
+  entitled to the privileges of an elector.
+  
+  *** SEND ***
+  *** SSTART 006.0 002.0 0 IA 1846 ***
+  
+  SECTION 6. All elections by the people shall be by ballot.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 003.01 IA 1846 ***
+  
+  ARTICLE 3
+  
+  OF THE DISTRIBUTION OF POWERS
+  
+  *** SSTART 001.0 003.01 0 IA 1846 ***
+  
+  SECTION 1. The powers of the government of Iowa shall be divided into three separate
+  departments: The Legislative, the Executive, and the Judicial; and no person charged with
+  the exercise of powers properly belonging to one of these departments shall exercise any
+  function appertaining to either of the others, except in cases hereinafter expressly directed
+  or permitted.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 003.02 IA 1846 ***
+  
+  LEGISLATIVE DEPARTMENT
+  
+  *** SSTART 001.0 003.02 0 IA 1846 ***
+  
+  SECTION 1. The legislative authority of this State shall be vested in a Senate and House of
+  Representatives; which shall be designated the General Assembly of the State of Iowa; and
+  the style of their laws shall commence in the following manner: "Be it enacted by the
+  General Assembly of the State of Iowa."
+  
+  *** SEND ***
+  *** SSTART 002.0 003.02 0 IA 1846 ***
+  
+  SECTION 2. The sessions of the General Assembly shall be biennial, and shall commence
+  on the first Monday of December next ensuing the election of its members; unless the
+  Governor of the State shall, in the interim, convene the General Assembly by proclamation.
+  
+  *** SEND ***
+  *** SSTART 003.0 003.02 0 IA 1846 ***
+  
+  SECTION 3. The members of the House of Representatives shall be, chosen every second
+  year, by the qualified electors of their respective districts, on the first Monday in August;
+  whose term of office shall continue two years from the day of the general election.
+  
+  *** SEND ***
+  *** SSTART 004.0 003.02 0 IA 1846 ***
+  
+  SECTION 4. No person shall be a member of the House of Representatives who shall not
+  have attained the age of twenty-one years; be a free white male citizen of the United States,
+  and have been an inhabitant of this State or Territory one year next preceding his election;
+  and at the time of his election have an actual residence of thirty days in the county or district
+  he may be chosen to represent.
+  
+  *** SEND ***
+  *** SSTART 005.0 003.02 0 IA 1846 ***
+  
+  SECTION 5. Senators shall be chosen for the term of four years, at the same time and place
+  as Representatives; they shall be twenty-five years of age, and possess the qualifications of
+  Representatives as to residence and citizenship.
+  
+  *** SEND ***
+  *** SSTART 006.0 003.02 0 IA 1846 ***
+  
+  SECTION 6. The number of Senators shall not be less than one third, nor more than one
+  half the representative body; and at the first session of the General Assembly, after this
+  constitution takes effect, the Senators shall be divided by lot, as equally as may be, into two
+  classes; the seats of the Senators of the first class shall be vacated at the expiration of the
+  second year, so that one half shall be chosen every two years.
+  
+  *** SEND ***
+  *** SSTART 007.0 003.02 0 IA 1846 ***
+  
+  SECTION 7. When the number of Senators is increased, they shall be annexed by lot to one
+  of the two classes, so as to keep them as nearly equal in number as practicable.
+  
+  *** SEND ***
+  *** SSTART 008.0 003.02 0 IA 1846 ***
+  
+  SECTION 8. Each House shall choose its own officers, and judge of the qualification,
+  election and return of its own members. A contested election shall be determined in such
+  manner as shall be directed by law.
+  
+  *** SEND ***
+  *** SSTART 009.0 003.02 0 IA 1846 ***
+  
+  SECTION 9. A majority of each House shall constitute a quorum to do business; but a
+  smaller number may adjourn from day to day, and may compel the attendance of absent
+  members in such manner and under such penalties as each House may provide.
+  
+  *** SEND ***
+  *** SSTART 010.0 003.02 0 IA 1846 ***
+  
+  SECTION 10. Each House shall sit, upon its own adjournments, keep a journal of its
+  proceedings, and publish the same; determine its rules of proceedings, punish members for
+  disorderly behavior, and, with the consent of two thirds, expel a member, but not a second
+  time for the same offense; and shall have all other owners necessary for a branch of the
+  General Assembly of a free ans independent State.
+  
+  *** SEND ***
+  *** SSTART 011.0 003.02 0 IA 1846 ***
+  
+  SECTION 11. Every member of the General Assembly shall have the liberty to dissent
+  from, or protest against any act or resolution which he may think injurious to the public or
+  an individual, and have the reasons for his dissent entered on the journals; and the yeas and
+  nays of the members of either House, on any question, at the desire of any two members
+  present, be entered on the journals.
+  
+  *** SEND ***
+  *** SSTART 012.0 003.02 0 IA 1846 ***
+  
+  SECTION 12. Senators and Representatives, in all cases, except treason, felony, or breach
+  of the peace, shall be privileged from arrest during session of the General Assembly, and in
+  going to and returning from the same.
+  
+  *** SEND ***
+  *** SSTART 013.0 003.02 0 IA 1846 ***
+  
+  SECTION 13. When vacancies occur in either House, the Governor, or the person
+  exercising the functions of Governor, shall issue writs of election to fill such vacancies.
+  
+  *** SEND ***
+  *** SSTART 014.0 003.02 0 IA 1846 ***
+  
+  SECTION 14. The doors of each House shall be open, except on such occasion as, in the
+  opinion of the House, may require secrecy.
+  
+  *** SEND ***
+  *** SSTART 015.0 003.02 0 IA 1846 ***
+  
+  SECTION 15. Neither House shall, without the consent of the other, adjourn for more than
+  three days, nor to any other place than that in which they may be sitting.
+  
+  *** SEND ***
+  *** SSTART 016.0 003.02 0 IA 1846 ***
+  
+  SECTION 16. Bills may originate in either House, except bills for revenue, which shall
+  always originate in the House of Representatives, and may be amended, altered, or rejected
+  by the other; and every bill having passed both Houses, shall be signed by the Speaker and
+  President of their respective Houses.
+  
+  *** SEND ***
+  *** SSTART 017.0 003.02 0 IA 1846 ***
+  
+  SECTION 17. Every bill which shall have passed the General Assembly, shall, before it
+  becomes a law, be presented to the Governor. If he approve, he shall sign it; but if not, he
+  shall return it with his objections, to the House in which it originated, which shall enter the
+  same upon the journal, and proceed to reconsider it: if, after such reconsideration, it again
+  pass both Houses, by yeas and nays, by a majority of two thirds of the members of each
+  House present; it shall become a law, notwithstanding the Governor's objections. If any bill
+  shall not be returned within three days after it shall have been presented to him, (Sunday
+  excepted), the same shall be a law in like manner as if he had signed it, unless the General
+  Assembly, by adjournment, prevent such return.
+  
+  *** SEND ***
+  *** SSTART 018.0 003.02 0 IA 1846 ***
+  
+  SECTION 18. An accurate statement of the receipts and expenditures of the public money,
+  shall be attached to and published with the laws, at every regular session of the General
+  Assembly.
+  
+  *** SEND ***
+  *** SSTART 019.0 003.02 0 IA 1846 ***
+  
+  SECTION 19. The House of Representatives shall have the sole power of impeachment,
+  and all impeachments shall be tried by the Senate. When sitting for that purpose, the
+  Senators shall be upon oath or affirmation; and no person shall be convicted without the
+  concurrence of two-thirds of the members present.
+  
+  *** SEND ***
+  *** SSTART 020.0 003.02 0 IA 1846 ***
+  
+  SECTION 20. The Governor, Secretary of State, Auditor, Treasurer and Judges of the
+  Supreme and District Courts, shall be liable to impeachment for any misdemeanor in office;
+  but judgment in such cases shall extend only to removal from office, and disqualification to
+  hold any office of honor, trust, or profit, under this State, but the party convicted or
+  acquitted shall nevertheless be liable to indictment, trial and punishment, according to law.
+  All other civil officers shall be tried for misdemeanors in office, in such manner as the
+  General Assembly may provide.
+  
+  *** SEND ***
+  *** SSTART 021.0 003.02 0 IA 1846 ***
+  
+  SECTION 21. No Senator or Representative shall, during the time for which be shall have
+  been elected, be appointed to any civil office of profit under this State, which shall have
+  been created, or the emoluments of which shall have been increased during such term,
+  except such offices as may be filled by elections by the people.
+  
+  *** SEND ***
+  *** SSTART 022.0 003.02 0 IA 1846 ***
+  
+  SECTION 22. No person holding any lucrative office under the United States, or this State,
+  or any other power, shall be eligible to the General Assembly: Provided, that offices in the
+  Militia, to which there is attached no annual salary, or the office of justice of the peace, or
+  postmasters whose compensation does not exceed one hundred dollars per annum, shall not
+  be deemed lucrative.
+  
+  *** SEND ***
+  *** SSTART 023.0 003.02 0 IA 1846 ***
+  
+  SECTION 23. No person who may hereafter be a collector or holder of public moneys,
+  shall have a seat in either house of the General Assembly, or be eligible to any office of trust
+  or profit under this State until he shall have accounted for and paid into the treasury all
+  sums for which he may be liable.
+  
+  *** SEND ***
+  *** SSTART 024.0 003.02 0 IA 1846 ***
+  
+  SECTION 24. No money shall be drawn from the treasury but in consequence of
+  appropriations made by law.
+  
+  *** SEND ***
+  *** SSTART 025.0 003.02 0 IA 1846 ***
+  
+  SECTION 25. Each member of the General Assembly shall receive a compensation to be
+  fixed by law, for his services, to be paid out of the treasury of the State. Such compensation
+  shall not exceed two dollars per day, for the period of fifty days from the commencement of
+  the session, and shall not exceed the sum of one dollar per day for the remainder of the
+  session; when convened in extra session by the governor, they shall receive such sums as
+  shall be fixed for the first fifty days of the ordinary session. They shall also receive two
+  dollars for every twenty miles they travel, in going to and returning from their place of
+  meeting, on the most usual route: Provided, however, That the members of the first General
+  Assembly under this constitution shall receive two dollars per day, for their services during
+  the entire session.
+  
+  *** SEND ***
+  *** SSTART 026.0 003.02 0 IA 1846 ***
+  
+  SECTION 26. Every law shall embrace but one subject, which shall be expressed in the
+  title.
+  
+  *** SEND ***
+  *** SSTART 027.0 003.02 0 IA 1846 ***
+  
+  SECTION 27. No law of the General Assembly, of a public nature, shall take effect until the
+  same shall be published and circulated in the several counties of this State, by authority. If
+  the General Assembly shall deem any law of immediate importance, they may provide that
+  the same shall take effect by publication in newspapers in the State.
+  
+  *** SEND ***
+  *** SSTART 028.0 003.02 0 IA 1846 ***
+  
+  SECTION 28. No divorce shall be granted by the General Assembly.
+  
+  *** SEND ***
+  *** SSTART 029.0 003.02 0 IA 1846 ***
+  
+  SECTION 29. No lottery shall be authorized by this State; nor shall the sale of lottery
+  tickets be allowed.
+  
+  *** SEND ***
+  *** SSTART 030.0 003.02 0 IA 1846 ***
+  
+  SECTION 30. Members of the General Assembly shall, before they enter upon the duties of
+  their respective offices, take and subscribe the following oath or affirmation: "I do solemnly
+  swear, (or affirm, as the case may be,) that I will support the constitution of the United
+  States, and the constitution of the State of Iowa, and that I will faithfully discharge the
+  duties of Senator, (or Representative, as the case may be,) according to the best of my
+  ability." And members of the General Assembly are hereby empowered to administer to
+  each other the said oath or affirmation.
+  
+  *** SEND ***
+  *** SSTART 031.0 003.02 0 IA 1846 ***
+  
+  SECTION 31. Within one year after the ratification of this constitution, and within every
+  subsequent term of two years, for the term of eight, years, an enumeration of all the white
+  inhabitants of this State shall be made, in such manner as shall be directed by law. The
+  number of Senators and Representatives shall, at the first regular session of the General
+  Assembly, after such enumeration, be fixed by law, and apportioned among the several
+  counties according to the number of white inhabitants in each, and (The General Assembly)
+  shall also, at every subsequent regular session, apportion the House of Representatives; and
+  every other regular session the Senate for eight years; and the House of Representatives
+  shall never be less than twenty-six, nor greater than thirty-nine, until the number of white
+  inhabitants shall be one hundred and seventy-five thousand; and after that event, at such
+  ratio that the whole number of Representatives shall never be less than thirty-nine nor
+  exceeding seventy-two.
+  
+  *** SEND ***
+  *** SSTART 032.0 003.02 0 IA 1846 ***
+  
+  SECTION 32. When a Congressional, Senatorial, or Representative district shall be
+  composed of two or more counties, it shall not be entirely separated by any county
+  belonging to another district; and no county shall be divided in forming a Congressional,
+  Senatorial, or Representative district.
+  
+  *** SEND ***
+  *** SSTART 033.0 003.02 0 IA 1846 ***
+  
+  SECTION 33. In all elections by the General Assembly, the members thereof shall vote viva
+  voce; and the votes shall be entered upon the journal.
+  
+  *** SEND ***
+  *** SSTART 034.0 003.02 0 IA 1846 ***
+  
+  SECTION 34. For the first ten years after the organization of the government, the annual
+  salary of the Governor shall not exceed one thousand dollars; Secretary of State five
+  hundred dollars; Treasurer, four hundred dollars; Auditor, six hundred dollars; Judges of the
+  Supreme and District Courts, each one thousand dollars.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 004.0 IA 1846 ***
+  
+  ARTICLE 4
+  
+  EXECUTIVE DEPARTMENT
+  
+  *** SSTART 001.0 004.0 0 IA 1846 ***
+  
+  SECTION 1. The supreme executive power of this State shall be vested in a chief
+  magistrate, who shall be styled the Governor of the State of Iowa.
+  
+  *** SEND ***
+  *** SSTART 002.0 004.0 0 IA 1846 ***
+  
+  SECTION 2. The Governor shall be elected by the qualified electors at the time and place
+  of voting for members of the General Assembly, and shall hold his office. four years from
+  the time of his installation, and until his successor shall be qualified.
+  
+  *** SEND ***
+  *** SSTART 003.0 004.0 0 IA 1846 ***
+  
+  SECTION 3. No person shall be eligible to the office of Governor, who has not been a
+  citizen of the United States, and a resident of the State two years next preceding the
+  election, and attained the age of thirty years, at the time of said election.
+  
+  *** SEND ***
+  *** SSTART 004.0 004.0 0 IA 1846 ***
+  
+  SECTION 4. The returns of every election for Governor shall be sealed up and transmitted
+  to the seat of government, directed to the Speaker of the House of Representatives, who
+  shall, during the first week of the session, open and publish them in presence of both houses
+  of the General Assembly. The person having the highest number of votes shall be Governor;
+  but in case any two or more have an equal and the highest number of votes, the General
+  Assembly shall, by joint vote, choose one of said persons so having an equal and the highest
+  number of votes, for Governor.
+  
+  *** SEND ***
+  *** SSTART 005.0 004.0 0 IA 1846 ***
+  
+  SECTION 5. The Governor shall be commander-in-chief of the militia, the army and navy
+  of this State.
+  
+  *** SEND ***
+  *** SSTART 006.0 004.0 0 IA 1846 ***
+  
+  SECTION 6. He shall transact all executive business with the officers of government, civil
+  and military, and may require information in writing from the officers of the executive
+  department upon any subject relating to the duties of their respective offices.
+  
+  *** SEND ***
+  *** SSTART 007.0 004.0 0 IA 1846 ***
+  
+  SECTION 7. He shall see that the laws are faithfully executed.
+  
+  *** SEND ***
+  *** SSTART 008.0 004.0 0 IA 1846 ***
+  
+  SECTION 8. When any office shall, from any cause, become vacant, and no mode is
+  provided by the constitution and laws for filling such vacancy, the governor shall have
+  power to fill such vacancy by granting a commission, which shall expire at the end of the
+  next session of the general assembly, or at the next election by the people.
+  
+  *** SEND ***
+  *** SSTART 009.0 004.0 0 IA 1846 ***
+  
+  SECTION 9. He may, on extraordinary occasions, convene the General Assembly, by
+  proclamation, and shall state to both Houses, when assembled, the purpose for which they
+  shall have been convened.
+  
+  *** SEND ***
+  *** SSTART 010.0 004.0 0 IA 1846 ***
+  
+  SECTION 10. He shall communicate by message to the General Assembly at every session,
+  the condition of the State and recommend such matters as he shall deem expedient.
+  
+  *** SEND ***
+  *** SSTART 011.0 004.0 0 IA 1846 ***
+  
+  SECTION 11. In case of disagreement between the two Houses, with respect to the time of
+  adjournment, the Governor shall have power to adjourn the General Assembly to such time
+  as he may think proper, provided it be not beyond the time fixed for the meeting of the next
+  General Assembly.
+  
+  *** SEND ***
+  *** SSTART 012.0 004.0 0 IA 1846 ***
+  
+  SECTION 12. No person shall, while holding any other office under the United States, or
+  this State, execute the office Governor, except as hereinafter expressly provided.
+  
+  *** SEND ***
+  *** SSTART 013.0 004.0 0 IA 1846 ***
+  
+  SECTION 13. The Governor shall have power to grant reprieves and pardons, and
+  commute punishments after conviction, except in cases of impeachment.
+  
+  *** SEND ***
+  *** SSTART 014.0 004.0 0 IA 1846 ***
+  
+  SECTION 14. The Governor shall, at stated times, receive for his services, a compensation
+  which shall neither be increased nor diminished during the time for which he shall have been
+  elected.
+  
+  *** SEND ***
+  *** SSTART 015.0 004.0 0 IA 1846 ***
+  
+  SECTION 15. There shall be a seal of this State, which shall be kept by the Governor, and
+  used by him officially, and shall be called the Great Seal of the State of Iowa.
+  
+  *** SEND ***
+  *** SSTART 016.0 004.0 0 IA 1846 ***
+  
+  SECTION 16. All grants and commissions shall be in the name and by the authority of the
+  people of the State of Iowa, sealed with the great seal of this State, signed by the Governor,
+  and countersigned by the Secretary of State.
+  
+  *** SEND ***
+  *** SSTART 017.0 004.0 0 IA 1846 ***
+  
+  SECTION 17. A Secretary of State, Auditor of Public Accounts, and Treasurer, shall be
+  elected by the qualified electors, who shall continue in office two years. The Secretary of
+  State shall keep a fair register of all the official acts of the Governor, and shall, when
+  required, lay the same, together with all the papers, minutes, and vouchers thereto, before
+  either branch of the General Assembly, and shall perform such other duties as shall be
+  assigned him by law.
+  
+  *** SEND ***
+  *** SSTART 018.0 004.0 0 IA 1846 ***
+  
+  SECTION 18. In case of the impeachment of the Governor, his removal from office, death,
+  resignation, or absence from the State, the powers and duties of the office shall devolve
+  upon the Secretary of State, until such disability shall cease, or the vacancy be filled.
+  
+  *** SEND ***
+  *** SSTART 019.0 004.0 0 IA 1846 ***
+  
+  SECTION 19. If, during the vacancy of the office of Governor, the Secretary of State shall
+  be impeached, displaced, resign, die or be absent from the State, the powers and duties of
+  the office of Governor shall devolve upon the President of the Senate; and should a vacancy
+  occur by impeachment, death. resignation, or absence from the State of the President of the
+  Senate, the Speaker of the House of Representatives shall act as Governor till the vacancy
+  be filled.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 005.0 IA 1846 ***
+  
+  ARTICLE 5
+  
+  JUDICIAL DEPARTMENT
+  
+  *** SSTART 001.0 005.0 0 IA 1846 ***
+  
+  SECTION 1. The judicial power shall be vested in a Supreme Court, District Courts, and
+  such inferior courts as the General Assembly may from time to time establish.
+  
+  *** SEND ***
+  *** SSTART 002.0 005.0 0 IA 1846 ***
+  
+  SECTION 2. The Supreme Court shall consist of a Chief Justice, and two associates, two
+  of whom shall be a quorum to hold court.
+  
+  *** SEND ***
+  *** SSTART 003.0 005.0 0 IA 1846 ***
+  
+  SECTION 3. The Judges of the Supreme Court shall be elected by vote of both branches of
+  the General Assembly, and shall hold their courts at such time and place as the General
+  Assembly may direct, and hold their offices for six years, and until their successors are
+  elected and qualified, and shall be ineligible to any other office during the term for which
+  they may be elected. The Supreme Court shall have appellate jurisdiction only in all cases in
+  chancery, and shall constitute a court for the correction of errors at law, under such
+  restrictions as the General Assembly may by law prescribe. The Supreme Court may have
+  power to issue all writs and process necessary to do justice to parties, and exercise a
+  supervisory control over all inferior judicial tribunals, and the judges of the Supreme Court
+  shall be conservators of the peace throughout the State.
+  
+  *** SEND ***
+  *** SSTART 004.0 005.0 0 IA 1846 ***
+  
+  SECTION 4. The District Court shall consist of a judge, who shall be elected by the
+  qualified voters of the district in which he resides, at the (township) election, and hold his
+  office for the term of five years, and until his successor is elected and qualified, and shall be
+  ineligible to any other office during the term for which he may be elected. The District
+  Court shall be a court of law and equity, and have jurisdiction in all civil and criminal
+  matters arising in their respective districts, in such manner as shall be prescribed by law. The
+  Judges of the District Courts shall be conservators of the peace in their respective districts.
+  The first session of the General Assembly shall divide the State into four districts, which
+  may be increased as the exigencies require.
+  
+  *** SEND ***
+  *** SSTART 005.0 005.0 0 IA 1846 ***
+  
+  SECTION 5. The qualified voters of each county shall, at the general election, elect one
+  prosecuting attorney, and one clerk of the District Court, who shall be residents therein, and
+  who shall hold their several offices for the term of four years, and until their successors are
+  elected and qualified.
+  
+  *** SEND ***
+  *** SSTART 006.0 005.0 0 IA 1846 ***
+  
+  SECTION 6. The style of all process shall be, "The State of Iowa" and all prosecutions
+  shall be conducted in the name and by the authority of the same.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 006.0 IA 1846 ***
+  
+  ARTICLE 6
+  
+  MILITIA
+  
+  *** SSTART 001.0 006.0 0 IA 1846 ***
+  
+  SECTION 1. The militia of this State shall be composed of all able bodied white male 
+  citizens between the ages of eighteen and forty-five years, except such as are or may
+  hereafter be exempt by the laws of the United States, or of this State, and shall be armed,
+  equipped, and trained, as the General Assembly may provide by law.
+  
+  *** SEND ***
+  *** SSTART 002.0 006.0 0 IA 1846 ***
+  
+  SECTION 2. No person or persons conscientiously scrupulous of bearing arms shall be
+  compelled to do militia duty in time of peace: Provided, That such person or persons shall
+  pay an equivalent for such exemption in the same manner as other citizens.
+  
+  *** SEND ***
+  *** SSTART 003.0 006.0 0 IA 1846 ***
+  
+  SECTION 3. All commissioned officers of the militia, (staff officers excepted,) shall be
+  elected by the persons liable to perform military duty, and shall be commissioned by the
+  Governor.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 007.0 IA 1846 ***
+  
+  ARTICLE 7
+  
+  STATE DEBTS
+  
+  *** SSTART 001.0 007.0 0 IA 1846 ***
+  
+  SECTION 1. The General Assembly shall not in any manner create any debt or debts,
+  liability, or liabilities, which shall singly, or in the aggregate, with any previous debts or
+  liabilities, exceed the sum of one hundred thousand dollars, except in case of war, to repel
+  invasion or suppress insurrection, unless the same shall be authorized by some law for some
+  single object or work to be distinctly specified therein; which law shall provide ways and
+  means, exclusive of loans, for the payment of the interest of such debt or liability as it falls
+  due, and also to pay and discharge the principal of such debt or liability within twenty years
+  of the time of the contracting thereof, and shall be irrepealable until the principal and the
+  interest thereon shall be paid and discharged; but no such law shall take effect, until at a
+  general election it shall have been submitted to the people, and have received a majority of
+  all the votes cast for and against it at such election; and all money raised by authority of
+  such law, shall be applied only to the specific object therein stated, or to the payment of the
+  debt thereby created; and such law shall be published in at least one newspaper in each
+  judicial district, if one is published therein, throughout the State, for three months preceding
+  the election at which it is submitted to the people.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 008.0 IA 1846 ***
+  
+  ARTICLE 8
+  
+  INCORPORATIONS
+  
+  *** SSTART 001.0 008.0 0 IA 1846 ***
+  
+  SECTION 1. No corporate body shall hereafter be created, renewed or extended, with the
+  privilege of making, issuing, or putting in circulation, any bill, check, ticket, certificate,
+  promissory note, or other paper, or the paper of any bank, to circulate as money. The
+  General Assembly of this state shall prohibit, by law, any person or persons, association,
+  company, or corporation, from exercising the privileges of banking, or creating paper to
+  circulate as money.
+  
+  *** SEND ***
+  *** SSTART 002.0 008.0 0 IA 1846 ***
+  
+  SECTION 2. Corporations shall not be created in this state by special laws, except for
+  political or municipal purposes; but the General Assembly shall provide by general laws, for
+  the organization of all other corporations, except corporations with banking privileges, the
+  creation of which is prohibited. The stockholders shall be subject to such liabilities and
+  restrictions as shall be provided by law. The state shall not, directly or indirectly, become a
+  stockholder in any corporation.
+                    
+                    *** SEND ***
+                    *** AEND ***
+                    *** ASTART 009.0 IA 1846 ***
+                    
+                    ARTICLE 9
+                    
+                    EDUCATION AND SCHOOL LANDS
+                    
+                    *** SSTART 001.0 009.0 0 IA 1846 ***
+                    
+                    SECTION 1. The General Assembly shall provide for the election, by the people, of a
+                    Superintendent of Public Instruction, who shall hold his office for three years, and whose
+                    duties shall be prescribed by law, and who shall receive such compensation as the General
+                    Assembly may direct.
+                    
+                    *** SEND ***
+                    *** SSTART 002.0 009.0 0 IA 1846 ***
+                    
+                    SECTION 2. The General Assembly shall encourage, by all suitable means, the promotion
+                    of intellectual, scientific, moral and agricultural improvement. The proceeds of all lands that
+                    have been, or hereafter may be, granted by the United States to this state, for the support of
+                    schools, which shall hereafter be sold or disposed of, and the five hundred thousand acres of
+                    land granted to the new states, under an act of Congress distributing the proceeds of the
+                    public lands among the several states of the Union, approved A. D. 1841, and all estates of
+                    deceased persons, who may have died without leaving a will or heir, and also such percent
+                    as may be granted by Congress on the sale of lands in this state, shall be and remain a
+                    perpetual fund, the interest of which, together with all the rents of the unsold lands, and
+                    such other means as the General Assembly may provide, shall be inviolably appropriated to
+                    the support of common schools throughout the state.
+                    
+                    *** SEND ***
+                    *** SSTART 003.0 009.0 0 IA 1846 ***
+                    
+                    SECTION 3. The General Assembly shall provide for a system of common schools, by
+                    which a school shall be kept up and supported in each school district, at least three months
+                    in every year; and any school district neglecting to keep up and support such a school, may
+                    be deprived of its proportion of the interest of the public fund during such neglect.
+                    
+                    *** SEND ***
+                    *** SSTART 004.0 009.0 0 IA 1846 ***
+                    
+                    SECTION 4. The money which shall be paid by persons is an equivalent for exemption from
+                    military duty, and the clear proceeds of all fines collected in the several counties for any
+                    breach of the penal laws, shall be exclusively applied, in the several counties in which such
+                    money is paid or fine collected, among the several school districts of said counties, in the
+                    proportion to the number of inhabitants in such districts, to the support of common schools,
+                    or the establishment of libraries, as the General Assembly shall, from time to time, to
+                    provide by law.
+                    
+                    *** SEND ***
+                    *** SSTART 005.0 009.0 0 IA 1846 ***
+                    
+                    SECTION 5. The General Assembly shall take measures for the protection, improvement,
+                    or other disposition of such lands as have been or may hereafter be reserved or granted by
+                    the United States, or any person or persons, to this state, for the use of a university; and the
+                    funds accruing from the rents or sale of such lands, or from any other source, for the
+                    purpose aforesaid, shall be and remain a permanent fund, the interest of which shall be
+                    applied to the support of said university, with such branches as the public convenience may
+                    hereafter demand, for the promotion of literature. the arts and sciences, as may be
+                    authorized by the terms of such grant. And it shall be the duty of the General Assembly, as
+                    soon as may be, to provide effectual means for the improvement and permanent security of
+                    the funds of said university.
+                    
+                    *** SEND ***
+                    *** AEND ***
+                    *** ASTART 010.0 IA 1846 ***
+                    
+                    ARTICLE 10
+                    
+                    AMENDMENTS TO THE CONSTITUTION
+                    
+                    *** SSTART 001.0 010.0 0 IA 1846 ***
+                    
+                    SECTION 1. If at any time the General Assembly shall think it necessary to revise or amend
+                    this constitution, they shall provide by law for a vote of the people for or against a
+                    convention, at the next ensuing election for members of the General Assembly. In case a
+                    majority of the people vote in favor of a convention, the said General Assembly shall
+                    provide for an election of delegates to a convention, to be held within six months after the
+                    vote of the people in favor thereof.
+                    
+                    *** SEND ***
+                    *** AEND ***
+                    *** ASTART 011.0 IA 1846 ***
+                    
+                    ARTICLE 11
+                    
+                    MISCELLANEOUS
+                    
+                    *** SSTART 001.0 011.0 0 IA 1846 ***
+                    
+                    SECTION 1. The jurisdiction of Justices of the Peace shall extend to all civil cases (except
+                    cases in chancery, and cases where the question of title to any real estate may arise), where
+                    the amount in controversy does not exceed one hundred dollars, and by the consent of
+                    parties may be extended to any amount not exceeding five hundred dollars.
+                    
+                    *** SEND ***
+                    *** SSTART 002.0 011.0 0 IA 1846 ***
+                    
+                    SECTION 2. No new county shall be laid off hereafter, nor old county reduced to less
+                    contents than four hundred and thirty-two square miles.
+                    
+                    *** SEND ***
+                    *** SSTART 003.0 011.0 0 IA 1846 ***
+                    
+                    SECTION 3. The General Assembly shall not locate any of the public lands which have
+                    been or may be granted by Congress to this State, and the location of which may be given
+                    to the General Assembly, upon lands actually settled, without the consent of the occupant.
+                    The extent of the claim of such occupant so exempted, shall not exceed three hundred and
+                    twenty acres.
+                    
+                    *** SEND ***
+                    *** AEND ***
+                    *** ASTART 012.0 IA 1846 ***
+                    
+                    ARTICLE 12
+                    
+                    SCHEDULE
+                    
+                    *** SSTART 001.0 012.0 0 IA 1846 ***
+                    
+                    SECTION 1. That no inconvenience may arise from the change of a territorial government
+                    to a permanent state government, it is declared that all writs, actions, prosecutions,
+                    contracts, claims and rights, shall continue as if no change had taken place in this
+                    government; and all process which may, before the organization of the judiciary department
+                    under this constitution, be issued, under the authority the territory of Iowa, shall be as valid
+                    as if issued in the name of the state.
+                    
+                    *** SEND ***
+                    *** SSTART 002.0 012.0 0 IA 1846 ***
+                    
+                    SECTION 2. All the laws now in force in this territory, which are not repugnant to this
+                    constitution. shall remain in force until they expire by their own limitations, or be altered or
+                    repealed by the General Assembly of this state.
+                    
+                    *** SEND ***
+                    *** SSTART 003.0 012.0 0 IA 1846 ***
+                    
+                    SECTION 3. All fines, penalties and forfeitures accruing to the territory of Iowa, shall
+                    accrue to the use of the state.
+                    
+                    *** SEND ***
+                    *** SSTART 004.0 012.0 0 IA 1846 ***
+                    
+                    SECTION 4. All recognizances heretofore taken, or which may hereafter be taken, before
+                    the organization of the judicial department under this constitution, shall remain valid, and
+                    shall pass to and may be prosecuted in the name of the State. And all bonds executed to the
+                    Governor of this territory, or to any other officer in his official capacity, shall pass over to
+                    the governor of the state, or other proper state authority, and to their successors in office,
+                    for the uses therein respectively expressed, and may be sued for and recovered accordingly.
+                    All criminal prosecutions and penal actions which may have arisen, or may arise, before the
+                    organization of the judicial department under this constitution, and which shall then be
+                    pending, may be prosecuted to judgment and execution in the name of the State.
+                    
+                    *** SEND ***
+                    *** SSTART 005.0 012.0 0 IA 1846 ***
+                    
+                    SECTION 5. All officers, civil and military, now holding their offices and appointments in
+                    this territory under tile authority of the United States, or under the authority of this territory
+                    shall continue to hold and execute their respective offices and appointments until
+                    superseded under this constitution.
+                    
+                    *** SEND ***
+                    *** SSTART 006.0 012.0 0 IA 1846 ***
+                    
+                    SECTION 6. The first general election under this constitution shall be held at such time as
+                    the governor of the territory, by proclamation may appoint, within three months after its
+                    adoption, for the election of a governor, two representatives in the Congress of the United
+                    States, (unless Congress shall provide for the election of one representative,) members of
+                    the General Assembly, and one auditor, treasurer and secretary of state. Said election shall
+                    be conducted in accordance with the existing laws of this territory: and said governor,
+                    representatives in the Congress of the United States, auditor, treasurer, and secretary of
+                    state duly elected at said election, shall continue to discharge the duties of their respective
+                    offices for the time prescribed by this constitution and until their successors are elected and
+                    qualified. The returns of said election shall be made in conformity to the existing laws of this
+                    territory.
+                    
+                    *** SEND ***
+                    *** SSTART 007.0 012.0 0 IA 1846 ***
+                    
+                    SECTION 7. Until the first enumeration of the inhabitants of this state, as directed by this
+                    constitution, the following shall be the apportionment of the General Assembly:
+   The county of Jefferson, one Senator and three Representatives.
+  The county of Lee shall be entitled to two Senators and five Representatives;
+   The county of Van Buren, two Senators and four Representatives;
+  The counties of Davis and Appanoose, one Senator and one Representative, jointly;
+  The counties of Wapello and Monroe, one Senator jointly, and one Representative each;
+  The counties of Marion, Polk, Dallas and Jasper, one Senator and two Representatives,
+  jointly;
+   The county of Des Moines, two Senators and four Representatives;
+   The county of Henry, one Senator and three Representatives,
+  The counties of Louisa and Washington, one Senator jointly, and one Representative
+  each;
+  The counties of Keokuk and Mahaska, one Senator jointly, and one Representative each;
+  The counties of Muscatine, Johnson and Iowa, one Senator and one Representative
+  jointly, and Muscatine one Representative, and Johnson and Iowa one Representative
+  jointly; 
+  The counties of Scott and Clinton, one Senator jointly, and one Representative each;
+  The counties of Cedar, Linn and Benton, one Senator jointly; the County of Cedar, one
+  Representative. and the counties of Linn and Benton, one Representative jointly;
+  The counties of Jackson and Jones, one Senator and two Representatives;
+  The counties of Dubuque, Delaware, Clayton, Fayette, Buchanan, and Blackhawk, two
+  Senators and two Representatives jointly;
+  And any county attached to any county for judicial purposes, shall, unless otherwise
+  provided for, be considered as forming part of such county for election purposes.
+  
+  *** SEND ***
+  *** SSTART 008.0 012.0 0 IA 1846 ***
+  
+  SECTION 8. The first meeting of the General Assembly under this Constitution shall be at
+  such times as the Governor of the territory may by proclamation appoint, within four
+  months after its ratification by the people, in Iowa City, in Johnson county, which place
+  shall be the seat of government of the State of Iowa, until removed by law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 9016.0 IA 1846 ***
+  
+  Done in convention at Iowa City, this eighteenth day of May, in the year of our Lord one
+  thousand eight hundred and forty-six, and of the Independence of the United States of
+  America, the seventieth.
+   In testimony whereof, we have hereunto subscribed our names:
+                              ENOS LOWE, President.
+   Attest:
+      WM. THOMPSON, Secretary.
+  
+  *** AEND ***
+  *** CEND ***
+  
+  

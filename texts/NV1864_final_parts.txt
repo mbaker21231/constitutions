@@ -1,0 +1,2256 @@
+Kate Keane worked on this constitution
+
+I worked on it 9/24.03
+
+I think this is ready to go
+
+
+
+
+
+*** CSTART NV 03/21/1864 1/1/2003 ***
+
+*** ASTART 9023.0 NV 1864 ***
+
+    CONSTITUTION OF THE STATE OF NEVADA-1864
+               PRELIMINARY ACTION
+
+WHEREAS, The Act of Congress, approved March twenty-first, A. D. eighteen hundred and
+sixty-four, "To Enable the People of the Territory of Nevada to form a Constitution and State
+Government, and for the admission of such State into the Union on an equal footing with the
+original States," requires that the members of the Convention for framing said Constitution shall,
+after organization, on behalf of the people of said Territory, adopt the Constitution of the United
+States; therefore be it
+Resolved, That the members of this Convention, elected by the authority of the aforesaid
+Enabling Act of Congress, as assembled in Carson City, the Capital of said Territory of Nevada
+and immediately subsequent to its organization, do adopt, on behalf of the people of said
+Territory, the Constitution of the United States.
+
+                  ORDINANCE
+                  
+In obedience to the requirements of an Act of the Congress of the United States, approved
+March twenty-first, A. D. eighteen hundred and sixty-four, to enable the people of Nevada to
+form a Constitution and State Government, this Convention, elected and convened in obedience
+to said Enabling Act, do ordain as follows    and this ordinance shall be irrevocable, without the
+consent of the United States and the people of the State of Nevada:
+First-That there shall be in this State neither slavery nor involuntary servitude, otherwise than in
+the punishment for crimes, whereof the party shall have been duly convicted.
+Second-That perfect toleration of religious sentiment shall be secured, and no inhabitant of said
+State shall ever be molested, in person or property, on account of his or her mode of religious
+worship.
+Third-That the people inhabiting said Territory do agree, and declare, that they forever disclaim
+all right and title to the unappropriated public lands lying within said Territory, and that the same
+shall be and remain at the sole and entire disposition of the United States, residing without the
+said State, shall never be taxed higher than the land belonging to residents thereof; and that no
+taxes shall be imposed by said State on lands or property therein belonging to, or which may
+hereafter be purchased by, the United States.
+
+*** AEND ***
+*** ASTART 9001.0 NV 1864 ***
+
+
+                  PREAMBLE
+
+We, the people of the State of Nevada, grateful to Almighty God for our freedom in order to
+secure its blessings, insure domestic tranquility, and form a more perfect government, do
+establish
+this constitution:
+
+*** AEND ***
+
+*** ASTART 001.0 NV 1864 ***
+ARTICLE I
+
+DECLARATION OF RIGHTS
+
+*** SSTART 001.0 001.0 0 NV 1864 ***
+
+SECTION 1. All men are, by nature, free and equal, and have certain inalienable rights, among
+which are those of enjoying and defending life and liberty; acquiring, possessing and protecting
+property, and pursuing and obtaining safety and happiness.
+
+*** SEND ***
+
+*** SSTART 002.0 001.0 0 NV 1864 ***
+
+SEC. 2. All political power is inherent in the people. Government is instituted for the protection,
+security, and benefit of the people; and they have the right to alter or reform the same whenever
+the public good may require it. But the paramount allegiance of every citizen is due to the
+Federal Government, in the exercise of all its constitutional powers, as the same have been, or
+may be, defined by the Supreme Court of the United States, and no power exists in the people of
+this or any other State of the Federal Union to dissolve their connection therewith, or perform
+any act tending to impair, subvert, or resist the supreme authority of the Government of the
+United States. The Constitution of the United States confers full power on the Federal
+Government to maintain and perpetuate its existence, and whensoever any portion of the States,
+or people thereof, attempt to secede from the Federal Union, or forcibly resist the execution of its
+laws, the Federal Government may, by warrant of the Constitution, employ armed force in
+compelling obedience to its authority.
+
+*** SEND ***
+
+*** SSTART 003.0 001.0 0 NV 1864 ***
+
+SEC. 3. The right of trial by jury shall be secured to all, and remain inviolate forever; but a jury
+trial may be waived by the parties in all civil cases, in the manner to be prescribed by law; and in
+civil cases, if three-fourths of the jurors agree upon a verdict, it shall stand and have the same
+force and effect as a verdict by the whole jury; provided, the Legislature, by a law passed by a
+two-thirds vote of all the members elected to each branch thereof, may require a unanimous
+verdict, notwithstanding this provision.
+
+*** SEND ***
+
+*** SSTART 004.0 001.0 0 NV 1864 ***
+
+SEC. 4. The free exercise and enjoyment of religious profession and worship, without
+discrimination or preference, shall forever be allowed in this State; and no person shall be
+rendered incompetent to be a witness on account of his opinions on matters of his religious
+belief; but the liberty of conscience hereby secured shall not be so construed as to excuse acts of
+licentiousness, or justify practices inconsistent with the peace or safety of this State.
+
+*** SEND ***
+
+*** SSTART 005.0 001.0 0 NV 1864 ***
+
+SEC. 5. The privilege of the writ of habeas corpus shall not be suspended, unless when, in case
+of rebellion or invasion, the public safety may require its suspension.
+
+*** SEND ***
+
+*** SSTART 006.0 001.0 0 NV 1864 ***
+
+SEC. 6. Excessive bail shall not be required, nor excessive fines imposed; nor shall cruel or
+unusual punishments be inflicted; nor shall witnesses be unreasonably detained.
+
+*** SEND ***
+
+*** SSTART 007.0 001.0 0 NV 1864 ***
+
+SEC. 7.  All persons shall be bailable by sufficient sureties; unless for capital offenses, when the
+proof is evident, or the presumption great.
+
+*** SEND ***
+
+*** SSTART 008.0 001.0 0 NV 1864 ***
+
+SEC. 8. No person shall be tried for a capital or other infamous crime, (except in cases of
+impeachment, and in cases of the militia when in actual service, and the land and naval forces in
+time of war, or which this State may keep, with the consent of Congress, in time of peace, and in
+cases of petit larceny, under the regulation of the Legislature), except on presentment or
+indictment of a grand jury; and in any trial in any court whatever the party accused shall be
+allowed to appear and defend in person, and with counsel, as in civil actions. No person shall be
+subject to be twice put in jeopardy for the same offense; nor shall he be compelled in any
+criminal case, to be a witness against himself; nor be deprived of life, liberty, or property,
+without due process of law; nor shall private property be taken for public use without just
+compensation having been first made or secured, except in cases of war, riot, fire, or great public
+peril, in which case compensation shall be afterward made.
+
+*** SEND ***
+
+*** SSTART 009.0 001.0 0 NV 1864 ***
+
+SEC. 9. Every citizen may freely speak, write and publish his sentiments on all subjects, being
+responsible for the abuse of that right; and no law shall be passed to restrain or abridge the liberty
+of speech or of the press. In all criminal prosecutions and civil actions for libels the truth may be
+given in evidence to the jury and if it shall appear to the jury that the matter charged as libelous is
+true, and was published with good motives, and for justifiable ends, the party shall be acquitted
+or exonerated.
+
+*** SEND ***
+
+*** SSTART 010.0 001.0 0 NV 1864 ***
+
+SEC. 10. The people shall have the right freely to assemble together to consult for the common
+good, to instruct their representatives, and to petition the Legislature for redress of grievances.
+
+*** SEND ***
+
+*** SSTART 011.0 001.0 0 NV 1864 ***
+
+SEC. 11. The military shall be subordinate to the civil power. No standing army shall be
+maintained by this State in time of peace, and in time of war no appropriation for a standing army
+shall be for a longer time than two years.
+
+*** SEND ***
+
+*** SSTART 012.0 001.0 0 NV 1864 ***
+
+SEC. 12. No soldier shall, in time of peace, be quartered in any house without the consent of
+the owner, nor in time of war, except in the manner to be prescribed by law.
+
+*** SEND ***
+
+*** SSTART 013.0 001.0 0 NV 1864 ***
+
+SEC. .13. Representation shall be apportioned according to population.
+
+*** SEND ***
+
+*** SSTART 014.0 001.0 0 NV 1864 ***
+
+SEC. 14. The privilege of the debtor to enjoy the necessary comforts of life shall be recognized
+by wholesome laws, exempting a reasonable amount of property from seizure or sale for payment
+of any debts or liabilities hereafter contracted; and there shall be no imprisonment for debt,
+except in cases of fraud, libel, or slander, and no person shall be imprisoned for a militia fine in
+time of peace.
+
+*** SEND ***
+
+*** SSTART 015.0 001.0 0 NV 1864 ***
+
+SEC. 15. No bill of attainder, ex post facto law, or law impairing the obligation of contracts,
+shall ever be passed.
+
+*** SEND ***
+
+*** SSTART 016.0 001.0 0 NV 1864 ***
+
+SEC. 16. Foreigners who are, or may hereafter become, bona fide residents of this State, shall
+enjoy the same rights in respect to the possession, enjoyment and inheritance of property as
+native-born citizens.
+
+*** SEND ***
+
+*** SSTART 017.0 001.0 0 NV 1864 ***
+
+SEC. 17. Neither slavery nor involuntary servitude, unless for the punishment of crimes, shall
+ever be tolerated in this State.
+
+*** SEND ***
+
+*** SSTART 018.0 001.0 0 NV 1864 ***
+
+SEC. 18. The right of the people to be secure in their persons, houses, papers, and effects
+against unreasonable seizures and searches, shall not be violated; and no warrant shall issue but
+on probable cause, supported by oath or affirmation, particularly describing the place or places to
+be searched, and the person or persons, and thing or things to be seized.
+
+*** SEND ***
+
+*** SSTART 019.0 001.0 0 NV 1864 ***
+
+SEC. 19. Treason against the State shall consist only in levying war against it, adhering to its
+enemies, or giving them aid and comfort. And no person shall be convicted of treason, unless on
+the testimony of two witnesses to the same overt act, or on confession in open court.
+
+*** SEND ***
+
+*** SSTART 020.0 001.0 0 NV 1864 ***
+
+SEC. 20. This enumeration of rights shall not be construed to impair or deny others retained by
+the people.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 002.0 NV 1864 ***
+                  ARTICLE Il
+
+RIGHT OF SUFFRAGE
+
+*** SSTART 001.0 002.0 0 NV 1864 ***
+
+SECTION 1. Every white male citizen of the United States, (not laboring under the disabilities
+named in this Constitution,) of the age of twenty-one years and upwards, who shall have actually,
+and not constructively, resided in the State six months, and in the district or county thirty days
+next preceding any election, shall be entitled to vote for all officers that now are or hereafter may
+be elected by the people; and upon all questions submitted to the electors at such election;
+provided, that no person who has been or may be convicted of treason or felony in any State or
+Territory of the United States, unless restored to civil rights, and no person who, after arriving at
+the age of eighteen years, shall have voluntarily borne arms against the United States, or held
+civil or military office under the so-called Confederate States, or either of them, unless an
+amnesty be granted to such by the Federal Government, and no idiot or insane person, shall be
+entitled to the privilege of an elector.
+
+*** SEND ***
+
+*** SSTART 002.0 002.0 0 NV 1864 ***
+
+SEC. 2. For the purpose of voting, no person shall be deemed to have gained or last a residence
+by reason of his presence or absence while employed in the service of the United States, nor
+while engaged in the navigation of the waters of the United States or of the high seas; nor while a
+student of any seminary of learning; nor while kept at any almshouse or other asylum, at public 
+expense; nor while confined at any public prison.
+
+*** SEND ***
+
+*** SSTART 003.0 002.0 0 NV 1864 ***
+
+SEC. 3. The right of suffrage shall be enjoyed by all persons, otherwise entitled to the same, who
+may be in the military or naval service of the United States; provided, the votes so cast shall be
+made to apply to the county and township of which said voters were bona fide residents at the
+time of their enlistment; and provided further, that the payment of a poll tax or a registration of
+such voters shall not be required as a condition to the right of voting. Provision shall be made by
+law regulating the manner of voting, holding elections, and making returns of such elections,
+wherein other provisions are not contained in this Constitution.
+
+*** SEND ***
+
+*** SSTART 004.0 002.0 0 NV 1864 ***
+
+SEC. 4. During the day on which any general election shall be held in this State, no qualified
+elector shall be arrested by virtue of any civil process.
+
+*** SEND ***
+
+*** SSTART 005.0 002.0 0 NV 1864 ***
+
+SEC. 5. All elections by the people shall be by ballot, and all elections by the Legislature, or by
+either branch thereof, shall be viva voce.
+
+*** SEND ***
+
+*** SSTART 006.0 002.0 0 NV 1864 ***
+
+SEC. 6. Provision shall be made by law for the registration of the names of the electors within
+the counties of which they may be residents, and for the ascertainment, by proper proofs, of the
+persons who shall be entitled to the right of suffrage as hereby established, to preserve the purity
+of elections, and to regulate the manner of holding and making returns of the same; and the
+Legislature shall have power to prescribe by law any other or further rules or oaths as may be
+deemed necessary as a test of electoral qualifications.
+
+*** SEND ***
+
+*** SSTART 007.0 002.0 0 NV 1864 ***
+
+SEC. 7. The Legislature shall provide by law for the payment of an annual poll tax, of not less
+than two nor exceeding four dollars, from each male person resident in the State between the
+ages of twenty-one and sixty years (uncivilized American Indians excepted), one-half to be
+applied for State and one-half for county purposes; and the Legislature may, in its discretion,
+make such payment a condition to the right of voting.
+
+*** SEND ***
+
+*** SSTART 008.0 002.0 0 NV 1864 ***
+
+SEC. 8. All persons qualified by law to vote for representatives to the General Assembly of the
+Territory of Nevada, on the twenty-first day of March, A. D. eighteen hundred and sixty-four,
+and all other persons who may be lawful voters in said Territory on the first Wednesday of
+September next following, shall be entitled to vote directly upon the question of adopting or
+rejecting this Constitution.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 003.0 NV 1864 ***
+                 ARTICLE III
+              DISTRIBUTION OF POWERS
+
+*** SSTART 001.0 003.0 0 NV 1864 ***
+
+SECTION 1. The powers of the Government of the State of Nevada shall be divided into three
+separate departments   the Legislative, the Executive and the Judicial; and no person charged
+with the exercise of powers properly belonging to one of these departments shall exercise any
+functions appertaining to either of the others, except in the cases herein expressly directed or
+permitted.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 004.0 NV 1864 ***
+                 ARTICLE IV
+
+              LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.0 004.0 0 NV 1864 ***
+
+SECTION I. The legislative authority of this State shall be vested in a Senate and Assembly,
+which shall be designated "The Legislature of the State of Nevada," and the sessions of such
+Legislature shall be held at the seat of Government of the State.
+
+*** SEND ***
+
+*** SSTART 002.0 004.0 0 NV 1864 ***
+
+SEC. 2. The sessions of the Legislature shall be biennial, and shall commence on the first
+Monday of January next ensuing the election of members of the Assembly, unless the Governor
+of the State shall, in the interim, convene the Legislature by proclamation.
+
+*** SEND ***
+
+*** SSTART 003.0 004.0 0 NV 1864 ***
+
+SEC. 3. The members of the Assembly shall be chosen biennially, by the qualified electors of
+their respective districts, on the Tuesday next after the first Monday in November, and their term
+of office shall be two years from the day next after their election.
+
+*** SEND ***
+
+*** SSTART 004.0 004.0 0 NV 1864 ***
+
+SEC. 4. Senators shall be chosen at the same time and places as members of the Assembly, by
+the qualified electors of their respective districts, and their term of office shall be four years from
+the day next after their election.
+
+*** SEND ***
+
+*** SSTART 005.0 004.0 0 NV 1864 ***
+
+SEC. 5. Senators and members of the Assembly shall be duly qualified electors in the respective
+counties and districts which they represent, and the number of Senators shall not be less than
+one-third nor more than one-half of that of the members of the Assembly.
+
+*** SEND ***
+
+*** SSTART 006.0 004.0 0 NV 1864 ***
+
+SEC. 6. Each House shall judge of the qualifications, elections, and returns of its own members,
+choose its own officers (except the President of the Senate), determine the rules of its
+proceedings, and may punish its members for disorderly conduct, and, with the concurrence of
+two-thirds of all the members elected, expel a member.
+
+*** SEND ***
+
+*** SSTART 007.0 004.0 0 NV 1864 ***
+
+SEC. 7. Either House, during the session, may punish, by imprisonment, any person, not a
+member, who shall have been guilty of disrespect, to the House by disorderly or contemptuous
+behavior in its presence; but such imprisonment shall not extend beyond the final adjournment of
+the session.
+
+*** SEND ***
+
+*** SSTART 008.0 004.0 0 NV 1864 ***
+
+Sec. 8. No Senator or member of Assembly shall, during the term for which he shall have been
+elected, nor for one year thereafter, be appointed to any civil office of profit under this State
+which shall have been created, or the emoluments of which shall have been increased, during
+such term, except such office as may be filled by elections by the people.
+
+*** SEND ***
+
+*** SSTART 009.0 004.0 0 NV 1864 ***
+
+SEC. 9. No person holding any lucrative office under the Government of the United States, or
+any other power, shall be eligible to any civil office of profit under this State; provided, that
+Postmasters whose compensation does not exceed five hundred dollars per annum or
+Commissioners of Deeds, shall not be deemed as holding a lucrative office.
+
+*** SEND ***
+
+*** SSTART 010.0 004.0 0 NV 1864 ***
+
+SEC. 10. Any person who shall be convicted of the embezzlement or defalcation of the public
+funds of this State, or who may be convicted of having given or offered a bribe to procure his
+election or appointment to office, or received a bribe to aid in the procurement of office for any
+other person, shall be disqualified from holding any office of profit or trust in this State. And the
+Legislature shall, as soon practicable, provide by law for the punishment of such defalcation,
+bribery, or embezzlement as a felony.
+
+*** SEND ***
+
+*** SSTART 011.0 004.0 0 NV 1864 ***
+
+SEC 11 Members of the Legislature shall, be privileged from arrest on civil process during the
+session of the Legislature, and for fifteen days next before the commencement of each session.
+
+*** SEND ***
+
+*** SSTART 012.0 004.0 0 NV 1864 ***
+
+SEC. 12. When vacancies occur in either House, the Governor shall issue writs of election to fill
+such vacancy.
+
+*** SEND ***
+
+*** SSTART 013.0 004.0 0 NV 1864 ***
+
+SEC. 13. A majority of all the members elected to each House shall constitute a quorum to
+transact business, but a smaller number may adjourn, from day to day, and may compel the
+attendance of absent members in such manner and under such penalties as each House may
+prescribe.
+
+*** SEND ***
+
+*** SSTART 014.0 004.0 0 NV 1864 ***
+
+SEC. 14. Each House shall keep a Journal of its own proceedings, which shall be published, and
+the yeas and nays of the members of either House, on any question, shall, at the desire of any
+three members present, be entered on the Journal.
+
+*** SEND ***
+
+*** SSTART 015.0 004.0 0 NV 1864 ***
+
+SEC. 15. The doors of each House shall be kept open during its session, except the Senate while
+sitting in Executive Session; and neither shall, without the consent of the other, adjourn for more
+than three days, nor to any other place than that in which they may be holding their sessions.
+
+*** SEND ***
+
+*** SSTART 016.0 004.0 0 NV 1864 ***
+
+SEC. 16. Any bill may originate in either House of the Legislature, and all bills passed by one
+may be amended in the other.
+
+*** SEND ***
+
+*** SSTART 017.0 004.0 0 NV 1864 ***
+
+SEC. 17. Each law enacted by the Legislature shall embrace but one subject, and matter
+properly connected therewith, which subject shall be briefly expressed in the title; and no law
+shall be revised or amended by reference to its title only; but, in such case, the act as revised, or
+section as amended, shall be re-enacted and published at length.
+
+*** SEND ***
+
+*** SSTART 018.0 004.0 0 NV 1864 ***
+
+SEC. 18. Every bill shall be read by sections on three several days in each House, unless, in case
+of emergency, two-thirds of the House where such bill may be pending shall deem it expedient to
+dispense with this rule; but the reading of a bill by sections, on its final passage, shall in no case
+be dispensed with, and the vote on the final passage of every bill or joint resolution shall be taken
+by yeas and nays, to be entered on the journals of each House; and a majority of all the members
+elected to each House shall be necessary to pass every bill or joint resolution, and all bills or joint
+resolutions so passed shall be signed by the presiding officers of the respective Houses, and by
+the Secretary of the Senate and Clerk of the Assembly.
+
+*** SEND ***
+
+*** SSTART 019.0 004.0 0 NV 1864 ***
+
+SEC. 19. No money shall be drawn from the Treasury but in consequence of appropriations
+made by law.  An accurate statement of the receipts and expenditures of the public money shall
+be attached to and published with the laws at every regular session of the Legislature.
+
+*** SEND ***
+
+*** SSTART 020.0 004.0 0 NV 1864 ***
+
+Sec. 20. The Legislature shall not pass local or special laws in any of the following
+enumerated cases-that is to say: 
+     Regulating the jurisdiction and duties of the Justices of the Peace and of Constables; 
+     For the punishment of crimes and misdemeanors; 
+     Regulating the practice of Courts of Justice; 
+     Providing for changing the venue in civil and criminal cases; 
+     Granting divorces;
+     Changing the names of persons; 
+     Vacating roads, town plots, streets, alleys and public squares;
+     Summoning and empanneling grand and petit juries, and providing for their
+compensation;
+     Regulating county and township business; 
+     Regulating the election of county and township officers;
+     For the assessment and collection of taxes for State, county and township purposes;
+     Providing for opening and conducting elections of State, county and township officers,
+and designating the places of voting; 
+     Providing for the sale of real estate or personal property belonging to minors or
+other persons laboring under legal disabilities
+.
+*** SEND ***
+
+*** SSTART 021.0 004.0 0 NV 1864 ***
+
+SEC. 21. In all cases enumerated in the preceding section, and in all other cases where a
+general law can be made applicable, all laws shall be general and of uniform operation
+throughout the State.
+
+*** SEND ***
+
+*** SSTART 022.0 004.0 0 NV 1864 ***
+
+SEC. 22. Provision may be made by general law for bringing suit against the State, as to all
+liabilities originating after the adoption of this Constitution.
+
+*** SEND ***
+
+*** SSTART 023.0 004.0 0 NV 1864 ***
+
+SEC. 23. The enacting clause of every law shall be as follows:  "The People of the State of
+Nevada, represented in Senate and Assembly, do enact as follows;" and no law shall be enacted
+except by bill.
+
+*** SEND ***
+
+*** SSTART 024.0 004.0 0 NV 1864 ***
+
+SEC. 24. No lottery shall be authorized by this State, nor shall the sale of lottery tickets be
+allowed.
+
+*** SEND ***
+
+*** SSTART 025.0 004.0 0 NV 1864 ***
+
+SEC. 25. The Legislature shall establish a system of county and township government, which
+shall be uniform throughout the State.
+
+*** SEND ***
+
+*** SSTART 026.0 004.0 0 NV 1864 ***
+
+SEC. 26. The Legislature shall provide by law for the election of a Board of County
+Commissioners in each county, and such County Commissioners shall, jointly and individually,
+perform such duties as may be prescribed by law.
+
+*** SEND ***
+
+*** SSTART 027.0 004.0 0 NV 1864 ***
+
+SEC. 27. Laws shall be made to exclude from serving on juries all persons not qualified electors
+of this State, and all persons who shall have been convicted of bribery, perjury, forgery, larceny,
+or other high crimes, unless restored to civil rights; and laws shall be passed regulating elections,
+and prohibiting under adequate penalties, all undue influence thereon from power, bribery,
+tumult, or other improper practice.
+
+*** SEND ***
+
+*** SSTART 028.0 004.0 0 NV 1864 ***
+
+SEC. 28. No money shall be drawn from the State Treasury as salary or compensation to any
+officer or employee of the Legislature, or either branch thereof, except in cases where such salary
+or compensation has been fixed by a law in force prior to the election or appointment of such
+officer or employee, and the salary or compensation so fixed shall neither be increased nor
+diminished so as to apply to any officer or employee of the Legislature, or either branch thereof,
+at such session; provided, that this restriction shall not apply to the first session of the
+Legislature.
+
+*** SEND ***
+
+*** SSTART 029.0 004.0 0 NV 1864 ***
+
+SEC. 29. The first regular session of the Legislature, under this Constitution, may extend to
+ninety days, but no subsequent regular session shall exceed sixty days, nor any special session
+convened by the Governor exceed twenty days.
+
+*** SEND ***
+
+*** SSTART 030.0 004.0 0 NV 1864 ***
+
+SEC. 30. A homestead, as provided by law, shall be exempt from forced sale under any process
+of law, and shall not be alienated without the joint consent of husband and wife, when that
+relation exists; but no property shall be exempt from sale for taxes or for the payment of
+obligations contracted for the purchase of said premises, or for the erection of improvements
+thereon; provided, the provisions of this section shall not apply to any process of law obtained by
+virtue of a lien given by the consent of both husband and wife, and laws shall be enacted
+providing for the recording of such homestead within the county in which the same shall be
+situated.
+
+*** SEND ***
+
+*** SSTART 031.0 004.0 0 NV 1864 ***
+
+SEC. 31. All property, both real and personal, of the wife, owned or claimed by her before
+marriage, and that acquired afterward by gift, devise or descent, shall be her separate property;
+and laws shall be passed, more clearly defining the rights of the wife in relation, as well to her
+separate property as to that held in common with her husband. Laws shall also be passed
+providing for the registration of the wife's separate property.
+
+*** SEND ***
+
+*** SSTART 032.0 004.0 0 NV 1864 ***
+
+SEC. 32. The Legislature shall provide for the election, by the people of a Clerk of the Supreme
+Court, County Clerks, County Recorders   who shall be, ex officio, County Auditors   District
+Attorneys, Sheriffs, County Surveyors, Public Administrators, and other necessary officers, and
+fix, by law, their duties and compensation.  County Clerks shall be, ex officio, Clerks of the
+Courts of Record, and of the Boards of County Commissioners, in and for their respective
+counties.
+
+*** SEND ***
+
+*** SSTART 033.0 004.0 0 NV 1864 ***
+
+SEC. 33. The members of the Legislature shall receive for their services, a compensation to be
+fixed by law, and paid out of the public treasury; but no increase of such compensation shall take
+effect during the term for which the members of either House shall have been elected; provided,
+that an appropriation may be made for the payment of such actual expenses as members of the
+Legislature may incur for postage, express charges, newspapers and stationery, not exceeding the
+sum of sixty dollars for any general or special session, to each member; and furthermore
+provided, that the Speaker of the Assembly, and Lieutenant-Governor, as President of the Senate,
+shall each, during the time of their actual attendance as such presiding officers, receive an
+additional allowance of two dollars per diem.
+
+*** SEND ***
+
+*** SSTART 034.0 004.0 0 NV 1864 ***
+
+SEC. 34. In all elections for United States Senators, such elections shall be held in joint
+convention of both Houses of the Legislature. It shall be the duty of the Legislature which
+convenes next preceding the expiration of the term of such Senator to elect his successor.  If
+a vacancy in such Senatorial representation from any cause occur, it shall be the duty of the
+Legislature then in session, or at the succeeding session thereof, to supply such vacancy. If the
+Legislature shall, at any time, as herein provided, fail to unite in a joint convention within twenty
+days after the commencement of the session of the Legislature for the election of such Senator,
+it shall be the duty of the Governor, by proclamation, to convene the two Houses of the
+Legislature in joint convention within not less than five days, nor exceeding ten days, from the
+publication of his proclamation, and the joint convention when so assembled shall proceed to
+elect the Senator as herein provided.
+
+*** SEND ***
+
+*** SSTART 035.0 004.0 0 NV 1864 ***
+
+SEC. 35. Every bill which may have passed the Legislature shall, before it becomes a law, be
+presented to the Governor. If he approve it, he shall sign it; but if not, he shall return it, with his
+objections, to the House in which it originated, which House shall cause such objections to be
+entered upon its journal, and proceed to reconsider it.  If, after such reconsideration, it again pass
+both Houses by yeas and nays, by a vote of two-thirds of the members elected to each House, it
+shall become a law, notwithstanding the Governor's objections. If any bill shall not be returned
+within five days after it shall have been presented to him (Sundays excepted.) exclusive of the
+day on which he received it, the same shall be a law in like manner as if he had signed it, unless
+the Legislature, by its final adjournment, prevent such return; in which case it shall be a law,
+unless the Governor, within ten days next after the adjournment, (Sundays excepted,) shall file
+such bill, with his objections thereto, in the office of the Secretary of State, who shall lay the
+same before the Legislature at its next session, in like manner as if it had been returned by the
+Governor; and if the same shall receive the vote of two-thirds of the members elected to each
+branch of the Legislature, upon a vote taken by yeas and nays, to be entered upon the journals of
+each House, it shall become a law.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 005.0 NV 1864 ***
+ARTICLE V
+
+              EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 005.0 0 NV 1864 ***
+
+SECTION 1. The supreme executive power of this State shall be vested in a Chief Magistrate,
+who shall be Governor of the State of Nevada.
+
+*** SEND ***
+
+*** SSTART 002.0 005.0 0 NV 1864 ***
+
+SEC. 2. The Governor shall be elected by the qualified electors at the time and places of voting
+for members of the Legislature, and shall hold his office for four years from the time of his
+installation, and until his successor shall be qualified.
+
+*** SEND ***
+
+*** SSTART 003.0 005.0 0 NV 1864 ***
+
+SEC. 3. No person shall be eligible to the office of Governor who is not a qualified elector, and
+who, at the time of such election, has not attained the age of twenty-five years, and who, except
+at the first election under this Constitution, shall not have been a citizen resident of this State for
+two years next preceding the election.
+
+*** SEND ***
+
+*** SSTART 004.0 005.0 0 NV 1864 ***
+
+SEC. 4. The returns of every election for Governor, and other State officers voted for at the
+general election, shall be sealed up and transmitted to the seat of government, directed to the
+Secretary of State; and on the third Monday of December succeeding such election, the Chief
+Justice of the Supreme Court, and the Associate Justices, or a majority thereof, shall meet at the
+office of the Secretary of State, and open and canvass the election returns for Governor and all
+other State officers, and forthwith declare the result and publish the names of the persons elected.
+The persons having the highest number of votes for the respective offices shall be declared
+elected; but in case any two or more have an equal and the highest number of votes for the same
+office, the Legislature shall, by joint vote of both houses, elect one of said persons to fill said
+office.
+
+*** SEND ***
+
+*** SSTART 005.0 005.0 0 NV 1864 ***
+
+SEC. 5. The Governor shall be Commander-in-Chief of the military forces of this State, except
+when they shall be called into the service of the United States.
+
+*** SEND ***
+
+*** SSTART 006.0 005.0 0 NV 1864 ***
+
+SEC. 6. He shall transact all executive business with the officers of the government, civil and
+military, and may require information in writing from the officers of the executive department
+upon any subject relating to the duties of their respective offices.
+
+*** SEND ***
+
+*** SSTART 007.0 005.0 0 NV 1864 ***
+
+SEC. 7. He shall see that the laws are faithfully executed.
+
+*** SEND ***
+
+*** SSTART 008.0 005.0 0 NV 1864 ***
+
+SEC. 8. When any office shall, from any cause, become vacant, and no mode is provided by the
+Constitution and laws for filling such vacancy, the Governor shall have the power to fill such
+vacancy by granting a commission, which shall expire at the next election and qualification of the
+person elected to such office.
+
+*** SEND ***
+
+*** SSTART 009.0 005.0 0 NV 1864 ***
+
+SEC. 9. The Governor may, on extraordinary occasions, convene the Legislature by
+proclamation, and shall state to both houses, when organized, the purpose for which they have
+been convened; and the Legislature shall transact no legislative business except that for which
+they were especially convened, or such other legislative business as the Governor may call to the
+attention of the Legislature while in session.
+
+*** SEND ***
+
+*** SSTART 010.0 005.0 0 NV 1864 ***
+
+SEC. 10. He shall communicate, by message, to the Legislature, at every regular session, the
+condition of the State, and recommend such measures as he may deem expedient.
+
+*** SEND ***
+
+*** SSTART 011.0 005.0 0 NV 1864 ***
+
+SEC. 11. In case of a disagreement between the two houses, with respect to the time of
+adjournment, the Governor shall have power to adjourn the Legislature to such time as he may
+think proper; provided, it be not beyond the time fixed for the meeting of the next Legislature.
+
+*** SEND ***
+
+*** SSTART 012.0 005.0 0 NV 1864 ***
+
+SEC. 12. No person shall, while holding any office under the United States Government, hold the
+office of Governor, except as herein expressly provided.
+
+*** SEND ***
+
+*** SSTART 013.0 005.0 0 NV 1864 ***
+
+SEC. 13. The Governor shall have the power to suspend the collection of fines and forfeitures,
+and grant reprieves for a period not exceeding sixty days, dating from the time of conviction, for
+all offenses, except in cases of impeachment. Upon conviction for treason, he shall have power to
+suspend the execution of the sentence until the case shall be reported to the Legislature at its next
+meeting, when the Legislature shall either pardon, direct the execution of the sentence, or grant a
+further reprieve.  And if the Legislature shall fail or refuse to make final disposition of such case,
+the sentence shall be enforced at such time and place as the Governor by his order may direct.
+The Governor shall communicate to the Legislature, at the beginning of every session, every case
+of fine or forfeiture remitted, or reprieve, pardon or commutation granted, stating the name of the
+convict, the crime of which he was convicted, the sentence, its date, and the date of the
+remission, commutation, pardon or reprieve.
+
+*** SEND ***
+
+*** SSTART 014.0 005.0 0 NV 1864 ***
+
+SEC. 14. The Governor, Justices of the Supreme Court and Attorney-General, or a major part
+of them, of whom the Governor shall be one, may, upon such conditions and with such
+limitations and restrictions as they may think proper, remit fines and forfeitures, commute
+punishments and grant pardons, after convictions, in all cases, except treason and impeachments,
+subject to such regulations as may be provided by law relative to the manner of applying for
+pardons.
+
+*** SEND ***
+
+*** SSTART 015.0 005.0 0 NV 1864 ***
+
+SEC. 15. There shall be a seal of this State, which shall be kept by the Governor, and used by
+him officially, and shall be called, "The Great Seal of the State of Nevada."
+
+*** SEND ***
+
+*** SSTART 016.0 005.0 0 NV 1864 ***
+
+SEC. 16. All grants and commissions shall be in the name and by the authority of the State of
+Nevada, sealed with the Great Seal of the State, signed by the Governor, and countersigned by
+the Secretary of State.
+
+*** SEND ***
+
+*** SSTART 017.0 005.0 0 NV 1864 ***
+
+SEC. 17. A Lieutenant-Governor shall be elected at the same time and places, and in the same
+manner as the Governor, and his term of office and his eligibility shall also be the same. He shall
+be President of the Senate, but shall only have a casting vote therein. If, during a vacancy of the
+office of Governor, the Lieutenant-Governor shall be impeached, displaced, resign, die, or
+become incapable of performing the duties of the office, or be absent from the State, the
+President pro tempore of the Senate shall act as Governor, until the vacancy be filled or the
+disability cease.
+
+*** SEND ***
+
+*** SSTART 018.0 005.0 0 NV 1864 ***
+
+SEC. 18. In case of the impeachment of the Governor, or his removal from office, death,
+inability to discharge the duties of the said office, resignation or absence from the State, the
+powers and duties of the office shall devolve upon the Lieutenant-Governor for the residue of the
+term, or until the disability shall cease. But when the Governor shall, with the consent of the
+Legislature, be out of the State in time of war, and at the head of any military force thereof, he
+shall continue Commander-in-Chief of the military forces of the State.
+
+*** SEND ***
+
+*** SSTART 019.0 005.0 0 NV 1864 ***
+
+SEC. 19. A Secretary of State, a Treasurer, a Controller, a Surveyor-General, and an Attorney-
+General, shall be elected at the same time and places, and in the same manner as the Governor.
+The term of office of each shall be the same as is prescribed for the Governor. Any elector shall
+be eligible to either of said offices.
+
+*** SEND ***
+
+*** SSTART 020.0 005.0 0 NV 1864 ***
+
+SEC. 20. The Secretary of State shall keep a true record of the official acts of the Legislative
+and Executive Departments of the Government, and shall, when required, lay the same, and all
+matters relative thereto, before either branch of the Legislature.
+
+*** SEND ***
+
+*** SSTART 021.0 005.0 0 NV 1864 ***
+
+SEC. 21. The Governor, Secretary of State, and Attorney-General shall constitute a Board of
+State Prison Commissioners, which Board shall have such supervision of all matters connected
+with the State Prison as may be provided by law. They shall also constitute a Board of
+Examiners, with power to examine all claims against the State, (except salaries or compensation
+of officers fixed by law,) and perform such other duties as may be prescribed by law.  And no
+claim against the State (except salaries or compensation of officers fixed by law) shall be passed
+upon by the Legislature, without having been considered and acted upon by said "Board of
+Examiners."
+
+*** SEND ***
+
+*** SSTART 022.0 005.0 0 NV 1864 ***
+
+SEC. 22. The Secretary of State, State Treasurer, State Controller, Surveyor-General,
+Attorney-General and Superintendent of Public Instruction, shall perform such other duties as
+may be prescribed by law.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 006.0 NV 1864 ***
+ARTICLE VI
+JUDICIAL DEPARTMENT
+
+*** SSTART 001.0 006.0 0 NV 1864 ***
+
+SECTION 1. The Judicial power of this State shall be vested in a Supreme Court, District
+Courts, and in Justices of the Peace. The Legislature may also establish courts for municipal
+purposes only, in incorporated cities and towns.
+
+*** SEND ***
+
+*** SSTART 002.0 006.0 0 NV 1864 ***
+
+SEC. 2. The Supreme Court shall consist of a Chief Justice and two Associate Justices, a
+majority of whom shall constitute a quorum; provided, that the Legislature, by a majority of all
+the members elected to each branch thereof, may provide for the election of two additional
+Associate Justices, and if so increased, three shall constitute a quorum. The concurrence of a
+majority of the whole Court shall be necessary to render a decision.
+
+*** SEND ***
+
+*** SSTART 003.0 006.0 0 NV 1864 ***
+
+SEC.3. The Justices of the Supreme Court shall be elected by the qualified electors of the State at
+the general election, and shall hold office for the term of six years from and including the first
+Monday of January next succeeding their election; provided, that there shall be elected, at the
+first election under this Constitution, three Justices of the Supreme Court, who shall hold office
+from and including the first Monday of December, A. D. eighteen hundred and sixty-four, and
+continue in office thereafter two, four and six years, respectively, from and including the first
+Monday of January next succeeding their election. They shall meet as soon as practicable after
+their election and qualification, and at their first meeting shall determine, by lot, the term of
+office each shall fill, and the Justice drawing the shortest term shall be Chief Justice, and after
+the expiration of his term, the one having the next shortest term shall be Chief Justice after which
+the senior Justice in commission shall be Chief Justice.  And in case the commission of any two
+or more of said Justices shall bear the same date, they shall determine by lot who shall be Chief
+Justice.
+
+*** SEND ***
+
+*** SSTART 004.0 006.0 0 NV 1864 ***
+
+SEC. 4. The Supreme Court shall have appellate jurisdiction in all cases in equity; also, in all
+cases at law in which is involved the title or right of possession to, or the possession of, real
+estate or mining claims, or the legality of any tax, impost, assessment, toll or municipal fine, or
+in which the demand, (exclusive of interest,) or the value of the property in controversy exceeds
+three hundred dollars; also, in all other civil cases not included in the general subdivisions of law
+and equity, and also, on questions of law alone, in all criminal cases in which the offense charged
+amounts to felony. The Court shall also have power to issue writs of mandamus, certiorari,
+prohibition, quo warranto, and habeas corpus, and also, all writs necessary or proper to the
+complete exercise of its appellate jurisdiction. Each of the Justices shall have power to issue
+writs of habeas corpus to any part of the State, upon petition by, or on behalf of, any person held
+in actual custody, and may make such writs returnable before himself or the Supreme Court, or
+before any District Court in the State, or before any Judge of said Courts.
+
+*** SEND ***
+
+*** SSTART 005.0 006.0 0 NV 1864 ***
+
+SEC. 5. The State is hereby divided into nine Judicial Districts, of which the County of Storey
+shall constitute the first; the County of Ormsby the second; the County of Lyon the third; the
+County of Washoe the fourth; the Counties of Nye and Churchill the fifth; the County of
+Humboldt the sixth; the County of Lander the seventh; the County of Douglas the eighth, and the
+County of Esmeralda the ninth. The County of Roop shall be attached to the County of Washoe
+for judicial purposes, until otherwise provided by law. The Legislature may, however, provide by
+law for an alteration in the boundaries or divisions of the districts herein prescribed, and also for
+increasing or diminishing the number of the judicial districts and Judges therein. But no change
+shall take effect, except in case of a vacancy, or the expiration of the term of an incumbent of the
+office. At the first general election, under this Constitution, there shall be elected in each of the
+respective districts, (except as in this section hereafter otherwise provided,) one District Judge,
+who shall hold office from and including the first Monday of December, A. D. eighteen hundred
+and sixty-four, and until the first Monday of January, in the year eighteen hundred and
+sixty-seven; after the said first election, there shall be elected at the general election which
+immediately precedes the expiration of the term of his predecessor, one District Judge in each the
+respective Judicial Districts, (except in the first district, as in this section hereinafter provided.)
+The District Judges shall be elected by the qualified electors of their respective districts and shall
+hold office for the term of four years, (excepting those elected at said first election,) from and
+including the first Monday in January next succeeding their election and qualification; provided,
+that the First Judicial District shall be entitled to, and shall have, three District Judges, who shall
+possess coextensive and concurrent jurisdiction, and who shall be elected at the same times, in
+the same manner, and shall hold office for the like terms as herein prescribed in relation to the
+Judges in other Judicial Districts. Any one of said Judges may preside on the empanneling of
+grand juries, and the presentment and trial on indictments, under such rules and regulations as
+may be prescribed by law.
+
+*** SEND ***
+
+*** SSTART 006.0 006.0 0 NV 1864 ***
+
+SEC. 6. The District Courts in the several Judicial Districts of this State shall have original
+jurisdiction in all cases in equity; also, in all cases at law which involve the title or the right of
+possession to, or the possession of, real property or mining claims, or the legality of any tax,
+impost, assessment, toll or municipal fine, and in any other cases in which the demand (exclusive
+of interest) or the value of the property in controversy exceeds three hundred dollars; also, in all
+cases relating to the estates of deceased persons, and the persons and estates of minors and insane
+persons, and of the action of forcible entry and unlawful detainer; and also, in all criminal cases
+not otherwise provided for by law.  They shall, also, have final appellate jurisdiction in cases
+arising in Justices' Courts, and such other inferior tribunals as may be established by law. The
+District Courts and the Judges thereof shall have power to issue writs of mandamus, injunction,
+quo warranto, certiorari, and all other writs proper and necessary to the complete exercise of their
+jurisdiction; and also shall have power to issue writs of habeas corpus on petition by or on behalf
+of, any person held in actual custody in their respective districts.
+
+*** SEND ***
+
+*** SSTART 007.0 006.0 0 NV 1864 ***
+
+SEC. 7. The times of holding the Supreme Court, and District Courts, shall be as fixed by law.
+The terms of the Supreme Court shall be held at the seat of government, and the terms of the
+District Courts shall be held at the county seats of their respective counties; provided, that in case
+any county shall be hereafter divided into two or more districts, the Legislature may, by law,
+designate the places of holding courts in any such districts.
+
+*** SEND ***
+
+*** SSTART 008.0 006.0 0 NV 1864 ***
+
+SEC. 8. The Legislature shall determine the number of Justices of the Peace to be elected in
+each city and township of the State, and shall fix, by law, their powers, duties and
+responsibilities;
+provided, that such Justices' Courts shall not have jurisdiction of the following cases, viz: 
+First    Of cases in which the matter in dispute is a money demand or personal property, and the
+amount of the demand, (exclusive of interest,) or the value of the property, exceeds three hundred
+dollars.
+Second   Of cases wherein the title to real estate, or mining claims, or questions of boundaries
+to land, is or may be involved; or, of cases that in any manner shall conflict with the jurisdiction
+of the several Courts of Record in this State.  And provided further, that Justices' Courts shall
+have such criminal jurisdiction as may be prescribed by law; and the Legislature may confer upon
+said courts jurisdiction concurrent with the District Courts, of actions to enforce mechanics' liens
+wherein the amount (exclusive of interest) does not exceed three hundred dollars; and, also, of
+actions for the possession of lands and tenements, where the relation of landlord and tenant
+exists, or when such possession has been unlawfully or fraudulently obtained or withheld. The
+Legislature shall also prescribe, by law, the manner, and determine the cases in which appeals
+may be taken from Justices' and other Courts. The Supreme Court, the District Courts, and such
+other courts as the Legislature shall designate, shall be Courts of Record.
+
+*** SEND ***
+
+*** SSTART 009.0 006.0 0 NV 1864 ***
+
+SEC. 9. Provision shall be made by law prescribing the powers, duties, and responsibilities of
+any Municipal Court that may be established in pursuance of Section 1 of this Article; and also
+fixing, by law, the jurisdiction of said court, so as not to conflict with that of the several Courts
+of Record.
+
+*** SEND ***
+
+*** SSTART 010.0 006.0 0 NV 1864 ***
+
+SEC. 10. No judicial officer, except Justices of the Peace and City Recorders, shall receive, to
+his own use, any fees or perquisites of office.
+
+*** SEND ***
+
+*** SSTART 011.0 006.0 0 NV 1864 ***
+
+SEC. 11. The Justices of the Supreme Court and the District Judges shall be ineligible to any
+office, other than a judicial office, during the term for which they shall have been elected; and all
+elections or appointments of any such Judges by the people, Legislature, or otherwise, during
+said period, to any office other than judicial, shall be void.
+
+*** SEND ***
+
+*** SSTART 012.0 006.0 0 NV 1864 ***
+
+SEC. 12. Judges shall not charge juries in respect to matters of fact, but may state the testimony
+and declare the law.
+
+*** SEND ***
+
+*** SSTART 013.0 006.0 0 NV 1864 ***
+
+SEC. 13. The style of all process shall be "The State of Nevada," and all prosecutions shall be
+conducted in the name and by the authority of the same.
+
+*** SEND ***
+
+*** SSTART 014.0 006.0 0 NV 1864 ***
+
+SEC. 14. There shall be but one form of civil action, and law and equity may be administered in
+the same action.
+
+*** SEND ***
+
+*** SSTART 015.0 006.0 0 NV 1864 ***
+
+SEC. 15. The. Justices of the Supreme Court and District Judges shall each receive quarterly,
+for their services, a compensation to be fixed by law, and which shall not be increased or
+diminished during the term for which they shall have been elected, unless in case a vacancy
+occurs, in which case the successor of the former incumbent shall receive only such salary as
+may be provided by law at the time of his election or appointment; and provision shall be made
+by law for setting apart from each year's revenue a sufficient amount of money to pay such
+compensation; provided, that District Judges shall be paid out of the County Treasuries of the
+counties composing their respective districts.
+
+*** SEND ***
+
+*** SSTART 016.0 006.0 0 NV 1864 ***
+
+SEC. 16. The Legislature, at its first session, and from time to time thereafter, shall provide by
+law, that upon the institution of each civil action, and other proceedings, and also upon the
+perfecting of an appeal in any civil action or proceeding in the several Courts of Record in this
+State, a special court-fee or tax shall be advanced to the clerks of said courts, respectively, by the
+party or parties bringing such action or proceeding, or taking such appeal; and the money so paid
+in shall be accounted for by such clerks, and applied towards the payment of the compensation of
+the Judges of said courts, as shall be directed by law.
+
+*** SEND ***
+
+*** SSTART 017.0 006.0 0 NV 1864 ***
+
+SEC. 17. The Legislature shall have no power to grant leave of absence to a judicial officer,
+and any such officer who shall absent himself from the State for more than ninety consecutive
+days, shall be deemed to have vacated his office.
+
+*** SEND ***
+
+*** SSTART 018.0 006.0 0 NV 1864 ***
+
+SEC. 18. No judicial officer shall be superseded, nor shall the organization of the several
+courts of the Territory of Nevada be changed, until the election and qualification of the several
+officers provided for in this article.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 007.0 NV 1864 ***
+ARTICLE VII
+
+IMPEACHMENT AND REMOVAL FROM OFFICE
+
+*** SSTART 001.0 007.0 0 NV 1864 ***
+
+SECTION 1. The Assembly shall have the sole power of impeaching. The concurrence of a
+majority of all the members elected shall be necessary to an impeachment.   All impeachments
+shall be tried by the Senate, and when sitting for that purpose, the Senators shall be upon oath or
+affirmation to do justice, according to law and evidence.  The Chief Justice of the Supreme Court
+shall preside over the Senate while sitting to try the Governor or Lieutenant-Governor, upon
+impeachment.  No person shall be convicted without the concurrence of two-thirds of the
+Senators elected.
+
+*** SEND ***
+
+*** SSTART 002.0 007.0 0 NV 1864 ***
+
+SEC. 2. The Governor and other State and Judicial officers, except Justices of the Peace, shall
+be liable to impeachment for misdemeanor or malfeasance in office; but judgment in such case
+shall not extend further than removal from office, and disqualification to hold any office of
+honor, profit, or trust, under this State. The party, whether convicted or acquitted, shall
+nevertheless be liable to indictment, trial, judgment, and punishment according to law.
+
+*** SEND ***
+
+*** SSTART 003.0 007.0 0 NV 1864 ***
+
+SEC. 3. For any reasonable cause, to be entered on the journals of each House, which may or
+may not be sufficient grounds for impeachment, the Chief Justice and Associate Justices of the
+Supreme Court, and Judges of the District Courts, shall be removed from office on the vote of
+two-thirds of the members elected to each branch of the Legislature, and the Justice or Judge
+complained of shall be served with a copy of the complaint against him, and shall have an
+opportunity of being heard in person or by counsel, in his defense; provided, that no member of
+either branch of the Legislature shall be eligible to fill the vacancy occasioned by such removal.
+
+*** SEND ***
+
+*** SSTART 004.0 007.0 0 NV 1864 ***
+
+SEC. 4. Provision shall be made by law for the removal from office of any civil officer, other
+than those in this article previously specified, for malfeasance or nonfeasance in the performance
+of his duties.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 008.0 NV 1864 ***
+ARTICLE VIII
+MUNICIPAL AND OTHER CORPORATIONS
+
+*** SSTART 001.0 008.0 0 NV 1864 ***
+
+SECTION 1. The Legislature shall pass no special Act in any matter relating to corporate powers
+except for municipal purposes; but corporations may be formed under general laws; and all such
+laws may, from time to time, be altered or repealed.
+
+*** SEND ***
+
+*** SSTART 002.0 008.0 0 NV 1864 ***
+
+SEC. 2. All real property, and possessory rights to the same, as well as personal property in this
+State, belonging to corporations now existing, or hereafter created, shall be subject to taxation
+the same as property, of individuals; provided, that the property of corporations formed for
+municipal, charitable, religious, or educational purposes may be exempted by law.
+
+*** SEND ***
+
+*** SSTART 003.0 008.0 0 NV 1864 ***
+
+SEC. 3. Dues from corporations shall be secured by such means as may be prescribed by law;
+provided, that corporators in corporations formed under the laws of this State shall not be
+individually liable for the debts or liabilities of such corporation.
+
+*** SEND ***
+
+*** SSTART 004.0 008.0 0 NV 1864 ***
+
+SEC. 4. Corporations created by or under the laws of the Territory of Nevada, shall be subject
+to the provisions of such laws until the Legislature shall pass laws regulating the same, in
+pursuance of the provisions of this Constitution.
+
+*** SEND ***
+
+*** SSTART 005.0 008.0 0 NV 1864 ***
+
+SEC. 5. Corporations may sue and be sued in all courts, in like manner as individuals.
+
+*** SEND ***
+
+*** SSTART 006.0 008.0 0 NV 1864 ***
+
+SEC. 6. No bank notes, or paper of any kind, shall ever be permitted to circulate as money in this
+State, except the Federal currency, and the notes of banks authorized under the laws of Congress.
+
+*** SEND ***
+
+*** SSTART 007.0 008.0 0 NV 1864 ***
+
+SEC. 7. No right of way shall be appropriated to the use of any corporation, until full
+compensation be first made or secured therefor.
+
+*** SEND ***
+
+*** SSTART 008.0 008.0 0 NV 1864 ***
+
+SEC. 8. The Legislature shall provide for the organization of cities and towns by general laws,
+and restrict their power of taxation, assessment, borrowing money, contracting debts, and loaning
+their credit, except for procuring supplies of water.
+
+*** SEND ***
+
+*** SSTART 009.0 008.0 0 NV 1864 ***
+
+SEC. 9. The State shall not donate or loan money or its credit, subscribe to, or be interested in
+the stock of any company, association, or corporation, except corporations formed for
+educational or charitable purposes.
+
+*** SEND ***
+
+*** SSTART 010.0 008.0 0 NV 1864 ***
+
+SEC. 10. No county, city, town, or other municipal corporation, shall become a stockholder in
+any joint stock company, corporation, or association whatever, or loan its credit in aid of any
+such company, corporation, or association, except railroad corporations, companies, or
+associations.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 009.0 NV 1864 ***
+
+                 ARTICLE IX
+
+              FINANCE AND STATE DEBT
+
+*** SSTART 001.0 009.0 0 NV 1864 ***
+
+SECTION 1. The fiscal year shall commence on the first day of January in each year.
+
+*** SEND ***
+
+*** SSTART 002.0 009.0 0 NV 1864 ***
+
+SEC. 2. The Legislature shall provide by law for an annual tax, sufficient to defray the estimated
+expenses of the State for each fiscal year; and whenever the expenses of any year shall exceed the
+income, the Legislature shall provide for levying a tax sufficient, with other sources of income, to
+pay the deficiency, as well as the estimated expenses of such ensuing year or two years.
+
+*** SEND ***
+
+*** SSTART 003.0 009.0 0 NV 1864 ***
+
+SEC. 3. For the purpose of enabling the State to transact its business upon a cash basis from its
+organization, the State may contract public debts; but such debts shall never, in the aggregate,
+exclusive of interest, exceed the sum of three hundred thousand dollars, except for the purpose of
+defraying extraordinary expenses, as hereinafter mentioned.  Every such debt shall be authorized
+by law for some purpose, or purposes, to be distinctly specified therein; and every such law shall
+provide for levying an annual tax sufficient to pay the interest semi-annually, and the principal
+within twenty years from the passage of such law, and shall be specially appropriate the proceeds
+of said taxes to the payment of said principal and interest; and such appropriation shall not be
+repealed, nor the taxes be postponed or diminished, until the principal and interest of said debts
+shall have been wholly paid. Every contract of indebtedness entered into, or assumed, by or on
+behalf of the State, when all its debts and liabilities amount to said sum before-mentioned, shall
+be void and of no effect, except in cases of money borrowed to repel invasion, suppress
+insurrection, defend the State in time of war, or, if hostilities be threatened, provide for the public
+defense.
+
+*** SEND ***
+
+*** SSTART 004.0 009.0 0 NV 1864 ***
+
+SEC. 4. The State shall never assume the debts of any county, town, city, or other corporation
+whatever, unless such debts have been created to repel invasion, suppress insurrection, or to
+provide for the public defense.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 010.0 NV 1864 ***
+
+ARTICLE X
+
+TAXATION
+
+*** SSTART 001.0 010.0 0 NV 1864 ***
+
+SECTION 1. The Legislature shall provide by law for a uniform and equal rate of assessment
+and taxation, and shall prescribe such regulations as shall secure a just valuation for taxation of
+all property, real, personal, and possessory, excepting mines and mining claims, the proceeds of
+which alone shall be taxed, and, also, excepting such property as may be exempted by law for
+municipal, educational, literary, scientific, religious, or charitable purposes.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 011.0 NV 1864 ***
+                  ARTICLE XI
+                  EDUCATION
+
+*** SSTART 001.0 011.0 0 NV 1864 ***
+
+SECTION 1.  The Legislature shall encourage, by all suitable means, the promotion of
+intellectual, literary, scientific, mining, mechanical, agricultural, and moral improvements; and
+also provide for the election, by the people, at the general election, of a Superintendent of Public
+Instruction, whose terms of office shall be two years from the first Monday of January A. D.
+eighteen hundred and sixty-five, and until the election and the qualification of his successor, and
+whose duties shall be prescribed by law.
+
+*** SEND ***
+
+*** SSTART 002.0 011.0 0 NV 1864 ***
+
+SEC. 2. The Legislature shall provide for a uniform system of common schools, by which a
+school shall be established and maintained in each school district at least six months in every
+year, and any school district neglecting to establish and maintain such a school, or which shall
+allow instructions of a sectarian character therein, may be deprived of its proportion of the
+interest of the public school fund during such neglect or infraction; and the Legislature may pass
+such laws as will tend to secure a general attendance of the children in each school district upon
+said public school.
+
+*** SEND ***
+
+*** SSTART 003.0 011.0 0 NV 1864 ***
+
+SEC. 3. All lands, including the sixteenth and thirty-sixth sections in every township, donated for
+the benefit of public schools in the Act of the Thirty-Eighth Congress, to enable the people of
+Nevada Territory to form a State Government, the thirty thousand acres of public lands granted
+by an Act of Congress, approved July second, A. D. eighteen hundred and sixty-two, for each
+Senator and Representative in Congress, and all proceeds of lands that have been, or may
+hereafter, be granted or appropriated by the United States to this State, and also the five hundred
+thousand acres of land granted to the new States, under the Act of Congress distributing the
+proceeds of the public lands among the several States of the Union, approved A. D. eighteen
+hundred and forty-one; provided, that Congress make provisions for, or authorizes such diversion
+to be made for the purpose herein contained, all estates that may escheat to the State, all of such
+per cent. as may be granted by Congress on the sale of lands, all fines collected under the penal
+laws of the State, all property given or bequeathed to the State for educational purposes, and all
+proceeds derived from any or all of said sources, shall be and the same are hereby solemnly
+pledged for educational purposes, and shall not be transferred to any other fund for other uses;
+and the interest thereon shall, from time to time, be apportioned among the several counties in
+proportion to the ascertained numbers of the persons between the ages of six and eighteen years
+in the different counties, and the Legislature shall provide for the sale of floating land warrants to
+cover the aforesaid lands, and for the investment of all proceeds derived from any of the
+above-mentioned sources, in United States bonds, or the bonds of this State; provided, that the
+interest only of the aforesaid proceeds shall be used for educational purposes, and any surplus
+interest shall be added to the principal sum; and provided further, that such portions of said
+interest as may be necessary may be appropriated for the support of the State University.
+
+*** SEND ***
+
+*** SSTART 004.0 011.0 0 NV 1864 ***
+
+SEC. 4. The Legislature shall provide for the establishment of a State University, which shall
+embrace departments for agriculture, mechanic arts, and mining, to be controlled by a Board of
+Regents, whose duties shall be prescribed by law.
+
+*** SEND ***
+
+*** SSTART 005.0 011.0 0 NV 1864 ***
+
+SEC. 5. The Legislature shall have power to establish normal schools, and such different grades
+of schools, from the primary department to the university, as in their discretion they may deem
+necessary, and all professors in said university, or teachers in said schools, of whatever grade,
+shall be required to take and subscribe to the oath as prescribed in Article Fifteen of this
+Constitution. No professor or teacher who fails to comply with the provisions of any law framed
+in accordance with the revisions of this section shall be entitled to receive any portion of the
+public moneys set apart for school purposes.
+
+*** SEND ***
+
+*** SSTART 006.0 011.0 0 NV 1864 ***
+
+SEC. 6. The Legislature shall provide a special tax of one-half of one mill on the dollar of all
+taxable property in the State, in addition to the other means provided for the support
+and maintenance of said university and common schools; provided, that at the end of ten years
+they may reduce said tax to one-quarter of one mill on each dollar of taxable property.
+
+*** SEND ***
+
+*** SSTART 007.0 011.0 0 NV 1864 ***
+
+SEC. 7. The Governor, Secretary of State, and Superintendent of Public Instruction shall, for
+the first four years, and until their successors are elected and qualified, constitute a Board of
+Regents, to control and manage the affairs of the university, and the funds of the same, under
+such regulations as may be provided by law.  But the Legislature shall, at its regular session next
+preceding the expiration of the term of office of said Board or Regents, provide for the election
+of a new Board of Regents, and define their duties.
+
+*** SEND ***
+
+*** SSTART 008.0 011.0 0 NV 1864 ***
+
+SEC. 8. The Board of Regents shall, from the interest accruing from the first funds which come
+under their control, immediately organize and maintain the said mining department in such
+manner as to make it most effective and useful; provided, that all the proceeds of the public lands
+donated by Act of Congress approved July second A. D. eighteen hundred and sixty-two, for a
+college for the benefit of agriculture, the mechanic arts, and including military tactics, shall be
+invested by the said Board of Regents in a separate fund, to be appropriated exclusively for the
+benefit of the first named departments to the University, as set forth in Section Four above; and
+the Legislature shall provide that if, through neglect or any other contingency, any portion of the
+fund so set apart shall be lost or misappropriated, the State of Nevada shall replace said amount
+so lost or misappropriated in said fund, so that the principal of said fund shall remain forever
+undiminished.
+
+*** SEND ***
+
+*** SSTART 009.0 011.0 0 NV 1864 ***
+
+SEC. 9. No sectarian instruction shall be imparted or tolerated in any school or university that
+may be established under this Constitution.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 012.0 NV 1864 ***
+ARTICLE XII
+MILITIA
+
+*** SSTART 001.0 012.0 0 NV 1864 ***
+
+SECTION 1. The Legislature shall provide by law for organizing and disciplining the militia of
+this State, for the effectual encouragement of volunteer corps, and the safe keeping of the public
+arms.
+
+*** SEND ***
+
+*** SSTART 002.0 012.0 0 NV 1864 ***
+
+SEC. 2. The Governor shall have power to call out the militia to execute the laws of the State,
+or to suppress insurrection or repel invasion.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 013.0 NV 1864 ***
+ARTICLE XIII
+PUBLIC INSTITUTIONS
+
+*** SSTART 001.0 013.0 0 NV 1864 ***
+
+SECTION 1. Institutions for the benefit of the insane, blind, and deaf and dumb, and such other
+benevolent institutions as the public good may require, shall be fostered and supported by the
+State, subject to such regulations as may be prescribed by law.
+
+*** SEND ***
+
+*** SSTART 002.0 013.0 0 NV 1864 ***
+
+SEC. 2. A State Prison shall be established and maintained in such manner as may be prescribed
+by law, and provision may be made by law for the establishment and maintenance of a House of
+Refuge for juvenile offenders.
+
+*** SEND ***
+
+*** SSTART 003.0 013.0 0 NV 1864 ***
+
+SEC. 3. The respective counties of the State shall provide, as may be prescribed by law, for
+those inhabitants who, by reason of age and infirmity, or misfortunes, may have claim upon the
+sympathy and aid of society.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 014.0 NV 1864 ***
+
+ARTICLE XIV
+BOUNDARY
+
+*** SSTART 001.0 014.0 0 NV 1864 ***
+
+SECTION 1. The boundary of the State of Nevada shall be as follows: Commencing at a point
+formed by the intersection of the thirty-eighth degree of longitude west from Washington with
+the thirty-seventh degree of north latitude; thence due west along said thirty-seventh degree of
+north latitude to the eastern boundary line of the State of California; thence in a north-westerly
+direction along said eastern boundary line of the State of California to the forty-third degree of
+longitude west from Washington; thence north along said forty-third degree of west longitude
+and said eastern boundary line of the State of California to the forty-second degree of north
+latitude; thence due east along the said forty-second degree of north latitude to a point formed by
+its intersection with the aforesaid thirty-eighth degree of longitude west from Washington; thence
+due south down said thirty-eighth degree of west longitude to the place of beginning. And
+whensoever Congress shall authorize the addition to the Territory or State of Nevada of any
+portion of the territory on the easterly border of the foregoing defined limits, not exceeding in
+extent one degree of longitude, the same shall thereupon be embraced within and become a part
+of this State. And, furthermore provided, that all such territory lying west of and adjoining the
+boundary line herein prescribed, which the State of California may relinquish to the Territory or
+State of Nevada, shall thereupon be embraced within and constitute a part of this State.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 015.0 NV 1864 ***
+
+ARTICLE XV
+
+MISCELLANEOUS PROVISIONS
+
+*** SSTART 001.0 015.0 0 NV 1864 ***
+
+SECTION 1. The seat of government shall be at Carson City; but no appropriation for the
+erection or purchase of capitol buildings shall be made during the next three years.
+
+*** SEND ***
+
+*** SSTART 002.0 015.0 0 NV 1864 ***
+
+SEC. 2. Members of the Legislature, and all officers, executive, judicial, and ministerial, shall,
+before they enter upon the duties of their respective offices, take and subscribe to the following
+oath or affirmation: " I --------------, do solemnly swear (or affirm) that I will support, protect and
+defend the Constitution and Government of the United States, and the Constitution and
+Government of the State of Nevada, against all enemies, whether domestic or foreign, and that I
+will bear true faith, allegiance, and loyalty to the same, any ordinance, resolution or law of any
+State, Convention, or Legislature, to the contrary notwithstanding; and further, that I do this with
+a full determination, pledge, and purpose, without an mental reservation or evasion whatsoever.
+And I do further solemnly swear (or affirm) that I have not fought a duel, nor sent or accepted a
+challenge to fight a duel, nor been a second to either party, nor in any manner aided or assisted in
+such duel; nor been knowingly the bearer of such challenge or acceptance, since the adoption of
+the Constitution of the State of Nevada, and that I will not be so engaged or concerned, directly
+or indirectly, in or about any such duel during my continuance in office. And further, that I will
+well and faithfully perform all the duties of the office of ------, on which I am about to enter; (if
+an oath) so help me God; (if an affirmation) under the pains and penalties of perjury." 
+
+*** SEND ***
+
+*** SSTART 003.0 015.0 0 NV 1864 ***
+
+SEC. 3. No person shall be eligible to any office who is not a qualified elector under this
+Constitution. No person who, while a citizen of this State, has, since the adoption of this
+Constitution, fought a duel with a deadly weapon, sent or accepted a challenge to fight a duel
+with a deadly weapon, either within or beyond  the boundaries of this State, or who has acted as
+second, or knowingly conveyed a challenge, or aided or assisted in any manner in fighting a duel,
+shall be allowed to hold any office of honor, profit or trust, or enjoy the right of suffrage under
+this Constitution. The Legislature shall provide, by law, for giving force and effect to this
+section.
+
+*** SEND ***
+
+*** SSTART 004.0 015.0 0 NV 1864 ***
+
+SEC. 4. No perpetuities shall be allowed except for eleemosynary purposes.
+
+*** SEND ***
+
+*** SSTART 005.0 015.0 0 NV 1864 ***
+
+SEC. 5. The general election shall be held on the Tuesday next after the first Monday of
+November.
+
+*** SEND ***
+
+*** SSTART 006.0 015.0 0 NV 1864 ***
+
+SEC. 6. The aggregate number of members of both branches of the Legislature shall never
+exceed seventy-five.
+
+*** SEND ***
+
+*** SSTART 007.0 015.0 0 NV 1864 ***
+
+SEC. 7. All county officers shall hold their offices at the county seat of their respective counties.
+
+*** SEND ***
+
+*** SSTART 008.0 015.0 0 NV 1864 ***
+
+SEC. 8.  The Legislature shall provide for the speedy publication of all statute laws of a general
+nature, and such decisions of the Supreme Court as it may deem expedient; and all laws and
+judicial decisions shall be free for publication by any person; provided, that no judgment of the
+Supreme Court shall take effect and be operative until the opinion of the Court in such case shall
+be filed with the Clerk of said Court.
+
+*** SEND ***
+
+*** SSTART 009.0 015.0 0 NV 1864 ***
+
+SEC. 9. The Legislature may, at any time, provide by law for increasing or diminishing the
+salaries or compensation of any of the officers whose salaries or compensation is fixed in this
+Constitution; provided, no such change of salary or compensation shall apply to an officer during
+the term for which he may have been elected.
+
+*** SEND ***
+
+*** SSTART 010.0 015.0 0 NV 1864 ***
+
+SEC. 10. All officers, whose election or appointment is not otherwise provided for, shall be
+chosen or appointed, as may be prescribed by law.
+
+*** SEND ***
+
+*** SSTART 011.0 015.0 0 NV 1864 ***
+
+SEC. 11. The tenure of any office, not herein provided for, may be declared by law; or, when not
+so declared, such office shall be held during the pleasure of the authority making the
+appointment; but the Legislature shall not create any office, the tenure of which shall be longer
+than four years, except as herein otherwise provided in this Constitution.
+
+*** SEND ***
+
+*** SSTART 012.0 015.0 0 NV 1864 ***
+
+SEC.12. The Governor, Secretary of State, State Treasurer, State Controller, and Clerk of the
+Supreme Court shall keep their respective offices at the seat of government.
+
+*** SEND ***
+
+*** SSTART 013.0 015.0 0 NV 1864 ***
+
+SEC. 13. The enumeration of the inhabitants of this State shall be taken under the direction
+of the Legislature, if deemed necessary, in A. D. eighteen hundred and sixty-five; A. D. eighteen
+hundred and sixty-seven; and every ten years thereafter; and these enumerations, together with
+the census that may be taken under the direction of the Congress of the United States in A. D.
+eighteen hundred and seventy, and every subsequent ten years, shall serve as the basis of
+representation in both houses of the Legislature.
+
+*** SEND ***
+
+*** SSTART 014.0 015.0 0 NV 1864 ***
+
+SEC. 14. A plurality of votes given at an election by the people shall constitute a choice, where
+not otherwise provided by this Constitution.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 016.0 NV 1864 ***
+ARTICLE XVI
+AMENDMENTS
+
+*** SSTART 001.0 016.0 0 NV 1864 ***
+
+SECTION 1. Any amendment or amendments to this Constitution may be proposed in the
+Senate or Assembly; and if the same shall be agreed to by a majority of all the members elected
+to each of the two houses, such proposed amendment or amendments shall be entered on their 
+respective journals, with the yeas and nays taken thereon, and referred to the Legislature then
+next to be chosen, and shall be published for three months next preceding the time of making
+such choice. And if, in the Legislature next chosen, as aforesaid, such proposed amendment or
+amendments shall be agreed to by a majority of all the members elected to each house, then it
+shall be the duty of the Legislature to submit such proposed amendment or amendments to the
+people, in such manner and at such times as the Legislature shall prescribe; and if the people
+shall approve and ratify such amendment or amendments by a majority of the electors qualified
+to vote for members of the Legislature voting thereon, such amendment or amendments shall
+become a part of the Constitution.
+
+*** SEND ***
+
+*** SSTART 002.0 016.0 0 NV 1864 ***
+
+SEC. 2. If, at any time the Legislature, by a vote of two-thirds of the members elected to each
+house, shall determine that it is necessary to cause a revision of this entire Constitution, they
+shall recommend to the electors, at the next election for members of the Legislature, to vote for
+or against a Convention; and if it shall appear that a majority of the electors voting at such
+election shall have voted in favor of calling a Convention, the Legislature shall, at its next
+session provide by law for calling a Convention, to be holden within six months after the passage
+of such law; and such Convention shall consist of a number of members not less than that of both
+branches of the Legislature. In determining what is a majority of the electors voting at such
+election, reference shall be had to the highest number of votes cast at such election for the
+candidates for any office or on any question.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 017.0 NV 1864 ***
+ARTICLE XVII
+SCHEDULE
+
+*** SSTART 001.0 017.0 0 NV 1864 ***
+
+SECTION 1. That no inconvenience may arise by reason of a change from a Territorial to a
+permanent State government, it is declared that all rights, actions, prosecutions, judgments,
+claims and contracts, as well of individuals as of bodies corporate, including counties, towns and
+cities, shall continue as if no change had taken place; and all process which may issue under the
+authority of the Territory of Nevada previous to its admission into the Union as one of the United
+States, shall be as valid as if issued in the name of the State of Nevada.
+
+*** SEND ***
+
+*** SSTART 002.0 017.0 0 NV 1864 ***
+
+SEC.2. All laws of the Territory of Nevada, in force at the final admission of this State, not
+repugnant to this Constitution, shall remain in force until they expire by their own limitations, or
+be altered or repealed by the Legislature.
+
+*** SEND ***
+
+*** SSTART 003.0 017.0 0 NV 1864 ***
+
+SEC.3. All fines, penalties, and forfeitures accruing to the Territory of Nevada, or to the people
+of the United States in the Territory of Nevada, shall inure to the State of Nevada.
+
+*** SEND ***
+
+*** SSTART 004.0 017.0 0 NV 1864 ***
+
+SEC. 4. All recognizances heretofore taken, or which may be taken before the change from a
+Territorial to a State government, shall remain valid, and shall pass to, and may be prosecuted in
+the name of the State; and all bonds executed to the Governor of the Territory, or to any other
+officer or court in his or their official capacity, or to the people of the United States in the
+Territory of Nevada, shall pass to the Governor, or other officer or court, and his or their
+successors in office, for the uses therein respectively expressed, and may be sued on, and
+recovery had accordingly; and all property, real, personal, or mixed, and all judgments, bonds,
+specialties,  choses in action, claims, and debts of whatsoever description, and all records and
+public archives of the Territory of Nevada, shall issue to and vest in the State of Nevada, and
+may be sued for and recovered in the same manner, and to the same extent by the State of
+Nevada, as the same could have been by the Territory of Nevada. All criminal prosecutions and
+penal actions, which may have arisen, or which may arise before the change from a Territorial to
+a State government, and which shall then be pending, shall be prosecuted to judgment and
+execution in the name of the State. All offenses committed against the laws of the Territory of
+Nevada, before the change from a Territorial to a State government and which shall not be
+prosecuted before such change, may be prosecuted in the name and by the authority of the State
+of Nevada, with like effect as though such change had not taken place, and all penalties incurred
+shall remain the same as if this Constitution had not been adopted. All actions at law, and suits in
+equity, and all other legal proceedings which may be pending in any of the courts of the Territory
+of Nevada at the time of the change from a Territorial to a State government, may be continued
+and transferred to, and may be prosecuted to judgment and execution in any court of the State
+which shall have jurisdiction of the subject matter thereof; and all books, papers and records,
+relating to the same shall be transferred in like manner to such court.
+
+*** SEND ***
+
+*** SSTART 005.0 017.0 0 NV 1864 ***
+
+SEC. 5. For the first term of office succeeding the formation of a State government, the salary
+of the Governor shall be four thousand dollars per annum; the salary of the Secretary of State
+shall be three thousand six hundred dollars per annum; the salary of the State Controller shall be
+three thousand six hundred dollars per annum; the salary of the State Treasurer shall be three
+thousand six hundred dollars per annum; the salary of the Surveyor-General shall be one
+thousand dollars per annum; the salary of the Attorney-General shall be two thousand five
+hundred dollars per annum; the salary of the Superintendent of Public Instruction shall be two
+thousand dollars per annum; the salary of each Judge of the Supreme Court shall be seven
+thousand dollars per annum; the salaries of the foregoing officers shall be paid quarterly out of
+the State Treasury. The pay of State Senators and members of Assembly shall be eight dollars per
+day, for each day of actual service, and forty cents per mile for mileage going to and returning
+from the place of meeting. No officer mentioned in this section shall receive any fee or
+perquisites, to his own use, for the performance of any duty connected with his office, or for the
+performance of any additional duty imposed upon him by law.
+
+*** SEND ***
+
+*** SSTART 006.0 017.0 0 NV 1864 ***
+
+SEC. 6. Until otherwise provided by law, the apportionment of Senators and Assemblymen in
+the different counties shall be as follows, to wit: Storey County, four Senators and twelve
+Assemblymen; Douglas County, one Senator and two Assemblymen; Esmeralda County, two
+Senators and four Assemblymen; Humboldt County, two Senators and three Assemblymen;
+Lauder County, two Senators and four Assemblymen; Lyon County, one Senator and three
+Assemblymen; Lyon and Churchill Counties, one Senator, jointly; Churchill County, one
+Assemblyman; Nye County, one Senator and one Assemblyman; Ormsby County, two Senators
+and three Assemblymen; Washoe and Roop Counties, two Senators and three Assemblymen.
+
+*** SEND ***
+
+*** SSTART 007.0 017.0 0 NV 1864 ***
+
+SEC. 7. All debts and liabilities of the Territory of Nevada, lawfully incurred, and which remain
+unpaid at the time of the admission of this State into the Union, shall be assumed by and become
+the debt of the State of Nevada; provided, that the assumption of such indebtedness shall not
+prevent the State from contracting the additional indebtedness, as provided in section three of
+article nine of this Constitution.
+
+*** SEND ***
+
+*** SSTART 008.0 017.0 0 NV 1864 ***
+
+SEC. 8. The term of State officers, except judicial, elected at the first election under this
+Constitution, shall continue until the Tuesday after the first, Monday of January, A. D. eighteen
+hundred and sixty-seven, and until the election and qualification of their successors.
+
+*** SEND ***
+
+*** SSTART 009.0 017.0 0 NV 1864 ***
+
+SEC. 9. The Senators to be elected at the first election under this Constitution shall draw lots,
+so that the term of one-half of the number, as nearly as may be, shall expire on the day
+succeeding the general election in A. D. eighteen hundred and sixty-six, in the term of the other
+half shall expire on the day succeeding the general election in A, D. eighteen hundred and
+sixty-eight; provided, that in drawing lots for all Senatorial terms, the Senatorial representation
+shall be allotted so that in the counties having two or more Senators, the terms thereof shall be
+divided, as nearly as may be, between the long and short terms.
+
+*** SEND ***
+
+*** SSTART 010.0 017.0 0 NV 1864 ***
+
+SEC. 10. At the general election in A. D. eighteen hundred and sixty-six, and thereafter, the term
+of Senators shall be four years from the day succeeding such general election, and members of
+Assembly for two years from the day succeeding such general election; and the terms of Senators
+shall be allotted by the Legislature in long and short terms, as hereinbefore provided, so that
+one-half the number, as nearly as may be, shall be elected every two years.
+
+*** SEND ***
+
+*** SSTART 011.0 017.0 0 NV 1864 ***
+
+SEC. 11. The term of the members of the Assembly elected at the second general election under
+this Constitution, shall expire on the day succeeding the general election in A. D. eighteen
+hundred and sixty-five; and the terms of those elected at the general election in A. D. eighteen
+hundred and sixty-five shall expire on the day succeeding the general election in A. D. eighteen
+hundred and sixty-six.
+
+*** SEND ***
+
+*** SSTART 012.0 017.0 0 NV 1864 ***
+
+SEC. 12. The first regular session of the Legislature shall commence on the first Monday of
+December, A. D. eighteen hundred and sixty-four; and the second regular session of the same
+shall commence on the first Monday of January, A. D. eighteen hundred and sixty-six; and the
+third regular session of the Legislature shall be the first of the biennial sessions, and shall
+commence on the first Monday of January, A. D. eighteen hundred and sixty-seven; and the
+regular session of the Legislature shall be held thereafter biennially, commencing on the first
+Monday of January.
+
+*** SEND ***
+
+*** SSTART 013.0 017.0 0 NV 1864 ***
+
+SEC. 13. A1l county officers, under the laws of the Territory of Nevada, at the time when the
+Constitution shall take effect, whose offices are not inconsistent with the provisions of this
+Constitution, shall continue in office until the first Monday of January, A. D. eighteen hundred
+and sixty-seven, and until their successors are elected and qualified; and all township officers
+shall continue in office until the expiration of their terms of office, and until their successors are
+elected and qualified; provided, that the Probate Judges of the several counties, respectively,
+shall continue in office until the election and qualification of the District Judges of the several
+counties or judicial districts; and, provided further, that the term of office of the present county
+officers of Lander County shall expire on the first Monday of January, A. D. eighteen hundred
+and sixty-five, except the Probate Judge of said county, whose term of office shall expire upon
+the first Monday of December, A. D. eighteen hundred and sixty four, and there shall be an
+election for county officers of Lander County at the general election in November, A. D. eighteen
+hundred and sixty-four; and the officers then elected shall hold office from the first Monday of
+January A. D. eighteen hundred and sixty-five, until the first Monday of January, A. D. eighteen
+hundred and sixty-seven, and until their successors are elected and qualified.
+
+*** SEND ***
+
+*** SSTART 014.0 017.0 0 NV 1864 ***
+
+SEC 14. The Governor, Secretary, Treasurer, and Superintendent of Public Instruction of the
+Territory of Nevada shall each continue to discharge the duties of their respective offices after the
+admission of this State into the Union, and until the time designated for the qualification of the
+above named officers to be elected under the State Government; and the Territorial Auditor shall
+continue to discharge the duties of his said office until the time appointed for the qualification of
+the State Controller; provided, that the said officers shall each receive the salaries and be subject
+to the restrictions and conditions provided in this Constitution ; and, provided further, that none
+of them shall receive to his own use any fees or perquisites for the performance of any duty
+connected with his office.
+
+*** SEND ***
+
+*** SSTART 015.0 017.0 0 NV 1864 ***
+
+SEC. 15. The terms of the Supreme Court shall, until provision be made by law, be held at such
+times as, the Judges of the said Court, or a majority of them, may appoint. The first terms of the
+several District Courts, (except as hereinafter mentioned,) shall commence on the first Monday
+of December, A. D. eighteen hundred and sixty-four. The first term of the District Court in the
+Fifth Judicial District shall commence on the first Monday of December, A. D. eighteen hundred
+and sixty-four, in the County of Nye, and shall commence on the first Monday of January, A. D
+eighteen hundred and sixty-five, in the County of Churchill. The terms of the Fourth Judicial
+District, Court shall, until otherwise provided by law, be held at the county seat of Washoe
+County, and the first term thereof commence on the first Monday of December, A. D. eighteen
+hundred and sixty-four.
+
+*** SEND ***
+
+*** SSTART 016.0 017.0 0 NV 1864 ***
+
+SEC. 16. The Judges of the several District Courts of this State shall be paid, as hereinbefore
+provided, salaries at the following rates per annum: First Judicial District, (each Judge,) six
+thousand dollars; Second Judicial District, four thousand dollars; Third Judicial District, five
+thousand dollars; Fourth Judicial District, five thousand dollars; Fifth Judicial District, thirty-six
+hundred dollars; Sixth Judicial District, four thousand dollars; Seventh Judicial District, six
+thousand dollars; Eighth Judicial District, thirty-six hundred dollars; Ninth Judicial District, five
+thousand dollars.
+
+*** SEND ***
+
+*** SSTART 017.0 017.0 0 NV 1864 ***
+
+SEC. 17. The salary of any Judge in said Judicial Districts may, by law, be altered or changed,
+subject to the provisions contained in this Constitution.
+
+*** SEND ***
+
+*** SSTART 018.0 017.0 0 NV 1864 ***
+
+SEC. 18. The Governor, Lieutenant-Governor, Secretary of State, State Treasurer, State
+Controller, Attorney-General, Surveyor-General, Clerk of the Supreme Court, and
+Superintendent of Public Instruction, to be elected at the first election under this Constitution,
+shall each qualify and enter upon the duties of their respective offices on the first Monday of
+December succeeding their election, and shall continue in office until the first Tuesday after the
+first Monday of January, A. D. eighteen hundred and sixty-seven, and until the election and
+qualification of their successors respectively. 
+
+*** SEND ***
+
+*** SSTART 019.0 017.0 0 NV 1864 ***
+
+SEC. 19. The Judges of the Supreme Court and District Judges, to be elected at the first election
+under this Constitution, shall qualify and enter upon the duties of their respective offices on the
+first Monday of December succeeding their election.
+
+*** SEND ***
+
+*** SSTART 020.0 017.0 0 NV 1864 ***
+
+SEC. 20. All officers of State, and District Judges, first elected tinder this Constitution, shall be
+commissioned by the Governor of this Territory, which commission shall be countersigned by
+the Secretary of the same, and shall qualify before entering upon the discharge of their duties,
+before any officer authorized to administer oaths tinder the laws of this Territory; and also the
+State Controller and State Treasurer shall each respectively, before they qualify and enter upon
+the discharge of their duties, execute and deliver to the Secretary of the Territory of Nevada an
+official bond, made payable to the people of the State of Nevada, in the sum of thirty thousand
+dollars, to be approved by the Governor of the Territory of Nevada; and shall also execute and
+deliver, to the Secretary of State such other or further official bond or bonds as may be required
+by law.
+
+*** SEND ***
+
+*** SSTART 021.0 017.0 0 NV 1864 ***
+
+SEC. 21. Each county, town, city, and incorporated village, shall make provision for the support
+of its own officers, subject to such regulations as may be prescribed by law.
+
+*** SEND ***
+
+*** SSTART 022.0 017.0 0 NV 1864 ***
+
+SEC. 22. In case the office of any Justice of the Supreme Court, District Judge, or other State
+officer, shall become vacant before the expiration of the regular term for which he was elected,
+the vacancy may be filled by appointment by the Governor, until it shall be supplied at the next
+general election, when it shall be filled by election for the residue of the unexpired term. 
+
+*** SEND ***
+
+*** SSTART 023.0 017.0 0 NV 1864 ***
+
+SEC. 23. All cases, both civil and criminal, which may be pending and undetermined in the
+Probate Courts of the several counties at the time when, under the provisions of this Constitution,
+said Probate Courts are to be abolished, shall be transferred to and determined by the District
+Courts of such counties respectively.
+
+*** SEND ***
+
+*** SSTART 024.0 017.0 0 NV 1864 ***
+
+SEC. 24. For the first three years after the adoption of this Constitution, the Legislature shall
+not levy a tax for State purposes exceeding one per cent per annum on the taxable property in the
+State; provided, the Legislature may levy a special tax, not exceeding one-fourth of one per cent
+per annum, which shall be appropriated for the payment of the indebtedness of the Territory of
+Nevada assumed by the State of Nevada, and for that purpose only, until all of said indebtedness
+is paid.
+
+*** SEND ***
+
+*** SSTART 025.0 017.0 0 NV 1864 ***
+
+SEC. 25. The County of Roop shall be attached to the County of Washoe for judicial, legislative,
+revenue, and county purposes until otherwise provided by law.
+
+*** SEND ***
+
+*** SSTART 026.0 017.0 0 NV 1864 ***
+
+SEC. 26.  At the first regular session of the Legislature, to convene under the requirements of
+this Constitution, provision shall be made by law for paying for the publication of six hundred
+copies of the debates and proceedings of this Convention in book form, to be disposed of as the
+Legislature may direct; and the Hon. J. Neely Johnson, President of this Convention, shall
+contract for, and A. J. Marsh, Official Reporter of this Convention, under the direction of the
+President, shall supervise the publication of such debates and proceedings.  Provision shall be
+made by law, at such first session of the Legislature, for the compensation of the Official
+Reporter of this Convention, and he shall be paid in coin or its equivalent. He shall receive, for
+his services in reporting the debates and proceedings, fifteen dollars per day during the session of
+the Convention, and seven and one-half dollars additional for each evening session, and thirty
+cents per folio of one hundred words for preparing the same for publication; and for supervising
+and indexing such publication the sum of fifteen dollars per day during the time actually engaged
+in such service.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 9003.0 NV 1864 ***
+
+ELECTION ORDINANCE
+
+WHEREAS, The Enabling Act passed by Congress, and approved March twenty-first, A. D.
+eighteen hundred and sixty-four, requires that the Convention charged with the duty of framing a
+Constitution for a State Government, "shall provide by ordinance for submitting said
+Constitution to the people of the Territory of Nevada, for their ratification or rejection," on a
+certain day prescribed therein; therefore, this Convention, organized in pursuance of said
+Enabling Act, do establish the following ordinance: 
+
+
+*** SSTART 001.0 9003.0 0 NV 1864 ***
+
+SECTION 1. The Governor of the Territory of Nevada is hereby authorized to issue his
+proclamation for the submission of this Constitution to the people of said Territory, for their
+approval or rejection, on the day provided for such submission by Act of Congress; and this
+Constitution shall be submitted to the qualified electors of said Territory, in the several counties
+thereof, for their approval or rejection, at the time provided by such Act of Congress; and further,
+on the first Tuesday after the first Monday of November, A.D. eighteen hundred and sixty-four,
+there shall be a general election in the several counties of said Territory for the election of State
+officers, Supreme and District Judges, members of the Legislature, Representative in Congress
+and three Presidential Electors.
+
+*** SEND ***
+
+*** SSTART 002.0 9003.0 0 NV 1864 ***
+
+SEC. 2. All persons, qualified by the laws of said Territory to vote for Representatives to General
+Assembly, on the said twenty-first day of March, including those in the army of the United
+States, both within and beyond the boundaries of said Territory, and also all persons who may, by
+the aforesaid laws, be qualified to vote on the first Wednesday of September, A. D. eighteen
+hundred and sixty-four, including those in the aforesaid army of the United States, within and
+without the boundaries of said Territory, may vote for the adoption or rejection of said
+Constitution, on the day last above named. In voting upon this Constitution, each elector shall
+deposit in the ballot box a ticket, whereon shall be clearly written or printed,
+"Constitution---Yes," or "Constitution---No;" or such other words that shall clearly indicate the
+intention of the elector.
+
+*** SEND ***
+
+*** SSTART 003.0 9003.0 0 NV 1864 ***
+
+SEC. 3. All persons qualified by the laws of said Territory to vote on the Tuesday after the first
+Monday of November, A, D. eighteen hundred and sixty-four, including those in the army of the
+United States, within and beyond the boundaries of said Territory, may vote on the day last above
+named for State officers, Supreme and District Judges, members of the Legislature,
+Representative in Congress and three Presidential Electors to the Electoral College. 
+
+*** SEND ***
+
+*** SSTART 004.0 9003.0 0 NV 1864 ***
+
+SEC. 4. The elections provided in this ordinance shall be holden at such places as shall be
+designated by the Boards of Commissioners of the several counties in said Territory. The judges
+and inspectors of said elections shall be appointed by said Commissioners, and the said elections
+shall be conducted in conformity with the existing laws of said Territory in relation to holding
+the general election.
+
+*** SEND ***
+
+*** SSTART 005.0 9003.0 0 NV 1864 ***
+
+SEC. 5. The judges and inspectors of said elections shall carefully count each ballot
+immediately after said elections, and forthwith make duplicate returns thereof to the clerks of the
+said County Commissioners of their respective counties; and said clerks, within fifteen days after
+said elections, shall transmit an abstract of the votes, including the soldiers' vote, as herein
+provided, given for State officers, Supreme and District Judges, Representative in Congress and
+three Presidential Electors, enclosed in an envelope, by the most safe and expeditious
+conveyance, to the Governor of said Territory, marked "Election Returns."
+
+*** SEND ***
+
+*** SSTART 006.0 9003.0 0 NV 1864 ***
+
+SEC. 6. Upon the receipt of said returns, including those of the soldiers' vote, or within
+twenty days after the election, if said returns be not sooner received, it shall be the duty of the
+Board of Canvassers, to consist of the Governor, United States District Attorney and Chief
+Justice of said Territory, or any two of them, to canvass the returns in the presence of all who
+may wish to be present, and if a majority of all the votes given upon this Constitution shall be in
+its favor, the said Governor shall immediately publish an abstract of the same, and make
+proclamation of the fact, in some newspaper in said Territory, and certify the same to the
+President of the United States, together with a copy of the Constitution and Ordinance. The said
+Board of Canvassers, after canvassing the votes of the said November elections, shall issue
+certificates of election to such persons as were elected State officers, Judges of the Supreme and
+District Courts, Representative in Congress and three Presidential Electors. When the President
+of the United States shall issue his proclamation declaring this State admitted into the Union on
+an equal footing with the original States, this Constitution shall thenceforth be ordained and
+established as the Constitution of the State of Nevada.
+
+*** SEND ***
+
+*** SSTART 007.0 9003.0 0 NV 1864 ***
+
+SEC. 7. For the purpose of taking the vote of the electors of said Territory who may be in the
+army of the United States, the Adjutant-General of said Territory shall, on or before the fifth day
+of August next following, make out a list, in alphabetical order, and deliver the same to the
+Governor, of the names of all the electors, residents of said Territory, who shall be in the army of
+the United States, stating the number of the regiment, battalion, squadron, or battery to which he
+belongs, and also the county and township of his residence in said Territory.
+
+*** SEND ***
+
+*** SSTART 008.0 9003.0 0 NV 1864 ***
+
+SEC. 8. The Governor shall classify and arrange the aforesaid returned list, and shall make
+therefrom separate lists of the electors belonging to each regiment, battalion, squadron, and
+battery from said Territory, in the service of the United States, and shall, on or before the
+fifteenth day of August following transmit, by mail or otherwise, to the commanding officer of
+each regiment, battalion, squadron, and battery, a list of electors belonging thereto, which said
+list shall specify the name, residence, and rank of each elector, and the company to which he
+belongs, if to any, and also the county and township to which he belongs, and in which he is
+entitled to vote.
+
+*** SEND ***
+
+*** SSTART 009.0 9003.0 0 NV 1864 ***
+
+SEC. 9. Between the hours of nine o'clock A.M. and three o'clock P.M., on each of the election
+days hereinbefore named, a ballot box, or suitable receptacle for votes, shall be opened, under the
+immediate charge and direction of three of the highest officers in command, for the reception of
+votes from the electors whose names are upon said list, at each place where a regiment, battalion,
+squadron, or battery of soldiers from said Territory, in the army of the United States, may be on
+that day; at which time and place said elector shall be entitled to vote for all officers for which,
+by reason of their residence in the several counties in said Territory, they are authorized to vote,
+as fully as they would be entitled to vote in the several counties or townships in which they
+reside, and the votes so given by such electors, at such time and place, shall be considered, taken
+and held to have been given by them in the respective counties and townships in which they are
+resident. 
+
+*** SEND ***
+
+*** SSTART 010.0 9003.0 0 NV 1864 ***
+
+SEC. 10. Each ballot deposited for the adoption or rejection of this Constitution, in the army of
+the United States, shall have distinctly written or printed therein " Constitution---Yes," or
+"Constitution---No," or words of a similar import; and, further, for the election of State officers,
+Supreme and District Judges, members of the Legislature, Representative in Congress, and three
+Presidential Electors, the name and office of the person voted for shall be plainly written or
+printed on one piece of paper. The name of each elector voting, as aforesaid, shall be checked
+upon the said list, at the time of voting, by one of the said officers having charge of the ballot
+box. The said officers having charge of the election shall count the votes and compare them with
+the checked lists immediately after the closing of the ballot box.
+
+*** SEND ***
+
+*** SSTART 011.0 9003.0 0 NV 1864 ***
+
+SEC. 11.  All the ballots cast, together with the said voting list checked as aforesaid, shall be
+immediately sealed up and sent forthwith to the Governor of said Territory, at Carson City, by
+mail or otherwise, by the commanding officer, who shall make out and certify duplicate returns
+of votes given, according to the forms hereinafter proscribed, seal up and immediately transmit
+the same to the said Governor, at Carson City, by mail or otherwise, the day following the
+transmission of the ballots and the voting list herein named. The said commanding officer shall
+also immediately transmit to the several County Clerks in said Territory, an abstract of the votes
+given at the general election in November, for county officers, marked "Election Returns."
+
+*** SEND ***
+
+*** SSTART 012.0 9003.0 0 NV 1864 ***
+
+ SEC. 12. The forms of returns of votes to be made by the commanding officer to the Governor
+and County Clerks of said Territory shall be in substance as follows, viz: 
+
+Returns of soldiers' votes in the (here insert the regiment, detachment, battalion, squadron or
+battery.)
+
+           (For first election   On the Constitution:)
+
+    I, ---------, hereby certify that on the first Wednesday of September, A. D. eighteen hundred
+and sixty-four, the electors belonging to the (here insert the name of the regiment, detachment,
+battalion, squadron, or battery) cast the following number of votes for and against the
+Constitution for the State of Nevada, viz:  
+
+For Constitution    (number of votes written in full and in figures).
+Against Constitution    (number of votes written in full and in figures).
+         
+         (Second election   for State and other officers:)
+
+I, ----------, hereby certify, that on the first Tuesday after the first Monday in November, A. D.
+eighteen hundred and sixty-four, the electors belonging to the (here insert as above) cast the
+following number of votes for the several officers and persons hereinafter named, viz:
+
+For Governor    (names of persons voted for, number of votes for each person voted for, written
+in full, and also in figures, against the name of each person).
+
+For Lieutenant-Governor   (names of candidates, number of votes cast for each written out and
+in figures as above.)
+
+Continue as above till the list is completed.
+Attest:                            I. A. B.
+Commanding officer of the (here insert regiment, detachment, battalion, squadron, or battery, as
+the case may be).
+
+*** SEND ***
+
+*** SSTART 013.0 9003.0 0 NV 1864 ***
+
+SEC. 13. The Governor of this Territory is requested to furnish each commanding officer, within
+and beyond the boundaries of said Territory, proper and sufficient blanks for said returns.
+
+*** SEND ***
+
+*** SSTART 014.0 9003.0 0 NV 1864 ***
+
+SEC. 14. The provisions of this Ordinance in regard to the soldiers' vote shall apply to future
+elections under this Constitution, and be in full force until the Legislature shall provide by law
+for taking the votes of citizens of said Territory in the army of the United States.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 9016.0 NV 1864 ***
+
+Done in convention, at Carson City, the twenty-eighth day of July, in the year of our Lord one
+thousand eight hundred and sixty-four, and of the Independence of the United States the
+eighty-ninth, and signed by the delegates.
+                           J. Neely Johnson,
+President of the Convention and Delegate from Ormsby County.
+
+Wm. M. Gillespie, Secretary.
+
+
+*** AEND ***
+*** CEND ***

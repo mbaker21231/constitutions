@@ -1,0 +1,1174 @@
+This file was coded by Trisha Posey and 
+checked by John Wallis on 8/27/2002
+
+It is ready to go.
+
+*** CSTART DE 12/02/1831 06/10/1897 ***
+
+CONSTITUTION OF DELAWARE-1831
+
+*** ASTART 9001.0 DE 1831 ***
+*** SSTART 001.00 9001.0 DE 1831 ***
+
+We, the people, hereby ordain and establish this constitution of government for the State of Delaware.
+
+Through divine goodness all men have, by nature, the rights of worshipping and serving their Creator
+according to the dictates of their consciences; of enjoying and defending life and liberty, of acquiring
+and protecting reputation and property, and, in general, of attaining objects suitable to their condition,
+without injury by one to another; and as these rights are essential to their welfare, for the due exercise
+thereof, power is inherent in them; and therefore all just authority in the institutions of political society is
+derived from the people, and established with their consent, to advance their happiness. And they may
+for this end, as circumstances require, from time to time, alter their constitution. of government.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 001.00 DE 1831 ***
+
+ARTICLE I
+
+*** SSTART 001.00 001.00 0 DE 1831 ***
+
+SECTION 1. Although it is the duty of all men frequently to assemble together for the public worship of
+the Author of the universe, and piety and morality, on which the prosperity of communities depends, are
+thereby promoted, yet no man shall, or ought to be compelled to attend any religious worship, to
+contribute to the erection or support of any place of worship, or to the maintenance of any ministry,
+against his own free will and consent; and no power shall or ought to be vested in or assumed by any
+magistrate that shall, in any case, interfere with,.or in any manner control, the rights of conscience in the
+free exercise of religious worship; nor shall a preference be given by law to any religious societies,
+denomination, or modes of worship.
+
+*** SEND ***
+*** SSTART 002.00 001.00 0 DE 1831 ***
+
+SEC. 2. No religious test shall be required as a qualification to any office or public trust under this
+State.
+
+*** SEND ***
+*** SSTART 003.00 001.00 0 DE 1831 ***
+SEC. 3. All elections shall be free and equal.
+
+*** SEND ***
+*** SSTART 004.00 001.00 0 DE 1831 ***
+
+SEC.4. Trial by jury shall be as heretofore.
+
+*** SEND ***
+*** SSTART 005.00 001.00 0 DE 1831 ***
+
+SEC. 5. The press shall be free to every citizen who undertakes to examine the official. conduct of men
+acting in a public capacity, and any citizen may print on any such subject, being responsible for the
+abuse of that liberty. In prosecutions for publications investing the proceedings of officers, or where the
+matter published is proper for public information, the truth thereof may be given in evidence; and in all
+indictments for libels the jury may determine the facts and the law as in other cases.
+
+*** SEND ***
+*** SSTART 006.00 001.00 0 DE 1831 ***
+
+SEC. 6. The people shall be secure in their persons, houses, papers, and possessions from
+unreasonable searches and seizures, and no warrant to search any place, or to seize any person or
+things, shall issue without describing them as particularly as may be, nor then, unless there be probable
+cause supported by oath or affirmation.
+
+*** SEND ***
+*** SSTART 007.00 001.00 0 DE 1831 ***
+
+SEC. 7. In all criminal prosecution the accused hath a right to be heard by himself and his counsel; to
+be plainly and fully informed of the nature and cause of the accusation against him ; to meet the
+witnesses in their examination face to face; to have compulsory process in due time, on application by
+himself, his friends, or counsel, for obtaining witnesses in his favor, and a speedy and public trial by an
+impartial jury. He shall not be compelled to give evidence against himself; nor shall he be deprived of
+life, liberty or property unless by the judgment of his peers or the law of the land.
+
+*** SEND ***
+*** SSTART 008.00 001.00 0 DE 1831 ***
+
+SEC. 8. No person shall for any indictable offence be proceeded against criminally by information,
+except in cases arising in the land and naval forces, or in the militia when in actual service in time of war
+or public danger, and no person shall be for the same offence twice put in jeopardy of life or limb; nor
+shall any man's property be taken or applied to public use without the consent of his representatives,
+and without compensation being made.
+
+*** SEND ***
+*** SSTART 009.00 001.00 0 DE 1831 ***
+
+SEC. 9. All courts shall be open; and every man for an injury done him in his reputation, person,
+movable or immovable possessions, shall have remedy by the due course of law, and justice
+administered according to the very right of the cause and the law of the land, without sale, denial, or
+unreasonable delay or expense; and every action shall be tried in the county in which it shall be
+commenced, unless when the judges of the court in which the cause is to be tried shall determine that an
+impartial trial therefor cannot be had in that county. Suits may be brought against the State, according to
+such regulations as shall be made by law.
+
+*** SEND ***
+*** SSTART 010.00 001.00 0 DE 1831 ***
+
+SEC. 10. No power of suspending laws shall be exercised, but by authority of the legislature.
+
+*** SEND ***
+*** SSTART 011.00 001.00 0 DE 1831 ***
+
+SEC. 11. Excessive bail shall not be required, nor excessive fines imposed,  nor cruel punishment
+inflicted; and in the construction of jails proper regard shall be had to the health of prisoners.
+
+*** SEND ***
+*** SSTART 012.00 001.00 0 DE 1831 ***
+
+SEC. 12. All prisoners shall be bailable by sufficient sureties, unless for capital offences, when the proof
+is positive or the presumption great; and when persons are confined on accusation for such offences,
+their friends and counsel may at proper seasons have access to them.
+
+*** SEND ***
+*** SSTART 013.00 001.00 0 DE 1831 ***
+
+SEC. 13. The privilege of the writ of habeas corpus shall not be suspended unless when in cases of
+rebellion or invasion the public safety may require it.
+
+*** SEND ***
+*** SSTART 014.00 001.00 0 DE 1831 ***
+
+SEC. 14. No commission of oyer and terminer or gaol-delivery shall be issued.
+
+*** SEND ***
+*** SSTART 015.00 001.00 0 DE 1831 ***
+
+SEC. 15. No attainder shall work corruption of blood, nor, except during the life of the offender,
+forfeiture of estate. The estates of those who destroy their own lives shall descend or vest as in case of
+natural death and if any person be killed by accident, no forfeiture shall be thereby incurred.
+
+
+*** SEND ***
+*** SSTART 016.00 001.00 0 DE 1831 ***
+
+SEC. 16. Although disobedience to laws by a part of the people, upon suggestions of impolicy or
+injustice in them, tends, by immediate effect and the influence of example, not only to endanger the
+public welfare and safety, but also in governments of a republican form contravenes the social principles
+of such governments founded on common consent for common good, yet the citizens have a right in an
+orderly manner to meet together, and to apply to persons intrusted with the powers of government for
+redress of grievances or other proper purposes, by petition, remonstrance, or address.
+
+*** SEND ***
+*** SSTART 017.00 001.00 0 DE 1831 ***
+
+SEC. 17. No standing army shall be kept up without the consent of the legislature; and the military shall,
+in all cases and at all times, be in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 018.00 001.00 0 DE 1831 ***
+
+SEC. 18. No soldier shall in time of peace be quartered in any house without the consent of the owner,
+nor in time of war but by a civil magistrate, in a manner to be prescribed by law.
+
+*** SEND ***
+*** SSTART 019.00 001.00 0 DE 1831 ***
+
+SEC. 19. No hereditary distinction shall be ranted, nor any office created or exercised, the
+appointments to which shall be for a longer term than during good behavior; and no person holding an
+office under this State shall accept of any office or title of any kind whatever, from any king, prince, or
+foreign state.
+
+We declare that everything in this article is reserved out of the general powers of government
+hereinafter mentioned.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.00 DE 1831 ***
+
+ARTICLE II
+
+*** SSTART 001.00 002.00 0 DE 1831 ***
+
+SECTION 1. The legislative power of this State shall be vested in a general assembly, which shall
+consist of a senate and house of representatives.
+
+
+*** SEND ***
+*** SSTART 002.00 002.00 0 DE 1831 ***
+
+SEC. 2. The representatives shall be chosen [for two years] by the citizens residing in the several
+counties.
+
+No person shall be a representative who shall not have attained the age of twenty-four years, and have
+been a citizen and inhabitant of the State three years next preceding the first meeting of the legislature
+after his election, and the last year of that term an inhabitant of the county in which he shall be chosen,
+unless he shall have been absent on the public business of the United States, or of this State.
+
+There shall be seven representatives chosen in each county, until a greater number of representatives
+shall by the general assembly be judged necessary; and then, two-thirds of each branch of the legis-
+
+lature concurring, they may by law make provision for increasing their number.
+
+*** SEND ***
+*** SSTART 003.00 002.00 0 DE 1831 ***
+
+SEC. 3. The senators shall be chosen for four years by the citizens residing in the several counties.
+No person shall be a senator who shall not have attained to the age of twenty-seven years, and have, in
+the county in which he shall be chosen, a freehold estate in two hundred acres of land, or an estate in
+real or personal property, or in either, of the value of one thousand pounds at least, and have been a
+citizen and inhabitant of the State three years next preceding the first meeting of the legislature after his
+election, and the last year of that term an inhabitant of the county in which he shall be chosen, unless he
+shall have been absent on the public business of the United States, or of this State.
+
+There shall be three senators chosen in each county. When a greater number of senators shall by the
+general assembly be judged necessary, two-thirds of each branch concurring, they may by law make
+provision for increasing their number; but the number or senators shall never be greater than one-half
+nor less than one-third of the number of representatives.
+
+If the office of representative or the office of senator become vacant before the regular expiration of the
+term thereof, a representative or a senator shall be elected to fill such vacancy, and shall hold the office
+for the residue of said term.
+
+When there is a vacancy in either house of the general assembly, and the general assembly is not in
+session, the governor shall have power to issue a writ of election to fill such vacancy; which writ shall be
+executed as a writ issued by a speaker of either house in case of vacancy.
+
+*** SEND ***
+*** SSTART 004.00 002.00 0 DE 1831 ***
+
+SEC. 4. The general assembly shall -meet on the first Tuesday of January, biennially, unless sooner
+convened by the governor.
+
+The first meeting of the general assembly, under this amended constitution, shall be on the first Tuesday
+of January, in the year of our Lord 1833, which shall be the commencement of the biennial sessions.
+
+*** SEND ***
+*** SSTART 005.00 002.00 0 DE 1831 ***
+
+SEC. 5. Each house shall choose its speaker and other officers; and also each house, whose speaker
+shall exercise the office of governor, may choose a speaker pro tempore.
+
+*** SEND ***
+*** SSTART 006.00 002.00 0 DE 1831 ***
+
+SEC. 6. Each house shall judge of the elections, returns, and qualifications of its own members; and a
+majority of each shall constitute a quorum to do business but a smaller number may adjourn from day to
+day, and shall be authorized to compel the attendance of absent members in such manner and under
+such penalties as shall be deemed expedient.
+
+*** SEND ***
+*** SSTART 007.00 002.00 0 DE 1831 ***
+
+SEC. 7. Each house may determine the rules of its proceedings, punish any of its members for
+disorderly behavior, and, with the concurrence of two-thirds, expel a member, and shall have all other
+powers necessary for a branch of the legislature of a free and independent State.
+
+*** SEND ***
+*** SSTART 008.00 002.00 0 DE 1831 ***
+
+SEC. 8. Each house shall keep a journal of its proceedings, and publish them immediately after every
+session, except such parts as may require secrecy, and the yeas and nays of the members on any
+question shall, at the desire of any member, be entered on the journal.
+
+*** SEND ***
+*** SSTART 009.00 002.00 0 DE 1831 ***
+
+SEC. 9. The doors of each house' and of committees of the whole, shall be open, unless when the
+business is such as ought to be kept secret.
+
+*** SEND ***
+*** SSTART 010.00 002.00 0 DE 1831 ***
+
+SEC. 10. Neither house shall, without the consent of the other, adjourn for more than three days, nor to
+any other place than that in which the two houses shall be sitting.
+
+*** SEND ***
+*** SSTART 011.00 002.00 0 DE 1831 ***
+
+SEC. 11. The senators and representatives shall receive compensation for their services' to be
+ascertained by law, and paid out of the treasury of the State; but no law varying the compensation shall
+take effect until an election of the representatives shall have intervened. They shall in all cases, except
+treason, felony, or breach of the peace, be privileged from arrest during their attendance at the sessions
+of their respective houses, and in going to and returning from the same; and for any speech or debate in
+either house they shall not be questioned in any other place.
+
+*** SEND ***
+*** SSTART 012.00 002.00 0 DE 1831 ***
+
+SEC. 12. No senator or representative shall, during the time for which he shall have been elected, be
+appointed to any civil office under this State, which shall have been created, or the emoluments of
+which shall have been increased, during such time. No person concerned in any army or navy contracts,
+nor member of Congress, nor any person holding any office under this State, or the United States,
+except the attorney-general, officers usually appointed by the courts of Justice, respectively, attorneys
+at law, and officers in the militia, holding no disqualifying office, shall, during his continuance in Congress
+or in office, be a senator or representative.
+
+*** SEND ***
+*** SSTART 013.00 002.00 0 DE 1831 ***
+
+SEC. 13. When vacancies happen in either house, writs of election shall be issued by the speakers
+respectively, or in cases of necessity, in such other manner as shall be provided by law; and the persons
+thereupon chosen shall hold their seats as long as those in whose stead they are elected might have
+done if vacancies had not happened.
+
+*** SEND ***
+*** SSTART 014.00 002.00 0 DE 1831 ***
+
+SEC. 14. All bills for raising revenue shall originate in the house of representatives; but the senate may
+propose alterations as on other bills; and no bill, from the operations of which, when passed into a law,
+revenue may incidentally arise, shall be accounted a bill for raising revenue; nor shall any matter or
+clause whatever, not immediately relating to and necessary for raising revenue, be in any manner
+blended with or annexed to a bill for raising revenue.
+
+*** SEND ***
+*** SSTART 015.00 002.00 0 DE 1831 ***
+
+SEC. 15. No money shall be drawn from the treasury but in consequence of appropriations made by
+law; and a regular statement and account of the receipts and expenditures of all public money shall be
+published at least once in every two years.
+
+*** SEND ***
+*** SSTART 016.00 002.00 0 DE 1831 ***
+
+SEC. 16. The State treasurer shall be appointed biennially by the house of representatives, with the
+concurrence of the senate. In case of vacancy in the office of State treasurer in the recess of the general
+assembly, either through omission of the general assembly to appoint, or by the death, removal out of
+the State, resignation, or inability of the State treasurer, or his failure to give security, the governor shall
+fill the vacancy by appointment, to continue until the next meeting of the general assembly. The State
+treasurer shall settle his accounts annually with the general assembly, or a committee thereof, which shall
+be appointed at every biennial session. No person who hath served in the office of State treasurer shall
+be eligible to a seat in either house of the general assembly until he shall have made a final settlement of
+his accounts as treasurer, and discharged the balance, if any, due thereon.
+
+*** SEND ***
+*** SSTART 017.00 002.00 0 DE 1831 ***
+
+SEC. 17. No act of incorporation, except for the renewal of existing corporations, shall be hereafter
+enacted without the concurrence of two-thirds of each branch of the legislature, and with a reserved
+power of revocation by the legislature; and no act of incorporation which may-be hereafter enacted
+shall continue in force for a longer period than twenty years, without the re6nactment of the legislature,
+unless it be an incorporation for public improvement.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.00 DE 1831 ***
+
+ARTICLE III
+
+*** SSTART 001.00 003.00 0 DE 1831 ***
+
+SECTION 1. The supreme executive powers of the State shall be vested in a governor.
+
+*** SEND ***
+*** SSTART 002.00 003.00 0 DE 1831 ***
+
+SEC. 2. The governor shall be chosen by the citizens of the State.
+
+The returns of every election for governor shall be sealed up, and immediately delivered by the returning
+officers of the several counties to the speaker of the senate, or, in case of the vacancy of the office of
+the speaker of the senate, or his absence from the state, to the secretary of state, who shall keep the
+same until a speaker of the senate shall be appointed, to whom they shall be immediately delivered after
+his appointment, who shall open and publish the same in the presence of the members of both houses of
+the legislature. Duplicates of the said returns shall also be immediately lodged with the prothonotary of
+each county. The person having the highest number of votes shall be governor; but if two or more shall
+be equal in the highest number of votes, the members of the two houses shall, by joint ballot, choose
+one of them to be governor; and if, upon such ballot, two or more of them shall still be equal and highest
+in votes, the speaker of the senate shall have an additional casting vote.
+
+Contested elections of a governor shall be determined by a joint committee, consisting of one-third of
+all the members of each branch of the legislature, to be selected by ballot of the house respectively;
+every person of the committee shall take an oath or affirmation that in determining the said election he
+will faithfully discharge the trust reposed in him ; and the committee shall always sit with open doors.
+
+*** SEND ***
+*** SSTART 003.00 003.00 0 DE 1831 ***
+
+SEC. 3. The governor shall hold his office during four years from the third Tuesday in January next
+ensuing his election, and shall not be eligible a second time to said office.
+
+*** SEND ***
+*** SSTART 004.00 003.00 0 DE 1831 ***
+
+SEC. 4. He shall be at least thirty years of age, and have been a citizen and inhabitant of the Unite
+States twelve years next before the first meeting of the legislature after his election, and the last six of
+that term an inhabitant of this State, unless he shall have been absent on the public business of the
+United States, or of this State.
+
+*** SEND ***
+*** SSTART 005.00 003.00 0 DE 1831 ***
+
+SEC. 5. No member of Congress, nor person holding any office under the United States, or this State,
+shall exercise the office of governor.
+
+*** SEND ***
+*** SSTART 006.00 003.00 0 DE 1831 ***
+
+SEC. 6. The governor shall, at stated times, receive for his services an adequate salary, to be fixed by
+law, which shall be neither increased nor diminished during the period for which he shall have been
+elected.
+
+*** SEND ***
+*** SSTART 007.00 003.00 0 DE 1831 ***
+
+SEC. 7. He shall be commander-in -chief of the army and navy of the State, and of the militia, except
+when they shall be called into the service of the United States.
+
+*** SEND ***
+*** SSTART 008.00 003.00 0 DE 1831 ***
+
+SEC. 8. He shall appoint all officers whose offices are established by this constitution, or shall be
+established by law, and whose appointments are not herein otherwise provided for; but no person shall
+be appointed to an office within a county, who shall not gave a right to vote for representatives, and
+have been an inhabitant therein one year next before his appointment, nor hold the office longer than he
+continues to reside in the county. No member of Congress, nor any person holding or exercising any
+office under the United States, shall at the same time hold or exercise the office of judge, treasurer,
+attorney-general, secretary, prothonotary, register for the probate of wills and granting letters of
+administration, recorder, sheriff, or any office under this State, with a salary by law annexed to it, or any
+other office which the legislature shall declare incompatible with offices or appointments under the
+United States. No person shall hold more than one of the following offices at the same time, to wit:
+treasurer, attorney-general, prothonotary, register, or sheriff. All commissions shall be in the name of
+the State, shall be sealed with the great seal, and be signed and tested by the governor.
+
+*** SEND ***
+*** SSTART 009.00 003.00 0 DE 1831 ***
+
+SEC. 9. He shall have power to remit fines and forfeitures, and to grant reprieves and parsons, except
+in cases of impeachment. He shall set forth in writing, fully, the grounds of all reprieves, pardons, and
+remissions, to be entered in the register of his official acts, and laid before the general assembly at their
+next session.
+
+*** SEND ***
+*** SSTART 010.00 003.00 0 DE 1831 ***
+
+SEC. 10. He may require information in writing from the officers in the executive department, upon any
+subject relating to the duties of their respective offices.
+
+*** SEND ***
+*** SSTART 011.00 003.00 0 DE 1831 ***
+
+SEC. 11. He shall, from time to time, give to the general assembly information. of affairs concerning the
+State, and recommend to their consideration such measures as he shall judge expedient.
+
+*** SEND ***
+*** SSTART 012.00 003.00 0 DE 1831 ***
+
+SEC. 12. He may, on extraordinary occasions, convene the general assembly; and, in case of
+disagreement between the two houses with respect to the time of adjournment, adjourn them to such
+time as he shall think proper, not exceeding three months.
+
+*** SEND ***
+*** SSTART 013.00 003.00 0 DE 1831 ***
+
+SEC. 13. He shall take care that the laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 014.00 003.00 0 DE 1831 ***
+
+SEC. 14. Upon any vacancy happening in the office of governor by his death, removal, resignation, or
+inability, the speaker of the senate shall exercise the office until a governor elected by the people shall
+be duly qualified. If there be no Speaker of the senate, or upon a further vacancy happening in the
+office by his death, removal, resignation, or inability, the speaker of the house of representatives shall
+exercise the office until a governor elected by the people shall be duly qualified. If the person elected
+governor shall die, or become disqualified, before the commencement of his term of office, or shall
+refuse to take the same, the person holding the office shall continue to exercise it until a governor shall
+be elected and duly qualified. If upon a vacancy happening in the office of governor there be no other
+person who can exercise said office within the provisions of the constitution, the secretary of state shall
+exercise the same until the next meeting of the general assembly, who shall immediately proceed to
+elect, by joint ballot of both houses, a person to exercise the office until a governor, elected by the
+people, shall be duly qualified. If a vacancy occur in the office of governor, or if the governor-elect die,
+or become disqualified, before the commencement of his term, or refuse to take the office, an election
+for governor shall be held at the next general election, unless the vacancy happen within six days next
+preceding the election, exclusive of the day of the happening of the vacancy and the day of the election;
+in that case, if an election for governor would not have been held at said election, without the happening
+of such vacancy, no election for governor shall be held at said election in consequence of such vacancy.
+If the trial of a contested election shall continue longer than until the third Tuesday of January next
+ensuing the election of a governor, the governor of the last year, or the speaker of the senate, or of the
+house of representatives, who may then be in the exercise of the executive authority, shall continue
+therein until a determination of such contested election. The governor shall not be removed from his
+office for inability but with the concurrence of two-thirds of all the members of each branch of the
+legislature.
+
+*** SEND ***
+*** SSTART 015.00 003.00 0 DE 1831 ***
+
+SEC. 15. A secretary shall be appointed and commissioned during the governor's continuance in office,
+if he shall so long behave himself well. He shall keep a fair register of all the official acts and proceed-
+
+ings of the governor, and shall, when required by either branch of the legislature, lay the same, and all
+papers, minutes, and vouchers relative thereto, before them, and shall perform such other duties as shall
+be enjoined him by law. He shall have a compensation for his services, to be fixed by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.00 DE 1831 ***
+
+                           ARTICLE IV
+
+*** SSTART 001.00 004.00 0 DE 1831 ***
+
+SECTION 1. All elections for governor, senators, representatives, sheriffs, and coroners shall be held
+on the second Tuesday of November, and be by ballot; and in such elections every free white male citi-
+
+zen of the age of twenty-two years or upwards, having resided in the State one year next before the
+election, and the last month thereof in the county where he offers to vote, and having within two years
+next before the election paid a county tax,  which shall have been assessed at least six months before
+the election, shall enjoy the right of an elector; and every free white male citizen of the age of twenty-
+one years, and under the age of twenty-two years, having resided as aforesaid, shall be entitled to vote
+without payment of any tax: Provided That no person in the military, naval, or marine service of the
+United States shall be considered as acquiring a residence in this State, by being stationed in any
+garrison, barrack, or military or naval place or station within this State; and no idiot, or insane person,
+or pauper, or person convicted of a crime deemed by law felony, shall enjoy the right of an elector; and
+that the legislature may impose they forfeiture of the right of suffrage as a punishment for crime.
+
+*** SEND ***
+*** SSTART 002.00 004.00 0 DE 1831 ***
+
+SEC. 2. Electors shall in all cases, except treason, felony, or breach of the peace, be privileged from an
+arrest during their attendance at elections, and in going to and returning from them.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.00 DE 1831 ***
+*** SSTART 001.00 005.00 0 DE 1831 ***
+
+
+                  ARTICLE V
+
+SECTION 1. The house of representatives shall have the sole power of impeaching; but two-thirds of
+all the members must concur in an impeachment. All impeachments shall be tried by the senate; and
+when sitting for that purpose the senators shall be upon oath or affirmation to do justice according to the
+evidence. No person shall be convicted without the concurrence of two-thirds of all the senators.
+
+*** SEND ***
+*** SSTART 002.00 005.00 0 DE 1831 ***
+
+SEC. 2. The governor, and all other civil officers under this State, shall be liable to impeachment for
+treason, bribery, or any high crime or misdemeanor in office. Judgment in such cases shall not extend
+further than to removal from office, and disqualification to hold any office of honor, trust, or profit under
+this State; but the party convicted shall nevertheless be subject to indictment, trial, judgment, and
+punishment according to law.
+
+*** SEND ***
+*** SSTART 003.00 005.00 0 DE 1831 ***
+
+SEC. 3. Treason against this State shall consist only in levying war against it, or in adhering to the
+enemies of the Government, giving them aid and comfort. No person shall be convicted of treason,
+unless on the testimony of two witnesses to the same overt act, or on confession in open court.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.00 DE 1831 ***
+*** SSTART 001.00 006.00 0 DE 1831 ***
+
+
+ARTICLE VI
+
+Judicial power of this State shall be vested in a court of appeals, a superior court, a court of chancery,
+an orphans' court, a court of oyer and terminer, a court of general sessions of the peace and jail-
+delivery, a register's court, justices of the peace, and such other courts as the general assembly, with the
+concurrence of two-thirds of all the members of both houses, shall from time to time establish.
+
+*** SEND ***
+*** SSTART 002.00 006.00 0 DE 1831 ***
+
+SEC. 2. To compose the said courts there shall be five judges in the State. One of them shall be
+chancellor of the State; he shall also be president of the orphans' court; he may be appointed in any part
+of the State. The other four judges shall compose the superior court, the court of oyer and terminer,
+and the court of general sessions of the peace and jail-delivery, as hereinafter prescribed. One of them
+shall be chief-justice of the State, and may bd appointed in any part of it. The other three judges shall
+be associate judges, and one of them shall reside in each county.
+
+*** SEND ***
+*** SSTART 003.00 006.00 0 DE 1831 ***
+
+SEC. 3. The superior court shall consist of the chief-justice and two associate judges. The chief-justice
+shall reside in every county, and in his absence the senior associate Judge sitting in the county shall
+preside. No associate judge shall sit in the county in which he resides. Two of the said judges shall
+constitute a quorum. One may open and adjourn the court and make all rules necessary for the
+expediting of business.
+
+This court shall have jurisdiction of all causes of a civil nature, real, personal, and mixed, at common
+law, and all other the jurisdiction and powers vested by the laws of this State in the supreme court or
+court of common pleas.
+
+*** SEND ***
+*** SSTART 004.00 006.00 0 DE 1831 ***
+
+SEC. 4. The court of general sessions of the peace and jail-delivery shall be composed in each county
+of the same judges and in the same manner as the superior court. Two shall constitute a quorum. One
+may open and adjourn the court. This court shall have all the jurisdiction and powers vested by the laws
+of this State in the court of general quarter sessions of the peace and jail-delivery.
+
+*** SEND ***
+*** SSTART 005.00 006.00 0 DE 1831 ***
+
+SEC. 5. The chancellor shall hold the court of chancery. This court shall have all the powers vested by
+the laws of this State in the court of chancery.
+
+*** SEND ***
+*** SSTART 006.00 006.00 0 DE 1831 ***
+
+SEC. 6. The court of over and terminer shall consist of all the judges except the chancellor. Three of
+the said judges shall constitute a quorum. One may open and adjourn the. court. This court shall
+exercise the jurisdiction now vested in the courts of oyer and terminer and general jail-delivery by the
+laws of this State. In the absence of the chief-justice, the senior associate present shall preside.
+
+*** SEND ***
+*** SSTART 007.00 006.00 0 DE 1831 ***
+
+SEC. 7. The court of errors and appeals shall. have jurisdiction to issue writs of error to the superior
+court, and to receive appeals from, the court of chancery, and to determine finally all matters in error in
+the judgments and proceedings of said superior court, and all matters of appeal in the interlocutory or
+final decrees and proceedings in chancery. The court of errors and appeals upon a writ of error to the
+superior court shall consist of three judges at least; that is to say, the chancellor, who shall preside, the
+associate judge who could not on account of his residence sit in the cause below, and one of the judges
+who did sit in the said cause. The judges of the superior court to whom it appertains to hold the
+superior court in each county shall sit alternately in the court of errors and appeals in cases in error
+brought from the superior court held in such county, according to the following rotation, that is to say: if
+the judgment below be rendered in the court in New Castle County at the first term of the said court
+there, the chief-justice shall sit; if at the second term of said court there, the associate judge for Kent
+County shall sit; and if at the third term of said court there, the associate judge for Sussex County shall
+sit. If the judgment below be rendered in the court in Kent County at the first term of said court there,
+the associate judge for Sussex County shall sit; if at the second term of the said court there, the
+associate judge for New Castle County shall sit; and if at the third term of the court there, the chief-
+justice shall sit. If the judgment below be rendered in the court in Sussex County at the first term of said
+court there, the associate judge for New Castle County shall sit; if at the second term of said court
+there, the chief-justice shall sit, and if at the third term of said court there, the associate judge for Kent
+County shall sit; and so from term to term, in every succeeding rotation, the judges beginning and
+following each other in the same order. But if in any case, in the court of errors and appeals, the judge
+who sat in the cause below, and ought according to this provision to sit in the court of errors and
+appeals, be absent, unable, or disqualified, then either of the other judges who sat in the cause below
+may sit; and the court shall have power to prevent any inconvenience or delay from observing the
+rotation above described, by making an order or regulation for either of the judges who sat in the cause
+below to sit in such cause in the court of errors and appeals. If a judge did not sit in the cause below, he
+shall sit in the said cause in the court of errors and appeals, unless there be a legal exception to him; but
+the court, if there be three judges present, may proceed in his absence.
+
+Whenever the superior court consider that a question of law ought to be decided before all the Judges,
+they shall have power, upon the application of either party, to direct it to be heard in the court of errors
+and appeals.; and in that case the chancellor and four judges shall compose the court of errors and
+appeals, the chancellor presiding, and any four of them being a quorum; and, in the absence of the
+chancellor, the chief-justice shall preside. The superior court in exercising this power may direct a cause
+to be proceeded in to verdict and judgment in that court, or to be otherwise proceeded in, as shall be
+best for expediting justice.
+
+Upon appeal from the court of chancery the court of errors and appeals shall consist of the chief-justice
+and three associate judges; an three of them shall be a quorum.
+
+*** SEND ***
+*** SSTART 008.00 006.00 0 DE 1831 ***
+
+SEC. 8. In matters of chancery jurisdiction in which the chancellor is interested, the chief-justice sitting
+in the superior court without the associate judges, shall have jurisdiction, with an appeal to the court of
+errors and appeals, which shall consist in this case of the three associate judges, the senior associate
+judge presiding.
+
+*** SEND ***
+*** SSTART 009.00 006.00 0 DE 1831 ***
+
+SEC. 9. The governor shall have power to commission a judge ad litem, to decide any cause in which
+there is a legal exception to the chancellor, or any judge, so that such appointment is necessary to
+constitute a quorum in either court. The commission in such case shall confine the office to the cause,
+and it shall expire on the determination of the cause. The judge so appointed shall receive a reasonable
+compensation, to be fixed by the general assembly. A member of Congress, or any person holding or
+exercising an office under the United States, shall not be disqualified from being appointed a judge ad
+litem.
+
+*** SEND ***
+*** SSTART 010.00 006.00 0 DE 1831 ***
+
+SEC. 10. The orphans' court in each county shall be held by the chancellor and the associate judge
+residing in the county, the chancellor being president. Either of them, in the absence of the other, may
+hold the court. When they concur in opinion there shall be no appeal from their decision except in
+matter of real estate. When their opinions are opposed, or when a decision is made by one of them, and
+in all matters involving a right to real estate, or the appraised value or other value thereof, there shall be
+an appeal to the superior court for the county, which shall have final jurisdiction in every such case. This
+court shall have all the jurisdiction and powers vested by the laws of this State in the orphans' court.
+
+*** SEND ***
+*** SSTART 011.00 006.00 0 DE 1831 ***
+
+SEC. 11. The jurisdiction of each of the aforesaid courts shall be co-extensive with the State.. Process
+may be issued out of each court in either county, into every county.
+
+*** SEND ***
+*** SSTART 012.00 006.00 0 DE 1831 ***
+
+SEC. 12. The general assembly, notwithstanding anything contained in this article, shall have power to
+repeal or alter any act of the general assembly, giving jurisdiction to the courts of oyer and terminer and
+general gaol-delivery, or to the supreme court, or the court of common pleas, or the court of general
+quarter sessions of the peace and general gaol-delivery, or the orphans' court, or to the court of
+chancery, in any matter, or giving any power to either of said courts. Until the general assembly shall
+otherwise direct, there shall be an appeal to the court of errors and appeals in all cases in which there is
+an appeal, according to any act of the general assembly, to the high court of errors and appeals.
+
+*** SEND ***
+*** SSTART 013.00 006.00 0 DE 1831 ***
+
+SEC. 13. Until the general assembly shall otherwise provide, the chancellor shall exercise all the powers
+which any law of the State vests in the chancellor besides the general powers of the court of chancery;
+and the chief-justice and associate judges shall each singly exercise all the powers which any law of this
+State vests in the judges singly of the supreme court or court of common pleas.
+
+*** SEND ***
+*** SSTART 014.00 006.00 0 DE 1831 ***
+
+SEC. 14. The chancellor and judges shall respectively hold their offices during good behavior, and
+receive for their services a compensation which shall be fixed by law and paid quarterly, and shall not
+be less than the following sums, that is to say: the annual salary of the chief-justice shall not be less than
+the sum of one thousand two hundred dollars; and the annual salary of the chancellor shall not be less
+than the sum of one thousand one hundred dollars; and the annual salaries of the associate judges,
+respectively, shall not be less than the sum of one thousand dollars each. They shall hold no other office
+of profit, nor receive any fees or perquisites in addition to their salaries for business done by them. The
+governor may, for any reasonable cause, in his discretion, remove any of them on the address of two-
+thirds of all the members of each branch of the general assembly. In all cases where the legislature shall
+so address the governor, the cause of removal shall be entered on the journals of each house. The
+judge against whom the legislature may be about to proceed shall receive notice thereof, accompanied
+with the causes alleged for his removal, at least five days before the. day on which either house of the
+general assembly shall act thereupon.
+
+*** SEND ***
+*** SSTART 015.00 006.00 0 DE 1831 ***
+
+SEC. 15. The general assembly may by law give to any inferior courts by them to be established, or to
+one or more justices of the peace, jurisdiction of the criminal matters following, that is to say, assaults
+and batteries, keeping without license a public house of entertainment, tavern, inn, ale-house,.ordinary,
+or victualling house, retailing or selling without license wine, rum, brandy, gin, whiskey, or spirituous or
+mixed liquors contrary to law, disturbing camp-meetings held for the purpose of religious worship,
+disturbing other meetings for the purpose of religious worship, nuisances, horse-racing, cock-fighting,
+and shooting-matches, larcenies committed by negroes or mulattoes, and the offence of knowingly
+buying receiving or concealing, by negroes or mulattoes, of stolen goods anything the subject of larceny,
+and of any negro, or mulatto being accessary to any larceny. The general assembly may by law regulate
+this jurisdiction, and provide that the proceedings shall be with or without indictment by grand jury, or
+trial by petit jury and may grant or deny the privilege of appeal to the court of general sessions of the
+peace. The matters within this section shall be, and the same hereby are, excepted and excluded from
+the provision of the constitution that "No person shall for an indictable offense be proceeded against
+criminally by information," and also from the provision of the constitution concerning trial by jury.
+
+*** SEND ***
+*** SSTART 016.00 006.00 0 DE 1831 ***
+
+SEC. 16. In civil causes, when pending, the superior court shall have the power, before judgment, of
+directing, upon such terms as they shall deem reasonable, amendments in pleadings and legal pro-
+
+ceedings, so that by error in any of them the determination or causes, according to their real merits,
+shall not be hindered; and also of directing the examination of witnesses that are aged, very infirm, or
+going out of the State, upon interrogatories de bene esse, to be read in evidence, in case of the death or
+departure of the witnesses before the trial, or inability by reason of age, sickness, bodily infirmity, or
+imprisonment, then to attend; and also the power of obtaining evidence from places not within this
+State.
+
+*** SEND ***
+*** SSTART 017.00 006.00 0 DE 1831 ***
+
+
+SEC. 17. At any time pending an action for debt or damages, the defendant may bring into court a sum
+of money for discharging the same and the cost then accrued, and the plaintiff not accepting thereof, it
+shall be delivered for his use to the clerk or prothonotary of the court; and if, upon the final decision of
+the cause, the plaintiff shall not recover a greater sum than that so paid into court for him, he shall not
+recover any costs accruing after such payment, except where the plaintiff is an executor or
+administrator.
+
+*** SEND ***
+*** SSTART 018.00 006.00 0 DE 1831 ***
+
+SEC. 18. By the death of any party, no suit in chancery or at law, where the cause of action survives,
+shall abate, but, until the legislature shall otherwise provide, suggestion of such death being entered of
+record, the executor or administrator of a deceased petitioner or plaintiff may prosecute the same suit;
+and if a respondent or defendant dies, the executor or administrator being duly served with a scire
+facias, thirty days before the term thereof, shall be considered as a party to the suit, in the same manner
+as if he had voluntarily made himself a party; and in any of those cases, the court shall pass a decree, or
+render judgment for or against the executors or administrators, as to right appertains. But where an
+executor or administrator of a deceased respondent or defendant becomes a party, the court, upon
+motion, shall grant such a continuance of the cause as to the judges shall appear proper.
+
+*** SEND ***
+*** SSTART 019.00 006.00 0 DE 1831 ***
+
+SEC. 19. Whenever a person, not being an executor or administrator, appeals from a decree of the
+chancellor, or applies for a writ of error, such a appeal or writ shall be no stay of proceeding in the
+chancery, or to the court to which the writ issues, unless the appellant or plaintiff in error shall give
+sufficient security, to be approved respectively by the chancellor, or by a judge of the court from which
+the writ issues, that the appellant or plaintiff in error shall prosecute respectively his appeal or writ to
+effect, and pay the condemnation money and all costs, or otherwise abide the decree in appeal, or the
+judgment in error, if he fail to make his plea good.
+
+*** SEND ***
+*** SSTART 020.00 006.00 0 DE 1831 ***
+
+SEC. 20. No writ of error shall be brought upon any judgment heretofore confessed, entered, or
+rendered but within five years from this time; nor upon any judgment hereafter to be confessed, entered,
+or rendered, but within five years after the confessing, entering, or rendering thereof; unless the person
+entitled to such writ be an infant, feme-covert, non compos mentis, or a prisoner, and then with five
+years exclusive of the time of such disability.
+
+*** SEND ***
+*** SSTART 021.00 006.00 0 DE 1831 ***
+
+SEC. 21. An executor, administrator, or guardian shall file every account with the register for the
+county, who shall, as soon as conveniently may be, carefully examine the particulars with the proofs
+thereof, in the presence of such executor, administrator, or guardian, and shall adjust and settle the
+same according to the very right of the matter and the law of the land which account so settled shall
+remain in his office for inspection; and the executor, administrator, or guardian shall, within three months
+after such settlement, give due notice in writing to all persons entitled to shares of the estate, or to their
+guardians respectively if residing within the State, that the account is lodged in the same office for
+inspection. Exceptions may be made by persons concerned, to both sides of every such account, either
+denying the justice of the allowances made to the accountant, or alleging further charges against him;
+and the exceptions shall be heard in the orphans' court for the county; and thereupon the account shall
+be adjusted and settled according to the right of the matter and the law of the land.
+
+*** SEND ***
+*** SSTART 022.00 006.00 0 DE 1831 ***
+
+SEC. 22. The registers of the several counties shall respectively hold the register's court in each county.
+Upon the litigation of a cause the depositions of the witnesses examined shall be taken at large in
+writing, and make part of the proceedings in the cause. This court may issue process throughout the
+State to compel the attendance of witnesses. Appeals may be made from the register's court to the
+superior court, whose decision shall be final. In cases where a register is interested in questions
+concerning the probate of wills, the granting letters of administration, or executors, administrators, or
+guardians' accounts, the cognizance thereof shall belong to the orphans' court, with an appeal to the
+superior court, whose decisions shall be final.
+
+*** SEND ***
+*** SSTART 023.00 006.00 0 DE 1831 ***
+
+SEC. 23. The prothonotary of the superior court may issue process, take recognizances of bail, and
+enter judgments according to law and the practice of the court. No judgment in one county shall bind
+lands or tenements in another, until a testatum fieri facias being issued, shall be entered of record in
+the office of the prothonotary of the county wherein the lands or tenements are situated.
+
+*** SEND ***
+*** SSTART 024.00 006.00 0 DE 1831 ***
+
+SEC. 24. The governor shall appoint a competent number of persons to the office of justice of the
+peace, not exceeding twelve in each county, until two-thirds of both houses of the legislature shall by
+law direct an addition to the number, who shall be commissioned for seven years, if so long they shall
+behave themselves well, but may be removed by the governor within that time on conviction of misbe-
+
+havior in office, or on the address of both houses of the legislature.
+
+*** SEND ***
+*** SSTART 025.00 006.00 0 DE 1831 ***
+
+SEC. 25. The style in all process and public acts shall be, "The State of Delaware." Prosecutions shall
+be carried on in the name of the State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.00 DE 1831 ***
+
+                          ARTICLE VII
+
+*** SSTART 001.00 007.00 0 DE 1831 ***
+
+SECTION 1. The members of the senate and house of representatives, the chancellor, the judges, and
+the attorney-general shall, by virtue of their offices, be conservators of the peace throughout the State;
+and the treasurer, secretary, prothonotaries, registers, recorders, sheriffs, and coroners shall, by virtue
+of their offices, be conservators thereof within the counties respectively in which they reside.
+
+*** SEND ***
+*** SSTART 002.00 007.00 0 DE 1831 ***
+
+SEC. 2. The Representative, and, when there shall be more than one, the Representatives of the people
+of this State in Congress, shall be voted for at the same places where representatives in the State legis-
+
+lature are voted for, and in the same manner.
+
+*** SEND ***
+*** SSTART 003.00 007.00 0 DE 1831 ***
+
+SEC. 3. The sheriff and coroner of each county shall be chosen by the citizens residing in such county.
+They shall hold their respective offices for two years, if so long they behave themselves well, and until
+successors be duly qualified; but no person shall be twice chosen sheriff upon election by the citizens in
+any term of four years. They shall be commissioned by the governor. The governor shall fill vacancies in
+these offices by appointments to continue until the next election, and until successors shall be duly
+qualified. The legislature, two-thirds of each branch concurring, may vest the appointment of sheriffs
+and coroners in the governor; but no person shall be twice appointed sheriff in any term of six years.
+
+*** SEND ***
+*** SSTART 004.00 007.00 0 DE 1831 ***
+
+SEC. 4. The attorney-general, registers in chancery, prothonotaries, registers, clerks of the orphans'
+court and of the peace, shall respectively be commissioned for five years, if so long they shall behave
+themselves well, but may be removed by the governor within that time on conviction of misbehavior in
+office, or on the address of both houses of the legislature. Prothonotaries, registers in chancery, clerks
+of the orphans' court, registers, recorders, and sheriffs, shall keep their offices in the town or place in
+each county in which the superior court is usually held.
+
+*** SEND ***
+*** SSTART 005.00 007.00 0 DE 1831 ***
+
+SEC. 5. Attorneys at law, all inferior officers in the treasury department, election officers, officers
+relating to taxes, to the poor, and to highways, constables and hundred officers, shall be appointed in
+such manner as is or may be directed by law.
+
+*** SEND ***
+*** SSTART 006.00 007.00 0 DE 1831 ***
+
+SEC. 6. All salaries and fees annexed to officers shall be moderate; and no officer shall receive any fees
+whatever without giving to the person who pays a receipt for them. if required, therein specifying every
+particular, and the charge for it.
+
+*** SEND ***
+*** SSTART 007.00 007.00 0 DE 1831 ***
+
+SEC. 7. No costs shall be paid by a person accused on a bill being returned ignoramus, nor on
+acquittal by a jury.
+
+*** SEND ***
+*** SSTART 008.00 007.00 0 DE 1831 ***
+
+SEC. 8. The rights, privileges, immunities, and estates of religious societies and corporate bodies shall
+remain as if the constitution of this State had not been altered. No ordained clergyman or ordained
+preacher of the gospel of any denomination shall be capable of holding any civil office in the State, or of
+being a member of either branch of the legislature while be continues in the exercise of the pastoral or
+clerical functions.
+
+*** SEND ***
+*** SSTART 009.00 007.00 0 DE 1831 ***
+
+SEC. 9. All the laws of this State existing at the time of making this constitution, and not inconsistent
+with it, shall remain in force, unless they shall be altered by future laws; and all actions and prosecutions
+now pending shall proceed as if this constitution had not been made.
+
+*** SEND ***
+*** SSTART 010.00 007.00 0 DE 1831 ***
+
+SEC. 10. This constitution shall be prefixed to every edition of the laws made by direction of the
+legislature.
+
+*** SEND ***
+*** SSTART 011.00 007.00 0 DE 1831 ***
+
+SEC. 11. The legislature shall, as soon as conveniently may be, provide by law for ascertaining what
+statutes and parts of statutes shall continue to be in force within this State; for reducing them and all acts
+of the general assembly into such order, and publishing them in such manner that thereby the knowledge
+of them may be generally diffused; for choosing inspectors and judges of elections, and regulating the
+same in such manner as shall most effectually guard the rights of the citizens entitled to vote; for better
+securing personal liberty, and easily and speedily redressing all wrongful restraints thereof; for more
+certainly obtaining returns, of impartial juries; for dividing lands and tenements in sales by sheriffs, where
+they will bear a division, into as many parcels as may be without spoiling the whole, and for advertising
+and making the sales in such manner and at such times and places as may render them most beneficial
+to all persons concerned; and for establishing schools and promoting arts and sciences.
+
+*** SEND ***
+*** SSTART 012.00 007.00 0 DE 1831 ***
+
+SEC. 12. No property qualification shall be necessary to the holding of any office in this State, except
+the office of senator in the general assembly, and the office of assessor, inquisitor on lands,  levy-court
+commissioner, and except such offices as the general assembly shall by law designate.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.00 DE 1831 ***
+*** SSTART 001.00 008.00 0 DE 1831 ***
+
+                          ARTICLE VIII
+
+Members of the general assembly and all officers, executive and judicial, shall be bound by oath or
+affirmation to support the constitution of this State, and to perform the duties of their respective offices
+with fidelity.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.00 DE 1831 ***
+*** SSTART 001.00 009.00 0 DE 1831 ***
+
+                           ARTICLE IX
+
+The general assembly, whenever two-thirds of each house shall deem it necessary, may, with the
+approbation of the governor, propose amendments to this constitution, and at least three, and not more
+than six months before the next general election of representatives, duly publish them in print for the
+consideration of the people; and if three-fourths of each branch of the legislature shall, after such ail
+election and before another, ratify the said amendments, they shall be valid to all intents and purposes
+as parts of this constitution.
+
+No convention shall be called but by the authority of the people; and an unexceptionable mode of
+making their sense known will be for them at a special election on the third Tuesday of May in any year
+to vote by ballot for or against a convention, as they shall severally choose to do; and if thereupon it
+shall appear that a majority of all the citizens in the State, having right to vote for representatives, have
+voted for a convention, the general assembly shall accordingly at their next session call a convention, to
+consist of at least as many members as there are in both houses of the legislature, to be chosen in the
+same manner, at the same places, and at the same time that representatives are by the citizens entitled
+to vote for representatives, on due notice given for one month, and to meet within three months after
+they shall be elected. The majority of all the citizens in the State having right to vote for representatives
+shall be ascertained by reference to the highest number of votes cast in the State at any one of the three
+general elections next preceding the day of voting for a convention, except when they may be less than
+the whole number of votes voted both for and against a convention, in which case the said majority shall
+be ascertained by reference to the number of votes given on the day of voting for or against a
+convention; and whenever the general assembly shall deem a convention necessary, they shall provide
+by law for the holding of a special election for the purpose of ascertaining the sense of the majority of
+the citizens of the State entitled to vote for representatives.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9003.0 DE 1831 ***
+*** SSTART 001.00 9003.0 0 DE 1831 ***
+
+
+                            SCHEDULE
+
+That no inconveniences may arise from the amendments of the constitution of this State, and in order to
+carry the same into complete operation, it is hereby declared and ordained as follows:
+
+SECTION 1. The offices of the present senate and representatives shall not be vacated by any
+amendment of the constitution made in this convention, nor otherwise affected, except that the terms of
+the representatives and the terms of the senators which will expire on the first Tuesday of October, in
+the year of our Lord one thousand eight hundred and thirty-two, are hereby extended to the second
+Tuesday of November in that year; and the terms of the senators' which will expire on the first Tuesday
+of October, in the year of our Lord one thousand eight hundred and thirty-three, are hereby extended
+to the second Tuesday of November in that year. And the terms of the senators which will expire on the
+first Tuesday of October, in the year of our Lord one thousand eight hundred and thirty-four, are
+hereby extended to the second Tuesday of November in the year.
+
+The general assembly shall meet on the first Tuesday of January next, and shall not be within the
+amended provision respecting biennial sessions, which biennial sessions shall commence with the
+session of the general assembly on the first Tuesday of January, in the year of our Lord one thousand
+eight hundred and thirty-three.
+
+*** SEND ***
+*** SSTART 002.00 9003.0 0 DE 1831 ***
+
+SEC. 2. The offices of the present sheriffs and coroners shall not be vacated by any amendment to the
+constitution made in this convention nor otherwise affected, except that the term of office of the sheriff
+of Sussex County is hereby extended to the second Tuesday of November, in the year of our Lord one
+thousand eight hundred and thirty two, and until a successor be duly qualified; and on the second
+Tuesday of November, in the year of our Lord one thousand eight hundred and thirty-two, shall be the
+first election for sheriff in Sussex County, under this amended constitution. And the term of the present
+coroner for Sussex County is hereby extended to the second Tuesday of November, in the year of our
+Lord one thousand eight hundred and thirty-four, and until a successor shall be duly qualified; and on
+the said last-mentioned day shall be the first election for coroner in Sussex County under this amended
+constitution.
+
+The terms of the present sheriffs and coroners for Kent County and New Castle County are hereby
+extended to the second Tuesday of November, in the year of our Lord one thousand eight hundred and
+thirty-three, and until successors to them respectively be duly qualified; and on or after the first Tuesday
+of November, in the year of our Lord one thousand eight hundred and thirty-three, the governor shall
+have power to appoint a sheriff and a coroner for New Castle County, and a sheriff and coroner for
+Kent County, to continue in office until the second Tuesday of November, in the year of our Lord one
+thousand eight hundred and thirty-four, and until successors to them respectively be duly qualified. And
+on the said last-mentioned day shall be the first election for sheriff and for coroner in New Castle
+County and in Kent County under this amended constitution, unless a vacancy happen in the office of
+sheriff or coroner of New Castle or Kent County, or of coroner for Sussex County, before the second
+Tuesday of November, in the year of our Lord one thousand eight hundred and thirty-two; in which
+case an election shall be held on that day for a sheriff or a coroner under this amended constitution, in
+place of the sheriff or coroner whose office had become vacant.
+
+*** SEND ***
+*** SSTART 003.00 9003.0 0 DE 1831 ***
+
+SEC. 3. The first election for representatives under this amended constitution shall be held on the
+second Tuesday of November, in the year of our Lord one thousand eight hundred and thirty-two,
+which shall be the commencement of biennial elections. At this election one senator shall be chosen in
+each county for four years. Also, at the biennial election to be held in the several counties on the second
+Tuesday of November, in the year of our Lord one thousand eight hundred and thirty-four, two
+senators in each county will eight hundred and thirty-four, two senators shall be chosen in each county
+for four years each. But as the term of one senator in each county will expire on the second Tuesday of
+November, in the year of our Lord one thousand eight hundred and thirty-three, when no election will
+be held to provide for this special case, a senator shall be chosen in each county, at the election held on
+the second Tuesday of November, in the year of our Lord one thousand eight hundred and thirty-two,
+for one year, to succeed the senator for such county whose term shall expire on the second Tuesday of
+November, in the year of our Lord one thousand eight hundred and thirty-three, and to continue in
+office until the second Tuesday in November, in the year of our Lord one thousand eight hundred and
+thirty-four, when two senators shall be chosen in each county as afore provided.
+
+*** SEND ***
+*** SSTART 004.00 9003.0 0 DE 1831 ***
+
+SEC. 4. The term of office of the present governor shall not be vacated nor extended by amendment
+made to the constitution in this convention; but the said office shall continue during the original term
+thereof ; but the ninth and fourteenth sections of the third article of this constitution shall be immediately
+in force as amended. An election for governor shall be held on the second Tuesday of November, in
+the year of our Lord one thousand eight hundred and thirty-two.
+
+*** SEND ***
+*** SSTART 005.00 9003.0 0 DE 1831 ***
+
+SEC. 5. This constitution as amended, so far as shall concern the judicial department shall commence
+and be in operation from and after the third Tuesday of January, in the year of our Lord one thousand
+eight hundred and thirty-two. All the courts of justice now existing shall continue with their present
+jurisdiction, and the chancellor and judges and the clerks of the said courts shall continue in office until
+the said third Tuesday of January, in the year of our Lord one thousand eight hundred and thirty-two;
+upon which day the said courts shall be abolished, and the offices of the said chancellor, judges, and
+clerks shall expire. All writs of error and appeals and proceedings which, on the third Tuesday of
+January, in the year of our Lord one thousand eight hundred and thirty-two, shall be depending in the
+high court of errors and appeals, and all the books, records, and papers of said court, shall be
+transferred to the court of errors and appeals established by this amended constitution; and the said
+writs, errors, appeals, and proceedings shall be proceeded in, in the said court of errors and appeals, to
+final judgment, decree, or other determination.
+
+All suits, proceedings, and matters which, on the third Tuesday of January, in the year of our Lord one
+thousand eight hundred and thirty-two, shall be depending in the supreme court, or court of common
+pleas, and all books, records, and papers of the said courts, shall be transferred to the superior court
+established by this amended constitution, and the said suits, proceedings, and matters shall be pro-
+
+ceeded in to final judgment or determination in the said superior court. All indictments, proceedings,
+and matters which, on the third Tuesday of January, in the year of our Lord one thousand eight hundred
+and thirty-two, shall be depending in the court of general quarter sessions of the peace and jail-delivery,
+shall be transferred to and proceeded in to final judgment and determination in the court of general
+sessions of the peace and jail-delivery established by this amended constitution, and all books, records,
+and papers of said court of general quarter sessions of the peace and jail-delivery, shall be transferred
+to the said court of general sessions of the peace and jail-delivery. All suits, proceedings, and matters
+which, on the third Tuesday of January, in the year of our Lord one thousand eight hundred and thirty-
+two, shall be depending in the court of chancery or in the orphans' court, and all records, books, and
+papers of said courts, respectively, shall be transferred to the court of chancery or orphans' court,
+respectively, established by this amended constitution, and the said suits, proceedings, and matters shall
+proceed in to final decree, order, or other determination.
+
+*** SEND ***
+*** SSTART 006.00 9003.0 0 DE 1831 ***
+
+SEC. 6. The registers' courts and justices of the peace shall not be affected by any amendments of the
+constitution made in this convention; but the said courts and the terms of office of registers and justices
+of the peace shall remain the same as if said amendments had not been made.
+
+*** SEND ***
+*** SSTART 007.00 9003.0 0 DE 1831 ***
+
+SEC. 7. The general assembly shall have power to make any law necessary to carry into effect this
+amended constitution.
+
+*** SEND ***
+*** SSTART 008.00 9003.0 0 DE 1831 ***
+
+SEC. 8. The provision in the twentieth section of the sixth article of this amended constitution (being the
+thirtieth section of the sixth article of the original constitution, of limitation of writs of error, shall have
+relation to, and take date from, the twelfth day of June, in the year of our Lord one thousand seven
+hundred and ninety-two, the date of said original constitution.
+
+*** SEND ***
+*** SSTART 009.00 9003.0 0 DE 1831 ***
+
+SEC. 9. The governor shall have power to issue writs of election to supply vacancies in either house of
+the general assembly that have happened or may happen.
+
+*** SEND ***
+*** SSTART 010.00 9003.0 0 DE 1831 ***
+
+SEC. 10. It is declared that nothing in this amended constitution gives a writ of error from the court of
+errors and appeals to the court of oyer and terminer, or court of general sessions of the peace and jail-
+delivery, nor an appeal from the court of general sessions of the peace and jail-delivery.
+
+The acts of the general assembly, increasing the number of justices of the peace, shall remain in force
+until repealed by the general assembly; and no office shall be vacated by the amendment to this
+constitution, unless the same be expressly vacated thereby, or the vacating the same is necessary to give
+effect to the amendments.
+
+*** SEND ***
+*** AEND ***
+*** MSTART 001 001.00 004.00 0 DE 1831 1855 ***
+
+             AMENDMENTS TO THE CONSTITUTION OF 1831
+
+ART. IV. SECTION 1. Strike out the date, and insert "on the Tuesday next after the first Monday in
+the month of November of the year; " so that it will read:
+
+"All elections for governor, senators, representatives, sheriffs, and coroners shall be held on the
+Tuesday next after the first Monday in the month of November of the year in which they are to be held,
+and be by ballot."
+
+[Ratified January 30,1855.]
+
+*** MEND ***
+*** MSTART 002 017.00 001.00 0 DE 1831 1875 ***
+
+ARTICLE 1. Add SEC. 17. The legislature shall have power to enact a general incorporation act to
+provide incorporation for religious, charitable, literary, and manufacturing purposes, for the preservation
+of animal and vegetable food, building and loan associations, and for draining lowlands; and no attempt
+shall be made, in such act or otherwise, to it or qualify the power of revocation reserved to the
+legislature in this section.
+
+[Ratified January 28, 1875.]
+
+*** MEND ***
+*** CEND ***
+
+

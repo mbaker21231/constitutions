@@ -1,0 +1,2366 @@
+This is ready to go. Including Amendments.
+
+JW 1.3.02
+
+*** CSTART FL 07/04/1868 01/01/1887 ***
+
+CONSTITUTION OF FLORIDA 1868
+
+[Note: The Convention of 1868 approved this Constitution on February 25, 1868, and it went into
+effect on July 4, 1868.]
+
+*** ASTART 9001.0 FL 1868 ***
+*** SSTART 001.0 9001.0 0 FL 1868 ***
+
+PREAMBLE
+
+We the people of the State of Florida, grateful to Almighty God for our freedom, in order to
+secure its blessings and form a more perfect government, insuring domestic tranquillity,
+maintaining public order, perpetuating liberty, and guaranteeing equal civil and political rights to
+all, do establish this Constitution:
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9002.0 FL 1868 ***
+
+DECLARATION OF RIGHTS
+
+*** SSTART 001.0 9002.0 0 FL 1868 ***
+
+SECTION 1.  All men are by nature free and equal, and have certain inalienable rights, among
+which are those of enjoying and defending life and liberty, acquiring, possessing, and protecting
+property, and pursuing and obtaining safety and happiness.
+
+*** SEND ***
+*** SSTART 002.0 9002.0 0 FL 1868 ***
+
+SEC. 2.  All political power is inherent in the people.  Government is instituted for the protection,
+security, and benefit of its citizens, and they have the right, to alter or amend the same whenever
+the public good may require it; but the paramount allegiance of every citizen is due to the Federal
+Government and no power exists with the people of this State to dissolve its connection
+therewith.
+
+*** SEND ***
+*** SSTART 003.0 9002.0 0 FL 1868 ***
+
+SEC. 3.  This State shall ever remain a member of the American Union, the people thereof a part
+of the American nation, and any attempt, from whatever source, or upon whatever pretense, to
+dissolve said Union, or to sever said nation, shall be resisted with the whole power of the State.
+
+*** SEND ***
+*** SSTART 004.0 9002.0 0 FL 1868 ***
+
+SEC. 4.  The right of trial by jury shall be secured to all, and remain inviolate forever; but in all
+civil cases a jury trial may be waived by the parties in the manner to be prescribed by law.
+
+*** SEND ***
+*** SSTART 005.0 9002.0 0 FL 1868 ***
+
+SEC. 5.  The free exercise and enjoyment of religious profession and worship shall forever be
+allowed in this State, and no person shall be rendered incompetent as a witness on account of his
+religious opinions; but the liberty of conscience hereby secured shall not be so construed as to
+justify licentiousness, or practices, subversive of the peace and safety of the State.
+
+*** SEND ***
+*** SSTART 006.0 9002.0 0 FL 1868 ***
+
+SEC. 6.  The privilege of the writ of habeas corpus shall not be suspended, unless when, in case
+of invasion or rebellion, the public safety may require its suspension.
+
+*** SEND ***
+*** SSTART 007.0 9002.0 0 FL 1868 ***
+
+SEC. 7.  Excessive bail shall not be required, nor excessive fines imposed, nor cruel or unusual
+punishment be inflicted, nor shall witnesses be unreasonably detained.
+
+*** SEND ***
+*** SSTART 008.0 9002.0 0 FL 1868 ***
+
+SEC. 8.  All persons shall be bailable by sufficient sureties, unless for capital offenses, when the
+proof is evident, the presumption great.
+
+*** SEND ***
+*** SSTART 009.0 9002.0 0 FL 1868 ***
+
+SEC. 9.  No person shall be tried for a capital or otherwise infamous crime, except in cases of
+impeachment, and in cases of the militia when in active service in time of war, or which the State
+may keep, with the consent of Congress, in time of peace, and in cases of petit larceny, made
+under the regulation of the Legislature, unless on presentment and indictment by a Grand Jury;
+and in any trial, by any Court, the party accused shall be allowed to appear and defend in person,
+and with counsel, as in civil actions.  No person shall be subject to be twice put in jeopardy for the
+same offense, nor shall be compelled in any criminal case to be a witness against himself, nor be
+deprived of life, liberty, or property without due process of law; nor shall private property be
+taken without just compensation,
+
+*** SEND ***
+*** SSTART 010.0 9002.0 0 FL 1868 ***
+
+SEC. 10.  Every citizen may fully speak and write his sentiments on all subjects, being responsible
+for the abuse of that right, and no law shall be passed to restrain or abridge the liberty of speech
+or the press. In all criminal prosecutions and civil actions for libel the truth may be given in
+evidence to the jury, and if it shall appear that the matter charged as libelous is true, but was
+published from good motives, the party shall be acquitted or exonerated.
+
+*** SEND ***
+*** SSTART 011.0 9002.0 0 FL 1868 ***
+
+SEC. 11.  The people shall have the right to assemble together to consult for the common good,
+to instruct their representatives, and to petition the Legislature for redress of grievance.
+
+*** SEND ***
+*** SSTART 012.0 9002.0 0 FL 1868 ***
+
+SEC. 12.  All laws of a general nature shall have a uniform operation.
+
+*** SEND ***
+*** SSTART 013.0 9002.0 0 FL 1868 ***
+
+SEC. 13.  The military shall be subordinate to the civil power.
+
+*** SEND ***
+*** SSTART 014.0 9002.0 0 FL 1868 ***
+
+SEC. 14.  No soldier shall, in time of peace, be quartered in any, house, except with the consent
+of the. owner, nor in time of war, except, in manner prescribed by law.
+
+*** SEND ***
+*** SSTART 015.0 9002.0 0 FL 1868 ***
+
+SEC. 15.  Representatives shall be apportioned according to population, as well as may be, but no
+county shall have more than four representatives and less than one representative in the Assembly.
+
+*** SEND ***
+*** SSTART 016.0 9002.0 0 FL 1868 ***
+
+SEC. 16.  No person shall be imprisoned for debt, except in case of fraud.
+
+*** SEND ***
+*** SSTART 017.0 9002.0 0 FL 1868 ***
+
+SEC. 17.  No bill of attainder, or ex post facto law, impairing the obligations of contracts, shall
+ever be passed.
+
+*** SEND ***
+*** SSTART 018.0 9002.0 0 FL 1868 ***
+
+SEC. 18.  Foreigners who are, or who may hereafter become, bona fide residents of the State,
+shall enjoy the same rights in respect to possession, enjoyment, and inheritance of property as
+native-born citizens.
+
+*** SEND ***
+*** SSTART 019.0 9002.0 0 FL 1868 ***
+
+SEC. 19.  Neither slavery or involuntary servitude, unless for the punishment of crime, shall ever
+be tolerated in this State.
+
+*** SEND ***
+*** SSTART 020.0 9002.0 0 FL 1868 ***
+
+SEC. 20.  The rights of the people to be secure in either person, houses, papers, and effects,
+against unreasonable seizures and searches, shall not be violated, and no warrants issued but in
+probable cause, supported by oath or affirmation, particularly describing the place or places to be
+searched, and the person or persons and thing or things to be seized.
+
+*** SEND ***
+*** SSTART 021.0 9002.0 0 FL 1868 ***
+
+SEC. 21.  Treason against the State shall consist only in levying war against it, adhering to its
+enemies, or giving them aid and comfort; and no person shall be convicted of treason unless on
+the testimony of two witnesses to the overt act, or confession in open Court.
+
+*** SEND ***
+*** SSTART 022.0 9002.0 0 FL 1868 ***
+
+SEC. 22.  The people shall have the right to bear arms in defence of themselves and of the lawful
+authority of the State.
+
+*** SEND ***
+*** SSTART 023.0 9002.0 0 FL 1868 ***
+
+SEC. 23.  No preference can be given by law to any church, sect, or mode of worship.
+
+*** SEND ***
+*** SSTART 024.0 9002.0 0 FL 1868 ***
+
+SEC. 24.  This enunciation of rights shall not be construed to impair or deny others retained by
+the people.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 001.0 FL 1868 ***
+
+ARTICLE I
+
+BOUNDARIES
+
+*** SSTART 001.0 001.00 FL 1868 ***
+
+The boundaries of the State of Florida shall be as follows:  Commencing at the month of the river
+Perdido; from thence up the middle of said river to where it intersects the south boundary-line of
+the State of Alabama on the thirty-first degree of north latitude; thence due east to the
+Chattahoochee River; thence down the middle of said river to its confluence with the Flint River;
+from thence straight to the head of the Saint Mary's River; thence down the middle of said river to
+the Atlantic Ocean; thence southeastwardly, along the coast, to the edge of the Gulf Stream;
+thence southwestwardly, along the edge of the Gulf Stream and Florida Reefs, to and including
+the Tortugas Islands; thence northwestwardly to a point five leagues from the mainland; thence
+northwestwardly five leagues from the shore, including all islands, to a point five leagues due
+south from the middle of the mouth of Perdido River; thence to the place of beginning.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 FL 1868 ***
+
+ARTICLE II
+
+SEAT OF GOVERNMENT
+
+*** SSTART 001.0 002.0 0 FL 1868 ***
+
+The Seat of Government shall be and remain permanent at the City of Tallahassee, in the county
+of Leon, until otherwise located by a majority vote of the Legislature, and by a majority vote of
+the people.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 FL 1868 ***
+
+ARTICLE III
+
+DISTRIBUTION OF POWERS
+
+*** SSTART 001.0 003.0 0 FL 1868 ***
+
+The powers of the government of the State of Florida shall be divided into three departments, to
+wit: Legislative, Executive, and Judicial.  No person properly belonging to one of the departments
+shall exercise any functions appertaining to either of the others, except in those cases expressly
+provided for by this Constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 FL 1868 ***
+
+ARTICLE IV
+
+LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.0 004.0 0 FL 1868 ***
+
+SECTION 1.  The legislative authority of this State shall be vested in a senate and assembly,
+which shall be designated "The Legislature of the State of Florida," and the sessions thereof shall
+be held at the seat of government of the State.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 FL 1868 ***
+
+SEC. 2.  The sessions of the Legislature shall be annual; the first session on the second Monday of
+June, A. D. 1868, and thereafter on the first Tuesday after the first Monday of January,
+commencing in the year A. D. 1869.  The Governor may in the interim, convene the legislature in
+extra session by his proclamation.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 FL 1868 ***
+
+SEC. 3.  The members of the assembly shall be chosen biennially; those of the first Legislature on
+the first Monday, Tuesday, and Wednesday of May, A. D. 1868, and thereafter on the first
+Tuesday after the first Mon ay of November, commencing with the year A. D. 1870.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 FL 1868 ***
+
+SEC. 4.  Senators shall be chosen for the term of four years, at the same time and place as
+members of the Assembly:  Provided, That the Senators elected at the first election from the
+Senatorial districts designated by even numbers shall vacate their seats at the expiration of two
+years, and thereafter all Senators shall be elected for the term of four years, so that one-half of the
+whole number shall be elected biennially.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 FL 1868 ***
+
+SEC. 5.  Senators and members of the Assembly shall be duly qualified electors in the respective
+counties and districts which they represent.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 FL 1868 ***
+
+SEC. 6.  Each House shall judge of the qualifications, elections, and returns of its own members;
+choose its own officers, except the President of the Senate; determine the rules of its proceedings,
+and may punish its members for disorderly conduct, and, with the concurrence of two-thirds of all
+the members present, expel a member.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 FL 1868 ***
+
+SEC. 7.  Either House, during the session, may punish by imprisonment any person, not a
+member, who shall have been guilty of disorderly or contemptuous conduct in its presence; but
+such imprisonment shall not extend beyond the final adjournment of the session.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 FL 1868 ***
+
+SEC. 8.   A majority of each House shall constitute a quorum to do business; but a smaller
+number may adjourn from day to day, and may compel the presence of absent members in such
+manner and under such penalties as each House may prescribe.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 FL 1868 ***
+
+SEC. 9.  Any person who shall be convicted of embezzlement or defalcation of the funds of this
+State, or of having given or offered a bribe to secure his election or appointment to office, or of
+having received a bribe to aid in the procurement of office for any other person, shall be
+disqualified from holding any office of honor, profit, or trust in the State; and the Legislature
+shall, as soon as practicable, provide by law for the punishment of such embezzlement,
+defalcation, or bribery as a felony.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 FL 1868 ***
+
+SEC. 10.  Each House shall keep a journal of its own proceedings, which shall be published, and
+the yeas and nays of the members of either House on any question shall, at the desire of any three
+members present, be entered on the journal.
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 FL 1868 ***
+
+SEC. 11.  The doors of each House shall be kept open during its session, except the Senate while
+sitting in executive session and neither shall, without the consent of the other, adjourn for more
+than three days, or to any other town than that in which they may be holding their session.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 FL 1868 ***
+
+SEC. 12.  Any bill may originate in either House of the Legislature, and after being passed in one
+House may be amended in the other.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 FL 1868 ***
+
+SEC. 13. The enacting clause of every law shall be as follows: "The people of the State of
+Florida, represented in Senate and Assembly, do enact as follows."
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 FL 1868 ***
+
+SEC. 14.  Each law enacted in the Legislature shall embrace but one subject, and matters properly
+connected therewith, which subject shall be briefly expressed in the title; and no law shall be
+amended or revised by reference to its title only, but in such case the act as revised, or section as
+amended, shall be reenacted and published at length.
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 FL 1868 ***
+
+SEC. 15.  Every bill shall be read by sections in three several days in each House, unless, in case
+of emergency, two-thirds of the House where such bill may be pending shall deem it expedient to
+dispense with this rule; but the reading of a bill by sections on its final passage shall in no case be
+dispensed with; and the vote on the final passage of every bill, or joint resolution, shall be taken
+by yeas and nays, to be entered in the journal of each House, and a majority of the members
+present in each House shall be necessary to pass every bill or joint resolution, and all bills or point
+resolutions so passed shall be signed by the presiding officers of the respective Houses, and by the
+Secretary of the Senate and Clerk of the Assembly.
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 FL 1868 ***
+
+SEC. 16.  No money shall be drawn from the Treasury except by appropriation made by law, and
+accurate statements of the receipts and expenditures of the public money shall be attached to and
+published with the laws passed at every regular session of the Legislature.
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 FL 1868 ***
+
+SEC. 17.  The Legislature shall not pass special or local laws in any of the following enumerated
+cases, that is to say: regulating the jurisdiction and duties of any class of officers, or for the
+punishment of crime or misdemeanor; regulating the practices of courts of justice; providing for
+changing venue of civil and criminal cases; granting divorces; changing the names of persons;
+vacating roads, town-plats, streets, alleys, and public squares; summoning and empanelling grand
+and petit juries, and providing for their compensation; regulating county, township, and municipal
+business; regulating the election of county, township, and municipal officers; or the assessment
+and collection of taxes for State, county, and municipal purposes; providing for opening and
+conducting elections for State, county, and municipal officers, and designating the places of
+voting; providing for the sale of real estate belonging to minors or other persons laboring under
+legal disabilities; regulating the fees of officers.
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 FL 1868 ***
+
+SEC. 18.  In all cases enumerated in the preceding section, and in all other cases where general
+law can be made applicable, all laws shall be general and of uniform operation throughout the
+State.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 FL 1868 ***
+
+SEC. 19.  Provision may be made by general law for bringing suit against the State as to all
+liabilities now existing or hereafter originating.
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 FL 1868 ***
+
+SEC. 20.  Lotteries are hereby prohibited in this State.
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 FL 1868 ***
+
+SEC. 21.  The Legislature shall establish a uniform system of county, township, and municipal
+government.
+
+*** SEND ***
+*** SSTART 022.0 004.0 0 FL 1868 ***
+
+SEC. 22.  The Legislature shall provide by general law for incorporating such municipal,
+educational, agricultural, mechanical, mining, and other useful companies or associations as may
+be deemed necessary.
+
+*** SEND ***
+*** SSTART 023.0 004.0 0 FL 1868 ***
+
+SEC. 23.  No person who is not a qualified elector of this State, or any person who shall have
+been convicted of bribery, forgery, perjury, larceny or other high crime, unless restored to civil
+rights, shall be permitted to serve on juries.
+
+*** SEND ***
+*** SSTART 024.0 004.0 0 FL 1868 ***
+
+SEC. 24.  Laws shall be passed regulating elections, and prohibiting, under adequate penalties, all
+undue influence thereon from power, bribery, tumult, or other improper practice.
+
+*** SEND ***
+*** SSTART 025.0 004.0 0 FL 1868 ***
+
+SEC. 25.  Regular sessions of the Legislature may extend to sixty days, but any special session
+convened by the Governor shall not exceed twenty days.
+
+*** SEND ***
+*** SSTART 026.0 004.0 0 FL 1868 ***
+
+SEC. 26.  All property, both real and personal, of the wife, owned by her before marriage, or
+acquired afterward by gift, devise, descent, or purchase, shall be her separate property, and not
+liable for the debts of her husband.
+
+*** SEND ***
+*** SSTART 027.0 004.0 0 FL 1868 ***
+
+SEC. 27.  The Legislature shall provide for the election by the people, or appointment by the
+Governor, of all State, county, or municipal officers not otherwise provided for by this
+constitution, and fix by law their duties and compensation.
+
+*** SEND ***
+*** SSTART 028.0 004.0 0 FL 1868 ***
+
+SEC. 28.  Every bill which may have passed the Legislature shall, before becoming a law, be
+presented to the Governor; if he approves it he shall sign it, but if not, he shall return it with his
+objections to the House in which it originated, which House shall cause such objections to be
+entered upon its journals, and proceed to reconsider it; if after such reconsideration it shall pass
+both Houses by a two-thirds vote of the members present, which vote shall be entered on the
+journal of each House, it shall become a law.  If any bill shall not be returned within five days
+(Sundays excepted) after it shall have been presented to the Governor, the same shall be a law, in
+like manner as if he had signed it.  If the Legislature by its final adjournment prevent such action,
+such bill shall be a law, unless the governor, within ten days next after the adjournment, shall file
+such bill with his objections thereto in the office of the Secretary of State, who shall lay the same
+before the Legislature at its next session, and if the same shall receive two-thirds of the votes
+present it shall become a law.
+
+*** SEND ***
+*** SSTART 029.0 004.0 0 FL 1868 ***
+
+SEC. 29.  The Assembly shall have the sole power of impeachment, but a vote of two-thirds of all
+the members present shall be required to impeach any officer; and all impeachments shall be tried
+by the Senate when sitting for that purpose.  The Senators shall be upon oath or affirmation, and
+no person shall be convicted without the concurrence of two-thirds of the Senators present.
+
+The Chief Justice shall preside at all trials by impeachment, except in the trial of the Chief Justice,
+when the Lieutenant Governor shall preside.
+
+The Governor, Lieutenant Governor, members of the Cabinet, Justices of the Supreme Court, and
+judges of the Circuit Court, shall be liable to impeachment for any misdemeanor in office but
+judgment in such cases shall extend only to removal from office and disqualification to hold any
+office of honor, trust, or profit under the State; but the party convicted or acquitted shall,
+nevertheless, be liable to indictment, trial, and punishment according to law.  All other officers
+who shall have been appointed to office by the governor, and by and with the consent of the
+Senate, may be removed from office upon the recommendation of the Governor and consent of
+the Senate, but they shall nevertheless be liable to indictment, trial, and punishment according to
+law for any misdemeanor in office: all other civil officers shall be tried for misdemeanors in office
+in such manner as the Legislature may provide.
+
+*** SEND ***
+*** SSTART 030.0 004.0 0 FL 1868 ***
+
+SEC. 30.  Laws making appropriation for the salaries of public officers, and other current
+expenses of the State, shall contain provisions on no other subject.
+
+*** SEND ***
+*** SSTART 031.0 004.0 0 FL 1868 ***
+
+SEC. 31.  The Legislature shall elect United States Senators in the manner prescribed by the
+Congress of the United States and by this Constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 FL 1868 ***
+
+ARTICLE V
+
+EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 005.0 0 FL 1868 ***
+
+SECTION 1.  The supreme executive power of the State shall be vested in a Chief Magistrate,
+who shall be styled the Governor of Florida.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 FL 1868 ***
+
+SEC. 2.  The Governor shall be elected by the qualified electors at the same time and places of
+voting for the members of the Legislature, and shall hold his office for four years from the time of
+his installation:  Provided, That the term of the first Governor elected under this Constitution shall
+expire at the opening of the regular session of the Legislature of A. D. 1873, and until his
+successor shall be qualified.  He shall take the oath of office prescribed for all State officers.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 FL 1868 ***
+
+SEC. 3.  No person shall be eligible to the office of Governor who is not a qualified elector, and
+who has not been nine years a citizen of the United States, and three years of the State of Florida,
+next preceding the time of his election.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 FL 1868 ***
+
+SEC. 4.  The governor shall be Commander-in-Chief of the military forces of the State, except
+when they shall be called into the service of the United States.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 FL 1868 ***
+
+SEC. 5.  He shall transact all executive business with the officers of the government, civil and
+military, and may require information in writing from the officers of the administrative department
+upon any subject relating to the duties of their respective offices.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 FL 1868 ***
+
+SEC. 6.  He shall see that the laws are faithfully executed.
+
+*** SEND *** 
+*** SSTART 007.0 005.0 0 FL 1868 ***
+
+SEC. 7.  When any office, from any cause, shall become vacant, and no mode is provided by this
+Constitution or by the laws of the State for filling such vacancy, the Governor shall have the
+power to fill such vacancy by granting a commission which shall expire at the next election.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 FL 1868 ***
+
+SEC. 8.  The Governor may, on extraordinary occasions, convene the Legislature by
+proclamation, and shall state to both Houses, when organized, the purpose for which they have
+been convened, and the Legislature then shall transact no legislative business except that for
+which they are especially convened, or such other legislative business as the Governor may call to
+the attention of the Legislature while in session, except by the unanimous consent of both Houses.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 FL 1868 ***
+
+SEC. 9.  He shall communicate by message to the Legislature at each regular session the
+condition of the State, and recommend such measures as he may deem expedient.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 FL 1868 ***
+
+SEC. 10.  In case of a disagreement between the two Houses with respect to the time of
+adjournment, the Governor shall have power to adjourn the Legislature to such time as be may
+think proper, provided it is not beyond the time fixed for the meeting of the next Legislature.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 FL 1868 ***
+
+SEC. 11.  The Governor shall have power to suspend the collection of fines and forfeitures, and
+grant reprieves for a period not exceeding sixty days, dating from the time of conviction, for all
+offences, except in cases of impeachment.  Upon conviction for treason he shall have power to
+suspend the execution of sentence until the case shall be reported to the Legislature at its next
+session when the Legislature shall either pardon, direct the execution of the sentence, or grant a
+further reprieve; and if the Legislature shall fail or refuse to make final disposition of such case,
+the sentence shall be enforced at such time and place as the Governor may by his order direct. The
+Governor shall communicate to the Legislature at the beginning of ever session every case of fine
+or forfeiture remitted or reprieved, pardon or commutation granted, stating the name of the
+convict, the crime for which he was convicted, the sentence, its date, and the date of its remission,
+commutation, pardon, or reprieve.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 FL 1868 ***
+
+SEC. 12.  The Governor, Justices of the Supreme Court, and Attorney General, or a major part of
+them, of whom the Governor shall be one, may, upon such conditions and with such limitations
+and restrictions as they may deem proper, remit fines and forfeitures, commute punishments, and
+grant pardons after conviction, in all cases except treason and impeachments, subject to such
+regulations as may be provided by law relative to the manner of applying for pardons.
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 FL 1868 ***
+
+SEC. 13.  The grants and commissions shall be in the name and under the authority of the State of
+Florida, sealed by the great seal of the State, signed by the Governor, and countersigned by the
+Secretary of State.
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 FL 1868 ***
+
+SEC. 14.  A Lieutenant Governor shall be elected at the same time and places, and in the same
+manner, as the Governor, whose term of office and eligibility shall also be the same.  He shall be
+the Ppresident of the Senate, but shall have only a casting vote therein. If during a vacancy of the
+office of Governor the Lieutenant Governor shall be impeached, displaced, resign, die, or become
+incapable of performing the duties of his office, or be absent from the State, the president pro
+tempore of the senate shall act as Governor until the office be filled or the disability cease.
+
+*** SEND ***
+*** SSTART 015.0 005.0 0 FL 1868 ***
+
+SEC. 15.  In the case of the impeachment of the Governor, or his removal from office, death,
+inability to discharge his official duties, or resignation, the power and duties of the office shall
+devolve upon the Lieutenant Governor for the residue of the term, or until the disability shall
+cease; but the Governor shall not, without the consent of the Legislature, be out of the State in
+time of war.
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 FL 1868 ***
+
+SEC. 16.  The Governor may at any time require the opinion of the Justices of the Supreme Court
+as to the interpretation of any portion of this Constitution, or upon any point of law, and the
+Supreme Court shall render such opinion in writing.
+
+*** SEND ***
+*** SSTART 017.0 005.0 0 FL 1868 ***
+
+SEC. 17.  The Governor shall be assisted by a cabinet of administrative officers, consisting of a
+Secretary of State, Attorney General, Comptroller, Treasurer, Surveyor General, Superintendent
+of Public Instruction, Adjutant General, and Commissioner of Immigration.  Such officers shall be
+appointed by the Governor, and confirmed by the senate, and shall hold their offices the same time
+as the Governor, or until their successors shall be qualified.
+
+*** SEND ***
+*** SSTART 018.0 005.0 0 FL 1868 ***
+
+SEC. 18.  The Governor shall, by and with the consent of the Senate, appoint all commissioned
+officers of the State militia.
+
+*** SEND ***
+*** SSTART 019.0 005.0 0 FL 1868 ***
+
+SEC. 19.  The Governor shall appoint, by and with the consent of the Senate, in each county, an
+Assessor of Taxes and Collector of Revenue, whose duties shall be prescribed by law, and who
+shall hold their offices for two years, and be subject to removal upon the recommendation of the
+Governor and consent of the Senate.  The Governor shall appoint in each county a County
+Treasurer, County Surveyor, Superintendent of Common Schools, and five County
+Commissioners, each of whom shall hold his office for two years, the duties of which shall be
+prescribed by law.  Such officers shall be subject to removal by the Governor when in his
+judgment the public welfare will be advanced thereby:  Provided, no officer shall  be removed
+except for wilful neglect of duty, or a violation of the criminal laws of the State, or for
+incompetency.
+
+*** SEND ***
+*** SSTART 020.0 005.0 0 FL 1868 ***
+
+SEC. 20.  The Governor and Cabinet shall constitute a Board of Commissioners of State
+institutions, which Board shall have supervision of all matters connected therewith, in such
+manner as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 021.0 005.0 0 FL 1868 ***
+
+SEC. 21.  The Governor shall have power, in cases of insurrection or rebellion, to suspend the
+writ of habeas corpus within the State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 FL 1868 ***
+
+ARTICLE VI
+
+JUDICIAL DEPARTMENT
+
+*** SSTART 001.0 006.0 0 FL 1868 ***
+
+SECTION 1.  The judicial power o f the State shall be vested in a Supreme Court, Circuit Courts,
+County Courts, and Justices of the Peace.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 FL 1868 ***
+
+SEC. 2.  The style of all process shall be, "The State of Florida;" and all prosecutions shall be
+conducted in the name and by the authority of the same.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 FL 1868 ***
+
+SEC. 3.  The Supreme Court shall consist of a Chief Justice and two Associate Justices, who shall
+hold their offices for life or during good behavior.  They shall be appointed by the Governor and
+confirmed by the Senate.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 FL 1868 ***
+
+SEC 4.  The majority of the Justices of the Supreme Court shall constitute a quorum for the
+transaction of all business. The Supreme Court shall hold three terms each year, in the Supreme
+court room at the seat of government.  Such terms shall commence on the second Tuesday of
+October, January, and April, respectively.
+
+*** SEND *** 
+*** SSTART 005.0 006.0 0 FL 1868 ***
+
+SEC. 5.  The Supreme Court shall have appellate jurisdiction in all cases in equity, also in all cases
+of law in which is involved the title to or right of possession of real estate, or the legality of any
+tax, impost, assessment, toll, or municipal fine, or in which the demand or the value of the
+property in controversy exceeds three hundred dollars; also in all other civil cases not included in
+the general subdivisions of law and equity; also in all questions of law alone, in all criminal cases
+in which the offences charged amount to felony.  The Court shall have power to issue writs of
+mandamus, certiorari, prohibition, quo warranto, habeas corpus, and also all writs necessary or
+proper to the complete exercise of its appellate jurisdiction.
+
+Each of the justices shall have the power to issue writs of habeas corpus to any part of the State,
+upon petition by or on behalf of any person held in actual custody, and may make such writs
+returnable before himself, or the supreme court, or before any circuit court in the State, or before
+any judge of said courts.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 FL 1868 ***
+
+SEC. 6.  The Supreme Court shall appoint a Clerk of the Supreme Court, who shall have his
+office at the Capitol, and shall be Librarian of the Supreme Court Library; he shall hold his office
+until his successor is appointed and qualified.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 FL 1868 ***
+
+SEC. 7.  There shall be seven Circuit Judges appointed by the Governor and confirmed by the
+Senate, who shall hold their office for eight years.  The State shall be divided into seven judicial
+districts, the limits of which are defined in this Constitution, and one Judge shall be assigned to
+each Circuit.  Such Judge shall hold two terms of his court in each county within his circuit each
+year, at such times and places as shall be prescribed by law.  The Chief Justice may, in his
+discretion, order a temporary exchange of circuits by the respective Judges, or any Judge to hold
+one or more terms in any other circuit than that to which be is assigned.
+
+The Judge shall reside in the circuit in which he is assigned.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 FL 1868 ***
+
+SEC. 8.  The Circuit Courts in their several judicial circuits shall have original jurisdiction in all
+cases of equity; also in all cases at law which involve the title or the right of possession to, or the
+possession of, or the boundaries of real property; of the legality of any tax, impost, assessment,
+toll, or municipal tine, and in all other cases in which the demand or the value of property in
+controversy exceeds three hundred dollars, and of the action of forcible entry and unlawful
+detainer, and also in all criminal cases amounting to felony. They shall have final appellate
+jurisdiction in all civil cases arising in the County Court in which the amount in controversy is one
+hundred dollars and upwards, and in all cases of misdemeanor. 
+
+The Circuit Courts and the Judges thereof shall have power to issue writs of mandamus,
+injunction, quo warranto, certiorari, and all other writs proper and necessary to the complete
+exercise of their jurisdiction, and also shall have power to issue :writs of habeas corpus on
+petition by or on behalf of any person held in actual custody in their respective circuits.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 FL 1868 ***
+
+SEC. 9.  There shall be a County Court organized in each county.  The Governor shall appoint a
+county Judge for each county, who shall be confirmed by the Senate, and such Judge shall hold
+his office for four years from the date of his commission, or until his successor is appointed and
+qualified.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 FL 1868 ***
+
+SEC. 10.  The County Court shall be a Court of Oyer and Terminer.
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 FL 1868 ***
+
+SEC. 11.  The County Court shall have jurisdiction of all misdemeanors and all civil cases where
+the amount in controversy does not exceed three hundred dollars; and its jurisdiction shall be final
+in all civil cases where the amount in controversy does not exceed one hundred dollars; but in no
+case shall the County Court have jurisdiction when the title or boundaries of real estate is in
+controversy, or where the jurisdiction will conflict with that of the several courts of record; but
+they may have coextensive jurisdiction with the Circuit Courts in cases of forcible entry and
+unlawful detention of real estate, subject to appeal to the Circuit Court.  The County Court shall
+have full surrogate or probate powers, but subject to appeal.  Provision shall be made by law for
+all other powers, duties, and responsibilities of the County Courts and Judges.
+
+There shall be a regular trial-term of the County Courts six times in each year, at such times and
+places as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 FL 1868 ***
+
+SEC. 12.  Grand and petit jurors shall be taken from the registered voters of the respective
+counties.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 FL 1868 ***
+
+SEC. 13.  In all trials, civil and criminal, in the Circuit and County Courts, the evidence shall be
+reduced to writing by the Clerk of the Court or his deputy, under the control of the court; and
+every witness after his examination shall have done, shall be at liberty to correct the evidence he
+has given, and afterwards shall sign the same; such evidence shall be filed in the office of the clerk,
+with the papers in the case.
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 FL 1868 ***
+
+SEC. 14.  All pleas shall be sworn to either by the parties or their attorneys.
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 FL 1868 ***
+
+SEC. 15.  The Governor shall appoint as many Justices of the Peace as he may deem necessary.
+Justices of the Peace shall have criminal jurisdiction and civil jurisdiction not to exceed fifty
+dollars, but this shall not extend to the trial of any person for misdemeanor or crime.  The duties
+of Justice of the Peace shall be fixed by law.  Justices of the Peace shall hold their offices during
+good behavior, subject to removals by the Governor at his own discretion.
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 FL 1868 ***
+
+SEC. 16.  The Legislature may establish courts for municipal purposes only, in incorporated
+towns and cities. All laws for the organization or government of municipal courts shall be general
+in their provisions, and be equally applicable to the municipal courts of all incorporated towns and
+cities.
+
+*** SEND ***
+*** SSTART 017.0 006.0 0 FL 1868 ***
+
+SEC. 17.  Any civil cause may be tried before a practising attorney as referee, upon the
+application of the parties, and an order from the court in whose jurisdiction the case may be
+authorizing such trial and appointing such referee.  Such referee shall keep a complete record of
+the case, including the evidence taken, and such record shall be filed with the papers in the case in
+the office of the clerk, subject to an appeal in the manner prescribed by law.
+
+*** SEND ***
+*** SSTART 018.0 006.0 0 FL 1868 ***
+
+SEC. 18.  No other courts than those herein specified shall be organized in this State.
+
+*** SEND ***
+*** SSTART 019.0 006.0 0 FL 1868 ***
+
+SEC. 19.  The Governor, by and with the advice and consent of the Senate, shall appoint a State
+Attorney in each judicial circuit, whose duties shall be prescribed by law.  He shall hold his office
+for four years from the date of his commission, and until his successor shall appointed and
+qualified.  The Governor, by and with the advice and consent of the Senate, shall appoint in each
+county a sheriff and clerk of the Circuit Court, who shall also be clerk of the County Court and
+Board of County Commissioners, Recorder, and ex-officio Auditor of the county, each of whom
+shall hold his office for four years.  Their duties shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 020.0 006.0 0 FL 1868 ***
+
+SEC. 20.  A constable shall be elected by the registered voters in each county for every two
+hundred registered voters; but each county shall be entitled to at least two constables, and no
+county shall have more than twelve constables.  They shall perform such duties and under such
+instructions as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 021.0 006.0 0 FL 1868 ***
+
+SEC. 21.  Attorneys at law, who have been admitted to practice in any court of record in any
+State in the Union, or to any United States Court, shall be admitted to practice in any court of this
+State on producing evidence of having been so admitted.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 FL 1868 ***
+
+ARTICLE VII
+
+ADMINISTRATIVE DEPARTMENT
+
+*** SSTART 001.0 007.0 0 FL 1868 ***
+
+SECTION 1.  There shall be a cabinet of Administrative officers, consisting of a Secretary of
+State, Attorney General, Comptroller, Treasurer, Surveyor General, and Superintendent of Public
+Instruction, Adjutant General, and Commissioner of Immigration, who shall assist the Governor in
+the performance of his duties.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 FL 1868 ***
+
+SEC. 2.  The Secretary of State shall keep the records of official acts of the Legislative and
+Executive Departments of the Government, and shall, when required, lay the same, and all matters
+relative thereto, before either branch of the Legislature, and shall be the custodian of the Great
+Seal of the State.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 FL 1868 ***
+
+SEC. 3.  The Attorney General shall be the legal adviser of the Governor and of each of the
+Cabinet Officers, and shall perform such other legal duties as the Governor may direct, or as may
+be provided by law.  He shall be reporter for the Supreme Court.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 FL 1868 ***
+
+SEC. 4.  The Treasurer shall receive and keep all funds, bonds, or other securities, in such manner
+as may be provided by law, and shall disburse no funds, bonds, or other securities, except upon
+the order of the Comptroller, countersigned by the Governor, in such manner as shall be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 FL 1868 ***
+
+SEC. 5.  The duties of the Comptroller shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 FL 1868 ***
+
+SEC. 6.  The Surveyor General shall have the administrative supervision of all matters pertaining
+to the public lands, under such regulations as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 FL 1868 ***
+
+SEC. 7.  The Superintendent of Public Instruction shall have the administrative supervision of all
+matters pertaining to public instruction; the supervision of buildings devoted to educational
+purposes and the Libraries belonging to the University and the Common Schools.  He shall
+organize a Historical Bureau for the purpose of accumulating such matter and information as may
+be necessary for compiling the history of the State.  He shall also establish a Cabinet of Minerals
+and other Natural Productions.
+
+*** SEND ***
+*** SSTART 008.0 007.0 0 FL 1868 ***
+
+SEC. 8.  The Adjutant General shall, under the orders of the Governor, have the administrative
+supervision of the military department, and the supervision of State prison, and of the Quarantine
+of the Coast, in such manner as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 009.0 007.0 0 FL 1868 ***
+
+SEC. 9.  The Commissioner of Immigration shall organize a Bureau of Immigration for the
+purposes of furnishing information and for the encouragement of Immigration.  The office of
+Commissioner of Immigration shall expire at the end of fifteen years from the ratification of this
+Constitution, but the Legislature shall have power to continue it by law.
+
+*** SEND ***
+*** SSTART 010.0 007.0 0 FL 1868 ***
+
+SEC. 10.  Each Officer of the Cabinet shall make a full report, of his official acts, of the receipts
+and expenditures of his office, and of the requirements of the same, to the Governor, at the
+beginning of each regular session of the Legislature, or whenever the Governor shall require it.
+Such reports shall be laid before the Legislature by the Governor at the beginning of each regular
+session thereof.  Either House of the Legislature may at any time call upon any Cabinet Officer for
+information required by it.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 FL 1868 ***
+
+ARTICLE VIII
+
+EDUCATION
+
+*** SSTART 001.0 008.0 0 FL 1868 ***
+
+SECTION 1.  It is the paramount duty of the State to make ample provision for the education of
+all the children residing within its borders, without distinction or preference.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 FL 1868 ***
+
+SEC. 2.  The Legislature shall provide a uniform system of Common Schools, and a University,
+and shall provide for the liberal maintenance of the same.  Instruction in them shall be free.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 FL 1868 ***
+
+SEC. 3.  There shall be a Superintendent of Public Instruction, whose term of office shall be four
+years, and until the appointment and qualification of his successor.  He shall have general
+supervision of the Educational interests of the State.  His duties shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 FL 1868 ***
+
+SEC. 4.  The Common School Fund, the interest of which shall be exclusively applied to the
+support and maintenance of Common Schools and purchase of suitable libraries and apparatus
+therefor, shall be derived from the following sources:
+
+The proceeds of all lands that have been or may hereafter be granted to the State by the United
+States for educational purposes; donations by individuals for educational purposes; appropriations
+by the State; the proceeds of lands or other property which may accrue to the State by escheat to
+forfeiture; the proceeds of all property granted to the State, when the purpose of such grant shall
+not be specified; all moneys which may be paid as an exemption from military duty; all fines
+collected under the penal laws of this State; such portion of the per-capita tax as may be
+prescribed by law for educational. purposes; twenty-five per centum of the sales of Public Lands
+which are now or hereafter may be owned by the State.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 FL 1868 ***
+
+SEC. 5.  A special tax of not less than one mill on the dollar of all taxable property in the State, in
+addition to the other means provided, shall be levied and apportioned annually for the support and
+maintenance of Common Schools.
+
+*** SEND ***
+*** SSTART 006.0 008.0 0 FL 1868 ***
+
+SEC. 6.  The principal of the Common School Fund shall remain sacred and inviolate.
+
+*** SEND ***
+*** SSTART 007.0 008.0 0 FL 1868 ***
+
+SEC. 7.  Provision shall be made by law for the distribution of the Common School Fund among
+the several counties of the State in proportion to the number of children residing therein between
+the ages of four and twenty-one years.
+
+*** SEND ***
+*** SSTART 008.0 008.0 0 FL 1868 ***
+
+SEC. 8.  Each county shall be required to raise annually by tax, for the support of Common
+Schools therein, a sum not less than one-half the amount apportional to each county for that year
+from the income of the Common School Fund.
+
+Any school district neglecting to establish and maintain for at least three months in each year such
+school or schools as may be provided by law for such district shall forfeit its portion of the
+Common School Fund during such neglect.
+
+*** SEND ***
+*** SSTART 009.0 008.0 0 FL 1868 ***
+
+SEC. 9.  The Superintendent of Public Instruction, Secretary of State, and Attorney General, shall
+constitute a body-corporate, to be known as the Board of Education of Florida.  The
+Superintendent of Public Instruction shall be President thereof.
+  
+The duties of the board of education shall be prescribed by the Legislature.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 FL 1868 ***
+
+ARTICLE IX
+
+HOMESTEAD
+
+*** SSTART 001.0 009.0 0 FL 1868 ***
+
+SECTION 1.  A Homestead, to the extent of one hundred and sixty acres of land, or the half of
+one acre within the limits of any incorporated city or town, owned by the head of a family,
+residing in this State, to ether with one thousand dollars in value of personal property, any the
+improvements on the real estate, shall be exempted from forced sale tinder any process of law,
+and the real estate shall not be alienable without the joint consent of husband and wife, when that
+relation exists.  But no property  shall be exempt from sale for taxes, or for the payment of
+obligations contracted for the purchase of said premises, or for the erection of improvements
+thereon, or for house, field, or other labor performed on the same.  The exemption herein
+provided for in a city or town shall not extend to more improvements or buildings than the
+residences and business houses of the owner.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 FL 1868 ***
+
+SEC. 2.  In addition to the exemption provided for in the first section of this article, there shall be
+and remain exempt from sale by any legal process in this State, to the head of a family residing in
+this State such property as he or she may select to the amount of one thousand dollars; said
+exemption in this section shall only prevent the sale of property in cases where the debt was
+contracted, liability incurred, or judgment obtained before the 10th day of May, A. D. 1865. 
+Nothing herein contained shall be so construed as to exempt any property from sale for payment
+of the purchase-money of the same, or for the payment of taxes or labor.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 FL 1868 ***
+
+SEC. 3.  The exemptions provided for in sections one and two of this article shall accrue to the
+heirs of the party having enjoyed or taken the benefit of such exemption, and the exemption
+provided for in section one of this article shall apply to all debts except as specified in said section,
+no matter when or where the debt was contracted or liability incurred.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 FL 1868 ***
+
+ARTICLE X
+
+PUBLIC INSTITUTIONS
+
+*** SSTART 001.0 010.0 0 FL 1868 ***
+
+SECTION 1.  Institutions for the benefit of the insane, blind, and deaf, and such other benevolent
+institutions as the public good may require, shall be fostered and supported by the State, subject
+to such regulations as may be provided by law.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 FL 18686 ***
+
+SEC. 2.  A State Prison shall be established and maintained in such a manner as may be fixed by
+law.  Provision may be made by law for the establishment and maintenance of a House of Refuge
+for juvenile offenders, and the Legislature shall have power to establish a home and workhouse
+for common vagrants.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 FL 1868 ***
+
+SEC. 3.  The respective courts of the State shall provide in the manner fixed by law for those of
+the inhabitants who, by reason of age, infirmity, or misfortunes, may have claims upon the aid and
+sympathy of society.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 FL 1868 ***
+
+ARTICLE XI
+
+MILITIA
+
+*** SSTART 001.0 011.0 0 FL 1868 ***
+
+SECTION 1.  All able-bodied male inhabitants of this State between the ages of eighteen and
+forty-five years, who are citizens of the United States, or have declared their intention to become
+citizens thereof, shall constitute the Militia of the State, but no male citizen of whatever religious
+creed or opinion shall be exempt from military duty except upon such conditions as may be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 FL 1868 ***
+
+SEC. 2.  The Legislature shall provide by law for organizing and disciplining the Militia of the
+State, for the encouragement of volunteer corps, the safe-keeping of the public arms, and for a
+guard for the State Prison.
+
+*** SEND ***
+*** SSTART 003.0 011.0 0 FL 1868 ***
+
+SEC. 3.  The Adjutant General shall have the grade of major-general.  The Governor, by and with
+the consent of the Senate, shall appoint two Major Generals and four Brigadier Generals of
+Militia.  They shall take rank according to the date of their commissions.  The officers and soldiers
+of the State Militia, when uniformed, shall wear the uniform prescribed for the United States
+Army.
+
+*** SEND ***
+*** SSTART 004.0 011.0 0 FL 1868 ***
+
+SEC. 4.  The Governor shall have power to call out the Militia to preserve the public peace, to
+execute the laws of the State and to suppress insurrection or repel invasion.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 FL 1868 ***
+
+ARTICLE XII
+
+TAXATION AND FINANCE
+
+*** SSTART 001.0 012.0 0 FL 1868 ***
+
+SECTION 1.  The Legislature shall provide for a uniform and equal rate of Taxation, and shall
+prescribe such regulations as shall secure a just valuation of all property, both real and personal,
+excepting such property as may be exempt by law for municipal, educational, literary, scientific,
+religious, or charitable purposes.
+
+*** SEND ***
+*** SSTART 002.0 012.0 0 FL 1868 ***
+
+SEC. 2.  The Legislature shall provide for raising revenue sufficient to defray the expenses of the
+State for each fiscal year, and also a sufficient sum to pay the principal and interest of the existing
+indebtedness of the State.
+
+*** SEND ***
+*** SSTART 003.0 012.0 0 FL 1868 ***
+
+SEC. 3.  No tax shall be levied except in pursuance of law.
+
+*** SEND ***
+*** SSTART 004.0 012.0 0 FL 1868 ***
+
+SEC. 4.  No moneys shall be drawn from the Treasury except in pursuance of appropriation made
+by law.
+
+*** SEND ***
+*** SSTART 005.0 012.0 0 FL 1868 ***
+
+SEC. 5.  An accurate statement of the receipts and expenditures of the public moneys shall be
+published with the laws of each regular session of the Legislature.
+
+*** SEND ***
+*** SSTART 006.0 012.0 0 FL 1868 ***
+
+SEC. 6.  The Legislature shall authorize the several counties and incorporated towns in the State
+to impose taxes for county and incorporation purposes, and for no other purpose, and all property
+shall be taxed upon the principle established for State taxation.  The Legislature may also provide
+for levying a specific capitation tax on licenses.  But the capitation tax shall not exceed one dollar
+per annum for all purposes, excepting for State, county, or municipal taxes.
+
+*** SEND ***
+*** SSTART 007.0 012.0 0 FL 1868 ***
+
+SEC. 7.  The Legislature shall have power to provide for issuing State bonds bearing interest, for
+securing the debt of the State, and for the erection of State buildings, support of State institutions,
+and perfecting public works.
+
+*** SEND ***
+*** SSTART 008.0 012.0 0 FL 1868 ***
+
+SEC. 8.  No tax shall be levied upon persons for the benefit of any chartered company of the
+State, or for paying the interest on any bonds issued by said chartered companies, co-unties, or
+corporations, for the above-mentioned purposes, and any laws to the contrary are hereby declared
+null and void.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 FL 1868 ***
+
+ARTICLE XIII
+
+CENSUS AND APPORTIONMENT
+
+*** SSTART 001.0 013.0 0 FL 1868 ***
+
+SECTION 1.  The Legislature shall, in the year one thousand eight hundred and seventy-five, and
+every tenth year thereafter, cause an enumeration to be made of all the inhabitants of the State;
+and they shall then proceed to apportion the representation among the different counties, giving to
+each county one Representative at large, and one additional to every one thousand registered
+votes therein, but no county shall be entitled to more than four Representatives.
+
+*** SEND ***
+*** SSTART 002.0 013.0 0 FL 1868 ***
+
+SEC. 2.  The Legislature shall also, after every such enumeration, proceed to fix by law the
+number of Senators which shall constitute the senate of Florida, and which shall never be less than
+one-fourth nor more than one-half of the whole number of the Assembly.  When any Senatorial
+district shall be composed of two or more counties, the counties of which such district consists
+shall not be entirely separated by any county belonging to another district, and no county shall be
+divided in forming a district, and all counties shall remain as now organized unless changed by a
+two-thirds vote of both houses of the Legislature.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 FL 1868 ***
+
+ARTICLE XIV
+
+SUFFRAGE AND ELIGIBILITY
+
+*** SSTART 001.0 014.0 0 FL 1868 ***
+
+SECTION 1.  Every male-person of the age of twenty-one years and upwards, of whatever race,
+color, nationality, or previous condition, or who shall, at the time of offering to vote, be a citizen
+of the United States, or who shall have declared his intention to become such in conformity to the
+laws of the United States, and who shall have resided and had his habitation, domicile, home, and
+place of permanent abode in Florida for one year, and in the county for six months, next preceding
+the election at which he shall offer to vote, shall in such county be deemed a qualified elector at all
+elections under this constitution. Every elector shall, at the time of his registration, take and
+subscribe to the following oath:
+
+  "I, ----- ,do solemnly swear that I will support, protect, and defend the Constitution and
+Government of the United States, and the Constitution and Government of Florida, against all
+enemies, foreign or domestic; that I will bear true faith, loyalty and allegiance to the same, any
+ordinances or resolution of any State Convention or Legislature to the contrary notwithstanding:
+so help me God."
+
+*** SEND ***
+*** SSTART 002.0 014.0 0 FL 1868 ***
+
+SEC. 2.  No person under guardianship, non compos mentis, or insane, shall be qualified to vote it
+any election; nor shall any person convicted of felony be qualified to vote at any election unless
+restored to civil rights.
+
+*** SEND ***
+*** SSTART 003.0 014.0 0 FL 1868 ***
+
+SEC. 3.  At any election at which a citizen or subject of any foreign country shall offer to vote,
+under the provisions of this Constitution, he shall present to the persons lawfully authorized to
+conduct and supervise such election a duly sealed and certified copy of his declaration of
+intention, otherwise he shall not be allowed to vote; and any naturalized citizen offering to vote,
+shall produce before said persons, lawfully authorized to conduce and supervise the election, his
+Certificate of Naturalization, or a duly sealed and certified copy thereof; otherwise he shall not be
+permitted to vote.
+
+*** SEND ***
+*** SSTART 004.0 014.0 0 FL 1868 ***
+
+SEC. 4.  The Legislature shall have power, and shall enact the necessary laws to exclude from
+every office of honor, power, trust, or profit, civil or military, within the State, and from the right
+of suffrage, all persons convicted of bribery, perjury, larceny, or of infamous crime, or who shall
+make, or become directly or indirectly interested in, any bet or wager, the result of which shall
+depend upon any election; or who shall hereafter fight a duel, or send or accept a challenge to
+fight, or who shall be a second to either party, or be the bearer of such challenge or acceptance;
+but the legal disability shall not accrue until after trial and conviction by due form of law.
+
+*** SEND ***
+*** SSTART 005.0 014.0 0 FL 1868 ***
+
+SEC. 5.  In all elections by the Legislature the vote shall be viva voce, and in all elections by the
+people the vote shall be by ballot.
+
+*** SEND ***
+*** SSTART 006.0 014.0 0 FL 1868 ***
+
+SEC. 6.  The Legislature at its first session after the ratification of this Constitution shall by law
+provide for the registration, by the Clerks of the Circuit Court in each county, of all the legally
+qualified voters in such county, and for the returns of elections; and shall also provide that after
+the completion, from time to time, of such registration, no person not duly registered according to
+law shall be allowed to vote.
+
+*** SEND ***
+*** SSTART 007.0 014.0 0 FL 1868 ***
+
+SEC. 7.  The Legislature shall enact laws requiring educational qualifications for electors after the
+year one thousand eight hundred and eighty, but no such laws shall be made applicable to any
+elector who may have registered or voted at any election previous thereto.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 015.0 FL 1868 ***
+
+ARTICLE XV
+
+SCHEDULE
+
+*** SSTART 001.0 015.0 0 FL 1868 ***
+
+SECTION 1.  That all ordinances and resolutions heretofore passed by any convention of the
+people, and all acts and resolutions of the Legislature, conflicting or inconsistent with the
+Constitution of the United States, and the statutes thereof, and with this Constitution, and in
+derogation of the existence or position of the State as one of the States of the United States of
+America, are hereby declared null and void, and of no effect.
+
+*** SEND ***
+*** SSTART 002.0 015.0 0 FL 1868 ***
+
+SEC. 2.  That all acts and resolutions of the General Assembly, and all official acts of the civil
+officers of the State, not inconsistent with the provisions of the Constitution and Statutes of the
+United States, or with this Constitution, or with any ordinance or resolution adopted by this
+Convention, and which have not been, and are not by this Constitution, annulled, are in force, and
+shall be considered and esteemed as the laws of the State until such acts or resolutions shall be
+repealed by the Legislature of the State, or this Convention.
+
+*** SEND ***
+*** SSTART 003.0 015.0 0 FL 1868 ***
+
+SEC. 3.  All laws of the State passed by the so-called General Assembly since the 10th day of
+January, A. D. 1868, not conflicting with the word and spirit of the Constitution and laws of the
+United States, or with this Constitution, shall be valid; all writs, acts, proceedings, judgments, and
+decrees of the-so-called courts of the State, when actual service was made, as the defendant, all
+executions and sales made thereunder, and all acts, orders, and proceedings of the judges of
+probate, and of executors, administrators, guardians, and trustees, provided they were in
+conformity with the laws then in force, and did not conflict with the Constitution and laws of the
+United States shall be valid; the sales of the property or effects and this Constitution, of deceased
+persons shall not prevent the widow from claiming said property in kind, in whosoever hands the
+same may be found, where the sale had not been made for the purpose of paying the debts of
+deceased, and where other than lawful money of the United States was obtained for said property.
+
+Nothing herein contained shall be so construed as to make any one who was an officer of any
+court, or who acted under the authority of any court, individually liable, provided they acted
+strictly in accordance with what was then considered the law of the State, and not conflicting with
+the Constitution and laws of the United States.
+
+All fines, penalties, forfeitures, obligations, and escheats heretofore accruing to the State of
+Florida shall continue to accrue to the use of the State.
+
+All recognizances heretofore taken shall remain valid, and all bonds executed to the Governor of
+the State of Florida, either before or since the 10th day of January, A. D. 1861, or to any other
+officer of the State, in his official capacity, shall be of full force and virtue, for the uses therein
+respectively expressed, and may be sued for and recovered accordingly, unless they were contrary
+to the laws of the United States or to this Constitution, or to any ordinance or resolution adopted
+by the Convention; also, all criminal prosecutions which have arisen may be prosecuted to
+judgment and execution in the name of the State.
+
+All actions at law or suits in chancery, or any proceedings pending in the courts of this State,
+either prior to or subsequent to the 10th day of January, A. D. 1861, shall continue in all respects
+valid, and may be prosecuted to judgment and decree.
+
+All judgments and decrees rendered in civil causes in any of the courts of the State during the
+period of time above specified are hereby declared of full force, validity, and effect provided, that
+unless otherwise provided in this constitution, the statute of limitation shall not be pleaded upon
+any claim in the hands of any person for the period of time between the 10th day of January, A. D.
+1861, and the 25th day of October, 1865, whether proceedings at law had been commenced
+before the 25th day of October, 1865, or not, provided further that all claims of widows, minors,
+and decedents, which were not barred by the statutes of this State on the 10th day of January,
+1861, shall be considered good and valid for tile period of two years from the ratification of this
+Constitution.
+
+*** SEND ***
+*** SSTART 004.0 015.0 0 FL 1868 ***
+
+SEC. 4.  That State Treasury notes, all Bonds issued, and all other liabilities contracted by the
+State of Florida, or any county or city thereof, on and after the 10th day of January, A. D. 1861,
+and before the 25th day of October, A. D. 1865, except such liabilities as may be due to the
+Seminary or School Fund, be and are declared null and void, and the Legislature shall have no
+power to provide for the payment of the same or any part thereof, but this shall not be construed
+so as to invalidate any authorized liabilities of the State contracted prior to the 10th day of
+January, A. D. 1861, or subsequent to the 25th day of October, A. D. 1865.
+
+*** SEND ***
+*** SSTART 005.0 015.0 0 FL 1868 ***
+
+SEC. 5.  No money shall ever be appropriated by this State to reimburse purchasers of United
+States land who purchased the same of the State of Florida.
+
+*** SEND ***
+*** SSTART 006.0 015.0 0 FL 1868 ***
+
+SEC. 6.  All proceedings, decisions, or actions accomplished by Civil or Military offices acting
+under authority of the United States subsequent to the 10th day of January, 1861, and prior to the
+final restoration of the State to the Government of the United States, are hereby declared valid,
+and shall not be subject to adjudication in the Courts of this State; nor shall any person acting in
+the capacity of a soldier or officer of the United States, civil or military, be subject to arrest for
+any act performed by him pursuant to authorized instructions from his superior officers during the
+period of time above designated.
+
+*** SEND ***
+*** SSTART 007.0 015.0 0 FL 1868 ***
+
+SEC. 7.  That in all cases where judgments have been obtained against citizens of the State after
+the 10th day of January, 1861, previous to the 25th day of October, 1865, and where actual
+service was not made on the person of any defendant, such defendant, not served with process,
+may appear in court within one year after the adoption of this Constitution, and make oath that
+injustice has been done and that he or she has a good and valid defence, stating the defence, and
+upon making such oath and filing said defence, the proceedings in the judgment shall cease until
+the defence is heard.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 016.0 FL 1868 ***
+
+ARTICLE XVI
+
+MISCELLANEOUS
+
+*** SSTART 001.0 016.0 0 FL 1868 ***
+
+SECTION 1.  Any person debarred from holding office in the State of Florida by the third section
+of the fourteenth article of the proposed amendment to the Constitution of the United States,
+which is as follows: "No person shall be a Senator or Representative in Congress, or elector of
+President or Vice-President, or hold any office, civil or military, under the United States or under
+any State, who, having previously taken an oath as a member of Congress, or as an officer of the
+United States, or as a member of any State Legislature, or as an executive or judicial officer of
+any State, to support the Constitution of the United States, shall have engaged in insurrection or
+rebellion against the same, or given aid and comfort to enemies thereof.  But Congress may, by a
+vote of two-thirds of each house, remove such disability," is hereby debarred from holding office
+in this State: Provided, that whenever such disability from holding office shall be removed from
+any person by the Congress of the United States, the removal of such disability shall also apply to
+this State, and such person shall be restored, in all respects, to the rights of citizenship as herein
+provided for electors.
+
+*** SEND ***
+*** SSTART 002.0 016.0 0 FL 1868 ***
+
+SEC. 2.  Any person elected to the Senate of the United States by the Legislature of this State, or
+any person elected by the people, or appointed to office by the Governor of the State, or by any
+officer of the State, under the provisions of the Constitution adopted by the Convention of the
+people, convened on the 25th day of October, 1865, shall not be empowered to hold such office
+after the same position or office shall have been filled by election or appointment under the
+provisions of this Constitution:  Provided, that all officers holding office under the provisions of
+the Constitution adopted the 25th day of October, A. D. 1865, and not provided for in this
+Constitution, shall continue to hold their respective offices, and discharge the duties thereof, until
+the Governor shall, by his proclamation, declare such offices vacant.
+
+*** SEND ***
+*** SSTART 003.0 016.0 0 FL 1868 ***
+
+SEC. 3.  The several Judicial Circuits of the Circuit Courts shall be as follows:  The first judicial
+circuit shall be composed of the counties of Escambia, Santa Rosa, Walton, Holmes, Washington,
+and Jackson; the second judicial circuit shall be composed of the counties of Gadsden, Liberty,
+Calhoun, Franklin, Leon, Wakulla, and Jefferson; the third judicial circuit shall be composed of
+the counties of Madison, Taylor, La Fayette, Hamilton, Suwannee, and Columbia; the fourth
+judicial circuit shall be composed of the counties of Nassau, Duval, Baker, Bradford, Clay, and
+Saint John's; the fifth judicial circuit shall be composed of the counties of Putnam, Alachua, Levy,
+Marion, and Sumter; the sixth judicial circuit shall be composed of the counties of Hernando,
+Hillsborough, Manatee, Polk, and Monroe; the seventh judicial circuit shall be composed of the
+counties of Volusia, Brevard, Orange, and Dade.
+
+*** SEND ***
+*** SSTART 004.0 016.0 0 FL 1868 ***
+
+SEC. 4.  The salary of the Governor of the State shall be $5,000 per annum; that of the Chief
+Justice shall be $4,500; that of each Associate Justice shall be $4,000; that of each judge of the
+Circuit Court shall be $3,500; that of the Lieutenant Governor shall be $2,500; that of each
+Cabinet Officer shall be $3,000.  The pay of the members of the Senate and House of
+Representatives shall be $500 per annum, and in addition thereto ten cents per mile for each mile
+traveled from their respective places of residence to the Capital, and the same to return.  But such
+distances shall be estimated by the shortest general public thoroughfare.  All other officers of the
+State shall be paid by fees as per diem fixed by law.
+
+*** SEND ***
+*** SSTART 005.0 016.0 0 FL 1868 ***
+
+SEC. 5.  The Legislature shall appropriate $2,000 each year for the purchase of such books for
+the Supreme Court Library as the said Court shall direct.
+
+*** SEND ***
+*** SSTART 006.0 016.0 0 FL 1868 ***
+
+SEC. 6.  The salary of each officer shall be payable quarterly upon his own requisition.
+
+*** SEND ***
+*** SSTART 007.0 016.0 0 FL 1868 ***
+
+SEC. 7.  The tribe of Indians located in the southern portion of the State, and known as the
+Seminole Indians, shall be entitled to one member in each house of the Legislature.  Such member
+shall have all the rights, privileges, and remuneration as other members of the Legislature.  Such
+members shall be elected by the members of their tribe, in the manner prescribed for all elections
+by this Constitution.  The tribe shall be represented only by a member of the same, and in no case
+by a white man:  Provided, That the representatives of the Seminole Indians shall not be a bar to
+the representation of ally county by the citizens thereof.
+
+*** SEND ***
+*** SSTART 008.0 016.0 0 FL 1868 ***
+
+SEC. 8.  The Legislature may at, any time impose such tax on the Indians as they may deem
+proper; and such imposition of tax shall constitute the Indians citizens, and they shall
+thenceforward be entitled to all the privileges of other citizens, and thereafter be barred of special
+representation.
+
+*** SEND ***
+*** SSTART 009.0 016.0 0 FL 1868 ***
+
+SEC. 9.  In addition to other crimes and misdemeanors for an officer may be impeached and tried,
+shall be included drunkenness and other dissipations; incompetency, malfeasance in office,
+gambling, or any conduct detrimental to good morals shall be considered sufficient cause for
+impeachment and conviction.  Any officer, when impeached by the assembly, shall be deemed
+under arrest, and shall be, disqualified from performing any of the duties of his office until
+acquitted by the Senate.  But any officer so impeached and in arrest may demand his trial by the
+Senate within ten days of the date of his impeachment.
+
+*** SEND ***
+*** SSTART 010.0 016.0 0 FL 1868 ***
+
+SEC. 10.  The following shall be the oath of office for each officer in the State, including
+members of the Legislature:  "I do solemnly swear that I will support, protect, and defend the
+Constitution and Government of the United States, and of the State of Florida, against all
+enemies, domestic or foreign, and that I will bear true faith, loyalty, and allegiance to the same,
+and that I am entitled to hold office under this constitution; that I will well and faithfully perform
+all the duties of the office of ---------, which I am about to enter: so help me God."
+
+*** SEND ***
+*** SSTART 011.0 016.0 0 FL 1868 ***
+
+SEC. 11.  The Legislature may provide for the donation of the public lands to actual settlers; but
+such donation shall not exceed one hundred and sixty acres to any one person.
+
+*** SEND ***
+*** SSTART 012.0 016.0 0 FL 1868 ***
+
+SEC. 12.  All county officers shall hold their respective offices at the county seats of their
+counties.
+
+*** SEND ***
+*** SSTART 013.0 016.0 0 FL 1868 ***
+
+SEC. 13.  The Legislature shall provide for the speedy publication of all statutes and laws of
+general nature.  All decisions of the Supreme Court, and all laws and judicial decisions, shall be
+for free publication by any person.  But no judgment of the Supreme Court shall take effect and
+be operative until the opinion of the Court in such case shall be filed with the clerk of said court.
+
+*** SEND ***
+*** SSTART 014.0 016.0 0 FL 1868 ***
+
+SEC. 14.  The Legislature shall not create any office, the term of which shall be longer than four
+years.
+
+*** SEND ***
+*** SSTART 015.0 016.0 0 FL 1868 ***
+
+SEC. 15.  The Governor, Cabinet, and Supreme Court shall keep their offices at the seat of
+government.  But in case of invasion or violent epidemics, the Governor may direct that the
+offices of the government shall be removed temporarily to some other place.  The session of the
+Legislature may be adjourned for the same cause to some other place; but in such case of removal
+all the departments of the government shall be removed to one place.  But such removal shall not
+continue longer than the necessity for the same shall continue.
+
+*** SEND ***
+*** SSTART 016.0 016.0 0 FL 1868 ***
+
+SEC. 16.  A plurality of votes given at an election by the people shall constitute a choice when not
+otherwise provided by this Constitution.
+
+*** SEND ***
+*** SSTART 017.0 016.0 0 FL 1868 ***
+
+SEC. 17.  The term of the State officers elected at the first election under this Constitution, not
+otherwise provided for, shall continue until the first Tuesday of January, A. D. 1873, and until the
+installation of their successors, excepting the members of the Legislature.
+
+*** SEND ***
+*** SSTART 018.0 016.0 0 FL 1868 ***
+
+SEC. 18.  Each county and incorporated city shall make provision for the support of its own
+officers, subject to such regulations as may be prescribed by law.  Each county shall make
+provision for building a court-house and jail, and for keeping the same in good repair.
+
+*** SEND ***
+*** SSTART 019.0 016.0 0 FL 1868 ***
+
+SEC. 19.  If at the meeting of the Senate at any session the Lieutenant Governor has not been
+qualified or is not present, the Senate shall elect one of its members as temporary President before
+proceeding to other business.
+
+*** SEND ***
+*** SSTART 020.0 016.0 0 FL 1868 ***
+
+SEC. 20.  The Legislature shall at the first session adopt a seal for the State, and such seal shall be
+of the size of the American silver dollar.  But said seal shall not again be changed after its
+adoption by the Legislature; and the Governor shall, by his proclamation, announce that the said
+seal has become the Great Seal of the State.
+
+*** SEND ***
+*** SSTART 021.0 016.0 0 FL 1868 ***
+
+SEC. 21.  The Governor, Lieutenant Governor, and all the State officers elected by the people
+shall be installed on the first day of the meeting of the Legislature, and immediately assume the
+duties of their respective offices.
+
+*** SEND ***
+*** SSTART 022.0 016.0 0 FL 1868 ***
+
+SEC. 22.  The Governor and Lieutenant Governor shall have been, before their election to office,
+nine years a citizen of the United States, and three years a citizen of the State.  All other officers
+shall have been one year a citizen of the State, and six months a citizen of the county from which
+they are elected or appointed.  No person shall be eligible to any office unless he be a registered
+voter.
+
+*** SEND ***
+*** SSTART 023.0 016.0 0 FL 1868 ***
+
+SEC. 23.  The Governor of any State officer is hereby prohibited from giving certificates of
+election or other credentials to any person as having been elected to the House of Representatives
+of the United States Congress, or the United States Senate, who has not been two years a citizen
+of the State, and nine years a citizen of the United States, and a registered voter.
+
+*** SEND ***
+*** SSTART 024.0 016.0 0 FL 1868 ***
+
+SEC. 24.  The property of  all corporations, whether heretofore or hereafter incorporated, shall be
+subject to taxation, unless such corporation be for religious, educational, or charitable purposes.
+
+*** SEND ***
+*** SSTART 025.0 016.0 0 FL 1868 ***
+
+SEC. 25.  All bills, bonds, notes, or evidences of debt outstanding and unpaid, given for or in
+consideration of bonds or treasury-notes of the so-called Confederate States, or notes and bonds
+of this State paid and redeemable in the bonds and notes of the Confederate States, are hereby
+declared null and void, and no action shall be maintained thereon in the courts of this State.
+
+*** SEND ***
+*** SSTART 026.0 016.0 0 FL 1868 ***
+
+SEC. 26.  It shall be the duty of the courts to consider that there is a failure of consideration, and
+it shall be so held by the courts of this State, upon all deeds or bills of sale given for slaves with
+covenant or warrantee of title or soundness, or both; upon all bills, bonds, notes, or other
+evidences of debt, given for or in consideration of slaves, which are now outstanding and unpaid,
+and no action shall be maintained thereon; and all judgments and decrees rendered in any of the
+courts of this State since the 10th day of January, A. D. 1861, upon all deeds or bills of sale, or
+upon any bond, bill , note, or other evidence of debt based upon the sale or purchase of slaves, are
+hereby declared set aside, and the plea of failure of consideration shall be held a good defence in
+all actions to said suit; and that when money was due previous to the 10th. day of January, 1861,
+and slaves were given in consideration for such money, these shall be deemed a failure of
+consideration for the debt:  Provided that settlements and compromises of such transaction made
+by the parties thereto shall be respected.
+
+*** SEND ***
+*** SSTART 027.0 016.0 0 FL 1868 ***
+
+SEC. 27.  All persons who, as alien enemies under the sequestration act of the so-called
+Confederate Congress, and now resident of the State, had property sequestered and sold by any
+person acting under a law of the so-called Confederate States, or the State of Florida, subsequent
+to the 10th. day of January, A. D. 1861, and prior to the 1st day of January, 1865, shall be
+empowered to file a bill in equity in the circuit court of the State, and shall be entitled to obtain
+judgment against the State for all damages sustained by said sale and detention of property. The
+court shall estimate the damages upon the assessed valuation of the property in question in the
+year A. D. 1870, with interest at six per cent. from the time the owner was deprived of the same. 
+But all judgments against the State shall be paid only in certificates of indebtedness, redeemable in
+State lands.  Said certificates shall be issued by the Governor, countersigned by the Secretary of
+State and by the Comptroller, upon the decree of the court.  Oral testimony shall be sufficient to
+establish the fact of a sale having been made.
+
+*** SEND ***
+*** SSTART 028.0 016.0 0 FL 1868 ***
+
+SEC. 28.  There shall be no civil or political distinction in this State on account of race, color, or
+previous condition of servitude, and the Legislature shall have no power to prohibit by law any
+class of persons, on account of race, color, or previous condition of servitude, to vote or hold any
+office, beyond the conditions prescribed by this Constitution.
+
+*** SEND ***
+*** SSTART 029.0 016.0 0 FL 1868 ***
+
+SEC.29 . The apportionment for the Assembly shall be as follows: Escambia, two; Santa Rosa,
+one; Walton, one; Holmes, one; Washington, one; Jackson, three; Calhoun, one; Gadsden, two;
+Franklin, one; Liberty, one; Wakulla, one, Leon, four; Jefferson, three; Madison, two; Taylor,
+one; Hamilton, one; Suwannee, one; La Fayette, one; Alachua, two; Columbia, two; Baker, one;
+Bradford, one; Nassau, one; Duval, two; Clay, one; Saint John's one; Putnam, one; Marion, two;
+Levy, one; Volusia, one; Oran one; Brevard, one; Dade, one; Hillsborough, one; Hernando, one;
+Sumter, one; Polk, one; Manatee, one, and Monroe, one. There shall be twenty-four senatorial
+districts, which shall be as follows, and shall be known by their respective numbers from one to
+twenty-four inclusive: The first senatorial district shall be composed of Escambia county, the
+second of Santa Rosa and Walton; the third, of Jackson; the fourth, of Volusia and Washington;
+the fifth, of Calhoun and Franklin; the sixth, of Gadsden; the seventh, of Liberty and Wakulla; the
+eighth, of Leon; the ninth, of Jefferson; the tenth, of Madison; the eleventh, of Hamilton and
+Suwannee; the twelfth, of La Fayette and Taylor; the thirteenth, of Alachua and Levy; the
+fourteenth, of Columbia; the fifteenth, of Bradford and Clay; the sixteenth, of Baker and Nassau;
+the seventeenth, of Saint John's and Putnam; the eighteenth, of Duval; the nineteenth, of Marion;
+the twentieth, of Volusia and Orange; the twenty-first, of Dade and Brevard; the twenty-second,
+of Hillsborough and Hernando; the twenty-third, of Sumter and Polk; the twenty-fourth, of
+Manatee and Monroe; and each Senatorial district shall be entitled to one Senator.
+
+*** SEND ***
+*** SSTART 030.0 016.0 0 FL 1868 ***
+
+SEC. 30.  No person shall ever be appointed a judge of the Supreme Court or Circuit Court who
+is not twenty-five years of age and practising attorney.
+
+*** SEND ***
+*** SSTART 031.0 016.0 0 FL 1868 ***
+
+SEC. 31.  The Legislature shall, as soon as convenient, adopt a State emblem, having the design
+of the great seal of the State impressed upon a white ground, of six feet six inches fly and six feet
+deep.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 017.0 FL 1868 ***
+
+ARTICLE XVII
+
+AMENDMENTS
+
+*** SSTART 001.0 017.0 0 FL 1868 ***
+
+SECTION 1.  Any amendment or amendments to this Constitution may be proposed in either
+branch of the Legislature; and if the same shall be agreed upon by a two-thirds vote of all the
+members elected to each of the two Houses, such proposed amendment or amendments shall be
+entered on their respective journals, with the yeas and nays thereon, and referred to the
+Legislature then next to be chosen, and shall be published for three months next preceding the
+time of making such choice; and if, in the Legislature next chosen as aforesaid, such proposed
+amendment or amendments shall be agreed to by a two-thirds vote of all the members elected to
+each House, then it should be the duty of the Legislature to submit such proposed amendment or
+amendments to the people in such manner and at such time as the Legislature may prescribe; and
+if the people shall approve and ratify such amendment or amendments by a majority of the
+electors qualified to vote for members of the Legislature voting thereon, such amendment or
+amendments shall become a part of the Constitution.
+
+*** SEND ***
+*** SSTART 002.0 017.0 0 FL 1868 ***
+
+SEC. 2.  If at any time the Legislature, by a vote of a majority of all the members elected to each
+of the two Houses, shall determine that it is necessary to cause a revision of this entire
+Constitution, such determination shall be entered on their respective journals, with the yeas and
+nays thereon, and referred to the Legislature then next to be chosen, and shall be published for
+three months next preceding the time of making such choice.
+
+And if in the Legislature next chosen aforesaid such proposed revision shall be agreed by a
+majority of all the members elected to each House, then it shall be the duty of the Legislature to
+recommend to the electors of the next election for members of the Legislature to vote for or
+against a Convention; and if it shall appear that a majority of the electors voting at such election
+shall have voted in favor of calling a convention, the legislature shall, at its next session, provide
+by law for a Convention, to be holden within six months after the passage of such law, and such
+Convention shall consist of a number of members not less than both branches of the Legislature.
+
+In determining what is a majority of the electors voting at such election, reference shall be had to
+the highest number of votes cast at such election for the candidates for any office or on any
+question.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9023.0 FL 1868 ***
+
+ORDINANCES
+
+*** SSTART 001.0 9023.0 0 FL 1868 ***
+
+ORDINANCE No. 1
+
+An ordinance declaring the Ordinance of Secession Null and Void
+
+Be it ordained by the People of Florida in Convention assembled, That the Ordinance adopted by
+the Convention of the People assembled on the 10th day of January, A. D. 1861, and known as the
+Ordinance of Secession, is hereby declared null and void from the beginning and of no effect.
+
+Passed in open Convention, February 21, A. D. 1868
+
+*** SEND ***
+*** SSTART 002.0 9023.0 0 FL 1868 ***
+
+ORDINANCE No. 2
+
+An Ordinance for the Relief of the People of Florida
+
+Be it Ordained by the People of Florida in Convention assembled, That from and after the
+passage of this Ordinance it shall not be lawful for any Sheriff or other officer of the State to sell
+under execution or other legal process in the State, any property, real or personal, and any sale so
+made shall be null and void.  That the collection of all Taxes, State, County and Municipal, shall
+be suspended; that all persons now in confinement for the nonpayment of Taxes, shall be
+forthwith released, and any State officer refusing to release such persons now in confinement,
+shall be guilty of felony, and be subject to legal process and punishment therefor.  That all
+Constitutional Provisions, Ordinances, Statutes or parts of Statutes, and all laws conflicting with
+the provisions of this Ordinance are hereby declared suspended; but nothing in this Ordinance
+shall be construed so as to prevent the return of property to its rightful owner upon legal process. 
+Provided, that this Ordinance, or any provision therein, shall not prevent the collection of debts
+due, or to become due as wages for actual labor performed by any house, field, or other laborer. 
+That the Legislature shall be empowered to alter, amend or abolish this Ordinance in its
+discretion.
+
+Passed in open Convention, February 21, A. D. 1868.
+
+*** SEND ***
+*** SSTART 003.0 9023.0 0 FL 1868 ***
+
+ORDINANCE No. 3
+
+An Ordinance for the Constitution of all the Laws of Florida.
+
+Be it Ordained by the People of Florida in Convention assembled, That the Governor elected
+under this Constitution is authorized and directed to employ three men learned in the law and
+familiar with its practice, to make a complete and accurate Digest of all the laws in Florida in
+force of a general nature, embracing the Territorian and State laws inclusive of the Acts of the
+Legislature previous to the work being submitted to the Governor as hereinafter provided in this
+Ordinance.  Such Digest shall be in the form and upon the plan of "Brightley's Digest" of the
+Statutes of the United States, and shall contain the Constitution of the United State and of the
+State.
+
+2nd. Such board shall be directed to review the manuscript work prepared by Leslie A. Thompson,
+containing the Laws of England, now in force in this State, and if such work shall be found of
+sufficient value, said board shall correct or abbreviate the same as they may deem proper.
+
+3rd. Said board shall be directed to edit all the reports of the Supreme Court of the State since its
+organization; to prepare a full index of the opinions of said Court, with such notes as may be
+deemed necessary for the elucidation of the same; also to prepare for publication, with the
+reports, the several Constitutions of the State, and their respective amendments, under which the
+opinions reported were made.
+
+4th. Said board shall also be directed compile all the local and private acts and resolutions still in
+force.
+
+5th. Said board shall be directed to prepare a code of practice for the County Courts, defining
+definitely the rules and powers of said Courts; the mode and limitation of punishment; all forms
+necessary for the use of said Courts, and any and all other instructions that may be necessary for
+the complete exercise of the jurisdiction thereof, whether in criminal, civil or Probate capacity.
+
+6th. Said board shall be directed to prepare a Code for the practice of Justices of the Peace, setting
+forth their powers and jurisdiction and defining their duties under the provisions of the
+Constitution and acts of the Legislature; also all forms necessary for the use thereof.
+
+7th. In the Digest of the general laws, local and private acts and resolutions, all useless verbiage or
+superfluous matter, and all that has a tendency to mystify and obscure the true meaning of any act
+or section thereof, shall be carefully omitted; the whole to be accompanied with marginal notes
+and references, and with a suitable index.
+
+8th. Whenever the works above designated, or any one of them, shall have been completed, they
+or it shall be submitted by the Governor to the Justices of the Supreme Court, by whom they shall
+be reviewed, and if necessary, amended and thereafter said works shall be the law and rules of
+practice respectively, unless they are afterwards repealed or altered by the Legislature.
+
+9th. The Governor is further authorized and directed to make the necessary contracts for the
+publication of the aforesaid works .  Of the Digest of the Laws there shall be printed and bound
+five hundred copies; of the English Law five hundred; of the Reports of the Supreme Court five
+hundred; of the Local and Private Acts and Resolutions five hundred; of the Code of Practice of
+County Courts five hundred, and of the Code of Practice of Justices of the Peace five hundred
+copies.
+
+10th. The Legislature is hereby authorized and directed to provide the necessary means for the
+compensation of the members of the aforesaid Board and for defraying all expenses of
+publication, and provide by law for such distribution of the works aforesaid as may be deemed
+proper and necessary, to the officers of the State and several counties, an for exchange with other
+States.
+
+11th. The aforesaid works until disposed of by action of the Legislature, shall remain in the
+custody of the State Librarian.
+
+12th. The aforesaid works shall be compiled in accordance with the provisions of this Constitution;
+except in those cases where there are express provisions to the contrary.
+
+Passed in open Convention, February 21, A. D. 1868.
+
+*** SEND ***
+*** SSTART 004.0 9023.0 0 FL 1868 ***
+
+ORDINANCE No. 4
+
+An Ordinance in relation to certain Suits, Judgments, ac., in the Civil Courts of this State.
+
+Be it Ordained by the People of Florida in Convention assembled, That all suits heretofore
+commenced in any of the civil Courts of this State during the war between the United States and
+the so-called Confederate States, and any and all judgments, orders or decrees of said Courts,
+rendered or entered up against any person or persons any one of whom at the commencement of
+said suit, or during the pending thereof, was beyond the reach and jurisdiction of said Courts by
+reason of the war between the United State and the so-called Confederate States, are hereby
+declared to be null and void and of no effect whatever, and all writs, executions and sales founded
+on said judgments are also hereby declared void.  Provided, That nothing in this Ordinance shall
+be construed to prevent the plaintiff's in such cases from commencing their suit anew.
+
+Passed in open Convention February 21, A. D. 1868.
+
+*** SEND ***
+*** SSTART 005.0 9023.0 1 FL 1868 ***
+
+ORDINANCE No. 5
+
+An Ordinance to provide the means of Defraying the Expenses of this Convention.
+
+Be it Ordained by the People of Florida in Convention assembled, That this Convention does
+hereby levy and assess a tax of one-fifth of one per cent on all taxable property of this State for
+the purpose of defraying the expenses of this Convention, and the compensation of officers and
+members thereof; and it shall be the duty of the tax collector in the several counties of this State
+to collect the tax so assessed, on or before the first day of January, A. D. 1869, and to pay the
+same to the Treasurer of the State immediately upon the collection thereof, and that the Collector
+shall collect the same in accordance with the laws of the State of Florida for the collection of
+State taxes.
+
+*** SEND ***
+*** SSTART 005.0 9023.0 2 FL 1868 ***
+
+ORDINANCE No. 5
+
+SEC. 2.  Be it further ordained, That the Comptroller shall issue to the Tax Collectors all
+necessary orders for the collection and payment of the aforesaid tax, which order shall be binding
+upon said Tax Collectors.
+
+*** SEND ***
+*** SSTART 005.0 9023.0 3 FL 1868 ***
+
+ORDINANCE No. 5
+
+SEC. 3.  Be it further ordained, That the Tax Collectors shall receive the same per cent as they
+are now allowed by law for collecting the State Tax.
+
+*** SEND ***
+*** SSTART 005.0 9023.0 4 FL 1868 ***
+
+ORDINANCE No. 5
+
+SEC. 4.  Be it further ordained, That the Governor of this State is hereby empowered and
+authorized to issue Bonds bearing eight per cent interest per annum, payable upon the first day of
+March, A. D. 1869, in such sums as he may deem expedient, not exceeding in amount Thirty
+Thousand Dollars, which shall be redeemed out of the proceeds of said special tax when collected,
+and the Financial Agent for the purpose of defraying the immediate expenses of this Convention,
+is hereby empowered to dispose of the said Bonds, and to pay from the proceeds thereof such
+accounts as may be audited by the Finance Committee, and deposit the balance, if any, with the
+Treasurer of the State.
+
+*** SEND ***
+*** SSTART 005.0 9023.0 5 FL 1868 ***
+
+ORDINANCE No. 5
+
+SEC. 5.  Be it further ordained, That the Governor of the State of Florida is hereby requested,
+authorized and directed to issue Certificates of Indebtedness to the full amount of Ten Thousand
+dollars, which Certificates of Indebtedness shall be receivable for the tax levied under this
+Ordinance and all State dues; said Certificates shall bear the impress of the Seal of the State
+Treasurer, and shall be in such amounts as the Governor may deem expedient.
+
+Passed in open Convention February 21, 1868.
+
+*** SEND ***
+*** SSTART 006.0 9023.0 0 FL 1868 ***
+
+An Ordinance to provide for the repeal of unequal Taxation.
+
+WHEREAS:  The General Assembly of the Provisional Government of Florida passed an Act
+entitled "An Act Concerning Schools for Freedmen" approved January 16th, 1866, whereby a tax
+of one dollar each is assessed and levied upon all male persons of color between the ages of
+twenty-one years and fifty-five, and the proceeds of which are denominated a Common School
+Fund for the Education of Freedmen; and WHEREAS, The said tax so unequally, discriminatingly
+and injuriously levied and collected, has failed to result in any benefit in the least to those for
+whose education it was claimed to have been enacted, and is imposed in violation of public and
+impartial justice, and that civil and political equality which is now the inalienable franchise and
+birthright of every citizen of the State, without regard to race, color or previous condition: 
+therefore,
+
+Be it Ordained by the People of Florida in Convention assembled, That so much of said Act as
+provides for the assessment and levy of one dollar each upon all male persons of color between
+the ages of twenty-one and fifty-five, be, and the same is hereby repealed, and all further
+assessment and collection of said tax shall be and the same is hereby stopped and prohibited.
+
+Passed in open Convention February 22, A. D. 1868.
+
+*** SEND ***
+*** SSTART 007.0 9023.0 0 FL 1868 ***
+
+ORDINANCE No. 7
+
+Be it Ordained by the People of Florida in Convention assembled, That no person shall give, or
+offer to give, directly or indirectly, any bribe, present or reward, or any private benefit or promise
+of such benefit whatever, to induce any voter to refrain from casting his vote, or to prevent him in
+any way from voting, or to procure, or attempt to procure him to vote for any particular
+candidate or candidates at any election in this State, and the person so giving or offering to give,
+and the person receiving the same, and any person who gives or causes to be given,  and illegal
+vote, knowing it to be such, at any election in this State, shall, on conviction in a Court of law be
+fined not exceeding three hundred dollars for each offence, or be imprisoned not exceeding six
+months; and either party to such unlawful bargain or agreement may make complaint or
+commence prosecution, and appear in evidence against the other, and thereby absolve himself
+from all penalty in said case.  And further, No person shall threaten or intimidate in any way, or
+injure any elector on account of the manner in which he may have voted, or be expected to vote
+or to knowingly deceive or mislead any elector in relation to the time or place of holding any
+election, or in the name, or political affiliation of any candidate at any election in this State; and
+any person violating this provision, shall, upon conviction thereof, be fined not less than five
+hundred dollars for each offence, or be imprisoned for not less than one year.  Provided, That the
+Legislature shall have the power any time to change, amend or repeal this Ordinance.
+
+And be it further ordained, That the President of this Convention immediately furnish fifty printed
+copies of this Ordinance to the Sheriff of each county in the State, who shall publish and post the
+same throughout his county for four weeks previous to the next election.
+
+Passed in open Convention February 22, A. D. 1868.
+
+*** SEND ***
+*** SSTART 008.0 9023.0 0 FL 1868 ***
+
+ORDINANCE No. 8
+
+An Ordinance Abolishing County Criminal Courts.
+
+Be it Ordained by the People of Florida in Convention assembled, That from and after the
+passage of this ordinance, the County Criminal Courts of this State shall be abolished, and all fees,
+costs and charges of every kind whatsoever, due or to become due to any Justice of the Peace,
+Constable, Clerk of Circuit Court, or of the County Criminal Court, Sheriff, or any officer of this
+State for services, issuing warrants, arresting accused, preparing docket and papers, confining
+prisoners, or for any service whatever in and about said County Criminal Court, are declared
+illegal and void, and fully-satisfied and extinguished; and it shall not be lawful for any Board of
+County Commissioners of this State, or any Treasurer, State or County, to allow or pay out any
+money or moneys for any such services:  Provided, a small allowance, not to exceed the actual
+cost of the provisions, shall be allowed for the feeding of accused defendants and prisoners bound
+over to or fined in said County Criminal Courts, and nothing shall be so construed as to deprive
+Judges and Solicitors of their fees.
+
+Be it further ordained, That all fines, penalties and disabilities ordered, entered up, or created in
+said County Criminal Courts are hereby rescinded and removed; all prisoners found guilty in said
+County Criminal Courts are hereby pardoned and released, and all judgments, executions, bonds
+and recognizes now outstanding and unsatisfied, originating or created in said Courts, are hereby
+declared null, void, and paid off.
+
+Be it further ordained, That all cases now pending in said Court shall be transferred to the Circuit
+Court, and the officer transferring them to said Circuit Court shall be allowed the regular fees
+now allowed for such services.
+
+Passed in open Convention, February 24, A. D. 1868 
+
+*** SEND ***
+*** SSTART 009.0 9023.0 0 FL 1868 ***
+
+ORDINANCE No. 9
+
+An Ordinance to Provide for submitting the Constitution to the People for Ratification.
+
+Be it Ordained by the People of Florida in Convention assembled, That the Constitution framed
+by this Convention, and signed on the 25th of February, A. D. 1868, be and the same is hereby
+submitted for ratification to the persons registered and to be registered under the provisions of the
+several acts of Congress, entitled "An act to provide for the more efficient government of the
+rebel States," passed March 2nd, 1867; and the acts supplementary thereto, at an election to be
+conducted according to the provisions of the said acts of Congress.
+
+Be it further ordained, That an election shall be held in the various counties of this State on the
+first Monday, Tuesday, and Wednesday of May, A. D. 1868, for the purpose of voting on the
+ratification of the Constitution framed by this Convention, and for the election of a Governor,
+Lieutenant Governor, one member of Congress, State Senators and Representatives, and
+County officers, and that the Judges or inspectors of election appointed by the Commanding
+General of the 3rd Military District to conduct and supervise the election for ratification, as
+provided in the several aforesaid acts of Congress, shall also conduct and supervise the election
+for said officers.
+
+Be it further ordained, That at each place of voting beside the ballot box provided by the said
+judges of election to receive the ballots for and against ratification, the said Judges shall provide a
+separate ballot box for the reception of ballots for Governor, Lieutenant-Governor, member of
+Congress, State Senators and Representatives, and County officers, and that a separate poll list
+shall be prepared by said judges of election of all persons qualified to vote for said officers; and all
+persons qualified to vote under the provisions of the Constitution shall be allowed to vote for said
+officers.
+
+Be it further ordained, That the vote for Governor, Lieutenant-Governor, member of Congress,
+State Senators and Representative, and County officers, shall be securely enveloped and sealed by
+the judges of election, and transmitted by prompt and safe conveyance to the city of Tallahassee,
+and delivered to a Board of Canvassers of there persons hereby appointed and authorized to wit: 
+Hon. Horation Jenkins, jr, President of the Constitutional Convention; Auburn Erwin, of
+Columbia County, and O. Morgan, of Leon County, within thirty days after said election; and the
+said Board of Canvassers shall meet at Tallahassee within ten days after said election and canvass
+the votes for said officers; and the said Board of Canvassers shall issued the certificates of election
+under their hands and seals; and the said Board of Canvassers shall make public proclamation of
+said returns in at least three of the newspapers published in this State, showing what persons shall
+have been elected to said offices severally; and thereupon the Governor of the State, and the
+Lieutenant-Governor thereof elected, shall assemble at the Capitol and be sworn into office by the
+Judge of the District Court of the United States, or in his absence by any person authorized by the
+laws of the United States to administer oaths.
+
+Be it further ordained, That a public notice containing this ordinance, signed by the President and
+Secretary of this Convention, shall be issued one the day after the final adjournment of this
+Convention, and shall be published in at least three of the newspapers in this State.
+
+Be it further ordained, That the persons who shall act as judges or inspectors of election, together
+with one clerk in each county, to be by them appointed, shall each receive five dollars per day for
+their services, in conducting, supervising and making out the returns of the election for said
+officers, and the Legislature at its first session shall provide by law for the payment of the
+expenses to be incurred thereby, and for any and all expenses incurred under and by virtue of the
+provisions of this ordinance.
+
+Passed in open Convention, February 24, A. D. 1868.
+
+*** SEND ***
+*** SSTART 010.0 9023.0 0 FL 1868 ***
+
+ORDINANCE No. 10
+
+An Ordinance to inquire into the condition of the Union Bank of Florida.
+
+Be it Ordained by the People of Florida in Convention assembled, That it shall be the duty of the
+first Governor elected under this Constitution, to appoint a Committee of not less than three
+persons to inquire into the conditions, liabilities and assets of the Union Bank of Florida, and as to
+the liability of the State of Florida, or of the United States, as security for and upon the bonds of
+said Union Bank.
+
+Passed in open Convention February 24, A. D. 1868.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9016.0 FL 1968 ***
+
+Done in open convention.  In witness whereof, we, the undersigned delegates, representing the
+people of Florida, in Convention assembled, do hereunto affix our names this twenty-fifth day of
+February, one thousand eight, hundred and sixty-eight, and of the Independence of the United
+States the ninety-second, and the Secretary doth countersign the same.
+
+HORATIO JENKINS, Jr., President.
+S. CONANT, Secretary.
+
+*** AEND ***
+
+
+*** MSTART 001 004.0 006.0 0 FL 1868 1871 ***
+
+Ratified April 4, 1871
+
+SEC. 4.  The majority of the justices of the Supreme Court shall constitute a quorum for the
+transaction of all business.  The number of terms of the Supreme Court, and the time of holding
+the same, shall be fixed by law.
+
+*** MEND ***
+*** MSTART 002 013.0 006.0 0 FL 1868 1871 ***
+
+Ratified April 4, 1871
+
+SEC. 13.  REPEALED
+
+*** MEND ***
+*** MSTART 003 022.0 006.0 0 FL 1868 1871 ***
+
+Ratified April 4, 1871 
+
+SEC. 22.  The Legislature shall have power to prescribe regulation for calling into the Supreme
+Court a Judge of the Circuit Court to hear and determine any matters pending before the court in
+the place of any Justice thereof who shall be disqualified or disabled in such case, from interest or
+other cause.
+
+*** MEND ***
+*** MSTART 004 001.0 007.0 0 FL 1868 1871 ***
+
+Ratified April 4, 1871
+
+SEC. 1.  There shall be a cabinet of administrative officers, consisting of a Secretary of State,
+Attorney-General, Comptroller, Treasurer, Superintendent of Public Instruction, Adjutant-
+General and Commissioner of Lands and Immigration, who shall assist the Governor in the
+performance of his duties.
+
+*** MEND ***
+*** MSTART 005 009.0 007.0 0 FL 1868 1871 ***
+
+Ratified April 4, 1871 
+
+SEC. 9. The Commissioner of Lands and Immigration shall organize a Bureau of Immigration, for
+the purposes of furnishing information, and for the encouragement of immigration.  He shall have
+the administrative supervision of all matters pertaining to the public lands, under such regulations
+as shall be prescribed by law.  The office of Commissioner of Lands and Immigration shall expire
+at the end of fifteen years from the ratification of this Constitution, but the Legislature shall have
+the power to continue it by law.
+
+*** MEND ***
+*** MSTART 006 004.0 016.0 0 FL 1868 1871 ***
+
+Ratified April 4, 1871
+
+SEC. 4.  The salary of the Governor of the State shall be three thousand five hundred dollars per
+annum; that of each Justice of the Supreme Court shall be three thousand dollars; that of each
+Judge of the Circuit Court shall be two thousand five hundred dollars; that of each Cabinet officer
+shall be two thousand dollars; that of the Lieutenant-Governor shall be five hundred dollars, and
+he shall receive the same mileage as members of the Legislature; The pay of members of the
+Legislature shall be per diem, to be fixed by law for each day's actual attendance, and, in addition
+thereto, ten cents per mile for traveling expenses for each mile from their respective places of
+residence to the Capital, estimated by the shortest thoroughfare and the same to return.  All other
+officers of the State shall be paid by fees or per diem fixed by law.  No Legislature shall increase
+its own pay.
+
+*** MEND ***
+*** MSTART 007 002.0 004.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 2.  From and after the first Tuesday after the first Monday in January A.D. one
+thousand eight hundred and seventy-seven, the regular sessions of the Legislature shall be held
+biennially, commencing on said day, and on the corresponding day of every second year
+thereafter; but the Governor may convene the same in extra session by his proclamation.
+
+*** MEND ***
+*** MSTART 008 029.0 004.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 29.  The Assembly shall have the sole power of impeachment; but a vote of two-thirds
+of all members present shall be required to impeach any officer; and all impeachments shall be
+tried by the Senate.  When sitting for that purpose the Senators shall be upon oath or affirmation;
+and no person shall be convicted without the concurrence of two-thirds of the Senators present. 
+The Senate may adjourn to a fixed day for the trial of any impeachment, and may sit for the
+purpose of such trial whether the Assembly be in session or not; but the time fixed for such trial
+shall not be more than six months from the time articles of impeachment shall be preferred by the
+Assembly.  The Chief-Justice shall preside at all trials by impeachment except in the trial of the
+Chief-Justice, when the Lieutenant-Governor shall preside.  The Governor, Lieutenant-Governor,
+members of the Cabinet, Justices of the Supreme Court and Judges of the Circuit Court shall be
+liable to impeachment for any misdemeanor in office; but judgment in such cases shall extend only
+to removal from office and disqualification to hold any office of honor, trust, or profit under the
+State; but the party convicted or acquitted shall, nevertheless, be liable to indictment, trial, and
+punishment, according to law.  All other officers who shall have been appointed to office by the
+Governor, and by and with the consent of the Senate, may be removed from office upon the
+recommendation of the Governor and consent of the Senate; but they shall, nevertheless, be liable
+to indictment, trial, and punishment according to law for any misdemeanor in office.  All other
+civil officers shall be tried for misdemeanor in office in such manner as the Legislature may
+provide.
+
+*** MEND ***
+*** MSTART 009 022.0 005.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 22.  The Governor shall have power to disapprove of any item or items of any bills
+making appropriations of money embracing distinct items, and the part or parts of the bill
+approved shall be the law, and the item or items or appropriation disapproved shall be void, unless
+re-passed according to the rules and limitations prescribed for the passage of other bills over the
+Executive veto.
+
+*** MEND ***
+*** MSTART 010 014.0 005.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 14.  A Lieutenant-Governor shall be elected at the same time and places and in the
+same manner as the Governor, whose term of office and eligibility shall also be the same.  He shall
+be the President of the Senate, but shall only have a casting vote therein.  In the case of the
+impeachment of the Governor, or his removal from office, death, inability to discharge his official
+duties, or resignation, the power and duties of the office shall devolve upon the Lieutenant-
+Governor for the residue of the term, or until the disability shall cease.  In case of the
+impeachment of the Lieutenant-Governor, or his removal from office, death, inability to discharge
+his official duties, or resignation, the power and duties of the office shall devolve upon the
+President pro tem. of the Senate.  In case a vacancy shall occur both in the offices of the
+Governor and Lieutenant-Governor, the Legislature, shall at its next session order an election to
+fill such vacancies.  But the Governor shall not, without the consent of the Legislature, be out of
+the State in time of war.
+
+*** MEND ***
+*** MSTART 011 015.0 005.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 15.  REPEALED
+
+*** MEND ***
+*** MSTART 012 016.0 005.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 16.  The Governor may at any time require the opinion of the Justices of the Supreme
+Court as to the interpretation of any portion of this Constitution upon any question affecting his
+Executive powers and duties, and the Justices shall render such opinion in writing.
+
+*** MEND ***
+*** MSTART 013 005.0 006.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 5.  The Supreme Court shall have appellate jurisdiction in all cases at law, and in
+equity, commenced in Circuit Courts, and of appeal from the Circuit Court in cases arising in the
+County Court as a Court of Probate, and in the management of the estates of infants, and in all
+criminal cases commenced in the Circuit Court.  The court shall have power to issue writs of
+mandamus, certiorari, prohibition, quo warranto, habeas corpus, and also all writs necessary or
+proper to the complete exercise of its jurisdiction.  Each of the Justices shall have the power to
+issue writs of habeas corpus to any part of the State upon petition by or on behalf of any person
+held in actual custody, and may make such writs returnable before himself or the Supreme Court
+or any Justice thereof, or before any Circuit Judge.
+
+*** MEND ***
+*** MSTART 014 008.0 006.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 8.  The Circuit Courts shall have original jurisdiction in all cases in equity, also in all
+cases at law in which the demand or the value of the property involved exceeds one hundred
+dollars, and in all cases involving the legality of any tax assessments, toll, or municipal fine, and of
+the action of forcible entry and unlawful detainer, and of the actions involving the titles of right of
+possession of real estate, and of all criminal cases, except such as may be cognizable by law by
+inferior courts.  They shall have appellate jurisdiction of matters pertaining to the probate
+jurisdiction and the estates and interests of minors in the County Courts, and of such other
+matters as may be provided by law, and final appellate jurisdiction in all civil cases arising in the
+court of a Justice of the Peace in which the amount or value of property involved is twenty-five
+dollars and upwards, and of misdemeanors tried before any Justice's or mayor's court.  The
+Circuit Courts and Judges shall have power to issue writs of mandamus, injunction, quo warranto,
+certiorari, habeas corpus, and all writs proper and necessary to the complete exercise of their
+jurisdiction.
+
+*** MEND ***
+*** MSTART 015 010.0 006.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 10.  REPEALED
+
+*** MEND ***
+*** MSTART 016 011.0 006.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875 
+
+SECTION 11.  The County Court shall have power to take probate of wills, to grant letters
+testamentary, and of administration and guardianship, to attend the settlement of the estates of
+decedents and of minors, and to discharge the duties usually pertaining to Courts of Probate,
+subject to the direction and supervision of the appellate and equity jurisdiction of the Circuit
+Court, as may be provided by law.  And the County Judges shall have and exercise the civil and
+criminal jurisdiction of Justices of the Peace.  They may also have jurisdiction of such proceedings
+relating to the forcible entry or unlawful detention of lands and tenements, subject to the appellate
+jurisdiction of the Circuit Court, as may be provided by law.
+
+*** MEND ***
+*** MSTART 017 015.0 006.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 15.  The Governor shall appoint as many Justices of the Peace as he may deem
+necessary.  Justices of the Peace shall have jurisdiction in civil actions at law in cases in which the
+amount or value involved does not exceed one hundred dollars; and in criminal cases their powers
+shall be fixed by law.  Their powers, duties and responsibilities shall be regulated by law.  They
+may hold their offices for the term of four years, subject to removal by the Governor for reasons
+satisfactory to him.
+
+*** MEND ***
+*** MSTART 018 012.0 006.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 12.  Grand and petit jurors shall be taken from the registered voters of the respective
+counties.  The number of jurors for the trial of causes in any court may be fixed by law.
+
+*** MEND ***
+*** MSTART 019 007.0 012.0 0 FL 1868 1875 ***
+
+Ratified May 4, 1875
+
+SECTION 7.  The Legislature shall have power to provide for issuing State bonds bearing interest
+for securing the debt of the State, for the erection of State buildings, and for the support of State
+institutions; but the credit of the State shall not be pledged or loaned to any individual, company,
+corporation, or association; nor shall the State become a joint owner or stockholder in any
+company, association, or corporation.  The Legislature shall not authorize any county, city,
+borough, township, or incorporated district to become a stockholder in any company, association,
+or corporation, or to obtain or appropriate money for, or to loan its credit to, any corporation,
+association, institution, or individual.
+
+*** MEND ***
+*** MSTART 020 024.0 016.0 0 FL 1868 1875 ***       
+
+Ratified May 4, 1875
+
+SECTION 24.  The property of all corporations, whether heretofore or hereafter incorporated,
+shall be subject to taxation, unless such property be held and used exclusively for religious,
+educational or charitable purposes.
+
+*** MEND *** 
+
+
+
+
+*** CEND ***
+      

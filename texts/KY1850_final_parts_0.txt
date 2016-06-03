@@ -1,0 +1,1566 @@
+This is ready to go.
+
+JW 12.31.01
+
+
+
+*** CSTART KY 06/11/1850 9/28/1891 ***
+
+CONSTITUTION OF KENTUCKY-1850
+
+*** ASTART 9001.0 KY 1850 ***
+PREAMBLE
+
+     We, the representatives of the people of the State of Kentucky in convention assembled,
+to secure to all the citizens thereof the enjoyment of the rights of life, liberty, and property, and of
+pursuing happiness, do ordain and establish this constitution for its government:
+*** AEND ***
+
+*** ASTART 001.0 KY 1850 ***
+
+ARTICLE I
+
+CONCERNING THE DISTRIBUTION OF THE POWERS OF GOVERNMENT
+
+*** SSTART 001.0 001.0 0 KY 1850 ***
+SECTION 1. The powers of the government of the State of Kentucky shall be divided into three
+distinct departments, and each of them be confided to a separate body of magistracy, to wit, those
+which are legislative to one, those which are executive to another, and those which are judiciary
+to another.
+*** SEND ***
+
+*** SSTART 002.0 001.0 0 KY 1850 ***
+SEC. 2. No person, or collection of persons, being of one of those departments, shall exercise any
+power properly belonging to either of the others, except in the instances hereinafter expressly
+directed or permitted.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 002.0 KY 1850 ***
+ARTICLE II
+
+CONCERNING THE LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.0 002.0 0 KY 1850 ***
+SECTION 1. The legislative power shall be vested in a house of representatives and senate, which
+together shall be styled " The General Assembly of the Commonwealth of Kentucky."
+*** SEND ***
+
+*** SSTART 002.0 002.0 0 KY 1850 ***
+SEC. 2. The members of the house of representatives shall continue in service for the term of two
+years from the day of the general election, and no longer.
+*** SEND ***
+
+*** SSTART 003.0 002.0 0 KY 1850 ***
+SEC. 3. Representatives shall be chosen on the first Monday in August in every second year, and
+the mode of holding the elections shall be regulated by law.
+*** SEND ***
+
+*** SSTART 004.0 002.0 0 KY 1850 ***
+SEC. 4. No person shall be representative who, at the time of his election, is not a citizen of the
+United States, has not attained the age of twenty-four years, and who has not resided in this State
+two years next preceding his election, and the last year thereof in on shall be a representative who,
+at the time of his election, is not a citizen of the United States, has not attained the county,
+preceding his election, and the last year thereof in the county, town, or city for which he may be
+chosen.
+*** SEND ***
+
+*** SSTART 005.0 002.0 0 KY 1850 ***
+SEC 5. The general assembly shall divide each county of this commonwealth into convenient
+election-precincts, or may delegate power to do so to such county authorities as may be
+designated by law; and elections for representatives for the several counties shall be held at the
+places of holding their respective courts, and in the several election-precincts into which the
+counties may be divided: Provided, That when it shall appear to the general assembly that any city
+or town hath a number of qualified voters equal to the ratio then fixed, such city or town shall be
+invested with the privilege of a separate representation, in either or both houses of the general
+assembly, which shall be retained so long as such city or town shall contain a number of qualified
+voters equal to the ratio which may, from time to time, be fixed by law; and, thereafter, elections
+for the county in which such city or town is situated shall not be held therein; but such city or
+town shall not be entitled to a separate representation, unless such county, after the separation,
+shall also be entitled to one or more representatives. That whenever a city or town shall be
+entitled to a senate representation in either house of the general assembly, and by its numbers shall
+be entitled to more than one representative, such city or town shall be divided, by squares which
+are contiguous, so as to make the most compact form, into representative districts, as nearly equal
+as may be, equal to the number of representatives to which such city or town may be entitled; and
+one representative shall be elected from each district. In like manner shall said city or town be
+divided into senatorial districts, when by the apportionment more than one senator shall be
+allotted to such city or town, and a senator shall be elected from each senatorial district; but no
+ward or municipal division shall be divided by such division of senatorial or representative
+districts, unless it be necessary to equalize the elective, senatorial, or representative districts.
+*** SEND ***
+
+*** SSTART 006.0 002.0 0 KY 1850 ***
+SEC. 6. Representation shall be equal and uniform in this commonwealth, and shall be forever
+regulated and ascertained by the number of qualified voters therein. In the year 1850, again in the
+year 1857, and every eighth year thereafter, an enumeration of all the qualified voters of the State
+shall be made; and, to secure uniformity and equality of representation, the State is hereby laid off
+into ten districts. The first district shall be composed of the counties of Fulton, Hickman, Ballard,
+McCracken, Graves, Calloway, Marshall, Livingston, Crittenden, Union, Hopkins, Caldwell, and
+Trigg. The second district shall be composed of the counties of Christian, Muhlenburg,
+Henderson, Daviess, Hancock, Ohio, Breckinridge, Meade, Grayson, Butler, and Edmonson. The
+third district shall be composed of the counties of Todd, Logan, Simpson, Warren, Allen,
+Monroe, Barren, and Hart. The fourth district shall be composed of the counties of Cumberland,
+Adair, Green, Taylor, Clinton, Russell, Wayne, Pulaski, Casey, Boyle, and Lincoln. The fifth
+district shall be composed of the counties of Harden, Larue, Bullitt, Spencer, Nelson,
+Washington, Marion, Mercer, and Anderson. The sixth district shall be composed of the counties
+of Garrard, Madison, Estill, Owsley, Rockcastle, Laurel, Clay, Whitley, Knox, Harlan, Perry,
+Letcher, Pike, Floyd, and Johnson. The seventh district shall be composed of the counties of
+Jefferson, Oldham, Trimble, Carroll, Henry and Shelby, and the city of Louisville. The eighth
+district shall be composed of the counties of Bourbon, Fayette, Scott, Owen, Franklin, Woodford,
+and Jessamine. The ninth district shall be composed of the counties of Clarke, Bath, Montgomery,
+Fleming, Lewis, Greenup, Carter, Lawrence, Morgan, and Breathitt. The tenth district shall be
+composed of the counties of Mason, Bracken, Nicholas, Harrison, Pendleton, Campbell, Grant,
+Kenton, Boone, and Gallatin. The number of representatives shall, at the several sessions of the
+general assembly next after the making of the enumerations, be apportioned among the ten several
+districts according to the number of qualified voters in each; and the representatives shall be
+apportioned, as near as may be, among the counties, towns, and cities in each district; and in
+making such apportionment the following rules shall govern, to wit: Every county, town, or city,
+having the ratio, shall have one representative; if double the ratio, two representatives, and so on.
+Next, the counties, towns, or cities having one or more representatives, and the largest number of
+qualified voters above the ratio, and counties having the largest number under the ratio, shall have
+a representative, regard being always had to the greatest number of qualified voters: Provided,
+That when a county may not have a sufficient number of qualified voters to entitle it to one
+representative, then such county may be joined to some adjacent county or counties, which
+counties shall send one representative. When a new county shall be formed of territory belonging
+to more than one district, it shall form a part of that district having the least number of qualified
+voters.
+*** SEND ***
+
+*** SSTART 007.0 002.0 0 KY 1850 ***
+SEC. 7. The house of representatives shall choose its speaker and other officers.
+*** SEND ***
+
+*** SSTART 008.0 002.0 0 KY 1850 ***
+SEC. 8. Every free white male citizen of the age of twenty-one years, who has resided in the State
+two years, or in the county, town, or city in which he offers to vote one year, next preceding the
+election, shall be a voter; but such voter shall have been for sixty days next preceding the election
+a resident of the precinct in which he offers to vote, and he shall vote in said precinct, and not
+elsewhere.
+*** SEND ***
+
+*** SSTART 009.0 002.0 0 KY 1850 ***
+SEC. 9. Voters, in all cases except treason, felony, breach or surety of the peace, shall be
+privileged from arrest during their attendance at, going to, and returning from elections.
+*** SEND ***
+
+*** SSTART 010.0 002.0 0 KY 1850 ***
+SEC. 10. Senators shall be chosen for the term of four years, and the senate shall have power to
+choose its officers biennially.
+*** SEND ***
+
+*** SSTART 011.0 002.0 0 KY 1850 ***
+SEC. 11. Senators and representatives shall be elected, under the first apportionment after the
+adoption of this constitution, in the year 1851.
+*** SEND ***
+
+*** SSTART 012.0 002.0 0 KY 1850 ***
+SEC. 12. At the session of the general assembly next after the first apportionment under this
+constitution, the senators shall be divided by lot, as equally as may be, into two classes; the seats
+of the first class shall be vacated at the end of two years from the day of the election, and those of
+the second class at the end of four years, so that one-half shall be chosen every two years.
+*** SEND ***
+
+*** SSTART 013.0 002.0 0 KY 1850 ***
+SEC. 13. The number of representatives shall be one hundred, and the number of senators thirty-
+eight.
+*** SEND ***
+
+*** SSTART 014.0 002.0 0 KY 1850 ***
+SEC. 14. At every apportionment of representation, the State shall be laid off into thirty-eight
+senatorial districts, which shall be so formed as to contain, as near as may be, an equal number of
+qualified voters, and so that no county shall be divided in the formation of a senatorial district,
+except such county shall be entitled, under the enumeration, to two or more senators; and where
+two or more counties compose a district they shall be adjoining.
+*** SEND ***
+
+*** SSTART 015.0 002.0 0 KY 1850 ***
+SEC. 15. One senator for each district shall be elected by the qualified voters therein, who shall
+vote in the precincts where they reside, at the places where elections are by law directed to be
+held.
+*** SEND ***
+
+*** SSTART 016.0 002.0 0 KY 1850 ***
+SEC. 16. No person shall be a senator who, at the time of his election, is not a citizen of the
+United States, has not attained the age of thirty years, and who has not resided in this State six
+years next preceding his election, and the last year thereof in the district for which he may be
+chosen.
+*** SEND ***
+
+*** SSTART 017.0 002.0 0 KY 1850 ***
+SEC. 17. The election for senators, next after the first apportionment under this constitution, shall
+be general throughout the State, and at the same time that the election for representatives is held,
+and thereafter there shall be a biennial election for senators to fill the places of those whose term
+of service may have expired.
+*** SEND ***
+
+*** SSTART 018.0 002.0 0 KY 1850 ***
+SEC. 18. The general assembly shall convene on the first Monday in November, after the
+adoption of this constitution, and again on the first Monday in November, 1851, and on the same
+day of every second year thereafter, unless a different day be appointed by law, and their sessions
+shall be held at the seat of government.
+*** SEND ***
+
+*** SSTART 019.0 002.0 0 KY 1850 ***
+SEC. 19. Not less than a majority of the members of each house of the general assembly shall
+constitute a quorum to do business, but a smaller number may adjourn from day to day, and shall
+be authorized by law to compel the attendance of absent members in such manner and under such
+penalties as may be prescribed thereby.
+*** SEND ***
+
+*** SSTART 020.0 002.0 0 KY 1850 ***
+SEC. 20. Each house of the general assembly shall judge of the qualifications, elections, and
+returns of its members; but a contested election shall be determined in such manner as shall be
+directed by law.
+*** SEND ***
+
+*** SSTART 021.0 002.0 0 KY 1850 ***
+SEC. 21. Each house of the general assembly may determine the rules of its proceedings, punish a
+member for disorderly behavior, and, with the concurrence of two-thirds, expel a member, but not
+a second time for the same cause.
+*** SEND ***
+
+*** SSTART 022.0 002.0 0 KY 1850 ***
+SEC. 22. Each house of the general assembly shall keep and publish, weekly, a journal of its
+proceedings, and the yeas and nays of the members on any question shall, at the desire of any two
+of them, be entered on their journal.
+*** SEND ***
+
+*** SSTART 023.0 002.0 0 KY 1850 ***
+SEC. 23. Neither house, during the session of the general assembly, shall, without the consent of
+the other, adjourn for more than three days, nor to any other place than that in which they may be
+sitting.
+*** SEND ***
+
+*** SSTART 024.0 002.0 0 KY 1850 ***
+SEC. 24. The members of the general assembly shall severally receive from the public treasury a
+compensation for their services, which shall be three dollars a clay during their attendance on, and
+twelve and a half cents per mile for the necessary travel in going to, and returning from, the
+sessions of their respective houses: Provided, That the same may be increased or diminished by
+law; but no alteration shall take effect during the session at which such alteration shall be made;
+nor shall a session of the general assembly continue beyond sixty days, except by a vote of two-
+thirds of all the members elected to each house, but this shall not apply to the first session held
+under this constitution.
+*** SEND ***
+
+*** SSTART 025.0 002.0 0 KY 1850 ***
+SEC. 25. The members of the general assembly shall, in all cases except treason, felony, breach or
+surety of the peace, be privileged from arrest during their attendance at the sessions of their
+respective houses, and in going to and returning from the same; and for any speech or debate in
+either house, they shall not be questioned in any other place.
+*** SEND ***
+
+*** SSTART 026.0 002.0 0 KY 1850 ***
+SEC. 26. No senator or representative shall, during the term for which he was elected, nor for one
+year thereafter, be appointed or elected to any civil office of profit under this commonwealth,
+which shall have been created, or the emoluments of which shall have been increased, during the
+said term, except to such offices or appointments as may be filled by the election of the people.
+*** SEND ***
+
+*** SSTART 027.0 002.0 0 KY 1850 ***
+SEC. 27. No person, while he continues to exercise the functions of a clergyman, priest, or
+teacher of any religious persuasion, society, or sect, nor while he holds or exercises any office of
+profit under this commonwealth, or under the Government of the United States, shall be eligible
+to the general assembly, except attorneys at law, justices of the peace, and militia officers:
+Provided, That attorneys for the commonwealth, who receive a fixed annual salary, shall be
+ineligible.
+*** SEND ***
+
+*** SSTART 028.0 002.0 0 KY 1850 ***
+SEC. 28. No person who at any time may have been a collector of taxes or public moneys for the
+State, or the assistant or deputy of such collector, shall be eligible to the general assembly unless
+he shall have obtained a quietus, six months before the election, for the amount of such collection,
+and for all public moneys for which he may have been responsible.
+*** SEND ***
+
+*** SSTART 029.0 002.0 0 KY 1850 ***
+SEC. 29. No bill shall have the force of a law until, on three several days, it be read over in each
+house of the general assembly, and free discussion allowed thereon, unless, in cases of urgency,
+four-fifths of the house where the bill shall be depending may deem it expedient to dispense with
+this rule.
+*** SEND ***
+
+*** SSTART 030.0 002.0 0 KY 1850 ***
+SEC. 30. All bills for raising revenue shall originate in the house of representatives, but the senate
+may propose amendments, as in other bills: Provided, That they shall not introduce any new
+matter, under color of amendment, which does not relate to raising revenue.
+*** SEND ***
+
+*** SSTART 031.0 002.0 0 KY 1850 ***
+SEC. 31. The general assembly shall regulate by law by whom and in what manner writs of
+election shall be issued to fill the vacancies which may happen in either branch thereof.
+*** SEND ***
+
+*** SSTART 032.0 002.0 0 KY 1850 ***
+SEC. 32. The general assembly shall have no power to grant divorces, to change the names of
+individuals, or direct the sales of estates belonging to infants or other persons laboring under legal
+disabilities by special legislation; but by general laws shall confer such powers on the courts of
+justice.
+*** SEND ***
+
+*** SSTART 033.0 002.0 0 KY 1850 ***
+SEC. 33. The credit of this commonwealth shall never be given or loaned in aid of any person,
+association, municipality, or corporation.
+*** SEND ***
+
+*** SSTART 034.0 002.0 0 KY 1850 ***
+SEC. 34. The general assembly shall have no power to pass laws to diminish the resources of the
+sinking, fund, as now established by law, until the debt of the State be paid, but may pass laws to
+increase them; and the whole resources of said fund, from year to year, shall be sacredly set apart
+and applied to the payment of the interest and principal of the State debt, and to no other use or
+purpose, until the whole debt of the State is fully paid and satisfied.
+*** SEND ***
+
+*** SSTART 035.0 002.0 0 KY 1850 ***
+SEC. 35. The general assembly may contract debts to meet casual deficits or failures in the
+revenue; but such debts., direct or contingent, singly or in the aggregate, shall not at any time
+exceed five hundred thousand dollars; and the moneys arising from loans creating such debts shall
+be applied to the purposes for which they were obtained or to repay such debts: Provided, That
+the State may contract debts to repel invasion, suppress insurrection, or, if hostilities are
+threatened, provide for the public defence.
+*** SEND ***
+
+*** SSTART 036.0 002.0 0 KY 1850 ***
+SEC. 36. No act of the general assembly shall authorize any debt to be contracted on behalf of the
+commonwealth, except for the purposes mentioned in the thirty-fifth section of this article, unless
+provision be made therein to lay and collect an annual tax sufficient to pay the interest stipulated,
+and to discharge the debt within thirty years; nor shall such act take effect until it shall have been
+submitted to the people at a general election, and shall have received a majority of all the votes
+cast for or against it: Provided, That the general assembly may contract debts, by borrowing
+money to pay an part of the debt of the State, without submission to the people, without making
+provision in the act authorizing the same for a tax to discharge the debt so contracted, or the
+interest thereon.
+*** SEND ***
+
+*** SSTART 037.0 002.0 0 KY 1850 ***
+SEC. 37. No law enacted by the general assembly shall relate to more than one subject, and that
+shall be expressed in the title.
+*** SEND ***
+
+*** SSTART 038.0 002.0 0 KY 1850 ***
+SEC. 38. The general assembly shall not change the venue in any criminal or penal prosecution,
+but shall provide for the same by general laws.
+*** SEND ***
+
+*** SSTART 039.0 002.0 0 KY 1850 ***
+SEC. 39. The general assembly may pass laws authorizing writs of error in criminal or penal
+cases, and regulating the right of challenge of jurors therein.
+*** SEND ***
+
+*** SSTART 040.0 002.0 0 KY 1850 ***
+SEC. 40. The general assembly shall have no power to pass any act or resolution for the
+appropriation of any money, or the creation of an debt, exceeding the sum of one hundred dollars,
+at any one time, unless the same, on its final passage, shall be voted for by a majority of all the
+members then elected to each branch of the general assembly, and the yeas and nays thereon
+entered on the journal.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 003.0 KY 1850 ***
+ARTICLE III
+
+CONCERNING THE EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 003.0 0 KY 1850 ***
+SECTION 1. The supreme executive power of the commonwealth shall be vested in a chief
+magistrate, who shall be styled the governor of the commonwealth of Kentucky.
+*** SEND ***
+
+*** SSTART 002.0 003.0 0 KY 1850 ***
+SEC. 2. The governor shall be elected for the term of four years, by the qualified voters of the
+State, at the time when and places where they shall respectively vote for representatives. The
+person having the highest number of votes shall be governor; but if two or more shall be equal and
+highest in votes, the election shall be determined by lot, in such manner as the general assembly
+may direct.
+*** SEND ***
+
+*** SSTART 003.0 003.0 0 KY 1850 ***
+SEC. 3. The governor shall be ineligible for the succeeding four years after the expiration of the
+term for which he shall have been elected.
+*** SEND ***
+
+*** SSTART 004.0 003.0 0 KY 1850 ***
+SEC. 4. He shall be at least thirty-five years of age, and a citizen of the United States, and have
+been an inhabitant of this State at least six years next preceding his election.
+*** SEND ***
+
+*** SSTART 005.0 003.0 0 KY 1850 ***
+SEC. 5. He shall commence the execution of the duties of his office on the fifth Tuesday
+succeeding the day of the general election on which he shall have been chosen, and shall continue
+in the execution thereof until his successor shall have taken the oath or affirmation prescribed by
+this constitution.
+*** SEND ***
+
+*** SSTART 006.0 003.0 0 KY 1850 ***
+SEC. 6. No member of Congress, or person holding any office under the United States, or
+minister of any religious society, shall be eligible to the office of governor.
+*** SEND ***
+
+*** SSTART 007.0 003.0 0 KY 1850 ***
+SEC. 7. The governor shall, at stated times, receive for his services a compensation, which shall
+neither be increased nor diminished during the term for which he was elected.
+*** SEND ***
+
+*** SSTART 008.0 003.0 0 KY 1850 ***
+SEC. 8. He shall be commander-in-chief of the army and navy of the commonwealth, and of the
+militia thereof, except when they shall be called into the service of the United States; but lie shall
+not command personally in the field, unless advised so to do by a resolution of the general
+assembly.
+*** SEND ***
+
+*** SSTART 009.0 003.0 0 KY 1850 ***
+SEC. 9. He shall have power to fill vacancies that may occur, by granting commissions, which
+shall expire when such vacancies shall have been filled according to the provisions of this
+constitution.
+*** SEND ***
+
+*** SSTART 010.0 003.0 0 KY 1850 ***
+SEC. 10. He shall have power to remit fines and forfeitures, grant reprieves and pardons, except
+in cases of impeachment. In cases of treason, he shall have power to rant reprieves until the end of
+the next session of the general assembly, in which the power of pardoning shall be vested; but he
+shall have no power to remit the fees of the clerk, sheriff, or commonwealth's attorney in penal or
+criminal cases.
+*** SEND ***
+
+*** SSTART 011.0 003.0 0 KY 1850 ***
+SEC. 11. He may require information, in writing, from the officers in the executive department
+upon any subject relating to the duties of their respective offices.
+*** SEND ***
+
+*** SSTART 012.0 003.0 0 KY 1850 ***
+SEC. 12. He shall, from time to time, give to the general assembly information of the state of the
+commonwealth, and recommend to their consideration such measures as be may deem expedient.
+*** SEND ***
+
+*** SSTART 013.0 003.0 0 KY 1850 ***
+SEC. 13. He may, on extraordinary occasions, convene the general assembly at the seat of
+government, or at a different place if that should have become, since their last adjournment,
+dangerous from an enemy, or from contagious disorders; and in case of disagreement between the
+two houses, with respect to the time of adjournment, he may adjourn them to such time as he shall
+think proper, not exceeding four months.
+*** SEND ***
+
+*** SSTART 014.0 003.0 0 KY 1850 ***
+SEC. 14. He shall take care that the laws be faithfully executed.
+*** SEND ***
+
+*** SSTART 015.0 003.0 0 KY 1850 ***
+SEC. 15. A lieutenant-governor shall be chosen at every regular election of governor, in the same
+manner, to continue in office for the same time, and possess the same qualifications, as the
+governor.  In voting for governor and lieutenant-governor, the electors shall state for whom they
+vote as governor and for whom as lieu tenant-governor.
+*** SEND ***
+
+*** SSTART 016.0 003.0 0 KY 1850 ***
+SEC. 16. He shall, by virtue of his office, be speaker of the senate have a right, when in
+committee of the whole, to debate and vote on all subjects, and, when the senate are equally
+divided, to give the casting vote.
+*** SEND ***
+
+*** SSTART 017.0 003.0 0 KY 1850 ***
+SEC. 17. Should the governor be impeached, removed from office, die, refuse to qualify, resign,
+or be absent from the State, the lieutenant-governor shall exercise all the power and authority
+appertaining to the office of governor, until another be duly elected and qualified , or the governor
+absent or impeached shall return or be acquitted.
+*** SEND ***
+
+*** SSTART 018.0 003.0 0 KY 1850 ***
+SEC. 18. Whenever the government shall be administered by the lieutenant-governor, or he shall
+fail to attend as speaker of the senate, the senators shall elect one of their own members as
+speaker for that occasion. And if, during the vacancy of the office of governor, the lieutenant-
+governor shall be impeached, removed from office, refuse to qualify, resign, die, or be absent from
+the State the speaker of the senate shall, in like manner, administer the government: Provided,
+That whenever a vacancy shall occur in the office of governor before the first two years of the
+term shall have expired, a new election for governor shall take place to fill such vacancy.
+*** SEND ***
+
+*** SSTART 019.0 003.0 0 KY 1850 ***
+SEC. 19. The lieutenant-governor or speaker pro tempore of the senate, while he acts as speaker
+of the senate, shall receive for his services the same compensation which shall, for the same
+period, be allowed to the speaker of the house of representatives, and no more; and during the
+time he administers the government, as governor, shall receive the same compensation which the
+governor would have received had be been employed in the duties of his office.
+*** SEND ***
+
+*** SSTART 020.0 003.0 0 KY 1850 ***
+SEC. 20. If the lieutenant-governor shall be called upon to administer the government, and shall,
+while in such administration, resign, die, or be absent from the State during the recess of the
+general assembly, it shall be the duty of the secretary of state, for the time being, to convene the
+senate for the purpose of choosing a speaker.
+*** SEND ***
+
+*** SSTART 021.0 003.0 0 KY 1850 ***
+SEC. 21. The governor shall nominate and, by and with the advice and consent of the senate,
+appoint a secretary of state, who shall be commissioned during the term for which the governor
+was elected, if he shall for so long behave himself well. He shall keep a fair register, and attest all
+the official acts of the governor, and shall, when required, lay the same, and all papers, minutes,
+and vouchers relative thereto, before either house of the general assembly; and shall perform such
+other duties as may be required of him by law.
+*** SEND ***
+
+*** SSTART 022.0 003.0 0 KY 1850 ***
+SEC. 22. Every bill which shall have passed both houses shall be presented to the governor. If he
+approve, he shall sign it; but if not, he shall return it, with his objections, to the house in which it
+originated, who shall enter the objections at large upon their journal, an proceed to reconsider it. 
+If, after such reconsideration, a majority of all the members elected to that house shall agree to
+pass the bill, it shall be sent, with the objections, to the other house, by which it shall likewise be
+considered, and, if approved by a majority of all the members elected to that house, it shall be a
+law; but in such cases, the votes of both houses shall be determined by yeas and nays, and the
+names of the members voting for and against the bill shall be entered upon the journals of each
+house respectively.  If any bill shall not be returned by the governor within ten days (Sundays
+excepted) after it shall have been presented to him, it shall be a law, in like manner as if he had
+signed it, unless the general assembly, by their adjournment, prevent its return; in which case it
+shall be a law, unless sent back within three days after their next meeting.
+*** SEND ***
+
+*** SSTART 023.0 003.0 0 KY 1850 ***
+SEC. 23. Every order, resolution, or vote in which the concurrence of both houses may be
+necessary, except on a question of adjournment, shall be presented to the governor, and before it s
+all take effect be approved by him; or, being disapproved, shall be repassed by a majority of all the
+members elected to both houses, according to the rules and limitations prescribed in case of a bill.
+*** SEND ***
+
+*** SSTART 024.0 003.0 0 KY 1850 ***
+SEC. 24. Contested elections for governor and lieutenant-governor shall be determined by both
+houses of the general assembly, according to such regulations as may be established by law.
+*** SEND ***
+
+*** SSTART 025.0 003.0 0 KY 1850 ***
+SEC. 25. A treasurer shall be elected by the qualified voters of the State, for the term of two
+years; and an auditor of public accounts, register of the land-office, and attorney-general for the
+term of four years. The duties and responsibilities of these officers shall be prescribed by law:
+Provided, That inferior State officers, not specially provided for in this constitution, may be
+appointed or elected, in such manner as shall be prescribed by law, for a term not exceeding four
+years.
+*** SEND ***
+
+*** SSTART 026.0 003.0 0 KY 1850 ***
+SEC. 26. The first election under this constitution for governor, lieutenant-governor, treasurer,
+auditor of public accounts, register of the land-office, and attorney-general shall be held on the
+first Monday in August, in the year 1851.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 004.0 KY 1850 ***
+ARTICLE IV
+
+*** SSTART 001.0 004.0 0 KY 1850 ***
+CONCERNING THE JUDICIAL DEPARTMENT
+
+SECTION 1. The judicial power of this commonwealth, both as to matters of law and equity,
+shall be vested in one supreme court, (to be styled the court of appeals,) the courts established by
+this constitution, and such courts, inferior to the supreme court, as the general assembly may,
+from time to time, erect and establish.
+*** SEND ***
+
+CONCERNING THE COURT OF APPEALS
+
+*** SSTART 002.0 004.0 0 KY 1850 ***
+SEC. 2. The court of appeals shall have appellate jurisdiction only, which shall be coextensive
+with the State, under such restrictions and regulations, not repugnant to this constitution, as may,
+from time to time, be prescribed by law.
+*** SEND ***
+
+*** SSTART 003.0 004.0 0 KY 1850 ***
+SEC. 3. The judges of the court of appeals shall, after their first term, hold their offices for eight
+years, from and after their election, and until their successors shall be duly qualified, subject to the
+conditions hereinafter prescribed; but or any reasonable cause the governor shall remove any of
+them on the address of two-thirds of each house of the general assembly: Provided, however,
+That the cause or causes for which such removal may be required shall be stated at length in such
+address and on the journal of each house. They shall, at stated times, receive for their services an
+adequate compensation, to be fixed by law, which shall not be diminished during the time for
+which they shall have been elected.
+*** SEND ***
+
+*** SSTART 004.0 004.0 0 KY 1850 ***
+SEC. 4. The court of appeals shall consist of four judges, any three of whom may constitute a
+court for the transaction of business. The general assembly, at its first session after the adoption of
+this constitution, shall divide the State, by counties, into four districts, as nearly equal in voting
+population and with as convenient limits as may be, in each of which the qualified voters shall
+elect one judge of the court of appeals: Provided, That whenever a vacancy shall occur in said
+court, from any cause, the general assembly shall have the power to reduce the number of judges
+and districts; but in no event shall there be less than three judges and districts. Should a change in
+the number of the judges of the court of appeals be made, the term of office and number of
+districts shall be so changed as to preserve the principle of electing one judge every two years.
+*** SEND ***
+
+*** SSTART 005.0 004.0 0 KY 1850 ***
+SEC. 5. The judges shall, by virtue of their offices, be conservators of the peace throughout the
+State. The style of all process shall be "The Commonwealth of Kentucky." All prosecutions shall
+be carried on in the name and by the authority of the commonwealth of Kentucky, and conclude
+"against the peace and dignity of the same."
+*** SEND ***
+
+*** SSTART 006.0 004.0 0 KY 1850 ***
+SEC. 6. The Judges first elected shall serve as follows, to wit: One shall serve until the first
+Monday in August, 1852; one until the first Monday in August, 1854; one until the first Monday
+in August, 1856, and one until the first Monday in August, 1858. The judges, at the first term of
+the court succeeding their election, shall determine, by lot, the length of time which each one shall
+serve; and at the expiration of the service of each an election in the proper district shall take place
+to fill the vacancy. The judge having the shortest time to serve shall be styled the chief justice of
+Kentucky.
+*** SEND ***
+
+*** SSTART 007.0 004.0 0 KY 1850 ***
+SEC. 7. If a vacancy shall occur in said court from any cause, the governor shall issue a writ of
+election to the proper district to fill such vacancy for the residue of the term: Provided, That if the
+unexpired term be less than one year, the governor shall appoint a judge to fill such vacancy.
+*** SEND ***
+
+*** SSTART 008.0 004.0 0 KY 1850 ***
+SEC. 8. No person shall be eligible to the office of judge of the court of appeals who is not a
+citizen of the United States, a resident of the district for which he may be a candidate two years
+next preceding his election, at least thirty years of age, and who has not been a practicing lawyer
+eight years, or whose service upon the bench of any court of record, when added to the time he
+may have practiced law, shall not be equal to eight years.
+*** SEND ***
+
+*** SSTART 009.0 004.0 0 KY 1850 ***
+SEC. 9. The court of appeals shall hold its sessions at the seat of government, unless otherwise
+directed by law; but the general assembly may, from time to time, direct that said court shall hold
+sessions in any one or more of said districts.
+*** SEND ***
+
+*** SSTART 010.0 004.0 0 KY 1850 ***
+SEC. 10. The first election of the judges and clerks of the court of appeals shall take place on the
+second Monday in May, 1851, and thereafter, in each district, as a vacancy may occur, by the
+expiration of the term of office; and the judges of the said court shall be commissioned by the
+governor.
+*** SEND ***
+
+*** SSTART 011.0 004.0 0 KY 1850 ***
+SEC. 11. There shall be elected, by the qualified voters of this State, a clerk of the court of
+appeals, who shall hold his office, from the first election, until the first Monday in August, 1858,
+and thereafter for the term of eight years from and after his election; and should the general
+assembly provide for holding the court of appeals in any one or more of said districts, they shall
+also provide for the election of a clerk by the qualified voters of such district, who shall hold his
+office for eight years, possess the same qualifications, and be subject to removal in the same
+manner, as the clerk of the court of appeals; but if the general assembly shall, at its first or any
+other session, direct the court of appeals to hold its sessions in more than one district, a clerk shall
+be elected by the qualified voters of such district. And the clerk first provided for in this section
+shall be elected by the qualified voters of the other district or districts. The same principle shall be
+observed whenever the court shall be directed to hold its sessions in either of the other districts.
+Should the number of judges be reduced, the term of the office of clerk shall be six years.
+*** SEND ***
+
+*** SSTART 012.0 004.0 0 KY 1850 ***
+SEC. 12. No person shall be eligible to the office of clerk of the court of appeals, unless he be a
+citizen of the United States, a resident of the State two years next preceding his election, of the
+age of twenty-one years, and have a certificate from a judge of the court of appeals, or a judge of
+a circuit court, that he has been examined by the clerk of his court, under his supervision, and that
+he is qualified for the office for which he is a candidate.
+*** SEND ***
+
+*** SSTART 013.0 004.0 0 KY 1850 ***
+SEC. 13. Should a vacancy occur in the office of clerk of the court of appeals, the governor shall
+issue a writ of election, and the qualified voters of the State or of the district in which the vacancy
+may occur, shall elect a clerk of the court of appeals, to serve until the end of the term for which
+such clerk was elected: Provided, That when a vacancy shall occur from any cause, or the clerk be
+under charges upon information, the judges of the court of appeals shall have power to appoint a
+clerk pro tempore, to perform the duties of clerk until such vacancy shall be filled or the clerk
+acquitted: And provided further, That no writ of election shall issue to fill a vacancy unless the
+unexpired term exceed one year.
+*** SEND ***
+
+*** SSTART 014.0 004.0 0 KY 1850 ***
+SEC. 14. The general assembly shall direct, by law, the mode and manner of conducting and
+making due returns to the secretary of state of all elections of the judges and clerk or clerks of the
+court of appeals, and of determining contested elections of any of these officers.
+*** SEND ***
+
+*** SSTART 015.0 004.0 0 KY 1850 ***
+SEC. 15. The general assembly shall provide for an additional judge or judges, to constitute, with
+the remaining judge or judges, a special court for the trial of such cause or causes as may, at any
+time, be pending in the court of appeals, on the trial of which a majority of the judges cannot sit,
+on account of interest in the event of the cause, or on account of their relationship to either party,
+or when a judge may have been employed in or decided the cause in the inferior court.
+*** SEND ***
+
+*** SSTART 016.0 004.0 0 KY 1850 ***
+
+CONCERNING THE CIRCUIT COURTS
+
+SEC. 16. A circuit court shall be established in each court now existing, or which may hereafter
+be erected in this commonwealth.
+*** SEND ***
+
+*** SSTART 017.0 004.0 0 KY 1850 ***
+SEC. 17. The jurisdiction of said court shall be and remain as now established, hereby giving to
+the general assembly the power to change or alter it.
+*** SEND ***
+
+*** SSTART 018.0 004.0 0 KY 1850 ***
+SEC. 18. The right to appeal or site out a writ of error to the court of appeals shall remain as it
+now exists, until altered by law, hereby given to the general assembly the power to change, alter,
+or modifying said right.
+*** SEND ***
+
+*** SSTART 019.0 004.0 0 KY 1850 ***
+SEC. 19. At the first session after the adoption of this constitution, the general assembly shall
+divide the State into twelve judicial districts, having due regard to business, territory and
+population: Provided, That no county shall be divided.
+*** SEND ***
+
+*** SSTART 020.0 004.0 0 KY 1850 ***
+SEC. 20. They shall, at the same time that the judicial districts are laid off, direct elections to be
+held in each district, to elect a judge for said district, and shall prescribe in what manner the
+election shall be conducted. The first election of judges of the circuit court shall take place on the
+second Monday in May, 1851; and afterwards on the first Monday in August, 1856, and on the
+first Monday in August in every sixth year thereafter.
+*** SEND ***
+
+*** SSTART 021.0 004.0 0 KY 1850 ***
+SEC. 21. All persons qualified to vote for members of the general assembly, in each district, shall
+have the right to vote for judges.
+*** SEND ***
+
+*** SSTART 022.0 004.0 0 KY 1850 ***
+SEC. 22. No person shall be eligible as judge of the circuit court who is not a citizen of the United
+States, a resident of the district for which he may be a candidate two years next preceding his
+election, at least thirty years of age, and who has not been a practicing lawyer eight years, or
+whose service upon the bench of any court of record, when added to the time be may have
+practiced law, shall not be equal to eight years.
+*** SEND ***
+
+*** SSTART 023.0 004.0 0 KY 1850 ***
+SEC. 23. The judges of the circuit court shall, after their first term, hold their office for the term
+of six years from the day of their election. They shall be commissioned by the governor, and
+continue in office until their successors be qualified, but shall be removable from office in the
+same manner as the judges of the court of appeals; and the removal of a judge from his district
+shall vacate his office.
+*** SEND ***
+
+*** SSTART 024.0 004.0 0 KY 1850 ***
+SEC. 24. The general assembly, if they deem it necessary, may establish one additional district
+every four years, but the judicial districts shall not exceed sixteen, until the population of this
+State shall exceed one million five hundred thousand.
+*** SEND ***
+
+*** SSTART 025.0 004.0 0 KY 1850 ***
+SEC. 25. The judges of the circuit courts shall, at stated times, receive for their services an
+adequate compensation, to be fixed by law, which shall be equal and uniform throughout the
+State, and which shall not be diminished during the time for which they were elected.
+*** SEND ***
+
+*** SSTART 026.0 004.0 0 KY 1850 ***
+SEC. 26. If a vacancy shall occur in the office of judge of the circuit court, the governor shall
+issue a writ of election to fill such vacancy for the residue of the term: Provided, That if the
+unexpired term be less than one year, the governor shall appoint a judge to fill such vacancy.
+*** SEND ***
+
+*** SSTART 027.0 004.0 0 KY 1850 ***
+SEC. 27. The judicial districts of this State shall not be changed, except at the first session after
+an enumeration, unless when a new district may be established.
+*** SEND ***
+
+*** SSTART 028.0 004.0 0 KY 1850 ***
+SEC. 28. The general assembly shall provide by law for holding circuit courts when, from any
+cause, the judge shall fail to attend, or, if in attendance, cannot properly preside.
+*** SEND ***
+
+*** SSTART 029.0 004.0 0 KY 1850 ***
+CONCERNING COUNTY COURTS
+
+SEC. 29. A county court shall be established in each county now existing, or which may hereafter
+be erected within this commonwealth, to consist of a presiding judge and two associate judges,
+any two of whom shall constitute a court for the transaction of business: Provided, The general
+assembly may at any time abolish the office of the associate judges, whenever it shall be deemed
+expedient; in which event they may associate with said court any or all of the justices of the peace
+for the transaction of business.
+*** SEND ***
+
+*** SSTART 030.0 004.0 0 KY 1850 ***
+SEC. 30. The judges of the county court shall be elected, by the qualified voters in each county,
+for the term of four years, and shall continue in office until their successors be duly qualified, and
+shall receive such compensation for their services as may be provided by law.
+*** SEND ***
+
+*** SSTART 031.0 004.0 0 KY 1850 ***
+SEC. 31. The first election of county-court judges shall take place at the same time of the election
+of judges of the circuit court. The presiding judge, first elected, shall hold his office until the first
+Monday in August, 1854. The associate judges shall hold their offices until the first Monday in
+August, 1852, and until their successors be qualified; and afterwards elections shall be held on the
+first Monday in August, in the years in which vacancies regularly occur.
+*** SEND ***
+
+*** SSTART 032.0 004.0 0 KY 1850 ***
+SEC. 32. No person shall be eligible to the office of presiding or associate judge of the county
+court, unless he be a citizen of the United States, over twenty-one years of age, and shall have
+been a resident of the county in which he shall be chosen one year next preceding the election.
+*** SEND ***
+
+*** SSTART 033.0 004.0 0 KY 1850 ***
+SEC. 33. The jurisdiction of the county court shall be regulated by law; and, until changed, shall
+be the same now vested in the county courts of this State.
+*** SEND ***
+
+*** SSTART 034.0 004.0 0 KY 1850 ***
+SEC. 34. Each county in this State shall be laid off into districts of convenient size, as the general
+assembly may from time to time direct. Two justices of the peace shall be elected in each district
+by the qualified voters therein, at such time and place as may be prescribed by law, for the term of
+four years, whose jurisdiction shall be coextensive with the county. No person shall be eligible as
+a justice of the peace unless he be a citizen of the United States, twenty-one years of age, and a
+resident of the district in which he may be candidate.
+*** SEND ***
+
+*** SSTART 035.0 004.0 0 KY 1850 ***
+SEC. 35. Judges of the county court, and justices of the peace, shall be conservators of the peace.
+They shall be commissioned by the governor. County and district officers shall vacate their offices
+removal from the district or county in which they shall be appointed. The general assembly shall
+provide by law the manner of conducting .and making due return of all elections of judges of the
+county court and justices of the peace, and for determining contested elections, and provide the
+mode of filling vacancies in these offices.
+*** SEND ***
+
+*** SSTART 036.0 004.0 0 KY 1850 ***
+SEC. 36. Judges of the county court and justices of the peace, sheriffs, coroners, surveyors,
+jailers, county assessor, attorney for the county, and constables shall be subject to indictment or
+presentment for malfeasance or misfeasance in office, or wilful neglect in the discharge of their
+official duties, in such mode as may be prescribed by law, subject to appeal to the court of
+appeals; and, upon conviction, their offices shall become vacant.
+*** SEND ***
+
+*** SSTART 037.0 004.0 0 KY 1850 ***
+SEC. 37. The general assembly may provide by law that the justices of the peace in each county
+shall sit at the court of claims, and assist in laying the county levy and making appropriations only.
+*** SEND ***
+
+*** SSTART 038.0 004.0 0 KY 1850 ***
+SEC. 38. When any city or town shall have a separate representation, such city or town, and the
+county in which it is located, may have such separate municipal courts and executive and
+ministerial officers as the general assembly may, from time to time, provide.
+*** SEND ***
+
+*** SSTART 039.0 004.0 0 KY 1850 ***
+SEC. 39. The clerks of the court of appeals, circuit and county courts, shall be removable from
+office by the court of appeals, upon information and good cause shown. The court shall be judges
+of the fact as well as the law. Two-thirds of the members present must concur in the sentence.
+*** SEND ***
+
+*** SSTART 040.0 004.0 0 KY 1850 ***
+SEC. 40. The Louisville chancery court shall exist under this constitution, subject to repeal, and
+its jurisdiction to enlargement and modification by the general assembly. The chancellor shall have
+the same qualifications as a circuit-court judge, and the clerk of said court as a clerk of a circuit
+court, and the marshal of said court as a sheriff; and the general assembly shall provide for the
+election, by the qualified voters within its jurisdiction, of the chancellor, clerk. and marshal of said
+court, at the same time that the judge and clerk of the circuit court are elected for the county of
+Jefferson, and they shall hold their offices for the same time, and shall be removable in the same
+manner: Provided, That the marshal of said court shall be ineligible for the succeeding term.
+*** SEND ***
+
+*** SSTART 041.0 004.0 0 KY 1850 ***
+SEC. 41. The city court of Louisville, the Lexington city court, and all other police-courts
+established in any city or town, shall remain, until otherwise directed by law, with their present
+powers and jurisdictions; and the judges, clerks, and marshals of such courts shall have the same
+qualifications, and shall be elected by the qualified voters of such cities or towns at the same time,
+and in the same manner, and hold their offices for the same term as county judges, clerks, and
+sheriffs, respectively, and shall be liable to removal in the same manner. The general assembly may
+vest judicial powers, for police purposes, in mayors of cities, police judges, and trustees of towns.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 005.0 KY 1850 ***
+ARTICLE V
+
+CONCERNING IMPEACHMENTS
+
+*** SSTART 001.0 005.0 0 KY 1850 ***
+SECTION 1. The house of representatives shall have the sole power of impeachment.
+*** SEND ***
+
+*** SSTART 002.0 005.0 0 KY 1850 ***
+SEC. 2. All impeachments shall be tried by the senate. When sitting for that purpose, the senators
+shall be upon oath or affirmation. No person shall be convicted without the concurrence of two-
+thirds of the members present.
+*** SEND ***
+
+*** SSTART 003.0 005.0 0 KY 1850 ***
+SEC. 3. The governor and all civil officers shall be liable to impeachment for any misdemeanor in
+office, but judgment in such cases shall not extend further than to removal from office, and
+disqualification to hold any office of honor, trust, or profit under this commonwealth; but the
+party convicted shall, nevertheless, be subject and liable to indictment, trial, and punishment by
+law.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 006.0 KY 1850 ***
+ARTICLE VI
+
+CONCERNING EXECUTIVE AND MINISTERIAL OFFICERS FOR COUNTIES AND
+DISTRICTS
+
+*** SSTART 001.0 006.0 0 KY 1850 ***
+SECTION 1. A commonwealth's attorney for each judicial district, and a circuit-court clerk for
+each county, shall be elected, whose term of office shall be the same as that of the circuit judges;
+also, a county-court clerk, an attorney, surveyor, coroner, and jailer, for each county, whose term
+of office shall be the same as that of the presiding judge of the county court.
+*** SEND ***
+
+*** SSTART 002.0 006.0 0 KY 1850 ***
+SEC. 2. No person shall be eligible to the offices mentioned in this article who is not at the time
+twenty-four years old, (except clerks of county and circuit courts, sheriffs, constables, and county
+attorneys who shall be eligible at the age of twenty-one years,) a citizen of the United States, and
+who has not resided two years next preceding the election in the State, and one year in the county
+or district for which he is a candidate. No person shall be eligible to the office of commonwealth's
+or county attorney unless he shall have been a licensed practicing attorney for two years. No
+person shall be eligible to the office of clerk unless he shall have procured from a judge of the
+court of appeals, or a judge of the circuit court, a certificate that he has been examined by the
+clerk of his court, under his supervision, and that he is qualified for the office for which he is a
+candidate.
+*** SEND ***
+
+*** SSTART 003.0 006.0 0 KY 1850 ***
+SEC. 3. The commonwealth's attorney and circuit-court clerk shall be elected at the same time as
+the circuit judge-the commonwealth's attorney by the qualified voters of the district, the circuit-
+court clerk by the qualified voters of the county. The county attorney, clerk, surveyor, coroner,
+and jailer shall be elected at the same time and in the same manner as the presiding judge of the
+county court.
+*** SEND ***
+
+*** SSTART 004.0 006.0 0 KY 1850 ***
+
+SEC. 4. A sheriff shall be elected in each county by the qualified voters thereof, whose term of
+office shall, after the first term, be two years, and until his successor be qualified; and he shall be
+re-eligible for a second term; but no sheriff shall, after the expiration of the second term, be re-
+eligible, or act as deputy, for the succeeding term. The first election of sheriff shall be on the
+second May in May, 1851; and the sheriffs then elected shall hold their offices until the first
+Monday in January, 1853, and until their successors be qualified; and on the first Monday in
+August, 1852, and on the first Monday of August in every second year thereafter, elections for
+sheriffs shall be held: Provided, That the sheriffs first elected shall enter upon the duties of their
+respective offices on the first Monday in June, 1851, and after the first election on the first
+Monday in January next succeeding their election.
+*** SEND ***
+
+*** SSTART 005.0 006.0 0 KY 1850 ***
+SEC. 5. A constable shall be elected in every justice's district, who shall be chosen for two years,
+at such time and place as may be provided by law, whose jurisdiction shall be coextensive with the
+county in which he may reside.
+*** SEND ***
+
+*** SSTART 006.0 006.0 0 KY 1850 ***
+SEC. 6. Officers for towns and cities shall be elected for such terms, and in such manner, and with
+such qualifications as may be prescribed by law.
+*** SEND ***
+
+*** SSTART 007.0 006.0 0 KY 1850 ***
+SEC. 7. Vacancies in offices under this article shall be filled, until the next regular election, in
+such manner as the general assembly may provide.
+*** SEND ***
+
+*** SSTART 008.0 006.0 0 KY 1850 ***
+SEC. 8. When a new county shall be erected, officers for the same, to serve until the next stated
+election, shall be elected or appointed in such a way and at such times as the general assembly
+may prescribe.
+*** SEND ***
+
+*** SSTART 009.0 006.0 0 KY 1850 ***
+SEC. 9. Clerks, sheriffs, surveyors, coroners, constables, and jailers, and such other officers as the
+general assembly may from time to time require, shall, before they enter upon the duties of their
+respective offices, and as often thereafter as may be deemed proper, give such bond and security
+as shall be prescribed by law.
+*** SEND ***
+
+*** SSTART 010.0 006.0 0 KY 1850 ***
+SEC. 10. The general assembly may provide for the election or appointment, for a term not
+exceeding four years, of such other county or district ministerial and executive officers as shall,
+from time to time, be necessary and proper.
+*** SEND ***
+
+*** SSTART 011.0 006.0 0 KY 1850 ***
+SEC. 11. A county assessor shall be elected in each county at the same time and for the same term
+that the presiding judge of the county court is elected, until otherwise provided for by law. He
+shall have power to appoint such assistants as may be necessary and proper.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 007.0 KY 1850 ***
+ARTICLE VII
+
+CONCERNING THE MILITIA
+
+*** SSTART 001.0 007.0 0 KY 1850 ***
+SECTION 1. The militia of this commonwealth shall consist of all free, able-bodied male persons
+(negroes, mulattoes, and Indians excepted) resident in the same, between the ages of eighteen and
+forty-five years; except such persons as now are, or hereafter may be, exempted by the laws of the
+United States or of this State; but those who belong to religious societies, whose tenets forbid
+them to carry arms, shall not be compelled to do so, but shall pay an equivalent for personal
+services.
+*** SEND ***
+
+*** SSTART 002.0 007.0 0 KY 1850 ***
+SEC. 2. The governor shall appoint the adjutant-general and his other staff-officers; the major-
+generals, brigadier-generals, and commandants of regiments shall respectively appoint their staff-
+officers; and commandants of companies shall appoint their non-commissioned officers.
+*** SEND ***
+
+*** SSTART 003.0 007.0 0 KY 1850 ***
+SEC. 3. All militia officers, whose appointment is not herein otherwise provided for, shall be
+elected by persons subject to military duty within their respective companies, battalions,
+regiments, brigades. and divisions, under such rules and regulations, and for such terms, not
+exceeding six years, as the general assembly may, from time to time, direct and establish.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 008.0 KY 1850 ***
+ARTICLE VIII
+GENERAL PROVISIONS
+
+*** SSTART 001.0 008.0 0 KY 1850 ***
+SECTION 1. Members of the general assembly, and all officers, before they enter upon the
+execution of the duties of their respective offices, all members of the bar, before they enter upon
+the practice of their profession, shall take the following oath or affirmation: " I do solemnly swear
+or affirm, as the case may be that I will support the Constitution of the United States and the
+constitution of this State, and be faithful and true to the commonwealth of Kentucky so long as I
+continue a citizen thereof, and that I will faithfully execute, to the best of my abilities, the office of
+-, according to law; and I do further solemnly swear [or affirm] that since the adoption of the
+present constitution I, being a citizen of this State, have not fought a duel, with deadly weapons,
+within this State, nor out of it, with a citizen of this State, nor have I sent or accepted a challenge
+to fight a duel, with deadly weapons, with a citizen of this State; nor have I acted as second in
+carrying a challenge, or aided or assisted an person thus offending: So help me God."
+*** SEND ***
+
+*** SSTART 002.0 008.0 0 KY 1850 ***
+SEC. 2. Treason against the commonwealth shall consist only in levying war against it, or in
+adhering to its enemies, giving them aid and comfort. No person shall be convicted of treason
+unless on the testimony of two witnesses to the same overt act, or his own confession in open
+court.
+*** SEND ***
+
+*** SSTART 003.0 008.0 0 KY 1850 ***
+SEC. 3. Every person shall be disqualified from holding any office of trust or profit for the term
+for which he shall have been elected, who shall be convicted of having given or offered any bribe
+or treat to procure his election.
+*** SEND ***
+
+*** SSTART 004.0 008.0 0 KY 1850 ***
+SEC. 4. Laws shall be made to exclude from office and from suffrage those who shall thereafter
+be convicted of bribery, perjury, forgery, or other crimes or high misdemeanors. The privilege of 
+free suffrage shall be supported by laws regulating elections, and prohibiting, under adequate
+penalties, all undue influence thereon from power, bribery, tumult, or other improper practices.
+*** SEND ***
+
+*** SSTART 005.0 008.0 0 KY 1850 ***
+SEC. 5. No money shall be drawn from the treasury but in pursuance of appropriations made by
+law, nor shall any appropriations of money for the support of an army be made for a longer time
+than two years, and a regular statement and account of the receipts and expenditures of all public
+money shall be published annually.
+*** SEND ***
+
+*** SSTART 006.0 008.0 0 KY 1850 ***
+SEC. 6. The general assembly may direct, by law, in what manner and in what courts, suits may
+be brought against the commonwealth.
+*** SEND ***
+
+*** SSTART 007.0 008.0 0 KY 1850 ***
+SEC. 7. The manner of administering an oath or affirmation shall be such as is most consistent
+with the conscience of the deponent, and shall be esteemed by the general assembly the most
+solemn appeal to God.
+*** SEND ***
+
+*** SSTART 008.0 008.0 0 KY 1850 ***
+SEC. 8. All laws which, on the first day of June, one thousand seven hundred and ninety-two,
+were in force in the State of Virginia, and which are of a general nature, and not local to that
+State, and not repugnant to this constitution, nor to the laws which have been enacted by the
+general assembly of this commonwealth shall be in force within this State, until they shall be
+altered or repealed by the general assembly.
+*** SEND ***
+
+*** SSTART 009.0 008.0 0 KY 1850 ***
+SEC. 9. The compact with the State of Virginia, subject to such alterations as may be made
+therein agreeably to the mode prescribed by the said compact, shall be considered as part of this
+constitution.
+*** SEND ***
+
+*** SSTART 010.0 008.0 0 KY 1850 ***
+SEC. 10. It shall be the duty of the general assembly to pass such laws as shall be necessary and
+proper to decide differences by arbitrators, to be appointed by the parties who may choose that
+summary mode of adjustment.
+*** SEND ***
+
+*** SSTART 011.0 008.0 0 KY 1850 ***
+SEC. 11. All civil officers for the commonwealth at large shall reside within the State, and all
+district, county, or town officers, within their respective districts, Counties, or towns, (trustees of
+towns excepted,) and shall keep their offices at such places therein as may be required by law; and
+all militia officers shall reside in the bounds of the division, brigade, regiment, battalion, or
+company to which they may severally belong.
+*** SEND ***
+
+*** SSTART 012.0 008.0 0 KY 1850 ***
+SEC. 12. Absence on the business of this State, or the United States, shall not forfeit a residence
+once obtained, so as to deprive any one of the right of suffrage, or of being elected or appointed
+to any office under this commonwealth, under the exception contained in this constitution.
+*** SEND ***
+
+*** SSTART 013.0 008.0 0 KY 1850 ***
+SEC. 13. It shall be the duty of the general assembly to regulate, by law , in what cases, and what
+deductions from the salaries of public officers shall be made, for neglect of duty in their official
+capacity.
+*** SEND ***
+
+*** SSTART 014.0 008.0 0 KY 1850 ***
+SEC. 14. Returns of all elections by the people shall be made to the secretary of state, for the time
+being, except in those cases otherwise provided for in this constitution, or which shall be
+otherwise directed by law.
+*** SEND ***
+
+*** SSTART 015.0 008.0 0 KY 1850 ***
+SEC. 15. In all elections by the people, and also by the senate and house of representatives, jointly
+or separately, the votes shall be personally and publicly given viva voce. Provided, That dumb
+persons, entitled to suffrage; may vote by ballot.
+*** SEND ***
+
+*** SSTART 016.0 008.0 0 KY 1850 ***
+SEC. 16. All elections by the people shall be held between the hours of six o'clock in the morning
+and seven o'clock in the evening.
+*** SEND ***
+
+*** SSTART 017.0 008.0 0 KY 1850 ***
+SEC. 17. The general assembly shall, by law, prescribe the time when the several officers
+authorized or directed by this constitution to be elected or appointed shall enter upon the duties of
+their respective offices, except where the time is fixed by this constitution.
+*** SEND ***
+
+*** SSTART 018.0 008.0 0 KY 1850 ***
+SEC. 18. No member of Congress, nor person holding or exercising any office of trust or profit
+under the United States or either of them, or under any foreign power, shall be eligible as a
+member of the general assembly of this commonwealth, or hold or exercise any office of trust or
+profit under the same.
+*** SEND ***
+
+*** SSTART 019.0 008.0 0 KY 1850 ***
+SEC. 19. The general assembly shall direct by law how persons who now are, or who may
+hereafter become, securities for public officers may be relieved or discharged on account of such
+securityship.
+*** SEND ***
+
+*** SSTART 020.0 008.0 0 KY 1850 ***
+SEC. 20. Any person who shall, after the adoption of this constitution, either directly or
+indirectly, give, accept, or knowingly carry a challenge to any person or persons to fight in single
+combat, with a citizen of this State, with any deadly weapon, either in or out of the State, shall be
+deprived of the right to hold any office of honor or profit in this commonwealth, and shall be
+punished otherwise in such manner as the general assembly may prescribe by law.
+*** SEND ***
+
+*** SSTART 021.0 008.0 0 KY 1850 ***
+SEC. 21. The governor shall have power, after five years from the time of the offence, to pardon
+all persons who shall have in anyway either participated in a duel, as principals, seconds, or
+otherwise, and to restore him or them to all the rights, privileges, and immunities to which he or
+they were entitled before such participation. And upon the presentation of such pardon, the oath
+prescribed in the first section of this article shall be varied to suit the case.
+*** SEND ***
+
+*** SSTART 022.0 008.0 0 KY 1850 ***
+SEC. 22. At its first session after the adoption of this constitution the general assembly shall
+appoint not more than three persons, learned in the law, whose duty it shall be to revise and
+arrange the statute laws of this commonwealth, both civil and criminal, so as to have but one law
+on any one subject; and also three other persons, learned in the law, whose duty it shall be to
+prepare a code of practice for the courts, both civil and criminal, in this common-wealth, by
+abridging and simplifying the rules of practice and laws in relation thereto; all of whom shall, at as
+early a day as practicable, report the result of their labors to the general assembly for their
+adoption or modification.
+*** SEND ***
+
+*** SSTART 023.0 008.0 0 KY 1850 ***
+SEC. 23. So long as the board of internal improvement shall be continued, the president thereof
+shall be elected by the qualified voters of this commonwealth, and hold the office for the term of
+four years, and until another be duly elected and qualified. The election shall be held at the same
+time, and be conducted in the same manner, as the election of governor of this commonwealth
+under this constitution; but nothing herein contained shall prevent the general assembly from
+abolishing said board of internal improvement, or the office of president thereof.
+*** SEND ***
+
+*** SSTART 024.0 008.0 0 KY 1850 ***
+SEC. 24. The general assembly shall provide, by law, for the trial of any contested election of
+auditor, register, treasurer, attorney-general, judges of circuit courts, and all other officers not
+otherwise herein specified.
+*** SEND ***
+
+*** SSTART 025.0 008.0 0 KY 1850 ***
+SEC. 25. The general assembly shall provide by law for the making of the returns, by the proper
+officers, of the election of all officers to be elected under this constitution; and the governor shall
+issue commissions to the auditor, register, treasurer, president of the board of internal
+improvement, superintendent of public instruction, and such other officers as be may be directed
+by law to commission, as soon as he has ascertained the result of the election of those officers
+respectively.
+*** SEND ***
+
+*** SSTART 026.0 008.0 0 KY 1850 ***
+SEC. 26. When a vacancy shall happen in the office of attorney-general, auditor of public
+accounts, treasurer, register of the land-office, president of the board of internal improvement, or
+superintendent of public instruction, the governor in the recess of the senate, shall have power to
+fill the vacancy, by granting commissions which shall expire at the end of the next session, and
+shall fill the vacancy for the balance of the time by and with the advice and consent of the senate.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 009.0 KY 1850 ***
+ARTICLE IX
+
+CONCERNING THE SEAT OF GOVERNMENT
+
+    The seat of government shall continue in the city of Frankfort until it shall be
+removed by law: Provided, however, That two-thirds of all the members elected to each house of
+the general assembly shall concur in the passage of such law.
+*** AEND ***
+
+*** ASTART 010.0 KY 1850 ***
+ARTICLE X
+
+CONCERNING SLAVES
+
+*** SSTART 001.0 010.0 0 KY 1850 ***
+SECTION 1. The general assembly shall have no power to pass laws for the emancipation of
+slaves without the consent of their owners, or without paying their owners previous to such
+emancipation, a full equivalent in money for the slaves so emancipated, and providing for their
+removal from the State. They shall have no power to prevent immigrants to this State from
+bringing with them such persons as are deemed slaves by the laws of any o the United States, so
+long as any person of the same age or description shall be continued in slavery by the laws of this
+State. They shall pass laws to permit owners of slaves to emancipate them, saving the rights of
+creditors, and to prevent them from remaining in this State after they are emancipated. They shall
+have full power to prevent slaves being brought into this State as merchandise. They shall have
+full power to prevent slaves being brought into this State who have been, since the first day of
+January, one thousand seven hundred and eighty-nine, or may hereafter be, imported into any of
+the United States from a foreign country. And they shall have full power to pass such laws as may
+be necessary to oblige the owners of slaves to treat them with humanity; to provide for them
+necessary clothing and provisions; to abstain from all injuries to them, extending to life or limb;
+and in case of their neglect or refusal to comply with the directions of such laws, to have such
+slave or slaves sold for the benefit of their owner or owners.
+*** SEND ***
+
+*** SSTART 002.0 010.0 0 KY 1850 ***
+SEC. 2. The general assembly shall pass laws providing that any free negro or mulatto hereafter
+immigrating to, and any slave hereafter emancipated in, and refusing to leave this State, or having
+left, shall return and settle within this State, shall be deemed guilty of felony, and punished by
+confinement in the penitentiary thereof.
+*** SEND ***
+
+*** SSTART 003.0 010.0 0 KY 1850 ***
+SEC. 3. In the prosecution of slaves for felony, no inquest by a grand jury shall be necessary; but
+the proceedings in such prosecution shall be regulated by law, except that the general assembly
+shall have no power to deprive them of the privilege of an impartial trial by a petit jury.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 011.0 KY 1850 ***
+ARTICLE XI
+
+CONCERNING EDUCATION
+
+*** SSTART 001.0 011.0 0 KY 1850 ***
+SECTION 1. The capital of the fund called and known as the "common-school fund," consisting
+of one million two hundred and twenty-five thousand seven hundred and sixty-eight dollars' and
+forty-two cents, for which bonds have been executed by the State to the board of education, and
+seventy-three thousand five hundred dollars of stock in the Bank of Kentucky; also, the sum of
+fifty-one thousand two hundred and twenty-three dollars and twenty-nine cents, balance of
+interest on the school-fund of the year 1848, unexpended, together with any sum which may be
+hereafter raised in the State by taxation, or otherwise, for purposes of education, shall be held
+inviolate, for the purpose of sustaining a system of common schools. The interest and dividends of
+said funds, together with any sum which may be produced for that purpose, by taxation or
+otherwise, may be appropriated in aid of common schools, but for no other purpose. The general
+assembly shall invest said fifty-one thousand two hundred and twenty-three dollars and twenty-
+nine cents in some safe and profitable manner; and any portion of the interest and dividends of
+said school-fund, or other money or property raised for school purposes, which may not be
+needed in sustaining common schools, shall be invested in like manner. The general assembly shall
+make provision, by law, for the payment of the interest of said school-fund: Provided,  That each
+county shall be entitled to its proportion of the income of said fund, and if not called for common-
+school purposes, it shall be reinvested from time to time for the benefit of such county.
+*** SEND ***
+
+*** SSTART 002.0 011.0 0 KY 1850 ***
+SEC. 2. A superintendent of public instruction shall be elected by the qualified voters of this
+commonwealth at the same time the governor is elected, who shall hold his office for four years,
+and his duties and salary shall be prescribed and fixed by law.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 012.0 KY 1850 ***
+ARTICLE XII
+
+MODE OF REVISING THE CONSTITUTION
+
+*** SSTART 001.0 012.0 0 KY 1850 ***
+SECTION 1. When experience shall point out, the necessity of amending this constitution, and
+when a majority of all the members elected to each house of the general assembly shall, within the
+first twenty days of any regular session, concur in passing a law for taking the sense of the good
+people of this commonwealth as to the necessity and expediency of calling a convention, it shall
+be the duty of the several sheriffs and other officers of elections, at the next general election which
+shall be held for representatives to the general assembly after the passage of such law, to open a
+poll for, and make return to the secretary of state, for the time being, of the names of all those
+entitled to vote for representatives who have voted calling a convention:,and if, thereupon, it shall
+appear that a majority of all the citizens of this State entitled to vote for representatives have
+voted for calling a convention, the general assembly shall, at their next regular session, direct that
+a similar poll shall be opened and return made for the next election for representatives; and if,
+thereupon, it shall appear that a majority of all the citizens of this State entitled to vote for
+representatives have voted for calling a convention. the general assembly shall, at their next
+session. pass a law calling a convention, to consist of as many members as there shall be in the
+house of representatives, and no more, to be chosen on the first Monday in August thereafter, in
+the same manner and proportion, and at the same place, and possessed of the same qualifications
+of a qualified elector, by citizens entitled to vote for representatives, and to meet within three
+months after their election, for the purpose of readopting, amending, or changing this
+constitution; but if it shall appear by the vote of either year, as aforesaid, that a majority of all the
+citizens entitled to vote for representatives did not vote for calling a convention, a convention
+shall not then be called. And for the purpose of ascertaining whether a majority of the citizens,
+entitled to vote for representatives, did or did not vote for calling a convention, as above, the
+general assembly passing the law authorizing such vote shall provide for ascertaining the number
+of citizens entitled to vote for representatives within the State.
+*** SEND ***
+
+*** SSTART 002.0 012.0 0 KY 1850 ***
+SEC. 2. The convention, when assembled, shall judge of the election of its members and decide
+contested elections, but the general assembly shall, in calling a convention, provide for taking
+testimony in such cases and for issuing a writ of election in case of a tie.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 013.0 KY 1850 ***
+ARTICLE XIII
+
+BILL OF RIGHTS
+
+That the general, great, and essential principles of liberty and free government may be recognized
+and established, we declare-
+
+*** SSTART 001.0 013.0 0 KY 1850 ***
+SECTION 1. That all freemen, when they form a social compact, are equal, and that no man or
+set of men are entitled to exclusive, separate public emoluments or privileges from the
+community, but in consideration. of public services.
+*** SEND ***
+
+*** SSTART 002.0 013.0 0 KY 1850 ***
+SEC. 2. That absolute, arbitrary power over the lives, liberty, and property of freemen exists
+nowhere in a republic, not even in the largest majority.
+*** SEND ***
+
+*** SSTART 003.0 013.0 0 KY 1850 ***
+SEC. 3. The right of property is before and higher than any constitutional sanction; and the right
+of the owner of a slave to such slave, and its increase, is the same, and as inviolable as the right of
+the owner of any property whatever.
+*** SEND ***
+
+*** SSTART 004.0 013.0 0 KY 1850 ***
+SEC. 4. That power is inherent in the people, and all free governments are founded on their
+authority, an instituted for their peace, safety, happiness, security, and the protection of property.
+For the advancement of these ends, they have at all times an inalienable and indefeasible right to
+alter. reform, or abolish their government, in such manner as they may think proper.
+*** SEND ***
+
+*** SSTART 005.0 013.0 0 KY 1850 ***
+SEC. 5. That all men have a natural and indefeasible right to worship Almighty God according to
+the dictates of their own consciences; that no man shall be compelled to attend, erect, or support
+any place of worship, or to maintain any ministry against his consent, that no human authority
+ought, in any case whatever, to control or interfere with the rights of conscience and that no
+preference shall ever be given, by law, to any religious societies or modes of worship.
+*** SEND ***
+
+*** SSTART 006.0 013.0 0 KY 1850 ***
+SEC. 6. That the civil rights, privileges, or capacities of any citizen shall in no wise be diminished
+or enlarged on account of his religion.
+*** SEND ***
+
+*** SSTART 007.0 013.0 0 KY 1850 ***
+SEC. 7. That all elections shall be free and equal.
+*** SEND ***
+
+*** SSTART 008.0 013.0 0 KY 1850 ***
+SEC. 8. That the ancient mode of trial by jury shall be held sacred, and the right thereof remain
+inviolate, subject to such modifications as may be authorized by this constitution.
+*** SEND ***
+
+*** SSTART 009.0 013.0 0 KY 1850 ***
+SEC. 9. That printing-presses shall be free to every person who undertakes to examine the
+proceedings of the general assembly, or any branch of government, and no law shall ever be made
+to restrain the right thereof. The free communication of thoughts and opinions is one of the
+invaluable rights of man, and every citizen may freely speak, write, and print on any subject, being
+responsible for the abuse of that liberty.
+*** SEND ***
+
+*** SSTART 010.0 013.0 0 KY 1850 ***
+SEC. 10. In prosecutions for the publication of papers investigating the official conduct of officers
+or men in a public capacity, or where the matter published is proper for public information, the
+truth thereof may be given in evidence and in all indictments for libels, the jury shall have a right
+to determine the law and the facts, under the direction of the court, as in other cases.
+*** SEND ***
+
+*** SSTART 011.0 013.0 0 KY 1850 ***
+SEC. 11. That the people shall be secure in their persons, houses, papers, and possessions, from
+unreasonable seizures and searches, and that no warrant to search any place, or to seize any
+person or thing, shall issue, without describing them as nearly as may be, nor without probable
+cause, supported by oath or affirmation.
+*** SEND ***
+
+*** SSTART 012.0 013.0 0 KY 1850 ***
+SEC. 12. That in all criminal prosecutions, the accused hath a right to be heard by himself and
+counsel; to demand the nature and cause of the accusation against him; to meet the witnesses face
+to face; to have compulsory process for obtaining witnesses in his favor; and, in prosecutions by
+indictment or information, a speedy public trial by an impartial jury of the vicinage; that he cannot
+be compelled to give evidence against himself; nor can he be deprived of his life, liberty, or
+property unless by the judgment of his peers or the law of the land.
+*** SEND ***
+
+*** SSTART 013.0 013.0 0 KY 1850 ***
+SEC. 13. That no person shall, for any indictable offence, be proceeded against criminally, by
+information, except in cases arising in the land or naval forces, or in the militia men in actual
+service, in time of war or public danger, or by leave of the court, for oppression or misdemeanor
+in office.
+*** SEND ***
+
+*** SSTART 014.0 013.0 0 KY 1850 ***
+SEC. 14. No person shall, for the same offence, be twice put in jeopardy of his life or limb; nor
+shall any man's property be taken or applied to public use without the consent of his
+representatives, and without just compensation being previously made to him.
+*** SEND ***
+
+*** SSTART 015.0 013.0 0 KY 1850 ***
+SEC. 15. That all courts shall be open, and every person, for an injury done him in his lands,
+goods, person, or reputation, shall have remedy by the due course of law, and right and justice
+administered without sale, denial, or delay.
+*** SEND ***
+
+*** SSTART 016.0 013.0 0 KY 1850 ***
+SEC. 16. That no power of suspending laws shall be exercised, unless by the general assembly, or
+its authority.
+*** SEND ***
+
+*** SSTART 017.0 013.0 0 KY 1850 ***
+SEC. 17. That excessive bail shall not be required, nor excessive fines imposed, nor cruel
+punishments inflicted.
+*** SEND ***
+
+*** SSTART 018.0 013.0 0 KY 1850 ***
+SEC. 18. That all prisoners shall be bailable by sufficient securities, unless for capital offences,
+when the proof is evident or presumption great; and the privilege of the writ of habeas corpus
+shall not be suspended, unless when, in cases of rebellion or invasion, the public safety may
+require it.
+*** SEND ***
+
+*** SSTART 019.0 013.0 0 KY 1850 ***
+SEC. 19. That the person of a debtor, where there is not strong presumption of fraud, shall not be
+continued in prison after delivering up his estate for the benefit of his creditors, in such manner as
+shall be prescribed by law.
+*** SEND ***
+
+*** SSTART 020.0 013.0 0 KY 1850 ***
+SEC. 20. That no ex post facto law, nor any law impairing contracts, shall be made.
+*** SEND ***
+
+*** SSTART 021.0 013.0 0 KY 1850 ***
+SEC. 21. That no person shall be attainted of treason or felony by the general assembly.
+*** SEND ***
+
+*** SSTART 022.0 013.0 0 KY 1850 ***
+SEC. 22. That no attainder shall work corruption of blood, nor, except during the life of the
+offender, forfeiture of estate to the commonwealth.
+*** SEND ***
+
+*** SSTART 023.0 013.0 0 KY 1850 ***
+SEC. 23. That the estates of such persons as shall destroy their own lives shall descend or vest as
+in case of natural death; and if any person shall be killed by casualty, there shall be no forfeiture by
+reason thereof.
+*** SEND ***
+
+*** SSTART 024.0 013.0 0 KY 1850 ***
+SEC. 24. That the citizens have a right, in a peaceable manner, to assemble together for their
+common good, and to apply to those invested with the powers of government for redress of
+grievances, or other proper purposes, by petition, address, or remonstrance.
+*** SEND ***
+
+*** SSTART 025.0 013.0 0 KY 1850 ***
+SEC. 25. That the rights of the citizens to bear arms in defence of themselves and the State shall
+not be questioned; but the general assembly may pass laws to prevent persons from carrying
+concealed arms.
+*** SEND ***
+
+*** SSTART 026.0 013.0 0 KY 1850 ***
+SEC. 26. That no standing army shall, in time of peace, be kept up without the consent of the
+general assembly; and the military shall, in all cases and at all times, be in strict subordination to
+the civil power.
+*** SEND ***
+
+*** SSTART 027.0 013.0 0 KY 1850 ***
+SEC. 27. That no soldier shall, in time of peace, be quartered in any house without the consent of
+the owner; nor in time of war, but in a manner to be prescribed by law.
+*** SEND ***
+
+*** SSTART 028.0 013.0 0 KY 1850 ***
+SEC. 28. That the general assembly shall not grant any title of nobility, or hereditary distinction,
+nor create any office, the appointment to which shall be for a longer time than for a term of years.
+*** SEND ***
+
+*** SSTART 029.0 013.0 0 KY 1850 ***
+SEC. 29. That emigration from the State shall not be prohibited.
+*** SEND ***
+
+*** SSTART 030.0 013.0 0 KY 1850 ***
+SEC. 30. To guard against transgressions of the high powers which we have delegated, we
+declare that everything in this article is excepted out of the general powers of government, and
+shall forever remain inviolate, and that all laws contrary thereto, or contrary to this constitution,
+shall be void.
+*** SEND ***
+*** AEND ***
+
+
+*** ASTART 9003.0 KY 1850 ***
+SCHEDULE
+
+    That no inconvenience may arise from the alterations and amendments made in the
+constitution of this commonwealth, and in order to carry the same into complete operation, it is
+hereby declared and ordained:
+
+*** SSTART 001.0 9003.0 0 KY 1850 ***
+SECTION 1. That all the laws of this commonwealth, in force at the time of the adoption of this
+constitution, and not inconsistent therewith, and all rights, actions, prosecutions, claims, and
+contracts, as well of individuals as of bodies-corporate, shall continue as if this constitution had
+not been adopted.
+*** SEND ***
+
+*** SSTART 002.0 9003.0 0 KY 1850 ***
+SEC. 2. The oaths of office herein directed to be taken may be administered by any judge or
+justice of the peace, until the general assembly shall otherwise direct.
+*** SEND ***
+
+*** SSTART 003.0 9003.0 0 KY 1850 ***
+SEC. 3. No office shall be superseded by the adoption of this constitution, but the laws of the
+State relative to the duties of the several officers, legislative, executive, judicial, and military, shall
+remain in full force, though the same be contrary to this constitution and the several duties shall
+be performed by the respective officer's of the State, according to the existing laws, until the
+organization of the government, as provided for under this constitution, and the entering into
+office of the officers to be elected or appointed under said government, and no longer.
+*** SEND ***
+
+*** SSTART 004.0 9003.0 0 KY 1850 ***
+SEC. 4. It shall be the duty of the general assembly which shall convene in the year 1850 to make
+an apportionment of the representation of this State, upon the principle set forth in this
+constitution; and until the first apportionment shall be made as herein directed, the apportionment
+of senators and representatives among the several districts and counties in this State shall remain
+as at present fixed by law: Provided, That on the first Monday in August, 1850, all senators shall
+go out of office, and on that day an election for senators and representatives shall be held
+throughout the state, and those then elected shall hold their offices for one year, and no longer:
+Provided further, That at the elections to be held in the year 1850, that provision in this
+constitution which requires voters to vote in the precinct within which they reside shall not apply.
+*** SEND ***
+
+*** SSTART 005.0 9003.0 0 KY 1850 ***
+
+SEC. 5. All recognizances heretofore taken, or which may be taken before the organization of the
+judicial department under this constitution, shall remain as valid as though this constitution had
+not been adopted, and may be prosecuted in the name of the commonwealth. All criminal
+prosecutions and penal actions which have arisen or may arise before the reorganization of the
+judicial department under this constitution, may be prosecuted to judgment and execution in the
+name of the commonwealth.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9016.0 KY 1850 ***
+
+    We, the representatives of the freemen of Kentucky, in convention assembled, in
+their name, and by the authority of the commonwealth of Kentucky, and in virtue of the powers
+vested in us, as delegates from the counties respectively affixed to our names, do ordain and
+proclaim the foregoing to be the constitution of the commonwealth of Kentucky from and after
+this day.
+Done at Frankfort this eleventh day of June, in the year of our Lord one thousand eight hundred
+and fifty, and in the fifty-ninth year of the commonwealth.
+JAMES GUTHRIE, President.
+THO. S. HELM, Secretary.
+THO. D. TILFORD, Assistant Secretary.
+
+*** AEND ***
+*** CEND ***

@@ -1,0 +1,2048 @@
+  Chris Esh worked on this constitution
+  
+  I am still working on it
+  
+  I think this is ready to go
+  
+  JW 6/14/04
+  
+  
+  
+  *** CSTART LA 03/02/1868 07/23/1879 ***
+                                                                
+                   CONSTITUTION OF LOUISIANA-1868
+  
+  *** ASTART 9001.0 LA 1868 ***
+  
+                              PREAMBLE
+  
+  We, the people of Louisiana, in order to establish justice, insure domestic tranquillity, promote
+  the general welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain
+  and establish this constitution.
+  
+  *** AEND ***
+  *** ASTART 001.0 LA 1868 ***
+  
+                              TITLE I
+                                  
+                           BILL OF RIGHTS
+  
+  *** SSTART 001.0 001.0 0 LA 1868 ***
+  
+  ARTICLE 1. All men are created free and equal, and have certain inalienable rights; among
+  these are life, liberty, and the pursuit of happiness. To secure these rights, governments are
+  instituted among men, deriving their just powers from the consent of the governed.
+  
+  *** SEND ***
+  *** SSTART 002.0 001.0 0 LA 1868 ***
+  
+  ART. 2. All persons, without regard to race, color, or previous condition, born or naturalized in
+  the United States, and subject to the jurisdiction thereof, and residents of this State for one
+  year, are citizens of this State. The citizens of this State owe allegiance to the United States;
+  and this allegiance is paramount to that which they owe to the State. They shall enjoy the same
+  civil, political, and public rights and privileges, and be subject to the same pains and penalties.
+  
+  *** SEND ***
+  *** SSTART 003.0 001.0 0 LA 1868 ***
+  ART. 3. There shall be neither slavery nor involuntary servitude in this State, otherwise than
+  for the punishment of crime, whereof the party shall have been duly convicted.
+  
+  *** SEND ***
+  *** SSTART 004.0 001.0 0 LA 1868 ***
+  
+  ART. 4. The press shall be free; every citizen may freely speak, write, and publish his
+  sentiments on all subjects, being responsible for the abuse of this liberty.
+  *** SEND ***
+  *** SSTART 005.0 001.0 0 LA 1868 ***
+  
+  ART. 5. The right of the people peaceably to assemble and petition the government, or any
+  department thereof, shall never be abridged.
+  
+  *** SEND ***
+  *** SSTART 006.0 001.0 0 LA 1868 ***
+  
+  ART. 6. Prosecutions shall be by indictment or information. The accused shall be entitled to a
+  speedy public trial by an impartial jury of the parish in which the offence was committed,
+  unless the venue be changed. He shall not be compelled to give evidence against himself; he
+  shall have the right of being heard by himself or counsel; he shall have the right of meeting the
+  witnesses face to face, and shall have compulsory process for obtaining witnesses in his favor.
+  He shall not be tried twice for the same offence.
+  
+  *** SEND ***
+  *** SSTART 007.0 001.0 0 LA 1868 ***
+  
+  ART. 7. All persons shall be bailable by sufficient securities, unless for capital offences, where
+  the proof is evident or the presumption great, or unless after conviction for any crime or
+  offence punishable with death or imprisonment at hard labor. The privilege of the writ of
+  habeas corpus shall not be suspended.
+  
+  *** SEND ***
+  *** SSTART 008.0 001.0 0 LA 1868 ***
+  
+  ART. 8.  Excessive bail shall not be required; excessive fines shall not be imposed; nor cruel or
+  unusual punishments inflicted.
+  
+  *** SEND ***
+  *** SSTART 009.0 001.0 0 LA 1868 ***
+  
+  ART. 9. The right of the people to be secure in their persons, houses, papers, and effects,
+  against unreasonable searches and seizures, shall not be violated; and no warrant shall issue but
+  upon probable cause, supported by oath or affirmation, and particularly describing the place to
+  be searched, or the person or things to be seized.
+  *** SEND ***
+  *** SSTART 010.0 001.0 0 LA 1868 ***
+  
+  ART. 10. All courts shall be open; and every person for injury done him in his land, goods,
+  person, or reputation, shall have adequate remedy, by due process of law, and justice
+  administered without denial or unreasonable delay.
+  
+  *** SEND ***
+  *** SSTART 011.0 001.0 0 LA 1868 ***
+  
+  ART. 11. No law shall be passed fixing the price of manual labor.
+  
+  *** SEND ***
+  *** SSTART 012.0 001.0 0 LA 1868 ***
+  
+  ART. 12. Every person has the natural right to worship God according to the dictates of his
+  conscience. No religious test shall be required as a qualification for office.
+  
+  *** SEND ***
+  *** SSTART 013.0 001.0 0 LA 1868 ***
+  
+  ART. 13. All persons shall enjoy equal rights and privileges upon any conveyance of a public
+  character; and all places of business, or of public resort, or for which a license is required by
+  either State, parish, or municipal authority, shall be deemed places of a public character, and
+  shall be opened to the accommodation and patronage of all persons, without distinction or
+  discrimination on account of race or color.
+  
+  *** SEND ***
+  *** SSTART 014.0 001.0 0 LA 1868 ***
+  
+  ART. 14. The rights enumerated in this title shall not be construed to limit or abridge other
+  rights of the people not herein expressed.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 002.0 LA 1868 ***
+  
+                              TITLE II
+                                  
+                       LEGISLATIVE DEPARTMENT
+  
+  *** SSTART 015.0 002.0 0 LA 1868 ***
+  
+  ART. 15. The legislative power of the State shall be vested in two distinct branches; the one to
+  be styled the house of representatives, the other the senate; and both, the general assembly of
+  the State of Louisiana.
+  
+  *** SEND ***
+  *** SSTART 016.0 002.0 0 LA 1868 ***
+  
+  ART. 16. The members of the house of representatives shall continue in office for two years
+  from the day of the closing of the general elections.
+  *** SEND ***
+  *** SSTART 017.0 002.0 0 LA 1868 ***
+  
+  ART. 17. Representatives shall be chosen on the first Monday in November, every two years;
+  and the election shall be completed in one day. The general assembly shall meet annually on
+  the first Monday in January, unless a different day be appointed by law, and their sessions shall
+  be held at the seat of government.
+  
+  *** SEND ***
+  *** SSTART 018.0 002.0 0 LA 1868 ***
+  
+  ART. 18. Every elector under this constitution shall be eligible to a seat in the house of
+  representatives; and every elector who has reached the age of twenty-five years shall be eligible
+  to the senate: Provided, That no person shall be a representative or senator unless at the time of
+  his election he be a qualified elector of the representative or senatorial district from which he is
+  elected.
+  
+  *** SEND ***
+  *** SSTART 019.0 002.0 0 LA 1868 ***
+  
+  ART. 19. Elections for members of the general assembly shall be held at the several election
+  precincts established by law.
+  
+  *** SEND ***
+  *** SSTART 020.0 002.0 0 LA 1868 ***
+  
+  ART. 20. Representation in the house of representatives shall be equal and uniform; and, after
+  the first general assembly elected under this constitution, shall be ascertained and regulated by
+  the total population, each parish in the State being entitled to at least one representative. A
+  census of the State by State authority shall be taken in the year eighteen hundred and seventy-
+  five, and every ten years thereafter. In case of informality, omission, or error in the census-
+  returns from any parish or election district, the general assembly may order a new census taken
+  in such parish or election district; but, until the State census of eighteen hundred and seventy-
+  five, the apportionment of the State shall be made on the basis of the census of the United
+  States for the year eighteen hundred and seventy.
+  
+  *** SEND ***
+  *** SSTART 021.0 002.0 0 LA 1868 ***
+  
+  ART. 21. The general assembly, at the first session after the making of each enumeration, shall
+  apportion the representation amongst the several parishes and representative districts on the
+  basis of the total population, as aforesaid. A representative number shall be fixed, and each
+  parish and representative district shall have as many representatives as the number of its total
+  population will entitle it to have, and an additional representative for any fraction exceeding
+  one-half of the representative number. The number of representatives shall never exceed one
+  hundred and twenty, nor be less than ninety.
+  
+  *** SEND ***
+  *** SSTART 022.0 002.0 0 LA 1868 ***
+  
+  ART. 22. Until an apportionment shall be made in accordance with the provisions of article
+  twenty, the representation in the senate and house of representatives shall be as follows:
+  For the parish of Orleans: First representative district, two; second representative district, three;
+  third representative district, four; fourth representative district, two; fifth representative district,
+  two; sixth representative district, one; seventh representative district, two; eighth representative
+  district, one; ninth representative district, two; tenth representative district, three; Orleans, right
+  bank, one.
+     For the parish of Ascension, two;
+     For the parish of Assumption, two; 
+     For the parish of Avoyelles, two;
+     For the parish of Baton Rouge, East, three; 
+     For the parish of Baton Rouge, West, one;
+     For the parish of Bienville, one; 
+     For the parish of Bossier, two; 
+     For the parish of Caddo, three; 
+     For the parish of Calcasieu, one; 
+     For the parish of Caldwell, one; 
+     For the parish of Carroll, two;
+     For the parish of Catahoula, one; 
+     For the parish of Claiborne, two; 
+     For the parish of Concordia, two; 
+     For the parish of De Soto, two;
+     For the parish of Feliciana, East, two; 
+     For the parish of Feliciana, West, one; 
+     For the parish of Franklin, one; 
+     For the parish of Iberville, two; 
+     For the parish of Jackson, one;
+     For the parish of Jefferson, four;
+     For the parish of La Fayette, one;
+     For the parish of La Fourche, two; 
+     For the parish of Livingston, one;
+     For the parish of Madison, one;
+     For the parish of Morehouse, one;
+     For the parish of Natchitoches, two; 
+     For the parish of Ouachita, two;
+     For the parish of Plaquemines, one,
+     For the parish of Point Coupee, two; 
+     For the parish of Rapides, three; 
+     For the parish of Sabine, one;
+     For the parish of Saint Bernard, one;
+     For the parish of Saint Charles, one;
+     For the parish of Saint Helena, one
+     For the parish of Saint James, two;
+     For the parish of Saint John Baptist, one;
+     For the parish of Saint Landry, four;
+     For the parish of Saint Martin's, two;
+     For the parish of Saint Mary's, two;
+     For the parish of Saint Tammany, one;
+     For the parish of Tensas, two; 
+     For the parish of Terre Bonne, two;
+     For the parish of Union, one;
+     For the parish of Vermillion, one;
+     For the parish of Washington, one;
+     For the parish of Winn, one;
+  Total, one hundred and one.
+      And the State shall be divided into the following senatorial districts, to wit:
+  The first, second, and third representative districts of New Orleans shall form one senatorial 
+      district, and elect three senators;
+  The fourth, fifth, and six representative districts of New Orleans shall form one district, and 
+      elect two senators;
+  The seventh, eighth, and ninth representative districts of New Orleans and the parish of Saint
+      Bernard shall form one district, and elect two senators;
+  The tenth representative district of New Orleans shall form one district, and elect one senator;
+     Orleans, right bank, and the parish of Plaquemines shall form one district, and elect one 
+  senator;
+  The parishes of Jefferson, Saint Charles, and Saint John Baptist shall form one district, and 
+  elect two senators;
+  The parishes of Ascension and Saint James shall form one district, and elect one senator;
+  The parishes of Assumption, La Fourche, and Terre Bonne shall form one district, and elect
+  two senators;
+  The parishes of Vermillion and Saint Mary's shall form one district, and elect one senator;
+  The parishes of Calcasieu, La Fayette, and Saint Landry shall form one district, and elect two 
+      senators;
+  The parishes of Livingston, Saint Helena, Washington, and Saint Tammany shall form one 
+  district, and elect one senator;
+  The parishes of Point Coupee, East Feliciana, and West Feliciana shall form one district, and 
+      elect two senators;
+  The parish of East Baton Rouge shall form one district, and elect one senator;
+  The parishes of West Baton Rouge, Iberville, and Saint Martin's shall form one district, and
+  elect two senators;
+  The parishes of Concordia and Avoyelles shall form one district, and elect one senator;
+  The parishes of Tensas and Franklin shall form one district, and elect one senator;
+  The parishes of Carroll, Madison, and Morehouse shall form one district, and elect two
+  senators;
+  The parishes of Ouachita and Caldwell shall form one district, and elect one senator;
+  The parishes of Jackson and Union shall form one district, and elect one senator;
+  The parishes of Bossier, Bienville, and Claiborne shall form one district, and elect two
+  senators;
+  The parish of Caddo shall form one district, and elect one senator;
+  The parishes of De Soto, Natchitoches, and Sabine shall form one district, and elect two     
+  senators;
+  The parish of Rapides shall form one district, and elect one senator,
+  The parishes of Catahoula and Winn shall form one district, and elect one senator;
+  Thirty-six senators in all.
+  
+  *** SEND ***
+  *** SSTART 023.0 002.0 0 LA 1868 ***
+  
+  ART. 23. The house of representatives shall choose its speaker and other officers.
+  
+  *** SEND ***
+  *** SSTART 024.0 002.0 0 LA 1868 ***
+  
+  ART. 24. Electors in all cases, except treason, felony, or breach of the peace, shall be
+  privileged from arrest during their attendance on, going to, and returning from elections.
+  
+  *** SEND ***
+  *** SSTART 025.0 002.0 0 LA 1868 ***
+  
+  ART. 25. At its first session under this constitution, the general assembly shall provide by law
+  that the names and residence of all qualified electors shall be registered, in order to entitle them
+  to vote; but the registry shall be free of cost to the elector.
+  
+  *** SEND ***
+  *** SSTART 026.0 002.0 0 LA 1868 ***
+  
+  ART. 26. No person shall be entitled to vote at any election held in this State, except in the
+  parish of his residence, and at the election-precinct in which he is registered: Provided, That no
+  voter, in removing one parish to another, shall lose the right in the former until acquired it in
+  the latter.
+  
+  *** SEND ***
+  *** SSTART 027.0 002.0 0 LA 1868 ***
+  
+  ART. 27. The members of the senate shall be elected for the term of four years; and, when
+  assembled, the senate shall have the power to choose its own officers, except as hereinafter
+  provided.
+  
+  *** SEND ***
+  *** SSTART 028.0 002.0 0 LA 1868 ***
+  
+  ART. 28. The general assembly shall divide the State into senatorial districts whenever it
+  apportions representation in the house of representatives.
+  
+  *** SEND ***
+  *** SSTART 029.0 002.0 0 LA 1868 ***
+  
+  ART. 29. No parish shall be divided in the formation of a senatorial district, the parish of
+  Orleans excepted; and whenever a new parish shall be created, it shall be attached to the
+  senatorial district from which most of its territory is taken, or to another contiguous district, at
+  the discretion of the general assembly; but shall not be attached to more than one district. The
+  number of senators shall be thirty-six, and they shall be apportioned among the senatorial
+  districts according to the total population of said districts.
+  
+  *** SEND ***
+  *** SSTART 030.0 002.0 0 LA 1868 ***
+  
+  ART. 30. In all apportionments of the senate, the total population of the State shall be divided
+  by the number thirty-six, and the result produced by this division shall be the senatorial ratio
+  entitling a senatorial district to a senator.
+  
+  Single or contiguous parishes shall be formed into districts having a population the nearest
+  possible to the number entitling a district to a senator; and if the apportionment to make a
+  parish or district fall short of, or exceed the ratio, then a district may be formed having not
+  more than two senators; but not otherwise. No new apportionment shall have the effect of
+  abridging the term of service of any senator already elected at the time of making the
+  apportionment. After an enumeration has been made, as directed in the twentieth article, the
+  general assembly shall not pass any law till an apportionment of representation in both houses
+  of the general assembly be made.
+  
+  *** SEND ***
+  *** SSTART 031.0 002.0 0 LA 1868 ***
+  
+  ART. 31. At the first session of the. general assembly, after this constitution goes into effect,
+  the senators shall be divided equally by lot into two classes; the seats of the senators of the first
+  class to be vacated at the expiration of the term of the first house of representatives; those of
+  the second class at the expiration of the term of the second house of representatives, so that
+  one-half shall be chosen every two years successively.
+  
+  When a district shall have elected two senators, their respective terms of office shall be
+  determined by lot between themselves.
+  
+  *** SEND ***
+  *** SSTART 032.0 002.0 0 LA 1868 ***
+  
+  ART. 32. The first election for senators shall be held at the same time with the election for
+  representatives: and thereafter there shall be elections of senators at the same time with each
+  general election of representatives, to fill the places of those senators whose term of office may
+  have expired.
+  
+  *** SEND ***
+  *** SSTART 033.0 002.0 0 LA 1868 ***
+  
+  ART. 33. Not less than a majority of the members of each house of the general assembly shall
+  form a quorum to transact business; but a smaller number may adjourn front day to day, and
+  shall have full power to compel the attendance of absent members.
+  
+  *** SEND ***
+  *** SSTART 034.0 002.0 0 LA 1868 ***
+  
+  ART. 34. Each house of the general assembly shall judge of the qualifications, election, and
+  returns of its members; but a contested election shall be determined in such manner as may be
+  prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 035.0 002.0 0 LA 1868 ***
+  
+  ART. 35. Each house of the general assembly may determine the rules of its proceedings,
+  punish a member for disorderly conduct, and, with a concurrence of two-thirds, expel a
+  member, but not a second time for the same offence.
+  
+  *** SEND ***
+  *** SSTART 036.0 002.0 0 LA 1868 ***
+  
+  ART. 36. Each house of the general assembly shall keep and publish weekly a journal of its
+  proceedings; and the yeas and nays of the members on any question, at the desire of any two of
+  them, shall be entered on the journal.
+  
+  *** SEND ***
+  *** SSTART 037.0 002.0 0 LA 1868 ***
+  ART. 37. Each house may punish, by imprisonment, any person, not a member, for disrespect
+  and disorderly behavior in its presence, or for obstructing any of its proceedings. Such
+  imprisonment shall not exceed ten days for any one offence.
+  
+  *** SEND ***
+  *** SSTART 038.0 002.0 0 LA 1868 ***
+  
+  ART. 38. Neither house shall adjourn for more than three days, nor to any other place than that
+  in which it may be sitting, during the sessions of the general assembly, without the consent of
+  the other.
+  
+  *** SEND ***
+  *** SSTART 039.0 002.0 0 LA 1868 ***
+  
+  ART. 39. The members of the general assembly shall receive from the public treasury a
+  compensation for their services, which shall be, eight dollars per day during their attendance,
+  going to, and returning from the sessions of their respective houses. This compensation may be
+  increased or diminished by law, but no alteration shall take effect during the period of service
+  of the members of the house of representatives by which such alteration shall have been made.
+  No session shall extend beyond the period of sixty days, to date from its commencement, and
+  any legislative action had after the expiration of said period of sixty days shall be null and void;
+  but the first general assembly that shall convene after the adoption of this constitution may
+  continue in session for one hundred and twenty days.
+  
+  *** SEND ***
+  *** SSTART 040.0 002.0 0 LA 1868 ***
+  
+  ART. 40. The members of the general assembly, in all cases except treason, felony, or breach
+  of the peace, shall be privileged from arrest during their attendance at the sessions of their
+  respective houses, and going to or returning from the same; and for any speech or debate in
+  either house shall not be questioned in any other place.
+  
+  *** SEND ***
+  *** SSTART 041.0 002.0 0 LA 1868 ***
+  
+  ART. 41. No senator or representative, during the term for which he was elected, nor for one
+  year thereafter, shall be appointed to any civil office of profit under this State  which shall have
+  been created, or the emoluments of which may have been increased, during the time such
+  senator or representative was in office.
+  
+  *** SEND ***
+  *** SSTART 042.0 002.0 0 LA 1868 ***
+  
+  ART. 42. No bill shall have the force of a law until on three several days it be read in each
+  house of the general assembly, and free discussion allowed thereon, unless four-fifths of the
+  house where the bill is pending may deem it expedient to dispense with this rule.
+  
+  *** SEND ***
+  *** SSTART 043.0 002.0 0 LA 1868 ***
+  
+  ART. 43. All bills for raising revenue shall originate in the house of representatives; but the
+  senate may propose amendments, as in other bills:  Provided, It shall not introduce any matter
+  under the color of an amendment which does not relate to raising revenue.
+  
+  *** SEND ***
+  *** SSTART 044.0 002.0 0 LA 1868 ***
+  
+  ART. 44. The general assembly shall regulate by whom and in what manner writs of election
+  shall be issued to fill the vacancies which may occur in either branch thereof.
+  
+  *** SEND ***
+  *** SSTART 045.0 002.0 0 LA 1868 ***
+  
+  ART. 45. On the confirmation or rejection of the officers to be appointed by the governor, with
+  the advice and consent of the senate, the vote shall be taken by yeas and nays, and the names of
+  the senators voting for and against the appointments respectively shall be entered on the
+  journals to be kept for the purpose, and made public on or before the end of each session.
+  
+  *** SEND ***
+  *** SSTART 046.0 002.0 0 LA 1868 ***
+  
+  ART. 46. Returns of all elections for members of the general assembly shall be made to the
+  secretary of state.
+  
+  *** SEND ***
+  *** SSTART 047.0 002.0 0 LA 1868 ***
+  
+  ART. 47. In the year in which a regular election for a Senator of the United States is to take
+  place, the members of the general assembly shall meet in the hall of the house of
+  representatives, on the Monday following the meeting of the general assembly, and proceed to
+  said election.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 003.0 LA 1868 ***
+  
+                             TITLE III
+                                  
+                        EXECUTIVE DEPARTMENT
+  
+  *** SSTART 048.0 003.0 0 LA 1868 ***
+  
+  ART. 48. The supreme executive power of the State shall be vested in a chief magistrate, who
+  shall be styled the governor of the State of Louisiana. He shall hold his office during the term
+  of four years, and, together with the lieutenant-governor chosen for the same term, be elected as
+  follows: The qualified electors for representatives shall vote for governor and lieutenant-
+  governor at the time and place of voting for representatives. The returns of every election shall
+  be sealed up and transmitted by the proper returning-officer to the secretary of state, who shall
+  deliver them to the speaker of the house of representatives on the second day of the session of
+  the general assembly then to be holden. The members of the general assembly shall meet in the
+  house of representatives to examine and count the votes. The person having the greatest
+  number of votes for governor shall be declared duly elected; but in case of a tie vote between
+  two or more candidates, one of them shall immediately be chosen governor by joint vote of the
+  members of the general assembly. The person having the greatest number of votes polled for
+  lieutenant-governor shall be lieutenant-governor; but in case of a tie vote between two or more
+  candidates, one of them shall be immediately chosen lieutenant-governor by joint vote of the
+  members of the general assembly.
+  
+  *** SEND ***
+  *** SSTART 049.0 003.0 0 LA 1868 ***
+  
+  ART. 49. No person shall be eligible to the office of governor or lieutenant-governor who is
+  not a citizen of the United States and a resident of this State two years next preceding his
+  election.
+  
+  *** SEND ***
+  *** SSTART 050.0 003.0 0 LA 1868 ***
+  
+  ART. 50. The governor shall be ineligible for the succeeding four years after the expiration of
+  the time for which he shall have been elected.
+  
+  *** SEND ***
+  *** SSTART 051.0 003.0 0 LA 1868 ***
+  
+  ART. 51. The governor shall enter on the discharge of his duties oil the second Monday in
+  January next ensuing his election, and shall continue in office until the Monday next
+  succeeding the day that his successor shall be declared duly elected, and shall have taken the
+  oath or affirmation required by the constitution.
+  
+  *** SEND ***
+  *** SSTART 052.0 003.0 0 LA 1868 ***
+  
+  ART. 52. No member of Congress, or any person holding office under the United States
+  Government, shall be eligible to the office of governor or lieutenant-governor.
+  
+  *** SEND ***
+  *** SSTART 053.0 003.0 0 LA 1868 ***
+  
+  ART. 53. In case of impeachment of the governor, his removal from office, death, refusal or
+  inability to qualify, or to discharge the powers and duties of his office, resignation, or absence
+  from the State, the powers and duties of the office shall devolve upon the lieutenant-governor
+  for the residue of the term, or until the governor absent or impeached shall return or be
+  acquitted, or the disability be removed. The general assembly may provide by law for the case
+  of removal, impeachment, death, resignation, disability, or refusal to qualify, of both the
+  governor and the lieutenant-governor, declaring what officer shall act as governor; and such
+  officer shall act accordingly, until the disability be removed, or for the remainder of the term.
+  
+  *** SEND ***
+  *** SSTART 054.0 003.0 0 LA 1868 ***
+  
+  ART. 54. The lieutenant-governor, or officer discharging the duties of governor, shall, during
+  his administration, receive the same compensation to which the governor would have been
+  entitled had he continued in office.
+  
+  *** SEND ***
+  *** SSTART 055.0 003.0 0 LA 1868 ***
+  
+  ART. 55. The lieutenant-governor shall, by virtue of his office, be president of the senate, but
+  shall only vote when the senate is equally divided. Whenever he shall administer the
+  government, or shall be unable to attend as president of the senate, the senators shall elect one
+  of their own members as president of the senate for the time being.
+  
+  *** SEND ***
+  *** SSTART 056.0 003.0 0 LA 1868 ***
+  
+  ART. 56. The governor shall receive a salary of eight thousand dollars per annum, payable
+  quarterly, on his own warrant.
+  
+  *** SEND ***
+  *** SSTART 057.0 003.0 0 LA 1868 ***
+  
+  ART. 57. The lieutenant-governor shall receive a salary of three thousand dollars, per annum,
+  payable quarterly, upon his own warrant.
+  
+  *** SEND ***
+  *** SSTART 058.0 003.0 0 LA 1868 ***
+  
+  ART. 58. The governor shall have power to grant reprieves for all offences against the State;
+  and, except in cases of impeachment, shall, with the consent of the senate, have power to grant
+  pardons, remit fines and forfeitures, after conviction. In cases of treason, he may grant
+  reprieves until the end of the next session of the general assembly, in which the power of
+  pardoning shall be vested. In cases when the punishment is not imprisonment at hard labor, the
+  party upon being reprieved by the governor shall be released, if in actual custody, until final
+  action by the senate.
+  
+  *** SEND ***
+  *** SSTART 059.0 003.0 0 LA 1868 ***
+  
+  ART. 59. He shall be commander-in-chief of the militia of this State, except when they shall be
+  called into the service of the United States
+  
+  *** SEND ***
+  *** SSTART 060.0 003.0 0 LA 1868 ***
+  
+  ART. 60. He shall nominate, and, by and with the advice and consent of the senate, appoint all
+  officers whose offices are established by the constitution, and whose appointments are not
+  herein otherwise provided for: Provided, however, That the general assembly shall have a right
+  to prescribe the mode of appointment to all other offices established by law.
+  
+  *** SEND ***
+  *** SSTART 061.0 003.0 0 LA 1868 ***
+  
+  ART. 61. The governor shall have power to fill vacancies that may happen during the recess of
+  the senate, by granting commissions, which shall expire at the end of the next session thereof,
+  unless otherwise provided for in this constitution; but no person who has been nominated for
+  office and rejected by the senate shall be appointed to the same office during the recess of the
+  senate.
+  
+  *** SEND ***
+  *** SSTART 062.0 003.0 0 LA 1868 ***
+  
+  ART. 62. He may require information in writing from the officers, in the executive department
+  upon any subject relating to the duties of their respective offices.
+  
+  *** SEND ***
+  *** SSTART 063.0 003.0 0 LA 1868 ***
+  
+  ART. 63. He shall, from time to time give the general assembly information respecting the
+  situation of the State, and recommend to their consideration such measures as he may deem
+  expedient.
+  
+  *** SEND ***
+  *** SSTART 064.0 003.0 0 LA 1868 ***
+  
+  ART. 64. He may, on extraordinary occasions, convene the general assembly at the seat of
+  government, or at a different place if that should have become dangerous from an enemy or
+  from epidemic; and, in case of  disagreement between the two houses as to the time of
+  adjournment, he may adjourn them to such time as he may think proper, not exceeding four
+  months.
+  
+  *** SEND ***
+  *** SSTART 065.0 003.0 0 LA 1868 ***
+  
+  ART. 65. He shall take care that the laws be faithfully executed.
+  
+  *** SEND ***
+  *** SSTART 066.0 003.0 0 LA 1868 ***
+  
+  ART. 66. Every bill which shall have passed both houses shall be presented to the governor; if
+  he approve, he shall sign it; if he do not, he shall return it, with his objections, to the house in
+  which it originated, which shall enter the objections at large upon its journal, proceed to
+  reconsider it. If, after such reconsideration, two-thirds of all the members present in that house
+  shall agree to pass the bill, it shall be sent, with the objections, to the other house, by which it
+  shall likewise be reconsidered; and if approved by two-thirds of the members present in that
+  house it shall be a law. But in such cases the vote of both houses shall be determined by yeas
+  and nays, and the names of members voting for or against the bill shall be entered on the
+  journal of each house respectively. If any bill shall not be returned by the governor within five
+  days after it shall have been presented to him, it shall be a law in like manner as if he had
+  signed it, unless the general assembly, by adjournment, prevent its return; in which case the
+  said bill shall be returned on the first day of the meeting of the general assembly after the
+  expiration of said five days, or be a law.
+  
+  *** SEND ***
+  *** SSTART 067.0 003.0 0 LA 1868 ***
+  
+  ART. 67. Every order, resolution, or vote, to which the concurrence of both houses may be
+  necessary, except on a question of adjournment, shall be presented to the governor; and before
+  it shall take effect be approved by him, or, being disapproved, shall be repassed by two-thirds
+  of the members present.
+  
+  *** SEND ***
+  *** SSTART 068.0 003.0 0 LA 1868 ***
+  
+  ART. 68. There shall be a secretary of state, who shall hold his office during the term for which
+  the governor shall have been elected. The records of the State shall be kept and preserved in the
+  office of the secretary; he shall keep a fair register of the official acts and proceedings of the
+  governor, and, when necessary, shall attest them; he shall, when required, lay the said register,
+  and all papers, minutes, and vouchers relative to his office, before either house of the general
+  assembly, and shall perform such other duties as may be enjoined on him by law.
+  
+  *** SEND ***
+  *** SSTART 069.0 003.0 0 LA 1868 ***
+  
+  ART. 69. There shall be a treasurer of the State, and an auditor of public accounts, who shall
+  hold their respective offices during the term of four years. At the first election under this
+  constitution the treasurer shall be elected for two years.
+  
+  *** SEND ***
+  *** SSTART 070.0 003.0 0 LA 1868 ***
+  
+  ART. 70. The secretary of state, treasurer, and auditor of public accounts shall be elected by the
+  qualified electors of the State; and in case of any vacancy caused by the resignation, death, or
+  absence of the secretary, treasurer, or auditor, the governor shall order an election to fill said
+  vacancies: Provided, The unexpired term to be filled be more than twelve months. When
+  otherwise, the governor shall appoint a person to perform the duties of the office thus vacant
+  until the ensuing general election.
+  
+  *** SEND ***
+  *** SSTART 071.0 003.0 0 LA 1868 ***
+  
+  ART. 71. The treasurer and the auditor shall receive a salary of five thousand dollars per
+  annum each. The secretary of state shall receive a salary of three thousand dollars per annum.
+  
+  *** SEND ***
+  
+  *** SSTART 072.0 003.0 0 LA 1868 ***
+  
+  ART. 72. All commissions shall be in the name and by the authority of the State of Louisiana;
+  and shall be sealed with the State seal, signed by the governor, and countersigned by the
+  secretary of state.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 004.0 LA 1868 ***
+  
+                              TITLE IV
+                                  
+                        JUDICIARY DEPARTMENT
+  
+  *** SSTART 073.0 004.0 0 LA 1868 ***
+  
+  ART. 73. The judicial power shall be vested in a supreme court,, in district courts, in parish
+  courts, and in justices of the peace.
+  
+  *** SEND ***
+  *** SSTART 074.0 004.0 0 LA 1868 ***
+  
+  ART. 74. The supreme court, except in cases hereinafter provided, shall have appellate
+  jurisdiction only; which jurisdiction shall extend to all cases when the matter in dispute shall
+  exceed five hundred dollars; and to all cases in which the constitutionality or legality of any
+  tax, toll, or impost of any kind or nature whatsoever, or any fine, forfeiture, or penalty imposed
+  by a municipal corporation, shall be in contestation, whatever may be the amount thereof; and
+  ill such cases the appeal shall be direct from the court in which the case originated to the
+  supreme court; and in criminal cases, on questions of law only, whenever the punishment of
+  death or imprisonment at hard labor, or a fine exceeding three hundred dollars, is actually
+  imposed.
+  
+  *** SEND ***
+  *** SSTART 075.0 004.0 0 LA 1868 ***
+  
+  ART. 75. The supreme court shall be composed of one chief justice and four associate justices,
+  a
+  majority of whom shall constitute a quorum. The chief justice shall receive a salary of seven
+  thousand five hundred dollars, and each of the associate justices a salary of seven thousand
+  dollars annually, payable quarterly on their own warrants. The chief justice and the associate
+  justices shall be appointed by the governor, with the advice and consent of the senate, for the
+  term of eight years. They shall be citizens of the United States, and shall have practised law for
+  five years, the last three thereof next preceding their appointment in the State. The court shall
+  appoint its own clerks, and may remove them at pleasure.
+  
+  *** SEND ***
+  *** SSTART 076.0 004.0 0 LA 1868 ***
+  
+  ART. 76. The supreme court shall hold its sessions in the city of New Orleans, from the first
+  Monday in the month of November to the end of the month of May. The general assembly shall
+  have power to fix the sessions elsewhere during the rest of the year. Until otherwise provided,
+  the sessions shall be held as heretofore.
+  
+  *** SEND ***
+  *** SSTART 077.0 004.0 0 LA 1868 ***
+  
+  ART. 77. The supreme court, and each of the judges thereof, shall have power to issue writs of
+  habeas corpus, at the instance of persons in actual custody, in cases when they may have
+  appellate jurisdiction.
+  
+  *** SEND ***
+  *** SSTART 078.0 004.0 0 LA 1868 ***
+  
+  ART. 78. No judgment shall be rendered by the supreme court without a concurrence of a
+  majority composing the court. Whenever the majority cannot concur, in consequence of the
+  recusation of any member of the court, the judges not recused shall have power to call upon any
+  judge  or judges of the district courts, whose duty it shall be, when so called upon, to preside in
+  the place of the judge or judges recused, and to aid in determining the case.
+  
+  *** SEND ***
+  *** SSTART 079.0 004.0 0 LA 1868 ***
+  
+  ART. 79. All judges, by virtue of their office, shall be conservators of the peace throughout the
+  State. The style of all process shall be "The State of Louisiana." All prosecutions shall be
+  carried on in the name and by the authority of the State of Louisiana, and conclude "against the
+  peace and dignity of the same."
+  
+  *** SEND ***
+  *** SSTART 080.0 004.0 0 LA 1868 ***
+  
+  ART. 80. The judges of all courts, whenever practicable, shall refer to the law in virtue of
+  which every definitive judgment is rendered; but in all cases they shall adduce the reasons on
+  which their judgment is founded.
+  
+  *** SEND ***
+  *** SSTART 081.0 004.0 0 LA 1868 ***
+  
+  ART. 81. The judges of all courts shall be liable to impeachment for crimes and misdemeanors.
+  For any reasonable cause the governor shall remove any of them, on the address of two-thirds
+  of the members elected to each house of the general assembly. In every such case the cause or
+  causes for which such removal may be required shall be stated at length in the address and
+  inserted in the journal of each house.
+  
+  *** SEND ***
+  *** SSTART 082.0 004.0 0 LA 1868 ***
+  
+  ART. 82. No duties or functions shall ever be attached by law to the supreme or district courts,
+  or the several judges thereof, but such as are judicial; and the said judges are prohibited from
+  receiving any fees of office, or other compensation than their salaries, for any official duties
+  performed by them.
+  
+  *** SEND ***
+  *** SSTART 083.0 004.0 0 LA 1868 ***
+  
+  ART. 83. The general assembly shall divide the State into judicial districts, which shall remain
+  unchanged for four years, and for each district court one judge, learned in the law, shall be
+  elected for each district by a plurality of the qualified electors thereof. For each district there
+  shall be one district court, except in the parish of Orleans, in which the general assembly may
+  establish as many district courts as the public interests may require. Until otherwise provided,
+  there shall be seven district courts for the parish of Orleans, with the following original
+  jurisdiction: The first, exclusive criminal jurisdiction; the second, exclusive, probate
+  jurisdiction; the third, exclusive jurisdiction of appeals from justices of the peace; the fourth,
+  fifth, sixth, and seventh district courts, exclusive jurisdiction in all civil cases, except probate,
+  when the sum in contest is above one hundred dollars, exclusive of interest. These seven courts
+  shall also have such further jurisdiction, not inconsistent herewith, as shall be conferred by law.
+  The number of districts in the State shall not be less than twelve nor more than twenty. The
+  clerks of the district, courts shall be elected by the qualified electors of their respective
+  parishes, and shall hold their office for four years.
+  
+  *** SEND ***
+  *** SSTART 084.0 004.0 0 LA 1868 ***
+  
+  ART. 84. Each of said judges shall receive a salary to be fixed by law, which shall not be
+  increased or diminished during his term of office, and shall never be less than five thousand
+  dollars. He must be a citizen of the United States, over the age of twenty-five years, and have
+  resided in the State and practised law therein for the space of two years next preceding his
+  election. The judges of the district courts shall hold their office for the term of four years.
+  *** SEND ***
+  *** SSTART 085.0 004.0 0 LA 1868 ***
+  
+  ART. 85. The district courts shall have original jurisdiction in all civil cases when the amount
+  in dispute exceeds five hundred dollars, exclusive of interest. In criminal cases their
+  jurisdiction shall be unlimited. They shall have appellate jurisdiction in civil ordinary suits
+  when the amount in dispute exceeds one hundred dollars, exclusive of interest.
+  
+  *** SEND ***
+  *** SSTART 086.0 004.0 0 LA 1868 ***
+  
+  ART. 86. For each parish court one judge shall be elected by the qualified electors of the
+  parish. He shall hold his office for the term of two years. He shall receive a salary and fees to
+  be provided by law. Until otherwise provided, each parish judge shall receive a salary of one
+  thousand two hundred dollars per annum, and such fees as are established by law for clerks of
+  district courts. He shall be a citizen of the United States and of this State.
+  
+  *** SEND ***
+  *** SSTART 087.0 004.0 0 LA 1868 ***
+  
+  ART. 87. The parish courts shall have concurrent jurisdiction with the justices of the peace in
+  all cases when the amount in controversy is more than twenty-five dollars and less than one
+  hundred dollars, exclusive of interest. They shall have exclusive original jurisdiction in
+  ordinary suits in all cases when the amount in dispute exceeds, one hundred dollars and does
+  not exceed five hundred dollars, subject to an appeal to the district court in all cases when the
+  amount in contestation exceeds one hundred dollars, exclusive of interest. All successions shall
+  be opened and settled in the parish courts; and all suits in which a succession is either plaintiff
+  or defendant may be brought either in the parish or district court, according to the amount
+  involved. In criminal matters the parish courts shall have jurisdiction in all cases when the
+  penalty is not necessarily imprisonment at hard labor or death, and when the accused shall
+  waive trial by jury. They shall also have the power of committing-magistrates and such other
+  jurisdiction as may be conferred on them by law. There shall be no trial by jury before the
+  parish courts.
+  
+  *** SEND ***
+  *** SSTART 088.0 004.0 0 LA 1868 ***
+  
+  ART. 88. In all probate matters when the amount in dispute shall exceed five hundred dollars
+  exclusive of interest, the appeal shall be directly from the parish to the supreme court.
+  
+  *** SEND ***
+  *** SSTART 089.0 004.0 0 LA 1868 ***
+  
+  ART. 89. The justices of the peace shall be elected by the electors of each parish, in the manner
+  to be provided by the general assembly. They shall hold office for the term of two years, and
+  their compensation shall be fixed by law. Their jurisdiction in civil cases shall not exceed one
+  hundred dollars, exclusive of interest, subject to an appeal to the parish court in all cases when
+  the amount in dispute shall exceed ten dollars, exclusive of interest. They shall have such
+  criminal jurisdiction as shall be provided for by law.
+  
+  *** SEND ***
+  *** SSTART 090.0 004.0 0 LA 1868 ***
+  
+  ART. 90. In any case when the judge may be recused, and when he is not personally interested
+  in the matters in contestation, he shall select a lawyer, having the qualifications required for a
+  judge of his court, to try such cases. And when the judge is personally interested in the suit, he
+  shall call upon the parish or district judge, as the case may be, to try the case.
+  
+  *** SEND ***
+  *** SSTART 091.0 004.0 0 LA 1868 ***
+  
+  ART. 91. The general assembly shall have power to vest in the parish judges the right to grant
+  such orders and to do such acts as may be deemed necessary for the furtherance of the
+  administration of justice, and in all cases the power thus granted shall be specified and
+  determined.
+  
+  *** SEND ***
+  *** SSTART 092.0 004.0 0 LA 1868 ***
+  
+  ART. 92. There shall be an attorney-general for the State, who shall be elected by the qualified
+  electors of the State at large. He shall receive a salary of five thousand dollars per annum,
+  payable quarterly, on his own warrant, and shall hold his office for four years. There shall be a
+  district attorney for each judicial district of the State, who shall be elected by the qualified
+  electors of the judicial district.. He shall receive a salary of fifteen hundred dollars, payable
+  quarterly, on his own warrant, and shall hold his office for four years.
+  
+  *** SEND ***
+  *** SSTART 093.0 004.0 0 LA 1868 ***
+  
+  ART. 93. There shall be a sheriff and coroner elected by the qualified electors of each parish.
+  except the parish of Orleans. In the parish of Orleans there shall be elected by the qualified
+  electors of the parish at large one sheriff for the criminal court, who shall be the executive
+  officer of said court, and shall, have charge of the parish prison. There shall also be elected by
+  the qualified electors of the parish at large one sheriff, who shall be the executive officer of the
+  civil courts, and who shall perform all other duties heretofore devolving upon the sheriff of the
+  parish of Orleans, except those herein delegated to the sheriff of the criminal court. The
+  qualified electors of the city of New Orleans residing below the middle of Canal street shall
+  elect one coroner for that district, and the qualified electors of the city of New Orleans residing
+  above the middle of Canal street, together with those residing in that part of the parish known
+  as Orleans, right bank, shall elect one coroner for that district. All of said officers shall hold
+  their office for two years, and receive such fees of office as may be prescribed by law.
+  *** SEND ***
+  *** SSTART 094.0 004.0 0 LA 1868 ***
+  
+  ART. 94. No judicial powers, except as committing-magistrates in criminal cases, shall be
+  conferred on any officers other than those mentioned in this title, except such as may be
+  necessary in towns and cities; and the judicial powers of such offices shall not extend further
+  than the cognizances of cases arising under the police regulations of towns and cities in the
+  State. In any case where such officers shall assume jurisdiction over other matters than those
+  which may arise under police regulations, or under their jurisdiction as committing-magistrates,
+  they shall be liable to an action of damages in favor of    the party injured, or his heirs; and a
+  verdict in favor of the party injured shall, ipso facto, operate a vacation of the office of said
+  officer.
+  
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 005.0 LA 1868 ***
+  
+                              TITLE V
+                                  
+                            IMPEACHMENT
+  
+  *** SSTART 095.0 005.0 0 LA 1868 ***
+  
+  ART. 95. The power of impeachment shall be vested in the house of representatives.
+  *** SEND ***
+  *** SSTART 096.0 005.0 0 LA 1868 ***
+  
+  ART. 96. Impeachments of the governor, lieutenant-governor, attorney-general, secretary of
+  state, auditor of public accounts, State treasurer, superintendent of public education, and of the
+  judges of the inferior courts, justices of the peace excepted, shall be tried by the senate; the
+  chief-justice of the supreme court, or the senior associate judge thereof, shall preside during the
+  trial of such impeachments.
+  
+  Impeachments of the judges of the supreme court shall be tried by the senate. When sitting as a
+  court of impeachment, the senators shall be upon oath or affirmation, and no person shall be
+  convicted without the concurrence of two-thirds of the senators present.
+  
+  *** SEND ***
+  *** SSTART 097.0 005.0 0 LA 1868 ***
+  
+  ART. 97. Judgments in cases of impeachments shall extend only to removal from office, and
+  disqualification from holding any office of honor, trust, or profit in the State; but the convicted
+  parties shall, nevertheless, be subject to indictment, trial, and punishment, according to law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 006.0 LA 1868 ***
+  
+                              TITLE VI
+                                  
+                         GENERAL PROVISIONS
+  
+  *** SSTART 098.0 006.0 0 LA 1868 ***
+  
+  ART. 98. Every male person of the age of twenty-one years or upward, born or naturalized in
+  the United States, and subject to the jurisdiction thereof, and a resident of this State one year
+  next preceding an election, and the last ten days within the parish in which he offers to vote,
+  shall be deemed an elector, except those disfranchised by this constitution, and persons under
+  interdiction.
+  
+  *** SEND ***
+  
+  *** SSTART 099.0 006.0 0 LA 1868 ***
+  
+  ART. 99. The following persons shall be prohibited from voting and holding any office: All
+  persons who shall have been convicted of treason, perjury, forgery, bribery, or other crime
+  punishable in the penitentiary, and persons under interdiction. All persons who are estopped
+  from claiming the right of suffrage by abjuring their allegiance to the United States
+  Government, or by notoriously levying war against it, or adhering to its enemies, giving them
+  aid or comfort, but who have not expatriated themselves, nor have been convicted of any of the
+  crimes mentioned in the first paragraph of this article, are hereby restored to the said right,
+  except the following: Those who held office, civil or military, for one year or more, under the
+  organization styled "the Confederate States of America;" those who registered themselves as
+  enemies of the United States; those who acted as leaders of guerrilla bands during the late
+  rebellion; those who, in the advocacy of treason, wrote or published newspaper articles or
+  preached sermons during the late rebellion; and those who voted for and signed an ordinance of
+  secession in any State. No person included in these exceptions shall either vote or hold office
+  until he shall have relieved himself by voluntarily writing and signing a certificate setting forth
+  that he acknowledges the late rebellion to have been morally and politically wrong, and that he
+  regrets any aid and comfort he may have given it; and he shall file the certificate in the office of
+  the secretary of state, and it shall be published in the official journal: Provided, That no person
+  who, prior to the first of January, eighteen hundred and sixty-eight, favored the execution of the
+  laws of the United States popularly known as the reconstruction acts of Congress, and openly
+  and actively assisted the loyal men of the State in their efforts to restore Louisiana to her
+  position in the Union, shall be held to be included among those herein excepted. Registrars of
+  voters shall take the oath of any such person as prima-facie evidence of the fact that he is
+  entitled to the benefit of this proviso.
+  
+  *** SEND ***
+  *** SSTART 100.0 006.0 0 LA 1868 ***
+  ART. 100. Members of the general assembly and all other officers, before they enter upon the
+  duties of their offices, shall take the following oath or affirmation: "I, [A. B.,] do solemnly
+  swear [or affirm] that I accept the civil and political equality of all men, and agree not to
+  attempt to deprive any person or persons, on account of race, color, or previous condition, of
+  any political or civil right, privilege, or immunity enjoyed by any other class of men; that 1 will
+  support the Constitution and laws of the United States, and the constitution and laws of this
+  State, and that I will faithfully and impartially discharge and perform all the duties incumbent
+  on me as, according to the best of my ability and understanding: So help me God."
+  
+  *** SEND ***
+  *** SSTART 101.0 006.0 0 LA 1868 ***
+  
+  ART. 101. Treason against the State shall consist only in levying war against it or in adhering
+  to its enemies, giving them aid and comfort. No person shall be convicted of treason except on
+  the testimony of two witnesses to the same overt act, or on his confession in open court.
+  
+  *** SEND ***
+  
+  *** SSTART 102.0 006.0 0 LA 1868 ***
+  
+  ART. 102. All penalties shall be proportioned to the nature of the offence.
+  
+  *** SEND ***
+  *** SSTART 103.0 006.0 0 LA 1868 ***
+  
+  ART. 103. The privilege of free suffrage shall be supported by laws regulating elections and
+  prohibiting under adequate penalties all undue influence thereon from power, bribery, tumult,
+  or other improper practice.
+  
+  *** SEND ***
+  *** SSTART 104.0 006.0 0 LA 1868 ***
+  
+  ART. 104. No money shall be drawn from the treasury but in pursuance of specific
+  appropriations made by law. A statement and account of receipts and expenditures of all public
+  moneys shall be made annually in such manner as shall be prescribed by law; and the first
+  general assembly convening under this constitution shall make a special appropriation to
+  liquidate whatever portion of the debt of this convention may at that time remain unpaid or
+  unprovided for.
+  
+  *** SEND ***
+  *** SSTART 105.0 006.0 0 LA 1868 ***
+  
+  ART. 105. All civil officers of the State at large shall be voters of and reside within the State;
+  and all district or parish officers shall reside within their respective districts or parishes, and
+  shall keep their offices at such place therein as may be required by law.
+  *** SEND ***
+  *** SSTART 106.0 006.0 0 LA 1868 ***
+  
+  ART. 106. All civil officers shall be removable by an address of two-thirds of the
+  members-elect to each house of the general assembly, except those whose removal is otherwise
+  provided for by this constitution.
+  
+  *** SEND ***
+  *** SSTART 107.0 006.0 0 LA 1868 ***
+  
+  ART. 107. In all elections by the people the vote shall be taken by ballot; and in all elections by
+  the senate and house of representatives, jointly or separately, the vote shall be given viva voce.
+  
+  *** SEND ***
+  *** SSTART 108.0 006.0 0 LA 1868 ***
+  
+  ART. 108. None but citizens of the United States and of this State shall be appointed to any
+  office of trust or profit in this State.
+  
+  *** SEND ***
+  *** SSTART 109.0 006.0 0 LA 1868 ***
+  
+  ART. 109. The laws, public records, and the judicial and legislative proceedings of the State
+  shall be promulgated and preserved in the English language; and no laws shall require judicial
+  process to be issued in any other than the English language.
+  
+  *** SEND ***
+  *** SSTART 110.0 006.0 0 LA 1868 ***
+  
+  ART. 110. No ex post facto or retroactive law, nor any law impairing the obligation of
+  contracts, shall be passed, nor vested rights be divested, unless for purposes of public utility
+  and for adequate compensation made.
+  
+  *** SEND ***
+  *** SSTART 111.0 006.0 0 LA 1868 ***
+  
+  ART. 111. Whenever the general assembly shall contract a debt exceeding in amount the sum
+  of one hundred thousand dollars, unless, in case of war, to repel invasion or suppress
+  insurrection, it shall, in the law creating the debt, provide adequate ways and means for the
+  payment of the current interest and of the. principal when the same shall become due; and the
+  said law shall be irrepealable until principal and interest be full paid; or unless the repealing
+  law contain some adequate provision for the payment of the principal and interest of the debt.
+  
+  *** SEND ***
+  *** SSTART 112.0 006.0 0 LA 1868 ***
+  ART. 112. The general assembly shall provide by law for all change of venue in civil and
+  criminal cases.
+  
+  *** SEND ***
+  *** SSTART 113.0 006.0 0 LA 1868 ***
+  
+  ART. 113. The general assembly may enact general laws regulating the adoption of children,
+  emancipation of minors, and the granting of divorces; but no special law shall be passed
+  relating to particular or individual cases.
+  
+  *** SEND ***
+  *** SSTART 114.0 006.0 0 LA 1868 ***
+  
+  
+  ART. 114. Every law shall express its object or objects in its title.
+  
+  *** SEND ***
+  *** SSTART 115.0 006.0 0 LA 1868 ***
+  
+  ART. 115. No law shall be revived or amended by reference to its title; but in such case the
+  revived or amended section shall be re-enacted and published at length.
+  
+  *** SEND ***
+  *** SSTART 116.0 006.0 0 LA 1868 ***
+  
+  ART. 116. The general assembly shall never adopt any system or code of laws by general
+  reference to such system or code of laws; but in all cases shall specify the several provisions of
+  the law it may enact.
+  
+  *** SEND ***
+  *** SSTART 117.0 006.0 0 LA 1868 ***
+  
+  ART. 117. No person shall hold or exercise at the same time more than one office of trust or
+  profit, except that of justice of the peace or notary public.
+  
+  *** SEND ***
+  *** SSTART 118.0 006.0 0 LA 1868 ***
+  
+  ART. 118. Taxation shall be equal and uniform throughout the State. All property shall be
+  taxed in proportion to its value, to be ascertained as directed by law. The general assembly
+  shall have power to exempt from taxation property actually used for church, school, or
+  charitable purposes. The general assembly may levy an income-tax upon all persons pursuing
+  any occupation, trade, or calling. And all such persons shall obtain a license as provided by
+  law. All tax on income shall be pro rata on the amount of income or business done. And all
+  deeds of sale made, or that may be made, by collectors of taxes shall be received by courts in
+  evidence as prima facie valid sales. The general assembly shall levy a poll-tax on all male
+  inhabitants of this State, over twenty-one years old, for school and charitable purposes, which
+  tax shall never exceed one dollar and fifty cents per annum.
+  
+  *** SEND ***
+  *** SSTART 119.0 006.0 0 LA 1868 ***
+  
+  ART. 119. No liability, either State, parochial, or municipal, shall exist for any debts contracted
+  for or in the interest of the rebellion against the United States Government.
+  
+  *** SEND ***
+  *** SSTART 120.0 006.0 0 LA 1868 ***
+  
+  ART. 120. The general assembly may determine the mode of filling vacancies in all offices for
+  which provision is not made in this constitution.
+  
+  *** SEND ***
+  *** SSTART 121.0 006.0 0 LA 1868 ***
+  
+  ART. 121. The general assembly shall pass no law requiring a property qualification for office.
+  
+  *** SEND ***
+  *** SSTART 122.0 006.0 0 LA 1868 ***
+  
+  ART. 122. All officers shall continue to discharge the duties of their offices until their
+  successors shall have been inducted into office, except in cases of impeachment or suspension.
+  
+  *** SEND ***
+  *** SSTART 123.0 006.0 0 LA 1868 ***
+  
+  ART. 123. The general assembly shall provide for the protection of the rights of married
+  women to their dotal and paraphernal property, and for the registration of the same; but no
+  mortgage or privilege shall hereafter affect third parties, unless recorded in the parish where the
+  property to be affected is situated. The tacit mortgages and privileges now existing in this State
+  shall cease to have effect against third persons after the 1st day of January, 1870, unless duly
+  recorded. The general assembly shall provide by law for the registration of all mortgages and
+  privileges.
+  
+  *** SEND ***
+  *** SSTART 124.0 006.0 0 LA 1868 ***
+  
+  ART. 124. The general assembly, at its first session under this constitution, shall provide an
+  annual pension for the veterans of 1814 and 1815, residing in the State.
+  
+  *** SEND ***
+  *** SSTART 125.0 006.0 0 LA 1868 ***
+  ART. 125. The military shall be in subordination to the civil power.
+  
+  *** SEND ***
+  *** SSTART 126.0 006.0 0 LA 1868 ***
+  
+  ART. 126. It shall be the duty of the general assembly to make it obligatory upon each parish to
+  support all paupers residing within its limits.
+  
+  *** SEND ***
+  *** SSTART 127.0 006.0 0 LA 1868 ***
+  
+  ART. 127. All agreements, the consideration of which was confederate money, notes, or bonds,
+  are null and void, and shall not be enforced by the courts of this State.
+  
+  
+  *** SEND ***
+  *** SSTART 128.0 006.0 0 LA 1868 ***
+  
+  ART. 128. Contracts for the sale of persons are null and void, and shall not be enforced by the
+  courts of this State.
+  
+  *** SEND ***
+  *** SSTART 129.0 006.0 0 LA 1868 ***
+  
+  ART. 129. The State of Louisiana shall never assume nor pay any debt or obligation contracted
+  or incurred in aid of the rebellion; nor shall this State ever, in any manner, claim from the
+  United States, or make any allowance or compensation for slaves emancipated or liberated in
+  any way whatever.
+  
+  *** SEND ***
+  *** SSTART 130.0 006.0 0 LA 1868 ***
+  
+  ART. 130. All contracts made and entered into under the pretended authority of any
+  government heretofore existing in this State, by which children were bound out without the
+  knowledge or consent of their parents, are hereby declared null and void; nor shall any child be
+  bound out to any one for any term of years, while either one of its parents live, without the
+  consent of such parent, except in cases of children legally sent to the house of correction.
+  
+  *** SEND ***
+  *** SSTART 131.0 006.0 0 LA 1868 ***
+  
+  ART. 131. The seat of government shall be established at the city of New Orleans, and shall
+  not be removed without the consent of two-thirds of the members of both houses of the general
+  assembly.
+  
+  *** SEND ***
+  *** SSTART 132.0 006.0 0 LA 1868 ***
+  
+  ART. 132. All lands sold in pursuance of decrees of courts shall be divided into tracts of from
+  ten to fifty acres.
+  
+  *** SEND ***
+  *** SSTART 133.0 006.0 0 LA 1868 ***
+  
+  ART. 133. No judicial powers shall be exercised by clerks of courts.
+  
+  *** SEND ***
+  *** SSTART 134.0 006.0 0 LA 1868 ***
+  
+  ART. 134. No soldier, sailor, or marine, in the military or naval service of the United States,
+  shall hereafter acquire a residence in this State by reason of being stationed or doing duty in the
+  same.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 007.0 LA 1868 ***
+                             TITLE VII
+                                  
+                          PUBLIC EDUCATION
+  
+  *** SSTART 135.0 007.0 0 LA 1868 ***
+  
+  ART. 135. The general assembly shall establish at least one free public school in every parish
+  throughout the State, and shall provide for its support by taxation or otherwise. All children of
+  this State between the years of six and twenty-one shall be admitted to the public schools or
+  other institutions of learning sustained or established by the State in common, without
+  distinction of race, color, or previous condition. There shall be no separate schools or
+  institutions of learning established exclusively for any race by the State of Louisiana.
+  
+  *** SEND ***
+  *** SSTART 136.0 007.0 0 LA 1868 ***
+  
+  ART. 136. No municipal corporation shall make any rules or regulations contrary to the spirit
+  and intention of article 135.
+  
+  *** SEND ***
+  *** SSTART 137.0 007.0 0 LA 1868 ***
+  
+  ART. 137. There shall be elected by the qualified voters of this State a superintendent of public
+  education, who shall hold his office for four years. His duties shall be prescribed by law, and he
+  shall have the supervision and the general control of all public schools throughout the State. He
+  shall receive a salary of five thousand dollars per annum, payable quarterly, on his own
+  warrant.
+  
+  *** SEND ***
+  *** SSTART 138.0 007.0 0 LA 1868 ***
+  
+  ART. 138. The general exercises in the public schools shall be conducted in the English
+  language.
+  
+  *** SEND ***
+  *** SSTART 139.0 007.0 0 LA 1868 ***
+  
+  ART. 139. The proceeds of all lands heretofore granted by the United States for the use and
+  support of public schools, and of all lands or other property which may hereafter be bequeathed
+  for that purpose, and of all lands which may be granted or bequeathed to the State, and not
+  granted or bequeathed expressly for any other purpose, which may hereafter be disposed of by
+  the State, and the proceeds of all estates of deceased persons to which the State may be entitled
+  by law, shall be held by the State as a loan, and shall be and remain a perpetual fund, on which
+  the State shall pay an annual interest of 6 per cent., which interest, with the interest of the trust-
+  fund deposited with this State by the United States under the act of Congress approved June the
+  twenty-third, eighteen hundred and thirty-six, and the rent of the unsold land, shall be
+  appropriated to the support of such schools; and this appropriation shall remain inviolable.
+  
+  *** SEND ***
+  *** SSTART 140.0 007.0 0 LA 1868 ***
+  
+  ART. 140. No appropriation shall be made by the general assembly for the support or any
+  private school or any private institution of learning whatever.
+  
+  *** SEND ***
+  *** SSTART 141.0 007.0 0 LA 1868 ***
+  
+  ART. 141. One-half of the funds derived from the poll-tax herein provided for shall be
+  appropriated exclusively to the support of the free public schools throughout the State and the
+  University of New Orleans.
+  
+  *** SEND ***
+  *** SSTART 142.0 007.0 0 LA 1868 ***
+  
+  ART. 142. A university shall be established and maintained in the city of New Orleans. It shall
+  be composed of a law, a medical, and a collegiate department, each with appropriate faculties.
+  The general assembly shall provide by law for its organization and maintenance: Provided,
+  That all departments of this institution of learning shall be open in common to all students
+  capable of matriculating. No rules or regulations shall be made by the trustees, faculties, or
+  other officers of said institution of learning, nor shall any laws be made by the general
+  assembly violating the letter or spirit of the articles under this title.
+  
+  *** SEND ***
+  *** SSTART 143.0 007.0 0 LA 1868 ***
+  
+  ART. 143. Institutions for the support of the insane, the education and support of the blind and
+  the deaf and dumb, shall always be fostered by the State, and be subject to such regulations as
+  may be prescribed by the general assembly.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 008.0 LA 1868 ***
+  
+                             TITLE VIII
+                                  
+                              MILITIA
+  
+  *** SSTART 144.0 008.0 0 LA 1868 ***
+  
+  ART. 144. It shall be the duty of the general assembly to organize the militia of the State; and
+  all able-bodied male citizens, between the ages of eighteen and forty-five years, not
+  disfranchised by the laws of the United States and of this State, shall be subject to military
+  duty.
+  
+  *** SEND ***
+  *** SSTART 145.0 008.0 0 LA 1868 ***
+  
+  ART. 145. The governor shall appoint all commissioned officers, subject to confirmation or
+  rejection by the senate, except, the staff-officers, who shall be appointed by their respective
+  chiefs, and commissioned by the governor. All militia officers shall take and subscribe to the
+  oath prescribed for officers of the United States Army and the oath prescribed for officers in
+  this State.
+  
+  *** SEND ***
+  *** SSTART 146.0 008.0 0 LA 1868 ***
+  
+  ART. 146. The governor shall have power to call the militia into active service for the
+  preservation of law and order, or when the public safety may require it. The militia, when in
+  active service, shall receive the same pay and allowances, as officers and privates, as is
+  received by officers and privates in the United States Army.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 009.0 LA 1868 ***
+  
+                              TITLE IX
+                                  
+                 MODE OF REVISING THE CONSTITUTION
+  
+  
+  *** SSTART 147.0 009.0 0 LA 1868 ***
+  
+  ART. 147. Any amendment or amendments to this constitution may be proposed in the senate
+  or house of representatives, and if the same shall be agreed to by two-thirds of the members
+  elected to each house, such proposed amendment or amendments shall be entered on their
+  respective journals, with the yeas and nays taken thereon; and the secretary of state shall cause
+  the same to be published three months before the next general election for representatives to
+  the general assembly, in at least one newspaper in every parish of the State in which a
+  newspaper shall be published. And such proposed amendment or amendments shall be
+  submitted to the people at said election; and if a majority of the voters at said election shall
+  approve and ratify such amendment or amendments, the same shall become a part of this
+  constitution. If more than one amendment shall be submitted at one tine, they shall be
+  submitted in such manner and form that the people may vote for or against each amendment
+  separately.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 010.0 LA 1868 ***
+  
+                              TITLE X
+                                  
+                              SCHEDULE
+  
+  *** SSTART 148.0 010.0 0 LA 1868 ***
+  
+  ART. 148. The ordinance of secession of the State of Louisiana, passed 26th of January, 1861,
+  is hereby declared to be null and void. The constitution adopted in 1864, and all previous
+  constitutions in the State of Louisiana, are declared to be superseded by this constitution.
+  
+  *** SEND ***
+  *** SSTART 149.0 010.0 0 LA 1868 ***
+  
+  ART. 149. All rights, actions, prosecutions, claims, contracts, and all laws in force at the time
+  of the adoption of this constitution, and not inconsistent therewith, shall continue as if it had
+  not been adopted; all judgments and judicial sales, marriages, and executed contracts, made in
+  good faith and in accordance with existing laws in this State, rendered, made, or entered into,
+  between the 26th day of January, 1861, and the date when this constitution shall be adopted, are
+  hereby declared to be valid, except the following laws:
+  
+  An act to authorize the widening of the new canal and basin, approved March 14, 1867.
+  An act to amend and re-enact the 121st section of an act entitled "An act relative to crimes and  
+  offences," approved December 20, 1865.
+  
+  An act for the punishment of persons for tampering with, persuading, or enticing away,   
+  harboring, feeding, or secreting laborers, servants, or apprentices, approved December 21, 
+   1865.
+  
+  An act to punish, in certain cases the employers of laborers and apprentices, approved
+  December  21, 1865.
+  
+  An act in relation to exemption from State, parish, and city taxes, for the years 1862, 1863,
+  1864, and 1865, in certain cases, certified March 16, 1866.
+  
+  An act granting ferry privileges to C. K. Marshall, his heirs or assigns, approved March 10,     
+  1866.
+  
+  An act to authorize the board of levee commissioners, of the levee district in the parishes of     
+  Madison and Carroll, to issue bonds, &c., approved March 28, 1867.
+  
+  Section third of An act to organize the police of New Orleans, and to create a police-board         
+  therein, approved February 12, 1866.
+  
+  *** SEND ***
+  *** SSTART 150.0 010.0 0 LA 1868 ***
+  
+  ART. 150. The laws relative to the duties of officers shall remain in force, though contrary to
+  this constitution, and the several duties be performed by the respective officers, until the
+  organization of the government under this constitution.
+  
+  *** SEND ***
+  *** SSTART 151.0 010.0 0 LA 1868 ***
+  
+  ART. 151. The general assembly shall provide for the removal of causes now pending in the
+  courts of this State to courts created by or under this constitution.
+  
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 011.0 LA 1868 ***
+  
+                              TITLE XI
+                                  
+                             ORDINANCE
+  
+  *** SSTART 152.0 011.0 0 LA 1868 ***
+  
+  ART. 152. Immediately upon the adjournment of this convention this constitution shall be
+  submitted for ratification to the registered voters of the State, in conformity to the act of
+  Congress passed March 2, 1867, entitled "An act to provide for the more efficient government
+  of the rebel States," and the acts supplementary thereto.
+  
+  *** SEND ***
+  *** SSTART 153.0 011.0 0 LA 1868 ***
+  
+  ART. 153. The election for the ratification of the constitution shall be held on Friday and
+  Saturday, the 17th and 18th days of April, 1868, at, the places now prescribed by law; and the
+  polls shall be kept open from 7 o'clock a. m. to 7 o'clock p. m. At that election all those in favor
+  of ratifying the constitution shall have written or printed on their ballots " For the constitution;"
+  and those opposed to ratifying the constitution shall have written or printed on their ballots
+  "Against the constitution."
+  
+  *** SEND ***
+  *** SSTART 154.0 011.0 0 LA 1868 ***
+  
+  ART. 154. In order to establish a civil government, as required by act of Congress passed
+  March 23, 1867, an election shall be held, at the same time and place at which the constitution
+  is submitted for ratification, for all State, judicial, parish, and municipal officers, for members
+  of the general assembly, and for congressional Representatives, at which election the electors
+  who are qualified under the reconstruction acts of Congress shall vote, and none others:
+  Provided, That any elector shall be eligible to any office under any municipal corporation in
+  this State.
+  
+  *** SEND ***
+  *** SSTART 155.0 011.0 0 LA 1868 ***
+  
+  ART. 155. At the election for the ratification of the constitution, and for officers of the civil
+  government, as required by Congress, all registered electors may vote in any parish where they
+  have resided for ten days next preceding said election, and at any precinct in the parish, upon
+  presentation of their certificates of registration, affidavit, or other satisfactory evidence that
+  they are entitled to vote as registered electors.
+  
+  *** SEND ***
+  *** SSTART 156.0 011.0 0 LA 1868 ***
+  
+  ART. 156. The same registrars and commissioners who shall be appointed by the commanding
+  general of the fifth military district to superintend the election for the ratification or rejection of
+  the constitution, shall also, at the same time and place, superintend the election for all officers
+  and representatives herein ordered: Provided, They be authorized so to act by the commanding
+  general. And in case the commanding general should not so authorize said registrars and
+  commissioners, the committee of seven, appointed by this convention to take charge of the
+  whole matter of the ratification of the constitution and the election of civil officers, shall
+  appoint one registrar for each parish in the State, except the parish of Orleans, and one in each
+  district of the parish of Orleans, counting Orleans, right bank, as one district, who shall, each in
+  his parish or district, appoint a sufficient number of commissioners of election to hold the said
+  election for said civil officers and representatives at the same time and place as herein provided
+  for.
+  
+  *** SEND ***
+  *** SSTART 157.0 011.0 0 LA 1868 ***
+  ART. 157. Returns shall be made in duplicate, sworn to by the commissioners holding the
+  election, and forwarded within three days thereafter, to the registrars f the parish or district. The
+  registrars shall immediately forward one copy of said returns to the chairman of the committee
+  of seven appointed by this convention, who shall, within ten days after the last return has been
+  received, make proclamation of the result of said election.
+  
+  *** SEND ***
+  *** SSTART 158.0 011.0 0 LA 1868 ***
+  
+  ART. 158. All civil officers thus elected shall enter upon the discharge of their duties on the
+  second Monday after the return of their election shall have been officially promulgated, or as
+  soon as qualified according to law, and shall continue in office for the terms of their respective
+  offices herein prescribed, said terms to date from the first Monday in November following the
+  election.
+  
+  *** SEND ***
+  *** SSTART 159.0 011.0 0 LA 1868 ***
+  
+  ART. 159. The general assembly elected under this constitution shall hold its first session in
+  the city of New Orleans on the third Monday after the official promulgation aforesaid, and
+  proceed immediately upon its organization to vote upon the adoption of the fourteenth
+  amendment to the Constitution of the United States, proposed by Congress, and passed June
+  13, 1866. Said general assembly shall not have power to enact any laws relative to the per diem
+  of members, or any other subject, after organization, until said constitutional amendment shall
+  have been acted upon.
+  
+  *** SEND ***
+  *** SSTART 160.0 011.0 0 LA 1868 ***
+  
+  ART. 160. All registrars and commissioners appointed under this constitution shall, before
+  entering upon their duties, take and subscribe the oath of office prescribed by Congress,
+  approved July second, eighteen hundred and sixty-two, entitled "An act to prescribe an oath of
+  office; " the said oath of office shall be administered to each registrar by the chairman of the
+  committee of seven and to each commissioner by the registrar appointing him.
+  
+  *** SEND ***
+  *** SSTART 161.0 011.0 0 LA 1868 ***
+  
+  ART. 161. All registrars, commissioners, and other officers, necessary to carry into effect the
+  provisions of this ordinance, except as otherwise provided for by the reconstruction acts of
+  Congress, shall be paid out of any funds raised by virtue of the tax ordinance adopted by the
+  convention December twenty-fourth, eighteen hundred and sixty-seven, not otherwise
+  appropriated.
+  
+  *** SEND ***
+  *** AEND ***
+  
+  *** ASTART 9016.0 LA 1868 ***
+  
+  JAMES G. TALIAFERRO, President.
+  
+  WM. VIGERS, Secretary.
+                                
+  
+  *** AEND ***
+  
+  
+  *** MSTART 001 050.0 003.0 0 LA 1868 1870 ***
+  [Repealed by Acts 1870, No. 11.]
+  *** MEND ***
+  
+  *** MSTART 002 099.0 006.0 0 LA 1868 1870 ***
+  
+  TITLE VI. ART. 99. No person shall hold any office, or shall be permitted to vote at any     
+  election, or to act as a juror who, in due course of law, shall have been convicted of treason,     
+  perjury, forgery, bribery, or other crime, punishable by imprisonment in the penitentiary, or     
+  who shall have been under interdiction.
+  [Amended by Acts 1870, No. 85]
+  *** MEND ***
+  
+  *** MSTART 003 001.0 9099.0 0 LA 1868 1870 ***
+  
+  That no person who, at any time, may have been a collector of taxes, whether State,       
+  parish, or municipal, or who may have been otherwise entrusted with public money, shall be      
+  eligible to the General Assembly, or to any office of profit or trust under the State                       
+   government, until he shall have obtained a discharge for the amount of such collections, and
+  for all public moneys with which he may have been entrusted.
+     [Amended by Acts 1870, No. 21.]
+  
+  *** MEND ***
+  
+  *** MSTART 004 002.0 9099.0 0 LA 1868 1870 ***
+   SEC. 2. That prior to the first day of January, 1890, the debt of the State shall not be so     
+  increased as to exceed twenty-five millions of dollars.
+  [Amended by Acts 1870, No. 12]
+  *** MEND ***
+  
+  *** MSTART 005 162.0 011.0 0 LA 1868 1874 ***
+  
+  ART. [162]. SEC. 1. The issue of consolidated bonds authorized by the General Assembly of
+  the 
+  State, at its regular session in the year 1874, is hereby declared to create a valid contract     
+  between the State and each and every holder of said bonds, which the State shall by no means    
+  
+  and in no wise impair. The said bonds shall be a valid obligation of the State in favor of any     
+  holder thereof, and no court shall enjoin the payment of the principal or interest thereof, or the   
+  
+  levy and collection of the tax therefor; to secure such levy, collection, and payment the     
+  judicial power shall be exercised when necessary. The tax required for the payment of the     
+  principal and interest of said bonds shall be assessed and collected each and every year until     
+  the bonds shall be paid, principal and interest, and the proceeds shall be paid by the treasurer     
+  
+  of the State to the holders of said bonds as the principal and interest of the same shall fall due,   
+   and no further legislation or appropriation shall be requisite for the said assessment and     
+  collection and for such payment from the treasury.
+  
+   SEC. 2. Whenever the debt of the State shall have been reduced below twenty-five million     
+  dollars, the constitutional limit shall remain at the lowest point reached, beyond which the     
+  public debt shall not thereafter be increased; and this rule continue in operation until the debt     
+  is reduced to fifteen million dollars, beyond which it shall not be increased. Nor shall taxation   
+   
+  for all State purposes, excepting the support of public schools, ever exceed twelve and a half     
+  mills on the dollar of the assessed valuation of the real and personal property in the State,     
+  except in case of war or invasion.
+  
+   SEC. 3. The revenue of each year derived from taxation upon real, personal, and mixed     
+  property, or from licenses, shall be devoted solely to the expenses of the said year for which it    
+  
+  shall be raised, excepting any surplus remain, which shall be directed to sinking the public     
+  debt. All appropriations and claims in excess of revenue shall be null and void, and the State     
+  shall in no manner provide for their payment.
+  *** MEND ***
+  
+  *** MSTART 006 163.0 011.0 0 LA 1868 1874 *** 
+  
+  ART. [163]. The city of New Orleans shall not hereafter increase her debt in any manner or
+  form or under any pretext. After the first day of January, 1875, no evidence of indebtedness or   
+   
+  warrant for payment of money shall be issued by any officer of said city, except against cash     
+  actually in the treasury; but this shall not be so construed as to prevent a renewal of matured     
+  bonds at par, or the issue of new bonds in exchange for other bonds, provided the city debt be    
+   not thereby increased, nor to prevent the issue of drainage warrants to the transferee of      
+  contract, under act No. 30, of 1871, payable only from drainage taxes, and not otherwise; any     
+  person violating the prohibitions [provisions] of this article shall, on conviction, be by     
+  imprisonment for not less two nor more than ten years, and by fine of not less than three     
+  dollars nor more than ten thousand dollars.
+  [Added by Acts 1874, No. 22]
+  *** MEND ***
+  
+  *** MSTART 007 017.0 002.0 0 LA 1868 1874 ***
+  
+  TITLE II. ART. 17. Strike out the words " first Monday " and insert the words " first Tuesday    
+  
+  after the first Monday."
+  [Amended by Acts 1874, No. 64.]
+  *** MEND ***
+  
+  *** MSTART 008 003.0 9099.0 0 LA 1868 1878 ***
+  
+       That the seat of government shall be established at the city of Baton Rouge or at the city of
+  New Orleans, as the majority of the voters of the State may determine at the next ensuing
+  election; those voting to locate the State capital at Baton Rouge shall endorse on their tickets,
+  "For State Capital, Baton Rouge;" those voting to locate the capital at New Orleans shall
+  endorse on their tickets, "For State Capital, New Orleans."
+      Strike out article one hundred and thirty-one.
+  [Added by Acts 1878, No. 73.]
+  
+  ***MEND***
+  
+  ***MSTART 009 131.0 006.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 010 004.0 9099.0 0 LA 1868 1878 ***
+  
+                     AMENDMENT NUMBER ONE.
+                                
+       Representatives shall be chosen on the first Tuesday after the first Monday in
+  November, every two years, and the election shall be completed in one day.  The General
+  Assembly shall meet on the first Monday in January, 1879, and biennially thereafter, on the
+  first Monday in January, unless a different day be appointed by law, and their sessions shall be
+  held at the seat of government.  
+       (Strike out article seventeen.)
+  [Added by Acts 1878, No. 74.]
+  *** MEND ***
+  
+  *** MSTART 011 017.0 002.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 012 005.0 9099.0 0 LA 1868 1878 ***
+  
+                      AMENDMENT NUMBER TWO
+  
+       After the year 1878, the General Assembly shall not have power to levy in any one year
+  for all State purposes more than one per centum taxation, nor shall any collection of more than
+  one per centum taxation be made in any one year, on the actual cash value of all real and
+  personal property liable to taxation, except in case of a foreign invasion, or a domestic
+  insurrection, and in that event any additional taxation shall only be for the immediate purpose
+  of repelling invasion or suppressing insurrection.  The city of New Orleans shall not levy or
+  collect in any one year more than one and one-half per centum taxation on the actual cash value
+  of all real and personal property liable to taxation within its limits.  No parish or municipal
+  corporation, except the city of New Orleans, shall levy or collect in any one year more than one
+  per centum taxation upon the actual cash value of all the real and personal property liable to
+  taxation within its limit.  The General Assembly shall not have power to issue any bond or
+  pledge the faith of the State for any purpose, nor shall it authorize any parish or municipal
+  corporation to issue any bond or create any debt; provided, that this shall not prohibit the issue
+  of new bonds in exchange for old bond, where the debt or rate of interest is not increased.
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  
+  *** MSTART 013 006.0 9099.0 0 LA 1868 1878 ***
+  
+                     AMENDMENT NUMBER THREE
+                                
+       The members of the General Assembly shall be paid a salary of five hundred dollars
+  ($500) per session, and actual travelling expenses by the nearest practical route, not to exceed
+  fifty dollars ($50) for any one member; provided, that if two sessions are held in the same year
+  they shall receive for the second session in that year a salary of only two hundred and fifty
+  dollars ($250) and actual travelling expenses by the nearest practicable route, not to exceed
+  fifty dollars ($50) for any one member.  The regular biennial session shall not exceed ninety
+  days in duration, unless by vote of two-thirds of the members elected to each house of the
+  General Assembly.
+       (Strike out article thirty-nine.)
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 014 039.0 002.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 015 007.0 9099.0 0 LA 1868 1878 ***
+  
+                     AMENDMENT NUMBER FOUR
+                                
+       The General Assembly shall not pass any local or special law changing the venue in
+  criminal cases, changing the manner of persons legitimating children, vacating roads, streets, or
+  alleys, remitting fines, penalties, and forfeitures, or refunding moneys legally paid into the
+  treasury: affecting the estates of minors, or persons under disability, exempting property from
+  taxation, creating any monopoly, legalizing the unauthorized or invalid acts of any officer or
+  agent of the State, or of any parish or municipality; granting any extra compensation to any
+  public officer, agent, or contractor, after the service has been rendered or contracted for;
+  changing any parish seat, or creating new parishes, except by the assent of the majority of the
+  qualified electors of the parish, or parishes, to be affected; in all other cases, where a general
+  law can be make applicable, no local or special law shall be passed.
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 016 008.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER FIVE
+  
+       The Governor shall receive a salary of seven thousand dollars per annum, payable
+  quarterly, on his own warrant.
+       (Strike out article fifty six)
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 017 056.0 003.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 018 009.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER SIX
+  
+       The Lieutenant Governor shall receive a salary which shall be double that of a member
+  of the General Assembly.
+       (Strike out article fifty seven).
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 019 057.0 003.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 020 010.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER SEVEN
+  
+       Every bill which shall have passed both houses shall be presented to the Governor; if he
+  approve it, he shall sign it; if he does not, he shall return it, with his objections, to the house in
+  which it originated, which shall enter the objections at large upon its journal, and proceed to
+  reconsider it.  If, after such reconsideration, two-thirds of all the members present in that house
+  shall agree to pass the bill, it shall be sent with the objections, to the other house, by which it
+  shall likewise be reconsidered, and if approved by two-thirds of the members present in that
+  house, it shall be a law.  But in such cases the vote of both houses shall be determined by yeas
+  and nays, and the names of members voting for or against the bill shall be entered upon the
+  journal of each house respectively.  If any bill shall not be returned by the Governor within five
+  days after it shall have been presented to him, it shall be a law, in like manner as if he had
+  signed it, unless the General Assembly, by adjournment, prevent its return; in which case,
+  within thirty days, the Governor shall file the same, with his objections thereto, in the office of
+  the Secretary of State, and give public notice thereof; otherwise it shall become a law, as if he
+  had signed it.  The Secretary of State shall communicate said objections and bill so deposited to
+  the house in which it originated on the first day of the meeting of the next General Assembly,
+  who shall act upon the same as above provided.  The Governor shall have power to veto one or
+  more items in any bill appropriating money, embracing distinct items, while approving other
+  portions of the bill, and the part or parts of the bill approved shall become law, and the item or
+  items of appropriations disapproved shall be void, unless repassed according to the rules and
+  limitations prescribed for the passage of other bills over the Governor's veto.
+       (Strike out article sixty-six).
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 021 066.0 003.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 022 011.0 9099.0 0 LA 1868 1878 ***
+   
+  AMENDMENT NUMBER EIGHT
+  
+       No officer, whose salary is fixed by the Constitution, shall be allowed any fees or
+  perquisites of office.
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 023 012.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER NINE
+  
+       The judicial power shall be vested in a supreme court, in district courts, and in justices
+  of the peace.  The district courts shall have original jurisdiction in all civil cases where the
+  amount in dispute exceeds one hundred dollars, exclusive of interest.  In criminal cases, and in
+  all probate matters, their jurisdiction shall be unlimited.  They shall have appellate jurisdiction
+  in civil suits from justices of the peace, when the amount in dispute exceeds ten dollars,
+  exclusive of interest.  The justices of the peace shall be elected by the electors of each parish in
+  the manner and with the qualifications to be determined by the General Assembly.  They shall
+  hold office for the term of two years, and their compensation shall be fixed by law.  Their
+  jurisdiction in civil cases shall not exceed one hundred dollars, exclusive of interest, subject to
+  an appeal to the district court in all cases when the amount in dispute shall exceed ten dollars,
+  exclusive of interest.  They shall have such criminal jurisdiction as shall be conferred by law. 
+  The General Assembly shall have power to vest in the clerks of the district courts the right to
+  grant such orders and do such acts as may be deemed necessary for the furtherance of the
+  administration of justice.  In all cases the power thus granted shall be specified and determined.
+       (Strike out articles seventy-three, eighty-five, eighty-six, eighty-seven, eighty-eight,
+  eighty-nine, ninety-one, and one hundred and thirty-three)
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 024 073.0 004.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 025 085.0 004.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 026 086.0 004.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 027 087.0 004.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 028 088.0 004.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 029 089.0 004.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 030 091.0 004.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 031 133.0 006.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 032 013.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER TEN
+  
+       The Chief Justice of the Supreme Court shall receive a salary of seven thousand dollars
+  per annum, and the Associate Justices of the Supreme Court each receive a salary of six
+  thousand five hundred dollars per annum, payable quarterly on their own warrant.
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 033 014.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER ELEVEN
+  
+       The General Assembly shall divide the State into judicial districts, which shall remain
+  unchanged for four years, and for each district on judge, learned in the law, shall be elected by
+  a plurality of qualified electors thereof.  For each district there shall be one district court,
+  except in the parish of Orleans, in which the General Assembly may establish as many district
+  courts as the public interest may require, not to exceed the number now authorized by existing
+  laws, except by a two-thirds vote of all the members elected to both branches of the General
+  Assembly.  Until otherwise provided by law, the district courts now existing in the parish of
+  Orleans shall have the jurisdiction at present conferred by law, no redistricting or change shall
+  be made so as to take effect during the incumbency of any judge.  The number of districts in the
+  State shall not be less than thirty nor more than forty-five.  The General Assembly shall provide
+  by law for at least four terms annually of the district court in every parish.  The General
+  Assembly shall have power to create circuit courts, to be constituted by grouping the district
+  courts into circuits, and composing the circuit court of the judges of the district courts within
+  such circuits.  To direct the place or places of meeting of said circuit courts so constituted, and
+  to vest said circuit courts with appellate jurisdiction from the district courts within the circuit
+  where the amount involved exceeds one hundred dollars ($100) exclusive of interest, and does
+  not exceed five hundred dollars ($500) exclusive of interest.  The General Assembly shall have
+  power, by a two thirds vote of all the members elected to both houses, to restrict the appellate
+  jurisdiction of the Supreme Court to causes where the amount involved exceed one thousand
+  dollars ($1000) exclusive of interest; and in case of such restriction, the circuit courts so to be
+  created shall have appellate jurisdiction of the class of cases thus excluded from the appellate
+  jurisdiction of the Supreme Court.  The clerks of the district courts shall be elected by the
+  qualified voters of their respective parishes, and shall hold their office for four years.
+       (Strike out article eighty-three).
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 034 083.0 004.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 035 015.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER TWELVE
+  
+       Each of the district judges shall receive a salary, to be fixed by law, which, except in the
+  parish of Orleans, shall not be less than two thousand dollars, nor more than three thousand
+  dollars per annum, payable quarterly on his warrant, and which shall nor be increased nor
+  diminished during his term of office.  He must be a citizen of the United States, over the age of
+  twenty-five years, and have resided in the State and practiced law therein for the space of two
+  years next preceding his election.  The judges of the district courts shall hold their appointment
+  for the term of four years.  In the parish of Orleans the annual salary of the district judges shall
+  not exceed five thousand dollars, to be paid as above provided.
+       (Strike out article eighty-four.)
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 036 084.0 004.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  
+  *** MSTART 037 016.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER THIRTEEN
+  
+       In lieu of the office of district attorney, established by article ninety-two of the
+  Constitution of 1868, there shall be elected, by the qualified voters of each parish, a State's
+  attorney therefor: who shall be a citizen of the United States, and who shall have been a
+  resident of the State, and a practicing and duly licensed attorney at law, for at least two years. 
+  He shall receive a salary from the State of nor less than three nor more than seven hundred
+  dollars per annum, to be provided by law upon the basis of representation in the House of
+  Representatives, and payable quarterly on his own warrant.  He shall be ex-officio attorney of
+  the parish, and receive such salary therefrom as may be fixed by the parochial authorities, not
+  to exceed seven hundred dollars per annum.  He shall moreover, receive such fees of office as
+  may be allowed by law.  In the city of New Orleans the State's attorney shall receive such
+  compensation from the city, in addition to the salary above provided, as may be established by
+  law.  He shall be elected at the same time with the judges of the district courts, and shall hold
+  his office for the term of four years.  
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 038 017.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER FOURTEEN
+  
+       In every case where the judge may be recused, and when his is not personally interested
+  in the matters of contestation, he shall select a lawyer, having the necessary qualifications
+  required for a judge of his court, to try such cases; and the General Assembly shall provide by
+  law for the trail of those cases in which the judge may be personally interested, or when he may
+  be absent or refuses to act.
+       (Strike out article ninety.)
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 039 090.0 004.0 0 LA 1868 1878 ***
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 040 018.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER FIFTEEN
+  
+       In order to provide for the establishment of the judicial system created by the above
+  amendments, and to prevent the evils of an interregnum, it is hereby ordained by the people of
+  Louisiana:
+       First That the General Assembly, which meets the first Monday in January, 1879,
+  shall, in accordance with the foregoing amendments, immediately redistrict the State, and
+  provide for the authority of clerks, and the election and criminal jurisdiction of justices of the
+  peace.
+       Second That as soon as the Legislature shall have acted as aforesaid, the Governor
+  shall by proclamation call an election for justices of the peace for each parish, except the parish
+  of Orleans, and for district judges, in each district created by the redistricting, where one or
+  more parishes have been added, or taken from the existing judicial district, and for State
+  attorneys, as above provided, except in the parish of Orleans, where the district attorney for the
+  parish shall be State attorney.  This election shall be held on the same day throughout the State,
+  which day shall not be less than sixty, nor more than ninety days after the passage of said Act. 
+  The terms of the officers elected at said election shall expire at the general election of 1880.
+       Third That the judicial system, as established by the Constitution of 1868, shall
+  remain in force until the expiration of the thirtieth day after said election, excluding from the
+  computation the day of the election.
+       Fourth The adoption of these amendments shall not vacate the offices of the present
+  clerks of courts in each parish.
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 041 132.0 006.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER SIXTEEN
+  
+       Article one hundred and thirty-two of the Constitution of 1868 shall be abrogated.
+  [Repealed by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 042 019.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER SEVENTEEN
+  
+       The superintendent of Public Education shall receive a salary of thirty-five hundred
+  dollars, payable quarterly upon his own warrant.
+  
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 043 020.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER EIGHTEEN
+  
+       No license tax shall be imposed by the State, or any parish or municipal authority, on
+  any mechanical trade, manufactory, or factory, except such as may require police[?]
+  regulations, in towns and cities.
+  [Added by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  *** MSTART 044 021.0 9099.0 0 LA 1868 1878 ***
+  
+  AMENDMENT NUMBER NINETEEN
+  
+       The Legislature is authorized to exempt from State, municipal, or parish taxation
+  household goods, such as furniture, wearing apparel, tools of trade, or profession, and family
+  portraits, not exceeding in aggregate value the sum of five hundred dollars.  
+  [Amended by Acts 1878, No. 73.]
+  *** MEND ***
+  
+  
+  
+  *** CEND ***
+  

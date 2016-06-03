@@ -1,0 +1,2921 @@
+This is ready to go
+
+JW 1.9.02
+
+
+*** CSTART IN 11/01/1851 99/99/9999 ***
+
+CONSTITUTION OF INDIANA 1851  
+
+*** ASTART 9001.0 IN 1851 ***
+
+PREAMBLE
+
+*** SSTART 001.0 9001.0 0 IN 1851 ***
+
+To the end that justice be established, public order maintained, and liberty perpetuated: We, the
+people of the State of Indiana, grateful to Almighty God for the free exercise of the right to
+choose our own form of government, do ordain this Constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 001.0 IN 1851 ***
+
+ARTICLE I
+
+BILL OF RIGHTS
+
+*** SSTART 001.0 001.0 0 IN 1851 ***
+
+SECTION 1. We declare that all men are created equal; that they are endowed by their Creator
+with certain unalienable rights; that among these are life, liberty, and the pursuit of happiness; that
+all power is inherent in the people; and that all free governments are, and of right ought to be,
+founded on their authority, and instituted for their peace, safety, and well being. For the
+advancement of these ends, the people have at all times an indefeasible right to alter and reform
+their government.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 IN 1851 ***
+
+SEC. 2. All men shall be secured in their natural right to worship Almighty God according to the
+dictates of their own consciences.
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 IN 1851 ***
+
+SEC. 3. No law shall, in any case whatever, control the free exercise and enjoyment of religious
+opinions, or interfere with the rights of conscience.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 IN 1851 ***
+
+SEC. 4. No preference shall be given, by law, to any creed, religious society or mode of worship;
+and no man shall be compelled to attend, erect or support any place of worship, or to maintain
+any ministry against his consent.
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 IN 1851 ***
+
+SEC. 5. No religious test; shall be required as a qualification for any office of trust or profit.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 IN 1851 ***
+
+SEC. 6. No money shall be drawn from the treasury for the benefit of any religious or theological
+institution.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 IN 1851 ***
+
+SEC. 7. No person shall be rendered incompetent as a witness, in consequence of his opinion on
+matters of religion.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 IN 1851 ***
+
+SEC. 8. The mode of administering an oath or affirmation shall be such as may be most consistent
+with, and binding upon, the conscience of the person to whom such oath or affirmation may be
+administered.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 IN 1851 ***
+
+SEC. 9. No law shall be passed restraining the free interchange of thought and opinion, or
+restricting the right to speak, write, or print, freely, on any subject whatever; but for the abuse of
+that right every person shall be responsible.
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 IN 1851 ***
+
+SEC. 10. In all prosecutions for libel, the truth of the matters alleged to be libelous may be given
+in justification.
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 IN 1851 ***
+
+SEC. 11. The right of the people to be secure in their persons, houses, papers and effects, against
+unreasonable search or seizure shall not be violated,and no warrant shall issue, but upon probable
+cause, supported by oath or affirmation, and particularly describing the place to be searched, and
+the person or thing to be seized.
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 IN 1851 ***
+
+SEC. 12. All courts shall be open; and every man, for injury done to him, in his person, property
+or reputation, shall have remedy by due course of law. Justice shall be administered freely and
+without purchase; completely, and without denial; speedily, and without delay.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 IN 1851 ***
+
+SEC. 13. In all criminal prosecutions the accused shall have the right to a public trial, by an
+impartial jury in the count in which the offense shall have been committed; to be heard by himself
+and counsel; to demand the nature and cause of the accusation against him, and to have a copy
+thereof; to meet the witnesses face to face, and to have compulsory process for obtaining
+witnesses in his favor.
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 IN 1851 ***
+
+SEC. 14. No person shall be put in jeopardy twice for the same offense. No person, in any
+criminal prosecution, shall be compelled to testify against himself.
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 IN 1851 ***
+
+SEC. 15. No person arrested, or confined in jail, shall be treated with unnecessary rigor.
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 IN 1851 ***
+
+SEC. 16. Excessive bail shall not be required. Excessive fines shall not be imposed. Cruel and
+unusual punishment shall not be inflicted. All penalties shall be proportioned to the nature of the
+offense.
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 IN 1851 ***
+
+SEC. 17. Offenses, other than murder or treason, shall be bailable by sufficient sureties. Murder
+or treason shall not be bailable when the proof is evident, or the presumption strong.
+
+*** SEND ***
+*** SSTART 018.0 001.0 0 IN 1851 ***
+
+SEC. 18. The penal code shall be founded on the principles of reformation, and not of vindictive
+justice.
+
+*** SEND ***
+*** SSTART 019.0 001.0 0 IN 1851 ***
+
+SEC. 19. In all criminal cases whatever, the jury shall have the right to determine the law and the
+facts. 
+
+*** SEND ***
+*** SSTART 020.0 001.0 0 IN 1851 ***
+
+SEC. 20. In all civil cases the right of trial by jury shall remain inviolate.
+
+*** SEND ***
+*** SSTART 021.0 001.0 0 IN 1851 ***
+
+SEC. 21. No man's particular services shall be demanded without just compensation.  No man's
+property shall be taken by law without just compensation; nor, except in case of the State, without
+such compensation first assessed and tendered.
+
+*** SEND ***
+*** SSTART 022.0 001.0 0 IN 1851 ***
+
+SEC. 22. The privilege of the debtor to enjoy the necessary comforts of life shall be recognized by
+wholesome laws, exempting a reasonable amount of property from seizure or sale for the payment
+of any debt or liability hereafter contracted, and there shall be no imprisonment for debt, except in
+case of fraud.
+
+*** SEND ***
+*** SSTART 023.0 001.0 0 IN 1851 ***
+
+SEC. 23. The General Assembly shall not grant to any citizen, or class of citizens, privileges or
+immunities which, upon the same terms, shall not equally belong to all citizens.
+
+*** SEND ***
+*** SSTART 024.0 001.0 0 IN 1851 ***
+
+SEC. 24. No ex post facto law, or law impairing the obligation of contract, shall ever be passed.
+
+*** SEND ***
+*** SSTART 025.0 001.0 0 IN 1851 ***
+
+SEC. 25. No law shall be passed, the taking effect of which shall be made to depend upon any
+authority, except as provided in this Constitution.
+
+*** SEND ***
+*** SSTART 026.0 001.0 0 IN 1851 ***
+
+SEC. 26. The operation of the laws shall never be suspended except by the authority of the
+General Assembly.
+
+*** SEND ***
+*** SSTART 027.0 001.0 0 IN 1851 ***
+
+SEC. 27. The privileges of the writ of habeas corpus shall not be suspended, except in case of
+rebellion or invasion, and then only if the public safety demand it.
+
+*** SEND ***
+*** SSTART 028.0 001.0 0 IN 1851 ***
+
+SEC. 28. Treason against the State shall consist only in levying war against it, and giving aid and
+comfort to its enemies.
+
+*** SEND ***
+*** SSTART 029.0 001.0 0 IN 1851 ***
+
+SEC. 29. No person shall be convicted of treason, except on the testimony of two witnesses to
+the same overt act, or upon his confession in open court.
+
+*** SEND ***
+*** SSTART 030.0 001.0 0 IN 1851 ***
+
+SEC. 30. No conviction shall work corruption of blood or forfeiture of estate.
+
+*** SEND ***
+*** SSTART 031.0 001.0 0 IN 1851 ***
+
+SEC. 31. No law shall restrain any of the inhabitants of the State from assembling together, in a
+peaceable manner, to consult for their common good; nor from instructing their representatives;
+nor from applying to the General Assembly for redress of grievances.
+
+*** SEND ***
+*** SSTART 032.0 001.0 0 IN 1851 ***
+
+SEC. 32. The people shall have a right to bear arms for the defense of themselves and the State.
+
+*** SEND ***
+*** SSTART 033.0 001.0 0 IN 1851 ***
+
+SEC. 33. The military shall be kept in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 034.0 001.0 0 IN 1851 ***
+
+SEC. 34. No soldier shall, in time of peace, be quartered in any house without the consent of the
+owner; nor in time of war but in a manner to be prescribed by law.
+
+*** SEND ***
+*** SSTART 035.0 001.0 0 IN 1851 ***
+
+SEC. 35. The General Assembly shall not grant any title of nobility, nor confer hereditary
+distinction.
+
+*** SEND ***
+*** SSTART 036.0 001.0 0 IN 1851 ***
+
+SEC. 36. Emigration from the State shall not be prohibited.
+
+*** SEND ***
+*** SSTART 037.0 001.0 0 IN 1851 ***
+
+SEC. 37. There shall be neither slavery nor involuntary servitude, within the State, otherwise than
+for the punishment of crime, whereof the party shall have been duly convicted.  No indenture of
+any negro or mulatto, made or executed out of the bounds of the State, shall be valid within the
+State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 IN 1851 ***
+
+ARTICLE II
+
+SUFFRAGE AND ELECTION
+
+*** SSTART 001.0 002.0 0 IN 1851 ***
+
+SECTION 1. All elections shall be free and equal
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 IN 1851 ***
+
+SEC. 2. In all elections not otherwise provided for by this Constitution, every white male citizen
+of the United States, of the age of twenty-one years and upwards, who shall have resided in the
+State during the six months immediately preceding such election; and every white male, of foreign
+birth, of the age of twenty-one years and upwards, who shall have resided in the United Sates one
+year, and shall have resided in this State during the six months immediately preceding such
+election, and shall have declared his intention to become a citizen of the United States,
+conformably to the laws of the United States on the subject of naturalization; shall be entitled to
+vote in the township or precinct where he may reside.
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 IN 1851 ***
+
+SEC. 3. No soldier, seaman or marine, in the army or navy of the United States, or their allies,
+shall be deemed to have acquired a residence in this State in consequence of having been stationed
+within the same; nor shall any such soldier, seaman or marine, have the right to vote.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 IN 1851 ***
+
+SEC. 4. No person shall be deemed to have lost his residence in the State by reason of his absence
+either on business of the State or of the United States.
+
+*** SEND ***
+*** SSTART 005.0 002.0 0 IN 1851 ***
+
+SEC. 5.  No Negro or Mulatto shall have the right of suffrage.
+
+*** SEND ***
+*** SSTART 006.0 002.0 0 IN 1851 ***
+
+SEC. 6. Every person shall be disqualified from holding office, during the term for which he may
+have been elected, who shall have given or offered a bribe, threat, or reward to procure his
+election.
+
+*** SEND ***
+*** SSTART 007.0 002.0 0 IN 1851 ***
+
+SEC. 7. Every person who shall give or accept a challenge to fight a duel, or who shall knowingly
+carry to another person such challenge, or who shall agree to go out of the State to fight a duel,
+shall be ineligible to any office or trust or profit.
+
+*** SEND ***
+*** SSTART 008.0 002.0 0 IN 1851 ***
+
+SEC. 8. The General Assembly shall have power to deprive of the right of suffrage, and to render
+ineligible any person convicted of an infamous crime.
+
+*** SEND ***
+*** SSTART 009.0 002.0 0 IN 1851 ***
+
+SEC. 9. No person holding a lucrative office or appointment, under the United States, or under
+this State, shall be eligible to a seat in the General Assembly; nor shall any person hold more than
+one lucrative office at the same time, except as in this Constitution expressly permitted: Provided,
+That offices in the militia, to which there is attached no annual salary, and the office of Deputy
+Postmaster, where the compensation does not exceed ninety dollars per annum, shall not be
+deemed lucrative; And provided, also, That counties containing less than one thousand polls may
+confer the office of Clerk, Recorder and Auditor, or any two of said office, upon the same person.
+
+*** SEND ***
+*** SSTART 010.0 002.0 0 IN 1851 ***
+
+SEC. 10. No person who may hereafter be a collector or holder of public moneys, shall be eligible
+to any office of trust or profit until he shall have accounted for and paid over, according to law,
+all sums for which he may be liable.
+
+*** SEND ***
+*** SSTART 011.0 002.0 0 IN 1851 ***
+
+SEC. 11. In all cases in which it is provided that, in office shall not be filled by the same person
+more than a certain number of years continuously, an appointment pro tempore shall not be
+reckoned a part of that term.
+
+*** SEND ***
+*** SSTART 012.0 002.0 0 IN 1851 ***
+
+SEC. 12. In all cases, except treason, felony and breach of the peace, electors shall be free from
+arrest in going to elections, during their attendance there, and in returning from the same.
+
+*** SEND ***
+*** SSTART 013.0 002.0 0 IN 1851 ***
+
+SEC. 13. All elections by the people shall be by ballot, and all elections by the General Assembly,
+or by either branch thereof, shall be viva voce.
+
+*** SEND ***
+*** SSTART 014.0 002.0 0 IN 1851 ***
+
+SEC. 14. All general elections shall be held on the second Tuesday in October.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 IN 1851 ***
+
+ARTICLE III
+
+DISTRIBUTION OP POWERS
+
+*** SSTART 001.0 003.0 0 IN 1851 ***
+
+SECTION 1. The powers of the Government are divided into three separate departments: the
+Legislative, the Executive including the Administrative, and the Judicial; and no person charged
+with official duties under one of these departments, shall exercise any of the functions of another
+except as in this Constitution expressly provided.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 IN 1851 ***
+
+ARTICLE IV
+
+LEGISLATIVE
+
+*** SSTART 001.0 004.0 0 IN 1851 ***
+
+SECTION 1. The Legislative authority of the State shall be vested in a General Assembly, which
+shall consist of a Senate and House of Representatives. The style of every law shall be, "Be it
+enacted by the General Assembly of the State of Indiana;"  and no law shall be enacted except by
+bill.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 IN 1851 ***
+
+SEC. 2. The Senate shall not exceed fifty, nor the House of Representatives one hundred
+members; and they shall be chosen by the electors of the respective counties or districts into which
+the State may, from time to time, be divided.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 IN 1851 ***
+
+SEC. 3. Senators shall be elected for the term of four years, and Representatives for the term of
+two years, from the day next after their general election: Provided, however, That the Senators
+elect,at the second meeting of the General Assembly under this Constitution, shall be divided, by
+lot, into two equal classes, as nearly as may be; and the seats of Senators of the first class shall be
+vacated at the expiration of two years, and those of the second class at the expiration of four
+years; so that one-half, as nearly as possible shall be chosen biennially forever thereafter. And in
+case of increase in the number of Senators, they shall be so annexed by lot, to the one or the other
+of the two classes, as to keep them as nearly equal as practicable.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 IN 1851 ***
+
+SEC. 4. The General Assembly shall, at its second session after the adoption of this Constitution,
+and every sixth year thereafter, cause an enumeration to be made of all the white male inhabitants
+over the age of twenty-one years.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 IN 1851 ***
+
+SEC. 5. The number of Senators and Representatives shall, at the session next following each
+period of making such enumeration, be fixed by law, and apportioned among the several counties,
+according to the number of white male inhabitants, above twenty-one years of age, in each:
+Provided, That the first and second elections of members of the General Assembly, under this
+Constitution, shall be according to the apportionment last made by the General Assembly, before
+the adoption of this Constitution.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 IN 1851 ***
+
+SEC. 6. A Senatorial or Representative district, where more than one county shall constitute a
+district, shall be composed of contiguous counties; and no county, for Senatorial apportionment,
+shall ever be divided.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 IN 1851 ***
+
+SEC. 7. No person shall be a Senator or a Representative, who, at the time of his election, is not a
+citizen of the United States; nor any one who has not been, for two years next preceding his
+election, an inhabitant of this State, and for one year next preceding his election, an inhabitant of
+the county or district whence he may be chosen. Senators shall be at least twenty-five, and
+Representatives at least twenty-one years of age.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 IN 1851 ***
+
+SEC. 8. Senators and Representatives, in all cases except treason, felony, and breach of the peace,
+shall be privileged from arrest during the session of the General Assembly, and in going to and
+returning from the same; and shall not be subject to any civil process during the session of the
+General Assembly, nor during the fifteen days next before the commencement thereof. For any
+speech or debate in either House, a member shall not be questioned in any other place.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 IN 1851 ***
+
+SEC. 9. The sessions of the General Assembly shall be held biennially, at the capital of the State,
+commencing on the Thursday next after the first Monday of January, in the year one thousand
+eight hundred and fifty-three, and on the same day of every second year thereafter, unless a
+different day or place shall have been appointed by law. But if, in the opinion of the Govern the
+public welfare shall require it, he may, at any time, by proclamation, call a special session.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 IN 1851 ***
+
+SEC. 10. Each House, when assembled, shall choose its own officers (the President of the Senate
+excepted), judge the elections, qualifications and returns of its own members, determine its rules
+of proceeding, and sit upon its own adjournment. But neither House, shall, without the consent of
+the other, adjourn for more than three days, nor to any place other than that in which it may be
+sitting.
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 IN 1851 ***
+
+SEC. 11. Two-thirds of each House shall constitute a quorum to do business; but a smaller
+number may meet, adjourn from day to day, and compel the attendance of absent members. A
+quorum being in attendance, if either House fail to effect an organization within the first five days
+thereafter, the members of the House so failing shall be entitled no compensation from the end of
+the said five days, until an organization shall have been effected.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 IN 1851 ***
+
+SEC. 12. Each House shall keep a journal of its proceedings, and publish the same. The yeas and
+nays, on any question, shall, at the request of any two members, be entered, together with the
+names of the members demanding the same, on the journal: Provided, That on a motion to
+adjourn, shall require one-tenth of the members present to order the yeas and nays.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 IN 1851 ***
+
+SEC. 13. The doors of each House, and of Committees of the Whole, shall be kept open, except
+in such cases as, in the opinion of either House, may require secrecy.
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 IN 1851 ***
+
+SEC. 14. Either House may punish its members for disorderly behavior, and may, with the
+concurrence of two-thirds, expel a member; but not a second time for the same cause.
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 IN 1851 ***
+
+SEC. 15. Either House, during its session, may punish, by imprisonment, any person not a
+member, who shall have been guilty of disrespect to the House, by disorderly or contemptuous
+behavior in its presence; but such imprisonment shall not, at any one time, exceed twenty-four
+hours.
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 IN 1851 ***
+
+SEC. 16. Each House shall have all powers necessary for a branch of the legislative department of
+a free and independent State.
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 IN 1851 ***
+
+SEC. 17. Bills may originate in either House, but may be amended or rejected in the other, except
+that bills for raising revenue shall originate in the House of Representatives.
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 IN 1851 ***
+
+SEC. 18. Every bill shall be read, by sections, on three several days in each House; unless, in case
+of emergency, two-thirds of the House where such bill may be depending shall, by a vote of yeas
+and nays, deem it expedient to dispense with this rule; but the reading of a bill by sections, on its
+final passage, shall in no case be dispensed with; and the vote on the passage of every bill or joint
+resolution shall be taken by yeas and nays.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 IN 1851 ***
+
+SEC. 19. Every act shall embrace but one subject, and matters properly connected therewith;
+which subject shall be expressed in the title. But if any subject shall be embraced in an act, which
+shall not be expressed in the title, such act shall be void only as to so much thereof as shall not be
+expressed in the title.
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 IN 1851 ***
+
+SEC. 20. Every act and joint resolution shall be plainly worded, avoiding, as far as practicable, the
+use of technical terms.
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 IN 1851 ***
+
+SEC. 21. No act shall ever be revised or amended by mere reference to its title; but the act
+revised, or section amended, shall be set forth and published at full length.
+
+*** SEND ***
+*** SSTART 022.0 004.0 0 IN 1851 ***
+
+SEC. 22. The General Assembly shall not pass local or special laws, in any of the following
+enumerated cases, that is to say: 
+Regulating the jurisdiction and duties of justices of the peace and of constables;
+For the punishment of crimes and misdemeanors;
+Regulating the practice in courts of justice;
+Providing for changing the venue in civil and criminal cases;
+Granting divorces;
+Changing the names of persons;
+For laying out, opening and working on, highways, and for the election or appointment of
+supervisors;
+Vacating roads, town plats, streets, alleys and public squares,
+Summoning and empanneling grand and petit juries, and providing for their compensation;
+Regulating county and township business;
+ Regulating the election of county and township officers, and their compensation;
+ For the assessment and collection of taxes for State, county, township or road purposes;
+ Providing for supporting common schools, and for the preservation of school funds;
+ In relation to fees or salaries;
+In relation to interest on money;
+Providing for opening and conducting elections of State, county or township officers, and designating
+the places of voting;
+Providing for the sale of real estate belonging to minors, or other persons laboring under legal
+disabilities, by executors, administrators, guardians or trustees.
+
+*** SEND ***
+*** SSTART 023.0 004.0 0 IN 1851 ***
+
+SEC. 23. In all the cases enumerated in the preceding section, and in all other cases where a general
+law can be made applicable, all laws shall be general and of uniform operation throughout the State.
+
+*** SEND ***
+*** SSTART 024.0 004.0 0 IN 1851 ***
+
+SEC. 24. Provisions may be made by general law, for bringing suits against the State, as to all
+liabilities originating after the adoption of this Constitution; but no special act authorizing such suit
+to be brought, or making compensation to any person claiming damages against the State, shall ever
+be passed.
+
+*** SEND ***
+*** SSTART 025.0 004.0 0 IN 1851 ***
+
+SEC. 25. A majority of all the members elected to each House shall be necessary to pass every bill
+or joint resolution; and all bills and joint resolutions so passed shall be signed by the presiding officers
+of the respective houses.
+
+*** SEND ***
+*** SSTART 026.0 004.0 0 IN 1851 ***
+
+SEC. 26. Any member of either House shall have the right to protest, and to have his protest, with
+his reasons for dissent, entered on the journal.
+
+*** SEND ***
+*** SSTART 027.0 004.0 0 IN 1851 ***
+
+SEC. 27. Every statute shall be a public law, unless otherwise declared in the statute itself.
+
+*** SEND ***
+*** SSTART 028.0 004.0 0 IN 1851 ***
+
+SEC. 28. No act shall take effect until the same shall have been published and circulated in the several
+counties of this State, by authority, except in case of emergency; which emergency shall be declared
+in the preamble or in the body of the law.
+
+*** SEND ***
+*** SSTART 029.0 004.0 0 IN 1851 ***
+
+SEC. 29. The members of the General Assembly shall receive for their services a compensation, to
+be fixed by law, but no increase of compensation shall take effect during the session' at which such
+increase may be made. No session of the General Assembly, except the first under this Constitution,
+shall extend beyond the term of sixty-one days, nor any special session beyond the term of forty days.
+
+*** SEND ***
+*** SSTART 030.0 004.0 0 IN 1851 ***
+
+SEC. 30. No Senator or Representative shall during the term for which he may have been elected,
+be eligible to any office, the electionto which is vested in the General Assembly, nor shall he be
+appointed to any civil office of profit, which shall have been created, or the emoluments of which shall
+have been increased, during such term; but this latter provision shall not be construed to apply to any
+office elective by the people.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 IN 1851 ***
+
+ARTICLE V
+
+EXECUTIVE
+
+*** SSTART 001.0 005.0 0 IN 1851 ***
+
+SECTION 1. The. executive powers, of the State shall be vested in a Governor. He shall hold his
+office during four years, and shall not be eligible more than four years in any period of eight years.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 IN 1851 ***
+
+SEC. 2. There shall be a Lieutenant Governor, who shall hold his office during four years.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 IN 1851 ***
+
+SEC. 3. The Governor and Lieutenant Governor shall be elected at the times and places of choosing
+members of the General Assembly.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 IN 1851 ***
+
+SEC. 4. In voting for Governor and Lieutenant Governor the electors shall designate for whom they
+vote as Governor, and for whom as Lieutenant Governor. The returns of every election for Governor
+and Lieutenant Governor shall be sealed up and transmitted to the seat of government, directed to
+the Speaker of the House of Representatives, who shall open and publish them in the presence of both
+Houses of the General Assembly.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 IN 1851 ***
+
+SEC. 5. The persons, respectively, having the highest number of votes for Governor and Lieutenant
+Governor, shall be elected; but in case two or more persons shall have an equal and the highest
+number of votes for either office, the General Assembly shall, by joint vote, forthwith proceed to elect
+one of the said persons Governor or Lieutenant Governor, as the case may be.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 IN 1851 ***
+
+SEC. 6. Contested elections for Governor or Lieutenant Governor shall be determined by the General
+Assembly, in such manner as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 IN 1851 ***
+
+SEC. 7. No person shall be eligible to the office of Governor or Lieutenant Governor, who shall not
+have been five years a citizen of the United States, and also a resident of the State of Indiana during
+the five years next preceding his election; nor shall any person be eligible to either of the said offices
+who shall not have attained the age of thirty years.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 IN 1851 ***
+
+SEC. 8. No member of Congress, or person holding any office under the United States, or under this
+State, shall fill the office of Governor or Lieutenant Governor.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 IN 1851 ***
+
+SEC. 9. The official term of the Governor or Lieutenant Governor shall commence on the second
+Monday of January, in the year one thousand eight hundred and fifty-three; and on the same day every
+fourth year thereafter.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 IN 1851 ***
+
+SEC. 10. In case of the removal of the Governor from office, or of his death, resignation or inability
+to discharge the duties of the office, the same shall devolve on the Lieutenant Governor; and the
+General Assembly shall, by law, provide for the case of removal from office, death, resignation, or
+inability, both of the governor and Lieutenant Governor, declaring what officer then shall act as
+Governor; and such officer shall act accordingly until the disability be removed or a Governor be
+elected.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 IN 1851 ***
+
+SEC. 11. Whenever the Lieutenant Governor shall act as Governor, or shall be unable to attend as
+President of the Senate, the Senate shall elect one of its own members as President for the
+occasion.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 IN 1851 ***
+
+SEC. 12. The Governor shall be commander-in-chief of the military and naval forces, and may call
+out such forces to execute the laws, or to suppress insurrection, or to repel invasion.
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 IN 1851 ***
+
+SEC. 13. He shall, from time to time, give to the General Assembly information touching the
+condition of the State, and recommend such measures as he shall judge to be expedient.
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 IN 1851 ***
+
+SEC. 14. Every bill which shall have passed the General Assembly shall be presented to the
+Governor; if he approve, he shall sign it, but if not, he shall return it, with his objections, to the
+House in which it shall have originated, which House shall enter the objections at large upon its
+journals, and proceed to reconsider the bill. If, after such reconsideration, a majority of all the
+members elected to that House shall agree to pass the bill, it shall be sent, with the Governor's
+objections, to the other House, by which it shall likewise be reconsidered, and if approved by a
+majority of all the members elected to that House, it shall be a law. If any bill shall not be returned
+by the Governor within three days, Sundays excepted, after it shall have been presented to him, it
+shall be a law without his signature, unless the general adjournment shall prevent its return, in
+which case it shall be a law, unless the Governor, within five days next after such adjournment,
+shall file such bill, with his objections thereto, in the office of the Secretary of State, who shall lay
+the same before the General Assembly at its next session in like manner as if it had been returned
+by the Governor. But no bill shall be presented to the Governor within two days next previous to
+the final adjournment of the General Assembly.
+
+*** SEND ***
+*** SSTART 015.0 005.0 0 IN 1851 ***
+
+SEC. 15. The Governor shall transact all necessary business with the officers of Government, and
+may require any information in writing from the officers of the administrative department, upon
+any subject relating to the duties of their respective offices.
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 IN 1851 ***
+
+SEC. 16. He shall take care that the laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 017.0 005.0 0 IN 1851 ***
+
+SEC. 17. He shall have the power to grant reprieves, commutations and pardons, after conviction,
+for all offenses except treason and cases of impeachment, subject to such regulations as may be
+provided by law.  Upon conviction for treason, he shall have power to suspend the execution of
+the sentence until the case shall be reported to the General Assembly at its next meeting, when the
+General Assembly shall either grant a pardon, commute the sentence, direct the execution of the
+sentence, or grant a further reprieve.   He shall have power to remit fines and forfeitures, under
+such regulations as may be prescribed by law, and shall report to the General Assembly at its next
+meeting, each case of reprieve, commutation or pardon granted, and also the names of all persons
+in whose favor remission of fines and forfeitures shall have been made, and the several amounts
+remitted: Provided, however, That the General Assembly, may, by law, constitute a council, to be
+composed of officers of State, without whose advice and consent the Governor shall not have
+power to grant pardons, in any case, except such as may, by law, be left to his sole power.
+
+*** SEND ***
+*** SSTART 018.0 005.0 0 IN 1851 ***
+
+SEC. 18. When, during a recess of the General Assembly, a vacancy shall happen in any office,
+the appointment to which is vested in the General Assembly, or when, at any time, a vacancy shall
+have occurred in any other State office, or in the office of Judge of any court, the Governor shall
+fill such vacancy by appointment, which shall expire when a successor shall have been elected and
+qualified.
+
+*** SEND ***
+*** SSTART 019.0 005.0 0 IN 1851 ***
+
+SEC. 19. He shall issue writs of election to fill such vacancies as may have occurred in the
+General Assembly.
+
+*** SEND ***
+*** SSTART 020.0 005.0 0 IN 1851 ***
+
+SEC. 20. Should the seat of Government become dangerous from disease or a common enemy, he
+may convene the General Assembly at any other place.
+
+*** SEND ***
+*** SSTART 021.0 005.0 0 IN 1851 ***
+
+SEC. 21. The Lieutenant Governor shall, by virtue of his office, be President of the Senate; have a
+right, when in Committee of the Whole, to join in debate, and to vote on all subjects, and,
+whenever the Senate shall be equally divided, he shall give the casting vote.
+
+*** SEND ***
+*** SSTART 022.0 005.0 0 IN 1851 ***
+
+SEC. 22. The Governor shall, at stated times, receive for his services a compensation which shall
+neither be increased nor diminished during the term for which be shall have been elected.
+
+*** SEND ***
+*** SSTART 023.0 005.0 0 IN 1851 ***
+
+SEC. 23. The Lieutenant Governor, while he shall act as President of the Senate, shall receive for
+his services the same compensation as the Speaker of the House of Representatives; and any
+person acting as Governor shall receive the compensation attached to the office of Governor.
+
+*** SEND ***
+*** SSTART 024.0 005.0 0 IN 1851 ***
+
+SEC. 24. Neither the Governor nor Lieutenant Governor shall be eligible to any other office
+during the term for which he shall have been elected.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 IN 1851 ***
+
+ARTICLE VI
+
+ADIMINISTRATIVE
+
+*** SSTART 001.0 006.0 0 IN 1851 ***
+
+SECTION 1. There shall be elected by the voters of the State, a Secretary, an Auditor, and a
+Treasurer of State, who shall severally hold their offices for two years. They shall perform such duties
+as may be enjoined by law; and no person shall be eligible to either of said offices more than four
+years in any period of six years.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 IN 1851 ***
+
+SEC. 2. There shall be elected in each county, by the voters thereof, at the time of holding general
+elections, a Clerk of the Circuit Court, Auditor, Recorder, Treasurer, Sheriff, Coroner, and Surveyor.
+The Clerk, Auditor and Recorder shall continue in office four years; and no person shall be eligible
+to the office of Clerk, Recorder or Auditor more than eight years in any period of twelve years. The
+Treasurer, Sheriff, Coroner, and Surveyor, shall continue in office two years; and no person shall be
+eligible to the office of Treasurer or Sheriff more than four years in any period of six years.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 IN 1851 ***
+
+SEC. 3. Such other county and township officers as may be necessary, shall be elected or appointed,
+in such manner as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 IN 1851 ***
+
+SEC. 4. No person shall be elected or appointed as a county officer, who shall not be an elector of
+the county; nor any one who shall not have been an inhabitant thereof during one year next preceding
+his appointment, if the county shall have been so long organized; but if the county shall not have been
+so long organized, then within the limits of the county or counties out of which the same shall have
+been taken.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 IN 1851 ***
+
+SEC. 5. The Governor, and the Secretary, Auditor and Treasurer of State, shall, severally, reside and
+keep the public records, books and papers, in any manner relating to the respective offices, at the seat
+of' government.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 IN 1851 ***
+
+SEC. 6. All county, township, and town officers shall reside within their respective counties,
+townships, and towns, and shall keep their respective offices at such places therein, and perform such
+duties as may be directed by law.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 IN 1851 ***
+
+SEC. 7. All State officers shall, for crime, incapacity, or negligence, be liable to be removed from
+office, either by impeachment by the House of Representatives, to be tried by the Senate, or by a
+joint resolution of the General Assembly; two-thirds of the members elected to each branch
+voting, in either case, therefor.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 IN 1851 ***
+
+SEC. 8. All State, county, township, and town officers may be impeached, or removed from office,
+in such manner as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 IN 1851 ***
+
+SEC. 9. Vacancies in county, township, and town offices shall be filled in such manner as may be
+prescribed by law.
+
+*** SSTART 010.0 006.0 0 IN 1851 ***
+
+SEC. 10. The General Assembly may confer upon the Boards doing county business in the several
+counties, powers of a local administrative character.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 IN 1851 ***
+
+ARTICLE VII
+
+JUDICIAL
+
+*** SEND ***
+*** SSTART 001.0 007.0 0 IN 1851 ***
+
+SECTION 1. The Judicial power of the State shall be vested in a Supreme Court, in Circuit Courts,
+and in such inferior courts as the General Assembly may establish.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 IN 1851 ***
+
+SEC. 2. The Supreme Court shall consist of not less than three, nor more than five Judges; a majority
+of whom shall form a quorum. They shall hold their offices for six years, if they so long behave well.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 IN 1851 ***
+
+SEC. 3. The State shall be divided into as many districts as there are Judges of the Supreme Court,
+and such districts shall be formed of contiguous territory, as nearly equal in population as, without
+dividing a county, the same can be made. One of said Judges shall be elected from each district, and
+reside therein; but said Judge shall be elected by the electors of the State at large.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 IN 1851 ***
+
+SEC. 4. The Supreme Court shall have jurisdiction, co-extensive with the limits of the State, in
+appeals and writs of error, under such regulations and restrictions as may be prescribed by law. It
+shall also have such original jurisdiction as the General Assembly may confer.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 IN 1851 ***
+
+SEC. 5. The Supreme Court shall, upon the decision of every case, give a statement in writing of each
+question arising in the record of such case, and the decision of the Court thereon.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 IN 1851 ***
+
+SEC. 6. The General Assembly shall provide by law, for the speedy publication of the decisions of
+the Supreme Court, made under this Constitution, but no judge shall be allowed to report such
+decision.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 IN 1851 ***
+
+SEC. 7. There shall be elected by the voters of the State, a Clerk of the Supreme Court, who shall
+hold his office four years, and whose duties shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 008.0 007.0 0 IN 1851 ***
+
+SEC. 8. The Circuit Courts shall each consist of one judge, and shall have such civil and criminal
+jurisdiction as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 009.0 007.0 0 IN 1851 ***
+
+SEC. 9. The State shall, from time to time, be divided into judicial circuits, and a judge for each
+circuit shall be elected by the voters thereof. He shall reside within the circuit, and shall hold his office
+for the term of six years, if he so long behave well.
+
+*** SEND ***
+*** SSTART 010.0 007.0 0 IN 1851 ***
+
+SEC. 10. The General Assembly may provide, by law, that the judge of one circuit may hold the
+courts of another circuit, in cases of necessity or convenience: and in case of temporary inability of
+any judge, from sickness or other cause, to hold the courts in his circuit, provision may be made, by
+law, for holding such courts.
+
+*** SEND ***
+*** SSTART 011.0 007.0 0 IN 1851 ***
+
+SEC. 11. There shall be elected, in each judicial circuit, by the voters thereof, a prosecuting attorney,
+who shall hold his office for two years.
+
+*** SEND ***
+*** SSTART 012.0 007.0 0 IN 1851 ***
+
+SEC. 12. Any judge or prosecuting attorney, who shall have been convicted of corruption or other
+high crime, may, on information in the name of the State, be removed from office by the Supreme
+Court, or in such other manner as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 013.0 007.0 0 IN 1851 ***
+
+SEC. 13. The judges of the Supreme Court and Circuit Courts shall, at stated times, receive a
+compensation, which shall not be diminished during their continuance in office.
+
+*** SEND ***
+*** SSTART 014.0 007.0 0 IN 1851 ***
+
+SEC. 14. A competent number of justices of the peace shall be elected by the voters in each township
+in the several counties. They shall continue in office, four years, and their powers and duties shall be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 015.0 007.0 0 IN 1851 ***
+
+SEC. 15. All judicial officers shall be conservators of the peace in their respective jurisdictions.
+
+*** SEND ***
+*** SSTART 016.0 007.0 0 IN 1851 ***
+
+SEC. 16. No person elected to any judicial office shall, during the terms for which he shall have been
+elected, be eligible to any office of trust or profit under the State, other than a judicial office. 
+
+*** SEND ***
+*** SSTART 017.0 007.0 0 IN 1851 ***
+
+SEC. 17. The General Assembly may modify or abolish the Grand Jury system.
+
+*** SEND ***
+*** SSTART 018.0 007.0 0 IN 1851 ***
+
+SEC. 18. All criminal prosecutions shall be carried on in the name, and by the authority of the State;
+and the style of all processes shall be, "The State of Indiana."
+
+*** SEND ***
+*** SSTART 019.0 007.0 0 IN 1851 ***
+
+SEC. 19. Tribunals of conciliation may be established, with such powers and duties as shall be
+prescribed by law; or the powers and duties of the same may be conferred upon other courts of
+justice; but such tribunals or other courts, when sitting as such, shall have no power to render
+judgment to be obligatory on the parties unless they voluntarily submit their matters of difference and
+agree to abide the judgment of such tribunal or court.
+
+*** SEND ***
+*** SSTART 020.0 007.0 0 IN 1851 ***
+
+SEC. 20. The General Assembly, at its first session after the adoption of this Constitution, shall
+provide for the appointment of three commissioners whose duty it shall be to revise, simplify and
+abridge the rules, practice, pleadings and forms of the courts of justice.  And all provide for abolishing
+the distinct forms of action at law now in use; and that justice shall be administered in a uniform mode
+of pleading, without distinction between law and equity. And the General Assembly may, also, make
+it the duty of said commissioners to reduce into a systematic code the general statute law of the State;
+and said commissioners shall report the result of their labors to the General Assembly, with such
+recommendations and suggestions, as to the abridgement and amendment, as to said commissioners
+may seem necessary or proper. Provision shall be made by law for filling vacancies regulating the
+tenure of office and the compensation of said commissioners:
+
+*** SEND ***
+*** SSTART 021.0 007.0 0 IN 1851 ***
+
+SEC. 21. Every person of good moral character, being a voter, shall be entitled to a mission to
+practice law in all courts of justice.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 IN 1851 ***
+
+ARTICLE VIII
+
+EDUCATION
+
+*** SSTART 001.0 008.0 0 IN 1851 ***
+
+SECTION 1. Knowledge and learning generally diffused throughout a community, being essential
+to the preservation of a free government, it shall be the duty of the General Assembly to encourage,
+by all suitable means, moral, intellectual, scientific and agricultural improvement, and to provide by
+law for a general and uniform system of common schools, wherein tuition shall be without charge,
+and equally open to all.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 IN 1851 ***
+
+SEC. 2. The common school fund shall consist of the congressional township fund, and the lands
+belonging thereto;
+ The surplus revenue fund;
+ The saline fund, and the lands belonging thereto;
+The bank tax fund, and the fund arising from the one hundred and fourteenth section of the charter
+of the State Bank of Indiana;
+The fund to be derived from the sale of county seminaries, and the moneys and property heretofore
+held for such seminaries; from the fines assessed for breaches of the penal laws of the State; and from
+all forfeitures which may accrue,
+All lands and other estate which shall escheat to the State for want of heirs or kindred entitled to the
+inheritance;
+   All lands that have been or may hereafter be granted to the State, where no special purpose is
+expressed in the grant, and the proceeds of the sales thereof; including the proceeds of the sales of
+the Swamp Lands granted to the State of Indiana by the act of Congress, of the 28th of September,
+1850, after deducting the expense of selecting and
+draining the same;
+   Taxes on the property of corporations that may be assessed by the General Assembly for Common
+School purposes.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 IN 1851 ***
+
+SEC. 3. The principal of the Common School Fund shall remain a perpetual fund, which may be
+increased, but shall never be diminished; and the income thereof shall be inviolably appropriated to
+the support of Common Schools, and to no other purpose whatever.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 IN 1851 ***
+
+SEC. 4. The General Assembly shall invest, in some safe and profitable manner, all such portions of
+the Common School Fund as have not heretofore been entrusted to the several counties; and shall
+make provisions, by law, for the distribution, among the several counties, of the interest thereof.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 IN 1851 ***
+
+SEC. 5. If any count shall fail to demand its proportion of such interest for Common School
+purposes, the same shall be reinvested for the benefit of such county.
+
+*** SEND ***
+*** SSTART 006.0 008.0 0 IN 1851 ***
+
+SEC. 6. The several counties shall be held liable for the preservation of so much of the said fund as
+may be entrusted to them, and for the payment of the annual interest thereon.
+
+*** SEND ***
+*** SSTART 007.0 008.0 0 IN 1851 ***
+
+SEC. 7. All trust funds held by the State shall remain inviolate, and be faithfully and exclusively
+applied to the purposes for which the trust was created.
+
+*** SEND ***
+*** SSTART 008.0 008.0 0 IN 1851 ***
+
+SEC. 8. The General Assembly shall provide for the election, by the voters of the State, of a State
+Superintendent of Public Instruction, who shall hold his office for two years, and whose duties
+and compensation shall be prescribed by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 IN 1851 ***
+
+ARTICLE IX
+
+STATE INSTITUTIONS
+
+*** SSTART 001.0 009.0 0 IN 1851 ***
+
+SECTION 1. It shall be the duty of the General Assembly to provide by law for the support of
+Institutions for the Education of the Deaf and Dumb, and of the Blind; and, also, for the treatment
+of the Insane.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 IN 1851 ***
+
+SEC. 2. The General Assembly shall provide Houses of Refuge for the correction and reformation
+of juvenile offenders.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 IN 1851 ***
+
+SEC. 3. The County Boards shall have power to provide farms as an asylum for those persons
+who, by reason of age, infirmity, or other misfortune, have claims upon the sympathies and aid of
+society.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 IN 1851 ***
+
+ARTICLE X
+
+FINANCE
+
+*** SSTART 001.0 010.0 0 IN 1851 ***
+
+SECTION 1. The General Assembly shall provide, by law, for a uniform and equal rate of
+assessment and taxation; and shall prescribe such regulations as shall secure a just valuation for
+taxation of all property, both real and personal, excepting such only for municipal, educational,
+literary, scientific, religious or charitable purposes, as may be specially exempted by law.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 IN 1851 ***
+
+SEC. 2. All the revenues derived from the sale of any of the public works belonging to the State,
+and from the net annual income thereof, and any surplus that may, at any time, remain in the
+Treasury derived from taxation for general State purposes, after the payment of the ordinary
+expenses of the government, and of the interest on bonds of the State, other than bank bonds,
+shall be annually applied, under the direction of the General Assembly, to the payment of the
+principal of the public, debt.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 IN 1851 ***
+
+SEC. 3. No money shall be drawn from the Treasury but in pursuance of appropriations made by
+law.
+
+*** SEND ***
+*** SSTART 004.0 010.0 0 IN 1851 ***
+
+SEC. 4. An accurate statement of the receipts and expenditures of the public money shall be
+published with the laws of each regular session of the General Assembly.
+
+*** SEND ***
+*** SSTART 005.0 010.0 0 IN 1851 ***
+
+SEC. 5. No law shall authorize any debt to be contracted, on behalf of the State, except in the
+following cases: To meet casual deficits in the revenue; to pay the interest on the State debt; to
+repel invasion, suppress insurrection, or, if hostilities be threatened, provide for public defense.
+
+*** SEND ***
+*** SSTART 006.0 010.0 0 IN 1851 ***
+
+SEC. 6. No county shall subscribe for stock in any incorporated company, unless the same be paid
+for at the time of such subscription; nor shall any county loan its credit to any incorporated
+company, nor borrow money for the purpose of taking stock in any such company; nor shall the
+General Assembly ever, on behalf of the State, assume the debts of any county city, town or
+township, nor of any corporation whatever.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 IN 1851 ***
+
+ARTICLE XI
+
+CORPORATIONS
+
+*** SSTART 001.0 011.0 0 IN 1851 ***
+
+SECTION 1. The General Assembly shall not have power to establish, or incorporate any bank or
+banking company, or moneyed institution, for the purpose of issuing bills of credit, of bills payable
+to order or bearer, except under the conditions prescribed in this Constitution.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 IN 1851 ***
+
+SEC. 2. No banks shall be established otherwise than under a general banking law, except as
+provided in the fourth section of this article.
+
+*** SEND ***
+*** SSTART 003.0 011.0 0 IN 1851 ***
+
+SEC. 3. If the General Assembly shall enact a general banking law, such law shall provide for the
+registry and countersigning, by an officer of State, of all paper credit designed to be circulated as
+money; and ample collateral security, readily convertible into specie, for the redemption of the
+same in gold or silver, shall be required; which collateral security shall be under the control of the
+proper officer or officers of the State.
+
+*** SEND ***
+*** SSTART 004.0 011.0 0 IN 1851 ***
+
+SEC. 4. The General Assembly may also charter a bank with branches, without collateral security,
+as required in the preceding section.
+
+*** SEND ***
+*** SSTART 005.0 011.0 0 IN 1851 ***
+
+SEC. 5. If the General Assembly shall establish a bank with branches, the branches shall be
+mutually responsible for each other's liabilities, upon all paper credit issued as money.
+
+*** SEND ***
+*** SSTART 006.0 011.0 0 IN 1851 ***
+
+SEC. 6. The stockholders in every bank, or banking company, shall be individually responsible to
+an amount over and above their stock, for all debts or liabilities of said bank or banking company.
+
+*** SEND ***
+*** SSTART 007.0 011.0 0 IN 1851 ***
+
+SEC. 7. All bills or notes issued as money, shall be, at all times, redeemable in gold or silver; and
+no law shall be passed, sanctioning, directly or indirectly, the suspension. by any bank or banking
+company, of specie payments.
+
+*** SEND ***
+*** SSTART 008.0 011.0 0 IN 1851 ***
+
+SEC. 8. Holders of bank notes shall be entitled, in case of insolvency, to reference of payment
+over all other creditors.
+
+*** SEND ***
+*** SSTART 009.0 011.0 0 IN 1851 ***
+
+SEC. 9. No bank shall receive, directly or indirectly, a greater rate of interest than shall be
+allowed by law to individuals loaning money.
+
+*** SEND ***
+*** SSTART 010.0 011.0 0 IN 1851 ***
+
+SEC. 10. Every bank, or banking company, shall be required to cease all banking operations
+within twenty years from the time of its organization, and promptly thereafter to close its
+business.
+
+*** SEND ***
+*** SSTART 011.0 011.0 0 IN 1851 ***
+
+SEC. 11. The General Assembly is not prohibited from investing the trust funds in a bank with
+branches; but in case of such investment, the safety of the same shall be guaranteed by
+unquestionable security.
+
+*** SEND ***
+*** SSTART 012.0 011.0 0 IN 1851 ***
+
+SEC. 12. The State shall not be a stockholder in any bank, after the expiration of the present,
+bank charter; nor shall the credit of the State ever be given, or loaned, in aid of any person,
+association, or corporation, nor shall the State hereafter become a stockholder in any corporation
+or association.
+
+*** SEND ***
+*** SSTART 013.0 011.0 0 IN 1851 ***
+
+SEC. 13. Corporations, other than banking, shall not be created by special act, but may be formed
+under general laws.
+
+*** SEND ***
+*** SSTART 014.0 011.0 0 IN 1851 ***
+
+SEC. 14. Dues from corporations, other than banking, shall be secured by such individual liability
+of the corporators, or other means, as may be prescribed by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 IN 1851 ***
+
+ARTICLE XII
+
+MILITIA
+
+*** SSTART 001.0 012.0 0 IN 1851 ***
+
+SECTTION 1. The militia shall consist of all able-bodied white male persons, between the ages of
+eighteen and forty-five years, except such as may be exempted by the laws of the United States,
+or of this State; and shall be organized, officered, armed, equipped and trained in such manner as
+may be provided by law.
+
+*** SEND ***
+*** SSTART 002.0 012.0 0 IN 1851 ***
+
+SEC. 2. The Governor shall appoint the Adjutant, Quartermaster and Commissary Generals.
+
+*** SEND ***
+*** SSTART 003.0 012.0 0 IN 1851 ***
+
+SEC. 3. All militia officers shall be commissioned by the Governor, and shall bold their offices not
+longer than six years. 
+
+*** SEND ***
+*** SSTART 004.0 012.0 0 IN 1851 ***
+
+SEC. 4. The General Assembly shall determine the method of dividing the militia into divisions,
+brigades, regiments, battalions and companies, and fix the rank of all staff officers.
+
+*** SEND ***
+*** SSTART 005.0 012.0 0 IN 1851 ***
+
+SEC. 5. The militia may be divided into classes of sedentary and active militia in such manner as
+shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 006.0 012.0 0 IN 1851 ***
+
+SEC. 6. No person conscientiously opposed to bearing arms shall be compelled to do militia duty;
+but such person shall pay an equivalent for exemption; the amount to be prescribed by law:
+
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 IN 1851 ***
+
+ARTICLE XIII 
+
+*** SSTART 001.0 013.0 0 IN 1851 ***
+
+NEGROES AND MULATTOES
+
+SECTION 1. No Negro or Mulatto shall come into, or settle in the State, after the adoption of
+this Constitution.
+
+*** SEND ***
+*** SSTART 002.0 013.0 0 IN 1851 ***
+
+SEC. 2. All, contracts made with any Negro or Mulatto coming into the State contrary to the
+provisions of the foregoing section, shall be void; and any persons who shall employ such Negro
+or Mulatto, or otherwise encourage him to remain in the State, shall be fined in any sum not less
+than ten dollars, nor more than five hundred dollars.
+
+*** SEND ***
+*** SSTART 003.0 013.0 0 IN 1851 ***
+
+SEC. 3. All fines which may be collected for a violation of the provisions of this article, or of any
+law which may hereafter be passed for the purpose of carrying the same into execution, shall be
+set apart and appropriated for the colonization of such Negroes and Mulattoes, and their
+descendants, as may be in the State at the adoption of this Constitution, and may be willing to
+emigrate.
+
+*** SEND ***
+*** SSTART 004.0 013.0 0 IN 1851 ***
+
+SEC. 4. The general assembly shall pass laws to carry out the provisions of this article.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 IN 1851 ***
+
+ARTICLE XIV
+
+BOUNDARIES
+
+*** SSTART 001.0 014.0 0 IN 1851 ***
+
+SECTION 1. In order that the boundaries of the State may be known and established, it is hereby
+ordained and declared, that the State of Indiana is bounded on the east by the meridian line which
+forms the western boundary of the State of Ohio; on the south by the Ohio River, from the mouth
+of the Great Miami River to the mouth of the Wabash River; on the west, by a line drawn along
+the middle of the Wabash River, from its mouth to a point where a due north line, drawn from the
+town of Vincennes, would last touch the northwestern shore of said Wabash River; and thence by
+a due north line, until the same shall intersect an east and west line, drawn through a point ten
+miles north of the southern extreme of Lake Michigan; on the north, by said east and west line,
+until the same shall intersect the first-mentioned meridian line, which forms the western boundary
+of the State of Ohio.
+
+*** SEND ***
+*** SSTART 002.0 014.0 0 IN 1851 ***
+
+SEC. 2. The State of Indiana shall possess jurisdiction, and sovereignty co-extensive with the
+boundaries declared in the preceding section; and shall have concurrent jurisdiction, in civil and
+criminal cases, with the State of Kentucky on the Ohio River, and with the State of Illinois on the
+Wabash River, so far as said rivers form the common boundary between this State and said States
+respectively.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 015.0 IN 1851 ***
+
+ARTICLE XV
+
+MISCELLANEOUS
+
+*** SSTART 001.0 015.0 0 IN 1851 ***
+
+SECTION 1. All officers, whose appointment is not otherwise provided for in this Constitution,
+shall be chosen in such manner as now is, or hereafter may be, prescribed by law.
+
+*** SEND ***
+*** SSTART 002.0 015.0 0 IN 1851 ***
+
+SEC. 2. When the duration of any office is not provided for by this Constitution, it may be
+declared by law; and if not so declared, such office shall be held during the pleasure of the
+authority making the appointment. But the General Assembly shall not create any office, the
+tenure of which shall be longer than four years.
+
+*** SEND ***
+*** SSTART 003.0 015.0 0 IN 1851 ***
+
+SEC. 3. Whenever it is provided in this Constitution, or in any law which may be hereafter passed,
+that any officer, other than a member of the General Assembly, shall hold his office for any given
+term, the same shall be construed to mean that such officer shall hold his office for such term, and
+until his successor shall have been elected and qualified.
+
+*** SEND ***
+*** SSTART 004.0 015.0 0 IN 1851 ***
+
+SEC. 4. Every person elected or appointed to any office under this Constitution shall, before
+entering on the duties thereof, take an oath or affirmation to support the Constitution of this State
+and of the United States, and also an oath of office.
+
+*** SEND ***
+*** SSTART 005.0 015.0 0 IN 1851 ***
+
+SEC. 5. There shall be a seal of the State, kept by the Governor for official purposes, which shall
+be called the Seal of the State of Indiana.
+
+*** SEND ***
+*** SSTART 006.0 015.0 0 IN 1851 ***
+
+SEC. 6. All commissions shall issue in the name of the State, shall be signed by the Governor,
+sealed by the State Seal, and attested by the Secretary of State.
+
+*** SEND ***
+*** SSTART 007.0 015.0 0 IN 1851 ***
+
+SEC. 7. No county shall be reduced to an area less than four hundred square miles; nor shall any
+county under that area be further reduced.
+
+*** SEND ***
+*** SSTART 008.0 015.0 0  IN 1851 ***
+
+SEC. 8. No lottery shall be authorized, nor shall the sale of lottery tickets be allowed.
+
+*** SEND ***
+*** SSTART 009.0 015.0 0 IN 1851 ***
+
+SEC. 9. The following grounds owned by the State in Indianapolis, namely: the State House
+Square, the Governor's Circle, and so much of out-lot numbered one hundred and forty-seven as
+lies north of the arm of the Central Canal, shall not be sold or leased.
+
+*** SEND ***
+*** SSTART 010.0 015.0 0 IN 1851 ***
+
+SEC. 10. It shall be the duty of the General Assembly to provide for the permanent enclosure and
+preservation of the Tippecanoe Battle Ground.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 016.0 IN 1851 ***
+
+ARTICLE XVI
+
+AMENDMENTS
+
+*** SSTART 001.0 016.0 0 IN 1851 ***
+
+SECTION 1. Any amendment or amendments to this Constitution may be proposed in either
+branch of the General Assembly; and if the same shall be agreed to by a majority of the members
+elected to each of the two houses, such proposed amendment or amendments shall, with the yeas
+and nays thereon, be entered on their journals and referred to the General Assembly to the chosen
+at the next general election; and, if in the General Assembly so next chosen, such proposed
+amendment or amendments shall be agreed to by a majority of all the members elected to each
+house, then it shall be the duty of the General Assembly to submit such amendment or
+amendments to the electors of the State, and if a majority of said electors shall ratify the same,
+such amendment or amendments shall become a part of this Constitution.
+
+*** SEND ***
+*** SSTART 002.0 016.0 0 IN 1851 ***
+
+SEC. 2. If two or more amendments shall be submitted at the same time, they shall be submitted
+in such manner that the electors shall vote for or against each of such amendments separately; and
+while such an amendment or amendments which shall have been agreed upon by one General
+Assembly shall be awaiting the action of the succeeding General Assembly, or of the electors, no
+additional amendment or amendments shall be proposed.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9003.0 IN 1851 ***
+
+SCHEDULE
+
+*** SSTART 001.0 9003.0 0 IN 1851 ***
+
+This Constitution, if adopted, shall take effect on the first day of November, in the year one
+thousand eight hundred and fifty-one, and shall supersede the Constitution adopted in the year
+one thousand eight hundred and sixteen. That no inconvenience may arise from the change in the
+government, it is hereby ordained as follows:
+First. All laws now in force, and not inconsistent with this Constitution, shall remain in force until
+they shall expire or be repealed.
+Second. All indictments, prosecutions, suits, pleas, plaints and other proceedings pending in any
+of the Courts, shall be prosecuted to final judgment and execution; and all appeals, writs of error,
+certiorari and injunctions shall be carried on in the several Courts, in the same manner as is now
+provided by law.
+Third. All fines, penalties and forfeitures, due or accruing to the State, or to any county therein,
+shall inure to the State, or to such county in the manner prescribed by law. All bonds executed to
+the State, or to any officer, in his official capacity, shall remain in force, and inure to the use of
+those concerned.
+Fourth. All acts of incorporation for municipal purposes shall continue in force under this
+Constitution, until such time as the General Assembly shall, in its discretion, modify or repeal the
+same.
+Fifth. The Governor, at the expiration of the present official term, shall continue to act until his
+successor shall have been sworn into office.
+   Sixth. There shall be a session of the General Assembly, commencing on the first Monday of
+December, in the year one thousand eight hundred and fifty-one.
+Seventh. Senators now in office and holding over, under the existing Constitution, and such as
+may be elected at the next general election, and the Representatives then elected, shall continue in
+office until the first general election under this Constitution.
+Eighth. The first general election under this Constitution shall be held in the year one thousand
+eight hundred and fifty-two.
+Ninth. The first election for Governor, Lieutenant Governor, Judges of the Supreme Court and
+Circuit Courts, Clerk of the Supreme Court, Prosecuting Attorney, Secretary, Auditor, and
+Treasurer of State, and State Superintendent of Public Instruction, under this Constitution, shall
+be held at the general election in the year one thousand eight hundred and fifty-two; and such of
+said officers as may be in office when this Constitution shall go into effect, shall continue in their
+respective offices until their successors shall have been elected and qualified.
+Tenth. Every person elected by popular vote, and now in any office which is continued by this
+Constitution, and every person who shall be so elected to any such office before the taking effect
+of this Constitution (except as in this Constitution otherwise provided), shall continue in office
+until the term for which such person has been, or may be, elected, shall expire: Provided, That no
+such person shall continue in office after the taking effect of this Constitution, for a longer period
+than the term of such office in this Constitution prescribed. 
+Eleventh. On the taking effect of this Constitution, all officers hereby continued in office shall,
+before proceeding in the further discharge of their duties, take an oath or affirmation to support
+this Constitution.
+Twelfth. All vacancies that may occur in existing offices prior to the first general election under this
+Constitution, shall be filled in the manner now prescribed by law.
+Thirteenth. At the time of submitting this Constitution to the electors for their approval or
+disapproval, the article numbered thirteen, in relation to negroes and mulattoes, shall be submitted
+as a distinct proposition, in the following form: "Exclusion and Colonization of Negroes and
+Mulattoes," "Aye," or "No." And if a majority of the votes cast shall be in favor of said article,
+then the same shall form a part of this Constitution, otherwise it shall be void and form no part
+thereof.
+Fourteenth. No article or section of this Constitution shall be submitted as a distinct proposition
+to a vote of the electors otherwise than as herein provided.
+Fifteenth. Whenever a portion of the citizens of the counties of Perry and Spencer shall deem it
+expedient to form, of the contiguous territory of said counties, a new county, it shall be the duty
+of those interested in the organization of such new county, to lay off the same by proper metes
+and bounds of equal portions as nearly as practicable, not to exceed one-third of the territory of
+each of said counties. The proposal to create such new county shall be submitted to the voters of
+said counties, at a general election, in such manner as shall be prescribed by law. And if a majority
+of all the votes given at said election shall be in favor of the organization of said new county, it
+shall be the duty of the General Assembly to organize the same out of the territory thus
+designated.
+Sixteenth. The General Assembly may alter or amend the charter of Clarksville, and make such
+regulations as may be necessary for carrying into effect the objects contemplated in granting the
+same, and the funds belonging to said town said be applied according to the intention of the
+grantor.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9016.0 IN 1851 ***
+
+
+Done in Convention, at Indianapolis, the tenth day of February, in the year of our Lord, one
+thousand eight hundred and fifty-one; and of the independence of the United States, the seventy-
+fifth. 
+
+GEORGE WHITFIELD CARR,
+  President and Delegate from the County of Lawrence.
+
+
+*** AEND ***
+
+
+
+*** MSTART 001 007.0 010.0 0 IN 1851 1873 ***
+
+Ratified February 18, 1873; effective March 7, 1873
+
+Section 7. No law or resolution shall ever be passed by the General Assembly of the State of
+Indiana, that shall recognize any liability of this State to pay or redeem any certificate of stock
+issued in pursuance of an act entitled "An Act to provide for the funded debt of the State of
+Indiana, and for the completion of the Wabash and Erie Canal to Evansville," passed January
+19th, 1846; and an act supplemental to said act, passed January 29th, 1847, which, by the
+provisions of the said acts, or either of them, shall be payable exclusively from the proceeds of the
+canal lands, and the tolls and revenues of the canal, in said acts mentioned, and no such
+certificates or stocks shall ever be paid by this State.
+
+*** MEND ***
+*** MSTART 002 002.0 002.0 0 IN 1851 1881 ***
+
+Ratified March 14, 1881; effective March 24, 1881
+
+Section 2.  In all elections not otherwise provided for by this Constitution, every male citizen of
+the United States, of the age of twenty-one years and upwards, who shall have resided in the State
+during the six months, and in the township sixty days, and in the ward or precinct thirty days
+immediately preceding such election; and every male of foreign birth, of the age of twenty-one
+years and upwards, who shall have resided in the United States one year, and shall have resided in
+this State during the six months, and in the township sixty days, and in the ward or precinct thirty
+days, immediately preceding such election, and shall have declared his intention to become a
+citizen of the United States, conformably to the laws of the United States on the subject of
+naturalization, shall be entitled to vote in the township or precinct where he may reside, if he shall
+have been duly registered according to law.
+
+*** MEND ***
+*** MSTART 003 005.0 002.0 0 IN 1851 1881 ***
+
+Ratified March 14, 1881; effective March 24, 1881
+
+Section 5.  REPEALED
+
+*** MEND ***
+*** MSTART 004 014.0 002.0 0 IN 1851 1881 ***
+
+Ratified March 14, 1881; effective March 24, 1881
+
+Section 14.  All general elections shall be held on the first Tuesday after the first Monday in
+November, but township elections may be held at such time as may be provided by law: 
+Provided, That the General Assembly may provide by law for the election of all Judges of courts
+of general and appellate jurisdiction, by an election to be held for such officers only, at which time
+no other officer shall be voted for; and shall also provide for the registration of all persons entitled
+to vote.
+
+*** MEND ***
+*** MSTART 005 004.0 004.0 0 IN 1851 1881 ***
+
+Ratified March 14, 1881; effective March 24, 1881
+
+Section 4.  The General Assembly shall, at its second session after the adoption of this
+Constitution, and every sixth year thereafter, cause an enumeration to be made of all the male
+inhabitants over the age of twenty-one years.
+
+*** MEND ***
+*** MSTART 006 005.0 004.0 0 IN 1851 1881 ***
+
+Ratified March 14, 1881; effective March 24, 1881
+
+Section 5.  The number of Senators and Representatives shall, at the session next following each
+period of making such enumeration, be fixed by law, and apportioned among the several counties,
+according to the number of male inhabitants, above twenty-one years of age, in each:  Provided,
+That the first and second elections of members of the General Assembly, under this Constitution,
+shall be according to the apportionment last made by the General Assembly, before the adoption
+of this Constitution.
+
+*** MEND ***
+*** MSTART 007 022.0 004.0 0 IN 1851 1881 ***
+
+Ratified March 14, 1881; effective March 24, 1881
+
+Section 22.  The General Assembly shall not pass local or special laws, in any of the following
+enumerated cases, that is to say:
+      Regulating the jurisdiction and duties of Justices of the Peace and of Constables;
+      For the punishment of crimes and misdemeanors;
+      Regulating the practice in courts of justice;
+      Providing for changing the venue in civil and criminal cases;
+      Granting divorces;
+      Changing the names of persons;
+      For lay out, opening and working on highways, and for the election or appointment of
+supervisors;
+      Vacating roads, town plats, streets, alleys and public squares;
+      Summoning and empaneling grand and petit jurors, and providing for their
+compensation;
+      Regulating county and township business;
+      Regulating the election of county and township officers and their compensation;
+      For the assessment and collection of taxes for State, county, township or road
+purposes;
+      Providing for supporting common schools, and for the preservation of school funds;
+      In relation to fees or salaries: except that the laws may be so made as to grade the
+compensation of officers in proportion to the population and the necessary services required;
+      In relation to interest on money;
+      Providing for opening and conducting elections of State, county, or township officers,
+and designating the places of voting;
+      Providing for the sale of real estate belonging to minors or other persons laboring
+under legal disabilities, by executors, administrators, guardians, or trustees.
+
+*** MEND *** 
+*** MSTART 008 001.0 007.0 0 IN 1851 1881 ***
+
+Ratified March 14, 1881; effective March 24, 1881
+
+Section 1.  The judicial power of the State shall be vested in a Supreme Court, Circuit Court and
+such other courts as the General Assembly may establish.
+
+*** MEND ***
+*** MSTART 009 001.0 013.0 0 IN 1851 1881 ***
+
+Ratified March 14, 1881; effective March 24, 1881
+
+Section 1. No political or municipal corporation in this State shall ever become indebted, in any
+manner or for any purpose to an amount, in the aggregate, exceeding two per centum on the value
+of the taxable property within such corporation, to be ascertained by the last assessment for State
+and county taxes, previous to the incurring of such indebtedness; and all bonds or obligations, in
+excess of such amount, given by such corporations, shall be void: Provided, That in time of war,
+foreign invasion, or other great public calamity, on petition of a majority of the property owners
+in number and value, within the limits of such corporation, the public authorities, in their
+discretion, may incur obligations necessary for the public protection and defense to such amount
+as may be requested in such petition.
+
+*** MEND ***
+*** MSTART 010 002.0 013.0 0 IN 1851 1881 ***
+
+Ratified March 14, 1881; effective March 24, 1881
+
+Section. 2.  REPEALED 
+
+*** MEND ***
+*** MSTART 011 003.0 013.0 0 IN 1851 1881 ***
+
+Ratified March 14, 1881; effective March 24, 1881
+
+Section 3.  REPEALED
+
+*** MEND ***
+*** MSTART 012 004.0 013.0 0 IN 1851 1881 ***
+
+Ratified March 14, 1881; effective March 24, 1881
+
+Section 4.  REPEALED 
+
+*** MEND ***
+*** MSTART 013 002.0 002.0 0 IN 1851 1881 ***
+
+Ratified September 6, 1921; effective September 13, 1921
+
+Section 2.  In all elections not otherwise provided for by this Constitution, every citizen of the
+United States, of the age of twenty-one years and upwards, who shall have resided in the State
+during the six months, and in the township sixty days, and in the ward or precinct thirty days
+immediately preceding such election, shall be entitled to vote in the township or precinct where he
+or she may reside.
+
+*** MEND ***
+*** MSTART 014 021.0 007.0 0 IN 1851 1932 ***
+
+Ratified November 8, 1932 
+
+Section 21.  REPEALED
+
+*** MEND ***
+*** MSTART 015 008.0 010.0 0 IN 1851 1932 ***
+
+Ratified November 8, 1932
+
+Section 8. The general assembly may levy and collect a tax upon income, from whatever source
+derived, at such rates, in such manner, and with such exemptions as may be prescribed by law.
+
+*** MEND ***
+*** MSTART 016 001.0 012.0 0 IN 1851 1936 ***
+
+Ratified November 3, 1936; effective December 14, 1936
+
+Section 1.  The militia shall consist of all able-bodied male persons, between the ages of eighteen
+and forty-five years, except such as may be exempted by the laws of the United States, or of this
+State; and shall be organized, officered, armed, equipped, and trained, in such manner as may be
+provided by law.
+
+*** MEND ***
+*** MSTART 017 006.0 011.0 0 IN 1851 1940 ***
+
+Ratified November 5, 1940
+
+Section 6.  REPEALED
+
+*** MEND ***
+*** MSTART 018 010.0 011.0 0 IN 1851 1940 ***
+
+Ratified November 5, 1940
+
+Section 10.  REPEALED
+
+*** MEND ***
+*** MSTART 019 014.0 011.0 0 IN 1851 1940 ***
+
+Ratified November 5, 1940
+
+Section 14. Dues from corporations shall be secured by such individual liability of the
+stockholders, or other means, as may be prescribed by law.
+
+*** MEND ***
+*** MSTART 020 002.0 006.0 0 IN 1851 1952 ***
+
+Ratified November 4, 1952
+
+Section 2.  There shall be elected, in each county by the voters thereof, at the time of holding
+general elections, a clerk of the Circuit Court, Auditor, Recorder, Treasurer, Sheriff, Coroner,
+and Surveyor.  The Clerk, Auditor, Recorder, Treasurer, Coroner and Surveyor shall continue in
+office four years; and no person shall be eligible to the officer of Clerk, Auditor, Recorder,
+Treasurer, or Coroner more than eight years in any period of twelve years:  Provided, That the
+Treasurer of each county re-elected at the general election in 1952 shall continue in office until
+January 1, 1957 and shall not be eligible for re-election to the office of County Treasurer at the
+general election in 1956.
+
+*** MEND ***
+*** MSTART 021 011.0 007.0 0 IN 1851 1952 ***
+
+Ratified November 4, 1952
+
+Section 11.  There shall be elected in each judicial circuit by the voters thereof a prosecuting
+attorney, who shall hold his office for four years, and whose term of office shall begin on the first
+day of January next succeeding his election.  The election of prosecuting attorneys under this
+section shall be held at the time of holding the general election in the year 1954 and each four
+years thereafter: Provided, That any such officer whose term is abridged by virtue of this section
+shall continue to serve until January 1, 1959.
+
+*** MEND ***
+*** MSTART 022 019.0 004.0 0 IN 1851 1960 ***
+
+Ratified November 6, 1960
+
+Section 19.  Every act, amendatory act or amendment of a code shall embrace but one subject and
+matters properly connected therewith; which subject shall be expressed in the title.  But if any
+subject shall be embraced in an act, amendatory act or amendment of a code, which shall not be
+expressed in the title, such act amendatory actor or amendment of a code shall be void only as to
+so much thereof as shall not be expressed in the title.  The requirements of this paragraph shall not
+apply to original enactments of codifications of laws.
+      Every amendatory act and every amendment of a code shall identify the original act or
+code, as last amended, and the sections or subsections amended shall be set forth and published at
+full length.  The identification required by this paragraph may be made by citation reference.
+
+*** MEND ***
+*** MSTART 023 021.0 004.0 0 IN 1851 1960 ***
+
+Ratified November 8, 1960
+
+Section 21.  REPEALED
+
+*** MEND ***
+*** MSTART 024 009.0 007.0 0 IN 1851 1960 ***
+
+Ratified November 8, 1960
+
+Section 9.  The State shall, from time to time, be divided into Judicial Circuits; and a judge for
+each Circuit shall be elected by the voters thereof.  He shall reside within the circuit and shall have
+been duly admitted to practice law by the Supreme Court of Indiana; he shall hold his office for
+the term of six years, if he so long behave well.
+
+*** MEND ***
+*** MSTART 025 001.0 010.0 0 IN 1851 1966 ***
+
+Ratified November 8, 1966
+
+Section 1. (a) The General Assembly shall provide, by law, for a uniform and equal rate of
+property assessment and taxation and shall prescribe regulations to secure a just valuation for
+taxation of all property, both real and personal. The General Assembly may exempt from property
+taxation any property in any of the following classes:
+     (1) Property being used for municipal, educational, literary, scientific, religious or
+     charitable purposes;
+     (2) Tangible personal property other than property being held for sale in the ordinary
+     course of a trade or business, property being held, used or consumed in connection with
+     the production of income, or property being held as an investment;
+     (3) Intangible personal property.
+(b) The General Assembly may exempt any motor vehicles, mobile homes, airplanes, boats,
+trailers or similar property, provided that an excise tax in lieu of the property tax is substituted 
+therefor.
+
+*** MEND ***
+*** MSTART 026 002.0 016.0 0 IN 1851 1966 ***
+
+Ratified November 8, 1966
+ 
+Section 2. If two or more amendments shall be submitted at the same time, they shall be submitted
+in such manner that the electors shall vote for or against each of such amendments
+separately.
+
+*** MEND ***
+*** MSTART 027 009.0 004.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 9. The sessions of the General Assembly shall be held at the capitol of the State,
+commencing on the Tuesday next after the second Monday in January of each year in which the
+General Assembly meets unless a different day or place shall have been appointed by law. But if,
+in the opinion of the Governor, the public welfare shall require it, he may, at any time by
+proclamation, call a special session. The length and frequency of the sessions of the General
+Assembly shall be fixed by law.
+
+SCHEDULE If at the time these amendments become effective, the General Assembly has not
+fixed the length of time in days of the legislative session by law, any regular session of the General
+Assembly held thereafter and until the length and frequency of such sessions are fixed by law, shall
+begin from the date specified in Section 9 of Article 4 of this Constitution and shall continue for
+not more than sixty-one (61) session days.  A session day is defined as any day in which either
+House of the General Assembly convenes.  The Speaker of the House acting jointly with the
+President of the Senate, or if there be no President, the President Pro-Tem of the Senate, jointly
+may recess or adjourn a session for any period of time not to exceed twenty-one (21) days, during
+which time various standing committees of both Houses may meet at the call of the respective
+committee chairmen.  No regular legislative session of the General Assembly may extend beyond
+the 30th day of April of the year in which it is convened.
+
+*** MEND ***
+*** MSTART 028 029.0 004.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970 
+
+Section 29. The members of the General Assembly shall receive for their services a compensation
+to be fixed by law; but no increase of compensation shall take effect during the session at which
+such increase may be made.
+
+*** MEND ***
+*** MSTART 029 001.0 006.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970 
+                                 
+Section 1. There shall be elected, by the voters of the state, a Secretary, an Auditor and a
+Treasurer of State, who shall, severally, hold their offices for four years. They shall perform such
+duties as may be enjoined by law; and no person shall be eligible to either of said offices, more
+than eight years in any period of twelve years.
+
+*** MEND ***
+*** MSTART 030 001.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 1. Judicial Power. The judicial power of the State shall be vested in one Supreme Court,
+one Court of Appeals, Circuit Courts, and such other courts as the General Assembly may 
+establish.
+
+*** MEND ***
+*** MSTART 031 002.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 2. Supreme Court. The Supreme Court shall consist of the Chief Justice of the State and
+not less than four nor more than eight associate justices; a majority of whom shall form a quorum.
+The court may appoint such personnel as may be necessary.
+
+*** MEND ***
+*** MSTART 032 003.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 3. Chief Justice. The Chief Justice of the State shall be selected by the judicial nominating
+commission from the members of the Supreme Court and he shall retain that office for a period of
+five years, subject to reappointment in the same manner, except that a member of the Court may
+resign the office of Chief Justice without resigning from the Court. During a vacancy in the office
+of Chief Justice caused by absence, illness, incapacity or resignation all powers and duties of that
+office shall devolve upon the member of the Supreme Court who is senior in length of service and
+if equal in length of service the determination shall be by lot until such time as the cause of the
+vacancy is terminated or the vacancy is filled.
+
+The Chief Justice of the State shall appoint such persons as the General Assembly by law may
+provide for the administration of his office. The Chief Justice shall have prepared and submit to
+the General Assembly regular reports on the condition of the courts and such other reports as may
+be requested.
+
+*** MEND ***
+*** MSTART 033 004.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 4. The Supreme Court shall have no original jurisdiction except in admission to the
+practice of law; discipline or disbarment of those admitted; the unauthorized practice of law;
+discipline, removal and retirement of justices and judges; supervision of the exercise of jurisdiction
+by the other courts of the State; and issuance of writs necessary or appropriate in aid of its
+jurisdiction. The Supreme Court shall exercise appellate jurisdiction under such terms and
+conditions as specified by rules except that appeals from a judgment imposing a sentence of death,
+life imprisonment or imprisonment for a term greater than ten years shall be taken directly to the
+Supreme Court. The Supreme Court shall have, in all appeals of criminal cases, the power to
+review all questions of law and to review and revise the sentence imposed.
+
+*** MEND ***
+*** MSTART 034 005.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 5. Court of Appeals. The Court of Appeals shall consist of as many geographic districts
+and sit at such locations as the General Assembly shall determine to be necessary. Each
+geographic district of the Court shall consist of three judges. The judges of each geographic
+district shall appoint such personnel as the General Assembly may provide by law.
+
+*** MEND ***
+*** MSTART 035 006.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 6. Jurisdiction of Court of Appeals. The Court shall have no original jurisdiction, except
+that it may be authorized by rules of the Supreme Court to review directly decisions of
+administrative agencies. In all other cases, it shall exercise appellate jurisdiction under such terms
+and conditions as the Supreme Court shall specify by rules which shall, however, provide in all
+cases an absolute right to one appeal and to the extent provided by rule, review and revision of
+sentences for defendants in all criminal cases.
+
+*** MEND ***
+*** MSTART 036 007.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 7. Judicial Circuits. The State shall, from time to time, be divided into judicial circuits;
+and a Judge for each circuit shall be elected by the voters thereof. He shall reside within the circuit
+and shall have been duly admitted to practice law by the Supreme Court of Indiana; he shall hold
+his office for the term of six years, if he so long behaves well.
+
+*** MEND ***
+*** MSTART 037 008.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 8. Circuit Courts. The Circuit Courts shall have such civil and criminal jurisdiction as may
+be prescribed by law.
+
+*** MEND ***
+*** MSTART 038 009.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 9. Judicial Nominating Commission. There shall be one judicial nominating commission
+for the Supreme Court and Court of Appeals. This commission shall, in addition, be the
+commission on judicial qualifications for the Supreme Court and Court of Appeals.
+
+The judicial nominating commission shall consist of seven members, a majority of whom shall
+form a quorum, one of whom shall be the Chief Justice of the State or a Justice of the Supreme
+Court whom he may designate, who shall act as chairman. Those admitted to the practice of law
+shall elect three of their number to serve as members of said commission. All elections shall be in
+such manner as the General Assembly may provide. The Governor shall appoint to the
+commission three citizens, not admitted to the practice of law. The terms of office and
+compensation for members of a judicial nominating commission shall be fixed by the General
+Assembly. No member of a judicial nominating commission other than the Chief Justice or his
+designee shall hold any other salaried public office. No member shall hold an office in a political
+party or organization. No member of the judicial nominating commission shall be eligible for
+appointment to a judicial office so long as he is a member of the commission and for a period of
+three years thereafter.
+
+*** MEND ***
+*** MSTART 039 010.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 10. Selection of Justices of the Supreme Court and Judges of the Court of Appeals. A
+vacancy in a judicial office in the Supreme Court or Court of Appeals shall be filled by the
+Governor, without regard to political affiliation, from a list of three nominees presented to him by
+the judicial nominating commission. If the Governor shall fail to make an appointment from the
+list within sixty days from the day it is presented to him, the appointment shall be made by the
+Chief Justice or the acting Chief Justice from the same list.
+
+To be eligible for nomination as a justice of the Supreme Court or Judge of the Court of Appeals,
+a person must be domiciled within the geographic district, a citizen of the United States, admitted
+to the practice of law in the courts of the State for a period of not less than ten (10) years or must
+have served as a judge of a circuit, superior or criminal court of the State of Indiana for a period
+of not less than five (5) years.
+
+*** MEND ***
+*** MSTART 040 011.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 11. Tenure of Justices of Supreme Court and Judges of the Court of Appeals. A justice of
+the Supreme Court or Judge of the Court of Appeals shall serve until the next general election
+following the expiration of two years from the date of appointment, and subject to approval or
+rejection by the electorate, shall continue to serve for terms of ten years, so long as he retains his
+office. In the case of a justice of the Supreme Court, the electorate of the entire state shall vote on
+the question of approval or rejection. In the case of judges of the Court of Appeals the electorate
+of the geographic district in which he serves shall vote on the question of approval or rejection.
+Every such justice and judge shall retire at the age specified by statute in effect at the
+commencement of his current term.
+Every such justice or judge is disqualified from acting as a judicial officer, without loss of
+salary, while there is pending (1) an indictment or information charging him in any court in the
+United States with a crime punishable as a felony under the laws of Indiana or the United States,
+or (2) a recommendation to the Supreme Court by the commission on judicial qualifications for
+his removal or retirement.
+On recommendation of the commission on judicial qualifications or on its own motion, the
+Supreme Court may suspend such justice or judge from office without salary when in any court in
+the United States he pleads guilty or no contest or is found guilty of a crime punishable as a felony
+under the laws of Indiana or the United States, or of any other crime that involves moral turpitude
+under that law. If his conviction is reversed, suspension terminates and he shall be paid his salary
+for the period of suspension. If he is suspended and his conviction becomes final the Supreme
+Court shall remove him from office.
+On recommendation of the commission on judicial qualifications the Supreme Court may (1) retire
+such justice or judge for disability that seriously interferes with the performance of his duties and
+is or is likely to become permanent, and (2) censure or remove such justice or judge, for action
+occurring not more than six years prior to the commencement of his current term, when such
+action constitutes willful misconduct in office, willful and persistent failure to perform his duties,
+habitual intemperance, or conduct prejudicial to the administration of justice that brings the
+judicial office into disrepute. 
+A justice or judge so retired by the Supreme Court shall be considered to have retired
+voluntarily. A justice or judge so removed by the Supreme Court is ineligible for judicial office
+and pending further order of the Court he is suspended from practicing law in this State.
+Upon receipt by the Supreme Court of any such recommendation, the Court shall hold a
+hearing, at which such justice or judge is entitled to be present, and make such determinations as
+shall be required. No justice shall participate in the determination of such hearing when it
+concerns himself.
+The Supreme Court shall make rules implementing this section and provide for convening
+of hearings. Hearings and proceedings shall be public upon request of the justice or judge whom it
+concerns.
+No such justice or judge shall, during his term of office, engage in the practice of law, run
+for elective office other than a judicial office, directly or indirectly make any contribution to, or
+hold any office in, a political party or organization or take part in any political campaign.
+
+*** MEND ***
+*** MSTART 041 012.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 12. Substitution of Judges. The General Assembly may provide, by law, that the Judge of
+one circuit may hold the Courts of another circuit, in cases of necessity or convenience; and in
+case of temporary inability of any Judge, from sickness or other cause, to hold the Courts in his
+circuit, provision may be made, by law, for holding such courts.
+
+*** MEND ***
+*** MSTART 042 013.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 13. Removal of Circuit Court Judges and Prosecuting Attorneys. Any Judge of the Circuit
+Court or Prosecuting Attorney, who shall have been convicted of corruption or other high crime,
+may, on information in the name of the State, be removed from office by the Supreme Court, or in
+such other manner as may be prescribed by law.
+
+*** MEND ***
+*** MSTART 043 014.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 14.  Judges of the Supreme and Appellate Courts holding office at the time this article is
+adopted shall continue in office as a judge of the appropriate court and district, as if appointed
+thereto, until the expiration of their elected or appointed term.  At the general election
+immediately preceding expiration of their term, these judges shall have their names submitted to
+the voters under the provisions of Section 11 or Article 7.
+
+*** MEND ***
+*** MSTART 044 015.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 15. No Limitation on Term of Office. The provisions of Article 15, Section 2, prohibiting
+terms of office longer than four years, shall not apply to justices and judges.
+
+*** MEND ***
+*** MSTART 045 016.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 16. Prosecuting Attorneys. There shall be elected in each judicial circuit by the voters
+thereof a prosecuting attorney, who shall have been admitted to the practice of law in this State
+before his election, who shall hold his office for four years, and whose term of office shall begin
+on the first day of January next succeeding his election. The election of prosecuting attorneys
+under this section shall be held at the time of holding the general election in the year 1974 and
+each four years thereafter. 
+
+*** MEND ***
+*** MSTART 046 017.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 17. Grand Jury. The General Assembly may modify, or abolish, the grand jury system.
+
+*** MEND ***
+*** MSTART 047 018.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 18. Criminal Prosecutions. All criminal prosecutions shall be carried on in the name, and
+by the authority of the state; and the style of all process shall be: "The State of Indiana."
+
+*** MEND ***
+*** MSTART 048 019.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 19. Pay. The Justices of Supreme Court and Judges of the Court of Appeals and of the
+Circuit Courts shall at stated times receive a compensation which shall not be diminished during
+their continuance in office.
+
+*** MEND ***
+*** MSTART 049 020.0 007.0 0 IN 1851 1970 ***
+
+Ratified November 3, 1970
+
+Section 20.  All superior, criminal, juvenile, probate, municipal, city and magistrates courts in
+existence immediately prior to the taking effect of this amendment shall remain in existence after
+the taking effect of this amendment, and all laws relating to such courts or governing the
+organization, jurisdiction, or proceedings thereof which are in effect immediately prior to the
+taking effect of this amendment shall remain in effect unless and until such courts are abolished or
+altered or such laws repealed or amended by an act of the General Assembly pursuant to this
+amendment.
+  All judges of superior, criminal, juvenile, probate, and municipal courts holding office
+immediately prior to the taking effect of this amendment shall continue in office as judges of such
+courts until the expiration of such term of office, and in no event shall any court be abolished prior
+to the expiration of the term of office for which the judge thereof was elected  or appointed prior
+to the taking effect of this amendment.
+
+*** MEND ***
+*** MSTART 050 001.0 005.0 0 IN 1851 1972 ***
+
+Ratified November 7, 1972
+
+Section 1. The executive power of the State shall be vested in a Governor. He shall hold his office
+during four years, and shall not be eligible more than eight years in any period of twelve years.
+
+*** MEND ***
+*** MSTART 051 014.0 005.0 0 IN 1851 1972 ***
+
+Ratified November 7, 1972
+
+Section 14. (a) Every bill which shall have passed the General Assembly shall be presented to the
+Governor. The Governor shall have seven days after the day of presentment to act upon such bill
+as follows:
+    (1) He may sign it, in which event it shall become a law.
+    (2) He may veto it:
+        (A) In the event of a veto while the General Assembly is in session, he shall return such bill,
+with his objections, within seven days of presentment, to the House in which it originated, which
+House shall enter the objection at large upon its journals and proceed to reconsider the bill.  If,
+after such reconsideration, a majority of all the member elected to that House shall approve the
+bill, it shall be sent, with the Governor's objections, to the other House, by which it shall likewise
+be reconsidered and, if approved by a majority of all the members elected to that House, it shall 
+be a law.  If such bill is not so returned by the Governor within seven days of presentment, the bill
+becomes a law notwithstanding the veto.
+         (B) In the event of a veto after final adjournment of a session of the General Assembly, or
+during a temporary adjournment of a session, such bill shall be returned by the Governor to the
+House in which it originated on the first day that the General Assembly is in session after such
+adjournment, which House shall proceed in the same manner as with a bill vetoed before
+adjournment.  If such bill is not so returned, it shall be a law notwithstanding such veto.
+  
+    (3) He may refuse to sign or veto such bill in which event it shall become a law without his
+signature on the eighth day after presentment to the Governor.
+
+Every bill presented to the Governor which is signed by him or on which he fails to act
+within said seven days after presentment shall be filed with the Secretary of State within ten days
+of presentment. The failure to so file shall not prevent such a bill from becoming a law.
+In the event a bill is passed over the Governor's veto, such bill shall be filed with the
+Secretary of State without further presentment to the Governor: Provided, That, in the event of
+such passage over the Governor's veto in the next succeeding General Assembly, the passage
+shall be deemed to have been the action of the General Assembly which initially passed such bill.
+
+*** MEND ***
+*** MSTART 052 008.0 008.0 0 IN 1851 1972 ***
+
+Ratified November 7, 1972
+
+Section 8.  There shall be a State Superintendent of Public Instruction, whose method of
+selection, tenure, duties and compensation shall be prescribed by law.
+
+SCHEDULE.  The tenure of both the incumbent and the Superintendent of Public Instruction-
+elect at the time this amendment is ratified by the electors of this state shall not be changed.  All
+laws not in conflict with this amendment shall remain in full force and effect until repealed or
+amended.
+
+*** MEND ***
+*** MSTART 053 019.0 004.0 0 IN 1851 1974 ***
+
+Ratified November 5, 1974
+
+Section 19. An act, except an act for the codification, revision or rearrangement of laws, shall be
+confined to one subject and matters properly connected therewith.
+
+*** MEND ***
+*** MSTART 054 004.0 005.0 0 IN 1851 1974 ***
+
+Ratified November 5, 1974
+   
+Section 4. Each candidate for Lieutenant Governor shall run jointly in the general election with a
+candidate for Governor, and his name shall appear jointly on the ballot with the candidate for
+Governor. Each vote cast for a candidate for Governor shall be considered cast for the candidate
+for Lieutenant Governor as well. The candidate for Lieutenant Governor whose name appears on
+the ballot jointly with that of the successful candidate for Governor shall be elected Lieutenant
+Governor.
+
+*** MEND ***
+*** MSTART 055 005.0 005.0 0 IN 1851 1974 ***
+
+Ratified November 5, 1974
+
+Section 5.  In the event of a tie vote, the Governor and Lieutenant Governor shall be elected from
+the candidates having received the tie vote by the affirmative vote in joint session of a majority of
+the combined membership of both Houses as the first order of business after their organization.
+
+*** MEND ***
+*** MSTART 056 001.0 012.0 0 1851 1974 ***
+
+Ratified November 5, 1974
+
+Section 1. A militia shall be provided and shall consist of all persons over the age of seventeen
+(17) years, except those persons who may be exempted by the laws of the United States or of this
+state. The militia may be divided into active and inactive classes and consist of such military
+organizations as may be provided by law.
+
+*** MEND ***
+*** MSTART 057 002.0 012.0 0 IN 1851 1974 ***
+
+Ratified November 5, 1974
+
+Section 2. The Governor is Commander-in-Chief of the militia and other military forces of this 
+state.
+
+*** MEND ***
+*** MSTART 058 003.0 012.0 0 IN 1851 1974 ***
+
+Ratified November 5, 1974
+
+Section 3. There shall be an Adjutant General, who shall be appointed by the Governor.
+
+*** MEND ***
+*** MSTART 059 004.0 012.0 0 IN 1851 1974 ***
+
+Ratified November 5, 1974
+
+Section 4. No person, conscientiously opposed to bearing arms, shall be compelled to do so in the
+militia.
+
+*** MEND ***
+*** MSTART 060 005.0 012.0 0 IN 1851 1974 ***
+
+Ratified November 5, 1974
+
+Section 5.  REPEALED
+
+*** MEND ***
+*** MSTART 061 006.0 012.0 0 IN 1851 1974 ***
+
+Ratified November 5, 1974
+
+Section 6.  REPEALED 
+
+*** MEND ***
+*** MSTART 062 002.0 002.0 0 IN 1851 1976 ***
+
+Ratified November 2, 1976
+
+Section 2.  Every citizen of the United States, of the age of eighteen (18) years or more, who has
+been a resident of the precinct thirty (30) days immediately preceding such election, shall be
+entitled to vote in the precinct where he or she may reside.
+
+*** MEND ***
+*** MSTART 063 011.0 006.0 0 IN 1851 1976 ***
+
+Ratified November 2, 1976
+
+Section 11.  The term of office of each sheriff shall be four years beginning upon the first day of
+January next following his election and there shall be no limitation placed upon the number of
+consecutive terms a person may serve as sheriff.
+
+*** MEND ***
+*** MSTART 064 010.0 005.0 0 IN 1851 1978 ***
+
+Ratified November 7, 1978
+
+Section 10. (a) In case the Governor-elect fails to assume office, or in case of the death or
+resignation of the Governor or his removal from office, the Lieutenant Governor shall become
+Governor and hold office for the unexpired term of the person whom he succeeds. In case the
+Governor is unable to discharge the powers and duties of his office, the Lieutenant Governor shall
+discharge the powers and duties of the office as Acting Governor.
+    (b) Whenever there is a vacancy in the office of Lieutenant Governor, the Governor shall
+nominate a Lieutenant Governor who shall take office upon confirmation by a majority vote in
+each house of the general assembly and hold office for the unexpired term of the person whom he
+succeeds. If the general assembly is not in session, the Governor shall call it into special session to
+receive and act upon the Governor's nomination. In the event of the inability of the Lieutenant
+Governor to discharge the powers and duties of his office, the General Assembly may provide by
+law for the manner in which a person shall be selected to act in his place and declare which
+powers and duties of the office such person shall discharge.
+    (c) Whenever the Governor transmits to the President pro tempore of the Senate and the
+Speaker of the House of Representatives his written declaration that he is unable to discharge the
+powers and duties of his office, and until he transmits to them a written declaration to the
+contrary, such powers and duties shall be discharged by the Lieutenant Governor as Acting
+Governor. Thereafter, when the Governor transmits to the President pro tempore of the Senate
+and the Speaker of the House of Representatives his written declaration that no inability exists, he
+shall resume the powers and duties of his office.
+    (d) Whenever the President pro tempore of the Senate and the Speaker of the House of
+Representatives file with the Supreme Court a written statement suggesting that the Governor is
+unable to discharge the powers and duties of his office, the Supreme Court shall meet within
+forty-eight hours to decide the question and such decision shall be final. Thereafter, whenever the
+Governor files with the Supreme Court his written declaration that no inability exists, the
+Supreme Court shall meet within forty-eight hours to decide whether such be the case and such
+decision shall be final. Upon a decision that no inability exists, the Governor shall resume the
+powers and duties of his office.
+    (e) Whenever there is a vacancy in both the office of Governor and Lieutenant Governor, the
+general assembly shall convene in joint session forty-eight hours after such occurrence and elect a
+Governor from and of the same political party as the immediately past Governor by a majority
+vote of each house.
+
+*** MEND ***
+*** MSTART 065 001.0 001.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 1. WE DECLARE, That all people are created equal; that they are endowed by their
+CREATOR with certain inalienable rights; that among these are life, liberty, and the pursuit of
+happiness; that all power is inherent in the people; and that all free governments are, and of right
+ought to be, founded on their authority, and instituted for their peace, safety, and well-being. For
+the advancement of these ends, the people have, at all times, an indefeasible right to alter and
+reform their government.
+
+*** MEND ***
+*** MSTART 066 002.0 001.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 2. All people shall be secured in the natural right to worship ALMIGHTY GOD,
+according to the dictates of their own consciences.
+
+*** MEND ***
+*** MSTART 067 004.0 001.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 4. No preference shall be given, by law, to any creed, religious society, or mode of
+worship; and no person shall be compelled to attend, erect, or support, any place of worship, or to
+maintain any ministry, against his consent.
+
+*** MEND ***
+*** MSTART 068 012.0 001.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 12. All courts shall be open; and every person, for injury done to him in his person,
+property, or reputation, shall have remedy by due course of law. Justice shall be administered
+freely, and without purchase; completely, and without denial; speedily, and without delay.
+
+*** MEND ***
+*** MSTART 069 021.0 001.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 21. No person's particular services shall be demanded, without just compensation. No
+person's property shall be taken by law, without just compensation; nor, except in case of the
+State, without such compensation first assessed and tendered.
+
+*** MEND ***
+*** MSTART 070 037.0 001.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 37. There shall be neither slavery, nor involuntary servitude, within the State, otherwise
+than for the punishment of crimes, whereof the party shall have been duly convicted.
+
+*** MEND ***
+*** MSTART 071 002.0 002.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 2.  Every citizen of the United States, of the age of eighteen (18) years or more, who has
+been a resident of a precinct thirty (30) days immediately preceding such election, shall be entitled
+to vote in that precinct.
+
+*** MEND ***
+*** MSTART 072 003.0 002.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984 
+
+Section 3.  No member of the armed forces of the United States, or of their allies, shall be deemed
+to have acquired a residence in the State, in consequence of having been stationed within the
+same; nor shall any such person have the right to vote.
+
+*** MEND ***
+*** MSTART 073 007.0 002.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 7.  REPEALED
+
+*** MEND ***
+*** MSTART 074 009.0 002.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 9. No person holding a lucrative office or appointment under the United States or under
+this State is eligible to a seat in the General Assembly; and no person may hold more than one
+lucrative office at the same time, except as expressly permitted in this Constitution. Offices in the
+militia to which there is attached no annual salary shall not be deemed lucrative.
+
+*** MEND ***
+*** MSTART 075 002.0 004.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 2. The Senate shall not exceed fifty, nor the House of Representatives one hundred
+members; and they shall be chosen by the electors of the respective districts into which the State
+may, from time to time, be divided.
+
+*** MEND ***
+*** MSTART 076 003.0 004.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 3. Senators shall be elected for the term of four years, and Representatives for the term of
+two years, from the day next after their general election. One half of the Senators, as nearly as
+possible, shall be elected biennially.
+
+*** MEND ***
+*** MSTART 077 004.0 004.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 4. The General Assembly may provide by law for the filling of such vacancies as may
+occur in the General Assembly.
+
+*** MEND ***
+*** MSTART 078 005.0 004.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 5. The General Assembly elected during the year in which a federal decennial census is
+taken shall fix by law the number of Senators and Representatives and apportion them among
+districts according to the number of inhabitants in each district, as revealed by that federal
+decennial census. The territory in each district shall be contiguous.
+
+*** MEND ***
+*** MSTART 079 006.0 004.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 6.  REPEALED
+
+*** MEND ***
+*** MSTART 080 007.0 004.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 7. No person shall be a Senator or a Representative, who, at the time of his election, is
+not a citizen of the United States; nor any one who has not been for two years next preceding his
+election, an inhabitant of this State, and, for one year next preceding his election, an inhabitant of
+the district whence he may be chosen. Senators shall be at least twenty-five, and Representatives
+at least twenty-one years of age.
+
+*** MEND ***
+*** MSTART 081 009.0 004.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 9. The sessions of the General Assembly shall be held at the capitol of the State,
+commencing on the Tuesday next after the second Monday in January of each year in which the
+General Assembly meets unless a different day or place shall have been appointed by law. But if,
+in the opinion of the Governor, the public welfare shall require it, he may, at any time by
+proclamation, call a special session. The length and frequency of the sessions of the General
+Assembly shall be fixed by law.
+
+*** MEND ***
+*** MSTART 082 018.0 004.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 18. Every bill shall be read, by title, on three several days, in each House; unless, in case
+of emergency, two-thirds of the House where such bill may be pending shall, by a vote of yeas and
+nays, deem it expedient to dispense with this rule; but the reading of a bill, by title, on its final
+passage, shall, in no case, be dispensed with; and the vote on the passage of every bill or joint
+resolution shall be taken by yeas and nays.
+
+*** MEND ***
+*** MSTART 083 022.0 004.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 22. The General Assembly shall not pass local or special laws:
+     Providing for the punishment of crimes and misdemeanors;
+     Regulating the practice in courts of justice;
+     Providing for changing the venue in civil and criminal cases;
+     Granting divorces;
+     Changing the names of persons;
+     Providing for laying out, opening, and working on, highways, and for the election or 
+appointment of supervisors;
+     Vacating roads, town plats, streets, alleys, and public squares;
+     Summoning and empaneling grand and petit juries, and providing for their 
+compensation;
+     Regulating county and township business;
+     Regulating the election of county and township officers and their compensation;
+     Providing for the assessment and collection of taxes for State, county, township, or 
+road purposes;
+     Providing for the support of common schools, or the preservation of school funds;
+     Relating to fees or salaries, except that the laws may be so made as to grade the 
+compensation of officers in proportion to the population and the necessary services required;
+     Relating to interest on money;
+     Providing for opening and conducting elections of State, county, or township 
+officers, and designating the places of voting; 
+Providing for the sale of real estate belonging to minors or other persons laboring under
+legal disabilities, by executors, administrators, guardians, or trustees. 
+
+*** MEND ***
+*** MSTART 084 024.0 004.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 24. Provision may be made, by general law, for bringing suit against the State; but no
+special law authorizing such suit to be brought, or making compensation to any person claiming
+damages against the State, shall ever be passed.
+
+*** MEND ***
+*** MSTART 085 012.0 005.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 12. The Governor shall be commander-in-chief of the armed forces, and may call out such
+forces, to execute the laws, or to suppress insurrection, or to repel invasion.
+
+*** MEND ***
+*** MSTART 086 013.0 005.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 13. The Governor shall, from time to time, give to the General Assembly information
+touching the condition of the State, and recommend such measures as he shall judge to be
+expedient.
+
+*** MEND ***
+*** MSTART 087 016.0 005.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 16. The Governor shall take care that the laws are faithfully executed.
+
+*** MEND ***
+*** MSTART 088 017.0 005.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 17. The Governor may grant reprieves, commutations, and pardons, after conviction, for
+all offenses except treason and cases of impeachment, subject to such regulations as may be
+provided by law. Upon conviction for treason, the Governor may suspend the execution of the
+sentence, until the case has been reported to the General Assembly, at its next meeting, when the
+General Assembly shall either grant a pardon, commute the sentence, direct the execution of the
+sentence, or grant a further reprieve. The Governor may remit fines and forfeitures, under such
+regulations as may be provided by law; and shall report to the General Assembly, at its next
+meeting, each case of reprieve, commutation, or pardon granted, and also the names of all persons
+in whose favor remission of fines and forfeitures were made, and the several amounts remitted;
+provided, however, the General Assembly may, by law, constitute a council composed of officers
+of State, without whose advice and consent the Governor may not grant pardons, in any case,
+except those left to his sole power by law.
+
+*** MEND ***
+*** MSTART 089 019.0 005.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 19.  REPEALED
+
+*** MEND ***
+*** MSTART 090 020.0 005.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 20. Should the seat of government become dangerous from disease or a common enemy,
+the Governor may convene the General Assembly at any other place.
+
+*** MEND ***
+*** MSTART 091 002.0 006.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 2. There shall be elected, in each county by the voters thereof, at the time of holding
+general elections, a Clerk of the Circuit Court, Auditor, Recorder, Treasurer, Sheriff, Coroner,
+and Surveyor, who shall, severally, hold their offices for four years; and no person shall be eligible
+to the office of Clerk, Auditor, Recorder, Treasurer, Sheriff, or Coroner more than eight years in
+any period of twelve years.
+
+*** MEND ***
+*** MSTART 092 004.0 006.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 4. No person shall be elected, or appointed, as a county officer, who is not an elector of
+the county and who has not been an inhabitant of the county one year next preceding his election
+or appointment.
+
+*** MEND ***
+*** MSTART 093 011.0 006.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 11.  REPEALED 
+
+*** MEND ***
+*** MSTART 094 014.0 007.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 14.  REPEALED 
+
+*** MEND ***
+*** MSTART 095 020.0 007.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 20.  REPEALED
+
+*** MEND ***
+*** MSTART 096 008.0 008.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984 
+
+Section 8. There shall be a State Superintendent of Public Instruction, whose method of selection,
+tenure, duties and compensation shall be prescribed by law.
+
+*** MEND ***
+*** MSTART 097 001.0 009.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 1. It shall be the duty of the General Assembly to provide, by law, for the support of
+institutions for the education of the deaf, the mute, and the blind; and for the treatment of the
+insane.
+
+*** MEND ***
+*** MSTART 098 002.0 009.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 2. The General Assembly shall provide institutions for the correction and reformation of
+juvenile offenders.
+
+*** MEND ***
+*** MSTART 099 003.0 009.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+Section 3. The counties may provide farms, as an asylum for those persons who, by reason of age,
+infirmity, or other misfortune, have claims upon the sympathies and aid of society.
+
+*** MEND ***
+*** MSTART 100 012.0 011.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984 
+
+Section 12.  The state shall not be a stockholder in any bank; nor shall the credit of the State ever
+be given, or loaned, in aid of any person, association or corporation; nor shall the State become a
+stockholder in any corporation or association.
+
+*** MEND ***
+*** MSTART 101 001.0 9003.0 0 IN 1851 1984 ***
+
+Ratified November 6, 1984
+
+SCHEDULE
+
+Whenever a portion of the citizens of the counties of Perry and Spencer, shall deem it expedient
+to form, of the contiguous territory of said counties, a new County, it shall be the duty of those
+interested in the organization of such new county, to lay off the same, by proper metes and
+bounds, of equal portions as nearly as practicable, not to exceed one-third of the territory of each
+of said counties. The proposal to create such new county shall be submitted to the voters of said
+counties, at a general election, in such manner as shall be prescribed by law. And if a majority of
+all the votes given at said election, shall be in favor of the organization of said new county, it shall
+be the duty of the General Assembly to organize the same, out of the territory thus designated.
+The General Assembly may alter or amend the charter of Clarksville, and make such
+regulations as may be necessary for carrying into effect the objects contemplated in granting the
+same; and the funds belonging to said town shall be applied, according to the intention of the
+grantor.
+
+*** MEND ***
+*** MSTART 102 004.0 007.0 0 IN 1851 1988 ***
+
+Ratified November 8, 1988
+
+Section 4. The Supreme Court shall have no original jurisdiction except in admission to the
+practice of law; discipline or disbarment of those admitted; the unauthorized practice of law;
+discipline, removal and retirement of justices and judges; supervision of the exercise of jurisdiction
+by the other courts of the State; and issuance of writs necessary or appropriate in aid of its
+jurisdiction. The Supreme Court shall exercise appellate jurisdiction under such terms and
+conditions as specified by rules except that appeals from a judgment imposing a sentence of death,
+life imprisonment or imprisonment for a term greater than fifty years shall be taken directly to the
+Supreme Court. The Supreme Court shall have, in all appeals of criminal cases, the power to
+review all questions of law and to review and revise the sentence imposed.
+
+*** MEND ***
+*** MSTART  103 000.0 015.0 0 IN 1851 1988 ***
+
+Ratified November 8, 1988
+
+Section 8.  REPEALED
+
+*** MEND ***
+*** MSTART 104 014.0 005.0 0 IN 1851 1990 ***
+
+Ratified November 6, 1990
+
+Section 14. (a) Every bill which shall have passed the General Assembly shall be presented to the
+Governor. The Governor shall have seven days after the day of presentment to act upon such bill
+as follows:
+    (1) He may sign it, in which event it shall become a law.
+    (2) He may veto it:
+        (A) In the event of a veto while the General Assembly is in session, he shall return such bill,
+with his objections, within seven days of presentment, to the House in which it originated. If the
+Governor does not return the bill within seven days of presentment, the bill becomes a law
+notwithstanding the veto.
+        (B) If the Governor returns the bill under clause (A), the House in which the bill originated
+shall enter the Governor's objections at large upon its journals and proceed to reconsider and vote
+upon whether to approve the bill. The bill must be reconsidered and voted upon within the time
+set out in clause (C). If, after such reconsideration and vote, a majority of all the members elected
+to that House shall approve the bill, it shall be sent, with the Governor's objections, to the other
+House, by which it shall likewise be reconsidered and voted upon, and, if approved by a majority
+of all the members elected to that House, it shall be a law.
+        (C) If the Governor returns the bill under clause (A), the General Assembly shall reconsider
+and vote upon the approval of the bill before the final adjournment of the next regular session of
+the General Assembly that follows the regular or special session in which the bill was originally
+passed. If the House in which the bill originated does not approve the bill under clause (B), the
+other House is not required to reconsider and vote upon the approval of the bill. If, after voting,
+either House fails to approve the bill within this time, the veto is sustained.
+        (D) In the event of a veto after final adjournment of a session of the General Assembly, such
+bill shall be returned by the Governor to the House in which it originated on the first day that the
+General Assembly is in session after such adjournment, which House shall proceed in the same
+manner as with a bill vetoed before adjournment. The bill must be reconsidered and voted upon
+within the time set out in clause (C). If such bill is not so returned, it shall be a law
+notwithstanding such veto.
+    (3) He may refuse to sign or veto such bill in which event it shall become a law without his
+signature on the eighth day after presentment to the Governor.
+    (b) Every bill presented to the Governor which is signed by him or on which he fails to act
+within said seven days after presentment shall be filed with the Secretary of State within ten days
+of presentment. The failure to so file shall not prevent such a bill from becoming a law.
+    (c) In the event a bill is passed over the Governor's veto, such bill shall be filed with the
+Secretary of State without further presentment to the Governor, provided that, in the event of
+such passage over the Governor's veto in the next succeeding General Assembly, the passage shall
+be deemed to have been the action of the General Assembly which initially passed such bill.
+
+*** MEND ***
+*** MSTART 105 013.0 001.0 0 IN 1851 1996 ***
+
+Ratified November 4, 1996
+
+Section 13. (a) In all criminal prosecutions, the accused shall have the right to a public trial, by an
+impartial jury, in the county in which the offense shall have been committed; to be heard by
+himself and counsel; to demand the nature and cause of the accusation against him, and to have a
+copy thereof; to meet the witnesses face to face, and to have compulsory process for obtaining
+witnesses in his favor.
+
+(b) Victims of crime, as defined by law, shall have the right to be treated with fairness, dignity,
+and respect throughout the criminal justice process; and, as defined by law, to be informed of and
+present during public hearings and to confer with the prosecution, to the extent that exercising
+these rights does not infringe upon the constitutional rights of the accused.
+
+*** MEND ***
+*** MSTART 106 012.0 011.0 0 IN 1851 1996 ***
+
+Ratified November 5, 1996
+
+Section 12. The State shall not be a stockholder in any bank; nor shall the credit of the State ever
+be given, or loaned, in aid of any person, association or corporation; nor shall the State become a
+stockholder in any corporation or association. However, the General Assembly may by law, with
+limitations and regulations, provide that prohibitions in this section do not apply to a public
+employee retirement fund.
+
+*** MEND ***
+*** MSTART 107 002.0 002.0 0 IN 1851 1998 ***
+
+Ratified November 3, 1998
+
+Section 2. (a) A citizen of the United States who is at least eighteen (18) years of age and who
+has been a resident of a precinct thirty (30) days immediately preceding an election may vote in
+that precinct at the election.
+(b) A citizen may not be disenfranchised under subsection (a), if the citizen is entitled to vote in a
+precinct under subsection (c) or federal law.
+(c) The General Assembly may provide that a citizen who ceases to be a resident of a precinct
+before an election may vote in a precinct where the citizen previously resided if, on the date of the
+election, the citizen's name appears on the registration rolls for the precinct. 
+
+*** MEND ***
+*** MSTART 108 003.0 002.0 0 IN 1851 1998 ***
+
+Section 3.  REPEALED
+
+*** MEND ***
+*** MSTART 109 014.0 002.0 0 IN 1851 1998 ***
+
+Ratified November 3, 1998
+
+Section 14. (a) General elections shall be held on the first Tuesday after the first Monday in 
+November.
+(b) The General Assembly may provide by law for the election of all judges of courts of general
+and appellate jurisdiction, by an election to be held for such officers only, at which time no other
+officer shall be voted for.
+(c) The General Assembly shall provide for the registration of all persons entitled to vote. 
+
+*** MEND ***
+*** MSTART 110 005.0 006.0 0 IN 1851 1998 ***
+
+Ratified November 3, 1998
+
+Section 5. (a) The Governor, and the Secretary, Auditor, and Treasurer of State, shall severally
+keep the public records, books, and papers, in any manner relating to their respective offices, at
+the seat of government.
+(b) The Governor shall reside at the seat of government.
+
+*** MEND ***
+*** MSTART 111 001.0 016.0 0 IN 1851 1998 ***            
+
+Ratified November 3, 1998
+
+Section 1. (a) An amendment to this Constitution may be proposed in either branch of the General
+Assembly. If the amendment is agreed to by a majority of the members elected to each of the two
+houses, the proposed amendment shall, with the yeas and nays thereon, be entered on their
+journals, and referred to the General Assembly to be chosen at the next general election.
+(b) If, in the General Assembly so next chosen, the proposed amendment is agreed to by a
+majority of all the members elected to each House, then the General Assembly shall submit the
+amendment to the electors of the State at the next general election.
+(c) If a majority of the electors voting on the amendment ratify the amendment, the amendment
+becomes a part of this Constitution. 
+
+*** MEND ***
+
+*** CEND ***
+                 
+

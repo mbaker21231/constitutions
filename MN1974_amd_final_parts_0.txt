@@ -1,0 +1,415 @@
+  Heather worked on this constitution.
+  
+  I worked on 9/34/03
+  
+  This is ready to go.
+  
+  
+  *** CSTART MN 11/05/1974 1/1/2003 ***
+  
+  *** MSTART 001 009.0 007.0 0 MN 1974 1980 ***
+  Ratified November 4, 1980
+  Sec. 9. The amount that may be spent by candidates for constitutional and legislative
+  offices to campaign for nomination or election shall be limited by law. The legislature
+  shall provide by law for disclosure of contributions and expenditures made to support or
+  oppose candidates for state elective offices.
+  
+  *** MEND ***
+  *** MSTART 002 001.0 006.0 0 MN 1974 1982 ***
+  
+  Ratified November 2, 1982
+  
+  Section 1. The judicial power of the state is vested in a supreme court, a court of appeals,
+  if established by the legislature, a district court and such other courts, judicial officers and
+  commissioners with jurisdiction inferior to the district court as the legislature may
+  establish.  
+  
+  *** MEND ***
+  *** MSTART 003 002.0 006.0 0 MN 1974 1982 ***
+  
+  Ratified November 2, 1982
+  
+  Sec. 2. The supreme court consists of one chief judge and not less than six nor more than
+  eight associate judges as the legislature may establish. It shall have original jurisdiction in
+  such remedial cases as are prescribed by law, and appellate jurisdiction in all cases, but
+  there shall be no trial by jury in the supreme court. 
+  The legislature may establish a court of appeals and provide by law for the
+  number of its judges, who shall not be judges of any other court, and its organization and
+  for the review of its decisions by the supreme court. The court of appeals shall have
+  appellate jurisdiction over all courts, except the supreme court, and other appellate
+  jurisdiction as prescribed by law. 
+  As provided by law judges of the court of appeals or of the district court may be
+  assigned temporarily to act as judges of the supreme court upon its request and judges of
+  the district court may be assigned temporarily by the supreme court to act as judges of the
+  court of appeals. 
+  The supreme court shall appoint to serve at its pleasure a clerk, a reporter, a state
+  law librarian and other necessary employees. 
+  
+  *** MEND ***
+  *** MSTART 004 005.0 006.0 0 MN 1974 1982 ***
+  
+  Ratified November 2, 1982 
+  Sec. 5.  Judges of the supreme court, the court of appeals and the district court shall be
+  learned in the law. The qualifications of all other judges and judicial officers shall be
+  prescribed by law. The compensation of all judges shall be prescribed by the legislature
+  and shall not be diminished during their term of office. 
+  
+  *** MEND ***
+  *** MSTART 005 006.0 006.0 0 MN 1974 1982 ***
+  
+  Ratified November 2, 1982 
+  Sec. 6.  A judge of the supreme court, the court of appeals or the district court shall not
+  hold any office under the United States except a commission in a reserve component of
+  the military forces of the United States and shall not hold any other office under this state.
+  His term of office shall terminate at the time he files as a candidate for an elective office
+  of the United States or for a nonjudicial office of this state.
+  
+  *** MEND ***
+  *** MSTART 006 002.0 008.0 0 MN 1974 1982 ***
+  
+  Ratified November 2, 1982
+  
+  Sec. 2.  The governor, secretary of state, treasurer, auditor, attorney general and the
+  judges of the supreme court, court of appeals and district courts may be impeached for
+  corrupt conduct in office or for crimes and misdemeanors; but judgment shall not extend
+  further than to removal from office and disqualification to hold and enjoy any office of
+  honor, trust or profit in this state.  The party convicted shall also be subject to indictment,
+  trial, judgment and punishment according to law.
+  
+  *** MEND ***
+  *** MSTART 007 011.0 014.0 0 MN 1974 1982 ***
+  
+  Ratified November 2, 1982
+  
+  Sec. 11. The legislature may provide by law for the sale of bonds to carry out the
+  provisions of section 2. The proceeds shall be paid into the trunk highway fund. Any
+  bonds shall mature serially over a term not exceeding 20 years and shall not be sold for
+  less than par and accrued interest. If the trunk highway fund is not adequate to pay
+  principal and interest of these bonds when due, the legislature may levy on all taxable
+  property of the state in an amount sufficient to meet the deficiency or it may appropriate
+  to the fund money in the state treasury not otherwise appropriated.
+  
+  *** MEND ***
+  *** MSTART 008 008.0 010.0 0 MN 1974 1982 ***
+  
+  Ratified November 2, 1982
+  
+  Sec. 8. The legislature may authorize on-track parimutuel betting on horse racing in a
+  manner prescribed by law.
+  
+  *** MEND ***
+  *** MSTART 009 005.0 011.0 0 MN 1974 1982 ***
+  
+  Ratified November 2, 1982 
+  
+  Sec. 5. Public debt may be contracted and works of internal improvements carried on for
+  the following purposes: 
+  (a) to acquire and to better public land and buildings and other public
+  improvements of a capital nature and to provide money to be appropriated or loaned to
+  any agency or political subdivision of the state for such purposes if the law authorizing
+  the debt is adopted by the vote of at least three-fifths of the members of each house of the
+  legislature; 
+  (b) to repel invasion or suppress insurrection; 
+  (c) to borrow temporarily as authorized in section 6; 
+  (d) to refund outstanding bonds of the state or any of its agencies whether or not
+  the full faith and credit of the state has been pledged for the payment of the bonds; 
+  (e) to establish and maintain highways subject to the limitations of article XIV; 
+  (f) to promote forestation and prevent and abate forest fires, including the
+  compulsory clearing and improving of wild lands whether public or private; 
+  (g) to construct, improve and operate airports and other air navigation facilities; 
+  (h) to develop the state's agricultural resources by extending credit on real estate
+  security in the manner and on the terms and conditions prescribed by law; 
+  (i) to improve and rehabilitate railroad rights-of-way and other rail facilities
+  whether public or private, provided that bonds issued and unpaid shall not at any time
+  exceed $200,000,000 par value; and 
+  (j) as otherwise authorized in this constitution. 
+  As authorized by law political subdivisions may engage in the works permitted by
+  (f), (g), and (i) and contract debt therefor.
+  
+  *** MEND ***
+  *** MSTART 010 008.0 011.0 0 MN 1974 1984 ***
+  
+  Ratified November 6, 1984
+  
+  Sec. 8. The permanent school fund of the state consists of (a) the proceeds of lands
+  granted by the United States for the use of schools within each township, (b) the proceeds
+  derived from swamp lands granted to the state, (c) all cash and investments credited to the
+  permanent school fund and to the swamp land fund, and (d) all cash and investments
+  credited to the internal improvement land fund and the lands therein. No portion of these
+  lands shall be sold otherwise than at public sale, and in the manner provided by law. All
+  funds arising from the sale or other disposition of the lands, or income accruing in any
+  way before the sale or disposition thereof, shall be credited to the permanent school fund.
+  Within limitations prescribed by law, the fund shall be invested to secure the maximum
+  return consistent with the maintenance of the perpetuity of the fund. The principal of the
+  permanent school fund shall be perpetual and inviolate forever. This does not prevent the
+  sale of investments at less than the cost to the fund; however, all losses not offset by gains
+  shall be repaid to the fund from the interest and dividends earned thereafter. The net
+  interest and dividends arising from the fund shall be distributed to the different school
+  districts of the state in a manner prescribed by law.
+              A board of investment consisting of the governor, the state auditor, the state
+  treasurer, the secretary of state, and the attorney general is hereby constituted for the
+  purpose of administering and directing the investment of all state funds. The board shall
+  not permit state funds to be used for the underwriting or direct purchase of municipal
+  securities from the issuer or the issuer's agent.
+  
+  *** MEND ***
+  *** MSTART 011 010.0 011.0 0 MN 1974 1984 ***
+  
+  Ratified November 6, 1984 
+  
+  Sec. 10. As the legislature may provide, any of the public lands of the state, including
+  lands held in trust for any purpose, may be exchanged for any publicly or privately held
+  lands with the unanimous approval of the governor, the attorney general and the state
+  auditor. Lands so acquired shall be subject to the trust, if any, to which the lands
+  exchanged therefor were subject. The state shall reserve all mineral and water power
+  rights in lands transferred by the state.
+  
+  *** MEND ***
+  *** MSTART 012 014.0 011.0 0 MN 1974 1988 ***
+  
+  Ratified November 8, 1988
+  
+  Sec. 14.  A permanent Minnesota environment and natural resources trust fund is
+  established in the state treasury.  The principal of the environment and natural resources
+  trust fund must be perpetual and inviolate forever, except appropriations may be made
+  from up to 25 percent of the annual revenues deposited in the fund until fiscal year 1997
+  and loans may be made of up to five percent of the principal of the fund for water system
+  improvements as provided by law.  This restriction does not prevent the sale of
+  investments at less than the cost to the fund, however, all losses not offset by gains shall
+  be repaid to the fund from the earnings of the fund.  The net earnings from the fund shall
+  be appropriated in a manner prescribed by law for the public purpose of protection,
+  conservation, preservation, and enhancement of the state's air, water, land, fish, wildlife,
+  and other natural resources.
+  
+  *** MEND ***
+  *** MSTART 013 006.0 001.0 0 MN 1874 1988 ***
+  
+  Ratified November 8, 1988
+  
+  Sec. 6. In all criminal prosecutions the accused shall enjoy the right to a speedy and
+  public trial by an impartial jury of the county or district wherein the crime shall have been
+  committed, which county or district shall have been previously ascertained by law. In all
+  prosecutions of crimes defined by law as felonies, the accused has the right to a jury of 12
+  members. In all other criminal prosecutions, the legislature may provide for the number
+  of jurors, provided that a jury have at least six members. The accused shall enjoy the right
+  to be informed of the nature and cause of the accusation, to be confronted with the
+  witnesses against him, to have compulsory process for obtaining witnesses in his favor
+  and to have the assistance of counsel in his defense. 
+  
+  *** MEND ***
+  *** MSTART 014 004.0 001.0 0 MN 1874 1988 ***
+  
+  Ratified November 8, 1988
+  
+  Sec. 4. The right of trial by jury shall remain inviolate, and shall extend to all cases at law
+  without regard to the amount in controversy. A jury trial may be waived by the parties in
+  all cases in the manner prescribed by law. The legislature may provide that the agreement
+  of five-sixths of a jury in a civil action or proceeding, after not less than six hours'
+  deliberation, is a sufficient verdict. The legislature may provide for the number of jurors
+  in a civil action or proceeding, provided that a jury have at least six members.
+  
+  *** MEND ***
+  *** MSTART 015 005.0 013.0 0 MN 1974 1988 ***
+  
+   Ratified November 8, 1988
+  
+  Sec. 5. The legislature shall not authorize any lottery or the sale of lottery tickets, other
+  than authorizing a lottery and sale of lottery tickets for a lottery operated by the state.
+  
+  *** MEND ***
+  *** MSTART 016 014.0 011.0 0 MN 1974 1990 ***
+  
+  Ratified November 6, 1990
+  
+  Sec. 14.  A permanent Minnesota environment and natural resources trust fund is
+  established in the state treasury.  The principal of the environment and natural resources
+  trust fund must be perpetual and inviolate forever, except appropriations may be made
+  from up to 25 percent of the annual revenues deposited in the fund until fiscal year 1997
+  and loans may be made of up to five percent of the principal of the fund for water system
+  improvements as provided by law.  This restriction does not prevent the sale of
+  investments at less than the cost to the fund, however, all losses not offset by gains shall
+  be repaid to the fund from the earnings of the fund.  The net earnings from the fund shall
+  be appropriated in a manner prescribed by law for the public purpose of protection,
+  conservation, preservation, and enhancement of the state's air, water, land, fish, wildlife,
+  and other natural resources.  Not less than 40 percent of the net proceeds from any state-
+  operated lottery must be credited to the fund until the year 2001.
+  
+  *** MEND ***
+  *** MSTART 017 008.0 013.0 0 MN 1974 1996 ***
+  
+  Ratified November 5, 1996
+  
+  Sec. 8. The state may pay an adjusted compensation to persons who served in the armed
+  forces of the United States during the period of the Vietnam conflict or the Persian Gulf
+  War. Whenever authorized and in the amounts and on the terms fixed by law, the state
+  may expend monies and pledge the public credit to provide money for the purposes of
+  this section. The duration of the Vietnam conflict and the Persian Gulf War may be
+  defined by law.
+  
+  *** MEND ***
+  *** MSTART 018 006.0 008.0 0 MN 1974 1996 ***
+  
+  Ratified November 5, 1996
+  
+  Sec. 6.  A member of the senate or the house of representatives, an executive officer of
+  the state identified in section 1 of article V of the constitution, or a judge of the supreme
+  court, the court of appeals, or a district court is subject to recall from office by the voters.
+  The grounds for recall of a judge shall be established by the supreme court. The grounds
+  for recall of an officer other than a judge are serious malfeasance or nonfeasance during
+  the term of office in the performance of the duties of the office or conviction during the
+  term of office of a serious crime. A petition for recall must set forth the specific conduct
+  that may warrant recall. A petition may not be issued until the supreme court has
+  determined that the facts alleged in the petition are true and are sufficient grounds for
+  issuing a recall petition. A petition must be signed by a number of eligible voters who
+  reside in the district where the officer serves and who number not less than 25 percent of
+  the number of votes cast for the office at the most recent general election. Upon a
+  determination by the secretary of state that a petition has been signed by at least the
+  minimum number of eligible voters, a recall election must be conducted in the manner
+  provided by law. A recall election may not occur less than six months before the end of
+  the officer's term. An officer who is removed from office by a recall election or who
+  resigns from office after a petition for recall issues may not be appointed to fill the
+  vacancy that is created.
+  
+  *** MEND ***
+  *** MSTART 019 014.0 011.0 0 MN 1974 1998 ***
+  
+  Ratified November 3, 1998
+  
+  Sec. 14. A permanent environment and natural resources trust fund is established in the
+  state treasury. Loans may be made of up to five percent of the principal of the fund for
+  water system improvements as provided by law. The assets of the fund shall be
+  appropriated by law for the public purpose of protection, conservation, preservation, and
+  enhancement of the state's air, water, land, fish, wildlife, and other natural resources. The
+  amount appropriated each year of a biennium, commencing on July 1 in each odd-
+  numbered year and ending on and including June 30 in the next odd-numbered year, may
+  be up to 5-1/2 percent of the market value of the fund on June 30 one year before the start
+  of the biennium. Not less than 40 percent of the net proceeds from any state-operated
+  lottery must be credited to the fund until the year 2025.  
+  
+  *** MEND ***
+  *** MSTART 020 012.0 013.0 0 MN 1974 1998 ***
+  
+  Ratified November 3, 1998
+  
+  Sec. 12. Hunting and fishing and the taking of game and fish are a valued part of our
+  heritage that shall be forever preserved for the people and shall be managed by law and
+  regulation for the public good.
+  
+  *** MEND ***
+  *** MSTART 021 001.0 005.0 0 MN 1974 1998 ***
+  
+  Ratified November 3, 1998
+  
+  Section 1. The executive department consists of a governor, lieutenant governor, secretary
+  of state, auditor, and attorney general, who shall be chosen by the electors of the state.
+  The governor and lieutenant governor shall be chosen jointly by a single vote applying to
+  both offices in a manner prescribed by law. 
+   
+  [Note: The office of the state treasurer will be abolished on the first Monday in January
+  2003. Laws 1998, chapter 387, article 1, section 2.]
+  
+  *** MEND ***
+  *** MSTART 022 003.0 005.0 0 MN 1974 1998 ***
+  
+  Ratified November 3, 1998
+  
+  Sec. 3. The governor shall communicate by message to each session of the legislature
+  information touching the state and country. He is commander-in-chief of the military and
+  naval forces and may call them out to execute the laws, suppress insurrection and repel
+  invasion. He may require the opinion in writing of the principal officer in each of the
+  executive departments upon any subject relating to his duties. With the advice and
+  consent of the senate he may appoint notaries public and other officers provided by law.
+  He may appoint commissioners to take the acknowledgment of deeds or other instruments
+  in writing to be used in the state. He shall take care that the laws be faithfully executed.
+  He shall fill any vacancy that may occur in the offices of secretary of state, auditor,
+  attorney general and the other state and district offices hereafter created by law until the
+  end of the term for which the person who had vacated the office was elected or the first
+  Monday in January following the next general election, whichever is sooner, and until a
+  successor is chosen and qualified.
+   
+  [Note: The office of the state treasurer will be abolished on the first Monday in January
+  2003. Laws 1998, chapter 387, article 1, section 2.]
+  
+  *** MEND ***
+  *** MSTART 023 004.0 005.0 0 MN 1974 1998 ***
+  
+  Ratified November 3, 1998
+  
+  Sec. 4. The term of office of the secretary of state, attorney general and state auditor is
+  four years and until a successor is chosen and qualified. The duties and salaries of the
+  executive officers shall be prescribed by law.
+  
+  [Note: The office of the state treasurer will be abolished on the first Monday in January
+  2003. Laws 1998, chapter 387, article 1, section 2.]
+  
+  *** MEND ***
+  *** MSTART 024 002.0 008.0 0 MN 1974 1998 ***
+  
+  Ratified November 3, 1998
+  
+  Sec. 2. The governor, secretary of state, auditor, attorney general and the judges of the
+  supreme court, court of appeals and district courts may be impeached for corrupt conduct
+  in office or for crimes and misdemeanors; but judgment shall not extend further than to
+  removal from office and disqualification to hold and enjoy any office of honor, trust or
+  profit in this state. The party convicted shall also be subject to indictment, trial, judgment
+  and punishment according to law. 
+  
+  [Note: The office of the state treasurer will be abolished on the first Monday in January
+  2003. Laws 1998, chapter 387, article 1, section 2.]
+  
+  *** MEND ***
+  *** MSTART 025 007.0 011.0 0 MN 1974 1998 ***
+  
+  Ratified November 3, 1998
+  
+  Sec. 7. Public debt other than certificates of indebtedness authorized in section 6 shall be
+  evidenced by the issuance of bonds of the state. All bonds issued under the provisions of
+  this section shall mature not more than 20 years from their respective dates of issue and
+  each law authorizing the issuance of bonds shall distinctly specify the purposes thereof
+  and the maximum amount of the proceeds authorized to be expended for each purpose. A
+  separate and special state bond fund shall be maintained on the official books and
+  records. When the full faith and credit of the state has been pledged for the payment of
+  bonds, the state auditor shall levy each year on all taxable property within the state a tax
+  sufficient with the balance then on hand in the fund to pay all principal and interest on
+  bonds issued under this section due and to become due within the ensuing year and to and
+  including July 1 in the second ensuing year. The legislature by law may appropriate funds
+  from any source to the state bond fund. The amount of money actually received and on
+  hand pursuant to appropriations prior to the levy of the tax in any year shall be used to
+  reduce the amount of tax otherwise required to be levied. 
+   
+  [Note: The office of the state treasurer will be abolished on the first Monday in January
+  2003. Laws 1998, chapter 387, article 1, section 2.]
+  
+  *** MEND ***
+  *** MSTART 026 008.0 011.0 0 MN 1974 1998 ***
+  
+  Ratified November 3, 1998
+  
+  Sec. 8. The permanent school fund of the state consists of (a) the proceeds of lands
+  granted by the United States for the use of schools within each township, (b) the proceeds
+  derived from swamp lands granted to the state, (c) all cash and investments credited to the
+  permanent school fund and to the swamp land fund, and (d) all cash and investments
+  credited to the internal improvement land fund and the lands therein. No portion of these
+  lands shall be sold otherwise than at public sale, and in the manner provided by law. All
+  funds arising from the sale or other disposition of the lands, or income accruing in any
+  way before the sale or disposition thereof, shall be credited to the permanent school fund.
+  Within limitations prescribed by law, the fund shall be invested to secure the maximum
+  return consistent with the maintenance of the perpetuity of the fund. The principal of the
+  permanent school fund shall be perpetual and inviolate forever. This does not prevent the
+  sale of investments at less than the cost to the fund; however, all losses not offset by gains
+  shall be repaid to the fund from the interest and dividends earned thereafter. The net
+  interest and dividends arising from the fund shall be distributed to the different school
+  districts of the state in a manner prescribed by law. 
+  A board of investment consisting of the governor, the state auditor, the secretary
+  of state, and the attorney general is constituted for the purpose of administering and
+  directing the investment of all state funds. The board shall not permit state funds to be
+  used for the underwriting or direct purchase of municipal securities from the issuer or the
+  issuer's agent. 
+   
+  [Note: The office of the state treasurer will be abolished on the first Monday in January
+  2003. Laws 1998, chapter 387, article 1, section 2.]
+  
+  *** MEND ***
+  
+  *** CEND ***
+  

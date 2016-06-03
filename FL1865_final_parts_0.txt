@@ -1,0 +1,1502 @@
+  This is ready to go. Including Amendments (none).
+  
+  JW 1.3.02
+  
+  *** CSTART FL 11/07/1865 07/04/1868 ***
+  
+  CONSTITUTION OF FLORIDA 1865  
+                                          
+  *** ASTART 9001.0 FL 1865 ***
+  *** SSTART 001.0 9001.0 0 FL 1865 ***
+  
+  We, the people of the State of Florida, by our delegates in convention assembled, in the
+  city of Tallahassee, on the 25th day of October, in the year of our Lord 1865, and of the
+  Independence of the United States the ninetieth year, in order to secure to ourselves and
+  our posterity the enjoyment of all the rights of life, liberty, and property, and the pursuit of
+  happiness, do mutually agree, each with the other, to form the following constitution and
+  form of government in and for the said State:
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 001.0 FL 1865 ***
+  
+  ARTICLE I
+  
+  DECLARATION OF RIGHTS
+  
+  That the great and essential principles of liberty and free government may be recognized
+  and established, we declare:
+  
+  *** SSTART 001.0 001.0 0 FL 1865 ***
+  
+  SECTION. 1. That all freemen, when they form a government, have certain inherent and
+  indefeasible rights, among which are those of enjoying and defending life and liberty; of
+  acquiring, possessing, and protecting property and reputation, and of pursuing their own
+  happiness.
+  
+  *** SEND ***
+  *** SSTART 002.0 001.0 0 FL 1865 ***
+  
+  SEC. 2. That all political power is inherent in the people, and all free governments are
+  founded on their authority and established for their benefit; and therefore they have at all
+  times in inalienable and indefeasible right to alter or abolish their form of government in
+  such manner as they may deem expedient.
+  
+  *** SEND ***
+  *** SSTART 003.0 001.0 0 FL 1865 ***
+  
+  SEC. 3. That all men have a natural and inalienable right to worship Almighty God
+  according to the dictates of their own conscience, and that no preference shall ever be
+  given by law to any religious establishment or mode of worship in this State.
+  
+  *** SEND ***
+  *** SSTART 004.0 001.0 0 FL 1865 ***
+  
+  SEC. 4. That no property qualification for eligibility to office, or for the right of suffrage,
+  shall ever be required In this State.
+  
+  *** SEND ***
+  *** SSTART 005.0 001.0 0 FL 1865 ***
+  
+  SEC. 5. That every citizen may freely speak, write, and publish his sentiments on all
+  subjects, being responsible for the abuse of that liberty; and no law shall be passed to
+  curtail, abridge, or restrain the liberty of speech or of the press.
+  
+  *** SEND ***
+  *** SSTART 006.0 001.0 0 FL 1865 ***
+  
+  SEC. 6. That the right of trial by jury shall forever remain inviolate.
+  
+  *** SEND ***
+  *** SSTART 007.0 001.0 0 FL 1865 ***
+  
+  SEC. 7. That the people shall be secure in their persons, houses, papers, and possessions,
+  from unreasonable seizures and searches; and that no warrant to search any place, or to
+  seize any person or thing, shall issue without describing the place to be searched, and the
+  person or thing to be seized, as nearly as may be, nor without probable cause, supported
+  by oath or affirmation.
+  
+  *** SEND ***
+  *** SSTART 008.0 001.0 0 FL 1865 ***
+  
+  SEC. 8. That no freeman shall be taken, imprisoned, or disseized of his freehold, liberties,
+  or privileges, or outlawed or exiled, or in any manner destroyed or deprived of his life,
+  liberty, or property, but by the law of the land.
+  
+  *** SEND ***
+  *** SSTART 009.0 001.0 0 FL 1865 ***
+  
+  SEC. 9. That courts shall be open, and every person, for an injury done him in his lands,
+  goods, person, or reputation, shall have remedy by due course of law; and right and justice
+  administered without sale, denial, or delay.
+  
+  *** SEND ***
+  *** SSTART 010.0 001.0 0 FL 1865 ***
+  
+  SEC. 10. That in all criminal prosecutions, the accused hath a right to be heard by himself
+  or counsel, or both; to demand the nature and cause of the accusation; to be confronted
+  with the witnesses against him; to have compulsory process for obtaining witnesses in his
+  favor; and in all prosecutions by indictment or presentment, a speedy and public trial by an
+  impartial jury of the county or district where the offence was committed; and shall not be
+  compelled to give evidence against himself.
+  
+  *** SEND ***
+  *** SSTART 011.0 001.0 0 FL 1865 ***
+  
+  SEC. 11. That all persons shall be bailable by sufficient securities, unless in capital
+  offences, where the proof is evident, or the presumption is strong; and the habeas-corpus
+  act shall not be suspended unless when, in case of rebellion or invasion, the public safety
+  may require it.
+  
+  *** SEND ***
+  *** SSTART 012.0 001.0 0 FL 1865 ***
+  
+  SEC. 12. That excessive bail shall in no case be required; nor shall excessive fines be
+  imposed; nor shall cruel or unusual punishments be inflicted.
+  
+  *** SEND ***
+  *** SSTART 013.0 001.0 0 FL 1865 ***
+  
+  SEC. 13. That no person shall, for the same offence, be twice put in jeopardy of life and
+  limb.
+  
+  *** SEND ***
+  *** SSTART 014.0 001.0 0 FL 1865 ***
+  
+  SEC. 14. That private property shall not be taken or applied to public use, unless just
+  compensation be first made therefor.
+  
+  *** SEND ***
+  *** SSTART 015.0 001.0 0 FL 1865 ***
+  
+  SEC. 15. That in all prosecutions and indictments for libel, the truth may be given in
+  evidence; and if it shall appear to the jury that the libel is true, and published with good
+  motives, and for justifiable ends, the truth shall be a justification; and the jury shall be the
+  judges of the law and facts.
+  
+  *** SEND ***
+  *** SSTART 016.0 001.0 0 FL 1865 ***
+  
+  SEC. 16. That no person shall be put to answer any criminal charge., but by presentment,
+  indictment, or impeachment, except in such cases as the legislature shall otherwise
+  provide; but the legislature shall pass no law whereby any person shall be required to
+  answer any criminal charge involving the life of the accused, except upon indictment or
+  presentment by a grand jury.
+  
+  *** SEND ***
+  *** SSTART 017.0 001.0 0 FL 1865 ***
+  
+  SEC. 17. That no conviction shall work corruption of blood or forfeiture of estate. 
+  
+  *** SEND ***
+  *** SSTART 018.0 001.0 0 FL 1865 ***
+  
+  SEC. 18. That retrospective laws punishing acts committed before the existence of such
+  laws, and by them only declared penal or criminal, are oppressive, unjust , and
+  incompatible with liberty; wherefore no ex post facto law shall ever be made.
+  
+  *** SEND ***
+  *** SSTART 019.0 001.0 0 FL 1865 ***
+  
+  SEC. 19. That no law impairing the obligation of contracts shall be passed.
+  
+  *** SEND ***
+  *** SSTART 020.0 001.0 0 FL 1865 ***
+  
+  SEC. 20. That the people shall have a right, in a peaceable manner, to assemble together
+  to consult for the common good, and to apply to those invested with the powers of
+  government for redress of grievances, or other proper purposes, by petition, address, or
+  remonstrance.
+  
+  *** SEND ***
+  *** SSTART 021.0 001.0 0 FL 1865 ***
+  
+  SEC. 21. That no soldier, in time of peace, shall be quartered in any house without the
+  consent of the owner; nor in time of war but in a manner prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 022.0 001.0 0 FL 1865 ***
+  
+  SEC. 22. That no standing army shall be kept up without the consent of the legislature;
+  and the military shall be in strict subordination to the civil power.
+  
+  *** SEND ***
+  *** SSTART 023.0 001.0 0 FL 1865 ***
+  
+  SEC. 23. That perpetuities and monopolies are contrary to the genius of a free people, and
+  ought not to be allowed.
+  
+  *** SEND ***
+  *** SSTART 024.0 001.0 0 FL 1865 ***
+  
+  SEC. 24. That no hereditary emoluments, privileges, or honors shall be granted or
+  conferred in this State.
+  
+  *** SEND ***
+  *** SSTART 025.0 001.0 0 FL 1865 ***
+  
+  SEC. 25. That a frequent recurrence to fundamental principles is absolutely necessary to
+  preserve the blessings of liberty.
+  
+  *** SEND ***
+  *** SSTART 026.0 001.0 0 FL 1865 ***
+  
+  SEC. 26. That, to guard against transgressions upon the rights of the people, we declare
+  that everything in this article is excepted out of the general powers of government, and
+  shall forever remain inviolate; and all laws contrary thereto, or to the following provisions,
+  shall be void.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 002.0 FL 1865 ***
+  
+  ARTICLE II
+  
+  DISTRIBUTION OF THE POWERS OF GOVERNMENT
+  
+  *** SSTART 001.0 002.0 0 FL 1865 ***
+  
+  SECTION 1. The powers of the government of the State of Florida shall be divided into
+  three distinct departments, and each of them confided to a separate body of magistracy, to
+  wit. those which are legislative to one, those which are executive to another, and those
+  which are judicial to another.
+  
+  *** SEND ***
+  *** SSTART 002.0 002.0 0 FL 1865 ***
+  
+  SEC. 2. No person, or collection of persons, being one of these departments, shall
+  exercise any power properly belonging to either of the others, except in the instance
+  expressly provided in this constitution.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 003.0 FL 1865 ***
+  
+  ARTICLE III
+  EXECUTIVE DEPARTMENT
+                             
+  *** SSTART 001.0 003.0 0 FL 1865 ***
+  
+  SECTION 1. The supreme executive power shall be vested in a chief magistrate, who shall
+  be styled the governor of the State of Florida.
+  
+  *** SEND ***
+  *** SSTART 002.0 003.0 0 FL 1865 ***
+  
+  SEC. 2. The governor shall be elected for four years. by the qualified electors, at the time
+  and place they shall vote for representatives, and shall remain in office until a successor
+  shall be chosen and qualified.
+  
+  *** SEND ***
+  *** SSTART 003.0 003.0 0 FL 1865 ***
+  
+  SEC. 3. No person shall be eligible to the office of governor unless he shall have attained
+  the age of thirty years, shall have been a citizen of the United States ten years, and shall
+  have been a resident of Florida at least five years next preceding his election.
+  
+  *** SEND ***
+  *** SSTART 004.0 003.0 0 FL 1865 ***
+  
+  SEC. 4. There shall be elected at the same time, for the same term, and with like
+  qualifications as the governor, a lieutenant-governor, who shall be ex-officio president of
+  the senate, but shall have no vote except in cases of a tie, and during the session of the
+  general assembly he shall receive such compensation as shall be allowed to a senator.
+  
+  *** SEND ***
+  *** SSTART 005.0 003.0 0 FL 1865 ***
+  
+  SEC. 5. The returns of every election for governor or lieutenant governor shall be sealed
+  tip and transmitted to the seat of government, directed to the speaker of the house of
+  representatives, who shall, during the first week of the session next after their election,
+  open and publish them in the presence of both houses of the general assembly; and the
+  persons having the highest number of votes for the respective offices shall be governor and
+  lieutenant-governor; but if two or more. shall be equal and highest in votes for the office
+  of governor, one of them shall be chosen governor by the joint vote of the two houses;
+  and, in like manner, if two or more shall be equal and highest in votes for the office of
+  lieutenant-governor, one of them shall be chosen lieutenant-governor, by the joint vote of
+  the two houses. And contested elections for governor and lieutenant-governor shall be
+  determined by both houses of the general assembly, in such manner as shall be prescribed
+  by law.
+  
+  *** SEND ***
+  *** SSTART 006.0 003.0 0 FL 1865 ***
+  
+  SEC. 6. The governor shall, at stated times, receive a compensation for his services, which
+  shall not be increased or diminished during the term for which he shall have been elected;
+  but such compensation shall never be less than three thousand dollars per annum.
+  
+  *** SSTART 007.0 003.0 0 FL 1865 ***
+  
+  SEC. 7. He shall be the commander-in-chief of the army and navy of this State, and of the
+  militia thereof.
+  
+  *** SEND ***
+  *** SSTART 008.0 003.0 0 FL 1865 ***
+  
+  SEC. 8. He may require information in writing from the officers of the executive
+  department on any subject relating to the duties of their respective offices.
+  
+  *** SEND ***
+  *** SSTART 009.0 003.0 0 FL 1865 ***
+  
+  SEC. 9. He may by proclamation, on extraordinary occasions, convene the general
+  assembly at the seat of government, or at a different place, if that shall have become
+  dangerous from an enemy or from disease; and in case of disagreement between the two
+  houses with respect to the time of adjournment, he may adjourn them to such time as he
+  may think proper, not beyond the day of the next meeting designated by the constitution.
+  
+  *** SEND ***
+  *** SSTART 010.0 003.0 0 FL 1865 ***
+  
+  SEC. 10. He shall, from time to time, give to the general assembly information of the state
+  of the government and recommend to their consideration such measures as he may deem
+  expedient. 
+  
+  *** SEND ***
+  *** SSTART 011.0 003.0 0 FL 1865 ***
+  
+  SEC. 11. He shall take care that the laws be faithfully executed.
+  
+  *** SEND ***
+  *** SSTART 012.0 003.0 0 FL 1865 ***
+  
+  SEC. 12. In all criminal and penal cases, (except of impeachment,) after conviction, he
+  shall have power to grant reprieves and pardons, and remit fines and forfeitures, under
+  such rules and regulations as shall be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 013.0 003.0 0 FL 1865 ***
+  
+  SEC. 13. The State seal last heretofore used (until altered by the general assembly) shall
+  continue to be the great seal of the State, and shall be kept by the governor for the time
+  being, and used by him officially.
+  
+  *** SEND ***
+  *** SSTART 014.0 003.0 0 FL 1865 ***
+  
+  SEC. 14. All commissions shall be in the name and by the authority of the State of Florida,
+  be sealed with the State seal, and signed by the governor and attested by the secretary of
+  state.
+  
+  *** SEND ***
+  *** SSTART 015.0 003.0 0 FL 1865 ***
+  
+  SEC. 15. There shall be a secretary of state elected by the qualified electors of the State at
+  the same time, and who shall continue  in office for the same term of years as the governor
+  of the State; and he shall keep a fair register of the official acts and proceedings of the
+  governor, and shall, , when required, lay the same, and all papers, minutes, and vouchers
+  relative thereto, before the general assembly, and shall perform such other duties as may
+  be required of him by law.
+  
+  *** SEND ***
+  *** SSTART 016.0 003.0 0 FL 1865 ***
+  
+  SEC. 16. Vacancies that happen in offices, the appointment to which is vested in the
+  general assembly, or given to the governor, with the advice and consent of the senate,
+  shall be filled by the governor during the recess of the general assembly, by granting,
+  commissions which shall expire at the end of the next session.
+  
+  *** SEND ***
+  *** SSTART 017.0 003.0 0 FL 1865 ***
+  
+  SEC. 17. Every bill which shall have passed both houses of the general assembly shall be
+  presented to the governor; if he approve, he shall sign it; but if not, he shall return it with
+  his objections to the house in which it shall have originated, who shall enter the objections
+  at large upon the journals, and proceed to reconsider it; and if, after such reconsideration,
+  two-thirds of the whole number voting shall agree to pass the bill, it shall be sent with the
+  objections to the other house, by which it shall be reconsidered; and if approved by two
+  thirds of the whole number voting, it shall become a law; but in such cases the votes of
+  both houses shall be by yeas and nays, and the names of the members voting for or against
+  the bill shall be entered on the journals of each house respectively; and if any bill shall not
+  be returned by the governor within five days (Sundays excepted)  after it shall have been
+  presented to him, the same shall be a law in like manner as if he had signed, unless the
+  general assembly by their adjournment prevent its return, in which case it shall not be law.
+  
+  *** SEND ***
+  *** SSTART 018.0 003.0 0 FL 1865 ***
+  
+  SEC. 18. Every order, resolution, or vote, to which the concurrence of both houses may
+  be necessary (except on questions of adjournment) shall be presented to the governor, and
+  before it shall take effect, be approved by him, or being disapproved, be repassed by both
+  houses, according to the rules and limitations prescribed in case of a bill.
+  
+  *** SEND ***
+  *** SSTART 019.0 003.0 0 FL 1865 ***
+  
+  SEC. 19. In case of the impeachment of the governor, his removal from office, death,
+  refusal to qualify, resignation, or absence from the State, the lieutenant-governor shall
+  exercise all the power and authority appertaining to the office of governor, until the
+  governor, absent or impeached, shall return, or be acquitted, or until the governor next
+  regularly elected shall be duly qualified, as the case may be; and for the time the
+  lieutenant-governor shall occupy the office of governor and he shall receive the same
+  compensation as shall be allowed by law to the regularly-elected governor.
+  
+  *** SEND ***
+  *** SSTART 020.0 003.0 0 FL 1865 ***
+  
+  SEC. 20. In case of the impeachment of both the governor and the lieutenant-governor,
+  their removal from office, death, refusal to qualify, resignation, or absence, front the State,
+  the speaker of the house of representatives shall in like manner administer the government,
+  unless the general assembly shall otherwise provide; and for the time he shall occupy the
+  office of governor, he shall receive the same compensation as shall be allowed by law to
+  the governor.
+  
+  *** SEND ***
+  *** SSTART 021.0 003.0 0 FL 1865 ***
+  
+  SEC. 21. It shall be the duty of the general assembly to provide for the purchase or
+  erection of a  suitable building for the residence of the governor, and the governor shall
+  reside at the seat of government; but whenever, by reason of danger from an enemy, or
+  from disease, the governor may deem the capital unsafe, he may, by proclamation, fix the
+  seat of government at some secure place within the State, until such danger shall cease.
+  
+  *** SEND ***
+  *** SSTART 022.0 003.0 0 FL 1865 ***
+  
+  SEC. 22. No person shall hold the office of governor and any other office or commission,
+  civil or military. either in this State or under any State, or the United States, of any other
+  power, at one and the same time, except the lieutenant-governor or the speaker of the
+  house of representatives, when he shall hold the office as aforesaid.
+  
+  *** SEND ***
+  *** SSTART 023.0 003.0 0 FL 1865 ***
+  
+  SEC. 23. A State treasurer and comptroller of public accounts shall be elected by the
+  qualified electors of the State at the same time, and who shall continue in office for the
+  same term of years as the governor of the state, and until their successors shall have been
+  duly commissioned and qualified.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 004.0 FL 1865 ***
+  
+  ARTICLE IV
+  
+  LEGISLATIVE DEPARTMENT
+  
+  *** SSTART 001.0 004.0 0 FL 1865 ***
+  
+  SECTION 1. The legislative power of this State shall be vested in two distinct branches,
+  the one to be styled the senate, the other the house of representatives, and both together
+  "the general assembly of the State of Florida;" and the style of the laws shall be, "Be it
+  enacted by the senate and house of  representatives of the State of Florida in general
+  assembly convened."
+  
+  *** SEND ***
+  *** SSTART 002.0 004.0 0 FL 1865 ***
+  
+  SEC. 2. The members of the house of representatives shall be chosen by the qualified
+  voters, and shall serve for the term of two years from the day of the general election, and
+  no longer; and the sessions of the general assembly shall be annual, and commence on the
+  second Wednesday in November in each year.
+  *** SEND ***
+  *** SSTART 003.0 004.0 0 FL 1865 ***
+  
+  SEC. 3. The representatives shall be chosen every two years on the first Monday in the
+  month of October, until otherwise directed by law.
+  
+  *** SEND ***
+  *** SSTART 004.0 004.0 0 FL 1865 ***
+  
+  SEC. 4. No person shall be a representative unless he be a white man, a citizen of the
+  United States, and shall have been an inhabitant of the State two years next preceding his
+  election, and the last year thereof a resident of the county for which he shall be chosen,
+  and shall have attained the age of twenty-one years.
+  
+  *** SEND ***
+  *** SSTART 005.0 004.0 0 FL 1865 ***
+  
+  SEC. 5. The senators shall be chosen by the qualified electors for the term of two years, at
+  the same time, in the same manner, and the same places where they vote for members of
+  the house of representatives, and no man shall be a senator unless he be a white man, a
+  citizen of the United States, and shall have been an inhabitant of this State two years next
+  preceding his election, and the last year thereof a resident of the district or county for
+  which he shall be chosen, and shall have attained the age of twenty-five years.
+  
+  *** SEND ***
+  *** SSTART 006.0 004.0 0 FL 1865 ***
+  
+  SEC. 6. The house of representatives, when assembled, shall choose a speaker and its
+  other officers, and the senate, its other officers, and in the absence of the lieutenant-
+  governor, a president pro tempore, and each house shall be judge of the qualifications,
+  elections, and returns of its members; but a contested election shall be determined in such
+  manner as shall be directed by law.
+  
+  *** SEND ***
+  *** SSTART 007.0 004.0 0 FL 1965 ***
+  
+  SEC. 7. A majority of each house shall constitute a quorum to do business, but a smaller
+  number may adjourn from day to day, and may compel the attendance of absent members,
+  in such manner and under such penalties as each house may prescribe.
+  
+  *** SEND ***
+  *** SSTART 008.0 004.0 0 FL 1865 ***
+  
+  SEC. 8. Each house may determine the rules of its own proceedings, punish its members
+  for disorderly behavior, and with the consent of two-thirds expel a member, but not a
+  second time for the same cause.
+  
+  *** SEND ***
+  *** SSTART 009.0 004.0 0 FL 1865 ***
+  
+  SEC. 9. Each house, during the session, may punish, by imprisonment, any person not a
+  member, for disrespectful or disorderly behavior in its presence, or for obstructing any of
+  its proceedings, provided such imprisonment shall not extend beyond the end of the
+  session.
+  
+  *** SEND ***
+  *** SSTART 010.0 004.0 0 FL 1865 ***
+  
+  SEC. 10. Each house shall keep a journal of its proceedings, and cause the same to be
+  published immediately after its adjournment; and the yeas and nays of the members of each
+  house shall be taken and entered upon the journals upon the final passage of every bill, and
+  may, by any two members, be required upon any other question; and any member of either
+  house shall have liberty to dissent from, or protest against, any act or resolution which he
+  may think injurious to the public, or an individual, and have the reasons of his dissent
+  entered on the journal.
+  
+  *** SEND ***
+  *** SSTART 011.0 004.0 0 FL 1865 ***
+  
+  SEC. 11. Senators and representatives shall in all cases, except treason, felony, or breach
+  of the peace, be privileged from arrest during the session of the general assembly, and in
+  going to or returning from the same, allowing one day for every twenty miles such
+  member may reside from the place at which the general assembly is convened, and for any
+  speech or debate in either house they shall not be questioned in any other place.
+  
+  *** SEND ***
+  *** SSTART 012.0 004.0 0 FL 1865 ***
+  
+  SEC. 12. The general assembly shall make provision by law for filling vacancies that may
+  occur in either house by the death, resignation, or otherwise of any of its members.
+  
+  *** SEND ***
+  *** SSTART 013.0 004.0 0 FL 1865 ***
+  
+  SEC. 13. The doors of each house shall be open when in legislative session, except on
+  such occasions as, in the opinion of the house, the public safety may imperiously require
+  secrecy.
+  
+  *** SEND ***
+  *** SSTART 014.0 004.0 0 FL 1865 ***
+  
+  SEC. 14.  Neither house shall, without the consent of the other, adjourn for more than
+  three days, not to any other place than that in which they may be sitting.
+  
+  *** SEND ***
+  *** SSTART 015.0 004.0 0 FL 1865 ***
+  
+  SEC. 15. Bills may originate in either house of the general assembly; and all bills passed by
+  one house may be discussed, amended, or rejected by the other; but no bill shall have the
+  force of law until on three several days it be read in each house and free discussion be
+  allowed thereon, unless in cases of urgency, four-fifths of the house in which the same
+  shall be pending may deem it expedient to dispense with the rule; and every bill having
+  passed both houses shall be signed by the speaker and president of their respective houses.
+  
+  *** SEND ***
+  *** SSTART 016.0 004.0 0 FL 1865 ***
+  
+  SEC. 16. Each member of the general assembly shall receive from the public treasury such
+  compensation for his services as may be fixed by law; but no increase of compensation
+  shall take effect during the term for which the representatives were elected when such law
+  passed.
+  
+  *** SEND ***
+  *** SSTART 017.0 004.0 0 FL 1865 ***
+  
+  SEC. 17. The sessions of the general assembly shall not extend in duration over thirty
+  days, unless it be deemed expedient by a concurrent majority of two-thirds of the members
+  of each house; and no member shall receive pay from the State for his services after the
+  expiration of sixty days continuously from the commencement of the session.
+  
+  *** SEND ***
+  *** SSTART 018.0 004.0 0 FL 1865 ***
+  
+  SEC. 18. The general assembly shall by law  authorize the circuit court to grant licenses
+  for building toll-bridges, and to establish ferries, and to regulate the tolls of both; to
+  construct dams across streams not navigable; to ascertain and declare what streams are
+  navigable; but no special law for such purpose shall be made.
+  
+  *** SEND ***
+  *** SSTART 019.0 004.0 0 FL 1865 ***
+  
+  SEC. 19. The general assembly shall pass a general law prescribing the manner in which
+  names of persons  may be changed, but no special law for such purpose shall be passed;
+  and no law shall be made allowing minors to contract, or manage their estates.
+  
+  *** SEND ***
+  *** SSTART 020.0 004.0 0 FL 1865 ***
+  
+  SEC. 20. The general assembly shall pass a general law for the incorporation of towns,
+  religious, library, scientific, benevolent, military, and other associations, not commercial,
+  industrial, or financial; but no special act incorporating any such association shall be
+  passed.
+  
+  *** SEND ***
+  *** SSTART 021.0 004.0 0 FL 1865 ***
+  
+  SEC. 21. No act incorporating  any railroad, banking, insurance, commercial, or financial
+  corporation shall be introduced into the general assembly, unless the person or persons
+  applying for such corporation shall have deposited with the treasurer the sum of one
+  hundred dollars as a bonus to the State.
+  
+  *** SEND ***
+  *** SSTART 022.0 004.0 0 FL 1865 ***
+  
+  SEC. 22. Officers shall be removed from office for incapacity, misconduct, or neglect of
+  duty, in such manner as may be provided by law, when no mode of trial or removal is
+  provided in this constitution.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 005.0 FL 1865 ***
+  
+  ARTICLE V
+  
+  JUDICIAL DEPARTMENT
+                 
+  *** SSTART 001.0 005.0 0 FL 1865 ***
+  
+  SECTION 1. The judicial power of this State, both as to matters of law and equity, shall
+  be vested in a supreme court, courts of chancery, circuit courts, and justices of the peace,
+  provided the general assembly may also vest such civil or criminal jurisdiction as may be
+  necessary  in corporation courts, and such other courts as the general assembly may
+  establish; but such jurisdiction shall not extend to capital cases.
+  
+  *** SEND ***
+  *** SSTART 002.0 005.0 0 FL 1865 ***
+  
+  SEC. 2. The supreme court, except in cases otherwise directed in this constitution, shall
+  have appellate jurisdiction only, which shall be coextensive with the State, under such
+  restrictions and regulation, not repugnant to this constitution, as may, from time to time,
+  be prescribed by law: Provided, That the said court shall always have power to issue writs
+  of injunction, mandamus, quo warranto, habeas corpus, and such other original and
+  remedial writs as may be necessary to give it a general superintendence and control of all
+  other courts.
+  
+  *** SEND ***
+  *** SSTART 003.0 005.0 0 FL 1865 ***
+  
+  SEC. 3. The supreme court shall be holden at such times and places as may be prescribed
+  by law; and two judges of the circuit court may be added to the supreme court, when in
+  session, at the discretion of the legislature; and the court so composed shall constitute the
+  supreme court of the State, when the legislature shall so direct.
+  
+  *** SEND ***
+  *** SSTART 004.0 005.0 0 FL 1865 ***
+  
+  SEC. 4. The State shall be divided into convenient circuits; and for each circuit there shall
+  be a judge, who shall, after his election or appointment, reside in the circuit for which he
+  has been elected or appointed; and shall, as well as justices of the supreme court, receive
+  for his services a salary of not less than twenty-five hundred dollars per annum, which
+  shall not be diminished during his continuance in office; but the judges shall receive no
+  fees, perquisites of office, nor hold any other office of profit under the State, the United
+  States, or an other power.
+  
+  *** SEND ***
+  *** SSTART 005.0 005.0 0 FL 1865 ***
+  
+  SEC 5. The circuit court shall have original jurisdiction in all matters, civil and criminal,
+  not otherwise excepted in this constitution.
+  
+  *** SEND ***
+  *** SSTART 006.0 005.0 0 FL 1865 ***
+  
+  SEC. 6. A circuit court shall be held in such counties, and at such times and places therein,
+  as may be prescribed by law; and the judges of the several. circuit courts may hold courts
+  for each other, either for the entire circuit, or for a portion thereof, and they shall do so
+  when required, by order of the governor or chief-justice of the supreme court; and they
+  may exercise jurisdiction in cases of writs of habeas corpus in any judicial circuit in which
+  the judge may happen to be at the time the case arises.
+  
+  *** SEND ***
+  *** SSTART 007.0 005.0 0 FL 1865 ***
+  
+  SEC. 7. The general assembly shall have power to establish and organize a separate court
+  or courts of original equity jurisdiction; but until such court or courts shall be established
+  and organized, the circuit courts shall exercise such jurisdiction.
+  
+  *** SEND ***
+  *** SSTART 008.0 005.0 0 FL 1865 ***
+  
+  SEC. 8. There shall be elected in each county of this State, by the qualified voters, an
+  officer to be styled the judge of probate, to take probate of wills, to grant letters
+  testamentary, of administration and guardianship, to attend to the settlement of the estates
+  of decedents and minors, and to discharge the duties usually appertaining to courts of
+  ordinary, and such other duties as may be required by law; subject to the direction and
+  supervision of the circuit courts, as may be provided by law.
+  
+  *** SEND ***
+  *** SSTART 009.0 005.0 0 FL 1865 ***
+  
+  SEC. 9. A competent number of justices of the peace shall be from time to time elected in
+  and for each county,  in such mode, and for such term of office, as the general assembly
+  may direct, and shall possess such jurisdiction as may be prescribed by law; and in cases
+  tried before a justice of the peace, the right of appeal shall be secured under such rules and
+  regulations as may be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 010.0 005.0 0 FL 1865 ***
+  
+  SEC. 10. There shall be appointed by the governor, by and with the advice and consent of
+  the senate, a chief-justice and two associate justices of the supreme court of this State,
+  who shall reside in this State, and hold their office for the term of six years from their
+  appointment and confirmation, unless sooner removed under the provisions of this
+  constitution, for the removal of judges by address or impeachment; and for wilful neglect
+  of duty, or other reasonable cause, which shall not be sufficient ground for impeachment,
+  the governor shall remove any of them on the address of two-thirds of the general
+  assembly: Provided, however, That the cause or causes shall be notified to the judge so
+  intended to be removed, and he shall be admitted to a hearing in his own defence, before
+  any vote for such removal shall pass, and in such case the vote shall be taken by yeas and
+  nays, and entered on the journal of each house respectively, and in case of the appointment
+  to fill a vacancy in said offices, the person so appointed shall only hold office for the
+  unexpired term of his predecessor.
+  
+  *** SEND ***
+  *** SSTART 011.0 005.0 0 FL 1865 ***
+  
+  SEC. 11. There shall be elected, at the time and places prescribed by law, by the qualified
+  electors of each of the respective judicial circuits of this State, one judge of the circuit
+  court, who shall reside in the circuit for which he may be elected, and the said circuit
+  judges shall continue in office for the term of six years from the date of their respective
+  elections, unless sooner removed. under the provisions in this constitution for the removal
+  of judges by address or impeachment; and for wilful neglect of duty, or other reasonable
+  cause, which shall not be sufficient for impeachment, the governor shall remove any of
+  them, on the address of two-thirds of the general assembly: Provided, however, That the
+  cause or causes shall be stated at length in such address, and entered on the journals of
+  each house: And provided further, That the cause or causes shall be notified to such judge
+  so intended to be removed, and he shall be admitted to a hearing in his own  defence
+  before any vote or votes for such removal shall pass; and in such cases the vote shall be
+  taken by yeas and nays, and entered on the journals of each house respectively.
+  
+  *** SEND ***
+  *** SSTART 012.0 005.0 0 FL 1865 ***
+  
+  SEC. 12. The appointment of A chief-justice and associate justices of the supreme court
+  shall be made every sixth year after their first appointment, and the election of judges of
+  the circuit court, and judges or chancellors of the chancery court, when established, shall
+  be in every sixth year after their first elections, at the same time and places as the elections
+  for members of the general assembly.
+  
+  *** SEND ***
+  *** SSTART 013.0 005.0 0 FL 1865 ***
+  
+  SEC. 13. That whenever the general assembly shall create a chancery court, under the
+  provisions of this constitution, the judges thereof shall be elected in the manner provided
+  in the last two sections of this article, and shall hold their offices and be subject to all the
+  provisions of said sections: Provided, however, That the said judges shall be elected by
+  general ticket or by districts, as the general assembly may direct.
+  
+  *** SEND ***
+  *** SSTART 014.0 005.0 0 FL 1865 ***
+  
+  SEC. 14. That should a vacancy occur either in the chancery or circuit courts, by death,
+  removal, resignation, or otherwise, it shall be the duty of the governor to issue a writ of
+  election to fill such vacancy, and he shall give at least sixty days' notice thereof by
+  proclamation; and the judge so elected to fill such vacancy shall continue in office from the
+  time he qualifies under his commission until the expiration of the term of his predecessor:
+  Provided, however, That should it become necessary to fill any such vacancy before an
+  election can be held under the provisions of this constitution, the governor shall have
+  power to fill such vacancy by appointment, and the person so appointed shall hold his
+  office from  the date of his commission until his successor shall be duly elected and
+  qualified.
+  
+  *** SEND ***
+  *** SSTART 015.0 005.0 0 FL 1865 ***
+  
+  SEC. 15. The clerks of the circuit courts of the several circuits of this State shall be
+  elected by the qualified voters in their several counties at such times and places as are now
+  or may be provided by law: Provided, however, That the chief-justice of the supreme
+  court. and the chancellors of the court of chancery. when such courts shall be established,
+  shall have the power to appoint the clerks of their respective courts.
+  
+  *** SEND ***
+  *** SSTART 016.0 005.0 0 FL 1865 ***
+  
+  SEC. 16. The justices of the supreme court, chancellors and judges of the circuit courts,
+  shall, by virtue of their offices, be conservators of the peace throughout the State.
+  
+  *** SEND ***
+  *** SSTART 017.0 005.0 0 FL 1865 ***
+  
+  SEC. 17. The style of all process shall be "The State of Florida;" and all criminal
+  prosecutions shall be carried on in the name of the State, and all indictments shall
+  conclude, "against the peace and dignity of the same."
+  
+  *** SEND ***
+  *** SSTART 018.0 005.0 0 FL 1865 ***
+  
+  SEC. 18. There shall be an attorney-general for the State, who shall reside at the seat of
+  government, and he shall perform such duties as may be prescribed by law; he shall be
+  elected by the qualified voters of the State, at the same time and in the same manner that
+  the comptroller, secretary of state, and treasurer are elected, and his term of office shall be
+  the same; but he may be removed by the governor, on the address of a majority of the two
+  houses of the general assembly, and shall receive for his services a compensation to be
+  fixed by law.
+  
+  *** SEND ***
+  *** SSTART 019.0 005.0 0 FL 1865 ***
+  
+  SEC. 19. There shall be one solicitor for each circuit, who shall reside therein, to be
+  elected by the qualified electors of the circuit, who shall hold his office for the term of four
+  years, and shall receive for his services a compensation to be fixed by law.
+  
+  *** SEND ***
+  *** SSTART 020.0 005.0 0 FL 1865 ***
+  
+  SEC. 20. No justice of the supreme court shall sit as a judge, or take part in the appellate
+  court on the trial or bearing of any case which shall have been decided by him in the court
+  below.
+  
+  *** SEND ***
+  *** SSTART 021.0 005.0 0 FL 1865 ***
+  
+  SEC. 21. The general assembly shall have power to establish in each county a board of
+  commissioners, for the regulation of the county business therein.
+  
+  *** SEND ***
+  *** SSTART 022.0 005.0 0 FL 1865 ***
+  
+  SEC. 22. No duty not judicial shall be imposed by law upon the justices of the supreme
+  court, chancellors, or the judges of the circuit courts of this State, except in cases
+  otherwise provided for in this constitution.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 006.0 FL 1865 ***
+  
+  ARTICLE VI
+  
+  THE RIGHT OF SUFFRAGE--CIVIL OFFICERS  
+  
+  *** SSTART 001.0 006.0 0 FL 1865 ***
+  
+  SECTION 1. Every free white male person of the age of twenty-one years and upwards,
+  and who shall be, at the time of offering to vote, a citizen of the United States, and who
+  shall have resided and had his habitation, domicile, home, and place of permanent abode in
+  Florida, for one year next preceding the election at which he shall offer to vote, and who
+  shall, at such time, and for six months immediately preceding said time, have had his
+  habitation, domicile, and place of permanent abode in the county in which he may offer to
+  vote, shall be deemed a qualified elector at all elections under the constitution, and none
+  others; except in elections by general ticket in the State or district prescribed by law, in
+  which cases the elector must have been a resident of the State one year next preceding the
+  election, and six months within the elective district in which be offers to vote: Provided,
+  That no officer, soldier, seaman, or marine in the Regular Army or Navy of the United
+  States, or any other person in the employ or pay of the United States, unless he be a
+  qualified elector of the State previous to his appointment or enlistment as such officer,
+  soldier, seaman, or marine in the Regular Army or Navy of the United States, or of the
+  revenue service, shall be considered a resident of the State in consequence of being
+  stationed within the same.
+  
+  *** SEND ***
+  *** SSTART 002.0 006.0 0 FL 1865 ***
+  
+  SEC. 2. The general assembly shall have power to exclude from every office of honor,
+  trust, or profit within the State, and from the. right of suffrage, all persons convicted of
+  bribery, perjury, or other infamous crime.
+  
+  *** SEND ***
+  *** SSTART 003.0 006.0 0 FL 1865 ***
+  
+  SEC. 3. No person shall be capable of holding or being elected to any post of honor,
+  profit, trust, or emolument, civil or military, legislative, executive, or judicial, under the
+  government of this State, who shall hereafter fight a duel, or send or accept a challenge to
+  fight a duel, the probable issue of which may be the death of the challenger or challenged,
+  or who shall be a second to either party, or who shall, in any manner, aid or assist in such
+  duel, or shall be knowingly the bearer of such challenge or acceptance, whether the same
+  occur or be committed in or out of the State; but the legal disability shall not accrue until
+  after trial and conviction, according to due form of law.
+  
+  *** SEND ***
+  *** SSTART 004.0 006.0 0 FL 1865 ***
+  
+  SEC. 4. No person who may hereafter be a collector or holder of public moneys shall have
+  a seat in either house of the general assembly, or be eligible to any office of trust or profit
+  under  this State, until he shall have accounted for and paid into the treasury all sums for
+  which he may be accountable.
+  
+  *** SEND ***
+  *** SSTART 005.0 006.0 0 FL 1865 ***
+  
+  SEC. 5. No governor, member of Congress, or of the general assembly of this State, shall
+  receive a fee, be engaged as counsel, agent, or attorney, in any civil case or claim against
+  this State, or to which this State shall be a party, during the time he shall remain in office.
+  
+  *** SEND ***
+  *** SSTART 006.0 006.0 0 FL 1865 ***
+  
+  SEC. 6. No senator or representative shall, during the term for which he shall have been
+  elected, be appointed to any civil office of profit under this State, which shall have been
+  created, or the emoluments of which shall have been increased, during such term, except
+  such offices as may be filled by elections by the people.
+  
+  *** SEND ***
+  *** SSTART 007.0 006.0 0 FL 1865 ***
+  
+  SEC. 7. Members of the general assembly, and all officers, civil or military, before they
+  enter upon the execution of their respective offices, shall take the following oath or
+  affirmation: "I do swear (or affirm) that I am duly qualified, according to the constitution
+  of this State, to exercise the office to which I have been elected, (or appointed,) and will,
+  to the best of my abilities, discharge the duties thereof, and preserve, protect, and defend
+  the constitution of this State, and of the United States of America."
+  
+  *** SEND ***
+  *** SSTART 008.0 006.0 0 FL 1865 ***
+  
+  SEC. 8. Every person shall be disqualified from serving as governor, senator,
+  representative, or from  holding any other office of honor or profit in this State, for the
+  term for which he shall have been elected, who shall have been convicted of having given
+  or offered an bribe to procure his election.
+  
+  *** SEND ***
+  *** SSTART 009.0 006.0 0 FL 1865 ***
+  
+  SEC. 9. Laws shall be made by the general assembly to exclude from office, and from
+  suffrage, those who shall have been, or may hereafter be, convicted of bribery, perjury,
+  forgery, or other high crime or misdemeanor; and the privilege of suffrage shall be
+  supported by laws regulating elections, and prohibiting, under adequate penalties, all
+  undue influence thereon from  power, bribery, tumult, or other improper practices.
+  
+  *** SEND ***
+  *** SSTART 010.0 006.0 0 FL 1865 ***
+  
+  SEC. 10. All civil officers of the State at large shall reside within the State, and all district
+  or county officers within their respective districts or counties, and shall keep their
+  respective offices at such places therein as may be required by law.
+  
+  *** SEND ***
+  *** SSTART 011.0 006.0 0 FL 1865 ***
+  
+  SEC. 11. It shall be the duty of the general assembly to regulate by law in what cases and
+  what deduction from the salaries of public officers shall be made for any neglect of duty in
+  their official capacity.
+  
+  *** SEND ***
+  *** SSTART 012.0 006.0 0 FL 1865 ***
+  
+  SEC. 12. Returns of elections for members of Congress and the general assembly shall be
+  made to the. secretary of state, in manner to be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 013.0 006.0 0 FL 1865 ***
+  
+  SEC. 13. In all elections of the general assembly the vote shall be viva voce, and in all
+  elections by the people the vote shall be by ballot.
+  
+  *** SEND ***
+  *** SSTART 014.0 006.0 0 FL 1865 ***
+  
+  SEC. 14. No member of Congress or person holding or exercising any Office of profit
+  under the United States, or under any foreign power, shall be eligible as a member of the
+  general assembly of this state, or hold or exercise any office of profit under the State; and
+  no person in this State shall ever hold two offices of profit at the same time, except the
+  office of justice of the peace, notary public, constable, and militia officers, except by
+  special act of the legislature; but the legislature shall never unite in the same person two
+  offices the duties of which are incompatible.
+  
+  *** SEND ***
+  *** SSTART 015.0 006.0 0 FL 1865 ***
+  
+  SEC. 15. The general assembly shall, by law, provide for the appointment or election, and
+  removal from office, of all officers, civil and military, in this State, not provided for in this
+  constitution.
+  
+  *** SEND ***
+  *** SSTART 016.0 006.0 0 FL 1865 ***
+  
+  SEC. 16. The power of impeachment shall be vested in the house of representatives.
+  
+  *** SEND ***
+  *** SSTART 017.0 006.0 0 FL 1865 ***
+  
+  SEC. 17. All impeachments shall be tried by the senate; when sitting for that purpose the
+  senators shall be upon oath or affirmation; and no person shall be convicted without the
+  concurrence of two-thirds of the members present.
+  
+  *** SEND ***
+  *** SSTART 018.0 006.0 0 FL 1865 ***
+  
+  SEC. 18. The governor and all civil officers shall be liable to impeachment for any
+  misdemeanor in office, but judgment in such cases shall not extend further than to removal
+  from office and disqualification to hold any office of honor, trust, or profit under this
+  State; but the parties nevertheless shall be liable to indictment, trial, and punishment
+  according to law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 007.0 FL 1865 ***
+  
+  ARTICLE VII
+  
+  MILITIA
+  
+  *** SSTART 001.0 007.0 0 FL 1865 ***
+  
+  SECTION 1. All militia officers shall be elected or appointed, under such rules and
+  regulations as the general assembly may from time to time direct and establish.
+  
+  *** SEND ***
+  *** SSTART 002.0 007.0 0 FL 1865 ***
+  
+  SEC. 2. All offences against the militia law shall be tried by court martial, or before a
+  court and jury, as the general assembly may direct.
+  
+  *** SEND ***
+  *** SSTART 003.0 007.0 0 FL 1865 ***
+  
+  SEC. 3. No commission shall be vacated except by sentence of a court-martial.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 008.0 FL 1865 ***
+  
+  ARTICLE  VIII
+  
+  TAXATION AND REVENUE
+  
+  *** SSTART 001.0 008.0 0 FL 1865 ***
+  
+  SECTION 1. The general assembly shall devise and adopt a system of revenue, having
+  regard to an equal and uniform mode of taxation throughout the State.
+  
+  *** SEND ***
+  *** SSTART 002.0 008.0 0 FL 1865 ***
+  
+  SEC.2. No other or greater amount of tax or revenue shall at any time, be levied that may
+  be required for the necessary expenses of the government.
+  
+  *** SEND ***
+  *** SSTART 003.0 008.0 0 FL 1865 ***
+  
+  SEC. 3. No money shall be drawn from the treasury but in consequence of an
+  appropriation by law, and a regular statement of the receipts and expenditures of all public
+  moneys shall be published and promulgated annually with the laws of the general
+  assembly.
+  
+  *** SEND ***
+  *** SSTART 004.0 008.0 0 FL 1865 ***
+  
+  SEC. 4. The general assembly shall have power to authorize the several counties and
+  incorporated towns in this State to impose taxes for county and corporation purposes,
+  respectively, and all property shall be taxed upon the principles established in regard to
+  State taxation.
+  
+  *** SEND ***
+  *** SSTART 005.0 008.0 0 FL 1865 ***
+  
+  SEC. 5. The general assembly shall have power to authorize the levying of a capitation
+  tax.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 009.0 FL 1865 ***
+  
+  ARTICLE IX
+  
+  CENSUS AND APPORTIONMENT OF REPRESENTATION
+  
+  *** SSTART 001.0 009.0 0 FL 1865 ***
+  
+  SECTION 1. The general assembly shall, in the year one thousand eight hundred and
+  sixty-seven, and in the year one thousand eight hundred and seventy-five, and every tenth
+  year thereafter, cause an enumeration to be made of all the inhabitants of the State; and to
+  the whole number of white inhabitants shall be added three-fifths of the number of colored
+  people; and they shall then proceed to apportion the representation equally among the
+  different counties, according to such enumeration, giving, however, one representative to
+  every county, and increasing the number of representatives on a uniform ratio of
+  population, according to the foregoing basis, and which ratio shall not be changed until a
+  new census shall have been taken.
+  
+  *** SEND ***
+  *** SSTART 002.0 009.0 0 FL 1865 ***
+  
+  SEC. 2. The general assembly shall also, after every such enumeration, proceed to fix by
+  law the number of senators which shall constitute the senate of  the State of Florida, and
+  which shall never be less than one-fourth nor more than one-half of the whole number of
+  the house of representatives; and they shall lay off the State into the same number of
+  senatorial districts, as nearly equal in the number of inhabitants as may be, according to
+  the ratio of representation established in the preceding section, each of which districts shall
+  be entitled to one senator.
+  
+  *** SEND ***
+  *** SSTART 003.0 009.0 0 FL 1865 ***
+  
+  SEC. 3. When any senatorial district shall be composed of two or more counties, the
+  counties of which such district consists shall not be entirely separated by any county
+  belonging to another district, and no county shall be divided in forming a district.
+  
+  *** SEND ***
+  *** SSTART 004.0 009.0 0 FL 1865 ***
+  
+  SEC. 4. No county now organized shall be divided into new counties, so as to reduce the
+  inhabitants of either below the ratio of representation.
+  
+  *** SEND ***
+  *** SSTART 005.0 009.0 0 FL 1865 ***
+  
+  SEC. 5. The several counties of this State shall be entitled to the following representatives,
+  viz: Escambia three, Santa Rosa two, Walton two, Holmes one, Washington one, Calhoun
+  one, Franklin one, Jackson four, Gadsden three, Leon four, Wakulla one, Liberty one,
+  Jefferson three, Madison two, Hamilton two, La Fayette one, Taylor one, Suwannee one,
+  Columbia two, Baker one, Bradford one, Alachua two, Nassau one, Duval two, Clay one,
+  Saint John's one, Putnam one, Marion two, Sumter one, Orange one, Volusia one,
+  Brevard one-, Levy one  Hernando one, Hillsborough one, Manatee one Monroe one,
+  Dade one, and Polk one., There shall be twenty-nine senatorial districts in this State,
+  which shall be as follows: The county of Escambia shall compose the first district; the
+  county of Santa Rosa shall compose the second district; the county of Walton shall
+  compose the third district; the counties of Washington and Holmes shall compose the
+  fourth district; the county of Franklin shall compose the fifth district; the county of
+  Calhoun shall compose the sixth district; the county of Jackson shall compose the seventh
+  district; the county of Gadsden shall compose the eighth district; the county of Liberty
+  shall compose the ninth district; the county of Leon shall compose the tenth district; the
+  county of Wakulla shall compose the eleventh district; the county of Jefferson shall
+  compose the twelfth district; the county of Madison shall compose the thirteenth district;
+  the county of Hamilton shall compose the fourteenth district; the counties of La Fayette
+  and Taylor shall compose the fifteenth district; the county of Columbia shall compose the
+  sixteenth district; the county of Suwannee shall compose the seventeenth district; the
+  counties of Baker and Bradford shall compose the eighteenth district; the county of
+  Alachua shall compose the nineteenth district; the county of Nassau shall compose the
+  twentieth district; the counties of Duval and Clay shall compose the twenty-first district;
+  the counties of Saint John's and Putnam shall compose the twenty-second district; the
+  county of Marion shall compose the twenty-third district; the county of Sumter shall
+  compose the twenty-fourth district; the counties of Orange and Volusia shall compose the
+  twenty-fifth district; the counties Of Levy and Hernando shall compose the twenty-sixth
+  district; the counties of Hillsborough and Manatee shall compose the twenty-seventh
+  district; the counties of Polk and Brevard shall compose the twenty-eighth district; and the
+  counties of Monroe and Dale shall compose the twenty-ninth district,; and each senatorial
+  district shall be entitled to one senator.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 010.0 FL 1865 ***
+  
+  ARTICLE X
+  
+  EDUCATION
+  
+  *** SSTART 001.0 010.0 0 FL 1865 ***
+  
+  SECTION 1. The proceeds of all lands for the use of schools and a seminary or seminaries
+  of learning shall be and remain a perpetual fund, the interest of which, together with all
+  moneys accrued from any other source, applicable to the same object, shall be inviolably
+  appropriated to the use of schools and seminaries of learning respectively, and to no other
+  purpose.
+  
+  *** SEND ***
+  *** SSTART 002.0 010.0 0 FL 1865 ***
+  
+  SEC. 2. The general assembly shall take such measures as mav be necessary to preserve
+  from waste or damage all lands so granted and appropriated for the purpose of education.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 011.0 FL 1865 ***
+  
+  ARTICLE XI
+  
+  PUBLIC DOMAIN AND INTERNAL IMPROVEMENT
+  
+  *** SSTART 001.0 011.0 0 FL 1865 ***
+  
+  SECTION 1. It shall be the duty of the general assembly to provide for the prevention of
+  waste and damage of the public lands, that may hereafter be ceded to the State of Florida,
+  and it may pass laws for the sale of any part or portion thereof, and, in such cases, provide
+  for the safety, security, and appropriation of the proceeds, but in no wise to affect the
+  purposes for which said lands have heretofore been appropriated.
+  
+  *** SEND ***
+  *** SSTART 002.0 011.0 0 FL 1865 ***
+  
+  SEC. 2. A liberal system of internal improvements, being essential to the development of
+  the resources of the State, shall be encouraged by the government of this State; and it shall
+  be the duty of the general assembly, as soon as practicable, to ascertain by law proper
+  objects for the extension of internal improvements, in relation to roads, canals, and
+  navigable streams, and to provide for a suitable application of such funds as may have
+  been, or may hereafter be, appropriated by said general assembly for such improvements.
+  
+  *** SEND ***
+  *** SSTART 003.0 011.0 0 FL 1865 ***
+  
+  SEC. 3. That the general assembly may at anytime cede to the United States Government
+  a sufficient parcel or fraction of land for the purpose of coast defence and other national
+  purposes.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 012.0 FL 1865 ***
+                    
+  ARTICLE XII
+  
+  BOUNDARIES
+  
+  *** SSTART 001.0 012.0 0 FL 1865 ***
+  
+  SECTION 1. The boundary of the State of Florida shall be as follows: Commencing at the
+  mouth of the river Perdido, from thence up the middle of said river to where it intersects
+  the southern boundary-line of the State of Alabama, on the thirty-first degree of north
+  latitude; then due east to the Chattahoochee river; thence down the middle of said river to
+  its confluence with the Flint River; from thence straight to the head of the Saint Mary's
+  River; thence down the middle of said river to the Atlantic Ocean; thence southwardly to
+  the Gulf of Florida and Gulf of Mexico; thence Northwardlv and westwardly, including all
+  islands within five leagues of the shore, to the beginning.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 013.0 FL 1865 ***
+  
+  ARTICLE XIII
+  
+  BANKS AND OTHER CORPORATIONS
+  
+  *** SSTART 001.0 013.0 0 FL 1865 ***
+  
+  SECTION 1. The general assembly shall pass no act of incorporation, nor make any
+  alteration in one, unless with the assent of at least two-thirds of each house, and unless
+  public notice in one or more newspapers in the State shall have been given for at least
+  three months immediately preceding the session at which the same may be applied for.
+  
+  *** SEND ***
+  *** SSTART 002.0 013.0 0 FL 1865 ***
+  
+  SEC. 2. No bank-charter, nor any act of incorporation granting exclusive privileges, shall
+  be granted for a longer period than twenty years.
+  
+  *** SEND ***
+  *** SSTART 003.0 013.0 0 FL 1865 ***
+  
+  SEC. 3. Banks chartered by the general assembly shall be restricted to the business of
+  exchange, discount, and deposit, and they shall not deal in real estate, nor in merchandise
+  or chattels, except as security for loans or discounts, or for debts due to such bank; nor
+  shall they be concerned in insurance, manufacturing, exportation, or importation, except of
+  bullion or specie; nor shall they own real estate or chattels, except such as shall be
+  necessary for their actual use in the transaction of business, or which may be received in
+  payment of previously-contracted debts, or purchased at legal sales to satisfy such debts,
+  of which they shall be required to make sale within three years after the acquisition
+  thereof.
+  
+  *** SEND ***
+  *** SSTART 004.0 013.0 0 FL 1865 ***
+  
+  SEC. 4. The capital stock of any bank shall not be less than one hundred thousand dollars,
+  to be paid in suitable instalments, and shall be created only by the payment of specie
+  therein.
+  
+  *** SEND ***
+  *** SSTART 005.0 013.0 0 FL 1865 ***
+  
+  SEC. 5. All liabilities of such banks shall be payable in specie, and the circulation of no
+  bank shall exceed three dollars for one of capital actually paid in.
+  
+  *** SEND ***
+  *** SSTART 006.0 013.0 0 FL 1865 ***
+  
+  SEC. 6. No dividends or profits exceeding ten per centum per annum on the capital stock
+  paid in shall be made; but all profits over ten per centum per annum shall be set apart and
+  retained as a safety fund.
+  *** SEND ***
+  *** SSTART 007.0 013.0 0 FL 1865 ***
+  
+  SEC. 7. Stockholders in a bank, when an act of forfeiture is committed, or when it is
+  dissolved or has expired, shall be individually and severally liable for the redemption of the
+  outstanding circulation, in proportion to the stock owned by each; and no transfer of stock
+  shall exonerate such stockholders from this liability, unless such transfer was made at least
+  two years previous to said forfeiture, dissolution, or expiration.
+  
+  *** SEND ***
+  *** SSTART 008.0 013.0 0 FL 1865 ***
+  
+  SEC. 8. Banks shall be open to inspection, under such regulations as may be prescribed by
+  law; and it shall be the duty of the governor to appoint a person or persons, not connected
+  in any manner with any bank in the State, to examine at least once a year into their state
+  and condition; and the officers of every bank shall make quarterly returns, under oath, to
+  the governor of its state and condition, and the names of the stockholders, and shares held
+  by each.
+  
+  *** SEND ***
+  *** SSTART 009.0 013.0 0 FL 1865 ***
+  
+  SEC. 9. Non-user for the space of 6ne year, or any act of a corporation, or those having
+  the control or management thereof, or intrusted therewith, inconsistent with or in violation
+  of the provisions of this constitution or of its charter, shall cause its forfeiture, and the
+  general assembly shall by general law provide a summary process for the sequestration of
+  its effects and assets, and the appointment of officers to settle its affairs; and no forfeited
+  charter shall be restored.
+  
+  *** SEND ***
+  *** SSTART 010.0 013.0 0 FL 1865 ***
+  
+  SEC. 10. The general assembly shall not pledge the faith and credit of the State to raise
+  funds in the aid of any corporation whatever.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 014.0 FL 1865 ***
+  
+  ARTICLE XIV
+  
+  AMENDMENTS AND REVISIONS OF THE CONSTITUTION
+  
+  *** SSTART 001.0 014.0 0 FL 1865 ***
+  
+  SECTION 1. No part of this Constitution shall be altered except by a convention duly
+  elected.
+  
+  *** SEND ***
+  *** SSTART 002.0 014.0 0 FL 1865 ***
+  
+  SEC. 2. No convention of the people shall be called unless by the concurrence of two-
+  thirds of all the members of each house of the general assembly, made known by the
+  passing of a bill, which shall be read three times on three several days in each house.
+  
+  *** SEND ***
+  *** SSTART 003.0 014.0 0 FL 1864 ***
+  
+  SEC. 3. Whenever a convention shall be called, proclamation of an election for delegates
+  shall be made by the governor at least thirty days before the day of election. Every county
+  and senatorial district shall be entitled to as many delegates as it has representatives in the
+  general assembly. The same qualifications shall be required in delegates and in electors
+  that are required in members of the general assembly, and voters for the same respectively;
+  and the elections for delegates to a convention, and the returns of such election, shall be
+  held and made in the manner prescribed by law for regulating elections for members of the
+  general assembly, but the convention shall judge of the qualifications of its members.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 015.0 FL 1865 ***
+  
+  ARTICLE XV
+  
+  SEAT OF GOVERNMENT
+  
+  *** SSTART 001.0 015.0 0 FL 1865 ***
+  
+  The seat of government shall be and remain permanent at the city of Tallahassee, until
+  otherwise provided for by the action of a convention of the people of the State.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 016.0 FL 1865 ***
+  
+  ARTICLE XVI
+  
+  GENERAL PROVISIONS
+  
+  *** SSTART 001.0 016.0 0 FL 1865 ***
+  
+  SECTION 1. Whereas slavery has been destroyed in this State by the Government of the
+  United States, therefore neither slavery nor involuntary servitude shall in future exist in
+  this State, except as a punishment for crimes whereof the party shall have been convicted
+  by the courts of the State; and all the inhabitants of the State, without distinction of color,
+  are free, and shall enjoy the rights of person and property, without distinction of color.
+  
+  *** SEND ***
+  *** SSTART 002.0 016.0 0 FL 1865 ***
+  
+  SEC. 2. In all criminal proceedings founded upon injury to a colored person, and in all
+  cases affecting the rights and remedies of colored persons, no person shall be incompetent
+  to testify as a witness on account of color; in all other cases, the testimony of colored
+  persons shall be excluded, unless made competent by future legislation. The jury shall
+  judge of the credibility of the testimony.
+  
+  *** SEND ***
+  *** SSTART 003.0 016.0 0 FL 1865 ***
+  
+  SEC. 3. The jurors of this State shall be white men, possessed of such qualifications as
+  may be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 004.0 016.0 0 FL 1865 ***
+  
+  SEC. 4. Treason against the State shall consist only in levying war against it, or in
+  adhering to its enemies, giving them aid and comfort. No person shall be convicted of
+  treason unless on the testimony of two witnesses to the same overt act, or his confession
+  in open court.
+  
+  *** SEND ***
+  *** SSTART 005.0 016.0 0 FL 1865 ***
+  
+  SEC. 5. Divorces from the bonds of matrimony shall not be allowed but by the judgment
+  of a court, as shall be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 006.0 016.0 0 FL 1865 ***
+  
+  SEC. 6. The general assembly shall declare by law what parts of the common law and
+  what parts of the civil law, not inconsistent with this constitution, shall be in force in this
+  State.
+  
+  *** SEND ***
+  *** SSTART 007.0 016.0 0 FL 1865 ***
+  SEC. 7. The oaths of officers directed to be taken under this constitution may be
+  administered by any judge or justice of the peace in the State of Florida until otherwise
+  provided by law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 017.0 FL 1865 ***
+  
+  ARTICLE XVII
+  
+  SCHEDULE AND ORDINANCE.
+  
+  *** SSTART 001.0 017.0 0 FL 1865 ***
+  
+  SECTION 1. All laws of the State passed during and since the tenth session of the
+  legislature thereof, in 1860, not repugnant to the constitution of this State or of the United
+  States, shall be valid; all writs, actions, prosecutions, judgments, and decrees of the courts
+  of the State, all executions and sales made thereunder, and all acts, orders, and
+  proceedings of the judges of probate, and of executors, administrators, guardians, and
+  trustees, provided they were in conformity to the laws then in force, and not fraudulent,
+  shall be as valid as if made under the usual and ordinary legislation of the country,
+  provided that the same be not repugnant to the constitution of the State and of the United
+  States.
+  
+  *** SEND ***
+  *** SSTART 002.0 017.0 0 FL 1865 ***
+  
+  SEC. 2. All fines, penalties, forfeitures, obligations, and escheats heretofore accruing to
+  the State of Florida, and not made unlawful by the constitution or laws of the United
+  States, shall continue to accrue to the use of the State.
+  
+  *** SEND ***
+  *** SSTART 003.0 017.0 0 FL 1865 ***
+  
+  SEC. 3. All recognizances heretofore taken shall remain valid, and all bonds executed to
+  the governor of the State of Florida, either before or since the 1st day of January, 1861, or
+  to any other officer of the State in his official capacity, shall be of full force and virtue for
+  the uses therein respectively expressed, and may be sued for and recovered accordingly;
+  and all criminal prosecutions and penal actions which have arisen may be prosecuted to
+  judgment and execution in the name of the State.
+  
+  *** SEND ***
+  *** SSTART 004.0 017.0 0 FL 1865 ***
+  
+  SEC. 4. The provisional governor of this State is hereby requested to authorize the civil
+  officers of this State who were discharging the duties of their offices prior to or during the
+  month of May, A. D. 1865, to resume the exercise of the functions of their respective
+  offices, and to make such other appointments to office as may be necessary or proper to
+  reorganize or reestablish the civil government of this State; and all actions at law or suits
+  in chancery, or any proceeding pending in any of the courts in this State prior to or during
+  the said month of May, A. D. 1865, and either before or subsequent to the 10th day of
+  January, A. D. 1861, shall continue in all respects valid, and may be prosecuted to
+  judgment and decree; and all judgments and decrees rendered in civil causes in any of the
+  courts in this State during the period of time last above specified, and not repugnant to the
+  Constitution of the United States, are hereby declared of full force, validity, and effect.
+  
+  *** SEND ***
+  *** SSTART 005.0 017.0 0 FL 1865 ***
+  
+  SEC. 5. The provisional governor of the State is hereby requested and authorized, at as
+  early a day as practicable, to issue writs of election to the proper officers in the different
+  counties in this State, and make proclamation for an election for governor, lieutenant-
+  governor, secretary of state, treasurer, comptroller of public accounts, attorney-general,
+  circuit judges, judge of probate, sheriffs, clerks of circuit courts, solicitors, Representative
+  in Congress, senators and representatives of the general assembly, county commissioners,
+  coroners, justices of the peace, county surveyors, and all other officers provided for by
+  this constitution. The said election shall be held on the 29th day of November, A. D. 1865.
+  The said election shall be conducted according to the existing laws of the State of Florida,
+  and shall take place on the same day throughout the State, the returns to be made
+  according to law. The members of the general assembly, so elected, shall assemble on the
+  3rd Monday in December, A. D. 1865. The governor, lieutenant-governor, secretary of
+  state., treasurer, comptroller of public accounts, attorney-general, circuit judges, judges of
+  probate, sheriffs, clerks of circuit courts, solicitors, Representative in Congress, senators
+  and representatives of the general assembly, county commissioners, coroners, justices of
+  the peace, county surveyors, and all other officers provided for by this constitution, shall
+  enter upon the duties of their respective offices immediately after their election, and shall
+  continue in office in the same manner and during the same period they would have done
+  had they been elected on the first Monday in October, A. D. 1865. The Representative in
+  Congress shall continue in office in the same manner and during the same period he would
+  have done had he been elected on the first Monday in October., A. D. 1865.
+  
+  *** SEND ***
+  *** SSTART 006.0 017.0 0 FL 1865 ***
+  
+  SEC. 6. The statutes of limitations shall not be pleaded upon any claim in the hands of any
+  person whomsoever, not sued upon when such claim was not barred by the statutes of
+  limitation on the 10th day of January, 1861.
+  
+  *** SEND ***
+  *** SSTART 007.0 017.0 0 FL 1865 ***
+  
+  SEC. 7. No law of this State providing that claims or demands against the estates of
+  decedents shall be barred if not presented within two years, shall be considered as being in
+  force within this State between the 10th day of January, 1861, and the 25th day of
+  October, 1865.
+  
+  *** SEND ***
+  *** AEND ***
+                 
+  *** ASTART 9016.0 FL 1865 ***
+  
+  Done in open convention. In witness whereof the undersigned, the president of said
+  convention, and delegates present, representing the people of Florida, do hereby sign our
+  names this the seventh day of November, anno Domini eighteen hundred and sixty-five,
+  and of the Independence of the United States the ninetieth year, and the secretary of said
+  convention doth countersign the same.
+  
+  E. D. TRACY, President.
+  A. J. PEELER, Secretary.
+  
+  *** AEND ***
+  
+  *** CEND ***

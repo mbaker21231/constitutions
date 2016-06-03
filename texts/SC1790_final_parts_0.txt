@@ -1,0 +1,893 @@
+Trisha did South Carolina
+
+It is ready to go
+
+JW 6/2/04
+
+
+
+*** CSTART SC 06/03/1790 04/08/1861 ***
+*** ASTART 9001.0 SC 1790 ***
+
+CONSTITUTION OF SOUTH CAROLINA-1790
+We, the delegates of the people of the State of South Carolina, in general convention met, do
+ordain and establish this constitution for its government.
+
+*** AEND ***
+*** ASTART 001.0 SC 1790 ***
+*** SSTART 001.0 001.0 0 SC 1790 ***
+
+ARTICLE I
+
+SECTION 1. The legislative authority of this State shall be vested in a general assembly, which
+shall consist of a senate and house of representatives.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 SC 1790 ***
+
+SEC. 2. The house of representatives shall be composed of members chosen by ballot every
+second year, by the citizens of this State, qualified as in this constitution provided.
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 SC 1790 ***
+
+SEC. 3. The several election districts in this State shall elect the following number for
+Representatives, viz:
+Charleston, (including Saint Philip and Saint Michael,) fifteen members; Christ Church, three
+members; Saint John, Berkley, three members; Saint Andrew, three members; Saint George,
+Dorchester, three members; Saint James, Goose Creek, three members; Saint Thomas and Saint
+Dennis, three members; Saint Paul, three members; Saint Bartholomew, three members; Saint
+James, Santee, three members; Saint John, Colleton, three members; Saint Stephen, three
+members; Saint Helena, three members; Saint Luke, three members; Prince William, three
+members; Saint Peter, three members; All Saints, (including its ancient boundaries,) one
+member; Winyaw, (not including any part of All Saints,) three members; Kingston, (not
+including any part of All Saints,) two members; Williamsburgh, two members; Liberty, two
+members; Marlborough, two members; Chesterfield, two members; Darlington, two members;
+York, three members; Chester, two members; Fairfield, two members; Richland, two members;
+Lancaster, two members; Kershaw, two members; Claremont, two members; Clarendon, two
+menibers; Abbeville, three members; Edgefield, three members; Newbury, (including the fork
+between Broad and Saluda Rivers,) three members; Laurens, three members; Union, two
+members; Spartan, two members; Greenville, two members; Pendleton, three members; Saint
+Matthew, two members; Orange, two members; Winton, (including the district between
+Savannah River and the North Fork of Edisto,) three members; Saxe Gotha, three members.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 SC 1790 ***
+
+SEC. 4. Every free white man, of the age of twenty-one years, being a citizen of this State, and
+having resided therein two years previous to the day of election, and who hath a freehold of fifty
+acres of land or a town lot, of which he hath been legally seized and possessed at least six months
+before such election, or, not having such freehold or town lot, hath been a resident in the election
+district in which he offers to give his vote six months before the said election, and hath paid a tax
+the preceding year of three shillings sterling towards the support of this government, shall have a
+right to vote for a member or members to serve in either branch of the legislature for the election
+district in which he holds such property or is so resident.
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 SC 1790 ***
+
+SEC. 5. The returning officer, or any other person present entitled to vote, may require any
+person who shall offer his vote at an election to produce a certificate of his citizenship and a
+receipt from the tax collector of his having paid a tax entitling him to vote, or to swear or affirm
+that he is duly qualified to vote, agreeably to this constitution.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 SC 1790 ***
+
+SEC. 6. No person shall be eligible to a seat in the house of representatives unless he is a free
+white man, of the age of twenty-one years, and hath been a citizen and resident in this State three
+years previous to his election. If a resident in the election district, he shall not be eligible to a seat
+in the house of representatives unless he be legally seized and possessed in his own right of a
+settled freehold estate of five hundred acres of land and ten negroes, or of a real estate of the
+value of one hundred and fifty pounds sterling, clear of debt. If a non-resident, he shall be legally
+seized and possessed of a settled freehold estate therein of the value of five hundred pounds
+sterling, clear of debt.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 SC 1790 ***
+
+SEC. 7. The senate shall be composed of members to be chosen for four years, in the following
+proportions, by the citizens of this State qualified to elect members to the house of
+representatives, at the same time, and in the same manner, and at the same places where they
+shall vote for representatives, viz: Charleston, (including Saint Philip and Saint Michael,) two
+members; Christ Church, one member; Saint John, Berkley, one member; Saint Andrew, one
+member; Saint George, one member; Saint James, Goose Creek, one member; Saint Thomas and
+Saint Dennis, one member; Saint Paul, one member; Saint Bartholomew, one member; Saint
+James, Santee, one member; Saint John, Colleton, one member; Saint Stephen, one member;
+Saint Helena, one member; Saint Luke, one member; Prince William, one member; Saint Peter,
+one member; All Saints, one member; Winyaw and Williamsburgh, one member; Liberty and
+Kingston, one member; Marlborough, Chesterfield, and Darlington, two members; York, one
+member; Fairfield, Richland, and Chester, one member; Lancaster and Kershaw, one member;
+Claremont and Clarendon, one member; Abbeville, one member; Edgefield, one member;
+Newbury, (including the Fork between Broad and Saluda Rivers,) one member; Lourens, one
+member; Union, one member; Spartan, one member; Greenville, one member; Pendleton, one
+member; Saint Matthew and Orange, one member; Winton, (including the district between
+Savannah River and the North Fork of Edisto) one member; Saxe Gotha, one member.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 SC 1790 ***
+
+SEC. 8. No person shall be eligible to a seat in the senate unless he is a free white man, of the age
+of thirty years, and hath been a citizen and resident in this State five years previous to his
+election. If a resident in the election district, he shall not be eligible unless he be legally seized
+and possessed, in his own right, of a settled freehold estate of the value of three hundred pounds
+sterling, clear of debt. If a non-resident in the election district, he shall not be eligible unless
+he be legally seized and possessed in his own right of a settled freehold estate in the said district
+of the value of one thousand pounds sterling, clear of debt.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 SC 1790 ***
+
+SEC. 9. Immediately after the senators shall be assembled, in consequence of the first election,
+they shall be divided by lot into two classes. The seats of the senators of the first class shall be
+vacated at the expiration of the second year, and of the second class at the expiration of the fourth
+year; so that one-half thereof, as near as possible, may be chosen, forever thereafter, every second
+year, for the term of four years.
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 SC 1790 ***
+
+SEC. 10. Senators and members of the house of representatives shall be chosen on the second
+Monday in October next, and the day following, and on the same days, in every second year
+thereafter, in such manner and at such times as are herein directed; and shall meet on the fourth
+Monday in November annually at Columbia, (which shall remain the seat of government, until
+otherwise determined, by the concurrence of two-thirds of both branches of the whole
+representation) unless the casualties of war or contagious disorders should render it unsafe to
+meet there; in either of which cases, the governor, or commander-in-chief for the time being,
+may, by proclamation, appoint a more secure and convenient place of meeting.
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 SC 1790 ***
+
+SEC. 11. Each house shall judge of the elections, returns, and qualifications of its own members;
+and a majority of each house shall constitute a quorum to do business; but a smaller number may
+adjourn from day to day, and may be authorized to compel the attendance of absent members in
+such manner and under such penalties as may be provided by law.
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 SC 1790 ***
+
+SEC. 12. Each house shall choose by ballot its own officers, determine its rules of proceeding,
+punish its members for disorderly behavior, and (with the concurrence of two-thirds) expel a
+member, but not a second time for the same cause.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 SC 1790 ***
+
+SEC. 13. Each house may punish, by imprisonment, during sitting, any person not a member,
+who shall be guilty of disrespect to the house, by any disorderly or contemptuous behavior in its
+presence, or who, during the time of its sitting, shall threaten harm to the body or estate of any
+member, for anything said or done in either house, or who shall assault any of them therefor, or
+who shall assault or arrest any witness, or other person, ordered to attend the house, in his going
+to or returning therefrom, or who shall rescue any person arrested by order of the house.
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 SC 1790 ***
+
+SEC. 14. The members of both houses shall be protected in their persons and estates, during their
+attendance on, going to, and returning from, the legislature, and ten days previous to their sitting,
+and ten days after the adjournment of the legislature. But these privileges shall not be extended
+so as to protect any member who shall be charged with treason, felony, or breach of the peace.
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 SC 1790 ***
+
+SEC. 15. Bills for raising a revenue shall originate in the house of representatives, but may be
+altered, amended, or rejected by the senate. All other bills may originate in either house, and may
+be amended, altered, or rejected by the other.
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 SC 1790 ***
+
+SEC. 16. No bill or ordinance shall have the force of law, until it shall have been read three
+times, and on. three several days, in each house, has had the great seal affixed to it and has been
+signed in the senate-house, by the president of the senate and speaker of the house of
+representatives.
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 SC 1790 ***
+
+SEC. 17. No money shall be drawn out of the public treasury, but by the legislative authority of
+the State.
+
+*** SEND ***
+*** SSTART 018.0 001.0 0 SC 1790 ***
+
+SEC. 18. The members of the legislature, who shall assemble under this constitution, shall be
+entitled to receive out of the public treasury, as compensation for their expenses, a sum not
+exceeding seven shillings sterling a day, during their attendance on, going to, and returning from
+the legislature; but the same may be increased or diminished by law, if circumstances shall
+require; but no alterations shall be made by, any legislature to take effect during the existence of
+the legislature which shall make such alteration.
+
+*** SEND ***
+*** SSTART 019.0 001.0 0 SC 1790 ***
+
+SEC. 19. Neither house shall, during their session, without the consent of the other, adjourn for
+more than three days, nor to any other place than that in which the two houses shall be sitting.
+
+*** SEND ***
+*** SSTART 020.0 001.0 0 SC 1790 ***
+
+SEC. 20. No bill or ordinance which shall have been rejected by either house shall be brought in
+again during the sitting, without leave of the house, and notice of six days being previously
+given.
+
+*** SEND ***
+*** SSTART 021.0 001.0 0 SC 1790 ***
+
+SEC. 21. No person shall be eligible to a seat in the legislature whilst he holds any office of
+profit or trust under this State, the United States, or either of them, or under any other power
+except officers in the militia, army or navy of this State, justices of the peace, or justices of the
+county, courts, while they receive no salaries; nor shall any contractor of the army or navy of this
+State, the United States, or either of them, or the agents of such contractor be eligible to a seat in
+either house. And if any member shall accept or exercise tiny of the said disqualifying offices, he
+shall vacate his seat.
+
+*** SEND ***
+*** SSTART 022.0 001.0 0 SC 1790 ***
+
+SEC. 22. If any election district shall neglect to choose a member or members on the days of
+election, or if any person chosen a member of either house should refuse to qualify and take his
+seat, or should die, depart the State, or accept of any disqualifying office, a writ of election shall
+be issued by the president of the senate, or speaker of the house of representatives, (as the case
+may be) for the purpose of filling up the vacancy thereby occasioned for the remainder of the
+term for which the person so refusing to qualify, dying, departing the State, or accepting a
+disqualifying office was elected to serve.
+
+*** SEND ***
+*** SSTART 023.0 001.0 0 SC 1790 ***
+
+SEC. 23. And whereas the ministers of the gospel are by their profession, dedicated to the service
+of God and the care of souls, and ought not to be diverted from the great duties of their function,
+therefore no minister of the gospel or public preacher of any religious persuasion, whilst he
+continues in the exercise of his pastoral functions, shall be eligible to the office of governor,
+lieutenant-governor, or to a seat in the senate or house of representatives.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 SC 1790 ***
+*** SSTART 001.0 002.0 0 SC 1790 ***
+
+ARTICLE II
+
+SECTION 1. The executive authority of this State shall be invested in a governor, to be chosen in
+manner following: As soon as may be after the first meeting of the senate and house of
+representatives and at every first meeting of the house of representatives thereafter when a
+majority of both. houses shall be present, the senate and house of representatives shall, jointly, in
+the house of representatives, choose, by ballot, a governor to continue for two years, and until a
+new election shall be made.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 SC 1790 ***
+
+SEC. 2. No person shall be eligible to the office of governor unless he hath attained the age of
+thirty years, and hath resided within this State and been a citizen thereof ten years, and unless he
+be seized and possessed of a settled estate within the same, in his own right, of the value of
+fifteen hundred pounds sterling, clear of debt.
+No person having served two years as governor shall be re‰ligible to that office till after the
+expiration of four years.
+No person shall hold the office of governor and any other office or commission, civil or military,
+(except in the militia,) either in this State, or under any State, or the United States, or any other
+power, at one and the same time.
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 SC 1790 ***
+
+SEC. 3. A lieutenant-governor shall be chosen at the same time, in the same manner, continue in
+office for the same period, and be possessed of the same qualifications as the governor.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 SC 1790 ***
+
+SEC. 4. A member of the senate or house of representatives being chosen and acting as governor
+or lieutenant-governor, shall vacate his seat, and another person shall be elected in his stead.
+
+*** SEND ***
+*** SSTART 005.0 002.0 0 SC 1790 ***
+
+SEC. 5. In case of the impeachment of the governor, or his removal from office, death,
+resignation, or absence from the State, the lieutenant-governor shall succeed to his office. And in
+case of the impeachment of the lieutenant-governor, or his removal from office, death,
+resignation, or absence from the State, the president of the senate shall succeed to his office till a
+nomination to those offices respectively shall be made by the senate and house of representatives
+for the, remainder of the time for which the officer so impeached, removed from office, dying,
+resigning, or being absent was elected.
+
+*** SEND ***
+*** SSTART 006.0 002.0 0 SC 1790 ***
+
+SEC. 6. The governor shall be commander-in-chief of the army and navy of this State, and of the
+militia, except when they shall be called into the actual service of the United States.
+
+*** SEND ***
+*** SSTART 007.0 002.0 0 SC 1790 ***
+
+SEC. 7. He shall have power to grant reprieves and pardons, after conviction, (except in cases of
+impeachment) in such manner, on such terms, and under such restrictions as he shall think
+proper; and he shall have power to remit fines and forfeitures unless otherwise directed by law.
+
+*** SEND ***
+*** SSTART 008.0 002.0 0 SC 1790 ***
+
+SEC. 8. He shall take care that the laws be faithfully executed in mercy.
+
+*** SEND ***
+*** SSTART 009.0 002.0 0 SC 1790 ***
+
+SEC. 9. He shall have power to prohibit the exportation of provision for any time not exceeding
+thirty days.
+
+*** SEND ***
+*** SSTART 010.0 002.0 0 SC 1790 ***
+
+SEC. 10. He shall, at stated times, receive for his services a compensation, which shall neither be
+increased or diminished during the period for which he shall have been elected.
+
+*** SEND ***
+*** SSTART 011.0 002.0 0 SC 1790 ***
+
+SEC. 11. All officers in the executive department, when required by the governor, shall give him
+information in writing upon any subject relating to the duties of their respective offices.
+
+*** SEND ***
+*** SSTART 012.0 002.0 0 SC 1790 ***
+
+SEC. 12. The governor shall, from time to time, give to the general assembly information of the
+condition of the State, and recommend to their consideration such measures as he shall judge
+necessary or expedient.
+
+*** SEND ***
+*** SSTART 013.0 002.0 0 SC 1790 ***
+
+SEC. 13. He may, on extraordinary occasions, convene the general assembly; and in case of
+disagreement between the two houses with respect to the time of adjournment adjourn them to
+such time as he shall think proper, not beyond the fourth Monday in the month of November then
+ensuing.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 SC 1790 ***
+*** SSTART 001.0 003.0 0 SC 1790 ***
+
+ARTICLE III
+
+SECTION 1 The judicial power shall be vested in such superior and inferior Courts of law and
+equity as the legislature shall, from time to time, direct and establish.
+The judges of each shall hold their commissions during good behavior; and judges of the superior
+courts shall, at stated times, receive a compensation for their services, which shall neither be
+increased or diminished during their continuance in office; but they shall receive no fees or
+perquisites of office, nor hold any other office of profit or trust under this State, the United
+States, or any, other power.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 SC 1790 ***
+
+SEC. 2. The style of all processes shall be "The State of South Carolina." All prosecutions shall
+be carried on in the name and by the authority of the State of South Carolina, and conclude
+"against the peace and dignity of the same."
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 SC 1790 ***
+*** SSTART 001.0 004.0 0 SC 1790 ***
+
+ARTICLE IV  
+All persons who shall be chosen or appointed to any office of profit or trust, before entering on
+the execution thereof, shall take the following oath: " I do swear [or affirm] that I am duly
+qualified, according to the constitution of this State, to exercise the office to which I have been
+appointed, and will, to the best of my abilities, discharge the duties thereof, and preserve, protect,
+and defend the Constitution of this State and of the United States."
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 SC 1790 ***
+*** SSTART 001.0 005.0 0 SC 1790 ***
+
+ARTICLE V
+SECTION 1. The house of representatives shall have the sole power of impeaching; but no
+impeachment shall be made unless with the concurrence of two-thirds of the house of
+representatives.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 SC 1790 ***
+
+SEC. 2. All impeachments shall be tried by the senate. When sitting for that purpose, the senators
+shall be on oath or affirmation; and no person shall be convicted without the concurrence of two-
+thirds of the members present.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 SC 1790 ***
+
+SEC. 3. The governor, lieutenant-governor, and all the civil officers shall be liable to
+impeachment for any misdemeanor in office; but judgment in such cases shall not extend further
+than to a removal from office, and disqualification to hold any office of honor, trust, or profit
+under this State. The party convicted shall, nevertheless, be liable to indictment, trial, judgment,
+and punishment according to law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 SC 1790 ***
+*** SSTART 001.0 006.0 0 SC 1790 ***
+
+ARTICLE VI
+
+SECTION 1. The judges of the superior courts, commissioners of the treasury, secretary of the
+State, and surveyor-general shall be elected.  The commissioners of the treasury, secretary of this
+State and surveyor-general shall hold their offices for four years; but shall not be eligible again
+for four years after the expiration of the time for which they shall have been elected.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 SC 1790 ***
+
+SEC. 2. All other officers shall be appointed as they hitherto have been, until otherwise directed
+by law; but sheriffs shall hold their offices for four years, and not be again eligible for four years
+after the term for which they shall have been elected.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 SC 1790 ***
+
+SEC. 3. All commissions shall be in the name and by the authority of the State of South Carolina,
+and be sealed with the seal of the State, and be signed by the governor.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 SC 1790 ***
+
+ARTICLE VII
+
+All laws of force in this State at the passing of this constitution shall so continue, until altered or
+repealed by the legislature, except where they are temporary, in which case they shall expire at
+the times respectively limited for their duration, if not continued by act of the legislature.
+
+*** AEND ***
+*** ASTART 008.0 SC 1790 ***
+*** SSTART 001.0 008.0 0 SC 1790 ***
+
+ARTICLE VIII
+
+SECTION1. The free exercise and enjoyment of religious profession and worship, without
+discrimination or preference, shall forever hereafter be allowed within this State to all mankind:
+Provided, That the liberty of conscience thereby declared shall not be so construed as to excuse
+acts of licentiousness, or justify practice, inconsistent with the peace or safety of this State.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 SC 1790 ***
+
+SEC. 2. The rights, privileges, immunities, and estates of both civil and religious societies, and
+corporate bodies, shall remain as if the constitution of this State had not been altered or amended.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 SC 1790 ***
+*** SSTART 001.0 009.0 0 SC 1790 ***
+
+ARTICLE IX
+
+SECTION 1. All power is originally vested in the people; and all free governments are founded
+on their authority, and are instituted for their peace, safety, and happiness.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 SC 1790 ***
+
+SEC. 2. No freemen of this State shall be taken, or imprisoned, or disseized of his freehold,.
+liberties, or privileges, or outlawed, or exiled, or in any manner destroyed, or deprived of his life.
+liberty or property, but by the judgment of his peers, or by the law of the land; nor shall any bill
+of attainder, ex post facto law, or law impairing the obligation of contracts, ever be passed by the
+legislature of this State.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 SC 1790 ***
+
+SEC. 3. The military shall be subordinate to the civil power.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 SC 1790 ***
+
+SEC. 4. Excessive bail shall not be required, nor excessive fines imposed, nor cruel punishments
+inflicted.
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 SC 1790 ***
+
+SEC. 5. The legislature shall not grant any title of nobility, or hereditary distinction, nor create
+any office the appointment to which shall be for any longer time than during good behavior.
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 SC 1790 ***
+
+SEC. 6. The trial by jury, as heretofore used in this State, and the liberty of the press, shall be
+forever inviolably preserved.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 SC 1790 ***
+*** SSTART 001.0 010.0 0 SC 1790 ***
+
+ARTICLE X
+
+SECTION 1. The business of the treasury shall be in future conducted by two treasurers, one of
+whom shall hold his office and reside at Columbia; the other shall hold his office and reside in
+Charleston.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 SC 1790 ***
+
+SEC 2. The secretary of state and surveyor-general shall hold their offices both in Columbia and
+Charleston. They shall reside at one place, and their deputies at the other.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 SC 1790 ***
+
+SEC. 3. At the conclusion of the circuits, the judges shall meet and sit at Columbia, for the
+purpose of hearing and determining all motions which may be made for new trials, and in arrest
+of judgments, and such points of law as may be submitted to them. From Columbia, they shall
+proceed to Charleston, and there hear and determine all such motions for new trials, and in arrest
+of judgment, and such points of law as may be submitted to them.
+
+*** SEND ***
+*** SSTART 004.0 010.0 0 SC 1790 ***
+
+SEC. 4. The governor shall always reside, during the sitting of the legislature, at the place where
+their session may be held; and, at all other times, wherever, in his opinion, the public good may
+require.
+
+*** SEND ***
+*** SSTART 005.0 010.0 0 SC 1790 ***
+
+SEC. 5. The legislature shall, as soon as may be convenient, pass laws for the abolition of the
+rights of primogeniture, and for giving an equitable distribution of the real estate of intestates.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 SC 1790 ***
+
+ARTICLE XI
+
+No convention of the people shall be called, unless by the concurrence of two-thirds of both
+branches of the whole representation.
+No part of this constitution shall be altered, unless a bill to alter the same shall have been read
+three times in the house of representatives, and three times in the senate, and agreed to by two-
+thirds of both branches of the whole representation; neither shall any alteration take place until
+the bill so agreed to be published three months previous to a new election for members to the
+house of representatives; and if the alteration proposed by the legislature shall be agreed to, in
+their first session, by two-thirds of the whole representation in both branches of the legislature,
+after the same shall have been read three times, or three several days, in each house, then, and not
+otherwise, the same shall become a part of the constitution.
+Done in convention at Columbia, in the State of South Carolina, the third day of June, in the year
+of our Lord 1790, and in the fourteenth year of the Independence of the United States of
+America.
+By the unanimous order of the convention.
+CHARLES PINCKNEY, President.
+
+*** AEND ***
+*** MSTART 001 003.0 001.0 0 SC 1790 1808 ***
+
+[The following sections in amendment of the third, seventh, and ninth sections of the first article
+of the constitution of this State shall be, and they are hereby declared to be, valid parts of the said
+constitution; and the said third, seventh, and ninth sections, or such parts thereof as are repugnant
+to such amendments, are hereby repealed and made void.]
+The house of representatives shall consist of one hundred and twenty-four members, to be
+apportioned among the several election districts of the State, according to the number of white
+inhabitants contained, and the amount of all taxes raised by the legislature, whether direct or
+indirect, or of whatever species, paid in each, deducting therefrom all taxes paid on account of
+property held in any other district, and adding thereto all taxes elsewhere paid on account of
+property held in such district. An enumeration of the white inhabitants, or this purpose, shall be
+made in the year one thousand eight hundred and nine, and in the course of every tenth year
+thereafter, in such manner as shall be by law directed; and representatives shall be assigned to the
+different, districts in the abovementioned proportion, by act of legislature, at the session imme-
+
+diately succeeding the above enumeration.
+If the enumeration herein directed should not be made in the course of the year appointed for the
+purpose by these amendments, it shall be the duty of the governor to have it effected as soon
+thereafter as shall be practicable.
+In assigning representatives to the several districts of the State, the legislature shall allow one
+representative for every sixty-second part of the whole number of white inhabitants in the State;
+and one representative also for every sixty-second part of the whole taxes raised by the
+legislature of the State. The legislature shall further allow one representative for such fractions of
+the sixty-second part of the white inhabitants of the State, and of the sixty-second part of the
+taxes raised by the legislature of the State, as, when added together, form a unit.
+In every apportionment of representation under these amendments, which shall take place after
+the first apportionment, the amount of taxes shall be estimated from the average of the ten
+preceding years; but the first apportionment shall be founded upon the tax of the preceding year,
+excluding from the amount thereof the whole produce of the tax on sales at public auction.
+If, in the apportionment of representatives under these amendments, any election district shall
+appear not to be entitled, from its population and its taxes, to a representative, such election
+district shall, nevertheless, send one representative; and, if there should be still a deficiency of
+the number of representatives required by these amendments, such deficiency shall be supplied
+by assigning representatives to those election districts having the largest surplus fractions,
+whether those fractions consist of a combination of population or of population or of taxes
+separately, until the number of one hundred and twenty-four members be provided.
+No apportionment under these amendments shall be Construed to take effect, in any manner,
+until the general election which shall succeed such apportionment.
+The election districts for members of the house of representatives shall be and remain as
+heretofore established, except Saxe Gotha and Newberry; in which the boundaries shall be
+altered, as follows, viz: That part of Lexington in the fork of Broad and Saluda, Rivers shall no
+longer compose a part of the election district of Newberry, but shall henceforth attached to, and
+form a part of Saxe Gotha. And, also, except Orange and Barnwell, or Winton, in which the
+boundaries shall be altered, as follows, viz: That part of Orange in the fork freehold or town lot,
+hath been a resident in the election district in Barnwell, or Winton, but shall be henceforth
+attached to, and form a part of, Orange election district.
+The senate shall be composed of one member from each election district, as now established for
+the election of members of the house of representatives, except the district formed by the
+parishes of Saint Philip and Saint Michael, to which shall be allowed two senators, as heretofore.
+The seats of those senators who under the constitution shall represent two or more election
+districts, on the day preceding the second Monday of October, which will be in the year one
+thousand eight hundred and ten, shall be vacated on that day, and the new senators who shall
+represent such districts under these amendments shall, immediately after they shall have been
+assembled under the first election, be divided by lots into two classes; the seats of the senators of
+the first class shall be vacated at the expiration of the second year, and of the second class, at the
+expiration of the fourth year; and the number in these classes shall be so proportioned that one-
+half of the whole number of senators may, as nearly as possible, continue to be chosen thereafter
+every second year.
+None of these amendments becoming parts of the constitution of this State shall be altered,
+unless a bill to alter the same shall have been read on three several days in the house of
+representatives, and on three several days in the senate, and agreed to at the second and third
+reading by two-thirds of the whole representation in each branch of the legislature; neither shall
+any alteration take place until the bill so agreed to be published three months previous to a new
+election for members to the house of representatives; and if the alteration proposed by the
+legislature shall be agreed to in their first session, by two-thirds of the whole representation, in
+each branch of the legislature, after the same shall have been read on three several days in each
+house, then, and not otherwise, the same shall become a part of the constitution.
+
+[Ratified December 17, 1808]
+
+*** MEND ***
+*** MSTART 002 007.0 001.0 0 SC 1790 1808 ***
+
+[The following sections in amendment of the third, seventh, and ninth sections of the first article
+of the constitution of this State shall be, and they are hereby declared to be, valid parts of the said
+constitution; and the said third, seventh, and ninth sections, or such parts thereof as are repugnant
+to such amendments, are hereby repealed and made void.]
+The house of representatives shall consist of one hundred and twenty-four members, to be
+apportioned among the several election districts of the State, according to the number of white
+inhabitants contained, and the amount of all taxes raised by the legislature, whether direct or
+indirect, or of whatever species, paid in each, deducting therefrom all taxes paid on account of
+property held in any other district, and adding thereto all taxes elsewhere paid on account of
+property held in such district. An enumeration of the white inhabitants, or this purpose, shall be
+made in the year one thousand eight hundred and nine, and in the course of every tenth year
+thereafter, in such manner as shall be by law directed; and representatives shall be assigned to the
+different, districts in the abovementioned proportion, by act of legislature, at the session imme-
+
+diately succeeding the above enumeration.
+If the enumeration herein directed should not be made in the course of the year appointed for the
+purpose by these amendments, it shall be the duty of the governor to have it effected as soon
+thereafter as shall be practicable.
+In assigning representatives to the several districts of the State, the legislature shall allow one
+representative for every sixty-second part of the whole number of white inhabitants in the State;
+and one representative also for every sixty-second part of the whole taxes raised by the
+legislature of the State. The legislature shall further allow one representative for such fractions of
+the sixty-second part of the white inhabitants of the State, and of the sixty-second part of the
+taxes raised by the legislature of the State, as, when added together, form a unit.
+In every apportionment of representation under these amendments, which shall take place after
+the first apportionment, the amount of taxes shall be estimated from the average of the ten
+preceding years; but the first apportionment shall be founded upon the tax of the preceding year,
+excluding from the amount thereof the whole produce of the tax on sales at public auction.
+If, in the apportionment of representatives under these amendments, any election district shall
+appear not to be entitled, from its population and its taxes, to a representative, such election
+district shall, nevertheless, send one representative; and, if there should be still a deficiency of
+the number of representatives required by these amendments, such deficiency shall be supplied
+by assigning representatives to those election districts having the largest surplus fractions,
+whether those fractions consist of a combination of population or of population or of taxes
+separately, until the number of one hundred and twenty-four members be provided.
+No apportionment under these amendments shall be Construed to take effect, in any manner,
+until the general election which shall succeed such apportionment.
+The election districts for members of the house of representatives shall be and remain as
+heretofore established, except Saxe Gotha and Newberry; in which the boundaries shall be
+altered, as follows, viz: That part of Lexington in the fork of Broad and Saluda, Rivers shall no
+longer compose a part of the election district of Newberry, but shall henceforth attached to, and
+form a part of, Saxe Gotha. And, also, except Orange and Barnwell, or Winton, in which the
+boundaries shall be altered, as follows, viz: That part of Orange in the fork freehold or town lot,
+hath been a resident in the election district in Barnwell, or Winton, but shall be henceforth
+attached to, and form a part of, Orange election district.
+The senate shall be composed of one member from each election district, as now established for
+the election of members of the house of representatives, except the district formed by the
+parishes of Saint Philip and Saint Michael, to which shall be allowed two senators, as heretofore.
+The seats of those senators who under the constitution shall represent two or more election
+districts, on the day preceding the second Monday of October, which will be in the year one
+thousand eight hundred and ten, shall be vacated on that day, and the new senators who shall
+represent such districts under these amendments shall, immediately after they shall have been
+assembled under the first election, be divided by lots into two classes; the seats of the senators of
+the first class shall be vacated at the expiration of the second year, and of the second class, at the
+expiration of the fourth year; and the number in these classes shall be so proportioned that one-
+half of the whole number of senators may, as nearly as possible, continue to be chosen thereafter
+every second year.
+None of these amendments becoming parts of the constitution of this State shall be altered,
+unless a bill to alter the same shall have been read on three several days in the house of
+representatives, and on three several days in the senate, and agreed to at the second and third
+reading by two-thirds of the whole representation in each branch of the legislature; neither shall
+any alteration take place until the bill so agreed to be published three months previous to a new
+election for members to the house of representatives; and if the alteration proposed by the
+legislature shall be agreed to in their first session, by two-thirds of the whole representation, in
+each branch of the legislature, after the same shall have been read on three several days in each
+house, then, and not otherwise, the same shall become a part of the constitution.
+
+[Ratified December 17, 1808]
+
+*** MEND ***
+*** MSTART 003 009.0 001.0 0 SC 1790 1808 ***
+
+[The following sections in amendment of the third, seventh, and ninth sections of the first article
+of the constitution of this State shall be, and they are hereby declared to be, valid parts of the said
+constitution; and the said third, seventh, and ninth sections, or such parts thereof as are repugnant
+to such amendments, are hereby repealed and made void.]
+The house of representatives shall consist of one hundred and twenty-four members, to be
+apportioned among the several election districts of the State, according to the number of white
+inhabitants contained, and the amount of all taxes raised by the legislature, whether direct or
+indirect, or of whatever species, paid in each, deducting therefrom all taxes paid on account of
+property held in any other district, and adding thereto all taxes elsewhere paid on account of
+property held in such district. An enumeration of the white inhabitants, or this purpose, shall be
+made in the year one thousand eight hundred and nine, and in the course of every tenth year
+thereafter, in such manner as shall be by law directed; and representatives shall be assigned to the
+different, districts in the abovementioned proportion, by act of legislature, at the session imme-
+
+diately succeeding the above enumeration.
+If the enumeration herein directed should not be made in the course of the year appointed for the
+purpose by these amendments, it shall be the duty of the governor to have it effected as soon
+thereafter as shall be practicable.
+In assigning representatives to the several districts of the State, the legislature shall allow one
+representative for every sixty-second part of the whole number of white inhabitants in the State;
+and one representative also for every sixty-second part of the whole taxes raised by the
+legislature of the State. The legislature shall further allow one representative for such fractions of
+the sixty-second part of the white inhabitants of the State, and of the sixty-second part of the
+taxes raised by the legislature of the State, as, when added together, form a unit.
+In every apportionment of representation under these amendments, which shall take place after
+the first apportionment, the amount of taxes shall be estimated from the average of the ten
+preceding years; but the first apportionment shall be founded upon the tax of the preceding year,
+excluding from the amount thereof the whole produce of the tax on sales at public auction.
+If, in the apportionment of representatives under these amendments, any election district shall
+appear not to be entitled, from its population and its taxes, to a representative, such election
+district shall, nevertheless, send one representative; and, if there should be still a deficiency of
+the number of representatives required by these amendments, such deficiency shall be supplied
+by assigning representatives to those election districts having the largest surplus fractions,
+whether those fractions consist of a combination of population or of population or of taxes
+separately, until the number of one hundred and twenty-four members be provided.
+No apportionment under these amendments shall be Construed to take effect, in any manner,
+until the general election which shall succeed such apportionment.
+The election districts for members of the house of representatives shall be and remain as
+heretofore established, except Saxe Gotha and Newberry; in which the boundaries shall be
+altered, as follows, viz: That part of Lexington in the fork of Broad and Saluda, Rivers shall no
+longer compose a part of the election district of Newberry, but shall henceforth attached to, and
+form a part of, Saxe Gotha. And, also, except Orange and Barnwell, or Winton, in which the
+boundaries shall be altered, as follows, viz: That part of Orange in the fork freehold or town lot,
+hath been a resident in the election district in Barnwell, or Winton, but shall be henceforth
+attached to, and form a part of, Orange election district.
+The senate shall be composed of one member from each election district, as now established for
+the election of members of the house of representatives, except the district formed by the
+parishes of Saint Philip and Saint Michael, to which shall be allowed two senators, as heretofore.
+The seats of those senators who under the constitution shall represent two or more election
+districts, on the day preceding the second Monday of October, which will be in the year one
+thousand eight hundred and ten, shall be vacated on that day, and the new senators who shall
+represent such districts under these amendments shall, immediately after they shall have been
+assembled under the first election, be divided by lots into two classes; the seats of the senators of
+the first class shall be vacated at the expiration of the second year, and of the second class, at the
+expiration of the fourth year; and the number in these classes shall be so proportioned that one-
+half of the whole number of senators may, as nearly as possible, continue to be chosen thereafter
+every second year.
+None of these amendments becoming parts of the constitution of this State shall be altered,
+unless a bill to alter the same shall have been read on three several days in the house of
+representatives, and on three several days in the senate, and agreed to at the second and third
+reading by two-thirds of the whole representation in each branch of the legislature; neither shall
+any alteration take place until the bill so agreed to be published three months previous to a new
+election for members to the house of representatives; and if the alteration proposed by the
+legislature shall be agreed to in their first session, by two-thirds of the whole representation, in
+each branch of the legislature, after the same shall have been read on three several days in each
+house, then, and not otherwise, the same shall become a part of the constitution.
+
+[Ratified December 17, 1808]
+
+*** MEND ***
+*** MSTART 004 004.0 001.0 0 SC 1790 1810 ***
+
+Every free white man of the age of twenty-one years, paupers, and non-commissioned officers
+and private soldiers of the Army of the United States excepted, being a citizen of this State, and
+having resided therein two years previous to the day of election, and who hath a freehold of fifty
+acres of land or a town lot, of which he hath been legally seized and possessed at least six months
+before such election, or not having such freehold or town lot, hath been a resident in the election
+district in which he offers to give his vote six months before the said election, shall have a right
+to vote for a member or members to serve in either branch of the legislature, for the election
+district in which he holds such property, or is so resident.
+
+[Ratified December 19, 1810]
+
+*** MEND ***
+*** MSTART 005 003.0 010.0 0 SC 1790 1816 ***
+
+That the third section of the tenth article of the constitution of this State be altered and amended
+to read as follows: The judges shall, at such times and places as shall be prescribed by act of the
+legislature of this State, meet and sit for the purpose of hearing and determining all motions
+which may be made for new trials, and in arrest of judgment, and such points of law as may be
+submitted to them.
+
+[Ratified December 19, 1816]
+
+*** MEND ***
+*** MSTART 006 001.0 9099.0 0 SC 1790 1820 ***
+
+That all that territory lying within the chartered limits of this State, and which was ceded by the
+Cherokee Nation, in a treaty concluded at Washington, on the twenty-second day of March, in the
+year of our Lord one thousand eight hundred and sixteen, and confirmed by an act of the
+legislature of this State, passed on the nineteenth day of December, in the same year, shall be,
+and the same is hereby, declared to be annexed to and shall form and continue a part of the
+election district of Pendleton.
+
+[Ratified December 20, 1820]
+
+*** MEND ***
+*** MSTART 007 003.0 005.0 0 SC 1790 1828 ***
+
+SEC. 3. The governor, lieutenant-governor, and all civil officers shall be liable to impeachment
+for high crimes and misdemeanors, for any misbehavior in office, for corruption in procuring
+office, or for any act which shall degrade their official character. But judgment, in such cases,
+shall not extend further than to removal from office, and disqualification to hold any office of
+honor, trust, or profit under this State. The party convicted shall, nevertheless, be liable to
+indictment, trial, judgment, and punishment, according to law.
+
+[Ratified December 19, 20, 1828]
+
+*** MEND ***
+*** MSTART 008 004.0 005.0 0 SC 1790 1828 ***
+
+SEC. 4. All civil officers, whose authority is limited to a single election district, a single judicial
+district, or part of either, shall be appointed, hold their office, be removed from office, and in
+addition to liability to impeachment, may be punished for official misconduct, in such manner as
+the legislature, previous to their appointment, may provide.
+
+[Ratified December 19, 20, 1828]
+
+*** MEND ***
+*** MSTART 009 005.0 005.0 0 SC 1790 1828 ***
+
+SEC. 5. If any civil officer shall become disabled from discharging the duties of his office, by
+reason of any permanent bodily or mental infirmity, his office may be declared to be vacant, by
+joint resolution, agreed to by two-thirds of the whole representation in each branch of the
+legislature: Provided, That such resolution shall contain the grounds for the proposed removal,
+and before it shall pass either house a copy of it shall be served on the officer and a hearing be
+allowed him.
+
+[Ratified December 19, 20, 1828]
+
+*** MEND ***
+*** MSTART 010 001.0 004.0 0 SC 1790 1834 ***
+
+Every person who shall be chosen or appointed to any office of profit or trust, before entering on
+the execution thereof, shall take the following oath: "I do solemnly swear,( or affirm,) that I will
+be faithful, and true allegiance bear to the State of South Carolina, so long as I may continue a
+citizen thereof; and that I am duly qualified, according to the constitution of this State, to
+exercise the office to which I have been appointed; and that I will, to the best of my abilities,
+discharge the duties thereof, and preserve, protect, and defend the constitution of this State, and
+of the United States: So help me God."
+
+[Ratified December 6, 1834]
+
+*** MEND ***
+*** MSTART 011 010.0 001.0 0 SC 1790 1856 ***
+
+Senators, according to their classification, and members of the house of representatives, shall be
+chosen on the second Monday in October, in the year of our Lord one thousand eight hundred
+and sixty, and on the same day in every second year thereafter, in such manner and at such times
+as are herein directed and shall meet on the fourth Monday in November, annually, at Columbia,
+(which shall remain the seat of government until otherwise determined by the concurrence of
+two-thirds of both branches of the whole representation unless the casualties of war or contagious
+disorders should render it unsafe to meet there, in either of which cases the governor, or
+commander-in-chief for the time being, may, by proclamation, appoint a more secure and
+convenient place of meeting.
+
+[Ratified December, 1856]
+
+*** MEND ***
+*** MSTART 012 004.0 001.0 0 SC 1790 1856 ***
+
+Every free white man of the age of twenty-one years, (paupers and non-commissioned officers
+and private soldiers of the army of the United States, excepted,) who hath been a citizen and
+resident in this State two years previous to the day of election, and who hath a freehold of fifty
+acres of land or a town lot, of which he hath been legally seized and possessed at least six months
+before such election, or, not having such a freehold or town lot, hath been a resident in the
+election district in which he offers to give his vote six months before the said election, shall have
+a right to vote for a member or members, to serve in either branch of the Legislature for the
+Election District in which he holds such property, or is so resident.
+
+[Ratified December 20, 1856.]
+
+*** MEND ***
+*** CEND ***

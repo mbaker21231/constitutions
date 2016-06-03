@@ -1,0 +1,1958 @@
+This is ready to go
+
+At some point this constitution still needs
+There is a table that needs to be added, sec 12 of the schedule
+
+
+JW 1.10.02
+
+
+
+*** CSTART IL 3/5/1848 8/8/1870***
+
+CONSTITUTION OF ILLINOIS-1848
+
+*** ASTART 9001.0 IL 1848 ***
+
+PREAMBLE
+
+We, the people of the State of Illinois, grateful to Almighty God for the civil, political, and
+religious liberty which He hath so long permitted us to enjoy, and looking to Him for a blessing
+upon our endeavors to secure and transmit the same unimpaired to succeeding generations, in
+order to form a more perfect government, establish justice, insure domestic tranquillity, provide
+for the common defense, promote the general welfare, and secure the blessings of liberty to
+ourselves and our posterity, do ordain and establish this constitution for the State of Illinois.
+
+*** AEND ***
+*** ASTART 001.0 IL 1848 ***
+
+ARTICLE I
+
+BOUNDARIES
+
+*** SSTART 001.0 001.0 0 IL 1848 ***
+
+SECTION 1. The boundaries and jurisdiction of the State shall be as follows, to wit: Beginning at
+the mouth of the Wabash River; thence up the same, and with the line of Indiana, to the northwest
+corner of said State; thence east, with the line of the same State, to the middle of Lake Michigan;
+thence north, along the middle of said lake, to north latitude forty-two degrees and thirty minutes;
+thence west to the middle of the Mississippi River, and thence down, along the middle of that
+river, to its confluence with the Ohio River, and thence up the latter river, along its northwestern
+shore, to the place of beginning: Provided, That this State shall exercise such jurisdiction upon the
+Ohio River as she is now entitled to, or such as may hereafter be agreed upon by this State, and
+the State of Kentucky.
+
+*** AEND ***
+*** ASTART 002.0 IL 1848 ***
+
+ARTICLE II
+
+CONCERNING THE DISTRIBUTION OF THE POWERS OF GOVERNMENT
+
+*** SSTART 001.0 002.0 0 IL 1848 ***
+
+SECTION 1. The powers of the government of the State of Illinois shall be divided into three
+distinct departments, and each of them be confided to a separate body of magistracy, to wit: those
+which are legislative, to one; those which are executive, to another; and those which are judicial,
+to another.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 IL 1848 ***
+
+SEC. 2. No person or collection of persons, being one of these departments, shall exercise any
+power properly belonging to either of the others, except as hereinafter expressly directed or
+permitted, and all acts in contravention of this section shall be expressly directed all acts in
+contravention of this section shall be void.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 IL 1848 ***
+
+ARTICLE III
+
+OF THE LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.0 003.0 0 IL 1848 ***
+
+SECTION 1. The legislative authority of this State shall be vested in a general assembly, which
+shall consist of a senate and house of representatives, both to be elected by the people.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 IL 1848 ***
+
+SEC. 2. The first election for senators an representatives shall be held on the Tuesday after the
+first Monday in November, one thousand eight hundred and forty-eight; and thereafter, elections
+for members of the general assembly shall be held once in two years, on the Tuesday next after the
+first Monday in November, in each and every county, at such places therein as may be provided by
+law.
+*** SEND ***
+*** SSTART 003.0 003.0 0 IL 1848 ***
+
+SEC. 3. No person shall be a representative who shall not have attained the age of twenty-five
+years; who shall not be a citizen of the United States, and three years an inhabitant of this State;
+Who shall not have resided within the limits of the county or district in which he shall be chosen
+twelve months next preceding his election, if such county or district shall have been so long
+erected, but, if not, then within the limits of the county or counties, district or districts, out of
+which the same shall have been taken, unless he shall have been absent on the public business of
+the United States or of this State; and who, moreover, shall not have paid a State or county tax.
+
+*** SEND ***
+*** SSTART 004.0 003.0 0 IL 1848 ***
+
+SEC. 4. No person shall be a senator who shall not have attained the age of thirty years; who shall
+not be a citizen of the United States, five years an inhabitant of this State, and one year in the
+county or district in which he shall be chosen immediately preceding his election, if such county or
+district shall have been so long erected, but, if not, then within the limits of the county or counties,
+district or districts, out of which the same shall have been taken, unless he shall have been absent
+on the public business of the United States or of this State, and shall not, moreover, have paid a
+State or county tax.
+
+*** SEND ***
+*** SSTART 005.0 003.0 0 IL 1848 ***
+
+SEC. 5. The senators at their first session herein provided for shall be divided by lot, as near as
+can be, into two classes. The seats of the first class shall be vacated at the expiration of the second
+year, and those of the second class at the expiration of the fourth year; so that one-half thereof, as
+near as possible, may be biennially chosen forever thereafter.
+
+*** SEND ***
+*** SSTART 006.0 003.0 0 IL 1848 ***
+
+SEC. 6. The senate shall consist of twenty-five members, and the house of representatives shall
+consist of seventy-five members, until the population of the State shall amount to one million of
+souls, when five members may be added to the house, and five additional members for every five
+hundred thousand inhabitants thereafter, until the whole number of representatives shall amount to
+one hundred; after which the number shall neither be increased nor diminished; to be apportioned
+among the several counties according to the number of white inhabitants. In all future
+apportionments, where more than one county shall be thrown into a representative district, all the
+representatives to which said counties may be entitled shall be elected by the entire district.
+
+*** SEND ***
+*** SSTART 007.0 003.0 0 IL 1848 ***
+
+SEC. 7. No person elected to the general assembly shall receive any civil appointment within this
+State, or to the senate of the United States, from the governor, the governor and senate, or from
+the general assembly, during the term for which he shall have been elected; and all such
+appointments, and all votes given for any such member for any such office or appointment, shall
+be void; nor shall any member of the general assembly be interested, either directly or indirectly, in
+any contract with the State, or any county thereof, authorized by any law passed during the time
+for which he shall have been elected, or during one year after the expiration thereof.
+
+*** SEND ***
+*** SSTART 008.0 003.0 0 IL 1848 ***
+
+SEC. 8. In the year one thousand eight hundred and fifty-five, and every tenth year thereafter, an
+enumeration of the inhabitants of this State shall be made in such manner as shall be directed by
+law; and in the year eighteen hundred and fifty, and every tenth year thereafter, the census taken
+by authority of the Government of the United States shall be adopted by the general assembly as
+the enumeration of this State; and the number of senators and representatives shall, at the first
+regular session holden after the returns herein provided for are made, apportioned among the
+several counties or districts to be established by law, according to the number of white
+inhabitants.
+
+*** SEND ***
+*** SSTART 009.0 003.0 0 IL 1848 ***
+
+SEC. 9. Senatorial and representative districts shall be composed of contiguous territory bounded
+by county lines; and only one senator allowed to each senatorial, and not more than three
+representatives to any representative district: Provided, That cities and towns, containing the
+requisite population, may be erected into separate districts.
+
+*** SEND ***
+*** SSTART 010.0 003.0 0 IL 1848 ***
+
+SEC. 10. In forming senatorial and representative districts, counties, containing a population of
+not more than one-fourth over the existing ratio, shall form separate districts, and the excess shall
+be given to the nearest county or counties not having a senator or representative, as the case may
+be, which has the largest white population.
+
+*** SEND ***
+*** SSTART 011.0 003.0 0 IL 1848 ***
+
+SEC. 11. The first session of the general assembly shall commence on the first, Monday of
+January, one thousand eight hundred and forty-nine; and forever after the general assembly shall
+meet on the first Monday of January next ensuing the election of the members thereof, and at no
+other period, unless as provided by this constitution.
+
+*** SEND ***
+*** SSTART 012.0 003.0 0 IL 1848 ***
+
+SEC. 12. The senate and house of representatives, when assembled, shall each choose a speaker
+and other officers, (the speaker of the senate excepted). Each house shall judge of the
+qualifications and election of its members, and sit upon its own adjournments. Two-thirds of each
+house shall constitute a quorum; but a smaller number may adjourn from day to day, and compel
+the attendance of absent members.
+
+*** SEND ***
+*** SSTART 013.0 003.0 0 IL 1848 ***
+
+SEC. 13. Each house shall keep a journal of its proceedings, and publish them. The yeas and nays
+of the members on any question shall, at the desire of any two of them, be entered on the journals.
+
+*** SEND ***
+*** SSTART 014.0 003.0 0 IL 1848 ***
+
+SEC. 14. Any two members of either house shall have liberty to dissent and protest against any
+act or resolution which they may think injurious to the public, or to any individual, and have the
+reasons of their dissent entered on the journals.
+
+*** SEND ***
+*** SSTART 015.0 003.0 0 IL 1848 ***
+
+SEC. 15. Each house may determine the rules of its proceedings, punish its members for
+disorderly behavior, and, with the concurrence of two-thirds of all the members elected, expel a
+member, but not a second time for the same cause; and the reason for such expulsion shall be
+entered upon the journal, with the names of the members voting upon the question.
+
+*** SEND ***
+*** SSTART 016.0 003.0 0 IL 1848 ***
+
+SEC. 16. When vacancies shall happen in either house, the governor, or the person exercising the
+powers of governor, shall issue writs of election to fill such vacancies.
+
+*** SEND ***
+*** SSTART 017.0 003.0 0 IL 1848 ***
+
+SEC. 17. Senators and representatives shall in all cases, except treason, felony, or breach of the
+peace, be privileged from arrest during the session of the general assembly, and in going and
+returning from the same; and for any speech or debate in either house, they shall not be
+questioned in any other place.
+
+*** SEND ***
+*** SSTART 018.0 003.0 0 IL 1848 ***
+
+SEC. 18. Each house may punish, by imprisonment during its session, any person, not a member,
+who shall be guilty of disrespect to the house, by any disorderly or contemptuous behavior in their
+presence: Provided, Such imprisonment shall not, at any one time, exceed twenty-four hours.
+
+*** SEND ***
+*** SSTART 019.0 003.0 0 IL 1848 ***
+
+SEC. 19. The doors of each house, and of committees of the whole, shall be kept open, except in
+such cases as, in the opinion of the house, require secrecy. Neither house shall, without the
+consent of the other, adjourn for more than two days, nor to any other place than, that in which
+the two houses shall be sitting
+
+*** SEND ***
+*** SSTART 020.0 003.0 0 IL 1848 ***
+
+SEC. 20. The style of the laws of this State shall be: "Be it enacted by the people of the State of
+Illinois, represented in the general assembly."
+
+*** SEND ***
+*** SSTART 021.0 003.0 0 IL 1848 ***
+
+SEC. 21. Bills may originate in either house, but may be altered, amended, or rejected, by the
+other; and, on the final passage of all bills, the vote shall be by ayes and noes, and shall be entered
+on the journal; and no bill shall become a law without the concurrence of a majority of all the
+members elect in each house.
+
+*** SEND ***
+*** SSTART 022.0 003.0 0 IL 1848 ***
+
+SEC. 22. Bills making appropriations for the pay of the members and officers of the general
+assembly, and for the salaries of the officers of the government, shall not contain any provision on
+any other subject.
+
+*** SEND ***
+*** SSTART 023.0 003.0 0 IL 1848 ***
+
+SEC. 23. Every bill shall be read on three different days in each house, unless, in case of urgency,
+three-fourths of the house, where such bill is so depending, shall deem it expedient to dispense
+with this rule; and every bill, having passed both houses, shall be signed by the speakers of their
+respective houses; and no private or local law which may be passed by the general assembly shall
+embrace more than one subject, and that shall be expressed in the title. And no public act of the
+general assembly shall take effect or be in force until the expiration of sixty days from the end of
+the session at which the same may be passed, unless, in case of emergency, the general assembly
+shall otherwise direct.
+
+*** SEND ***
+*** SSTART 024.0 003.0 0 IL 1848 ***
+
+SEC. 24. The sum of two dollars per day, for the first forty-two days' attendance, and one dollar
+per day for each day's attendance thereafter, and ten cents for each necessary mile's travel going
+to and returning from the seat of government, shall be allowed to the members of the general
+assembly, as a compensation for their services, and no more. The speaker of the house of
+representatives shall be allowed the sum of one dollar per day, in addition to his per diem as a
+member.
+
+*** SEND ***
+*** SSTART 025.0 003.0 0 IL 1848 ***
+
+SEC. 25. The per diem and mileage allowed to each member of the general assembly shall be
+certified by the speakers of their respective houses, and entered on the journal, and published at
+the close of each session.
+
+*** SEND ***
+*** SSTART 026.0 003.0 0 IL 1848 ***
+
+SEC. 26. No money shall be drawn from the treasury, but in consequence of appropriations made
+by law; and an accurate statement of the receipts and expenditures of the public moneys shall be
+attached to, and published with, the laws at the rising of each session of the general assembly.
+And no person, who has been or may be a collector or holder of the public moneys, shall be
+eligible to a seat in either house of the general assembly, nor be eligible to any office of profit or
+trust in this State, until such person shall have accounted for, and paid into the treasury, all sums
+for which he may be accountable.
+
+*** SEND ***
+*** SSTART 027.0 003.0 0 IL 1848 ***
+
+SEC. 27. The house of representatives shall have the sole power of impeaching; but a majority of
+all the members elected must concur in an impeachment. All impeachments shall be tried by the
+senate; and when sitting for that purpose the senators shall be upon oath, or affirmation, to do
+justice according to law and evidence. No person shall be convicted without the concurrence of
+two-thirds of the senators elected.
+
+*** SEND ***
+*** SSTART 028.0 003.0 0 IL 1848 ***
+
+SEC. 28. The governor, and other civil officers under this State, shall be liable to impeachment for
+any misdemeanor in office; but judgment in such cases shall not extend further than to removal
+from office, and disqualification to hold any office of honor, profit, or trust under this State. The
+party, whether convicted or acquitted, shall, nevertheless, be liable, to indictment, trial, judgment,
+and punishment, according to law.
+
+*** SEND ***
+*** SSTART 029.0 003.0 0 IL 1848 ***
+
+SEC. 29. No judge of any court of law or equity, secretary of state, attorney-general, attorney for
+the State, recorder, clerk of any court of record, sheriff, or collector, member of either house of
+Congress, or person holding any lucrative office under the United States or of this State-provided
+that appointments in the militia, or justices of the peace, shall not be considered lucrative offices-
+shall have a seat in the general assembly; nor shall any person holding any office of honor or profit
+under the Government of the United States hold any office of honor or profit under the authority
+of this State.
+
+*** SEND ***
+*** SSTART 030.0 003.0 0 IL 1848 ***
+
+SEC. 30. Every person who shall be chosen or appointed to any office of trust or profit shall,
+before entering upon the duties thereof, take an oath to support the Constitution of the United
+States, and of this State, and also an oath of office.
+
+*** SEND ***
+*** SSTART 031.0 003.0 0 IL 1848 ***
+
+SEC. 31. The general assembly shall have full power to exclude from the privilege of electing, or
+being elected, any person convicted of bribery, perjury, or other infamous crime.
+
+*** SEND ***
+*** SSTART 032.0 003.0 0 IL 1848 ***
+
+SEC. 32. The general assembly shall have no power to grant divorces, but may authorize the
+courts of justice to grant them for such cause as may be specified by law: Provided, That such
+laws be general and uniform in their operation.
+
+*** SEND ***
+*** SSTART 033.0 003.0 0 IL 1848 ***
+
+SEC. 33. The general assembly shall never grant or authorize extra compensation to any public
+officer, agent, servant, or contractor, after the service shall have been rendered, or the contract
+entered into.
+
+*** SEND ***
+*** SSTART 034.0 003.0 0 IL 1848 ***
+
+SEC. 34. The general assembly shall direct by law in what manner suits may be brought against
+the State.
+
+*** SEND ***
+*** SSTART 035.0 003.0 0 IL 1848 ***
+
+SEC. 35. The general assembly shall have no power to authorize lotteries for any purpose, nor to
+revive or extend the charter of the State bank, or the charter of any other bank heretofore existing
+in this State, and shall pass laws to prohibit the sale of lottery-tickets in this State.
+
+*** SEND ***
+*** SSTART 036.0 003.0 0 IL 1848 ***
+
+SEC. 36. The general assembly shall have no power to authorize, by private or special law, the
+sale of any lands or other real estate belonging in whole or in part to any individual or individuals.
+
+*** SEND ***
+*** SSTART 037.0 003.0 0 IL 1848 ***
+
+SEC. 37. Each general assembly shall provide for all the appropriations necessary for the ordinary
+and contingent expenses of the government until the adjournment of the next regular session, the
+aggregate amount of which shall not be increased without a vote of two-thirds of each house, nor
+exceed the amount of revenue authorized by law to be raised in such time: Provided, The State
+may, to meet casual deficits or failures in revenue, contract debts never to exceed in the aggregate
+fifty thousand dollars; and the moneys thus borrowed shall be applied to the purpose for which
+they were obtained, or to repay the debt thus made, and to no other purpose; and no other debt,
+except for the purpose of repelling invasion, suppressing insurrection, or defending the State in
+war (for payment of which the faith of the State shall be pledged) shall be contracted, unless the
+law authorizing the same shall, at a general election, have been submitted to the people, and have
+received a majority of all the votes cast for members of the general assembly at such election. The
+general assembly shall provide for the publication of said law for three months, at least, before the
+vote of the people shall be taken upon the same; and provision shall be made, at the time, for the
+payment of the interest annually, as it shall accrue, by a tax levied for the purpose, or from other
+sources of revenue; which law, providing for the payment of such interest by such tax, shall be
+irrepealable until such debt be paid: And provided further, That the law levying the tax shall be
+submitted to the people with the law authorizing the debt to be contracted.
+
+*** SEND ***
+*** SSTART 038.0 003.0 0 IL 1848 ***
+
+SEC. 38. The credit of the State shall not, in any manner, be given to, or in aid of, any individual,
+association, or corporation.
+
+*** SEND ***
+*** SSTART 039.0 003.0 0 IL 1848 ***
+
+SEC. 39. The general assembly shall provide, by law, that the fuel and stationery furnished for the
+use of the State, the copying, printing, binding, and distributing the laws and journals, and all
+other printing ordered by the general assembly, shall be let, by contract, to the lowest responsible
+bidder; and that no member of the general assembly, or other officer of the State, shall be
+interested, either directly or indirectly, in any such contract: Provided, That the general assembly
+may fix a maximum price.
+
+*** SEND ***
+*** SSTART 040.0 003.0 0 IL 1848 ***
+
+SEC. 40. Until there shall be a new apportionment of senators and representatives, the State shall
+be divided into senatorial and representative districts; and the senators and representatives shall be
+apportioned among the several districts as follows, viz:
+
+SENATORIAL DISTRICTS 
+
+1. The counties of Alexander, Union, Pulaski, Johnson, Massac, Pope, and Hardin shall constitute
+the first senatorial district, and shall be entitled to one senator.
+2. The counties of Gallatin, Saline, Williamson, Franklin, and White shall constitute the second
+senatorial district, and be entitled to one senator.
+3. The counties of Jefferson, Wayne, Marion and Hamilton shall constitute the third senatorial
+district, and be entitled to one senator.
+4. The counties of Washington, Perry, Randolph, and Jackson shall constitute the fourth senatorial
+district, and be entitled to one senator.
+5. The counties of Saint Clair and Monroe shall constitute the fifth senatorial district, and be
+entitled to one senator.
+6. The counties of Madison and Clinton shall constitute the sixth senatorial district, and be entitled
+to one senator.
+7. The counties of Christian, Shelby, Montgomery, Bond, and Fayette shall constitute the seventh
+senatorial district, and be entitled to one senator.
+8. The counties of Effingham, Jasper, Clay, Richland, Lawrence, Edwards, and Wabash shall
+constitute the eighth senatorial district, and be entitled to one senator.
+9. The counties of Edgar, Clark, and Crawford shall constitute the ninth senatorial district, and be
+entitled to one senator.
+10. The counties of Vermillion, Champaign, Piatt, Moultrie, Coles, and Cumberland shall
+constitute the tenth senatorial district, and be entitled to one senator.
+11. The counties of Tazewell, McLean, Logan, De Witt, and Macon shall constitute the eleventh
+senatorial district and be entitled to one senator.
+12. The counties of Sangamon, Menard, and Mason shall constitute the twelfth senatorial district,
+and be entitled to one senator.
+13. The counties of Macoupin, Jersey, Greene, and Calhoun shall constitute the thirteenth
+senatorial district, and be entitled to one senator.
+14. The counties of Morgan, Scott, and Cass shall constitute the fourteenth senatorial district, and
+be entitled to one senator.
+15. The counties of Adams and Pike shall constitute the fifteenth senatorial district, and be
+entitled to one senator.
+16. The counties of McDonough, Schuyler, Brown, and Highland shall constitute the sixteenth
+senatorial district, and be entitled to one senator.
+17. The counties of Hancock and Henderson shall constitute the seventeenth senatorial district,
+and be entitled to one senator.
+18. The counties of Fulton and Peoria shall constitute the eighteenth senatorial district, and be
+entitled to one senator.
+19. The counties of Rock Island, Henry, Mercer, Warren, Knox, and Stark shall constitute the
+nineteenth senatorial district, and be entitled to one senator.
+20. The counties of La Salle, Bureau, Putnam, Marshall, Woodford, Livingston, and Grundy shall
+constitute the twentieth senatorial district, and be entitled to one senator.
+21. The counties of Du Page, Kendall, Will, and Iroquois shall constitute the twenty-first
+senatorial district, and be entitled to one senator.
+22. The counties of Ogle, Lee, De Kalb, and Kane shall constitute the twenty-second senatorial
+district, and be entitled to one senator.
+23. The counties of Jo Daviess, Stephenson, Carroll, and Whitesides shall constitute the twenty-
+third senatorial district, and be entitled to one senator.
+24. The counties of McHenry, Boone, and Winnebago shall constitute the twenty-fourth
+senatorial district, and be entitled to one senator.
+25. The counties of Cook and Lake shall constitute the twenty-fifth senatorial district, and be
+entitled to one senator.
+
+REPRESENTATIVE DISTRICTS
+
+1. The counties of Union, Alexander, and Pulaski shall constitute the first representative district,
+and be entitled to one representative.
+2. The counties of Massac, Pope, and Hardin shall constitute the second representative district,
+and be entitled to one representative.
+3. The counties of Gallatin and Saline shall constitute the third representative district, and be
+entitled to one representative.
+4. The counties of Johnson and Williamson shall constitute the fourth representative district, and
+be entitled to one representative.
+5. The counties of Jackson and Franklin shall constitute the fifth representative district, and be
+entitled to one representative.
+6. The counties of Marion, Jefferson, Wayne, and Hamilton shall constitute the sixth
+representative district, and be entitled to three representatives: Provided, That no county in said
+district shall have more than one of said representatives, and the county from which a senator shall
+be selected shall not be entitled to a representative residing in said county.
+7. The county of White shall constitute the seventh representative district, and be entitled to one
+representative.
+8. The counties of Wabash and Edwards shall constitute the eighth representative district, and be
+entitled to one representative.
+9. The counties of Lawrence and Richland shall constitute the ninth representative district, and be
+entitled to one representative.
+10. The counties of Crawford and Jasper shall constitute the tenth representative district, and be
+entitled to one re representative.
+11. The county of Coles shall constitute the eleventh representative district, and be entitled to one
+representative.
+12. The county of Clark shall constitute the twelfth representative district, and be entitled to one
+representative.
+13. The counties of Cumberland, Effingham, and Clay, shall constitute the thirteenth
+representative district, and be entitled to one representative.
+14. The county of Fayette shall constitute the fourteenth representative district, and be entitled to
+one representative.
+15. The counties of Montgomery, Bond, and Clinton shall constitute the fifteenth representative
+district, and be entitled to two representatives.
+16. The counties of Washington and Perry shall constitute the sixteenth representative district,
+and be entitled to one representative.
+17. The county of Randolph shall constitute the seventeenth representative district, and be entitled
+to one representative.
+18. The county of Monroe shall constitute the eighteenth representative district, and be entitled to
+one representative.
+19. The county of Saint Clair shall constitute the nineteenth representative district, and be entitled
+to two representatives.
+20. The county of Madison shall constitute the twentieth representative district, and be entitled to
+two representatives.
+21. The county of Macoupin shall constitute the twenty-first representative district, and be
+entitled to one representative.
+22. The counties of Jersey and Greene shall constitute the twenty-second representative district,
+and be entitled to two representatives.
+23. The county of Scott shall constitute the twenty-third representative district, and be entitled to
+one representative.
+24. The county of Morgan shall constitute the twenty-fourth representative district, and be
+entitled to two representatives.
+25. The counties of Cass and Menard shall constitute the twenty-fifth representative district, and
+be entitled to one representative.
+26. The county of Sangamon shall constitute the twenty-sixth representative district, and be
+entitled to two representatives.
+27. The counties of Mason and Logan shall constitute the twenty-seventh representative district,
+and be entitled to one representative.
+28. The county of Tazewell shall constitute the twenty-eighth representative district, and be
+entitled to one representative.
+29. The counties of McLean and De Witt shall constitute the twenty-ninth representative district,
+and be entitled to one representative.
+30. The county of Vermillion shall constitute the thirtieth representative district, and be entitled to
+one representative.
+31. The county of Edgar shall constitute the thirty-first representative district, and be entitled to
+one representative. 
+32. The counties of Champaign, Piatt, Moultrie, and Macon shall constitute the thirty-second
+representative district, and be entitled to one representative.
+33. The counties of Shelby and Christian shall constitute the thirty-third representative district,
+and be entitled to one representative.
+34. The counties of Pike and Calhoun shall constitute the thirty-fourth representative district, and
+be entitled to two representatives.
+35. The counties of Adams, Highland, and Brown shall constitute the thirty-fifth representative
+district, and be entitled to three representatives.
+36. The county of Schuyler shall constitute the thirty-sixth representative district, and be entitled
+to one representative.
+37. The county of Hancock shall constitute the thirty-seventh representative district, and be
+entitled to two representatives.
+38. The county of McDonough shall constitute the thirty-eighth representative district, and be
+entitled to one representative.
+39. The county of Fulton shall constitute the thirty-ninth representative district, and be entitled to
+two representatives.
+40. The county of Peoria shall constitute the fortieth representative district, and be entitled to one
+representative.
+41. The county of Knox shall constitute the forty-first representative district, and be entitled to
+one representative.
+42. The counties of Mercer, Warren, and Henderson shall constitute the forty-second
+representative district, and be entitled to two representatives.
+43. The counties of Rock Island, Henry, and Stark shall constitute the forty-third representative
+district, and be entitled to one representative.
+44. The counties of Whitesides and Lee shall constitute the forty-fourth representative district,
+and be entitled to one representative.
+45. The counties of Carroll and Ogle shall constitute the forty-fifth representative district, and be
+entitled to one representative.
+46. The counties of Jo Daviess and Stephenson shall constitute the forty-sixth representative
+district, and be entitled to two representatives.
+47. The county of Winnebago shall constitute the forty-seventh representative district, and be
+entitled to one representative.
+48. The counties of Putnam, Marshall, and Woodford shall constitute the forty-eighth
+representative district, and be entitled to one representative.
+49. The counties of La Salle, Grundy, Livingston, and Bureau shall constitute the forty-ninth
+representative district, and be entitled to two representatives.
+50. The counties of Du Page, Kendall, Will, and Iroquois shall constitute the fiftieth representative
+district, and be entitled to three representatives.
+51. The counties of Kane and De Kalb shall constitute the fifty-first representative district, and be
+entitled to two representatives. 
+52. The counties of Boone and McHenry shall constitute the fifty-second representative district,
+and be entitled to two representatives.
+53. The county of Lake shall constitute the fifty-third representative district, and be entitled to one
+representative.
+54. The county of Cook shall constitute the fifty-fourth representative district, and be entitled to
+two representatives.
+
+*** SEND ***
+*** SSTART 041.0 003.0 0 IL 1848 ***
+
+SEC. 41. Until the general assembly shall otherwise provide, the clerks of the county
+commissioners' courts in each of the aforesaid senatorial districts, and in such of the
+representative districts as may be composed of more than one county, shall meet at the county-
+seat of the oldest county in said district, within thirty days next after any election for senator or
+representative therein, for the purpose of comparing and canvassing the votes given at such
+election; and the said clerks shall in all other respects conform to the laws on the subject in force
+at the time of the adoption of this constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 IL 1848 ***
+
+ARTICLE IV
+
+OF THE EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 004.0 0 IL 1848 ***
+
+SECTION 1. The executive power of the State shall be vested in a governor.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 IL 1848 ***
+
+SEC. 2. The first election of governor shall be held on Tuesday next after the first Monday in
+November, A. D. 1848; and the next election shall be held on Tuesday next after the first Monday
+of November, A. D. 1852; and thereafter an election for governor shall be held once in four years,
+on Tuesday next after the first Monday of November. The governor shall be chosen by the
+electors of the members of the general assembly, at the same places and in the some manner that
+they shall, respectively, vote for members thereof. The returns for every election of governor shall
+be sealed up, and transmitted to the seat of government, by the returning officers, directed to the
+speaker of the house of representatives, who shall open and publish them in the presence of a
+majority of the members of each house of the general assembly. The person having the highest
+number of votes shall be governor; but if two or more be equal and highest in votes, then one of
+them shall be chosen governor by joint ballot of both houses of the general assembly. Contested
+elections shall be determined by both houses of the general assembly, in such manner as shall be
+prescribed by law.
+*** SEND ***
+*** SSTART 003.0 004.0 0 IL 1848 ***
+
+SEC. 3. The first governor shall enter upon the duties of his office on the second Monday of
+January, A. D. 1849, and shall hold his office until the second Monday of January, A. D. 1853,
+and until his successor shall have been elected and qualified; and thereafter the governor shall hold
+his office for the term of four years, and until his successor shall have been elected and qualified;
+but he shall not be eligible to such office more than four years in any term of eight years, nor to
+any other office until after the expiration of the term for which he was elected.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 IL 1848 ***
+
+SEC. 4. No person, except a citizen of the United States, shall be eligible to the office of
+governor; nor shall any person be eligible to that office, who shall not have attained the age of
+thirty-five years, and been ten years a resident of this State, and fourteen years a citizen of the
+United States.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 IL 1848 ***
+
+SEC. 5. The governor shall reside at the seat of government, and receive a salary of fifteen
+hundred dollars per annum, which shall not be increased or diminished; and he shall not, during
+the time for which he shall have been elected, receive any emolument from the United States, or
+either of them.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 IL 1848 ***
+
+SEC. 6. Before he enters upon the duties of his office, he shall take the following oath or
+affirmation, to wit: " I do solemnly swear [or affirm] that I will faithfully execute the duties
+appertaining to the office of governor of the State of Illinois; and will, to the best of my ability,
+preserve, protect, and defend the constitution of this State; and will also support the Constitution
+of the United States."
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 IL 1848 ***
+
+SEC. 7. He shall, from time to time, give the general assembly information of the seat of
+the government, and recommend to their consideration such measures as he shall deem expedient. 
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 IL 1848 ***
+
+SEC. 8. The governor shall have power to grant reprieves, commutations, and pardons,
+after conviction, for all offenses, except treason and cases of impeachment, upon such conditions
+and with such restrictions and limitations as he may think proper, subject to such regulations as
+may be provided by law, relative to the manner of applying for pardons. Upon conviction for
+treason, he shall have power to suspend the execution of the sentence, until the case shall be
+reported to the general assembly at its next meeting, when the general assembly shall pardon the
+convict, commute the sentence, direct the execution thereof, or grant a further reprieve. He shall,
+biennially, communicate to the general assembly each case of reprieve, commutation, or pardon
+granted, stating the name of the convict, the crime for which he was convicted, the sentence and
+its date, and the date of commutation, pardon, or reprieve.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 IL 1848 ***
+
+SEC. 9. He may require information in writing from the officers in the executive departments,
+upon any subject relating to the duties of their respective offices, and shall take care that the laws
+be faithfully executed.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 IL 1848 ***
+
+SEC. 10. He may, on extraordinary occasions, convene the general assembly by proclamation, and
+shall state, in said proclamation, the purpose for which they are to convene; and the general
+assembly shall enter on no legislative business except that for which they were
+specially called together.
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 IL 1848 ***
+
+SEC. 11. He shall be commander-in-chief of the army and navy of this State, and of the militia,
+except when they shall be called into the service of the United States.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 IL 1848 ***
+
+SEC. 12. The governor shall nominate, and by and with the advice and consent of the senate (a
+majority of all the senators concurring) appoint, all officers whose offices are established by this
+constitution, or which may be created by law, and whose appointments are not otherwise
+provided for; and no such officer shall be appointed or elected by the general assembly.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 IL 1848 ***
+
+SEC. 13. In case of disagreement between the two houses with respect to the time of
+adjournment, the governor shall have power to adjourn the general assembly to such time as he
+thinks proper: Provided, It be not to a period beyond the next constitutional meeting of the same.
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 IL 1848 ***
+
+SEC. 14. A lieutenant-governor shall be chosen at every election of governor in the same manner,
+continue in office for the same time, and possess the same qualifications. In voting for governor
+and lieutenant-governor, the electors shall distinguish whom they vote for as governor, and whom
+as lieutenant-governor.
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 IL 1848 ***
+
+SEC. 15. The lieutenant-governor shall, by virtue of his office, be speaker of the senate, have a
+right, when in committee of the whole, to debate and vote on all subjects, and, whenever the
+senate are equally divided, to give the casting vote.
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 IL 1848 ***
+
+SEC. 16. Whenever the government shall be administered by the lieutenant-governor, or he shall
+be unable to attend as speaker of the senate, the senators shall elect one of their own number as
+speaker for that occasion; and if, during the vacancy of the office of governor, the lieutenant-
+governor shall be impeached, removed from office, refuse to qualify or resign, or die, or be absent
+from the State, the speaker of the senate shall, in like manner, administer the government.
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 IL 1848 ***
+
+SEC. 17. The lieutenant-governor, while he acts as speaker of the senate, shall receive for his
+services the same compensation which shall, for the same period, be allowed to the speaker of the
+house of representatives, and no more.
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 IL 1848 ***
+
+SEC. 18. If the lieutenant-governor shall be called upon to administer the government, and shall,
+while in such administration, resign, die, or be absent from the State, during the recess of the
+general assembly, it shall be the duty of the secretary of state, for the time being, to convene the
+senate for the purpose of choosing a speaker.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 IL 1848 ***
+
+SEC. 19. In case of impeachment of the governor, his absence from the State, or inability to
+discharge the duties of his office, the powers, duties, and emoluments of the office shall devolve
+upon the lieutenant-governor; and in case of his death, resignation, or removal, then upon the
+speaker of the senate for the time being until the governor, absent or impeached, shall return or be
+acquitted; or until the disqualification or inability shall cease; or until a new governor shall be
+elected and qualified.
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 IL 1848 ***
+
+SEC. 20. In case of a vacancy in the office of governor, for any other cause than those herein
+enumerated, or in case of the death of the governor-elect before he is qualified, the powers,
+duties, and emoluments of the office shall devolve upon the lieutenant-governor, or speaker of the
+senate, as above provided, until a new governor be elected and qualified.
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 IL 1848 ***
+
+SEC. 21. Every bill which shall have passed the senate and house of representatives shall, before it
+becomes a law, be presented to the governor; if he approve, he shall sign it; but if not, he shall
+return it, with his objections, to the house in which is shall have originated; and the said house
+shall enter the objections at large on their journal, and proceed to reconsider it. If, after such
+reconsideration, a majority of the members elected shall agree to pass the bill, it shall be sent
+together with the objections, to the other house, by which it shall likewise be reconsidered; and if
+approved by a majority of the members elected, it shall become a law, notwithstanding the
+objections of the governor; but in all such cases the votes of both houses shall be determined by
+yeas and nays, to be entered on the journal of each house respectively. If any bill shall not be
+returned by the governor within ten days (Sundays excepted) after it shall have been presented to
+him, the same shall be a law, in like manner as if he had signed it, unless the general assembly
+shall, by their adjournment, prevent its return, in which case the said bill shall be returned on the
+first day of the meeting of the general assembly, after the expiration of said ten days, or be a law. 
+
+*** SEND ***
+*** SSTART 022.0 004.0 0 IL 1848 ***
+
+SEC. 22. There shall be elected by the qualified electors of this State, at the same time of the
+election for governor, a secretary of state, whose term of office shall be the same as that of the
+governor, who shall keep a fair register of the official acts of the governor, and, when required,
+shall lay the same, and all papers, minutes, and vouchers, relative thereto, before either branch of
+the general assembly, and shall perform such other duties as shall be assigned him by law, and
+shall receive a salary of eight hundred dollars per annum, and no more, except fees: Provided,
+That if the office of secretary of state should be vacated by death, resignation, or otherwise, it
+shall be the duty of the governor to appoint another, who shall hold his office until another
+secretary shall be elected and qualified.
+
+*** SEND ***
+*** SSTART 023.0 004.0 0 IL 1848 ***
+
+SEC. 23. There shall be chosen, by the qualified electors throughout the State, an auditor of
+public accounts, who shall hold his office for the term of four years, and until his successor is
+qualified, and whose duties shall be regulated by law, and who shall receive a salary, exclusive of
+clerk-hire, of one thousand dollars per annum for his services, and no more.
+
+*** SEND ***
+*** SSTART 024.0 004.0 0 IL 1848 ***
+
+SEC. 24. There shall be elected, by the qualified electors throughout the State, a State treasurer,
+who shall hold his office for two years, and until his successor is qualified; whose duties may be
+regulated by law, and who shall receive a salary of eight hundred dollars per annum, and no more.
+
+*** SEND ***
+*** SSTART 025.0 004.0 0 IL 1848 ***
+
+SEC. 25. All grants and commissions shall be sealed with the great seal of state, signed by the
+governor or person administering the government, and countersigned by the secretary of state.
+
+*** SEND ***
+*** SSTART 026.0 004.0 0 IL 1848 ***
+
+SEC. 26. The governor and all other civil officers shall be liable to impeachment for misdemeanor
+in office, during their continuance in office, and for two years thereafter.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 IL 1848 ***
+
+ARTICLE V
+
+OF THE JUDICIARY DEPARTMENT
+
+*** SSTART 001.0 005.0 0 IL 1848 ***
+
+SECTION - 1. The judicial power of this State shall be, and is hereby, vested in one supreme
+court, in circuit courts, in county courts, and in justices of the peace: Provided, That inferior local
+courts, of civil and criminal jurisdiction, may be established by the general assembly in the cities of
+this State, but such courts shall have a uniform organization and jurisdiction in such cities.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 IL 1848 ***
+
+SEC. 2. The supreme court shall consist of three judges, two of whom shall form a quorum; and
+the concurrence of two of said judges shall in all cases be necessary to a decision.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 IL 1848 ***
+
+SEC. 3. The State shall be divided into three grand divisions, as nearly equal as may be, and the
+qualified electors of each division shall elect one of the said judges for the term of nine years:
+Provided, That after the first election of such judges, the general assembly may have the power to
+provide by law for their election by the whole State, or by divisions, as they may deem most
+expedient. 
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 IL 1848 ***
+
+SEC. 4. The office of one of said judges shall be vacated, after the first election held under this
+article, in three years; of one, in six years; and of one, in nine years; to be decided by lot, so that
+one of said judges shall be elected once in every three years. The judge having the longest term to
+serve shall be the first chief-justice; after which, the judge having the oldest commission shall be
+chief-justice.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 IL 1848 ***
+
+SEC. 5. The supreme court may have original jurisdiction in cases relative to the revenue, in cases
+of mandamus, habeas corpus, and in such cases of impeachment as may be by law directed to be
+tried before it, and shall have appellate jurisdiction in all other cases.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 IL 1848 ***
+
+SEC. 6. The supreme court shall hold one term annually in each of the aforesaid grand divisions,
+at such time and place, in each of said divisions, as may be provided for by law.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 IL 1848 ***
+
+SEC. 7. The State shall be divided into nine judicial districts, in each of which one circuit judge
+shall be elected by the qualified electors thereof, who shall hold his office for the term of six years,
+and until his successor shall be commissioned and qualified: Provided, That the general assembly
+may increase the number of circuits to meet the future exigencies of the State.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 IL 1848 ***
+
+SEC. 8. There shall be two or more terms of the circuit court held annually in each county of this
+State, at such times as shall be provided by law; and said courts shall have jurisdiction in all cases
+at law and equity, and in all cases of appeals from all inferior courts.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 IL 1848 ***
+
+SEC. 9. All vacancies in the supreme and circuit courts shall be filled by the election as aforesaid:
+Provided, however, That if the unexpired term does not exceed one year, such vacancy may be
+filled by executive appointment.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 IL 1848 ***
+
+SEC. 10. The Judges of the supreme court shall receive a salary of twelve hundred dollars per
+annum, payable quarterly, and no more. The judges of the circuit courts shall receive a salary of
+one thousand dollars per annum, payable quarterly, and no more. The judges of the supreme and
+circuit courts shall not be eligible to any other office or public trust, of profit, in this State or the
+United States, during the term for which they are elected, nor for one year thereafter. All votes
+for either of them for any elective office, (except that of judge of the supreme or circuit courts,)
+given by the general assembly, or the people, shall be void.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 IL 1848 ***
+
+SEC. 11. No person shall be eligible to the office of judge of any court of this State who is not a
+citizen of the United States, and who shall not have resided in this State five years next preceding
+his election, and who shall not for two years next preceding his election have resided in the
+division, circuit, or county in which he shall be elected; nor shall any person be elected judge of
+the supreme court who shall be, at the time of his election, under the age of thirty-five years; and
+no person shall be eligible to the office of judge of the circuit court until he shall have attained the
+age of thirty years.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 IL 1848 ***
+
+SEC. 12. For any reasonable cause, to be entered on the journals of each house, which shall not
+be a sufficient, ground for impeachment, both justices of the supreme court and judges of the
+circuit court shall be removed from office, on the vote of two-thirds of the members elected to
+each branch of the general assembly: Provided always, That no member of either house of the
+general assembly shall be eligible to fill the vacancy occasioned by such removal: Provided also,
+That no removal shall be made unless the justice or judge complained of shall have been served
+with a copy of the complaint against him, and shall have an opportunity of being heard in his
+defense.
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 IL 1848 ***
+
+SEC. 13 . The first election for justices of the supreme court and judges of the circuit courts shall
+be held on the first Monday of September, 1848.
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 IL 1848 ***
+
+SEC. 14. The second election for one justice of the supreme court shall be held on the first
+Monday of June, 1852; and every three years thereafter an election shall be held for one justice of
+the supreme court.
+
+*** SEND ***
+*** SSTART 015.0 005.0 0 IL 1848 ***
+
+SEC. 15. On the first Monday of June, 1855, and every sixth year thereafter, an election shall be
+held for judges of the circuit courts: Provided, Whenever an additional circuit is created, such
+provision may be made as to hold the second election of such additional judge at the regular
+elections herein provided.
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 IL 1848 ***
+
+SEC. 16. There shall be in each county a court to be called a county court.
+
+*** SEND ***
+*** SSTART 017.0 005.0 0 IL 1848 ***
+
+SEC. 17. One county judge shall be elected by the qualified voters of each county, who shall hold
+his office for four years, and until his successor is elected and qualified.
+
+*** SEND ***
+*** SSTART 018.0 005.0 0 IL 1848 ***
+
+SEC. 18. The jurisdiction of said court shall extend to all probate and such other jurisdiction as
+the general assembly may confer in civil cases, and such criminal cases as may be prescribed by
+law, where the punishment is by fine only, not exceeding one hundred dollars.
+
+*** SEND ***
+*** SSTART 019.0 005.0 0 IL 1848 ***
+
+SEC. 19. The county judge, with such justices of the peace in each county as may be designated
+by law, shall hold terms for the transaction of county business, and shall perform such other duties
+as the general assembly shall prescribe: Provided, The general assembly may require that two
+justices, to be chosen by the qualified electors of each county, shall sit with the county judge in all
+cases; and there shall be elected, quadrennially, in each county, a clerk of the county court, who
+shall be ex-officio recorder, whose compensation shall be fees: Provided, The general assembly
+may, by law, make the clerk of the circuit court ex-officio recorder, in lieu of the county clerk.
+
+*** SEND ***
+*** SSTART 020.0 005.0 0 IL 1848 ***
+
+SEC. 20. The general assembly shall provide for the compensation of the county judge.
+
+*** SEND ***
+*** SSTART 021.0 005.0 0 IL 1848 ***
+
+SEC. 21. The clerks of the supreme and circuit courts, and State's attorneys, shall be elected at
+the first special election for judges. The second election for clerks of the supreme court shall be
+held on the first Monday of June, 1855, and every sixth year thereafter. The second election for
+clerks of the circuit courts and State's attorneys shall be held on Tuesday next after the first
+Monday of November, 1852, and every fourth year thereafter.
+
+*** SEND ***
+*** SSTART 022.0 005.0 0 IL 1848 ***
+
+SEC. 22.  All judges and State's attorneys shall be commissioned by the governor.
+
+*** SEND ***
+*** SSTART 023.0 005.0 0 IL 1848 ***
+
+SEC. 23. The election of all officers, and the filling of all vacancies that may happen by death,
+resignation, or removal, not otherwise directed or provided for by this constitution, shall be made
+in such a manner as the general assembly shall direct: Provided, That no such officer shall be
+elected by the general assembly.
+
+*** SEND ***
+*** SSTART 024.0 005.0 0 IL 1848 ***
+
+SEC. 24. The general assembly may authorize the judgments, decrees, and decisions of any local
+inferior court of record, of original, civil, or criminal jurisdiction, established in a city, to be
+removed, for revision, directly into the supreme court.
+
+*** SEND ***
+*** SSTART 025.0 005.0 0 IL 1848 ***
+
+SEC. 25. County judges, clerks, sheriffs, and other county officers, for willful neglect of duty, or
+misdemeanor in office, shall be liable to presentment or indictment by a grand jury, and trial by a
+petit jury, and, upon conviction, shall be removed from office.
+
+*** SEND ***
+*** SSTART 026.0 005.0 0 IL 1848 ***
+
+SEC. 26. All process, writs, and other proceedings shall run in the name of "The people of the
+State of Illinois." All prosecutions shall be carried on " In the name and by the authority of the
+people of the State of Illinois," and conclude, Against the peace and dignity of the same."
+
+*** SEND ***
+*** SSTART 027.0 005.0 0 IL 1848 ***
+
+SEC. 27. There shall be elected in each county in this State, in such districts as the general
+assembly may direct, by the qualified electors thereof, a competent number of justices of the
+peace, who shall hold their offices for the term of four years, and until their successors shall have
+been elected and qualified, and who shall perform such duties, receive such compensation, and
+exercise such jurisdiction as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 028.0 005.0 0 IL 1848 ***
+
+SEC. 28. There shall be elected in each of the judicial circuits of this State, by the qualified
+electors thereof, one State's attorney, who shall hold his office for the term of four years, and until
+his successor shall be commissioned and qualified, who shall perform such duties and receive such
+compensation as may be prescribed by law: Provided, That the general assembly may hereafter
+provide by law for the election, by the qualified voters of each county in this State, of one county
+attorney for each county, in lieu of the State's attorneys provided for in this section; the term of
+office, duties, and compensation of which county attorneys shall be regulated by law.
+
+*** SEND ***
+*** SSTART 029.0 005.0 0 IL 1848 ***
+
+SEC. 29. The qualified electors of each county in this State shall elect a clerk of the circuit court,
+who shall hold his office for the term of four years, and until his successor shall have been elected
+and qualified, who shall perform such duties and receive such compensation as may be prescribed
+by law. The clerks of the supreme court shall be elected, in each division, by the qualified electors
+thereof, for the term of six years, and until their successors shall have been elected and qualified,
+whose duties and compensation shall be provided by law.
+
+*** SEND ***
+*** SSTART 030.0 005.0 0 IL 1848 ***
+
+SEC. 30. The first grand division for the election of judges of the supreme court shall consist of
+the counties of Alexander, Pulaski, Massac, Pope, Hardin, Gallatin, Saline, Williamson, Johnson,
+Union, Jackson, Randolph, Perry, Franklin, Hamilton, White, Wabash, Edwards, Wayne,
+Jefferson, Washington, Monroe, Saint Clair, Clinton, Marion, Clay, Richland, Lawrence,
+Crawford, Jasper, Effingham, Fayette, Bond, Madison, Jersey, and Calhoun.
+The second grand division shall consist of the counties of Edgar, Coles, Moultrie, Sbelby,
+Montgomery, Macoupin, Greene, Pike, Adams, Highland, Hancock, McDonough, Schuyler,
+Brown, Fulton, Mason, Cass, Morgan, Scott, Sangamon, Christian, Macon, Piatt, Champaign,
+Vermillion, De Witt, Logan, Menard, Cumberland, and Clark. [ McLean county was added to the
+second division by the act of February 16, 1865.]
+
+The third grand division shall consist of the counties of Henderson, Warren, Knox, Peoria,
+Tazewell, Woodford, McLean, Livingston, Iroquois, Will, Grundy, Kendall, La Salle, Putnam,
+Marshall, Stark, Bureau, Henry, Mercer, Rock Island, Whitesides, Lee, Carroll, Jo Daviess,
+Stephenson, Winnebago, Ogle, De Kalb, Boone, Kane, McHenry, Lake, Cook, and Du Page.
+
+*** SEND ***
+*** SSTART 031.0 005.0 0 IL 1848 ***
+
+SEC. 31. The terms of the supreme court for the first division shall be held at Mount Vernon, in
+Jefferson County; for the second division, at Springfield, in Sangamon County; for the third
+division, at Ottawa, in La Salle County; until some other place in either division is fixed by law.
+
+*** SEND ***
+*** SSTART 032.0 005.0 0 IL 1848 ***
+
+SEC. 32. Appeals and writs of error may be taken from the circuit court of any county to the
+supreme court held in the division which includes such county, or, with the consent of all the
+parties in the cause, to the supreme court in the next adjoining division.
+
+*** SEND ***
+*** SSTART 033.0 005.0 0 IL 1848 ***
+
+SEC. 33. The foregoing districts may, after the taking of each census by the State, be altered, if
+necessary, to equalize the said districts in population; but such alteration shall be made by adding
+to such district such adjacent county or counties as will make said district nearest equal in
+population: Provided, No such alteration shall affect the office of any judge then in office.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 IL 1848 ***
+
+ARTICLE VI
+
+ON ELECTIONS AND THE RIGHT OF SUFFRAGE
+
+*** SSTART 001.0 006.0 0 IL 1848 ***
+
+SECTION 1. In all elections every white male citizen above the age of twenty-one years, having
+resided in the State one year next preceding any election, shall be entitled to vote at such election;
+and every white male inhabitant of the age aforesaid who may be a resident of the State at the
+time of the adoption of this constitution shall have the right of voting as aforesaid; but no such
+citizen or inhabitant shall be entitled to vote except in the district or county in which he shall
+actually reside at the time of such election.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 IL 1848 ***
+
+SEC. 2. All votes shall be given by ballot.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 IL 1848 ***
+
+SEC. 3. Electors shall in all cases, except treason, felony, or breach of the peace, be privileged
+from arrest during their attendance at elections, and in going to and returning from the same.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 IL 1848 ***
+
+ SEC. 4. No elector shall be obliged to do militia duty on the days of election, except in time of
+war or public danger.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 IL 1848 ***
+
+SEC. 5. No elector shall be deemed to have lost his residence in this State by reason of his
+absence on the business of the United States or of this State.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 IL 1848 ***
+
+SEC. 6. No soldier, seaman, or marine, in the Army or Navy of the United States, shall be deemed
+a resident of this State in consequence of being stationed at any military or naval place within the
+same.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 IL 1848 ***
+
+   SEC. 7. No person shall be elected or appointed to any office in this State, civil or military, who
+is not a citizen of the United States, and who shall not have resided in this State one year next
+before the election or appointment.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 IL 1848 ***
+
+SEC. 8. The general assembly shall have full power to pass laws excluding from the right of
+suffrage persons convicted of infamous crimes.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 IL 1848 ***
+
+SEC. 9. The general elections shall be held on the Tuesday next after the first Monday of
+November, biennially, until otherwise provided by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 IL 1848 ***
+
+ARTICLE VII
+
+OF COUNTIES
+
+*** SSTART 001.0 007.0 0 IL 1848 ***
+
+SECTION 1. No new county shall be formed or established by the general assembly, which will
+reduce the county or counties, or either of them, from which it shall be taken, to less contents
+than four hundred square miles; nor shall any county be formed of less contents; nor shall any line
+thereof pass within less than ten miles of any county-seat of the county or counties proposed to be
+divided.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 IL 1848 ***
+
+SEC. 2. No county shall be divided, or have any part stricken therefrom, without submitting the
+question to a vote of the people of the county, nor unless a majority of all the legal voters of the
+county voting on the question shall vote for the same.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 IL 1848 ***
+
+SEC. 3. All territory which has been or may be stricken off, by legislative enactment, from any
+organized county or counties, for the purpose of forming a new county, and which shall remain
+unorganized after the period provided for such organization, shall be and remain a part of the
+county or counties from which it was originally taken, for all purposes of county and State
+government, until otherwise provided by law.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 IL 1848 ***
+
+SEC. 4. There shall be no territory stricken from any county unless a majority of the voters living
+in such territory shall petition for such division; and no territory shall be added to any county
+without the consent of a majority of the voters of the county to which it is proposed to be added.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 IL 1848 ***
+
+SEC. 5. No county-seat shall be removed until the point to which it is proposed to be removed
+shall be fixed by law, and a majority of the voters of the county shall have voted in favor of its
+removal to such point.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 IL 1848 ***
+
+SEC. 6. The general assembly shall provide, by a general law, for a township organization, under
+which any county may organize when ever a majority of the voters of such county, at any general
+election, shall so determine; and whenever any county shall adopt a township organization, so
+much of this constitution as provides for the management of the fiscal concerns of the said county
+by the county court may be dispensed with, and the affairs of said county may be transacted in
+such manner as the general assembly may provide.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 IL 1848 ***
+
+SEC. 7. There shall be elected in each county in this State, by the qualified electors thereof, a
+sheriff, who shall hold his office for the term of two years, and until his successor shall have been
+elected and qualified: Provided, No person shall be eligible to the said office more than once in
+four years. 
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 IL 1848 ***
+
+ARTICLE: VIII
+
+MILITIA
+
+*** SSTART 001.0 008.0 0 IL 1848 ***
+
+SECTION 1. The militia of the State of Illinois shall consist of all free male able-bodied persons
+(negroes, mulattoes, and Indians excepted) resident of the State, between the ages of eighteen and
+forty-five years, except such persons as now are or hereafter may be exempted by the laws of the
+United States or of this State, and shall be armed, equipped, and trained as the general assembly
+may provide by law.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 IL 1848 ***
+
+SEC. 2. No person or persons conscientiously scrupulous of bearing arms shall be compelled to
+do militia duty in time of peace, provide such person or persons shall pay an equivalent for such
+exemption.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 IL 1848 ***
+
+SEC. 3. Company, battalion, and regimental officers, staff-officers excepted, shall be elected by
+the persons composing their several companies, battalions, and regiments.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 IL 1848 ***
+
+SEC. 4 Brigadier and major generals shall be elected by the officers of their brigades and
+divisions, respectively.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 IL 1848 ***
+
+SEC. 5. All militia officers shall be commissioned by the governor, and may hold their
+commissions for such time as the legislature may provide.
+
+*** SEND ***
+*** SSTART 006.0 008.0 0 IL 1848 ***
+
+SEC. 6. The militia shall in all cases, except treason, felony, or breach of the peace, be privileged
+from arrest during their attendance at musters and election of officers, and in going to and
+returning from the same.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 IL 1848 ***
+
+ARTICLE IX
+
+OF THE REVENUE
+
+*** SSTART 001.0 009.0 0 IL 1848 ***
+
+SECTION 1. The general assembly may, whenever they shall deem it necessary, cause to be
+collected from all able-bodied free white male inhabitants of this State, over the age of twenty-one
+years and under the age of sixty years, who are entitled to the right of suffrage, a capitation-tax of
+not less than fifty cents nor more than one dollar each.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 IL 1848 ***
+
+SEC. 2. The general assembly shall provide for levying a tax by valuation, so that every person
+and corporation shall pay a tax in proportion to the value of his or her property; such value to be
+ascertained by some person or persons to be elected or appointed in such manner as the general
+assembly shall direct, and not otherwise; but the general assembly shall have power to tax pedlers,
+auctioneers, brokers, hawkers, merchants, commission-merchants, show-men, jugglers,
+innkeepers, grocery-keepers, toll bridges and ferries, and persons using and exercising franchises
+and privileges in such manner as they shall from time to time direct.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 IL 1848 ***
+
+SEC. 3. The property of the State and counties, both real and personal, and such other property
+as the general assembly may deem necessary for school, religious, and charitable purposes, may be
+exempted from taxation.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 IL 1848 ***
+
+SEC 4. Hereafter no purchaser of any land or town-lot, at any sale of lands or town-lots, for taxes
+due either to this State, or any county, or incorporated town or city within the same; or at any sale
+for taxes or, levies authorized by the laws of this State, shall be entitled to a deed for the lands or
+town-lots so purchased until he or she shall have complied with the following conditions, to wit:
+Such purchaser shall serve, or cause to be served, a written notice of such purchase on every
+person in possession of such land or town-lot, three months before the expiration of the time of
+redemption on such sale; in which notice he shall state when he purchased the land or town-lot,
+the description of the land or lot he has purchased, and when the time of redemption will expire.
+In like manner he shall serve on the person or persons in whose name or names such land or lot is
+taxed a similar written notice, if such person or persons shall reside in the county where such land
+or lot shall be situated; and in the event that the person or persons in whose name or names the
+land or lot is taxed do not reside in the county, such purchaser shall publish such notice in some
+newspaper printed in such county; and if no newspaper is printed in the county, then in the nearest
+newspaper that is published in this State to the county in which such lot or land is situated; which
+notice shall be inserted three times, the last time not less than three months before the time of
+redemption shall expire. Every such purchaser, by himself or agent, shall, before he shall be
+entitled to a deed, make an affidavit of having complied with the conditions of this section, stating
+particularly the facts relied on as such compliance; which affidavit shall be delivered to the person
+authorized by law to execute such tax-deed, and which shall by him be filed with the officer
+having custody of the records of lands and lots sold for taxes, and entries of redemption in the
+county where such land or lot shall lie, to be by such officer entered on the records of his office
+and carefully preserved among the files of his office; and which record or affidavit shall be prima-
+facie evidence that such notice has been given. Any person swearing falsely in such affidavit shall
+be deemed guilty of perjury, and punished accordingly. In case any person shall be compelled
+under this section to publish a notice in a newspaper, then, before any person who may have a
+right to redeem such land or lot from tax-sale shall be permitted to redeem, he or she shall pay the
+officer or person who by law is authorized to receive such redemption-money, the printer's fee for
+publishing such notice, and the expenses of swearing or affirming to the affidavit, and filing the
+same.
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 IL 1848 ***
+
+SEC. 5. The corporate authorities of counties, townships, school districts, cities, towns, and
+villages may be vested with power to assess and collect taxes for corporate purposes; such taxes
+to be uniform in respect to persons and property within the jurisdiction of the body imposing the
+same. And the general assembly shall require that all the property within the limits of municipal
+corporations belonging to individuals shall be taxed for the payment of debts contracted under
+authority of law.
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 IL 1848 ***
+
+SEC. 6. The specifications of the objects and subjects of taxation shall not deprive the general
+assembly of the power to require other objects or subjects to be taxed in such manner as may be
+consistent with the principles of taxation fixed in this constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 IL 1848 ***
+
+ARTICLE X
+
+CORPORATIONS
+
+*** SSTART 001.0 010.0 0 IL 1848 ***
+
+SECTION 1. Corporations, not possessing banking powers or privileges, may be formed under
+general laws, but shall not be created by special acts, except for municipal purposes, and in cases
+where, in the judgment of the general assembly, the objects of the corporation cannot be attained
+under general laws.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 IL 1848 ***
+
+SEC. 2. Dues from corporations, not possessing banking powers or privileges, shall be secured by
+such individual liabilities of the corporators, or other means, as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 IL 1848 ***
+
+SEC. 3. No State bank shall hereafter be created, nor shall the State own or be liable for any stock
+in any corporation or joint-stock association for banking purposes, to be hereafter created.
+
+*** SEND ***
+*** SSTART 004.0 010.0 0 IL 1848 ***
+
+SEC. 4. The stockholders in every corporation, or joint-stock association for banking purposes,
+issuing bank-notes, or any kind of paper credits to circulate as money, shall be individually
+responsible, to the amount of their respective share or shares of stock in any such corporation or
+association, for all its debts and liabilities of every kind.
+
+*** SEND ***
+*** SSTART 005.0 010.0 0 IL 1848 ***
+
+SEC. 5. No act of the general assembly, authorizing corporations or associations with banking
+powers, shall go into effect, or in any manner be in force, unless the same shall be submitted to the
+people at the general election next succeeding the passage of the same, and be approved by a
+majority of all the votes cast at such election for and against such law.
+
+*** SEND ***
+*** SSTART 006.0 010.0 0 IL 1848 ***
+
+SEC. 6. The general assembly shall encourage internal improvements, by passing liberal laws of
+incorporation for that purpose.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 IL 1848 ***
+
+ARTICLE XI
+
+COMMONS
+
+*** SSTART 001.0 011.0 0 IL 1848 ***
+
+All lands which have been granted, as a " common," to the inhabitants of any town, hamlet,
+village, or corporation, by any person, body politic or corporate, or by any government having
+power to make such grant, shall forever remain common to the inhabitants of such town, hamlet,
+village, or corporation; but the said commons, or any of them, or any part thereof, may be
+divided, leased, or granted, in such manner as may hereafter be provided by law, on petition of a
+majority of the qualified voters interested in such common, or any of them.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 IL 1848 ***
+
+ARTICLE XII
+
+AMENDMENTS TO THE CONSTITUTION
+
+*** SSTART 001.0 012.0 0 IL 1848 ***
+
+SECTION 1. Whenever two-thirds of all the members elected to each branch of the general
+assembly shall think it necessary to alter or amend this constitution, they shall recommend to the
+electors at the next election of members of the general assembly, to vote for or against a
+convention; and if it shall appear that a majority of all the electors of the State voting for
+representatives have voted for a convention, the general assembly shall, at their next session, call a
+convention to consist of as many members as the house of representatives at the time of making
+said call, to be chosen in the same manner, at the same place, and by the same electors, in the
+same districts that chose the members of the house of representatives; and which convention shall
+meet within three months after the said election, for the purpose of revising, altering, or amending
+this constitution.
+
+*** SEND ***
+*** SSTART 002.0 012.0 0 IL 1848 ***
+
+SEC. 2. Any amendment or amendments to this constitution may be proposed in either branch of
+the general assembly; and if the same shall be agreed to by two-thirds of all the members-elect in
+each of the two houses, such proposed amendment or amendments shall be, referred to the next
+regular session of the general assembly, and shall be published at least three months previous to
+the time of holding the next election for members of the house of representatives; and if at the
+next regular session of the general assembly after said election, a majority of all the members-elect
+in each branch of the general assembly shall agree to said amendment or amendments, then it shall
+be their duty to submit the same to the people at the next general election for their adoption or
+rejection, in such manner as may be prescribed by law; and if a majority of all the electors voting
+at such election for members of the house of representatives shall vote for such amendment or
+amendments, the same shall become a part of the constitution. But the general assembly shall not
+have power to propose an amendment or amendments to more than one article of the constitution
+at the same session.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 IL 1848 ***
+
+ARTICLE XIII
+
+DECLARATION OF RIGHTS
+That the general, great, and essential principles of liberty and free government may be recognized
+and unalterably established, we declare:
+
+*** SSTART 001.0 013.0 0 IL 1848 ***
+
+SECTION 1. That all men are born equally free and independent, and have certain inherent and
+indefeasible rights, among which are those of enjoying and defending life and liberty, and of
+acquiring, possessing and protecting property and reputation, and of pursuing their own
+happiness.
+
+*** SEND ***
+*** SSTART 002.0 013.0 0 IL 1848 ***
+
+   SEC. 2. That all power is inherent in the people, and all free governments are founded on their
+authority, and instituted for their peace, safety, and happiness.
+
+*** SEND ***
+*** SSTART 003.0 013.0 0 IL 1848 ***
+
+SEC. 3. That all men have a natural and indefeasible right to worship Almighty God according to
+the dictates of their own consciences; that no man can of right be compelled to attend, erect, or
+support any place of worship, or to maintain any ministry, against his consent; that no human
+authority can, in any case whatever, control or interfere with the rights of conscience; and that no
+preference shall ever be given by law to any religious establishment or modes of worship.
+
+*** SEND ***
+*** SSTART 004.0 013.0 0 IL 1848 ***
+
+SEC. 4. That no religious test shall ever be required as a qualification to any office of public trust
+under this State.
+
+*** SEND ***
+*** SSTART 005.0 013.0 0 IL 1848 ***
+
+SEC. 5. That all elections shall be free and equal.
+
+
+*** SEND ***
+*** SSTART 006.0 013.0 0 IL 1848 ***
+
+SEC. 6. That the right of trial by jury shall remain inviolate; and shall extend to all cases at law,
+without regard to the amount in controversy.
+
+*** SEND ***
+*** SSTART 007.0 013.0 0 IL 1848 ***
+
+SEC. 7. That the people shall be secure in their persons, houses, papers, and possessions from
+unreasonable searches and seizures; and that general warrants, whereby an officer may be
+commanded to search suspected places without evidence of the fact committed, or to seize any
+person or persons not named, whose offenses are not particularly described and supported by
+evidence, are dangerous to liberty, an ought not to be granted.
+
+*** SEND ***
+*** SSTART 008.0 013.0 0 IL 1848 ***
+
+SEC. 8. That no freeman shall be imprisoned, or disseized of his freehold, liberties, or privileges,
+or outlawed, or exiled, or in any manner deprived of his life, liberty, or property, but by the
+judgment of his peers, or the law of the land.
+
+*** SEND ***
+*** SSTART 009.0 013.0 0 IL 1848 ***
+
+SEC. 9. That in all criminal prosecutions the accused hath a right to be heard by himself and
+counsel; to demand the nature and cause of the accusation against him; to meet the witnesses face
+to face; to have compulsory process to compel the attendance of witnesses in his favor; and, in
+prosecutions by indictment or information, a speedy public trial by an impartial jury of the county
+or district wherein the offense shall be committed, which county or district shall have been
+previously ascertained by law; and that he shall not be compelled to give evidence against himself.
+
+*** SEND ***
+*** SSTART 010.0 013.0 0 IL 1848 ***
+
+SEC. 10. No person shall be held to answer for a criminal offense unless on the presentment or
+indictment of a grand jury, except in cases of impeachment, or in cases cognizable by justices of
+the peace, or arising in the army or navy, or in the militia when in actual service in time of war or
+public danger: Provided, That justices of the peace shall try no person, except as a court of
+inquiry for any offense punishable with imprisonment or death, or fine above one hundred dollars.
+
+*** SEND ***
+*** SSTART 011.0 013.0 0 IL 1848 ***
+
+SEC. 11. No person shall, for the same offense, be twice put in jeopardy of his life or limb; nor
+shall any man's property be taken or applied to public use without the consent of his
+representatives in the general assembly, nor without just compensation being made to him.
+
+*** SEND ***
+*** SSTART 012.0 013.0 0 IL 1848 ***
+
+SEC. 12. Every person within this State ought to find a certain remedy in the laws for all injuries
+or wrongs which he may receive in his person, property, or character; he ought to obtain right and
+justice freely, and without being obliged to purchase it, completely and without denial, promptly
+and without delay, conformably to the laws.
+
+*** SEND ***
+*** SSTART 013.0 013.0 0 IL 1848 ***
+
+SEC. 13. That all persons shall be bailable by sufficient sureties, unless for capital offenses where
+the proof is evident or the presumption great; and the privilege of the writ of habeas corpus shall
+not be suspended, unless when, in cases of rebellion or invasion, the public safety may require it.
+
+*** SEND ***
+*** SSTART 014.0 013.0 0 IL 1848 ***
+
+SEC. 14. All penalties shall be proportioned to the nature of the offence; the true design of all
+punishment being to reform, not to exterminate, mankind.
+
+*** SEND ***
+*** SSTART 015.0 013.0 0 IL 1848 ***
+
+SEC. 15. No person shall be imprisoned for debt, unless upon refusal to deliver up his estate for
+the benefit of his creditors, in such manner as shall be prescribed by law, or in cases where there is
+strong presumption of fraud.
+
+*** SEND ***
+*** SSTART 016.0 013.0 0 IL 1848 ***
+
+SEC. 16. There shall be neither slavery nor involuntary servitude in this State, except as a
+punishment for crime whereof the party shall have been duly convicted.
+
+*** SEND ***
+*** SSTART 017.0 013.0 0 IL 1848 ***
+
+SEC. 17. No ex post facto law, nor any law impairing the obligation of contracts, shall ever be
+made; and no conviction shall work corruption of blood or forfeiture of estate.
+
+*** SEND ***
+*** SSTART 018.0 013.0 0 IL 1848 ***
+
+SEC. 18. That no person shall be liable to be transported out of this State for any offense
+committed within the same.
+
+*** SEND ***
+*** SSTART 019.0 013.0 0 IL 1848 ***
+SEC. 19. That a frequent recurrence to the fundamental principles of civil government is
+absolutely necessary to preserve the blessings of liberty.
+
+*** SEND ***
+*** SSTART 020.0 013.0 0 IL 1848 ***
+
+SEC. 20. The military shall be in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 021.0 013.0 0 IL 1848 ***
+
+SEC. 21. That the people have a right to assemble together in a peaceable manner to consult for
+their common good, to instruct their representatives, and to apply to the general assembly for
+redress of grievances.
+
+*** SEND ***
+*** SSTART 022.0 013.0 0 IL 1848 ***
+
+SEC. 22. No soldier shall in time of peace, be quartered in any house without the consent of the
+owner; nor in time of war, except in manner prescribed by law.
+
+*** SEND ***
+*** SSTART 023.0 013.0 0 IL 1848 ***
+
+SEC. 23. The printing-presses shall be free to ever person who undertakes to examine the
+proceedings of the general assembly, or any branch of government; and no law shall ever be made
+to refrain the right thereof. The free communication of thoughts and opinions is one of the
+invaluable rights of man; and every citizen may freely speak, write, and print on any subject, being
+responsible for the abuse of that liberty.
+
+*** SEND ***
+*** SSTART 024.0 013.0 0 IL 1848 ***
+
+SEC. 24. In prosecutions for the publication of papers investigating the official conduct of
+officers, or of men acting in a public capacity, or when the matter published is proper for public
+information, the truth thereof may be given in evidence; and in all indictments for libels, the jury
+shall have the right of determining both the law and the fact, under the direction of the court, as in
+other cases.
+
+*** SEND ***
+*** SSTART 025.0 013.0 0 IL 1848 ***
+
+SEC. 25. Any person who shall, after the adoption of this constitution, fight a duel, or send or
+accept a challenge for that purpose, or be aider or abettor in fighting a duel, shall be deprived of
+the right of holding any office of honor or profit in this State, and shall be punished otherwise in
+such manner as is or may be prescribed by law.
+
+*** SEND ***
+*** SSTART 026.0 013.0 0 IL 1848 ***
+
+SEC. 26. That from and after the adoption of this constitution every person who shall be elected
+or appointed to any office of profit, trust, or emolument, civil or military, legislative, executive, or
+judicial, under the government of this State, shall, before he enters upon the duties of his office, in
+addition to the oath prescribed in this constitution, take the following oath: " I do solemnly swear
+[or affirm, as the case may be] that I have not fought a duel, nor sent or accepted a challenge to
+fight a duel, the probable issue of which might have been the death of either party, nor been a
+second to either party, nor in any manner aided or assisted in such duel, nor been knowingly the
+bearer of such challenge or acceptance, since the adoption of the constitution; and that I will not
+be so engaged or concerned, directly or indirectly, in or about any such duel, during my
+continuance in office; so help me God."
+
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 IL 1848 ***
+
+ARTICLE XIV
+
+*** SSTART 001.0 014.0 0 IL 1848 ***
+
+PERSONS OF COLOR
+
+The general assembly shall, at its first session under the amended constitution, pass such laws as
+will effectually prohibit free persons of color from immigrating to and settling in this State; and to
+effectually prevent the owners of slaves from bringing them into this State, for the purpose of
+setting them free.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 015.0 IL 1848 ***
+
+ARTICLE XV
+
+*** SSTART 001.0 015.0 0 IL 1848 ***
+
+There shall be annually assessed and collected in the same manner as other state revenue may be
+assessed and collected, a tax of two mills upon each dollar's worth of taxable property, in addition
+to all other taxes, to be applied as follows, to wit; the fund so created shall be kept separate, and
+shall, annually, on the first day of January, be apportioned and paid over pro rata upon all such
+state indebtedness, other than canal and school indebtedness, as may for that purpose be
+presented by the holders of the same, to be entered as credits upon, and, to that extent, in
+extinguishment of the principal of said indebtedness.
+
+[Note:  There is a dispute as to whether this section was part of the original constitution or
+whether it was added by an amendment in 1851]
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9003.0 IL 1848 ***
+
+SCHEDULE
+
+That no inconvenience may arise from the alterations and amendments made in the constitution of
+this State, and to carry the same into complete effect, it is hereby ordained and declared:
+
+*** SSTART 001.0 9003.0 0 IL 1848 ***
+
+SECTION 1. That all laws in force at the adoption of this constitution, not inconsistent therewith,
+and all rights, actions, prosecutions, claims, and contracts of this State, individuals or bodies
+corporate, shall continue, and be as valid as if this constitution had not been adopted.
+*** SEND ***
+*** SSTART 002.0 9003.0 0 IL 1848 ***
+
+SEC. 2. That all fines, penalties, and forfeitures due and owing to the State of Illinois under the
+present constitution and laws shall inure to the use of the people of the State of Illinois under this
+constitution.
+
+*** SEND ***
+*** SSTART 003.0 9003.0 0 IL 1848 ***
+
+SEC. 3. Recognizances, bonds, obligations, and all other instruments entered into or executed,
+before the adoption of this constitution, to the people of the State of Illinois, to any State or
+county officer or public body, shall remain binding and valid, and rights and liabilities
+upon the same shall continue, and all crimes and misdemeanors shall be tried and punished as
+though no change had been made in the constitution of the State.
+
+*** SEND ***
+*** SSTART 004.0 9003.0 0 IL 1848 ***
+
+SEC. 4. That "Article XI," entitled." Commons," is hereby adopted as a part of the constitution of
+this State, without being submitted to be voted upon by the people.
+
+*** SEND ***
+*** SSTART 005.0 9003.0 0 IL 1848 ***
+
+SEC. 5. That at the first election fixed by this constitution for the election of judges, there shall be
+elected one circuit judge in each of the nine judicial circuits now established in this State.
+
+*** SEND ***
+*** SSTART 006.0 9003.0 0 IL 1848 ***
+
+SEC. 6. The county commissioners' courts and the probate justices of the several counties shall
+continue in existence and exercise their present jurisdiction until the county court, provided in this
+constitution, is organized in pursuance of an act of the general assembly to be passed at its first
+session.
+
+*** SEND ***
+*** SSTART 007.0 9003.0 0 IL 1848 ***
+
+SEC. 7. That the clerk of the circuit court, in each county fixed by this constitution as the place
+for holding the supreme court, except in the county of Sangamon, shall be ex-officio clerk of the
+supreme court, until the clerks of said court shall be elected and qualified, as provided in this
+constitution, and all laws now in force, in relation to the clerk of the supreme court, shall be
+applicable to said clerks and their duties.
+
+*** SEND ***
+*** SSTART 008.0 9003.0 0 IL 1848 ***
+
+SEC. 8. That the sheriffs, State attorneys, and all other officers elected under this constitution,
+shall perform such duties as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 009.0 9003.0 0 IL 1848 ***
+
+SEC. 9. That the oaths of office herein required to be taken may be administered by a justice of
+the peace until otherwise provide by law.
+
+*** SEND ***
+*** SSTART 010.0 9003.0 0 IL 1848 ***
+
+SEC. 10. That this constitution shall be submitted to the people for their adoption or rejection at
+an election to be held on the first Monday in March, A. D. 1848, and there shall also be submitted
+for adoption or rejection, at the same time, the separate articles in relation to the emigration of
+colored persons and the public debt.
+
+*** SEND ***
+*** SSTART 011.0 9003.0 0 IL 1848 ***
+
+SEC. 11. That every person entitled to vote for members of the general assembly, by the
+constitution and laws now in force, shall on the first Monday in March, A. D. 1848, be entitled to
+vote for the adoption or rejection of this constitution, and for and against the aforesaid articles
+separately submitted, and the said qualified electors shall vote in the counties in which they
+respectively reside, at the usual places of voting, and not elsewhere; and the said election shall be
+conducted according to the laws now in force in relation to the election of governor, so far as
+applicable, except as herein otherwise provided.
+
+*** SEND ***
+*** SSTART 012.0 9003.0 0 IL 1848 ***
+
+SEC. 12.  That the poll-book to be used at said election shall as nearly as practicable, be in the
+following form, to wit;
+Poll-book of an election held at  .. precinct in the county of  .. on the first Monday of March
+AD 1848 for the adoption or rejection of the constitution, and the separate articles submitted;
+
+[INSERT TABLE]
+
+*** SEND ***
+*** SSTART 013.0 9003.0 0 IL 1848 ***
+
+SEC. 13 . That the returns of the votes for the adoption or rejection of this constitution, and for
+and against the separate articles submitted, shall be made to the secretary of state within fifty days
+after the election, and the returns of the votes shall, within five days thereafter, be examined and
+canvassed by the auditor, treasurer, and secretary of state, or any two of them, in the presence of
+the governor, and proclamation shall be made by the governor forthwith of the result of the polls.
+If it shall appear that a majority of all the votes polled are for the adoption of this constitution, it
+shall be the supreme law of the land, from and after the first day of April, A. D. 1848; but if it
+shall appear that a majority of the votes polled were given against the constitution, the same shall
+be null and void. If it shall further appear that a majority of the votes polled shall have been given
+for the separate article in relation to colored persons, or the article for the two-mill tax, then said
+article or articles shall be and form a part of this constitution, otherwise said article or articles
+shall be null and void.
+
+*** SEND ***
+*** SSTART 014.0 9003.0 0 IL 1848 ***
+
+SEC. 14. That if this constitution shall be, ratified by the people, the governor shall forthwith,
+after having ascertained the fact, issue writs of election to the sheriffs of the several counties in
+this State, or, in case of vacancy, to the coroners, for the election of all the officers, the time of
+whose election is fixed by this constitution or schedule; and it shall be the duty of said sheriffs or
+coroners to give at least twenty days' notice of the time and place of said election, in the manner
+now provided by law.
+
+*** SEND ***
+*** SSTART 015.0 9003.0 0 IL 1848 ***
+
+SEC. 15. The general assembly shall, at its first session after the adoption of this constitution,
+provide by law for the mode of voting by ballot, and also for the manner of returning, canvassing,
+and certifying the number of votes cast at any election; and until said law shall be passed, all
+elections shall be viva voce, and the laws now in force regulating elections shall continue in force
+until the general assembly shall provide otherwise, as herein directed.
+
+*** SEND ***
+*** SSTART 016.0 9003.0 0 IL 1848 ***
+
+SEC. 16. That the first general election of governor, secretary of state, auditor, treasurer, and
+members of the general assembly, and of such other officers as are to be elected at the same time,
+shall be held on the first Monday of August, eighteen hundred and forty-eight, anything in this
+constitution to the contrary notwithstanding. County officers then elected shall hold their
+respective offices until their successors are elected or appointed, in conformity with laws
+hereinafter enacted.
+
+*** SEND ***
+*** SSTART 017.0 9003.0 0 IL 1848 ***
+
+SEC. 17. That returns of the election of justices of the supreme and judges of the circuit courts,
+secretary of state, auditor, and treasurer, shall be made and canvassed as is now provided by law
+for Representatives in Congress; and returns for members of the general assembly and county
+officers shall be made and canvassed as is now provided by law.
+
+*** SEND ***
+*** SSTART 018.0 9003.0 0 IL 1848 ***
+
+SEC. 18. That all laws of the State of Illinois and all official writings, and the executive,
+legislative, and judicial proceedings, shall be conducted, preserved, and published in no other than
+the English language.
+
+*** SEND ***
+*** SSTART 019.0 9003.0 0 IL 1848 ***
+
+SEC. 19. On the first Monday in December, one thousand eight hundred and forty-eight, the term
+of office of judges of the supreme court, State's attorneys, and of the clerks of the supreme and
+circuit courts, shall expire; and on said day the term of office of the judges, State's attorneys, and
+clerks elected under the provisions of this constitution shall commence. The judges of the
+supreme court, elected as aforesaid, shall have and exercise the powers and jurisdiction conferred
+upon the present judges of that court; and the said judges of the circuit courts shall have and
+exercise the powers and jurisdiction conferred upon the judges of those courts, subject to the
+provisions of this constitution.
+
+*** SEND ***
+*** SSTART 020.0 9003.0 0 IL 1848 ***
+
+SEC. 20. On the first Monday in December, one thousand eight hundred and forty-eight,
+jurisdiction of all suits and proceedings then pending in the present supreme court shall become
+vested in the supreme court established by this constitution, and shall be finally adjudicated by the
+court where the same may be pending. The jurisdiction of all suits and proceedings then pending
+in the circuit courts of the several counties shall be vested in the circuit courts of said counties.
+*** SEND ***
+*** SSTART 021.0 9003.0 0 IL 1848 ***
+
+SEC. 21. The Cook and Jo Daviess County courts shall continue to exist, and the judge and other
+officers of the same remain in office, until otherwise provided by law.
+
+*** SEND ***
+*** SSTART 022.0 9003.0 0 IL 1848 ***
+
+SEC. 22. Until otherwise provided by law, the terms of the supreme court shall be held as
+follows: In the first division, on the first Monday of December, A. D. 1848, and annually
+thereafter; in the second division, on the third Monday of December, A. D. 1848, and annually
+thereafter; in the third division, on the first Monday of February. A. D. 1849, and annually
+thereafter. The sheriffs of Jefferson and La Salle Counties shall perform the same duties and
+receive the same compensation as is required and provided for the sheriff of Sangamon County,
+until otherwise provided law.
+
+*** SEND ***
+*** SSTART 023.0 9003.0 0 IL 1848 ***
+
+SEC. 23. Nothing in this constitution shall prevent the general assembly from passing such laws in
+relation to the apprenticeship of minors, during their minority, as may be necessary and proper.
+
+*** SEND ***
+*** SSTART 024.0 9003.0 0 IL 1848 ***
+
+SEC. 24. That the general assembly shall pass all laws necessary to carry into effect the provisions
+of this constitution.
+
+*** SEND ***
+*** SSTART 025.0 9003.0 0 IL 1848 ***
+
+SEC. 25. Elections of judges of the supreme and circuit courts shall be subject to be contested.
+
+*** SEND ***
+*** SSTART 025.0 9003.0 0 IL 1848 ***
+
+SEC. 26. Contested elections of judges of the supreme court shall be tried by the senate, and of
+judges of the circuit court by the supreme court, and the general assembly shall prescribe the
+manner of proceeding therein.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9016.0 IL 1848 ***
+
+Done in convention, at the capitol, in the city of Springfield, on the thirty-first day of August, in
+the year of our Lord one thousand eight hundred and forty-seven, and of the Independence of the
+United States of America the seventy-second.
+                                        NEWTON CLOUD, President.
+
+HENRY W. MOORE,
+Secretary.
+HARMAN G. REYNOLDS,
+Assistant Secretary.
+*** AEND ***
+
+*** MSTART 001 000.0 015.0 0 IL 1848 1851 ***
+
+Ratified 1851*
+
+There shall be annually assessed and collected, in the same manner as other State revenue may be
+assessed and collected, a tax of two mills upon each dollar's worth of taxable property, in addition
+to all other taxes, to be applied as follows, to wit:  The fund so created shall be kept separate, and
+shall annually, on the first day of January, be apportioned and paid over, pro rata, upon all such
+State indebtedness, other than the canal and school indebtedness, as may, for that purpose, be
+presented by the holders of the same, to be entered as credits upon, and, to that intent, in
+extinguishment of the principal of said indebtedness.
+
+*[Note: This article was most likely part of the original constitution, but since some sources have
+listed it as an amendment, it has been included]
+
+*** MEND ***
+
+*** CEND ***
+
+

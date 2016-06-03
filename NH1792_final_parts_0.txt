@@ -1,0 +1,2585 @@
+Chris Esh worked on New Hampshire
+
+I think this is ready to go
+
+JW 9/2/04
+
+***  I am unsure about the start date ***
+
+*** CSTART NH 09/05/1792 01/01/2005 ***
+
+
+CONSTITUTION OF NEW HAMPSHIRE  
+     The Constitution of New Hampshire, as altered and amended by a convention of delegates
+held at Concord, in said State, by adjournment, on the second Wednesday of February, 1792.
+
+*** ASTART 001.0 NH 1792 ***
+
+     Part First
+
+The Bill of Rights
+*** SSTART 001.0 001.0 0 NH 1792 ***
+
+
+     Article I.  All men are born equally free and independent; therefore, all government of right
+originates from the people, is founded in consent, and instituted for the general good.
+*** SEND ***
+*** SSTART 002.0 001.0 0 NH 1792 ***
+     Art. II. All men have certain natural, essential, and inherent rights; among which are   the
+enjoying and defending life and liberty   acquiring, possessing and protecting property-and in a
+word, of seeking and obtaining happiness.
+*** SEND ***
+*** SSTART 003.0 001.0 0 NH 1792 ***
+     Art. III. When men enter into a state of society, they surrender up some of their natural
+rights to that society, in order to insure the protection of others; and, without such an equivalent,
+the surrender is void.
+*** SEND ***
+*** SSTART 004.0 001.0 0 NH 1792 ***
+     Art. IV. Among the natural rights, some are in their very nature unalienable, because no
+equivalent can be given or received for them. Of this kind are the RIGHTS OF CONSCIENCE.
+*** SEND ***
+*** SSTART 005.0 001.0 0 NH 1792 ***
+     Art. V. Every individual has a natural and unalienable right to worship GOD according to the
+dictates of his own conscience, and reason; and no subject shall be hurt, molested, or restrained in
+his person, liberty or estate for worshipping GOD, in the manner and season most agreeable to the
+dictates of his own conscience, or for his religious profession, sentiments or persuasion; provided
+he doth not disturb the public peace, or disturb others, in their religious worship.
+*** SEND ***
+*** SSTART 006.0 001.0 0 NH 1792 ***
+     Art. VI. As morality and piety, rightly grounded on evangelical principles, will give the
+best and greatest security to government, and will lay in the hearts of men the strongest
+obligations to due subjection; and as the knowledge of these, is most likely to be propagated
+through a society by the institution of the public worship of the DEITY, and of public instruction
+in morality and religion; therefore, to promote those important purposes, the people of this state
+have a right to impower, and do hereby fully impower the legislature to authorize from time to
+time, the several towns, parishes, bodies-corporate, or religious societies within this state, to
+make adequate provision at their own expence, for the support and maintenance of public
+protestant teachers of piety, religion and morality:
+     Provided notwithstanding, That the several towns, parishes, bodies-corporate, or religious
+societies, shall at all times have the exclusive right of electing their own public teachers, and of
+contracting with them for their support and maintenance. And no portion of any one particular
+religious sect or denomination, shall ever be compelled to pay towards the support of the teacher
+or teachers of another persuasion, sect or denomination.
+     And every denomination of christians demeaning themselves quietly, and as good subjects
+of the state, shall be equally under the protection of the law: and no subordination of any one sect
+or denomination to another, shall ever be established by law.
+     And nothing herein shall be understood to affect any former contracts made for the
+support of the ministry; but all such contracts shall remain, and be in the same state as if this
+constitution had not been made.
+*** SEND ***
+*** SSTART 007.0 001.0 0 NH 1792 ***
+     Art. VII. The people of this state, have the sole and exclusive right of governing
+themselves as a free, sovereign, and independent state, and do, and forever hereafter shall,
+exercise and enjoy every power, jurisdiction and right pertaining thereto, which is not, or may not
+hereafter be by them expressly delegated to the United States of America in Congress assembled.
+*** SEND ***
+*** SSTART 008.0 001.0 0 NH 1792 ***
+     Art. VIII. All power residing originally in, and being derived from the people, all the
+magistrates and officers of government, are their substitutes and agents, and at all times
+accountable to them.
+*** SEND ***
+*** SSTART 009.0 001.0 0 NH 1792 ***
+    Art. IX. No office or place whatsoever in government, shall be hereditary-the abilities and
+integrity requisite in all, not being transmissible to posterity or relations.
+*** SEND ***
+*** SSTART 010.0 001.0 0 NH 1792 ***
+     Art. X. Government being instituted for the common benefit, protection, and security of
+the whole community, and not for the private interest or emolument of any one man, family or
+class of men; therefore, whenever the ends of government are perverted, and public liberty
+manifestly endangered, and all other means of redress are ineffectual, the people may, and of right
+ought, to reform the old, or establish a new government. The doctrine of non-resistance against
+arbitrary power, and oppression, is absurd, slavish, and destructive of the good and happiness of
+mankind.
+*** SEND ***
+*** SSTART 011.0 001.0 0 NH 1792 ***
+     Art. XI. All elections ought to be free, and every inhabitant of the state having the proper
+qualifications, has equal right to elect, and be elected into office.
+*** SEND ***
+*** SSTART 012.0 001.0 0 NH 1792 ***
+     Art. XII. Every member of the community has a right to be protected by it in the
+enjoyment of his life, liberty and property; he is therefore bound to contribute his share in the
+expence of such protection, and to yield his personal service when necessary, or an equivalent.
+But no part of a man's property shall be taken from him, or applied to public uses, without his
+own consent, or that of the representative body of the people. Nor are the inhabitants of this state
+controllable by any other laws than those to which they or their representative body have given
+their consent.
+*** SEND ***
+*** SSTART 013.0 001.0 0 NH 1792 ***
+     Art. XIII. No person who is conscientiously scrupulous about the lawfulness of bearing
+arms, shall be compelled thereto, provided he will pay an equivalent.
+*** SEND ***
+*** SSTART 014.0 001.0 0 NH 1792 ***
+     Art. XIV. Every subject of this state is entitled to a certain remedy, by having recourse to
+the laws, for all injuries lie may receive in his person, property or character, to obtain right and
+justice freely, without being obliged to purchase it; completely, and without any denial; promptly,
+and without delay, conformably to the laws.
+*** SEND ***
+*** SSTART 015.0 001.0 0 NH 1792 ***
+     Art. XV. No subject shall be held to answer for any crime, or offence, until the same is
+fully and plainly, substantially and formally, described to him; or be compelled to accuse or furnish
+evidence against himself. And every subject shall have a right to produce all proofs that may be
+favorable to himself; to meet the witnesses against him face to face, and to be fully heard in his
+defence by himself, and counsel. And no subject shall be arrested, imprisoned, despoiled or
+deprived of his property, immunities, or privileges, put out of the protection of the law, exiled or
+deprived of his life, liberty, or estate, but by the judgment of his peers or the law of the land.
+*** SEND ***
+*** SSTART 016.0 001.0 0 NH 1792 ***
+     Art. XVI. No subject shall be liable to be tried, after an acquittal, for the same crime or
+offence. --Nor shall the legislature make any law that shall subject any person to a capital
+punishment, excepting for the government of the army and navy, and the militia in actual service,
+without trial by jury.
+*** SEND ***
+*** SSTART 017.0 001.0 0 NH 1792 ***
+     Art. XVII. In criminal prosecutions, the trial of facts in the vicinity where they happen, is
+so essential to the security of the life, liberty and estate of the citizen, that no crime or offence
+ought to be tried in any other county than that in which it is committed; except in cases of general
+insurrection in any particular county, when it shall appear to the Judges of the Superior Court,
+that an impartial trial cannot be had in the county where the offence may be committed, and upon
+their report, the legislature shall think proper to direct the trial in the nearest county in which an
+impartial trial can be obtained.
+*** SEND ***
+*** SSTART 018.0 001.0 0 NH 1792 ***
+     XVIII. All penalties ought to be proportioned to the nature of the offence. No wise
+legislature will affix the same punishment to the crimes of theft, forgery and the like, which they
+do to those of murder and treason.   Where the same undistinguishing severity is exerted against
+all offences, the people are led to forget the real distinction in the crimes themselves, and to
+commit the most flagrant with as little compunction as they do the lightest offences.  For the same
+reason a multitude of sanguinary laws is both impolitic and unjust; the true design of all
+punishments being to reform, not to exterminate, mankind.
+*** SEND ***
+*** SSTART 019.0 001.0 0 NH 1792 ***
+     XIX. Every subject has a right to be secure from all unreasonable searches and seizures of
+his person, his houses, his papers, and all his possessions; Therefore, All warrants to search
+suspected places, or arrest a person for examination or trial, in prosecutions for criminal matters,
+are contrary to this right, if the cause or foundation of them be not previously cupposred by oath
+or affirmation; and if the order in a warrant to a civil officer to make search in suspected places,
+or to arrest one or more suspected persons, or to seize thier property, be not accompanied with a
+special designation of the persons or object of search, arrest, or seizure; and no warrant ought to
+be issued but in cases and with the formalities prescribed by law.
+*** SEND ***
+*** SSTART 020.0 001.0 0 NH 1792 ***
+
+     XX.  In all controversies concerning property, and in all suits between two or more persons,
+except in cases in which it has been heretofore otherwise used and practiced, the parties have a
+right to a trial by jury; and this method of procedure shall be held sacred, unless in causes arising
+on the high seas, and such as relate to mariners wages, the legislature shall think it necessary
+hereafter to alter it.
+[The original constitution had "causes" instead of "cases" This appears to have been altered in the
+1792 parchment copy without authorization]
+*** SEND ***
+*** SSTART 021.0 001.0 0 NH 1792 ***
+   XXI. In order to reap the fullest advantage of the inestimable privilege of the trial by Jury, great
+care ought to be taken that none but qualified persons be appointed to serve; and such ought to be
+fully compensated for their travel, time and attendance.
+*** SEND ***
+*** SSTART 022.0 001.0 0 NH 1792 ***
+     XXII. The Liberty of the Press is essential to the security of freedom in a state; it ought,
+therefore, to be inviolably preserved.
+*** SEND ***
+*** SSTART 023.0 001.0 0 NH 1792 ***
+     XXIII. Retrospective laws are highly injurious, oppressive and unjust. No such laws, therefore,
+should be made, either for the decision of civil causes, or the punishment of offences.
+*** SEND ***
+*** SSTART 024.0 001.0 0 NH 1792 ***
+      XXIV. A well regulated militia is the proper, natural, and sure defence of a state.
+*** SEND ***
+*** SSTART 025.0 001.0 0 NH 1792 ***
+      XXV. Standing armies are dangerous to liberty, and ought not to be raised or kept up without
+the consent of the legislature.
+*** SEND ***
+*** SSTART 026.0 001.0 0 NH 1792 ***
+     XXVI. In all cases, and at all times, the military ought to be under strict subordination to, and
+governed by the civil power.
+*** SEND ***
+*** SSTART 027.0 001.0 0 NH 1792 ***
+      XXVII. No soldier in time of peace, shall be quartered in any house without the consent of
+the owner; and in time of war, quarters ought not to be made but by the civil magistrate, in a
+manner ordained by the legislature.
+*** SEND ***
+*** SSTART 028.0 001.0 0 NH 1792 ***
+        XXVIII. No subsidy, charge, tax, impost or duty shall be established, fixed, laid, or
+levied, under any pretext whatsoever, without the consent of the people or their representatives in
+the legislature, or authority derived from that body.
+*** SEND ***
+*** SSTART 029.0 001.0 0 NH 1792 ***
+        XXIX. The power of suspending the laws, or the execution of them, ought never to be
+exercised but by the legislature, or by authority derived therefrom, to be exercised in such
+particular cases only as the legislature shall expressly provide for.
+*** SEND ***
+*** SSTART 030.0 001.0 0 NH 1792 ***
+        XXX. The freedom of deliberation, speech, and debate, in either house of the legislature,
+is so essential to the rights of the people, that it cannot be the foundation of any action, complaint,
+or prosecution, in any other court or place whatsoever.
+*** SEND ***
+*** SSTART 031.0 001.0 0 NH 1792 ***
+        XXXI. The legislature shall assemble for the redress of public grievances, and for
+making such laws as the public good may require.
+*** SEND ***
+*** SSTART 032.0 001.0 0 NH 1792 ***
+         XXXII. The people have a right in an orderly and peaceable manner, to assemble and
+consult upon the common good, give instructions to their representatives; and to request of the
+legislative body, by way of petition or remonstrance, redress of the wrongs done them, and of the
+grievances they suffer.
+*** SEND ***
+*** SSTART 033.0 001.0 0 NH 1792 ***
+        XXXIII. No magistrate or court of law shall demand excessive bail or sureties, impose
+excessive fines, or inflict cruel or unusual punishments.
+*** SEND ***
+*** SSTART 034.0 001.0 0 NH 1792 ***
+     XXXIV. No person can in any case be subjected to law martial, or to any pains, or penalties,
+by virtue of that law, except those employed in the army or navy, and except the militia in actual
+service, but by authority of the legislature.
+*** SEND ***
+*** SSTART 035.0 001.0 0 NH 1792 ***
+     XXXV. It is essential to the preservation of the rights of every individual, his life, liberty,
+property and character, that there be an impartial interpretation of the laws  and administration of
+justice. It is the right of every citizen to be tried by judges as impartial as the lot of humanity will
+admit. It is, therefore not only the best policy, but for the security of the rights of the people, that
+the judges of the supreme  judicial court should hold their offices so long as they behave well;
+subject, however, to such limitations on account of age as may be provided by the constitution of
+the State; and that they should have honorable salaries, ascertained and established by standing
+laws.
+*** SEND ***
+*** SSTART 036.0 001.0 0 NH 1792 ***
+     XXXVI. Economy being a most essential virtue in all states, especially in a young one; no
+pension shall be granted, but in consideration of actual services, and such pensions ought to be
+granted with great caution, by the legislature, and never for more than one year at a time.
+*** SEND ***
+*** SSTART 037.0 001.0 0 NH 1792 ***
+     XXXVII. In the government of this state, the three essential powers thereof, to wit, the
+legislative, executive and judicial, ought to be kept as separate from and independent of each
+other, as the nature of a free government will admit, or as is consistent with that chain of
+connection that binds the whole fabric of the constitution in one indissoluble bond of union and
+amity.
+*** SEND ***
+*** SSTART 038.0 001.0 0 NH 1792 ***
+     XXXVIII. A frequent recurrence to the fundamental principles of the Constitution, and a
+constant adherence to justice, moderation, temperance, industry, frugality, and all the social
+virtues, are indispensably necessary to preserve the blessings of liberty and good government; the
+people ought, therefore, to have a particular regard to all principles in the choice of their officers
+and representatives: and they have a right to require of their law-givers and magistrates, an exact
+and constant observance of them in the formation and execution of the laws necessary for the
+good administration of government.
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 NH 1792 ***
+
+     PART II. -- THE FORM OF GOVERNMENT
+
+*** SSTART 001.0 002.0 0 NH 1792 ***
+
+     [Art.] 1.  The people inhabiting the territory formerly called the Province of New-
+Hampshire, do hereby solemnly and mutually agree with each other, to form themselves into a
+free, sovereign, and independent Body-politic, or State, by the name of THE STATE OF NEW
+HAMPSHIRE.
+*** SEND ***
+*** SSTART 002.0 002.0 0 NH 1792 ***
+                    THE GENERAL COURT
+
+  [Art.] 2. The supreme legislative power within this state shall be vested in the senate and house
+of representatives, each of which shall have a negative on the other.
+*** SEND ***
+*** SSTART 003.0 002.0 0 NH 1792 ***
+    [Art.] 3. The senate and house, shall assemble every year on the first Wednesday of June, and
+at such other times as they may judge necessary; and shall dissolve, and be dissolved, seven days
+next preceding the said first Wednesday of June; and shall be stiled THE GENERAL COURT OF
+NEW-HAMPSHIRE.
+*** SEND ***
+*** SSTART 004.0 002.0 0 NH 1792 ***
+   [Art.] 4.  The general court shall forever have full power and authority to erect and constitute
+judicatories and courts of record, or other courts, to be holden in the name of the state, for the
+hearing, trying, and determining all manner of crimes, offences, pleas, processes, plaints, actions,
+causes, matters and things whatsoever, arising, or happening within this state, or between or
+concerning persons inhabiting or residing, or brought within the same, whether the same be
+criminal or civil, or whether the crimes be capital or not capital, and whether the said pleas be
+real, personal, or mixed; and for the awarding and  execution thereon. To which courts and
+judicatories are hereby given and granted full power and authority, from time to time to
+administer oaths or affirmations, for the better discovery of truth in any matter in controversy, or
+depending before them.
+*** SEND ***
+*** SSTART 005.0 002.0 0 NH 1792 ***
+   [Art.] 5. And farther, full power and authority are hereby given and granted to the said general
+court, from time to time, to make, ordain, and establish, all manner of wholesome and reasonable
+orders, laws, statutes, ordinances, directions and instructions, either with penalties or without, so
+as the same be not repugnant, or contrary to this constitution, as they may judge for the benefit
+and welfare of this State, and for the governing and ordering thereof, and of the subjects of the
+same, for the necessary support and defence of the government thereof; and to name and settle
+annually, or provide by fixed laws for the naming, and settling all civil officers within this State;
+such officers excepted the election and appointment of whom, are hereafter in this form of
+government otherwise provided for; and to set forth the several duties, powers and limits, of the
+several civil and military officers of this State, and the forms of such oaths or affirmations, as shall
+be respectively administered unto them for the execution of their several offices and places, so as
+the same be not repugnant or contrary to this constitution; and also to impose fines, mulcts,
+imprisonments, and other punishments; and to impose and levy proportional and reasonable
+assessments, rates and taxes, upon all the inhabitants of, and residents within the said state; and
+upon all estates within the same; to be issued and disposed of by warrant under the hand of the
+governor of this state for the time being, with the advice and consent of the council, for the public
+service, in the necessary defence and support of the government of this state, and the protection
+and preservation of the subjects thereof, according to such acts as are, or shall be in force within
+the same.
+*** SEND ***
+*** SSTART 006.0 002.0 0 NH 1792 ***
+   [Art.] 6. And while the public charges of government or any part thereof shall be assessed on
+polls and estates in the manner that has heretofore been practiced; in order that such assessments
+may be made with equality, there shall be a valuation of the estates within the state taken anew
+once in every five years at least, and as much oftener as the general court shall order. 
+*** SEND ***
+*** SSTART 007.0 002.0 0 NH 1792 ***
+     [Art.] 7. No member of the general court shall take fees, be of counsel, or act as advocate in
+any cause before either branch or the legislature; and upon due proof thereof such member shall
+forfeit his sear in the legislature.
+*** SEND ***
+*** SSTART 008.0 002.0 0 NH 1792 ***
+     [Art.] 8.  The doors of all the galleries of each house of the legislature shall be kept open to all
+persons who behave decently, except when the wlfare of the State, in the opinion of either branch,
+shall require secrecy.
+*** SEND ***
+*** SSTART 009.0 002.0 0 NH 1792 ***
+
+     HOUSE OF REPRESENTATIVES
+
+     [Art.] 9.  THERE shall be in the legislature of this state a representation of the people
+annually elected and founded upon principles of equality: and in order that such representation
+may be as equal as circumstances will admit, every town, parish or place intitled to town
+privileges, having one hundred and fifty rateable male polls, of twenty-one years of age, and
+upwards, may elect one representative; if four hundred and fifty rateable polls, may elect two
+representatives; and so proceeding in that proportion, making three hundred such rateable polls
+the mean increasing number, for every additional representative.
+*** SEND ***
+*** SSTART 010.0 002.0 0 NH 1792 ***
+     [Art.] 10.  Such towns, parishes or places as have less than one hundred and fifty rateable
+polls shall be classed by the general assembly for the purpose of chusing a representative, and
+seasonably notified thereof. And in every class formed for the above-mentioned purpose, the first
+annual meeting shall be held in the town, parish, or place wherein most of the rateable polls reside;
+and afterwards in that which has the next highest number, and so on annually by rotation, through
+the several towns, parishes or places, forming the district.
+*** SEND ***
+*** SSTART 011.0 002.0 0 NH 1792 ***
+     [Art.] 11.  Whenever any town, parish, or place intitled to town privileges as aforesaid,
+shall not have one hundred and fifty rateable poles, and be so situated as to render the classing
+thereof with any other town, parish, or place very inconvenient, the general-assembly may upon
+application of a majority of the voters in such town, parish, or place, issue a writ for their electing
+and sending a representative to the general court.
+*** SEND ***
+*** SSTART 012.0 002.0 0 NH 1792 ***
+     [Art.] 12.  The members of the house of representatives shall be chosen annually in the
+month of March, and shall be the second branch of the legislature.
+*** SEND ***
+*** SSTART 013.0 002.0 0 NH 1792 ***
+     [Art.] 13.  All persons qualified to vote in the election of senators shall be entitled to vote
+within the district, where they dwell, in the choice of representatives. 
+[Edited without ratification]
+*** SEND ***
+*** SSTART 014.0 002.0 0 NH 1792 ***
+     [Art.] 14.  Every member of the house of representatives shall be chosen by ballot; and for
+two years at least next preceding his election, shall have been an inhabitant of this state, shall have
+an estate within the town, parish, or place which he may be chosen to represent, of the value of
+one hundred pounds, one half of which to be a freehold whereof he is seized in his own right;
+shall be at the time of his election, an inhabitant of the town, parish, or place he may be chosen to
+represent; shall be of the protestant religion, and shall cease to represent such town, parish, or
+place immediately on his ceasing to be qualified as aforesaid.
+*** SEND ***
+*** SSTART 015.0 002.0 0 NH 1792 ***
+
+     [Art.] 15.  The members of both houses of the legislature shall be compensated for their
+services out of the treasury of the State, by a law made for that purpose; such members attending
+seasonably, and not departing without license.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 016.0 002.0 0 NH 1792 ***
+     [Art.] 16.  All intermediate vacancies in the house of Representatives, may be filled up
+from time to time, in the same manner as annual elections are made.
+*** SEND ***
+*** SSTART 017.0 002.0 0 NH 1792 ***
+ [Art.] 17.  The house of representatives shall be the grand inquest of the
+state, and all impeachments made by them, shall be heard and tried by the
+senate.
+*** SEND ***
+*** SSTART 018.0 002.0 0 NH 1792 ***
+     [Art.] 18. All money bills shall originate in the house of representatives, but the senate
+may propose or concur with amendments as on other bills.
+*** SEND ***
+*** SSTART 019.0 002.0 0 NH 1792 ***
+     [Art.] 19.  The house of representatives shall have power to adjourn themselves, but no
+longer than two days at a time.
+*** SEND ***
+*** SSTART 020.0 002.0 0 NH 1792 ***
+     [Art.] 20.  A majority of the members of the house of representatives shall be a quorum
+for doing business; but when less than two-thirds of the representatives elected shall be present,
+the assent of two-thirds of those members shall be necessary to render their acts and proceedings
+valid.
+*** SEND ***
+*** SSTART 021.0 002.0 0 NH 1792 ***
+     [Art.] 21. No member of the house of representatives or senate, shall be arrested or held
+to bail on mean process, during his going to, returning from, or attendance upon the court.
+*** SEND ***
+*** SSTART 022.0 002.0 0 NH 1792 ***
+     [Art.] 22. The house of representatives shall choose their own speaker, appoint their own
+officers, and settle the rules of proceedings in their own house; and shall be judge of the returns,
+elections, and qualifications of its members, as pointed out in this constitution.  They shall have
+authority to punish by imprisonment, every person who shall be guilty of disrespect to the house
+in its presence, by any disorderly or contemptuous behaviour, or by threatening, or ill treating any
+of its members; or by obstructing its deliberations; every person guilty of a breach of its privileges
+in making arrests for debt, or by assaulting any member during his attendance at any session; in
+assaulting or disturbing any one of its officers in the execution of any order or procedure of the
+house, in assaulting any witness, or other person, ordered to attend by and during his attendance
+of the house, or in rescuing any person arrested by order of the house, knowing them to be such. 
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 023.0 002.0 0 NH 1792 ***
+     [Art.] 23. The senate, president and council, shall have the same powers in like cases;
+provided that no imprisonment by either, for any offence, exceed ten days.
+*** SEND ***
+*** SSTART 024.0 002.0 0 NH 1792 ***
+     [Art.] 24. The journals of the proceedings, and all public acts of both houses of the
+legislation, shall be printed and published, immediately after every adjournment or prorogation;
+and upon motion made by any one member, the yeas and nays upon any question, shall be taken
+and entered upon the journal; and any member of the senate or house of representatives shall have
+a right, on motion made at the same time for that purpose, to have his protest or dissent, with the
+reasons, against any vote, resolve, or bill passed, entered on the journal.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 025.0 002.0 0 NH 1792 ***
+
+SENATE
+
+   [Art.] 25. The Senate shall consist of twelve members, who shall hold their office for one year
+from the first Wednesday of June next ensuing their election.
+[Amended by Constitutional Convention, 1792]
+[In the original document, the section on the Senate preceeded the section on the House of
+Representatives, when the document was renumbered in 1792, the section on the House of
+Representatives, beginning with Article 9, was placed first.]
+*** SEND ***
+*** SSTART 026.0 002.0 0 NH 1792 ***
+     [Art.] 26.  And that the State may be equally represented in the senate, the legislature shall,
+from time to time, divide the State into twelve districts, as nearly equal as may be, without
+dividing towns and unincorporated places; and in making this division they shall govern
+themselves by the proportion of direct taxes paid by the said district; and timely make known to
+the inhabitants of the State the limits of each district.
+[Amended by Constitutional Convention, 1792.]
+*** SEND ***
+*** SSTART 027.0 002.0 0 NH 1792 ***
+     [Art.] 27. The freeholders and other inhabitants of each district, qualified as in this constitution
+is provided, shall annually give in thier votes for a senator, at some meeting holden in the month
+of March.
+[Amended by Constitutional Convention, 1792.]
+*** SEND ***
+*** SSTART 028.0 002.0 0 NH 1792 ***
+    [Art.] 28.  The senate shall be the first branch of the legislature, and the senators shall be
+chosen in the following manner, viz: every male inhabitant of each town and parish with town
+privileges, and places unincorporated, in this State, of twenty-one years of age and upward,
+excepting paupers and persons excused from paying taxes at thier own request, shall have a right,
+at the annual or other meeting of the inhabitants of said towns and parishes, to be duly warned
+and holden annually forever in the month of March, to vote in the town or parish wherein he
+dwells, for the senators in the county or district where of he is a member.
+[Amended by Constitutional Convention, 1792.]
+*** SEND ***
+*** SSTART 029.0 002.0 0 NH 1792 ***
+     [Art.] 29.  Provided nevertheless, That no person shall be capable of being elected a
+senator, who is not of the protestant religion, and seized of a freehold estate in his own right of
+the value of two hundred pounds, lying within this state, who is not of the age of thirty years, and
+who shall not have been an inhabitant of this state for seven years immediately preceding his
+election; and at the time thereof he shall be an inhabitant of the district for which he shall be
+chosen.
+*** SEND ***
+*** SSTART 030.0 002.0 0 NH 1792 ***
+     [Art.] 30. And every person qualified as the constitution provides, shall be considered an
+inhabitant for the purpose of electing and being elected into any office or place within this state, in
+the town, parish and plantation where he dwelleth and hath his home.
+*** SEND ***
+*** SSTART 031.0 002.0 0 NH 1792 ***
+     [Art.] 31. And the inhabitants of plantations and places unincorporated, qualified as this
+constitution provides, who are or shall be required to assess taxes upon themselves towards the
+support of government, or shall be taxed therefor, shall have the same privilege of voting for
+senators in the plantations and places wherein they reside, as the inhabitants of the respective
+towns and parishes aforesaid have. And the meetings of such plantations and places for that
+purpose, shall be holden annually in the month of March, at such places respectively therein, as
+the assessors thereof shall direct; which assessors shall have like authority for notifying the
+electors, collecting and returning the votes, as the selectmen and town-clerks have in their several
+towns by this constitution.
+*** SEND ***
+*** SSTART 032.0 002.0 0 NH 1792 ***
+     [Art.] 32. The meetings for the choice of governor, council, and senators shall be warned by
+warrant from the selectmen, and governed by a moderator, who shall, in the presence of the
+selectmen, (whose duty it shall be to attend,) in open meeting, receive the votes of all the
+inhabitants of such towns and parishes present and qualified to vote for senators; and shall in said
+meetings, in presence of said selectmen, and of the town clerk in said meetings, sort and count the
+said votes, and make a public declaration thereof, with the name of every person voted for and the
+number of votes for each person; and the town clerk shall make a fair record of the same at large,
+in the town book, and shall make a fair attested copy thereof, to be by him sealed up and directed
+to the secretary of the State, with a superscription expressing the purport thereof; and the said
+town clerk shall cause such attested copy to be delivered to the sheriff of the county in which said
+town or parish shall lie, thirty days at least before the the first Wednesday of June, or to the
+secretary of state at least twnety days before the said first Wednesday of June; and the sheriff of
+each county, or his deputy, shall deliver all such certificates by him received into the secretaries
+office, at least twenty days before the first Wednesday in June.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 033.0 002.0 0 NH 1792 ***
+     [Art.] 33. And that there may be a due meeting of senators on the first Wednesday of June
+annually, the governor and a majority of the council for the time being shall, as soon as may be,
+examine the return copies of such records, and fourteen days before the said first Wednesday of
+June, he shall issue his summons to such persons as appear to be chosen senators by a majority of
+votes, to attend and take their seats on that day: Provided, nevertheless,That for the first year the
+said returned copies shall be examined by the president (?) and the majority of the council then in
+office; and the said president shall in like manner notify the persons elected to attend and take
+their seats accordingly.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 034.0 002.0 0 NH 1792 ***
+     [Art.] 34. And in case there shall not appear to be a senator elected by a majority of votes for
+any district, the deficiency shall be supplied in the following manner, viz: the members of the
+house of representatives, and such senators as shall be declared elected, shall take the names of
+the two persons having the highest number of votes in the district, and out of them shall elect, by
+joint ballot, the senator wanted for such district; and in this manner all such vacancies shall be
+filled up in every district of the State; and in like manner all the vacancies in the senate arising by
+death, removal out of the State, or otherwise, shall be supplied, as soon as may be, after such
+vacancies happen.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 035.0 002.0 0 NH 1792 ***
+   [Art.] 35. The senate shall be final judges of the elections, returns, and qualifications of their
+own members, as pointed out in this constitution.
+*** SEND ***
+*** SSTART 036.0 002.0 0 NH 1792 ***
+     [Art.] 36. The senate shall have power to adjourn themselves, provided such adjournment do
+not exceed two days at a time.  Provided, nevertheless, That whenever they shall sit on the trial of
+any impeachment, they may adjourn to such time and place as they may think proper, although the
+legislautre be not assembled on such day or at such place.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 037.0 002.0 0 NH 1792 ***
+     [Art.] 37.  The senate shall appoint their own president and other officers, and determine their
+own rules of proceedings. And not less than seven members of the senate shall make a quorum for
+doing business; and when less than eight senators shall be present, the assent of five at least shall
+be necessary to render their acts and proceedings valid.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 038.0 002.0 0 NH 1792 ***
+     [Art.] 38. The senate shall be a court with full power and authority to hear, try, and
+determine all impeachments made by the house of representatives, against any officer or officers
+of the State, for bribery, corruption, malpractice, or maladministration in office, with full power to
+issue summons or compulsory process, convening with witnesses before them; but previous to the
+trial of any such impeachment, the members of the senate shall respectively be sworn, truly and
+impartially to try and determine the charge in question according to evidence.  And every officer
+impeached for bribery, corruption, malpractice, or maladministration in office shall be served with
+an attested copy of the impeachment and order of the senate thereon, with such citation as the
+senate may direct, setting forth the time and place of thier sitting to try the impeachment; which
+service may be made by the sheriff, or such other sworn officer as the senate may appoint, at least
+fourteen days previous to the time of trail; and such citation being duly served and returned, the
+senate may proceed in the hearing of the impeachment, giving the person impeached, if he shall
+appear, full liberty of producing witnesses and proofs, and of making his defence by himself and
+counsel; and may also, upon his refusing or neglecting to appear, hear the proofs in support of the
+impeachment and render judgment thereon, his non-appearance notwithstanding; and such
+judgment shall have the same force and efect as if the person impeached had appeared and
+pleaded in the trial. 
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 039.0 002.0 0 NH 1792 ***
+     [Art.] 39. Their judgment, however, shall not extend farther than removal from office,
+disqualification to hold or enjoy any place of honor, trust or profit under this state; but the party
+so convicted, shall nevertheless be liable to indictment, trial, judgment, and punishment, according
+to laws of the land.
+*** SEND ***
+*** SSTART 040.0 002.0 0 NH 1792 ***
+     [Art.] 40. Whenever the governor shall be inpeached, the chief justice of the supreme judicial
+court shall, during the trial, preside in the senate but have no vote therein.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 041.0 002.0 0 NH 1792 ***
+
+EXECUTIVE POWER
+
+Governor
+
+     [Art.] 41. There shall be a supreme executive magistrate, who shall be stiled, governor of
+the State of New Hampshire; and whose title shall be His Excellency.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 042.0 002.0 0 NH 1792 ***
+     [Art.] 42. The governor shall be chosen annually in the month of March; and the votes for
+governor shall be received, sorted, counted, certified, and returned in the same manner as the
+votes for senators; and the secretary shall lay the same before the senate and house of
+representatives on the first Wednesday of June, to be by them examined; and in case of an election
+by a majority of votes through the State, the choice shall be by them declared and published.  And
+the qualifications of electors of the governor shall be the same as those for senators; and if no
+person shall have a majority of votes, the senate and house of representatives shall, by joint ballot,
+elect on of the two persons having the highest number of votes, who shall be declared governor. 
+And no person shall be eligible to this office, unless at the time of his election, he shall have been
+an inhabitant of this state for seven years next preceding, and unless he shall be of the age of thirty
+years; and unless he shall at the same time, have an estate of the value of flve hundred pounds,
+one half of which shall consist of a freehold, in his own right, within the state; and unless he shall
+be of the Protestant religion.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 043.0 002.0 0 NH 1792 ***
+     [Art.] 43. In cases of disagreement between the two houses, with regard to the time or
+place of adjournment, or prorogation the governor, with advice of council, shall have a right to
+adjourn or prorogue the general court, not exceeding ninety days, at any one time, as he may
+determine the public good may require. And he shall dissolve the same seven days before the said
+first Wednesday of June. And in case of any infectious distemper prevailing in the place where the
+said court at any time is to convene, or any other cause whereby dangers may arise to the healths
+or lives of the members from their attendance, the president may direct the session to be holden at
+some other, the most convenient place within the State.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 044.0 002.0 0 NH 1792 ***
+
+     [Art.] 44.  Every bill which shall have passed both houses of the general court, shall, before it
+becomes a law, be presented to the governor, if he approves, he shall sign it, but if not, he shall
+return it, with his objections, to that house in which it shall have originated, who shall enter the
+objections at large on their journal, and proceed to reconsider it; if after such reconsideration,
+two-thirds of that house shall agree to pass the bill, it shall be sent, together with such objections,
+to the other house, by which it shall likewise be reconsidered, and, if approved by two-thirds of
+that house, it shall become a law.  But in all such cases the votes of both houses shall be
+determined by yeas and nays, and the names of persons, voting for or against the bill, shall be
+entered on the journal of each house respectively.  If any bill shall not be returned by the governor
+within five days (Sundays excepted) after it shall have been presented to him, the same shall be a
+law in like manner as if he had signed it unless the legislature, by their adjournment, prevent its
+return, in which case it shall not be a law. 
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 045.0 002.0 0 NH 1792 ***
+   [Art.] 45. Every resolve shall be presented to the governor, and before the same shall take
+effect, shall be approved by him, or being disapproved by him, shall be repassed by the senate and
+house of representatives, according to the rules and limitations prescribed in the case of a bill.
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 046.0 002.0 0 NH 1792 ***
+     [Art.] 46. All judicial officers, the attorney-general, solicitors, all sheriffs, coroners, registers of
+probate, and all officers of the navy, and general and field-officers of the militia shall be nominated
+and appointed by the governor and council; and every such nomination shall be made at least three
+days prior to such appointment; and no appointment shall take place, unless a majority of the
+council agree thereto. 
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 047.0 002.0 0 NH 1792 ***
+
+     [Art.] 47. The governor and council shall have a negative on each other, both in the
+nominations and appointments.  Every nomination and appointment shall be signed by the
+governor and council, and every negative shall be also signed by the governor or council who
+made the same.
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 048.0 002.0 0 NH 1792 ***
+     [Art.] 48. The captains and subalterns in the respective regiments shall be nominated and
+recommended by the field officers to the governor, who is to issue their commissions immediately
+on receipt of such recommendation.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 049.0 002.0 0 NH 1792 ***
+     [Art.] 49. Whenever the chair of the governor shall become vacant, by reason of his death,
+absence from the state, or otherwise, the president of the senate shall, during such vacancy, have
+and exercise all the powers and authorities which by this constitution the governor is vested with
+when personally present; but when the president of the senate shall exercise the office of governor
+he shall not hold his office in the senate.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 050.0 002.0 0 NH 1792 ***
+     [Art.] 50.  The governor, with advice of council, shall have full power and authority, in the
+recess of the general court, to prorogue the same from time to time, not exceeding ninety days, in
+any one recess of said court; and during the sessions of said court, to adjourn or prorogue it to
+any time the two houses may desire, and to call it together sooner than the time to which it may
+be adjourned, or prorogued, if the welfare of the state should require the same.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 051.0 002.0 0 NH 1792 ***
+     [Art.] 51. The governor of this state for the time being, shall be commander in chief of the
+army and navy, and all the military forces of the state, by sea and land; and shall have full power
+by himself, or by any chief commander, or other officer, or officers, from time to time, to train,
+instruct, exercise and govern the militia and navy; and for the special defence and safety of this
+state to assemble in martial array, and put in warlike posture, the inhabitants thereof, and to lead
+and conduct them, and with them to encounter, expulse, repel, resist and pursue by force of arms,
+as well by sea as by land, within and without the limits of this state; and also to kill slay, destroy, if
+necessary, and conquer by all fitting ways, enterprize and means, all and every such person and
+persons as shall, at any time hereafter, in a hostile manner, attempt or enterprize the destruction,
+invasion, detriment, or annoyance of this state; and to use and exercise over the army and navy ,
+and over the militia in actual service, the law-martial in time of war, invasion, and also in
+rebellion, declared by the legislature to exist, as occasion shall necessarily require: and surprize by
+all ways and means whatsoever, all and every such person or persons, with their ships, arms,
+ammunition, and other goods, as shall in a hostile manner invade or attempt the invading,
+conquering, or annoying this state: and in fine, the governor hereby is entrusted with all other
+powers incident to the office of captain-general and commander in chief, and admiral, to be
+exercised agreeably to the rules and regulations of the constitution, and the laws of the land;
+Provided, That the governor shall not at any time hereafter, by virtue of any power by this
+constitution granted, or hereafter to be granted to him by the legislature, transport any of the
+inhabitants of this state, or oblige them to march out of the limits of the same, without their free
+and voluntary consent, or the consent of the general court, nor grant commissions for exercising
+the law-martial in any case, without the advice and consent of the council.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 052.0 002.0 0 NH 1792 ***
+     [Art.] 52. The power of pardoning offences, except such as persons may be convicted of
+before the senate by impeachment of the house, shall be in the governor by and with the advice of
+the council: but no charter of pardon granted by the governor with advice of council, before
+conviction, shall avail the party pleading the same, notwithstanding any general or particular
+expressions contained therein, descriptive of the offence or offences intended to be pardoned.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 053.0 002.0 0 NH 1792 ***
+     [Art.] 53. No officer, duly commissioned to command in the militia, shall be removed from
+his office, but by the address of both houses to the governor, or by fair trial in court-martial,
+pursuant to the laws of the state for the time being.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 054.0 002.0 0 NH 1792 ***
+     [Art.] 54. The commanding officers of the regiments shall appoint their adjutants and quarter-
+masters; the brigadiers their brigade-majors, the major-generals their aids; the captains and
+subalterns their noncommissioned officers.
+*** SEND ***
+*** SSTART 055.0 002.0 0 NH 1792 ***
+     [Art.] 55. The division of the militia into brigades, regiments and companies, made in
+pursuance of the militia laws now in force, shall be considered as the proper division of the militia
+of this state, until the same shall be altered by some future law. 
+*** SEND ***
+*** SSTART 056.0 002.0 0 NH 1792 ***
+   [Art.] 56.  No moneys shall be issued out of the treasury of this state, and disposed of, (except
+such sums as may be appropriated for the redemption of bills of credit, or treasurer's notes, or for
+the payment of interest arising thereon) but by warrant under the hand of the governor for the
+time being, by and with the advice and consent of the council, for the necessary support and
+defense of this state, and for the necessary protection and preservation of the inhabitants thereof,
+agreeably to the acts and resolves of the general court. 
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 057.0 002.0 0 NH 1792 ***
+   [Art.] 57. All public boards, the commissary-general, all superintending officers of public
+magazines and stores, belonging to this state, and all commanding officers of forts and garrisons
+within the same, shall once in every three months, officially, and without requisition, and at other
+times, when required by the governor, deliver to him an account of all goods, stores, provisions,
+ammunition, cannon, with their appendages, and small arms, with their accoutrements, and of all
+other public property under their care respectively; distinguishing the quantity, and kind of each,
+as particularly as may be; together with the condition of such forts an garrisons: and the
+commanding officer shall exhibit to the governor, when required by him, true and exact plans of
+such forts, and of the land and sea, or harbour or harhours adjacent. 
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 058.0 002.0 0 NH 1792 ***
+     [Art.] 58. The president and council shall be compensated for their services from time to
+time by such grants as the general court shall think reasonable.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 059.0 002.0 0 NH 1792 ***
+     [Art.] 59. Permanent and honorable salaries shall be established by law for the justices of
+the superior court.
+*** SEND ***
+*** SSTART 060.0 002.0 0 NH 1792 ***
+
+     COUNCIL
+
+     [Art.] 60. There shall be annually by ballot five councillors, for advising the governor in
+the executive part of government.  The freeholders and other inhabitants of each country,
+qualified to vote for senators, shall, some time in the month of March, give in thier votes for one
+councillor; which votes shall be received, sorted, counted, certified, and returned to the
+secretary's office, in the same manner as the votes for senators, to be by the secretary laid before
+the seante and house of representatives on the first Wendesday of June.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 061.0 002.0 0 NH 1792 ***
+     [Art.] 6l.  And the person having a majority of votes in any county, shall be considered as duly
+elected a councilor: But if no person shall have a majority of votes in any county, the senate and
+house of representatives shall take the names of the two persons who have the highest number of
+votes in each county, and not elected, and out of those two shall elect by joint ballot, the
+councilor wanted for such county, and the qualifications for councilors shall be the same as for
+senator.
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 062.0 002.0 0 NH 1792 ***
+   [Art.] 62.  If any person thus chosen a councilor, shall be elected governor or member of either
+branch of the legislature, and shall accept the trust; or if any person elected a councilor, shall
+refuse to accept the office, or in case of the death, resignation, or removal of any councilor out of
+the state, the governor may issue a precept for the election of a new councilor in that county
+where such vacancy shall happen and the choice shall be in the same manner as before directed.
+And the governor shall have full power and authority to convene the council, from time to time, at
+his discretion; and, with them, or the majority of them, may and shall, from time to time hold a
+council, for ordering and directing the affairs of the state, according to the laws of the land.
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 063.0 002.0 0 NH 1792 ***
+       [Art.] 63.  The members of the council may be impeached by the house, and tried by the
+senate for bribery, corruption, malpractice, or maladministration. 
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 064.0 002.0 0 NH 1792 ***
+   [Art.] 64.  The resolutions and advice of the council shall be recorded by the secretary, in a
+register, and signed by all members present agreeing thereto; and this record may be called for at
+any time, by either house of the legislature; and any member of the council may enter his opinion
+contrary to the resolutions of the majority, with the reasons for such opinion.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 065.0 002.0 0 NH 1792 ***
+     [Art.] 65. The legislature may, if the public good shall hereafter require it, divide the State into
+five districts, as nearly equal as may be, governing themselves by the number of ratable polls and
+proportion of public taxes; each district to elect a councillor; and in case of such division, the
+manner of the choice shall be comfortable to the present mode of election in the countries.
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 066.0 002.0 0 NH 1792 ***
+     [Art.] 66.   And Whereas, The elections appointed to be made by this constitution on the first
+Wednesday of June, annually, by the two houses of the legislautre, may not be completed on that
+day, the said elections may be adjourned from day to day until the same be completed.  And the
+order of the elections shall be as follows: the vacancies of the senate, if any, shall be first filled up;
+the governor shall then be electd, provided there should be no choice of him by the people; and
+afterward the two houses shall proceed to fill up the vacancy, if any, in the council.  
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 067.0 002.0 0 NH 1792 ***
+
+SECRETARY, TREASURER, COMMISSARY-GENERAL, &C
+
+     [Art.] 67. The Secretary, treasurer, and commissary-general, shall be chosen by joint ballot
+of the senators and representatives assembled in one room.
+*** SEND ***
+*** SSTART 068.0 002.0 0 NH 1792 ***
+     [Art.] 68. The records of the state shall be kept in the office of the secretary, and he shall
+attend the governor and council, the senate and representaties, in person or by deputy, and they
+may require
+who may appoint his deputies, for whose conduct he shall be answerable, and he shall attend the
+president and council, the senate and representatives, in person or by deputy, as they may require.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 069.0 002.0 0 NH 1792 ***
+     [Art.] 69. The secretary of state shall at all times have a deputy, to be by him appointed, for
+whose conduct in office he shall be responsible; and in case of the death, removal, or inability of
+the secretary, his deputy shall exercise all the duties of the office of seretary of their state until
+another shall be appointed. 
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 070.0 002.0 0 NH 1792 ***
+
+     [Art.] 70.  The secretary, before he enters upon the business of his office, shall give bond, with
+sufficient sureties, in a reasonable sum, for the use of the state, for the punctual performance of
+his trust.
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 071.0 002.0 0 NH 1792 ***
+                    COUNTY-TREASURER, &C
+
+     [Art.] 71. The county treasurers and registers of deeds shall be elected by the
+inhabitants of the several towns, in the several counties in the State, according to the
+method now practiced, and the present laws of the State:  
+     Provided, nevertheless, The legislature shall have authority to alter the manner of certifying
+the votes and the mode of electing those officers, but not so as to deprive the people of the right
+they now have electing them.  
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 072.0 002.0 0 NH 1792 ***
+     [Art.] 72. And the legislature, on the application of the major part of the inhabitants of any
+country, shall have authority to divide the same into two districts for registering deeds, if to them
+it shall appear necessary; each district to elect a register of deeds; and before they enter upon the
+business of their offices, shall be respectively sworn faithfully to discharge the duties thereof, and
+shall severally give bond with sufficient sureties, in a reasonable sum, for the use of the county,
+for the punctual performance of their respective trusts.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 073.0 002.0 0 NH 1792 ***
+                
+                     JUDICIARY POWER
+
+     [Art.] 73. The tenure, that all commission officers shall have by law in their offices, shall
+be expressed in their respective commissions. All judicial officers, duly appointed, commissioned
+and sworn, shall hold their offices during good behaviour, excepting those concerning whom there
+is a different provision made in this constitution: Provided nevertheless, the governor, with
+consent of council, may remove them upon the address of both houses of the legislature.
+[Amended by Constitutional Convention, 1792.  "President" was changed to "governor" by the
+convention, but the first authorized constitution failed to reflect this change.  Subsequent printed
+editions referred to the execuitve as the "governor."]
+*** SEND ***
+*** SSTART 074.0 002.0 0 NH 1792 ***
+     [Art.] 74. Each branch of the legislature, as well as the governor and council, shall have
+authority to require the opinions of the justices of the superior court upon important questions of
+law, and upon solemn occasions.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 075.0 002.0 0 NH 1792 ***
+     [Art.] 75. In order that the people may not suffer from the long continuance in
+place of any justice of the peace, who shall fail in discharging the important duties of his
+office with ability and fidelity, all commissions of justices of the peace shall become void,
+at the expiration of five years from their respective dates; and upon the expiration of any
+commission, the same may, if necessary , appointed, as shall most conduce to the well-
+being of the State.  
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 076.0 002.0 0 NH 1792 ***
+     [Art.] 76. All causes of marriage, divorce and alimony, and all appeals from the respective
+judges of probate, shall be heard and tried by the superior court, until the legislature shall, by law
+make other provision.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 077.0 002.0 0 NH 1792 ***
+     [Art.] 77. The general court are empowered to give to justices of the peace jurisdiction in civil
+cases when the damages demanded shall not exceed four pounds, and title of real estate is not
+concerned; but with right of appeal to either party to some other court, so that a trial jury, in the
+last resort, may be had.
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 078.0 002.0 0 NH 1792 ***
+   [Art.] 78.  No person shall hold the office of judge of any court, or judge of probate, or sheriff
+of any county, after he has attained the age of seventy years.
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 079.0 002.0 0 NH 1792 ***
+   [Art.] 79.   No judge of any court, or justice of the peace, shall act as attorney, or be of counsel,
+to any party, or originate any civil suit, in matters which shall come or be brought before him as
+judge, or justice of the peace.
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 080.0 002.0 0 NH 1792 ***
+   [Art.] 80.  All matters relating to the probate of wills, and granting letters of administration,
+shall be exercised by the judges of probate, in such manner as the legislature have directed, or may
+hereafter direct: And the judges of probate shall hold their courts at such place or places, on such
+fixed days, as the conveniency of the people may require; and the legislature from time to time
+appoint.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 081.0 002.0 0 NH 1792 ***
+   [Art.] 8l.  No judge, or register of probate, shall be of counsel, act as advocate, or receive any
+fees as advocate or counsel, in any probate business which is pending, or may be brought into any
+court of probate in the county of which he is judge or register.
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 082.0 002.0 0 NH 1792 ***
+
+CLERKS OF COURTS
+
+   [Art.] 82.  The judges of the courts (those of probate excepted) shall appoint their respective
+clerks to hold their office during pleasure: And no such clerk shall act as an attorney or be of
+counsel in any cause in the court of which he is clerk, nor shall he draw any writ originating a civil
+action.
+[Added by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 083.0 002.0 0 NH 1792 ***
+
+
+          ENCOURAGEMENT OF LITERATURE, &C
+          
+     [Art.] 83.  KNOWLEDGE, and learning, generally diffused through a community, being
+essential to the preservation of a free government; and spreading the opportunities and advantages
+of education through the various parts of the country, being highly conducive to promote this end,
+it shall be the duty of the legislators and the magistrates, in all future periods of this government
+to cherish the interest of literature and the sciences, and all seminaries and public schools, to
+encourage private and public institutions, rewards and immunities for the promotion of
+agriculture, arts, sciences, commerce, trades, manufactures and natural history of the country; to
+countenance and inculcate the principles of humanity and general benevolence, public and private
+charity, industry and economy, honesty and punctuality, sincerity, sobriety, and all social
+affections and generous sentiments, among the people.
+          *** SEND ***
+          *** SSTART 084.0 002.0 0 NH 1792 ***
+ OATH AND SUBSCRIPTIONS; EXCLUSION FROM OFFICES; COMMISSIONS; WRITS;
+ CONFIRMATION OF LAWS; HABEAS CORPUS; THE ENACTING STILE;
+ CONTINUANCE OF OFFICERS; PROVISION FOR A FUTURE REVISION OF THE
+ CONSTITUTION, ETC
+
+     [Art.] 84. Any person chosen governor, counsellor, senator, or representative, military or
+civil officer (town officers excepted,) accepting the trust, shall, before he proceeds to execute the
+duties of his office, make and subscribe the following declaration, viz.
+     "I, A. B., do solemnly swear that I will bear faith and true allegiance to the State of New
+Hampshire, and will support the consittution thereof.  So help me God.    "I, A. B. do solemnly
+and sincerely swear and affirm, that I will faithfully and impartially discharge and perform all the
+duties incumbent on me as -------, according to the best of my abilities, agreeably to the rules and
+regulations of this constitution, and the laws of the state of New Hampshire.  So help me God."
+     Any person having taken and subscribed the oath of allegiance, and the same being filed in
+the secretary's office, he shall not be obliged to said oath again:
+     Provided always, When any person chosen or appointed as aforesaid, shall be of the
+denomination called Quakers, or shall be scrupulous of swearing, and shall decline taking the said
+oaths, such shall take and subscribe them omitting the word "swear," and likewise the words "So
+help me God," subjoined instead thereof, "This I do under the pains and penalties of perjury."
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 085.0 002.0 0 NH 1792 ***
+     [Art.] 85. And the oaths or affirmations shall be taken and subscribed by the governor
+before the president of the senate, in the presence of the legislature, and by the senate and
+representatives first elected under this constitution as altered and amended, before the president of
+the State and a majority of the council then in office, and forever afterword before the governor
+and council for the time being; and by all other officers before such persons and in such manner as
+the legislature shall from time to time appoint.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 086.0 002.0 0 NH 1792 ***
+     [Art.] 86.  All commissions shall be in the name of the state of New Hampshire, signed by the
+governor, and attested by the secretary, or his deputy, and shall have the great seal of the state
+affixed thereto.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 087.0 002.0 0 NH 1792 ***
+
+  [Art.] 87.  All writs issuing out of the clerk's office in any of the courts of law, shall be in the
+name of the state of New Hampshire; shall be under the seal of the court whence they issue, and
+bear test of the chief, first, or senior justice of the court; but when such justice shall be interested,
+then the writ shall bear test of some other justice of the court, to which the same shall be
+returnable; and be signed by the clerk of such court.
+*** SEND ***
+*** SSTART 088.0 002.0 0 NH 1792 ***
+   [Art.] 88.  All indictments, presentments, and informations, shall conclude, "against the peace
+and dignity of the state."
+June 2, l784
+*** SEND ***
+*** SSTART 089.0 002.0 0 NH 1792 ***
+   [Art.] 89.  The estates of such persons as may destroy their own lives, shall not for that offense
+be forfeited, but descend or ascend in the same manner, as if such persons had died in a natural
+way.  Nor shall any article, which shall accidentally occasion the death of any person, be
+henceforth deemed a deodand, or in any wise forfeited on account of such misfortune.
+*** SEND ***
+*** SSTART 090.0 002.0 0 NH 1792 ***
+   [Art.] 90.  All the laws which have heretofore been adopted, used, and approved, in the
+province, colony, or state of New Hampshire, and usually practiced on in the courts of law, shall
+remain and be in full force, until altered and repealed by the legislature; such parts thereof only
+excepted, as are repugnant to the rights and liberties contained in this constitution: Provided that
+nothing herein contained, when compared with the twenty-third article in the bill of rights, shall be
+construed to affect the laws already made respecting the persons, or estates of absentees.
+*** SEND ***
+*** SSTART 091.0 002.0 0 NH 1792 ***
+   [Art.] 9l.  The privilege and benefit of the habeas corpus, shall be enjoyed in this state, in the
+most free, easy, cheap, expeditious, and ample manner, and shall not be suspended by the
+legislature, except upon most urgent and pressing occasions, and for a time not exceeding three
+months.
+*** SEND ***
+*** SSTART 092.0 002.0 0 NH 1792 ***
+   [Art.] 92.  The enacting style in making and passing acts, statutes, and laws, shall be, Be it
+enacted by the Senate and House of Representatives in General Court convened.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 093.0 002.0 0 NH 1792 ***
+   [Art.] 93.  No governor, or judge of the supreme judicial court, shall hold any office or place
+under the authority of this state, except such as by this constitution they are admitted to hold,
+saving that the judges of the said court may hold the offices of justice of the peace throughout the
+state; nor shall they hold any place or office, or receive any pension or salary, from any other
+state, government, or power, whatever.
+[Amended by Constitutional Convention, 1792. The engrossed copy of 1792, apparently
+without authority, also changed "superior court" to "supreme judicial court." ]
+*** SEND ***
+*** SSTART 094.0 002.0 0 NH 1792 ***
+   [Art.] 94.  No person shall be capable of exercising, at the same time more than one of the
+following offices within this state, viz. judge of probate, sheriff, register of deeds; and never more
+than two offices of profit, which may be held by appointment of the governor, or governor and
+council, or senate and house of representatives, or superior or inferior courts; military offices, and
+offices of justice of the peace excepted.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 095.0 002.0 0 NH 1792 ***
+     [Art.] 95.  No person holding the office of judge of any court, except special judges, secretary,
+treasurer of the State, attorney general, commissary-general, military officer receiving pay from
+the continent or this State, excepting officers of the militia, occasionally called forth on an
+emergency, register of deeds, sheriff, or officers of the customs, including naval officers,
+collectors of excise and State and continental taxes, hereafter appointed, and not having settled
+thier accounts with the respective officers with whom it is thier duty to settle such accounts,
+members of Congress, or any person holding any office under the United States, shall at the same
+time hold the office of governor, or have a seat in the seante, or house of representatives, or
+council; but his being chosen and appointed to and accepting the same shall operate as a
+resignation of thier seat in the chair, senate, or house of represenatives, or council, and the place
+so vacated senate, or house of representatives, or council, and the place so vacated shall be filled
+up.  No member of the council shall have a seat in the seante or house of representatives.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 096.0 002.0 0 NH 1792 ***
+     [Art.] 96. No person shall ever be admitted to hold a seat in the legislature, or any office
+of trust or importance under this government, who in the due course of law, has been convicted of
+bribery or corruption, in obtaining an election or appointment.
+*** SEND ***
+*** SSTART 097.0 002.0 0 NH 1792 ***
+     [Art.] 97. In all cases where sums of money are mentioned in this constitution, the value
+thereof shall be computed in silver, at six shillings and eight pence per ounce.
+*** SEND ***
+*** SSTART 098.0 002.0 0 NH 1792 ***
+   [Art.] 98.  To the end that there may be no failure of justice, or danger to the state, by the
+alterations and amendments made in the constitution, the general court is hereby fully authorized
+and directed to fix the time when the alterations and amendments shall take effect, and make the
+necessary arrangements accordingly.
+[Amended by Constitutional Convention, 1792]
+*** SEND ***
+*** SSTART 099.0 002.0 0 NH 1792 ***
+     [Art.] 99. It shall be the duty of the selectmen and assessors of the several towns and places in
+this State, in warning the first annual meetings for the choice of senators, after the expiration of
+seven years from the adoption of this constitution as amended, to insert expressly in the warrant
+this purpose among others for the meeting, to wit: to take the sense of the qualified voters on the
+subject of a revision of the constitution; and the meeting being warned accordingly, and not
+otherwise, the moderator shall take the sense of the qualified voters present as to the necessity of
+a revision; and a return of the number of votes for and against such necessity shall be made by the
+clerk, sealed up, and directed to the general court at their then next session; and if it shall appear
+to the general court, by such return, that the sense of the people of the State has been taken, and
+that, in the opinion of the majority of the qualified voters in the State, present and voting at the
+said meetings, there is a necessity for a revision of the constitution, it shall be the duty of the
+general court to call a convention for that purpose; otherwise the general court shall direct the
+sense of the people to be taken, and then proceed in the manner before mentioned; the delegates
+to be chosen in the manner before mentioned; the delegates to be chosen in the same manner and
+proportioned as the representatives to the general court: Provided, That no alternatives shall be
+made in this constitution before the same shall be laid before the towns and unincorporated places,
+and approved by two-thirds of the qualified votes present and voting on the subject.
+
+[Amended by Constitutional Convention, 1792]
+
+*** SEND ***
+
+*** SSTART 100.0 002.0 0 NH 1792 ***
+
+     [Art.] 100. And the same method of taking the sense of the people as to the revision of the
+constitution, and calling a convention for that purpose, shall be observed afterward, at the
+expiration of every seven years.
+
+[Added by Constitutional Convention, 1792]
+
+*** SEND ***
+*** SSTART 101.0 002.0 0 NH 1792 ***
+
+     [Art.] 101. This form of government shall be enrolled on parchment, and deposited in the
+secretary's office, and be a part of the laws of the land, and printed copies thereof shall be prefixed
+to the books containing the laws of this state, in all future editions thereof.
+*** SEND ***
+*** AEND ***
+*** ASTART 9016.0 NH 1792 ***
+                         John Pickering, President pro tem.
+     John Calfe, Secretary
+
+                                   IN CONVENTION
+               Held at Concord the Fifth Day of September,
+                                        Anno Domini 1792.
+
+     The returns, from the several towns and unincorporated places being examined, and it
+appearing that the foregoing Bill of Rights and Form of Government, as amended by the
+convention, were approved by more than two-thirds of the qualified voters present in town
+meetings, and voting upon the question, the same are agreed on and established by the delgates of
+the people in the convention, and declared to be the civil contsitution of the State of New
+Hampshire.
+                         Samuel Livermore, President
+     John Calfe, Secretary
+
+*** AEND ***
+
+*** MSTART 001 014.0 002.0 0 NH 1792 1852 ***
+
+     [Art.] 14.  Every member of the house of representatives shall be chosen by ballot; and for two
+years at least next preceding his election, shall have been an inhabitant of this state; shall be at the
+time of his election, an inhabitant of the town, parish, or place he may be chosen to represent;
+shall be of the protestant religion, and shall cease to represent such town, parish, or place
+immediately on his ceasing to be qualified as aforesaid.
+[Amended by Constitutional convention, 1850.  Ratified April 17, 1852].
+*** MEND ***
+*** MSTART 002 029.0 002.0 0 NH 1792 1852 ***
+
+     [Art.] 29.  Provided nevertheless, That no person shall be capable of being elected a
+senator, who is not of the protestant religion, who is not of the age of thirty years, and who shall
+not have been an inhabitant of this state for seven years immediately preceding his election; and at
+the time thereof he shall be an inhabitant of the district for which he shall be chosen.
+[Amended by Constitutional convention, 1850.  Ratified April 17, 1852].
+*** MEND ***
+*** MSTART 003 042.0 002.0 0 NH 1792 1852 ***
+
+     [Art.] 42. The governor shall be chosen annually in the month of March; and the votes for
+governor shall be received, sorted, counted, certified, and returned in the same manner as the
+votes for senators; and the secretary shall lay the same before the senate and house of
+representatives on the first Wednesday of June, to be by them examined; and in case of an election
+by a majority of votes through the State, the choice shall be by them declared and published.  And
+the qualifications of electors of the governor shall be the same as those for senators; and if no
+person shall have a majority of votes, the senate and house of representatives shall, by joint ballot,
+elect on of the two persons having the highest number of votes, who shall be declared governor. 
+And no person shall be eligible to this office, unless at the time of his election, he shall have been
+an inhabitant of this state for seven years next preceding, and unless he shall be of the age of thirty
+years; and unless he shall be of the Protestant religion.
+[Amended by Constitutional convention, 1850.  Ratified April 17, 1852].
+*** MEND ***
+*** MSTART 004 020.0 001.0 0 NH 1792 1877 ***
+     XX.  In all controversies concerning property, and in all suits between two or more persons,
+except in cases in which it has been heretofore otherwise used and practiced, and except in cases
+in which the value in controversy does not exceed one hundred dollars and title to? real estate is
+not concerned, the parties have a right to a trial by jury; and this method of procedure shall be
+held sacred, unless in causes arising on the high seas, and such as relate to mariners wages, the
+legislature shall think it necessary hereafter to alter it.
+*** MEND ***
+*** MSTART 005 003.0 002.0 0 NH 1792 1877 ***
+    [Art.] 3. The senate and house, shall assemble biennieally on the first Wednesday of June, and
+at such other times as they may judge necessary; and shall dissolve, and be dissolved, seven days
+next preceding the said first Wednesday of June; and shall be stiled THE GENERAL COURT OF
+NEW-HAMPSHIRE.
+*** MEND ***
+*** MSTART 006 005.0 002.0 0 NH 1792 1877 ***
+   [Art.] 5. And farther, full power and authority are hereby given and granted to the said general
+court, from time to time, to make, ordain, and establish, all manner of wholesome and reasonable
+orders, laws, statutes, ordinances, directions and instructions, either with penalties or without, so
+as the same be not repugnant, or contrary to this constitution, as they may judge for the benefit
+and welfare of this State, and for the governing and ordering thereof, and of the subjects of the
+same, for the necessary support and defence of the government thereof; and to name and settle
+biennially, or provide by fixed laws for the naming, and settling all civil officers within this State;
+such officers excepted the election and appointment of whom, are hereafter in this form of
+government otherwise provided for; and to set forth the several duties, powers and limits, of the
+several civil and military officers of this State, and the forms of such oaths or affirmations, as shall
+be respectively administered unto them for the execution of their several offices and places, so as
+the same be not repugnant or contrary to this constitution; and also to impose fines, mulcts,
+imprisonments, and other punishments; and to impose and levy proportional and reasonable
+assessments, rates and taxes, upon all the inhabitants of, and residents within the said state; and
+upon all estates within the same; to be issued and disposed of by warrant under the hand of the
+governor of this state for the time being, with the advice and consent of the council, for the public
+service, in the necessary defence and support of the government of this state, and the protection
+and preservation of the subjects thereof, according to such acts as are, or shall be in force within
+the same; provided, that the general court shall not authorize any town to loan or give its money
+or credit, directly or indirectly, for the benefit of any corporation having for its object a divided of
+profits, or in any way aid the same by taking its stock or bonds.
+*** MEND ***
+*** MSTART 007 009.0 002.0 0 NH 1792 1877 ***
+
+     [Art.] 9.  There shall be in the legislature of the State a representation of the people, biennially
+elected, and founded upon the principles of equality; and in order that such representation may be
+as equal as circumstances will admit, every town or place entitled to town privileges, and wards of
+cities having six hundred inhabitants by the last general census of the State, taken by authority of
+the United States or of this State, may elect one representative; if eighteen hundred such
+inhabitants, may elect two representatives; and so proceeding in that proportion, making twelve
+hundred such inhabitants the mean increasing number for any additional representative: Provided,
+that no town shall be divided, or the boundaries of the wars of ay city so altered, as to increase the
+number of representatives to which any town or city may be entitled by the next preceding census:
+And provided further, That to those towns and cities which sice the last census have been divided,
+or had their boundaries or ward lines changed, the general court, in session next before these
+amendments shall take effect, shall equitably apportion representation in such manner that the
+number shall not be greater than it would have been had no such division or alteration been made.
+*** MEND ***
+*** MSTART 008 010.0 002.0 0 NH 1792 1877 ***
+
+     [Art.] 10. Such towns, places, and wards as ahve less than six hundred inhabitants shall be
+classed by the general court for the purpose of choosing a representative, so that every such class
+shall contain at least six hundred inhabitants, and be seasonably notified thereof; and in every such
+class the first meeting shall be held in the town, place, or ward wherein most of the inhabitants
+reside, and afterwards in that which has the next highest number, and so on, biennially, in rotation
+through the several towns, places and wards forming the district.
+*** MEND ***
+*** MSTART 009 011.0 002.0 0 NH 1792 1877 ***
+     [Art.] 11.  Whenever any town, place, or city ward shall have less than six hundred such
+inhabitants, and be so situated that it cannot conveniently be classed with any other town, place,
+or ward, the General Court may authorize such town, place, or ward to elect and send to the
+Gerneral Court such proportionate part of the time as the number of its inhabitants shall bear to
+six hundred; but the general court shall not authorize any town, place, or ward to elect and send
+such representative, except as herein provided.
+*** MEND ***
+*** MSTART 010 012.0 002.0 0 NH 1792 1877 ***
+     [Art.] 12.  The members of the house of representatives shall be chosen biennially in the
+month of November, and shall be the second branch of the legislature.
+*** MEND ***
+*** MSTART 011 014.0 002.0 0 NH 1792 1877 ***
+     [Art.] 14.  Every member of the house of representatives shall be chosen by ballot; and for two
+years at least next preceding his election, shall have been an inhabitant of this state; shall be at the
+time of his election, an inhabitant of the town, parish, or place he may be chosen to represent; and
+shall cease to represent such town, parish, or place immediately on his ceasing to be qualified as
+aforesaid.
+*** MEND ***
+*** MSTART 012 016.0 002.0 0 NH 1792 1877 ***
+     [Art.] 16.  All intermediate vacancies in the house of Representatives, may be filled up
+from time to time, in the same manner as biennial elections are made.
+*** MEND ***
+*** MSTART 013 025.0 002.0 0 NH 1792 1877 ***
+   [Art.] 25. The Senate shall consist of twenty-four members, who shall hold their office for two
+years from the first Wednesday of June next ensuing their election.
+*** MEND ***
+*** MSTART 014 026.0 002.0 0 NH 1792 1877 ***
+     [Art.] 26.  And that the State may be equally represented in the senate, the legislature shall,
+from time to time, divide the State into twenty-four districts, as nearly equal as may be, without
+dividing towns and unincorporated places; and in making this division they shall govern
+themselves by the proportion of direct taxes paid by the said district; and timely make known to
+the inhabitants of the State the limits of each district.
+*** MEND ***
+*** MSTART 015 027.0 002.0 0 NH 1792 1877 ***
+     [Art.] 27. The freeholders and other inhabitants of each district, qualified as in this constitution
+is provided, shall biennially give in thier votes for a senator, at some meeting holden in the month
+of November.
+*** MEND ***
+*** MSTART 016 028.0 002.0 0 NH 1792 1877 ***
+    [Art.] 28.  The senate shall be the first branch of the legislature, and the senators shall be
+chosen in the following manner, viz: every male inhabitant of each town and parish with town
+privileges, and places unincorporated, in this State, of twenty-one years of age and upward,
+excepting paupers and persons excused from paying taxes at thier own request, shall have a right,
+at the biennial or other meeting of the inhabitants of said towns and parishes, to be duly warned
+and holden biennially forever in the month of November, to vote in the town or parish wherein he
+dwells, for the senators in the county or district where of he is a member.
+*** MEND ***
+*** MSTART 017 029.0 002.0 0 NH 1792 1877 ***
+     [Art.] 29.  Provided nevertheless, That no person shall be capable of being elected a
+senator, who is not of the age of thirty years, and who shall not have been an inhabitant of this
+state for seven years immediately preceding his election; and at the time thereof he shall be an
+inhabitant of the district for which he shall be chosen.
+*** MEND ***
+*** MSTART 018 031.0 002.0 0 NH 1792 1877 ***
+     [Art.] 31. And the inhabitants of plantations and places unincorporated, qualified as this
+constitution provides, who are or shall be required to assess taxes upon themselves towards the
+support of government, or shall be taxed therefor, shall have the same privilege of voting for
+senators in the plantations and places wherein they reside, as the inhabitants of the respective
+towns and parishes aforesaid have. And the meetings of such plantations and places for that
+purpose, shall be holden biennially in the month of November, at such places respectively therein,
+as the assessors thereof shall direct; which assessors shall have like authority for notifying the
+electors, collecting and returning the votes, as the selectmen and town-clerks have in their several
+towns by this constitution.
+*** MEND ***
+*** MSTART 019 033.0 002.0 0 NH 1792 1877 ***
+     [Art.] 33. And that there may be a due meeting of senators on the first Wednesday of June
+biennially, the governor and a majority of the council for the time being shall, as soon as may be,
+examine the return copies of such records, and fourteen days before the said first Wednesday of
+June, he shall issue his summons to such persons as appear to be chosen senators by a majority of
+votes, to attend and take their seats on that day: Provided, nevertheless,That for the first year the
+said returned copies shall be examined by the president  and the majority of the council then in
+office; and the said president shall in like manner notify the persons elected to attend and take
+their seats accordingly.
+*** MEND ***
+*** MSTART 020 037.0 002.0 0 NH 1792 1877 ***
+     [Art.] 37.  The senate shall appoint their own president and other officers, and determine their
+own rules of proceedings. And not less than thirteen members of the senate shall make a quorum
+for doing business; and when less than sixteen senators shall be present, the assent of ten at least
+shall be necessary to render their acts and proceedings valid.
+*** MEND ***
+*** MSTART 021 042.0 002.0 0 NH 1792 1877 ***
+     [Art.] 42. The governor shall be chosen biennially in the month of November; and the
+votes for governor shall be received, sorted, counted, certified, and returned in the same manner
+as the votes for senators; and the secretary shall lay the same before the senate and house of
+representatives on the first Wednesday of June, to be by them examined; and in case of an election
+by a majority of votes through the State, the choice shall be by them declared and published.  And
+the qualifications of electors of the governor shall be the same as those for senators; and if no
+person shall have a majority of votes, the senate and house of representatives shall, by joint ballot,
+elect on of the two persons having the highest number of votes, who shall be declared governor. 
+And no person shall be eligible to this office, unless at the time of his election, he shall have been
+an inhabitant of this state for seven years next preceding, and unless he shall be of the age of thirty
+years.
+*** MEND ***
+*** MSTART 022 046.0 002.0 0 NH 1792 1877 ***
+     [Art.] 46. All judicial officers, the attorney-general, coroners, registers of probate, and all
+officers of the navy, and general and field-officers of the militia shall be nominated and appointed
+by the governor and council; and every such nomination shall be made at least three days prior to
+such appointment; and no appointment shall take place, unless a majority of the council agree
+thereto. 
+*** MEND ***
+*** MSTART 023 060.0 002.0 0 NH 1792 1877 ***
+     [Art.] 60. There shall be biennially by ballot five councillors, for advising the governor in
+the executive part of government.  The freeholders and other inhabitants of each country,
+qualified to vote for senators, shall, some time in the month of November, give in thier votes for
+one councillor; which votes shall be received, sorted, counted, certified, and returned to the
+secretary's office, in the same manner as the votes for senators, to be by the secretary laid before
+the seante and house of representatives on the first Wendesday of June.
+*** MEND ***
+*** MSTART 024 066.0 002.0 0 NH 1792 1877 ***
+     [Art.] 66.   And Whereas, The elections appointed to be made by this constitution on the first
+Wednesday of June, biennially, by the two houses of the legislautre, may not be completed on that
+day, the said elections may be adjourned from day to day until the same be completed.  And the
+order of the elections shall be as follows: the vacancies of the senate, if any, shall be first filled up;
+the governor shall then be electd, provided there should be no choice of him by the people; and
+afterward the two houses shall proceed to fill up the vacancy, if any, in the council.  
+*** MEND ***
+*** MSTART 025 071.0 002.0 0 NH 1792 1877 ***
+                      COUNTY-TREASURER, &C
+
+ [Art.] 71. The county treasurers, registers of probate, solicitors, sheriffs,  and registers of deeds
+shall be elected by the inhabitants of the several towns, in the several counties in the State,
+according to the method now practiced, and the present laws of the State; Provided, nevertheless,
+The legislature shall have authority to alter the manner of certifying the votes and the mode of
+electing those officers, but not so as to deprive the people of the right they now have electing
+them.  
+*** MEND ***
+*** MSTART 026 077.0 002.0 0 NH 1792 1877 ***
+     [Art.] 77. The general court are empowered to give to justices of the peace jurisdiction in civil
+cases when the damages demanded shall not exceed one hundred dollars, and title of real estate is
+not concerned; but with right of appeal to either party to some other court.
+*** MEND ***
+*** MSTART 027 083.0 002.0 0 NH 1792 1877 ***
+
+           ENCOURAGEMENT OF LITERATURE, &C
+                           
+     [Art.] 83.  KNOWLEDGE, and learning, generally diffused through a community, being
+essential to the preservation of a free government; and spreading the opportunities and advantages
+of education through the various parts of the country, being highly conducive to promote this end,
+it shall be the duty of the legislators and the magistrates, in all future periods of this government
+to cherish the interest of literature and the sciences, and all seminaries and public schools, to
+encourage private and public institutions, rewards and immunities for the promotion of
+agriculture, arts, sciences, commerce, trades, manufactures and natural history of the country; to
+countenance and inculcate the principles of humanity and general benevolence, public and private
+charity, industry and economy, honesty and punctuality, sincerity, sobriety, and all social
+affections and generous sentiments, among the people.  Provided nevertheless, that no money
+raised by taxation shall ever be granted or applied for the use of schools or institutions of any
+religious sect or denomination.
+*** MEND ***
+*** MSTART 028 003.0 002.0 0 NH 1792 1889 ***
+    [Art.] 3. The Senate and House, shall assemble biennieally on the first Wednesday of January,
+and at such other times as they may judge necessary; and shall dissolve, and be dissolved, seven
+days next preceding the said first Wednesday of January; and shall be stiled THE GENERAL
+COURT OF NEW-HAMPSHIRE.
+*** MEND ***
+*** MSTART 029 010.0 002.0 0 NH 1792 1889 ***
+[Repealed by Constitutional Convention, 1889]
+*** MEND ***
+*** MSTART 030 011.0 002.0 0 NH 1792 1889 ***
+     [Art.] 11.  Whenever any town, place, or city ward shall have less than six hundred such
+inhabitants, the General Court shall authorize such town, place, or ward to elect and send to the
+General Court such proportionate part of the time as the number of its inhabitants shall bear to six
+hundred; but the General Court shall not authorize any such town, place, or ward to elect and
+send such representative, except as herein provided.
+*** MEND ***
+*** MSTART 031 015.0 002.0 0 NH 1792 1889 ***
+[Art.] 15.  The presiding officers of both houses of the Legislature shall severally receive out of
+the state treasury as compensation in full for thier services, for the term elected, the sum of two
+hundred and fifty dollars, and all other members thereof seasonably attending and not departing
+wihtout license, the sum of two hundred dollars, exclusive of mileage, provided, however, that
+when a special session shall be called by the Governor, such officers and members shall receive for
+attendance as additional compensation of three dollars per day for a period not exceeding fifteen
+days, and the usual mileage.
+*** MEND ***
+*** MSTART 032 025.0 002.0 0 NH 1792 1889 ***
+                                
+                             SENATE
+
+   [Art.] 25. The Senate shall consist of twelve members, who shall hold their office for one year from
+the first Wednesday of January next ensuing their election.
+*** MEND ***
+*** MSTART 033 032.0 002.0 0 NH 1792 1889 ***
+     [Art.] 32. The meetings for the choice of Governor, Council, and senators shall be warned by
+warrant from the selectmen, and governed by a moderator, who shall, in the presence of the
+selectmen, (whose duty it shall be to attend,) in open meeting, receive the votes of all the inhabitants
+of such towns and parishes present and qualified to vote for senators; and shall in said meetings, in
+presence of said selectmen, and of the town clerk in said meetings, sort and count the said votes, and
+make a public declaration thereof, with the name of every person voted for and the number of votes
+for each person; and the town clerk shall make a fair record of the same at large, in the town book,
+and shall make a fair attested copy thereof, to be by him sealed up and directed to the secretary of
+the State, with a superscription expressing the purport thereof; and the said town clerk shall cause
+such attested copy to be delivered to the sheriff of the county in which said town or parish shall lie,
+thirty days at least before the the first Wednesday of January, or to the secretary of state at least
+twnety days before the said first Wednesday of January; and the sheriff of each county, or his deputy,
+shall deliver all such certificates by him received into the secretaries office, at least twenty days before
+the first Wednesday in January.
+*** MEND ***
+*** MSTART 034 033.0 002.0 0 NH 1792 1889 ***
+     [Art.] 33. And that there may be a due meeting of senators on the first Wednesday of January
+biennially, the governor and a majority of the council for the time being shall, as soon as may be,
+examine the return copies of such records, and fourteen days before the said first Wednesday of
+January, he shall issue his summons to such persons as appear to be chosen senators by a majority
+of votes, to attend and take their seats on that day: Provided, nevertheless,That for the first year the
+said returned copies shall be examined by the president  and the majority of the council then in office;
+and the said president shall in like manner notify the persons elected to attend and take their seats
+accordingly.       
+*** MEND ***
+*** MSTART 035 034.0 002.0 0 NH 1792 1889 ***
+     [Art.] 34.  And in case there shall not appear to be a senator elected by a majority of votes for any
+district, the deficiency shall be supplied in the following manner, viz: the members of the house of
+representatives, and such senators as shall be declared elected, shall take the names of the two
+persons having the highest number of votes in the district, and out of them shall elect, by joint ballot,
+the senator wanted for such district; and in this manner all such vacancies shall be filled up in every
+district of the State; all vacancies in the Senate arising by death, removal out of the State, or
+otherwise, except from failure to elect, shall be filled by a new election by the people of the district
+upon the requisition of the Governor as soon as may be after such vacancies shall happen.
+*** MEND ***
+*** MSTART 036 042.0 002.0 0 NH 1792 1889 ***
+     [Art.] 42. The governor shall be chosen biennially in the month of November; and the votes for
+governor shall be received, sorted, counted, certified, and returned in the same manner as the votes
+for senators; and the secretary shall lay the same before the senate and house of representatives on
+the first Wednesday of January, to be by them examined; and in case of an election by a majority of
+votes through the State, the choice shall be by them declared and published.  And the qualifications
+of electors of the governor shall be the same as those for senators; and if no person shall have a
+majority of votes, the senate and house of representatives shall, by joint ballot, elect on of the two
+persons having the highest number of votes, who shall be declared governor.  And no person shall
+be eligible to this office, unless at the time of his election, he shall have been an inhabitant of this state
+for seven years next preceding, and unless he shall be of the age of thirty years.
+*** MEND ***
+*** MSTART 037 043.0 002.0 0 NH 1792 1889 ***
+     [Art.] 43.  In cases of disagreement between the two houses, with regard to the time or place of
+adjournment, or prorogation the governor, with advice of council, shall have a right to adjourn or
+prorogue the general court, not exceeding ninety days, at any one time, as he may determine the
+public good may require. And he shall dissolve the same seven days before the said first Wednesday
+of January. And in case of any infectious distemper prevailing in the place where the said court at any
+time is to convene, or any other cause whereby dangers may arise to the healths or lives of the
+members from their attendance, the president may direct the session to be holden at some other, the
+most convenient place within the State.
+*** MEND ***
+*** MSTART 038 049.0 002.0 0 NH 1792 1889 ***
+     [Art.] 49  Whenever the chair of the governor shall become vacant, by reason of his death, absence
+from the state, or otherwise, the president of the senate shall, during such vacancy, have and exercise
+all the powers and authorities which by this constitution the governor is vested with when personally
+present; but when the president of the senate shall exercise the office of governor he shall not hold
+his office in the senate.  Whenever the chair both of the Governor and of the president of the Senate
+shall become vacant, by reason of thier death, absence from the State, or otherwise the speaker of the
+House shall, during such vacancies, have and execise all the powers and authorities which, by thies
+Constitution, the Governor is vested with when personally present; but when the speaker of the
+House shall exercise the office of Governor, he shall not hold his office in the House.
+*** MEND ***
+*** MSTART 039 060.0 002.0 0 NH 1792 1889 ***
+     [Art.] 60. There shall be biennially by ballot five councillors, for advising the governor in the
+executive part of government.  The freeholders and other inhabitants of each country, qualified to
+vote for senators, shall, some time in the month of November, give in thier votes for one councillor;
+which votes shall be received, sorted, counted, certified, and returned to the secretary's office, in the
+same manner as the votes for senators, to be by the secretary laid before the seante and house of
+representatives on the first Wendesday of July.
+*** MEND ***
+*** MSTART 040 066.0 002.0 0 NH 1792 1889 ***
+          [Art.] 66.   And Whereas, The elections appointed to be made by this constitution on the first
+Wednesday of January, biennially, by the two houses of the legislautre, may not be completed on that
+day, the said elections may be adjourned from day to day until the same be completed.  And the order
+of the elections shall be as follows: the vacancies of the senate, if any, shall be first filled up; the
+governor shall then be electd, provided there should be no choice of him by the people; and afterward
+the two houses shall proceed to fill up the vacancy, if any, in the council.  
+*** MEND ***
+*** MSTART 041 011.0 001.0 0 NH 1792 1903 ***
+     Art. XI. All elections ought to be free, and every inhabitant of the state having the proper
+qualifications, has equal right to elect, and be elected into office; but no person shall have the right
+to vote, or be eligible to office under the constitution of this state, who shall not be able to read the
+constitution in the English language, and to write; provided, however, that this provision shall not
+apply to any person prevented by a physical disability from complying with its requistions, nor to any
+person who now has the right to vote, nor to any person who shall be sixty years of age or upward
+on the first day of January A. D. 1904. 
+*** MEND ***
+*** MSTART 042 006.0 002.0 0 NH 1792 1903 ***
+     [Art. 6.] The public charges of government or any part thereof may be raised by taxation upon
+polls, estates, and other classes of property, including franchises and property when passing by will
+or inheritance; and there shall be a valuation of the estates within the state taken anew once in every
+give years, at least, and as much oftener as the general court shall order.
+*** MEND ***
+*** MSTART 043 049.0 002.0 0 NH 1792 1903 ***
+     [Art.] 49. Whenever the chair of the governor shall become vacant, by reason of his death, absence
+from the state, or otherwise, the president of the senate shall, during such vacancy, have and exercise
+all the powers and authorities which by this constitution the governor is vested with when personally
+present; but when the president of the senate shall exercise the office of governor he shall not hold
+his office in the senate.  Whenever the chair both of the governor and of the president of the senate
+shall become vacant, by reason of their death, absence from the state, or otherwise, the speaker of
+the house shall, during such vacancies, have and exercise all the powers and authorities which, by this
+constitution, the governor is vested with when personally present; but when the speaker of the house
+shall exercise the office of governor, he shall not hold his office in the house.
+[The convention of 1903 lists the amendment as applying to article 48, but it seems clear from the
+context that it is amending article 49.]
+*** MEND ***
+*** MSTART 044 083.0 002.0 0 NH 1792 1903 ***
+ENCOURAGEMENT OF LITERATURE, &C
+
+     [Art.] 83.  KNOWLEDGE, and learning, generally diffused through a community, being
+essential to the preservation of a free government; and spreading the opportunities and advantages
+of education through the various parts of the country, being highly conducive to promote this end,
+it shall be the duty of the legislators and the magistrates, in all future periods of this government
+to cherish the interest of literature and the sciences, and all seminaries and public schools, to
+encourage private and public institutions, rewards and immunities for the promotion of
+agriculture, arts, sciences, commerce, trades, manufactures and natural history of the country; to
+countenance and inculcate the principles of humanity and general benevolence, public and private
+charity, industry and economy, honesty and punctuality, sincerity, sobriety, and all social
+affections and generous sentiments, among the people.  Free and fair competition in the trades and
+industries is an inherent and essential right of the people and should be protected against all
+monopolies and conspiracies which tend to hinder or destroy it.  The size and functions of all
+corporations should be so limited and regulated as to prohibit fictitious capitalization, and
+provision should be made for the supervision and government thereof:--Therefore, all just power
+possessed by the state is hereby granted to the general court to enact laws to prevent the
+operations within the state of all persons and associations, and all trusts and corporations, foreign
+and domestic, and the officers thereof, who endeavor to raise the price of any article of commerce
+or to destroy free and fair competition in the trades and industries through combination,
+conspiracy, monopoly, or any other unfair means; to control and regulate the acts of all such
+persons, associations, corporations, trusts, and officials doing business within the state; to prevent
+fictitious capitalization; and to authorize civil and criminal proceedings in respect to all the
+wrongs herein declared against.
+[The convention of 1903 lists the amendment as applying to article 82, but it eems clear from the
+context that it is amending article 83.]
+*** MEND ***
+*** MSTART 045 011.0 001.0 0 NH 1792 1912 ***
+     Art. XI. All elections ought to be free, and every inhabitant of the state having the proper
+qualifications, has equal right to elect, and be elected into office; but no person shall have the right
+to vote, or be eligible to office under the constitution of this state, who shall not be able to read
+the constitution in the English language, and to write; provided, however, that this provision shall
+not apply to any person prevented by a physical disability from complying with its requistions, nor
+to any person who now has the right to vote, nor to any person who shall be sixty years of age or
+upward on the first day of January A. D. 1904.  And provided further, that no person shall have
+the right to vote or be eligible to office under the constitution of this state who shall have been
+convicted of treason, bribery, or any wilful violation of the election laws of this state or of the
+United States; but the supreme court may, on notice to the attorney-general restore the privileges
+of an elector to any person who may have forfeited them by conviction of such offences.
+*** MEND ***
+
+
+*** MSTART 046 033.0 002.0 0 NH 1792 1912 ***
+     [Art.] 33. And that there may be a due meeting of senators on the first Wednesday of January
+biennially, the governor and a majority of the council for the time being shall, as soon as may be,
+examine the return copies of such records, and fourteen days before the said first Wednesday of
+January, he shall issue his summons to such persons as appear to be chosen senators by a plurality
+of votes, to attend and take their seats on that day: Provided, nevertheless,That for the first year
+the said returned copies shall be examined by the president  and the majority of the council then in
+office; and the said president shall in like manner notify the persons elected to attend and take
+their seats accordingly.
+
+*** MEND ***
+
+*** MSTART 047 034.0 002.0 0 NH 1792 1912 ***
+     [Art.] 34.  And in case there shall not appear to be a senator elected by a plurality of votes for
+any district, the deficiency shall be supplied in the following manner, viz: the members of the
+house of representatives, and such senators as shall be declared elected, shall take the names of
+the two persons having the highest number of votes in the district, and out of them shall elect, by
+joint ballot, the senator wanted for such district; and in this manner all such vacancies shall be
+filled up in every district of the State; all vacancies in the Senate arising by death, removal out of
+the State, or otherwise, except from failure to elect, shall be filled by a new election by the people
+of the district upon the requisition of the Governor as soon as may be after such vacancies shall
+happen.
+
+*** MEND ***
+
+*** MSTART 048 042.0 002.0 0 NH 1792 1912 ***
+
+[Art.] 42. The governor shall be chosen biennially in the month of November; and the votes for
+governor shall be received, sorted, counted, certified, and returned in the same manner as the
+votes for senators; and the secretary shall lay the same before the senate and house of
+representatives on the first Wednesday of January, to be by them examined; and in case of an
+election by a plurality of votes through the State, the choice shall be by them declared and
+published.  And the qualifications of electors of the governor shall be the same as those for
+senators; and if no person shall have a plurality of votes, the senate and house of representatives
+shall, by joint ballot, elect on of the two persons having the highest number of votes, who shall be
+declared governor.  And no person shall be eligible to this office, unless at the time of his election,
+he shall have been an inhabitant of this state for seven years next preceding, and unless he shall be
+of the age of thirty years.
+*** MEND ***
+*** MSTART 049 061.0 002.0 0 NH 1792 1912 ***
+     [Art.] 6l.  And the person having a plurality of votes in any county, shall be considered as duly
+elected a councilor: But if no person shall have a plurality of votes in any county, the senate and
+house of representatives shall take the names of the two persons who have the highest number of
+votes in each county, and not elected, and out of those two shall elect by joint ballot, the
+councilor wanted for such county, and the qualifications for councilors shall be the same as for
+senator.
+[Added by Constitutional Convention, 1792]
+*** MEND ***
+*** MSTART 050 065.0 002.0 0 NH 1792 1912 ***
+     [Art.] 65. The legislature may, if the public good shall hereafter require it, divide the State into
+five districts, as nearly equal as may be, governing themselves by the number of population, each
+district to elect a councillor; and in case of such division, the manner of the choice shall be
+comfortable to the present mode of election in the countries.
+*** MEND ***
+*** MSTART 051 077.0 002.0 0 NH 1792 1912 ***
+[Art.] 77. The general court are empowered to give to justices of the peace jurisdiction in civil
+cases when the damages demanded shall not exceed one hundred dollars, and title of real estate is
+not concerned; but with right of appeal to either party to some other court.  And the general court
+are further empowered to give to police courts, original jurisdiction to try and determine, subject
+to right of appeal and trial by jury, all criminal causes wheein the punishment is less than
+imprisonment in the state prison.
+*** MEND ***
+*** MSTART 052 006.A 002.0 0 NH 1792 1938 ***
+[Art.] 6-a.  All revenue in excess of the necessary cost of collection and administration accruing to
+the state from registration fees, operators' licenses, gasoline road tolls or any other special charges
+or taxes with respect to the operation of motor vehicles or the sale or consumption of motor
+vehicle fuels shall be appropriated and used exclusively for the construction, reconstruction and
+maintenance of public highways within this state, including the supervision of traffic thereon and
+payment of the interest and principal of obligations incurred for said purposes; and no part of such
+revenues shall, by transfer of funds or otherwise, be diverted to any other purpose whatsoever.
+[November 29, l938]
+*** MEND ***
+*** MSTART 053 011.0 001.0 0 NH 1792 1942 ***
+     Art. XI. All elections ought to be free, and every inhabitant of the state having the proper
+qualifications, has equal right to elect, and be elected into office; but no person shall have the right
+to vote, or be eligible to office under the constitution of this state, who shall not be able to read
+the constitution in the English language, and to write; provided, however, that this provision shall
+not apply to any person prevented by a physical disability from complying with its requistions, nor
+to any person who now has the right to vote, nor to any person who shall be sixty years of age or
+upward on the first day of January A. D. 1904.  And provided further, that no person shall have
+the right to vote or be eligible to office under the constitution of this state who shall have been
+convicted of treason, bribery, or any wilful violation of the election laws of this state or of the
+United States; but the supreme court may, on notice to the attorney-general restore the privileges
+of an elector to any person who may have forfeited them by conviction of such offences.  The
+general court shall have power to provide by law for voting by qualified voters who at the time of
+biennial or state elections or of city elections are absent from the city or town at the time of which
+they are inhabitants, or who by reason of physical disability are unable to vote in person, in the
+choice of an officer or officers to be elected or upon any questions submitted at such election.
+*** MEND ***
+*** MSTART 054 005.0 002.0 0 NH 1792 1942 ***
+     [Art. ] 5.  And farther, full power and authority are hereby given and granted to the said
+general court, from time to time, to make, ordain, and establish, all manner of wholesome and
+reasonable orders, laws, statutes, ordinances, directions, and instructions, either with penalties, or
+without, so as the same be not repugnant or contrary to this constitution, as they may judge for
+the benefit and welfare of this state, and for the governing and ordering thereof, and of the
+subjects of the same, for the necessary support and defense of the government thereof, and to
+name and settle biennially, or provide by fixed laws for the naming and settling, all civil officers
+within this state, such officers excepted, the election and appointment of whom are hereafter in
+this form of government otherwise provided for; and to set forth the several duties, powers, and
+limits, of the several civil and military officers of this state, and the forms of such oaths or
+affirmations as shall be respectively administered unto them, for the execution of their several
+offices and places, so as the same be not repugnant or contrary to this constitution; and also to
+impose fines, mulcts, imprisonments, and other punishments, and to impose and levy proportional
+and reasonable assessments, rates, and taxes, upon all the inhabitants of, and residents within, the
+said state; and upon all estates within the same; to be issued and disposed of by warrant, under the
+hand of the governor of this state for the time being, with the advice and consent of the council,
+for the public service, in the necessary defense and support of the government of this state, and
+the protection and preservation of the subjects thereof, according to such acts as are, or shall be,
+in force within the same; provided that the general court shall not authorize any town to loan or
+give its money or credit directly or indirectly for the benefit of any corporation having for its
+object a dividend of profits or in any way aid the same by taking its stocks or bonds.  For the
+purpose of encouraging conservation of the forest resources of the state, the general court may
+provide for special assessments, rates and taxes on growing wood and timber.
+*** MEND ***
+*** MSTART 055 009.0 002.0 0 NH 1792 1942 ***
+     [Art. ] 9.  There shall be in the legislature of this state a house of representatives, bienially
+elected and founded on principles of equality; and representation therein shall be as equal as
+circumstances will admit.  The whole number of representatives to be chosen from the towns and
+wards shall be not less than three hundred seventy-five or more than four hundred. At the next
+session of gthe legislature, and at the session in 1951, and every ten years thereafter, the
+legislature shall make an apportionment of representatives according to the last general census of
+the inhabitants of the state taken by the authority of the United States or of this state.  The
+number of inhabitants necessary to entitle any town or ward to representatives additional to the
+first shall be for each additional representative twice the number of inhabitants required for the
+first representative, so that the mean increasing number for every additional representative shall be
+twice the number required for the first or one representative.  In making such appointment no
+town shall be divided, or the boundaries of the wards of any city so altered, as to increase the
+number of representatives to which such town or city may be entitle by the last preceding census.
+*** MEND ***
+*** MSTART 056 011.0 002.0 0 NH 1792 1942 ***
+     [Art. ] 11.  Whenever any town or ward shall have less than the number of inhabitants
+necessary to entitle each town or ward to one representative the legislature shall authorize each
+town or ward to elect and send a representative such proportionate part of the time as the number
+of its inhabitants shall bear to the requisite number established for one represetnative and without
+such authority no town or ward shall send a represetntaive; provided, however, that each town
+and ward shall be entitled to representation at least one session in every ten years.
+*** MEND ***
+*** MSTART 057 019.0 002.0 0 NH 1792 1948 ***
+  [Art.] 19.  The house of representatives shall have power to adjourn themselves, but no
+longer than five days at a time.
+*** MEND ***
+*** MSTART 058 036.0 002.0 0 NH 1792 1948 ***
+     [Art.] 36. The senate shall have power to adjourn themselves, provided such adjournment do
+not exceed five days at a time.  Provided, nevertheless, That whenever they shall sit on the trial of
+any impeachment, they may adjourn to such time and place as they may think proper, although the
+legislautre be not assembled on such day or at such place.
+*** MEND ***
+*** MSTART 059 057.0 002.0 0 NH 1792 1950 ***
+[Repealed November 7, 1950]
+*** MEND ***
+*** MSTART 060 067.0 002.0 0 NH 1792 1950 ***
+
+                    SECRETARY, TREASURER, &C
+
+ [Art.] 67. The Secretary and treasurer shall be chosen by joint ballot of the senators and
+representatives assembled in one room.
+*** MEND ***
+*** MSTART 061 095.0 002.0 0 NH 1792 1950 ***
+     [Art.] 95.  No person holding the office of judge of any court, except special judges, secretary,
+treasurer of the State, attorney general, military officer receiving pay from the continent or this State,
+excepting officers of the militia, occasionally called forth on an emergency, register of deeds, sheriff,
+or officers of the customs, including naval officers, collectors of excise and State and continental
+taxes, hereafter appointed, and not having settled thier accounts with the respective officers with
+whom it is thier duty to settle such accounts, members of Congress, or any person holding any office
+under the United States, shall at the same time hold the office of governor, or have a seat in the
+seante, or house of representatives, or council; but his being chosen and appointed to and accepting
+the same shall operate as a resignation of thier seat in the chair, senate, or house of represenatives,
+or council, and the place so vacated senate, or house of representatives, or council, and the place so
+vacated shall be filled up.  No member of the council shall have a seat in the seante or house of
+representatives.
+*** MEND ***
+*** MSTART 062 097.0 002.0 0 NH 1792 1950 ***
+[Repealed on November 7, 1950.]
+*** MEND ***
+*** MSTART 063 011.0 001.0 0 NH 1792 1956 ***
+     Art. XI. All elections ought to be free, and every inhabitant of the state having the proper
+qualifications, has equal right to elect, and be elected into office; but no person shall have the right
+to vote, or be eligible to office under the constitution of this state, who shall not be able to read the
+constitution in the English language, and to write; provided, however, that this provision shall not
+apply to any person prevented by a physical disability from complying with its requistions, nor to any
+person who now has the right to vote, nor to any person who shall be sixty years of age or upward
+on the first day of January A. D. 1904.  And provided further, that no person shall have the right to
+vote or be eligible to office under the constitution of this state who shall have been convicted of
+treason, bribery, or any wilful violation of the election laws of this state or of the United States; but
+the supreme court may, on notice to the attorney-general restore the privileges of an elector to any
+person who may have forfeited them by conviction of such offences.  The general court shall have
+power to provide by law for voting by qualified voters who at the time of biennial or state elections;
+or of the primary elections therefor, or of city elections are absent from the city or town at the time
+of which they are inhabitants, or who by reason of physical disability are unable to vote in person, in
+the choice of an officer or officers to be elected or upon any questions submitted at such election.
+*** MEND ***
+*** MSTART 064 049.0 002.0 0 NH 1792 1956 ***
+     [Art.] 49. Whenever the chair of the governor shall become vacant, by reason of his death, absence
+from the state, or otherwise, the president of the senate shall, during such vacancy, have and exercise
+all the powers and authorities which by this constitution the governor is vested with when personally
+present; but when the president of the senate shall exercise the office of governor he shall not hold
+his office in the senate.  Whenever the chair both of the governor and of the president of the senate
+shall become vacant, by reason of their death, absence from the state, or otherwise, the speaker of
+the house shall, during such vacancies, have and exercise all the powers and authorities which, by this
+constitution, the governor is vested with when personally present; but when the speaker of the house
+shall exercise the office of governor, he shall not hold his office in the house, provided, nevertheless,
+that while the Governor is absent from the state on official business, he shall have the power and
+authority to transact such business.
+*** MEND ***
+*** MSTART 065 014.0 002.0 0 NH 1792 1958 ***
+     [Art.] 14.  Every member of the house of representatives shall be chosen by ballot; and for two
+years at least next preceding his election, shall have been an inhabitant of this state; shall be at the
+time of his election, an inhabitant of the town, ward, or place he may be chosen to represent; and shall
+cease to represent such town, ward, or place immediately on his ceasing to be qualified as aforesaid.
+*** MEND ***
+*** MSTART 066 028.0 002.0 0 NH 1792 1958 ***
+    [Art.] 28.  The senate shall be the first branch of the legislature, and the senators shall be chosen
+in the following manner, viz: every inhabitant of each town and ward with town privileges, and places
+unincorporated, in this State, of twenty-one years of age and upward, excepting paupers and persons
+excused from paying taxes at thier own request, shall have a right, at the biennial or other meeting
+of the inhabitants of said towns and wards, to be duly warned and holden biennially forever in the
+month of November, to vote in the town or ward wherein he dwells, for the senators in the county
+or district where of he is a member.
+*** MEND ***
+*** MSTART 067 030.0 002.0 0 NH 1792 1958 ***
+     [Art.] 30. And every person qualified as the constitution provides, shall be considered an
+inhabitant for the purpose of electing and being elected into any office or place within this state, in
+the town or ward, where he dwelleth and hath his home.
+*** MEND ***
+*** MSTART 068 031.0 002.0 0 NH 1792 1958 ***
+     [Art.] 31. And the inhabitants of places unincorporated, qualified as this constitution provides,
+who are or shall be required to assess taxes upon themselves towards the support of government, or
+shall be taxed therefor, shall have the same privilege of voting for senators in the places wherein they
+reside, as the inhabitants of the respective towns and wards aforesaid have. And the meetings of such
+plantations and places for that purpose, shall be holden biennially in the month of November, at such
+places respectively therein, as the assessors thereof shall direct; which assessors shall have like
+authority for notifying the electors, collecting and returning the votes, as the selectmen and town-
+clerks have in their several towns by this constitution.
+
+*** MEND ***
+
+*** MSTART 069 032.0 002.0 0 NH 1792 1958 ***
+
+     [Art.] 32. The meetings for the choice of Governor, Council, and senators shall be warned by
+warrant from the selectmen, and governed by a moderator, who shall, in the presence of the
+selectmen, (whose duty it shall be to attend,) in open meeting, receive the votes of all the inhabitants
+of such towns and wards present and qualified to vote for senators; and shall in said meetings, in
+presence of said selectmen, and of the town or city clerk in said meetings, sort and count the said
+votes, and make a public declaration thereof, with the name of every person voted for and the number
+of votes for each person; and the town or city clerk shall make a fair record of the same at large, in
+the town book, and shall make a fair attested copy thereof, to be by him sealed up and directed to the
+secretary of the State, with a superscription expressing the purport thereof; and the said town or city
+clerk shall cause such attested copy to be delivered to the sheriff of the county in which said town or
+ward shall lie, thirty days at least before the the first Wednesday of January, or to the secretary of
+state at least twnety days before the said first Wednesday of January; and the sheriff of each county,
+or his deputy, shall deliver all such certificates by him received into the secretaries office, at least
+twenty days before the first Wednesday in January.
+
+*** MEND ***
+
+*** MSTART 070 071.0 002.0 0 NH 1792 1958 ***
+
+COUNTY-TREASURER, &C
+
+[Art.] 71. The county treasurers, registers of probate, county attorneys, sheriffs,  and registers of
+deeds shall be elected by the inhabitants of the several towns, in the several counties in the State,
+according to the method now practiced, and the present laws of the State; Provided, nevertheless,
+The legislature shall have authority to alter the manner of certifying the votes and the mode of
+electing those officers, but not so as to deprive the people of the right they now have electing them. 
+
+*** MEND ***
+
+*** MSTART 071 074.0 002.0 0 NH 1792 1958 ***
+
+[Art.] 74. Each branch of the legislature, as well as the governor and council, shall have authority to
+require the opinions of the justices of the supreme court upon important questions of law, and upon
+solemn occasions.
+
+*** MEND ***
+
+*** MSTART 072 095.0 002.0 0 NH 1792 1958 ***
+     [Art.] 95.  No person holding the office of judge of any court, except special judges, secretary,
+treasurer of the State, attorney general, military officer receiving pay from the United States, or this
+state, (excepting officers of the militia, occasionally called forth on an emergency), register of deeds,
+sheriff, collectors of state and Federal taxes, members of Congress, or any person holding any office
+under the United States, shall at the same time hold the office of governor, or have a seat in the
+seante, or house of representatives, or council; but his being chosen and appointed to and accepting
+the same shall operate as a resignation of thier seat in the chair, senate, or house of represenatives,
+or council, and the place so vacated senate, or house of representatives, or council, and the place so
+vacated shall be filled up.  No member of the council shall have a seat in the seante or house of
+representatives.
+*** MEND ***
+*** MSTART 073 020.0 001.0 0 NH 1792 1960 ***
+     XX.  In all controversies concerning property, and in all suits between two or more persons,
+except in cases in which it has been heretofore otherwise used and practiced, and except in cases in
+which the value in controversy does not exceed five hundred dollars and title to real estate is not
+concerned, the parties have a right to a trial by jury; and this method of procedure shall be held
+sacred, unless in causes arising on the high seas, and such as relate to mariners wages, the legislature
+shall think it necessary hereafter to alter it.
+*** MEND ***
+*** MSTART 074 015.0 002.0 0 NH 1792 1960 ***
+               [Art.] 15.  The presiding officers of both houses of the Legislature shall
+severally receive out of the state treasury as compensation in full for thier services, for the term
+elected, the sum of two hundred and fifty dollars, and all other members thereof seasonably attending
+and not departing wihtout license, the sum of two hundred dollars and each member shall receive
+mileage for actual daily attendence on legislative days, but not after the legislature shall have been in
+session for ninety legislative days or after the first day of July following the biennial assembly of the
+Legislature, whichever occurs first, provided, however, that when a special session shall be called by
+the Governor, such officers and members shall receive for attendance as additional compensation of
+three dollars per day for a period not exceeding fifteen days, and the usual mileage.
+*** MEND ***
+*** MSTART 075 005.A 002.0 0 NH 1792 1960 ***
+     [Art.] 5-a. Notwithstanding any general or special provision of this constitution, the general court,
+in order to insure continuity of state and local government operations in periods of emergency
+resulting from disasters caused by enemy attack, shall have the power and the immediate duty to
+provide for prompt and temporary succession to the powers and duties of public offices, of whatever
+nature and whether filled by election or appointment, the incumbents of which may become
+unavailable for carrying on the powers and duties of such offices, and to adopt such other measures
+as may be necessary and proper for insuring the continuity of governmental operations including but
+not limited to the financing thereof.  In the exercise of the powers hereby conferred the general court
+shall in all respects conform to the requirements of this constitution except to the extent that in the
+judgment of the general court so to do would be impracticable or would admit of undue delay.
+*** MEND ***
+*** MSTART 076 009.A 002.0 0 NH 1792 1960 ***
+   [Art.] 9-a. The general court shall have the power to provide by statute for making suitable
+adjustments to the general census of the inhabitants of the state taken by the authority of the United
+States or of this state on account of non-residents temporarily residing in this state.
+*** MEND ***
+*** MSTART 077 012.0 001.0 0 NH 1792 1964 ***
+   [Art.] l2. Every member of the community has a right to be protected by it, in the enjoyment of his
+life, liberty, and property; he is therefore bound to contribute his share in the expense of such
+protection, and to yield his personal service when necessary.  But no part of a man's property shall
+be taken from him, or applied to public uses, without his own consent, or that of the representative
+body of the people.  Nor are the inhabitants of this state controllable by any other laws than those to
+which they, or their representative body, have given their consent.
+*** MEND ***
+*** MSTART 078 013.0 001.0 0 NH 1792 1964 ***
+[Art.] l3. No person, who is conscientiously scrupulous about the lawfulness of bearing arms, shall
+be compelled thereto.
+*** MEND ***
+*** MSTART 079 009.0 002.0 0 NH 1792 1964 ***
+                    HOUSE OF REPRESENTATIVES
+   [Art.] 9.  There shall be in the legislature of this state a house of representatives, biennially
+elected and founded on principles of equality, and representation therein shall be as equal as
+circumstances will admit.  The whole number of representatives to be chosen from the towns,
+wards, places, and representative districts thereof established hereunder, shall be not less than
+three hundred seventy-five or more than four hundred.  As soon as possible after the convening of
+the next regular session of the legislature, and at the session in l97l, and every ten years thereafter,
+the legislature shall make an apportionment of representatives according to the last general census
+of the inhabitants of the state taken by authority of the United States or  of this state.  In making
+such apportionment, no town, ward or place shall be divided nor the boundaries thereof altered.
+*** MEND ***
+*** MSTART 080 011.0 002.0 0 NH 1792 1964 ***
+     [Art.] ll.  When any town, ward, or unincorporated place, according to the last federal
+decennial census, has less than the number of inhabitants necessary to entitle it to one
+representative, the legislature shall form those towns, wards, or unincorporated places into
+representative districts which contain a sufficient number of inhabitants to entitle each district so
+formed to one or more representatives for the entire district.  In forming the districts, the
+boundaries of towns, wards and unincorporated places shall be preserved and the towns, wards
+and unincorporated places forming one district shall be reasonably proximate to one another.  The
+legislature shall form the representative districts at its next session after approval of this article by
+the voters of the state, and thereafter at the regular session following every decennial federal
+census.
+*** MEND ***
+*** MSTART 180 014.0 002.0 0 NH 1792 1964 ***
+   [Art.] l4. Every member of the house of representatives shall be chosen by ballot; and, for two
+years, at least, next preceding his election shall have been an inhabitant of this state; shall be, at
+the time of his election, an inhabitant of the town, ward, place, or district he may be chosen to
+represent and shall cease to represent such town, ward, place, or district immediately on his
+ceasing to be qualified as aforesaid.
+*** MEND ***
+*** MSTART 081 026.0 002.0 0 NH 1792 1964 ***
+     [Art.] 26. And that the state may be equally represented in the senate, the legislature shall
+divide the state into single-member districts, as nearly equal as may be in population, each
+consisting of contiguous towns, city wards and unincorporated places, without dividing any town,
+city ward or unincorporated place.  The legislature shall form the single-member districts at its
+next session after approval of this article by the voters of the state and thereafter at the regular
+session following each decennial federal census.
+ *** MEND ***
+*** MSTART 082 099.0 002.0 0 NH 1792 1964 ***
+     [Art.  99] Amendments to this constitution may be proposed by the general court or by a
+constitutional convention as herein provided.
+     (a) The senate and house of representatives, voting separately, may propose amendments by a
+three-fifths vote of the entire membership of each house at any session or by a majority vote at
+two successive regular sessions.
+     (b) The general court, by an affirmative vote of a majority of all members of both houses
+voting separately, may at any time submit the question "Shall there be a convention to amend or
+revise the constitution?" to the qualified voters of the state.  If the question of holding a
+convention is not submitted to the people at some time during any period of ten years, it shall be
+submitted by the secretary of state at the general election in the tenth year following the last
+submission.
+     If a majority of the qualified voters voting on the question of holding a convention approves it,
+delegates shall be chosen at the next regular general election, or at such earlier time as the
+legislature may provide, in the same manner and proportion as the representatives to the general
+court are chosen.
+     The delegates so chosen shall convene not later than six months after their election at such
+time as the legislature may direct and may recess from time to time and make such rules for the
+conduct of their convention as they may determine.
+ *** MEND ***
+*** MSTART 083 100.0 002.0 0 NH 1792 1964 ***
+     [Art. 100] Each constitutional amendment proposed by the legislature or by a constitutional
+convention shall be submitted tot he voters by written ballot and shall become a part of the
+constitution only after approval by three-fifths of the voters voting on the question.
+ *** MEND ***
+*** MSTART 084 015.0 001.0 0 NH 1792 1966 ***
+     [Art.  15th.] No subject shall be held to answer for any crime, or offense, until the same is fully
+and plainly, substantially and formally, described to him; or be compelled to accuse or furnish
+evidence against himself.  And every subject shall have a right to produce all proofs that may be
+favorable to himself; to meet the witnesses against him face to face, and to be fully heard in his
+defense, by himself, and counsel.  And no subject shall be arrested, imprisoned, despoiled, or
+deprived of his property, immunities, or privileges, put out of the protection of the law, exiled or
+deprived of his life, liberty, or state, but by the judgement of his peers, or the law of the land. 
+Every person held to answer in any crime or offense shall have the right to counsel at the expense
+of the state if need be; this right he is at liberty to waive, but only after the matter has been
+thoroughly explained by the court.
+ *** MEND ***
+*** MSTART 085 039.0 001.0 0 NH 1792 1966 ***
+     [Art.] 39. No law changing the charter or form of government of a particular city or town shall
+be enacted by the legislature except to become effective upon the approval of the voters of such
+city or town upon a referendum to be provided for in said law.    The legislature may by general
+law authorize cities and towns to adopt or amend their charters or forms of government in any
+way which is not in conflict with general law, provided that such charters or amendments shall
+become effective only upon the approval of the voters of each such city or town on a referendum.
+ *** MEND ***
+*** MSTART 086 004.0 002.0 0 NH 1792 1966 ***
+[Art.] 4.  The general court (except as otherwise provided by Article 72-a of Part 2) shall forever
+have full power and authority to erect and constitute judicatories and courts of record, or other
+courts, to be holden, in the name of the state, for the hearing, trying, and determining, all manner
+of crimes, offenses, pleas, processes, plaints, action, causes, matters and things whatsoever arising
+or happening within this state, or between or concerning persons inhabiting or residing, or
+brought, within the same, whether the same be criminal or civil, or whether the crimes be capital,
+or not capital, and whether the said pleas be real, personal or mixed, and for the awarding and
+issuing execution thereon.  To which courts and judicatories, are hereby given and granted, full
+power and authority, from time to time, to administer oaths or affirmations, for the better
+discovery of truth in any matter in controversy, or depending before them.
+ *** MEND ***
+*** MSTART 087 019.0 002.0 0 NH 1792 1966 ***
+   [Art.] l9.  The house of representatives shall have the power to adjourn themselves.
+ *** MEND ***
+*** MSTART 088 024.0 002.0 0 NH 1792 1966 ***
+    [Art.] 24  The journals of the proceedings, and all public acts of both houses, of the legislature,
+shall be printed and published immediately after every adjournment or prorogation; and upon
+motion made by any one member, duly seconded, the yeas and nays, upon any question, shall be
+entered, on the journal.  And any member of the senate, or house of representatives, shall have a
+right, on motion made at the time for that purpose to have his protest, or dissent, with the
+reasons, against any vote, resolve, or bill passed, entered on the journal.
+ *** MEND ***
+*** MSTART 089 036.0 002.0 0 NH 1792 1966 ***
+   [Art.] 36.  The senate shall have power to adjourn themselves, and whenever they shall sit on
+the trial of any impeachment, they may adjourn to such time and place as they may think proper
+although the legislature be not assembled on such day, or at such place.
+*** MEND ***
+*** MSTART 090 041.0 002.0 0 NH 1792 1966 ***
+   [Art.] 4l.  There shall be a supreme executive magistrate, who shall be styled the Governor of
+the State of New Hampshire, and whose title shall be His Excellency.  The executive power of the
+state is vested in the governor.  The governor shall be responsible for the faithful execution of the
+laws.  He may, by appropriate court action or proceeding brought in the name of the state,
+enforce compliance with any constitutional or legislative mandate, or restrain violation of any
+constitutional or legislative power, duty, or right, by any officer, department or agency of the
+state.  This authority shall not be construed to authorize any action or proceedings against the
+legislative or judicial branches.
+*** MEND ***
+*** MSTART 091 073.0 002.0 0 NH 1792 1966 ***
+   [Art.] 73. The tenure that all commissioned officers shall have by law in their offices shall be
+expressed in their respective commissions, and all judicial officers duly appointed, commissioned
+and sworn, shall hold their offices during good behavior except those for whom a different
+provision is made in this constitution.  The governor with consent of the council may remove any
+commissioned officer for reasonable cause upon the address of both houses of the legislature,
+provided nevertheless that the cause for removal shall be stated fully and substantially in the
+address and shall not be a cause which is a sufficient ground for impeachment, and provided
+further that no officer shall be so removed unless he shall have had an opportunity to be heard in
+his defense by a joint committee of both houses of the legislature.
+*** MEND ***
+*** MSTART 092 072.A 002.0 0 NH 1792 1966 ***
+                        JUDICIARY POWER
+                                
+   [Art.] 72-a.  The judicial power of the state shall be vested in the supreme court, a trial court of
+general jurisdiction known as the superior court, and such lower courts as the legislature may
+establish under Article 4th of Part 2.
+*** MEND ***
+*** MSTART 093 006.0 001.0 0 NH 1792 1968 ***
+     [Art.] 6.  As morality and piety, rightly grounded on high principles, will give the best and
+greatest security to government, and will lay, in the hearts of men, the strongest obligations to due
+subjection; and as the knowledge of these is most likely to be propagated through a society,
+therefore, the several parishes, bodies, corporate, or religious societies shall at all times have the
+right of electing their own teachers, and of contracting with them for their support or
+maintenance, or both. But no person shall ever be compelled to pay towards the support of the
+schools of any sect or denomination.  And every person, denomination or sect shall be equally
+under the protection of the law; and no subordination of any one sect, denomination or persuasion
+to another shall ever be established.
+*** MEND ***
+*** MSTART 094 011.0 001.0 0 NH 1792 1968 ***
+     Art. XI. All elections ought to be free, and every inhabitant of the state having the proper
+qualifications, has equal right to elect, and be elected into office; but no person shall have the right
+to vote, or be eligible to office under the constitution of this state, who shall not be able to read
+the constitution in the English language, and to write; provided, however, that this provision shall
+not apply to any person prevented by a physical disability from complying with its requistions, nor
+to any person who now has the right to vote.  And provided further, that no person shall have the
+right to vote or be eligible to office under the constitution of this state who shall have been
+convicted of treason, bribery, or any wilful violation of the election laws of this state or of the
+United States; but the supreme court may, on notice to the attorney-general restore the privileges
+of an elector to any person who may have forfeited them by conviction of such offences.  The
+general court shall have power to provide by law for voting by qualified voters who at the time of
+biennial or state elections; or of the primary elections therefor, or of city elections are absent from
+the city or town at the time of which they are inhabitants, or who by reason of physical disability
+are unable to vote in person, in the choice of an officer or officers to be elected or upon any
+questions submitted at such election.  The right to vote shall not be denid to any person because
+of the non-payment of any tax.
+*** MEND ***
+*** MSTART 095 022.0 001.0 0 NH 1792 1968 ***
+   [Art.] 22.Free speech and liberty of the press are essential to the security of freedom in a state: 
+They ought, therefore, to be inviolably preserved.
+*** MEND ***
+*** MSTART 096 033.0 002.0 0 NH 1792 1968 ***
+     [Art.] 33. And that there may be a due meeting of senators on the first Wednesday of January
+biennially, the governor and a majority of the council for the time being shall, as soon as may be,
+examine the return copies of such records, and fourteen days before the said first Wednesday of
+January, he shall issue his summons to such persons as appear to be chosen senators by a plurality
+of votes, to attend and take their seats on that day.
+*** MEND ***
+*** MSTART 097 034.0 002.0 0 NH 1792 1968 ***
+   [Art.] 34. And in case there shall not appear to be a senator elected, by a plurality of votes, for
+any district, the deficiency shall be supplied in the following manner, viz. The members of the
+house of representatives, and such senators as shall be declared elected, shall take the names of
+the two persons having the highest number of votes in the district, and out of them shall elect, by
+joint ballot, the senator wanted for such district; and in this manner all such vacancies shall be
+filled up, in every district of the state and in case the person receiving a plurality of votes in any
+district is found by the Senate not to be qualified to be seated, a new election shall be held
+forthwith in said district.  All vacancies in the senate arising by death, removal out of the state, or
+otherwise, except from failure to elect, shall be filled by a new election by the people of the
+district upon the requisition of the governor and council, as soon as may be after such vacancies
+shall happen.
+*** MEND ***
+*** MSTART 098 049.0 002.0 0 NH 1792 1968 ***
+     [Art.] 49. Whenever the chair of the governor shall become vacant, by reason of his death,
+absence from the state, or otherwise, the president of the senate shall, during such vacancy, have
+and exercise all the powers and authorities which by this constitution the governor is vested with
+when personally present; but when the president of the senate shall exercise the office of governor
+he shall not hold his office in the senate.  Whenever the chair both of the governor and of the
+president of the senate shall become vacant, by reason of their death, absence from the state, or
+otherwise, the speaker of the house shall, during such vacancies, have and exercise all the powers
+and authorities which, by this constitution, the governor is vested with when personally present;
+but when the speaker of the house shall exercise the office of governor, he shall not hold his office
+in the house.  Whenever the chair of the governor, of the president of the senate, and of the
+speaker of the house all become vacant by reason of their death, absence from state, or otherwise,
+the secretary of state shall during such vacancies, have and exercise all the powers and authorities
+which, by this constitution the governor is vested with when personally present.  But when the
+secretary of state exercises the office of governor, he shall not hold his office as secretary of state. 
+Whenever the chair of the governor, of the president of the senate, of the speaker of the house,
+and the secretary of state all become vacant by reason of their death, absence from the state, or
+otherwise, the state treasurer shall during such vacancies, have and exercise all the powers and
+authorities which, by this constitution the governor is vested with when personally present.  But
+when the state treasurer exercises the office of governor, he shall not hold his office as state
+treasurer.  Whenever either the secretary of state or the state treasurer exercises the office of
+governor, he shall be only an acting governor until such time as the senate elects a president or the
+house of representatives elects a speaker, and upon their election, the president of the senate or
+the speaker of the house of representatives shall exercise the office of governor as hereinabove
+provided.  Provided nevertheless, that while the governor is absent from the state on official
+business, he shall have the power and authority to transact such business.
+*** MEND ***
+*** MSTART 099 051.0 002.0 0 NH 1792 1968 ***
+     [Art.] 5l. The governor of this state for the time being, shall be commander-in-chief of all the
+military forces of the state; and shall have full power, by himself or by any chief commander, or
+other officer or officers, from time to time, to train, instruct, exercise and govern the militia; to
+call forth the militia and to put in warlike posture the inhabitants of the state; to execute the laws
+of the state and of the United States; to supress insurrection and to repel invasion; and, in fine, the
+governor is hereby entrusted with all other powers incident to the office of commander-in-chief to
+be exercised agreeably to the rules and regulations of the constitution and the laws of the land.
+*** MEND ***
+*** MSTART 100 085.0 002.0 0 NH 1792 1968 ***
+  [Art.] 85. And the oaths or affirmations shall be taken and subscribed by the governor
+before the president of the senate, in the presence of the legislature, and by the senate and
+representatives before the governor and council for the time being; and by all other officers before
+such persons and in such manner as the legislature shall from time to time appoint.
+*** MEND ***
+*** MSTART 101 005.B 002.0 0 NH 1792 1968 ***
+   [Art.] 5-b. The general court may provide for the assessment of any class of real estate at
+valuations based upon the current use thereof.
+*** MEND ***
+*** MSTART 102 084.0 002.0 0 NH 1792 1970 ***
+OATHS AND SUBSCRIPTIONS - EXCLUSION FROM OFFICES - COMMISSIONS -WRITS
+ - CONFIRMATION OF LAWS - HABEAS CORPUS - THE ENACTING STYLE -
+ CONTINUANCE OF OFFICERS - PROVISION FOR FUTURE REVISION OF THE
+                      CONSTITUTION - ETC.
+
+   [Art.] 84. [Oath of Civil Officers.]  Any person chosen governor, councilor, senator, or
+representative, military or civil officer, (town officers excepted) accepting the trust, shall, before
+he proceeds to execute the duties of his office, make and subscribe the following declaration, viz.
+- 
+   I, A.B. do solemnly swear, that I will bear faith and true allegiance to the United States of
+America and the state of New Hampshire, and will support the constitution thereof.  So help me
+God.
+
+   I, A.B. do solemnly and sincerely swear and affirm that I will faithfully and impartially discharge
+and perform all duties incumbent on me as ................................................., according to the best
+of my abilities, agreeably to the rules and regulations of this constitution and laws of the state of
+New Hampshie.  So help me God.
+
+   Any person having taken and subscribed the oath of allegiance, and the same being filed in the
+secretary's office, he shall not be obliged to take said oath again. 
+
+   Provided always, when any person chosen or appointed as aforesaid shall be of the
+denomination called Quakers, or shall be scrupulous of swearing, and shall decline taking the said
+oaths, such person shall take and subscribe them, omitting the word "swear," and likewise the
+words "So help me God," subjoining instead thereof, "This I do under the pains and penalties of
+perjury."
+
+         I, A.B., do solemnly and sincerely swear and affirm, that I will faithfully and impartially
+discharge and perform all the duties incumbent on me as....................according to the best of my
+abilities, agreeably to the rules and regulations of this constitution, and the laws of the State of
+New Hampshire. So help me God
+*** MEND ***
+*** MSTART 103 002.0 001.0 0 NH 1792 1974 ***
+[Art.] 2.  All men have certain natural, essential, and inherent rights - among which are, the
+enjoying and defending life and liberty; acquiring, possessing, and protecting, property; and, in a
+word, of seeking and obtaining happiness.  Equality of rights under the law shall not be denied or
+abridged by this state on account of race, creed, color, sex or national origin.
+*** MEND ***
+*** MSTART 104 003.0 002.0 0 NH 1792 1974 ***
+    [Art.] 3. The senate and house, shall assemble biennieally on the first Wednesday of December
+for such organizational purposes and, following thier organization, they shall assemble on the first
+Wednesday following the first Tuesday of January, and at such other times as they may judge
+necessary; and shall dissolve, and be dissolved at 12:01 AM on the first Wednesday of December
+biennially, and shall be stiled THE GENERAL COURT OF NEW-HAMPSHIRE.
+*** MEND ***
+*** MSTART 105 025.0 002.0 0 NH 1792 1974 ***
+   [Art.] 25.  The senate shall consist of twenty-four members. 
+*** MEND ***
+*** MSTART 106 032.0 002.0 0 NH 1792 1974 ***
+     [Art.] 32. The meetings for the choice of Governor, Council, and senators shall be warned by
+warrant from the selectmen, and governed by a moderator, who shall, in the presence of the
+selectmen, (whose duty it shall be to attend,) in open meeting, receive the votes of all the
+inhabitants of such towns and wards present and qualified to vote for senators; and shall in said
+meetings, in presence of said selectmen, and of the town or city clerk in said meetings, sort and
+count the said votes, and make a public declaration thereof, with the name of every person voted
+for and the number of votes for each person; and the town or city clerk shall make a fair record of
+the same at large, in the town book, and shall make a fair attested copy thereof, to be by him
+sealed up and directed to the secretary of the State, with a superscription expressing the purport
+thereof; and the said town or city clerk shall cause such attested copy to be delivered to the sheriff
+of the county in which said town or ward shall lie, twenty days at least before the the first
+Wednesday of December, or to the secretary of state at least twnety days before the said first
+Wednesday of December; and the sheriff of each county, or his deputy, shall deliver all such
+certificates by him received into the secretaries office, at least twenty days before the first
+Wednesday in December.
+*** MEND ***
+*** MSTART 107 033.0 002.0 0 NH 1792 1974 ***
+     [Art.] 33. And that there may be a due meeting of senators on the first Wednesday of
+December biennially, the governor and a majority of the council for the time being shall, as soon
+as may be, examine the return copies of such records, and fourteen days before the said first
+Wednesday of December, he shall issue his summons to such persons as appear to be chosen
+senators by a plurality of votes, to attend and take their seats on that day.
+*** MEND ***
+*** MSTART 108 043.0 002.0 0 NH 1792 1974 ***
+     [Art.] 43.  In cases of disagreement between the two houses, with regard to the time or place
+of adjournment, or prorogation the governor, with advice of council, shall have a right to adjourn
+or prorogue the general court, not exceeding ninety days, at any one time, as he may determine
+the public good may require. And he shall dissolve the same on the first Wednesday of December
+biennially. And in case of any infectious distemper prevailing in the place where the said court at
+any time is to convene, or any other cause whereby dangers may arise to the healths or lives of the
+members from their attendance, the president may direct the session to be holden at some other,
+the most convenient place within the State.
+*** MEND ***
+*** MSTART 109 008.0 001.0 0 NH 1792 1976 ***
+   [Art.] 8.  All power residing originally in, and being derived from, the people, all the magistrates
+and officers of government are their substitutes and agents, and at all times accountable to them.
+Government, therefore, should be open, accessible, accountable and responsive.  To that end, the
+public's right of access to governmental proceedings and records shall not be unreasonably
+restricted.
+*** MEND ***
+*** MSTART 110 011.0 001.0 0 NH 1792 1976 ***
+     Art. XI. All elections ought to be free, and every inhabitant of the state of eighteen years of
+age and upwards shall have an equal right to vote in any election.  Every person shall be
+considered an inhabitant for the purpose of voting in the town, ward, or unincorporated place
+where he has his domicile.  No person shall have the right t vote under the constitution of this
+state who has been convicted of treason, bribery or unincorporated place where he has his
+domicile.  No person shall have the right to vote under the constitution of this state who has been
+convicted of treason, bribery or any willful violation of the election laws of this state or of the
+United States; but the supreme court may, on notice to the attorney general, restore the privilege
+to vote to any person who may have forfeited it by conviction of such offences.  The general court
+shall provide by law for voting by qualified voters who at the time of biennial or state elections, or
+of the primary elections therefor, or of city elections, or of town elections by official ballot, are
+absent from the city or town of which they are inhabitants, or who by reason of physical disability
+are unable to vote in person, in the choice of any officer or officers to be elected or upon any
+question submitted at such election.  The right to vote shall not be denied to any person because
+of the non-payment of any tax.  Every inhabitant has equal right to be elected into office.
+*** MEND ***
+*** MSTART 111 013.0 002.0 0 NH 1792 1976 ***
+[Art.] 13.  [Repealed, 1976]
+*** MEND ***
+*** MSTART 211 028.0 002.0 0 NH 1792 1976 ***
+[Art.] 28. [Repealed, 1976]
+*** MEND ***
+*** MSTART 112 029.0 002.0 0 NH 1792 1976 ***
+   [Art.] 29. Provided nevertheless, that no person shall be capable of being elected a senator, who
+is not of the age of thirty years, and who shall not have been an inhabitant of this state for seven
+years immediately preceding his election, and at the time thereof he shall be an inhabitant of the
+district for which he shall be chosen.  Should such person, after election, cease to be an inhabitant
+of the district for which he was chosen, he shall be disqualified to hold said position and a vacancy
+shall be declared therein.
+*** MEND ***
+*** MSTART 113 030.0 002.0 0 NH 1792 1976 ***
+   [Art.] 30.  And every person, qualified as the constitution provides, shall be considered an
+inhabitant for the purpose of being elected into any office or place within this state, in the town,
+or ward, where he is domiciled.
+
+*** MEND ***
+*** MSTART 114 031.0 002.0 0 NH 1792 1976 ***
+   [Art.] 3l. [Repealed l976. Provisions covered by Part I, Art. ll.]
+*** MEND ***
+*** MSTART 115 032.0 002.0 0 NH 1792 1976 ***
+   [Art.] 32.  The meetings for the choice of governor, council and senators, shall be warned by
+warrant from the selectmen, and governed by a moderator, who shall, in the presence of the
+selectmen (whose duty it shall be to attend) in open meeting, receive the votes of all the
+inhabitants of such towns and wards present, and qualified to vote for senators; and shall, in said
+meetings, in presence of the said selectmen, and of the town or city clerk, in said meetings, sort
+and count the said votes, and make a public declaration thereof, with the name of every person
+voted for, and the number of votes for each person; and the town or city clerk shall make a fair
+record of the same at large, in the town book, and shall make out a fair attested copy thereof, to
+be by him sealed up and directed to the secretary of state, within five days following the election,
+with a superscription expressing the purport thereof.
+*** MEND ***
+*** MSTART 116 033.0 002.0 0 NH 1792 1976 ***
+   [Art.] 33.  And that there may be a due meeting of senators and representatives on the first
+Wednesday of December, biennially, the secretary of state shall, as soon as may be, examine the
+returned copy of such records; and fourteen days before the first Wednesday of December, he
+shall issue his summons to such persons as appear to be chosen senators and representatives, by a
+plurality of votes, to attend and take their seats on that day. 
+*** MEND ***
+*** MSTART 117 046.0 002.0 0 NH 1792 1976 ***
+   [Art.] 46.  All judicial officers, the attorney general, and all officers of the navy, and general and
+field officers of the militia, shall be nominated and appointed by the governor and council; and
+every such nomination shall be made at least three days prior to such appointment; and no
+appointment shall take place, unless a majority of the council agree thereto.
+*** MEND ***
+*** MSTART 118 048.0 002.0 0 NH 1792 1976 ***
+     [Art. ] 48.  Repealed l976.
+*** MEND ***
+*** MSTART 119 053.0 002.0 0 NH 1792 1976 ***
+     [Art. ] 53.  Repealed l976.
+*** MEND ***
+*** MSTART 120 054.0 002.0 0 NH 1792 1976 ***
+     [Art. ] 54.  Repealed l976.
+*** MEND ***
+*** MSTART 121 055.0 002.0 0 NH 1792 1976 ***
+     [Art. ] 55.  Repealed l976.
+*** MEND ***
+*** MSTART 122 017.0 001.0 0 NH 1792 1976 ***
+   [Art.] l7.  In criminal prosecutions, the trial of facts, in the vicinity where they happened, is so
+essential to the security of the life, liberty and estate of the citizen, that no crime or offense ought
+to be tried in any other county or judicial district than that in which it is committed; except in any
+case in any particular county or judicial district, upon motion by the defendant, and after a finding
+by the court that a fair and impartial trial cannot be had where the offense may be committed, the
+court shall direct the trial to a county or judicial district in which a fair and impartial trial can be
+obtained.
+*** MEND ***
+*** MSTART 123 011.A 002.0 0 NH 1792 1978 ***
+   [Art.] ll-a.  Notwithstanding Articles 9 and ll, a law providing for an apportionment to form
+representative districts under Articles 9 and ll of Part Second may divide a town, ward or
+unincorporated place into two or more representative districts if such town, ward or place, by
+referendum requests such division.
+[November 22, l978. Rejected in l976 as proposed by convention, but adopted in l978 as
+proposed by the general court and including both representative and senate districts.]
+*** MEND ***
+*** MSTART 124 026.A 002.0 0 NH 1792 1978 ***
+   [Art.] 26-a.  Notwithstanding Article 26 or any other article, a law providing for an
+apportionment to form senatorial districts under Article 26 of Part Second may divide a town,
+ward or unincorporated place into two or more senatorial districts if such town, ward or place by
+referendum requests such division.
+*** MEND ***
+*** MSTART 125 073.A 002.0 0 NH 1792 1978 ***
+   [Art.] 73-a.  The chief justice of the supreme court shall be the administrative head of all the
+courts.  He shall, with the concurrence of a majority of the supreme court justices, make rules
+governing the administration of all courts in the state and the practice and procedure to be
+followed in all  such courts.  The rules so promulgated shall have the force and effect of law.
+*** MEND ***
+*** MSTART 126 027.0 001.0 0 NH 1792 1978 ***
+   [Art.] 27.  No soldier in time of peace, shall be quartered in any house, without the consent of
+the owner; and in time of war, such quarters ought not to be made but by the civil authorities in a
+manner ordained by the legislature.
+*** MEND ***
+*** MSTART 127 043.0 002.0 0 NH 1792 1980 ***
+   [Art.] 43. In cases of disagreement between the two houses, with regard to the time or place of
+adjournment or prorogation, the governor, with advice of council, shall have a right to adjourn or
+prorogue the general court, not exceeding ninety days at any one time, as he may determine the
+public good may require, and he shall dissolve the same on the first Wednesday of December
+biennially.  And, in cases whereby dangers may arise to the health or lives of the members from
+their attendance at the general court at any place, the governor may direct the session to be
+holden at some other the most convenient place within the state.
+*** MEND ***
+*** MSTART 128 095.0 002.0 0 NH 1792 1980 ***
+   [Art.] 95.  No person holding the office of judge of any court, (except special judges) secretary,
+treasurer of the state, attorney-general, register of deeds, sheriff, collectors of state and federal
+taxes, members of Congress or any person holding any office under the United States, including
+any person in active military service, shall at the same time hold the office of governor, or have a
+seat in the senate, or house of representatives, or council; but his being chosen and appointed to,
+and accepting the same, shall operate as a resignation of his seat in the chair, senate, or house of
+representatives, or council; and the place so vacated shall be filled up.  No member of the council
+shall have a seat in the senate or house of representatives.
+*** MEND ***
+*** MSTART 129 099.0 002.0 0 NH 1792 1980 ***
+[Repealed, 1980]
+*** MEND ***
+*** MSTART 130 100.0 002.0 0 NH 1792 1980 ***
+[Art.] l00. [Alternate Methods of Proposing Amendments.] Amendments to this constitution may
+be proposed by the general court or by a constitutional convention selected as herein provided. 
+   (a) The senate and house of representatives, voting separately, may propose amendments by a
+three-fifths vote of the entire membership of each house at any session.
+   (b) The general court, by an affirmative vote of a majority of all members of both houses voting
+separately, may at any time submit the question "Shall there be a convention to amend or revise
+the constitution?" to the qualified voters of the state.  If the question of holding a convention is
+not submitted to the people at some time during any period of ten years, it shall be submitted by
+the secretary of state at the general election in the tenth year following the last submission.  If a
+majority of the qualified voters voting on the question of holding a convention approves it,
+delegates shall be chosen at the next regular general election, or at such earlier time as the
+legislature may provide, in the same manner and proportion as the representatives to the general
+court are chosen. The delegates so chosen shall convene at such time as the legislature may direct
+and may recess from time to time and make such rules for the conduct of their convention as they
+may determine. 
+   (c) The constitutional convention may propose amendments by a three-fifths vote of the entire
+membership of the convention.    Each consitutional amendment proposed by the general court or
+by a constitutional convention shall be submitted to the voters by written ballot at the next
+biennial November election and shall become a part of the Constitution only after approval by
+two-thirds of the qualified voters present and voting on the subject in the towns, wards, and
+unincorporated places.
+*** MEND ***
+*** MSTART 131 042.0 002.0 0 NH 1792 1982 ***
+   [Art.] 42. The governor shall be chosen biennially in the month of November; and the votes for
+governor shall be received, sorted, counted, certified and returned, in the same manner as the
+votes for senators; and the secretary shall lay the same before the senate and house of
+representatives, on the first Wednesday following the first Tuesday of January to be by them
+examined, and in case of an election by a plurality of votes through the state, the choice shall be
+by them declared and published.  And the qualifications of electors of the governor shall be the
+same as those for senators; and if no person shall have a plurality of votes, the senate and house of
+representatives shall, by joint ballot elect one of the two persons, having the highest number of
+votes, who shall be declared governor.  And no person shall be eligible to this office, unless at the
+time of his election, he shall have been an inhabitant of this state for 7 years next preceding, and
+unless he shall be of the age of 30 years.
+*** MEND ***
+*** MSTART 231 002.A 001.0 0 NH 1792 1982 ***
+     [Art.] 2-a. All persons have the right to keep and bear arms in defense of themselves, their
+families, their property and the state.
+*** MEND ***
+*** MSTART 132 011.0 001.0 0 NH 1792 1984 ***
+   [Art.] ll. All elections are to be free, and every inhabitant of the state of l8 years of age and
+upwards shall have an equal right to vote in any election.  Every person shall be considered an
+inhabitant for the purposes of voting in the town, ward, or unincorporated place where he has his
+domicile. No person shall have the right to vote under the constitution of this state who has been
+convicted of treason, bribery or any willful violation of the election laws of this state or of the
+United States; but the supreme court may, on notice to the attorney general, restore the privilege
+to vote to any person who may have forfeited it by conviction of such offenses.  The general court
+shall provide by law for voting by qualified voters who at the time of the biennial or state
+elections, or of the primary elections therefor, or of city elections, or of town elections by official
+ballot, are absent from the city or town of which they are inhabitants, or who by reason of
+physical disability are unable to vote in person, in the choice of any officer or officers to be
+elected or upon any question submitted at such election.  Voting registration and polling places
+shall be easily accessible to all persons including disabled and elderly persons who are otherwise
+qualified to vote in the choice of any officer or officers to be elected or upon any question
+submitted at such election.  The right to vote shall not be denied to any person because of the
+non-payment of any tax.  Every inhabitant of the state, having the proper qualifications, has equal
+right to be elected into office.
+*** MEND ***
+*** MSTART 133 015.0 001.0 0 NH 1792 1984 ***
+   [Art.] l5. [Right of Accused.]  No subject shall be held to answer for any crime, or offense, until
+the same is fully and plainly, substantially and formally, described to him; or be compelled to
+accuse or furnish evidence against himself.  Every subject shall have a right to produce all proofs
+that may be favorable to himself; to meet the witnesses against him face to face, and to be fully
+heard in his defense, by himself, and counsel.  No subject shall be arrested, imprisoned, despoiled,
+or deprived of his property, immunities, or privileges, put out of the protection of the law, exiled
+or deprived of his life, liberty, or estate, but by the judgment of his peers, or the law of the land;
+provided that, in any proceeding to commit a person acquitted of a criminal charge by reason of
+insanity, due process shall require that clear and convincing evidence that the person is potentially
+dangerous to himself or to others and that the person suffers from a mental disorder must be
+established.  Every person held to answer in any crime or offense punishable by deprivation of
+liberty shall have the right to counsel at the expense of the state if need is shown; this right he is at
+liberty to waive, but only after the matter has been thoroughly explained by the court.
+*** MEND ***
+*** MSTART 134 003.0 002.0 0 NH 1792 1984 ***
+   [Art.] 3.  The senate and house shall assemble biennially on the first Wednesday of December
+for organizational purposes in even numbered years, and shall assemble annually on the first
+Wednesday following the first Tuesday in January, and at such other times as they may judge
+necessary; and shall dissolve and be dissolved at l2:0l A.M. on the first Wednesday of December
+in even numbered years and shall be styled THE GENERAL COURT OF NEW HAMPSHIRE.
+*** MEND ***
+*** MSTART 135 015.0 002.0 0 NH 1792 1984 ***
+      [Art.] l5.  The presiding officers of both houses of the legislature, shall severally receive out of
+the state treasury as compensation in full for their services for the term elected the sum of $250,
+and all other members thereof, seasonably attending and not departing without license, the sum of
+$200 and each member shall receive mileage for actual daily attendance on legislative days, but
+not after the legislature shall have been in session for 45 legislative days or after the first day of
+July following the annual assembly of the legislature, whichever occurs first; provided, however,
+that, when a special session shall be called by the governor or by a 2/3 vote of the then qualified
+members of each branch of the general court, such officers and members shall receive for
+attendance an additional compensation of $3 per day for a period not exceeding 15 days and the
+usual mileage. Nothing herein shall prevent the payment of additional mileage to members
+attending committee meetings or on other legislative business on nonlegislative days.
+*** MEND ***
+*** MSTART 136 049.0 002.0 0 NH 1792 1984 ***
+   [Art.] 49. [President of Senate, etc., To Act as Governor When Office Vacant; Speaker of
+House to Act When Office of President of Senate Is also Vacant.]  In the event of the death,
+resignation, removal from office, failure to qualify, physical or mental incapacity, absence from the
+state, or other incapacity of the governor, the president of the senate, for the time being, shall act
+as governor until the vacancy is filled or the incapacity is removed; and if the president of the
+senate, for any of the above-named causes, shall become incapable of performing the duties of
+governor, the same shall devolve upon the speaker of the house of representatives, for the time
+being, or in the case of the like incapacity of the speaker, upon the secretary of state, or in case of
+his like incapacity, upon the state treasurer, each of whom, in that order, shall act as governor, as
+hereinabove provided, until the vacancy is filled or the incapacity removed.  Whenever a vacancy
+for the duration or remainder of the governor's term of office occurs before the commencement of
+the last year of such term, a special election for governor shall take place to fill the vacancy, as
+provided by law.  Whenever the speaker of the house acts as governor, he shall act as such only
+until such time as the vacancy is filled or the incapacity removed in either the office of governor or
+of president of the senate, whichever occurs first.  Whenever either the secretary of state or the
+treasurer acts as governor, he shall act as such only until such time as the vacancy is filled or the
+incapacity removed in the offices of governor, of president of the senate or of speaker of the
+house, whichever occurs first.  While acting as governor under this article, the president of the
+senate, speaker of the house, secretary of state or state treasurer, as the case may be, shall be
+styled Acting Governor, shall not be required to take an additional oath of office, shall have and
+exercise all the powers, duties and authorities of, and receive compensation equal to that of the
+office of governor; and the capacity of each such officer to serve as president of the senate as well
+as senator, speaker of the house of representatives as well as representative, secretary of state, or
+state treasurer, as the case may be, or to receive the compensation of such office, shall be
+suspended only.  While the governor or an acting governor is absent from the state on official
+business, he shall have the power and authority to transact such business.
+*** MEND ***
+*** MSTART 137 049.A 002.0 0 NH 1792 1984 ***
+   [Art.] 49-a  Whenever the governor transmits to the secretary of state and president of the
+senate his written declaration that he is unable to discharge the powers and duties of his office by
+reason of physical or mental incapacity and until he transmits to them a written declaration to the
+contrary, the president of the senate, for the time being, shall act as governor as provided in
+article 49, subject to the succession provisions therein set forth.  Whenever it reasonably appears
+to the attorney general and a majority of the council that the governor is unable to discharge the
+powers and duties of his office by reason of physical or mental incapacity, but the governor is
+unwilling or unable to transmit his written declaration to such effect as above provided, the
+attorney general shall file a petition for declaratory judgment in the supreme court requesting a
+judicial determination of the ability of the governor to discharge the powers and duties of his
+office.  After notice and hearing, the justices of the supreme court shall render such judgment as
+they find warranted by a preponderance of the evidence; and, if the court holds that the governor
+is unable to discharge the powers and duties of his office, the president of the senate, for the time
+being, shall act as governor as provided in article 49, subject to the succession provisions therein
+set forth, until such time as the disability of the governor is removed or a newly elected governor
+is inaugurated.  Such disability, once determined by the supreme court, may be removed upon
+petition for declaratory judgment to the supreme court by the governor if the court finds, after
+notice and hearing, by a preponderance of the evidence that the governor is able to discharge the
+powers and duties of his office.  Whenever such disability of the governor, as determined by his
+written declaration or by judgment of the supreme court, has continued for a period of 6 months,
+the general court may, by concurrent resolution adopted by both houses, declare the office of
+governor vacant.  Whenever the governor-elect fails to qualify by reason of physical or mental
+incapacity or any cause other than death or resignation, for a period of 6 months following the
+inauguration date established by this constitution, the general court may, by concurrent resolution
+adopted by both houses, declare the office of governor vacant.  The provisions of article 49 shall
+govern the filling of such vacancy, either by special election or continued service of an acting
+governor.  If the general court is not in session when any such 6-month period expires, the acting
+governor, upon written request of at least l/4 of the members of each house, shall convene the
+general court in special session for the sole purpose of considering and acting on the question
+whether to declare a vacancy in the office of governor under this article. 
+*** MEND ***
+*** MSTART 138 060.0 002.0 0 NH 1792 1984 ***
+   [Art.] 60.  There shall be biennially elected, by ballot, five councilors, for advising the governor
+in the executive part of government.  The freeholders and other inhabitants in each county,
+qualified to vote for senators, shall some time in the month of November, give in their votes for
+one councilor; which votes shall be received, sorted, counted, certified, and returned to the
+secretary's office, in the same manner as the votes for senators, to be by the secretary laid before
+the senate and house of representatives on the first Wednesday following the first Tuesday of
+January.
+*** MEND ***
+*** MSTART 139 085.0 002.0 0 NH 1792 1984 ***
+   [Art.] 85.  The oaths or affirmations shall be taken and subscribed by the governor before a
+justice of a New Hampshire court, in the presence of both houses of the legislature, by the
+senators and representatives before the governor and council for the time being, and by all other
+officers before such persons and in such manner as the general court shall from time to time
+appoint. 
+*** MEND ***
+*** MSTART 140 028.A 001.0 0 NH 1792 1984 ***
+   [Art.] 28-a.  The state shall not mandate or assign any new, expanded or modified programs or
+responsibilities to any political subdivision in such a way as to necessitate additional local
+expenditures by the political subdivision unless such programs or responsibilities are fully funded
+by the state or unless such programs or responsibilities are approved for funding by a vote of the
+local legislative body of the political subdivision.
+*** MEND ***
+*** MSTART 141 036.A 001.0 0 NH 1792 1984 ***
+   [Art.] 36-a  The employer contributions certified as payable to the New Hampshire retirement
+system or any successor system to fund the system's liabilities, as shall be determined by sound
+actuarial valuation and practice, independent of the executive office, shall be appropriated each
+fiscal year to the same extent as is certified.  All of the assets and proceeds, and income
+therefrom, of the New Hampshire retirement system and of any and all other retirement systems
+for public officers and employees operated by the state or by any of its political subdivisions, and
+of any successor system, and all contributions and payments made to any such system to provide
+for retirement and related benefits shall be held, invested or disbursed as in trust for the exclusive
+purpose of providing for such benefits and shall not be encumbered for, or diverted to, any other
+purposes.
+*** MEND ***
+*** MSTART 142 018.A 002.0 0 NH 1792 1984 ***
+   [Art.] l8-a All sections of all budget bills before the general court shall contain only the
+operating and capital expenses for the executive, legislative and judicial branches of government. 
+No section or footnote of any such budget bill shall contain any provision which establishes,
+amends or repeals statutory law, other than provisions establishing, amending or repealing
+operating and capital expenses for the executive, legislative and judicial branches of government.
+*** MEND ***
+*** MSTART 143 020.0 001.0 0 NH 1792 1988 ***
+   [Art.] 20.  In all controversies concerning property, and in all suits between two or more
+persons except those in which another practice is and has been customary and except those in
+which the value in controversy does not exceed $1,500 and no title to real estate is involved, the
+parties have a right to a trial by jury.  This method of procedure shall be held sacred, unless, in
+cases* arising on the high seas and in cases relating to mariners' wages, the legislature shall think
+it necessary hereafter to alter it.
+*** MEND ***
+*** MSTART 144 006.B 002.0 0 NH 1792 1990 ***
+   [Art.] 6-b.  All moneys received from a state-run lottery and all the interest received on such
+moneys shall, after deducting the necessary costs of administration, be appropriated and used
+exclusively for the school districts of the state.  Such moneys shall be used exclusively for the
+purpose of state aid to education and shall not be transferred or diverted to any other purpose.
+*** MEND ***
+*** CEND ***

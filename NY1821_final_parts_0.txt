@@ -1,0 +1,977 @@
+This is ready to go.
+
+Not quite, check Art 1, sec 6
+
+JW 1.7.02
+
+
+
+
+*** CSTART NY 01/01/1821 01/01/1846 ***
+CONSTITUTION OF NEW YORK -1821
+
+*** ASTART 9001.0 NY 1821 ***
+
+     We, the people of the State of New York, acknowledging with gratitude the grace and
+beneficence of God in permitting us to make choice of our form of government, do establish this
+constitution.
+
+*** AEND ***
+*** ASTART 001.0 NY 1821 ***
+
+
+*** SSTART 001.0 001.0 0 NY 1821 ***
+
+
+ARTICLE I
+
+     SEC. 1. The legislative power of this State shall be vested in a senate and assembly.
+
+*** SEND ***
+
+*** SSTART 002.0 001.0 0 NY 1821 ***
+
+
+     SEC. 2. The senate shall consist of thirty-two members. The senators shall be chosen for
+four years, and shall be freeholders. The assembly shall consist of one hundred and twenty-eight
+members, who shall be annually elected.
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 NY 1821 ***
+
+
+
+     SEC. 3. A majority of each house shall constitute a quorum to do business. Each house
+shall determine the rules of its own proceedings, and be the judge of the qualifications of its own
+members. Each house shall choose its own officers; and the senate shall choose a temporary
+president when the lieutenant-governor shall not attend as president or shall act as governor.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 NY 1821 ***
+
+
+     SEC. 4. Each house shall keep a journal of its proceedings, and publish the same, except
+such parts as may require secrecy. The doors of each house shall be kept open, except when the
+public welfare shall require secrecy. Neither house shall, without the consent of the other,
+adjourn for more than two days.
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 NY 1821 ***
+
+
+     SEC. 5. The State shall be divided into eight districts, to be called senate districts, each of
+which shall choose four senators.
+     The first district shall consist of the counties of Suffolk, Queens, Kings, Richmond, and
+New York.
+     The second district shall consist of the counties of Westchester, Putnam, Dutchess,
+Rockland, Orange, Ulster, and Sullivan.
+     The third district shall consist of the counties of Greene, Columbia, Albany, Rensselaer,
+Schoharie, and Schenectady.
+     The fourth district shall consist of the counties of Saratoga, Montgomery, Hamilton,
+Washington, Warren, Clinton, Essex, Franklin, and Saint Lawrence.
+     The fifth district shall consist of the counties of Herkimer, Oneida, Madison, Oswego,
+Lewis, and Jefferson.
+     The sixth district shall consist of the counties of Delaware, Otsego, Chenango, Broome,
+Cortland, Tompkins, and Tioga.
+     The seventh district shall consist of the counties of Onondaga, Cayuga, Seneca, and
+Ontario.
+     The eighth district  shall consist of the counties of Steuben, Livgastaun, [Livingston??.
+ed] Monroe, Genesee, Niagara, Erie, Allegany, Cattaraugus, and Chatauque.
+
+     And as soon as the senate shall meet, after the first election to be held in pursuance of this
+constitution, they shall cause the  senators to be divided by lot into four classes of eight in each,
+so that every district shall have one senator of each class; the classes to be numbered one, two,
+three, and four. And the seats of the first class shall be vacated at the end of the first year; of the
+second class, at the end of the second year; of the third class, at the end of the third year; of the
+fourth class, at the end of the fourth year, in order that one senator be annually elected in each
+senate district.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 NY 1821 ***
+
+
+     SEC. 6. An enumeration of the inhabitants of the State shall be taken, under the direction
+of  the legislature, in the year one thousand eight hundred and twenty-five, and at the end of
+every ten years thereafter; and the said districts shall be so altered by the legislature, at the first
+session after the return of every enumeration, that each senate district shall contain, as nearly as
+may be, an equal number of inhabitants, excluding aliens, paupers, and persons of color not
+taxed; and shall remain unaltered until the return of another enumeration, and shall at all times-
+consist of contiguous territory; and no county shall be divided in the formation of a senate
+district.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 NY 1821 ***
+
+
+     SEC. 7. The members of the assembly shall be chosen by counties, and shall be
+apportioned among the several counties of  the State, as nearly as may be, according to the
+numbers of their respective inhabitants, excluding aliens, paupers, and persons of color not taxed.
+An apportionment of members of assembly shall be made by the legislature, at its first session
+after the return of every enumeration; and when made, shall remain unaltered until another
+enumeration shall have been taken. But an apportionment of members of the assembly shall be
+made by the present legislature, according to the last enumeration taken under the authority of
+the United States, as nearly as may be. Every county heretofore established, and separately
+organized, shall always be entitled to one member of the assembly'; and no new county shall
+hereafter be erected, unless its population shall entitle it to a member.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 NY 1821 ***
+
+
+     SEC. 8. Any bill may originate in either house of the legislature; and all bills passed by
+one house may be amended by the other.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 NY 1821 ***
+
+
+     SEC. 9. The members of the legislature shall receive for their services a compensation to
+be ascertained by law, and paid  out of the public treasury; but no increase of the compensation
+shall take effect during the year in which it shall have been made. And no law shall be passed
+increasing the compensation of  the members of the legislation  beyond the sum of three dollars a
+day.
+
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 NY 1821 ***
+
+
+     SEC. 10. No member of the legislature shall receive any civil appointment, from the
+governor and senate, or from the legislature, during the term for which he shall have been
+elected.
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 NY 1821 ***
+
+
+     SEC. 11. No person being a member of Congress, or holding any judicial or military
+office under the United States, shall hold a seat in the legislature. And if any person shall, while a
+member of the legislature, be elected to Congress, or appointed to any office, civil or military,
+under the Government of the United States, his acceptance hereof shall vacate his seat.
+
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 NY 1821 ***
+
+
+     SEC. 12. Every bill which shall have  passed the senate and assembly shall, before it
+becomes a law, be presented to the governor; if he approve, he shall sign it; but if not, he shall
+return it with his objections to that house in which it shall have originated; who shall enter the
+objections at large on their journal, and  proceed to reconsider it. If after such reconsideration
+two-thirds of the members present shall agree to pass the bill, it shall be sent, together with the
+objections, to the other house, by which it shall likewise be reconsidered; and if  approved by
+two-thirds of the members present, it shall become a law. But in all such cases the votes of both
+houses shall  be determined by yeas and nays, and the names of the persons voting for and
+against the bill shall be entered on the journal of each house respectively. If any bill shall not be
+returned by the governor within ten days (Sundays excepted) after it shall  have been  presented
+to him, the same shall be a law in like manner as if he had signed it, unless the legislature shall,
+by their adjournment, prevent its return; in which case it shall not be a law.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 NY 1821 ***
+
+
+     SEC. 13. All officers holding, their offices during good behavior may be removed by
+joint resolution of the two houses of the legislature; if two-thirds of  all the members elected to
+the. assembly and a majority of all the members elected to the senate concur therein.
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 NY 1821 ***
+
+
+     SEC. 14. The political year shall begin on the first day  of January; and the legislature
+shall, every year, assemble on the first Tuesday of January , unless a different day shall be
+appointed by law.
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 NY 1821 ***
+
+
+     SEC. 15. The next election for governor, lieutenant-governor, senators and members of
+assembly,  shall commence on the first, Monday of November, one thousand eight hundred and
+twenty-two; and all subsequent elections shall be held at such time in the month of October or
+November as the legislature shall by law provide.
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 NY 1821 ***
+
+
+     SEC. 16. The governor, lieutenant-governor, senators and members of assembly, first
+elected under this constitution, shall enter on the duties of their respective offices on the first day
+of January, one thousand eight hundred and twenty-three; and the governor, lieutenant-governor,
+senators and members of assembly, now in office, shall continue to hold the same until the first
+day of January, one thousand eight hundred and twenty-three, and no longer.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 NY 1821 ***
+
+
+
+
+ARTICLE II
+
+*** SSTART 001.0 002.0 0 NY 1821 ***
+
+
+     SECTION 1. Every male citizen of the age of twenty-one years, who shall have been an
+inhabitant of  this State one year preceding any election, and for the last six months a resident of
+the town or county where he may offer his vote; and shall have, within the year next preceding
+the election, paid a tax to the State or county, assessed upon his real or personal property; or shall
+by law be exempted from taxation; or being armed and equipped according to law, shall have
+performed within that year military duty in the militia of this State; or who shall be exempted
+from performing militia duty in consequence of being a fireman in any city, town, or village in
+this State; and also, every male citizen of  the age of twenty-one years, who shall have been, for
+three years next preceding such election, an inhabitant of this State; and for the last year a
+resident in the town or county where he may offer his vote; and shall have been, within the last
+year, assessed to labor upon the public highways, and shall have performed the labor, or paid an
+equivalent therefor, according to law, shall be entitled to vote in the town or ward where lie
+actually resides, and not elsewhere, for all officers that Dow are, or hereafter may be, elective by
+the people; but no man of color, unless he shall have been for three years a citizen of this State,
+and for one year next  preceding any election shall be seized and possessed of a freehold estate of
+the value of two hundred and fifty dollars, over and above all debts and incumbrances charged
+thereon, and shall have been actually rated, and paid a tax thereon, shall be entitled to vote at any
+such election. And no person of color shall be subject to direct taxation unless h e shall be seized
+and  possessed of such real estate as aforesaid.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 NY 1821 ***
+
+
+     SEC. 2. Laws may be passed excluding from the right of suffrage persons who have been
+or may be convicted of infamous crimes.
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 NY 1821 ***
+
+
+     SEC. 3. Laws shall be made for ascertaining, by proper proofs, the citizens who shall be
+entitled to the right of suffrage hereby established.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 NY 1821 ***
+
+
+     SEC. 4. All elections by the citizens shall be by  ballot, except for such town officers as
+may by law be directed to be otherwise chosen.
+
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 NY 1821 ***
+
+
+ARTICLE III
+
+
+*** SSTART 001.0 003.0 0 NY 1821 ***
+
+
+
+     SECTION 1. The executive power shall be vested in a governor. He shall hold his office
+for two years; and a lieutenant-governor shall be chosen at the same time and for the same term.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 NY 1821 ***
+
+
+     SEC. 2. No person, except a native citizen of the United States, shall be eligible to the
+office of  governor; nor shall any person be eligible to that office who shall not be a freeholder,
+and shall not have attained the age of thirty years, and have been five years a resident within this
+State; unless he shall have been absent during that time on public business of the United States or
+of this State.
+
+*** SEND ***
+*** SSTART 003.0 003.0 0 NY 1821 ***
+
+
+     SEC. 3. The governor and lieutenant-governor shall be elected at the times and places of
+choosing members of the legislature. The  persons respectively having the highest number of
+votes for governor and lieutenant-governor shall be elected; but in case two or more shall have an
+equal and the highest number of votes for governor or for lieutenant-governor, the two houses of
+the legislature shall, by joint ballot, choose one of the said persons so having an equal and the
+highest number of votes for governor or lieutenant-governor.
+
+*** SEND ***
+*** SSTART 004.0 003.0 0 NY 1821 ***
+
+
+     SEC. 4. The governor shall be general and commander-in-chief of all the militia and
+admiral of the navy of the State. He shall have power to convene the legislature (or the senate
+only) on extraordinary occasions. He shall communicate by message to the legislature at every
+session the condition of the State, and recommend such matters to them as he shall judge
+expedient. He shall transact all necessary business with the officers of government, civil and
+military. He shall expedite all such measures as may be resolved upon by the legislature, and
+shall take care that the laws are  faithfully executed. He shall, at stated times, receive for his
+services a compensation which shall neither be increased nor diminished during the term for
+which he shall have been elected.
+
+*** SEND ***
+*** SSTART 005.0 003.0 0 NY 1821 ***
+
+
+     SEC. 5. The governor shall have power to grant reprieves and pardons, after conviction,
+for all offences, except treason and cases of impeachment. Upon convictions for treason, he shall
+have  power to suspend the execution of the sentence, until the case shall be reported to the
+legislature at its next meeting, when the legislature shall either pardon or direct the execution of
+the criminal, or grant a farther reprieve.
+
+
+*** SEND ***
+*** SSTART 006.0 003.0 0 NY 1821 ***
+
+     SEC. 6. In case of the impeachment of the governor, or his removal from office, death,
+resignation, or  absence from the State, the powers and duties of the office shall devolve upon the
+lieutenant-governor for the residue of the term, or until the governor absent or impeached shall
+return or be acquitted. But when the governor shall, with the consent of the legislature, be out of 
+the State, in time of war, at the head of a military force thereof, he shall still continue
+commander- in-chief of all the military force of the State.
+
+*** SEND ***
+*** SSTART 007.0 003.0 0 NY 1821 ***
+
+
+     SEC. 7. The lieutenant- governor shall be president of the senate, but shall have only a
+casting vote therein. If, during a vacancy  of the office of governor, the lieutenant-governor shall
+be impeached, displaced, resign, die, or be absent from the State, the president of  the senate shall
+act as governor, until the vacancy shall be filled or the disability shall cease.
+     
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 NY 1821 ***
+
+
+ARTICLE IV
+
+*** SSTART 001.0 004.0 0 NY 1821 ***
+
+     SECTION  1. Militia officers shall be chosen or appointed as follows:
+Captains, subalterns, and non-commissioned officers shall be chosen by the written votes of the
+members of their respective companies; field-officers of regiments and separate battalions, by the
+written votes of the commissioned officers of the respective regiments and separate battalions ;
+brigadier-generals, by the field-officers of their respective brigades; major- generals, brigadier-
+generals, and commanding officers of regiments or separate battalions shall appoint the staff-
+officers of their respective divisions, brigades, regiments, or separate battalions.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 NY 1821 ***
+
+
+     SEC. 2. The governor shall nominate and, with the consent of the senate, appoint all
+major-generals, brigade-inspectors, and chiefs of the staff departments, except the adjutant-
+general and commissary-general. The adjutant-general shall be appointed by the governor.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 NY 1821 ***
+
+
+     SEC. 3. The legislature shall by law direct the time and manner of electing militia
+officers, and of certifying their elections to the governor.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 NY 1821 ***
+
+
+     SEC. 4. The commissioned officers of the militia shall be commissioned by the governor,
+and no commissioned officer shall be removed from office, unless by the senate on the
+recommendation of  the governor, stating the grounds on which such removal is recommended,
+or by  the decision of a court-martial, pursuant to law. The present officers of the militia shall
+hold their commission, subject to removal as before provided.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 NY 1821 ***
+
+
+     SEC. 5. In case the mode of election and appointment of militia officers, hereby directed,
+shall not be found conducive to the improvement of the militia, the legislature may abolish the
+same, and provide by law  for their appointment and removal, if two-thirds of the members
+present in each house shall concur therein.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 NY 1821 ***
+
+
+     SEC. 6. The secretary of  state, comptroller, treasurer, attorney-general, surveyor-general,
+and commissary-general shall be appointed as follows: The senate and assembly shall each
+openly nominate one person for the said offices respectively; after which they shall meet
+together, and if they shall agree in their nominations, the person so nominated shall be appointed
+to the office for which he shall be nominated. If they  shall disagree, the appointment shall be
+made by the joint ballot of the senators and members of assembly. The treasurer shall be chosen
+annually. The secretary of  state, comptroller, attorney-general, surveyor-general, and
+commissary-general shall hold their offices for three years, unless sooner removed by concurrent
+resolution of the senate and assembly. 
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 NY 1821 ***
+
+
+     SEC. 7. The governor shall nominate, by message, in writing, and with the consent of the
+senate shall appoint, all judicial officers, except justices of the peace, who shall be appointed in
+manner following, that is to say : The board of supervisors in every county in this State shall, at
+such times as the legislature may direct, meet together; and they, or a majority of them so
+assembled, shall nominate so many persons as shall be equal to the number of justices of the
+peace to be appointed in the several towns in the respective counties. And the judges of the
+respective county courts, or a majority of them, shall also meet and nominate a like number of
+persons; and it shall be the duty of  the said board of supervisors and judges of county courts to
+compare such nominations, at such time and place as the legislature may direct. And if on  such
+comparison the said boards of supervisors and judges of county courts shall agree in their
+nominations, in all or in part, they shall file a certificate of the nominations in which they shall
+agree in the office of tile clerk of the county; and the person or persons named in such certificates
+shall be justices of the peace. And in case of disagreement in whole or in part, it shall be the
+further duty of the said boards of supervisors and judges respectively to transmit their said
+nominations, so far as they disagree in the same, to the governor, who shall select from the said
+nominations and appoint so many justices of  the peace as shall be requisite to fill the vacancies.
+     Every person appointed a justice of the peace shall hold his office for four years, unless
+removed by the county court, for causes particularly assigned by the judges of the said court.
+And no justice of the peace shall be removed until he shall have notice of the charges made
+against him, and an opportunity of being heard in his defence.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 NY 1821 ***
+
+
+     SEC. 8. Sheriffs and clerks of counties, including the register and clerk of the city  and
+county of New York, shall be chosen by the electors of the respective counties once in every
+three years, and as often as vacancies shall happen. Sheriffs shall hold no other office, and be
+ineligible for the next three years after the termination of their offices. They may be required by
+law to renew their security from time to time; and in default of giving such new security, their
+offices shall be deemed vacant. But the county shall never be made responsible for the acts of the
+sheriff; and the governor may remove any such sheriff, clerk, or register at any time within for
+which he shall be elected, giving to such sheriff, clerk, or register a copy of the charge against
+him, and an opportunity of being heard in his defence, before any removal shall be made.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 NY 1821 ***
+
+
+     SEC. 9. The clerks of courts, except those whose appointment is provided for in the
+preceding section, shall be appointed by  the courts of which they respectively are clerks; and
+district attorneys by the county courts. Clerks of courts and district attorneys shall hold their
+offices for three years, unless sooner removed by the courts appointing them.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 NY 1821 ***
+
+
+     SEC. 10. The mayors of all  the cities in this State shall be appointed annually, by the
+common Councils of the respective cities.
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 NY 1821 ***
+
+
+     SEC. 11.  So many coroners as the legislature may direct, not exceeding four in each
+county, shall be elected in the same manner as sheriffs, and shall hold offices for the same term,
+and be removable in like manner. 
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 NY 1821 ***
+
+
+     SEC. 12. The governor shall nominate and, with the consent of the, senate, appoint
+masters and examiners in chancery; who shall hold their offices for three years, unless sooner
+removed by the senate, on the recommendation of the governor. The registers and assistant
+registers shall be appointed by the chancellor, and hold their offices during his pleasure.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 NY 1821 ***
+
+
+     SEC. 13. The clerk of the court of oyer and terminer, and general sessions of  the peace,
+in and for the city and county of New York, shall be appointed by the court of general sessions of
+the peace in said city, and hold his office during the pleasure of the said court; and such clerks
+and other officers of courts, whose appointment is not herein provided for, shall be appointed by
+the several courts, or by the governor, with the consent of  the senate, as may be directed by law.
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 NY 1821 ***
+
+     SEC. 14. The special justices, and the assistant justice, and their clerks, in the city of
+New, York, shall be appointed by the common council of the said city; and shall hold their
+offices for the same, term  that the justices of the peace in the other counties of this State hold
+their offices, and shall be removable in like manner.
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 NY 1821 ***
+
+
+     SEC. 15. All officers heretofore elective by the people shall continue to be elected; and
+all other officers whose appointment is not provided for by this constitution, and all officers
+whose offices may be hereafter created by law, shall be elected by the people, or appointed, as
+may by law be directed.
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 NY 1821 ***
+
+
+     SEC. 16. Where the duration of any office is not prescribed by this constitution, it may be
+declared by law; and if not so declared, such office shall be held during the pleasure of the
+authority making the appointment.
+     
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 NY 1821 ***
+
+
+
+ARTICLE V
+
+*** SSTART 001.0 005.0 0 NY 1821 ***
+
+     SECTION 1. The court for the trial of  impeachments and the correction of errors shall
+consist of the president of the senate, the Senators, the chancellor, and the justices of the supreme
+court, or the major part of them; but when an impeachment shall be prosecuted against the
+chancellor, or any  justice of the supreme court, the person so impeached shall be suspended
+from exercising his office, until his acquittal; and when an appeal from a decree in chancery shall
+be heard, the chancellor shall inform the court of the reasons  for his decree, but shall have no
+voice in the final sentence; and when a writ of error shall be brought, on a judgment of the
+supreme court, the justices of that court shall assign the reasons for their judgment, but shall not
+have a voice for its affirmance or reversal.
+
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 NY 1821 ***
+
+
+   SEC. 2. The assembly shall have the power of impeaching all civil officers of this State for mal
+and corrupt conduct in office, and for high crimes and misdemeanors; but a majority of all the
+members elected shall concur in impeachment. Before the trial of an impeachment, the members
+of the court shall take an oath or  affirmation truly and impartially to try and determine the
+charge in question according to evidence; and no person shall be convicted without the
+concurrence of two-thirds of the members present. Judgment, in cases of impeachment, shall not
+extend farther than the removal from office and disqualification to hold and enjoy any office of
+honor, trust, or profit under this State; but the party convicted shall be liable to indictment and
+punishment according to law.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 NY 1821 ***
+
+
+     SEC. 3. The chancellor and justices of the supreme court shall hold their offices during
+good behavior, or until they shall attain the age of sixty years.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 NY 1821 ***
+
+
+     SEC. 4. The supreme court shall consist of a chief  justice and two justices, any of whom
+may hold the court.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 NY 1821 ***
+
+
+     SEC. 5  The State shall be divided by law into a convenient number of circuits, not less
+than four nor exceeding eight, subject to alteration  by  the legislature from time to time as the
+public good may require, for each of which a circuit judge shall be appointed, in the same
+manner, and hold his office by the same tenure, as the justices of the supreme court; and who
+shall possess the powers of a justice of the supreme court at chambers, and in the trial of issues
+joined in the supreme court, and in courts of oyer and terminer and jail-delivery. And such equity 
+powers may be vested in the said circuit judges, or in the county courts, or in such other
+subordinate courts as the legislature may by law direct, subject to the appellate jurisdiction of the
+chancellor.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 NY 1821 ***
+
+
+     SEC. 6. Judges of the county courts and recorders of cities shall hold their offices for five
+years, but may be renewed by the senate, on the recommendation of the governor, for causes to
+be stated in such recommendation.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 NY 1821 ***
+
+
+     SEC. 7. Neither the chancellor nor justices of the supreme court, nor any  circuit judge,
+shall hold any other office or public trust. All votes for any elective office, given by the
+legislature or the people, for the chancellor or a justice of the supreme court, or circuit judge,
+during his continuance in his judicial office, shall be void.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 NY 1821 ***
+
+
+ARTICLE VI
+
+*** SSTART 001.0 006.0 0 NY 1821 ***
+
+
+     Members of the legislature and all officers, executive and judicial, except such inferior
+officers as may by law be exempted, shall, before they enter on the duties of their respective
+offices, take and subscribe the following oath or affirmation:
+     " I do solemnly swear [or affirm, as the case may be] that I will support the Constitution
+of the United States, and the constitution of the State of New York; and that I will faithfully
+discharge the duties of the office of __________ according to the best of my ability."
+     And no other oath, declaration, or test shall be required as a qualification for any office or
+public trust.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 NY 1821 ***
+
+
+ARTICLE VII
+
+*** SSTART 001.0 007.0 0 NY 1821 ***
+
+     SECTION 1. No member of this State shall be disfranchised or deprived of any of the
+rights or privileges secured to any citizen thereof, unless by the law of the land or the judgment
+of his peers.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 NY 1821 ***
+
+
+     SEC. 2. The trial by jury in all cases in which it has been heretofore used shall remain
+inviolate forever; and no now court shall be instituted  but such as shall proceed according to the
+course of the common law; except such courts of equity as the legislature is herein authorized to
+establish.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 NY 1821 ***
+
+
+     SEC. 3. The free exercise and enjoyment of religious profession and  worship, without
+discrimination or  preference, shall forever be allowed in this State to all mankind; but the liberty
+of conscience hereby secured shall not be so construed as to excuse acts of licentiousness, or
+justify practices inconsistent with the peace or safety of this
+State.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 NY 1821 ***
+
+
+     SEC. 4. And whereas the ministers of the gospel are, by  their profession, dedicated to the
+service of God and the cure of souls and ought not to be diverted from the great duties of their
+functions;  therefore, no minister of the gospel, or priest of any denomination whatsoever, shall at
+any time hereafter, tinder any pretence or description whatever, be eligible to or capable of
+holding any civil or military office or place within this State.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 NY 1821 ***
+
+
+     SEC. 5. The militia of this State shall at all times hereafter  be armed and disciplined and
+in readiness for service; but all such inhabitants of this State, of any religious denomination
+whatever, as from scruples of conscience may be averse to bearing arms, shall be excused
+therefrom by paying to the State all equivalent in money; and the legislature shall provide by law
+for the collection of such equivalent, to be estimated according to the expense, in time and
+money, of an ordinary able-bodied militia-man.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 NY 1821 ***
+
+
+     SEC. 6. The privilege of the writ of habeas Corpus shall not, be suspended, unless when,
+in cases of rebellion or invasion, the public safety may require its suspension.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 NY 1821 ***
+
+
+     SEC. 7.  No  person shall be held to answer for a capital or otherwise infamous crime,
+(except in cases of impeachment, and in cases of the militia, when in actual service, and the land
+and naval forces in time of war, or which this State may keep, with the consent of Congress, in
+time of peace, and in cases of petit larceny, under the regulation of the legislature,) unless on
+presentment or indictment of a grand jury; and in every trial on impeachment or indictment, the
+party accused shall be allowed counsel as in civil actions. No person shall be subject, for the
+same offence, to be twice put in jeopardy, of life or limb, nor shall he be compelled, in any
+criminal case, to be a witness against himself; nor be deprived of life, liberty, or property without
+due  process of law; nor shall private property be taken for public use without just compensation.
+
+*** SEND ***
+*** SSTART 008.0 007.0 0 NY 1821 ***
+
+
+     SEC. 8. Every citizen may freely  speak, write, and publish his sentiments on all subjects,
+being responsible for the abuse of that right; and no law shall be passed to restrain or abridge the
+liberty of speech, or of  the press. In all prosecutions or indictments for libels, the truth may be
+given in evidence to the jury; and if it shall appear to the jury that the matter charged as libelous
+is true, and was published with good motives and for justifiable ends, the party shall be
+acquitted; and the jury shall have the right to determine the law and the fact.
+
+*** SEND ***
+*** SSTART 009.0 007.0 0 NY 1821 ***
+
+
+     SEC. 9. The assent of two-thirds of the members elected to each branch of the legislature
+shall be requisite to every  bill appropriating the public moneys or property for local or private
+purposes, or creating, continuing, altering, or renewing any body  politic or corporate.
+     
+*** SEND ***
+*** SSTART 010.0 007.0 0 NY 1821 ***
+
+
+     SEC. 10. The proceeds of all lands belonging to this State, except such parts thereof  as
+may be reserved or appropriated to public use or ceded to the United States, which shall 
+hereafter be sold or disposed of, together with the fund denominated the common-school fund,
+shall be and remain a perpetual fund, the interest of which shall be inviolably appropriated and
+applied to the support of common schools through out this state.  Rates of toll , not less than
+those agreed to by the canal commissioners, and set forth in their report to the legislature of the
+twelfth of March, one thousand eight hundred and twenty one, shall be imposed on and collected
+from all parts of the navigable communications between the great western and northern lakes and
+the Atlantic Ocean which now are or hereafter shall be made and completed; and the said tolls,
+together with the duties on the manufacture of salt, as established by the act of the fifteenth of
+April, one thousand eight hundred and seventeen, and the duties on goods sold on auction,
+excepting the sum of thirty-three thousand five hundred dollars, otherwise appropriated by the
+said act; and the amount of the revenue, established by the act of the legislature of the thirteenth
+of March, one thousand eight hundred and twenty, in lieu of the tax upon steam boat passengers,
+shall be and remain inviolably appropriated and applied to the completion of such navigable
+communication, and to the payment of the interest and the reimbursement of the capital of the
+money already borrowed, or which hereafter shall be borrowed, to make and complete the same. 
+And neither the rates of toll on the said navigable communications, nor the duties on the
+manufacture of salt aforesaid, nor the duties on goods sold on auction, as established by the act
+of the fifteenth of April, one thousand eight hundred and seventeen, nor the amount of the
+revenue, established by the act of  March the thirteenth, one thousand eight hundred and twenty,
+in lieu of the tax upon steamboat passengers shall be reduced or diverted at any time before the
+full and complete payment of the full principle and interest of the money borrowed, or to be
+borrowed, as aforesaid.  And the legislature shall never sell or dispose of the salt springs
+belonging to the State, nor the lands contiguous thereto, which may be necessary or convenient
+for their use, nor the said navigable communications, or any part or section thereof, but the same
+shall be and remain the property of this State. 
+
+*** SEND ***
+*** SSTART 011.0 007.0 0 NY 1821 ***
+
+
+SEC 11. No lottery shall hereafter be authorized in this State; and the legislature shall pass laws
+to prevent the sale of all lottery tickets within this State, except in lotteries already provided for
+by law.
+
+*** SEND ***
+*** SSTART 012.0 007.0 0 NY 1821 ***
+
+
+SEC 12.  No purchase or contract for the sale of  lands in this State, made since the fourteenth
+day of October, one thousand seven hundred and seventy five, or which may hereafter be made,
+of or with the Indians in this State, shall be valid, unless made under the authority and with the
+consent of the legislature.
+
+*** SEND ***
+*** SSTART 013.0 007.0 0 NY 1821 ***
+
+SEC 13.  Such parts of common law, and of the acts of the legislature of the colony of New
+York, as together did form the law of the said colony on the nineteenth day of April, one
+thousand seven hundred and seventy   five, and the resolutions of the Congress of the said
+colony, and of the convention of the state of New York, in force on the twentieth day of April,
+one thousand seven hundred and seventy seven, which have not since expired, or been repealed
+or altered; and such acts of the legislature of this State as are now in force, shall  be and continue
+the law of this State, subject to such alterations as the legislature shall make concerning the same.
+But all such parts of the common law, and such of the said acts or part, thereof as are repugnant
+to this constitution, are hereby abrogated.
+
+*** SEND ***
+*** SSTART 014.0 007.0 0 NY 1821 ***
+
+
+     SEC. 14. All grants of land within this State, made by the King of Great Britain, or
+persons acting under his authority, after the fourteenth day of October, one thousand seven
+hundred and seventy-five, shall be null and void; but nothing contained in this constitution shall
+affect any  grants of land within this State made by  the authority of the said King or his
+predecessors, or shall annul any charters to bodies politic and corporate, by him or them made
+before that day; or shall affect any such grants or charters since made by this State, or by persons
+acting under its authority; or shall impair the obligation of  any debts contracted by the State, or
+individuals, or bodies-corporate, or any other rights of property, or any suits, actions, rights of
+action, or other proceedings in courts of justice.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 NY 1821 ***
+
+
+ARTICLE VIII
+
+*** SSTART 001.0 008.0 0 NY 1821 ***
+
+
+     SECTION 1. Any amendment or amendments to this constitution may be proposed in the
+senate or assembly, and if the same shall be agreed to by a majority of the members elected to
+each of the two Houses, such proposed amendment or amendments shall be entered on their
+journals, with the yeas and nays taken thereon, and referred to the legislature then next to be
+chosen; and shall be published for three months previous to the time of making such choice; and 
+if in the legislature next chosen as aforesaid such proposed amendment or amendments shall be
+agreed to by two-thirds of all the members elected to each house, then it shall be the duty of the
+legislature to submit such proposed amendment or amendments to the people, in such manner 
+and at such time as the legislature shall prescribe; and if the people shall approve and ratify such
+amendment or amendments by a majority of the electors qualified to vote for members of the
+legislature, voting thereon, such amendment or amendments shall become part of the
+constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 NY 1821 ***
+
+
+
+ARTICLE IX
+
+*** SSTART 001.0 009.0 0 NY 1821 ***
+
+
+     SECTION 1. This constitution shall be in force from the last day of December, in the year
+one thousand eight hundred and twenty-two. But all those parts of  the same which relate to the
+right of suffrage; the division of the State into senate districts; the number of members of the
+assembly to be elected, in pursuance of this constitution; the apportionment of members of
+assembly; the elections hereby  directed to commence on the first Monday of November, in the
+year one thousand eight hundred and twenty-two; the continuance of the members of the present
+legislature in office until the first day of January, in the year one thousand eight hundred and
+twenty-three; and the prohibition against authorizing lotteries; the prohibition against
+appropriating the public moneys or  property for local or private purposes, or creating,
+continuing, altering, or renewing any body politic or corporate, without the assent of two-thirds 
+of the members elected to each branch of the legislature, shall be in force and take effect from the
+last day of February next. The members of the present legislature shall, on the first Monday of
+March next, take and subscribe an oath or affirmation to support this constitution, so far as the
+same shall then  be in force. Sheriffs, clerks of counties, and coroners shall be elected at the
+election hereby directed to commence on the first Monday of November, in the year one
+thousand eight hundred and twenty-two, but they shall not enter on the duties of their offices be-
+
+fore the first day of January  then next following. The commissions of all persons holding  civil
+offices on the last day of December, one thousand eight hundred and twenty-two, shall expire on
+that day, but the officers then  in commission may respectively continue to hold their said offices
+until new appointments or elections shall take place under this constitution.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 NY 1821 ***
+
+
+     SEC. 2. The existing laws relative to the manner of notifying, holding, and conducting
+elections, making returns, and canvassing votes shall be in force and observed in respect to the
+elections hereby directed to commence on the first Monday of November, in the year one
+thousand eight hundred and twenty-two, so far as the same are applicable. And the present
+legislature shall pass such other and further laws as may be requisite for the execution of the
+provisions of this constitution in respect to elections.
+
+*** SEND ***
+*** AEND ***
+                    
+*** ASTART 9016.0 NY 1821 ***
+
+
+     Done in convention, at the capitol in the city of Albany, the tenth day of November, in
+the year one thousand eight hundred and twenty-one, and of  the Independence of the United
+States of America the forty-sixth. In witness whereof  we have hereunto subscribed our names.
+
+
+               
+               DANIEL D. TOMPKINS, President
+JOHN F. BACON
+SAMUEL S. GARDINER,
+     Secretaries
+
+*** AEND ***
+
+
+AMENDMENTS TO THE CONSTITUTION OF 1821
+
+
+*** MSTART 001 007.0 004.0 0 NY 1821 1826 ***
+
+(Ratified September 6, 7, 8, 1826)
+
+     1. That the people of this State in their several towns shall, at their annual election, and in
+such manner as the legislature shall direct, elect by ballot their justices of  the peace, and the
+justices so elected in any town shall immediately thereafter meet together, and, in presence of the
+supervisor and town clerk of the said town, be divided by lot into four classes, of one in each
+class, and be numbered one, two three, and  four, and the office of number one shall expire at the
+end of the first year, of number two at the end of the second year, of number three at the end of
+the third year, and of number four at the end of the fourth year, in order that one justice may
+thereafter be annually elected, and that so much of the seventh section of the fourth article of the
+constitution of this State as is inconsistent with this amendment be abrogated.
+
+*** MEND ***
+
+*** MSTART 002 001.0 002.0 0 NY 1821 1826 ***
+
+     II. That so much of the first section of the second article of the constitution as prescribes
+the qualification's of voters, other than  persons of color, be, and the same is hereby, abolished,
+and that the following  be substituted in the place thereof: "Every male citizen of tile age of
+twenty-one years, who shall have been an  inhabitant of  this State one year  next preceding any
+election, and for the last six months a resident of the county where he may offer his vote, shall be
+entitled to vote in the town or ward where he actually resides, and not elsewhere, for all officers
+that now  are, or hereafter  may be elective by the people."
+     
+*** MEND ***
+
+*** MSTART 003 010.0 007.0 0 NY 1821 1833 ***
+
+
+(Ratified 1833)
+
+     III. That the duties on the manufacture of salt, as established by the act of the fifteenth of
+April, one thousand eight hundred and seventeen, and by the tenth section of the seventh article
+of  the constitution of  this State, may, at any time hereafter, be reduced by an act of the
+legislature of  this State, but shall not, while the same is appropriated and pledged by  the said
+section, be reduced below the sum of six  cents upon each and every bushel, and the said duties
+shall remain inviolably appropriated and applied as is provided by the said tenth section. And
+that so much of the said tenth section of the seventh article of  the constitution of this State as is
+inconsistent with this amendment be abrogated.
+
+*** MEND ***
+
+*** MSTART 004 010.0 004.0 0 NY 1821 1833 ***
+
+(Ratified 1833)
+
+     IV. At the end of the tenth section of the fourth article of the said constitution add the
+following words: "Except in the city of New York, in which city the mayor shall be chosen
+annually by the electors thereof qualified to vote for the other  charter officers of the said city,
+and at the time of the election of such officers."
+
+*** MEND ***
+
+*** MSTART 005 010.0 007.0 0 NY 1821 1835 ***
+
+(Ratified November, 1835)
+
+     V. Whenever a sufficient amount of money shall be collected and safely invested for the
+reimbursement of such part as may then be unpaid of the money borrowed for the construction of
+the Eric and Champlain Canals, the tenth section of the seventh article of the constitution of this
+State, as far as it relates to the amount of duties on the manufacture of salt and the amount of
+duties on goods sold at auction, shall cease and determine, and thereafter the duties on  goods
+sold at auction, excepting therefrom the sum of thirty-three thousand five hundred dollars,
+otherwise appropriated by the act of the fifteenth of April, one thousand eight hundred and
+seventeen, and the duties on the manufacture of salt shall be restored to the general fund.
+
+*** MEND ***
+
+*** MSTART 006 010.0 004.0 0 NY 1821 1837 ***
+
+(Ratified November, 1839)
+
+VI. Mayors of the several cities in this State may be elected annually by the male inhabitants
+entitled to vote for members of  the common councils of such cities respectively, in such manner
+as the legislature shall by law provide, and the legislature may, from time to time, make such
+provision by law for the election of any one or more such mayors; but until such provision be
+made by law, such mayors (excepting the mayor of the city of New York) shall be appointed in
+the manner now provided by the constitution of this State; and so much of the tenth section of
+article fourth of the constitution of this State as is inconsistent with this amendment is hereby
+abrogated.
+
+*** MEND ***
+
+*** MSTART 007 000.0 000.0 0 NY 1821 1845 ***
+
+ (Ratified November, 1845)
+
+     VII. No property qualification shall be required to render a person eligible to or capable
+of holding any public office or public trust in this State.
+
+*** MEND ***
+
+*** MSTART 008 000.0 000.0 0 NY 1821 1845 ***
+
+ (Ratified November, 1845)
+
+     VIII. No judicial officer shall be removed by the joint resolution of the two houses of the
+legislature, or  by the senate, on the recommendation of  the governor, unless the cause of  such
+removal shall be entered on the journal of  both houses or of  the senate, as the case may be, and
+such officer, against whom the legislature or the senate may be about to proceed, shall be served
+with notice thereof, accompanied with a copy of  the causes alleged for his removal, at least
+twenty days before the day on which either house shall act thereupon, and shall have an
+opportunity to be heard in his defence before any question shall be taken upon such removal; and
+the yeas and nays shall be entered upon the journals of the senate or house, as the case may be.
+
+*** MEND ***
+*** CEND ***

@@ -1,0 +1,3460 @@
+This one is ready to go.
+
+JW 1.1.02
+
+
+
+
+
+*** CSTART MD 09/06/1864 08/17/1867 ***
+
+                 CONSTITUTION OF MARYLAND-1864
+
+                     DECLARATION OF RIGHTS
+
+*** ASTART 9002.0 MD 1864 ***
+
+We, the people of the State of Maryland, grateful to Almighty God for our civil and religious
+liberty, and
+taking into our serious consideration the best means of establishing a good constitution in this
+State, for the
+sure foundation and more permanent security thereof, declare:
+
+*** SSTART 001.0 9002.0 0 MD 1864 ***
+
+ARTICLE 1. That we hold it to be self-evident that all men are created equally free; that they are
+endowed
+by their Creator with certain unalienable rights, among which are life, liberty, the enjoyment of
+the proceeds
+of their own labor, and the pursuit of happiness.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 002.0 9002.0 0 MD 1864 ***
+
+ART. 2. That all government of right originates from the people, is founded in compact only, and
+instituted
+solely for the good of the whole; and they have at all times the unalienable right to alter, reform,
+or abolish
+their form of government in such manner as they may deem expedient.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 003.0 9002.0 0 MD 1864 ***
+
+ART. 3. That the people of this State ought to have the sole and exclusive right of regulating the
+internal
+government and police thereof.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 004.0 9002.0 0 MD 1864 ***
+
+ART. 4. That the inhabitants of Maryland are entitled to the common law of England, and the
+trial by jury
+according to the course of that law, and to the benefit of such of the English statutes as existed on
+the fourth
+day of July, seventeen hundred and seventy-six, and which, by experience, have been found
+applicable to
+their local and other circumstances, and have been introduced, used, and practised by the courts
+of law
+or equity, and also of all acts of assembly in force on the first day of June, eighteen hundred and
+sixty-four,
+except such as may have since expired or may be inconsistent with the provisions of this
+constitution,
+subject, nevertheless, to the revision of and amendment or repeal by the legislature of this State;
+and the
+inhabitants of Maryland are also entitled to all property derived to them from or under the charter
+granted
+by His Majesty Charles the First to Cecillus Calvert, Baron of Baltimore.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+
+*** SSTART 005.0 9002.0 0 MD 1864 ***
+
+ART. 5. The Constitution of the United States and the laws made in pursuance thereof being the
+supreme
+law of the land, every citizen of this State owes paramount allegiance to the Constitution and
+Government
+of the United States, and is not bound by any law or ordinance of this State in contravention or
+subversion
+thereof.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 006.0 9002.0 0 MD 1864 ***
+
+ART. 6. That all persons invested with the legislative or executive powers of government are the
+trustees
+of the public, and as such accountable for their conduct; wherefore, whenever the ends of
+government are
+perverted, and public liberty manifestly endangered, and all other means of redress are
+ineffectual, the
+people may and of right ought to reform the old or establish a new government. The doctrine of
+non-
+resistance against arbitrary power and oppression is absurb, slavish, and destructive of the good
+and
+happiness of mankind.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 007.0 9002.0 0 MD 1864 ***
+
+ART. 7. That the right of the people to participate in the legislature is the best security of liberty
+and the
+foundation of all free government; for this purpose elections ought to be free and frequent, and
+every free
+white male citizen, having the qualifications prescribed by the constitution, ought to have the
+right of
+suffrage.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 008.0 9002.0 0 MD 1864 ***
+
+ART. 8. That the legislative, executive, and judicial powers of government ought to be forever
+separate and
+distinct from each other, and no person exercising the functions of one of said departments shall
+assume
+or discharge the duties of any other.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 009.0 9002.0 0 MD 1864 ***
+
+ART. 9. That no power of suspending laws or the execution of laws, unless by or derived from
+the
+legislature, ought to be exercised or allowed.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 010.0 9002.0 0 MD 1864 ***
+
+ART. 10. That freedom of speech and debate, or proceedings in the legislature, ought not to be
+impeached
+in any court of judicature.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 011.0 9002.0 0 MD 1864 ***
+
+ART. 11. That Annapolis be the place for the meeting of the legislature, and the legislature ought
+not to be
+convened or held at any other place but for evident necessity.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 012.0 9002.0 0 MD 1864 ***
+
+ART. 12. That for the redress of grievances, and for amending, strengthening, and preserving the
+laws, the
+legislature ought to be frequently convened.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 013.0 9002.0 0 MD 1864 ***
+
+ART. 13. That every man hath a right to petition the legislature for the redress of grievances, in a
+peaceable
+and orderly manner.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 014.0 9002.0 0 MD 1864 ***
+
+ART. 14. That no aid, charge, tax, burden, or fees ought to be rated or levied, under any pretence,
+without
+the consent of the legislature.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 015.0 9002.0 0 MD 1864 ***
+
+ART. 15. That the levying of taxes by the poll is grievous and oppressive, and ought to be
+prohibited; that
+paupers ought not to be assessed for the support of the government, but every other person in the
+State,
+or persons holding property therein, ought to contribute his proportion of public taxes for the
+support of
+government, according to his actual worth in real or personal property; yet fines, duties, or taxes
+may
+properly and justly be imposed or laid, with a political view, for the good government and
+benefit of the
+community.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 016.0 9002.0 0 MD 1864 ***
+
+ART. 16. That sanguinary laws ought to be avoided as far as it is consistent with the safety of the
+State;
+and no law to inflict cruel and unusual pains and penalties ought to be made in any case, or at
+any time
+hereafter.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 017.0 9002.0 0 MD 1864 ***
+
+ART. 17. That retrospective laws, punishing acts committed before the existence of such laws,
+and by them
+only declared criminal, are oppressive, unjust, and incompatible with liberty; wherefore no ex
+post facto
+law ought to be made.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 018.0 9002.0 0 MD 1864 ***
+
+ART. 18. That no law to attaint particular persons of treason or felony ought to be made in any
+case, or
+at any time hereafter.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 019.0 9002.0 0 MD 1864 ***
+
+ART. 19. That every man, for any injury done to him in his person or property, ought to have
+remedy by
+the course of the law of the land, and ought to have justice and right freely without sale, fully
+without any
+denial, and speedily without delay, according to the law of the land.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 020.0 9002.0 0 MD 1864 ***
+
+ART. 20. That the trial of facts where they arise is one of the greatest securities of the lives,
+liberties, and
+estate of the people.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 021.0 9002.0 0 MD 1864 ***
+
+ART. 21. That in all criminal prosecutions every man hath a right to be informed of the
+accusation against
+him; to have a copy of the indictment or charge in due time (if required) to prepare for his
+defence; to be
+allowed counsel; to be confronted with the witnesses against him; to have process for his
+witnesses; to
+examine the witnesses for and against him on oath; and to a speedy trial by an impartial jury,
+without whose
+unanimous consent he ought not to be found guilty.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 022.0 9002.0 0 MD 1864 ***
+
+ART. 22. That no man ought to be compelled to give evidence against himself in a criminal case.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 023.0 9002.0 0 MD 1864 ***
+
+ART. 23. That no man ought to be taken or imprisoned, or disseized of his freehold, liberties, or
+privileges,
+or outlawed, or exiled, or in any manner destroyed, or deprived of his life, liberty, or property,
+but by the
+judgment of his peers, or by the law of the land. 
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 024.0 9002.0 0 MD 1864 ***
+
+ART. 24. That hereafter, in this Stale, there shall be neither slavery nor involuntary servitude,
+except in
+punishment of crime, whereof the party shall have been duly convicted; and all persons held to
+service or
+labor as slaves are hereby declared free.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 025.0 9002.0 0 MD 1864 ***
+
+ART. 25. That excessive bail ought not to be required, nor excessive fines imposed, nor cruel or
+unusual
+punishment inflicted by the courts of law.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 026.0 9002.0 0 MD 1864 ***
+
+ART. 26. That all warrants, without oath or affirmation, to search suspected places, or to seize
+any person
+or property, are grievous and oppressive; and all general warrants to search suspected places, or
+to
+apprehend suspected persons, without naming or describing the place, or the person in special,
+are illegal,
+and ought not to be granted.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 027.0 9002.0 0 MD 1864 ***
+
+ART. 27. That no conviction shall work corruption of blood, nor shall there be any forfeiture of
+the estate
+of any person for any crime, except treason, and then only on conviction.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 028.0 9002.0 0 MD 1864 ***
+
+ART. 28. That a well-regulated militia is the proper and natural defence of a free government.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 029.0 9002.0 0 MD 1864 ***
+
+ART. 29. That standing armies are dangerous to liberty, and ought not to be raised or kept up
+without the
+consent of the legislature.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 030.0 9002.0 0 MD 1864 ***
+
+ART. 30. That in all cases, and at all times, the military ought to be under strict subordination to
+and control
+of the civil power.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 031.0 9002.0 0 MD 1864 ***
+
+ART. 31. That no soldier shall, in time of peace, be quartered in any house without the consent of
+the
+owner, nor in time of war, except in the manner prescribed by law.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 032.0 9002.0 0 MD 1864 ***
+
+ART. 32. That no person, except regular soldiers, mariners, and marines, in the service of this
+State, or
+militia when in actual service, ought in any case to be subject to, or punishable by, martial law.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 033.0 9002.0 0 MD 1864 ***
+
+ART. 33. That the independency and uprightness of judges are essential to the impartial
+administration of
+justice, and a great security to the rights and liberties of the people; wherefore the judges shall
+not be
+removed, except for misbehavior, or conviction in a court of law, or by the governor, upon the
+address of
+the general assembly: Provided, That two-thirds of all the members of each house concur in such
+address.
+No judge shall hold any other office, civil or military, or political trust or employment of any
+kind
+whatsoever; under the constitution or laws of this State, or of the United States, or any of them,
+or receive
+fees or perquisites of any kind for the discharge of his official duties.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 034.0 9002.0 0 MD 1864 ***
+
+ART. 34. That a long continuance in the executive departments of power or trust is dangerous to
+liberty;
+a rotation, therefore, in those departments is one of the best securities of permanent freedom.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 035.0 9002.0 0 MD 1864 ***
+
+ART. 35. That no person ought to hold at the same time more than one office of profit created by
+the
+constitution or laws of this State; nor ought any person in public trust to receive any present from
+any
+foreign prince, or state, or from the United States, or any of them, without the approbation of this
+State.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 036.0 9002.0 0 MD 1864 ***
+
+ART. 36. That, as it is the duty of every man to worship God in such manner as he thinks most
+acceptable
+to Him, all persons are equally entitled to protection in their religious liberty; wherefore, no
+person ought,
+by any law, to be molested in his person or estate on account of  his religious persuasion or
+profession, or
+for his religious practice, unless under the color of religion any man shall disturb the good order,
+peace, or
+safety of the State, or shall infringe the laws of morality, or injure others in their natural, civil, or
+religious
+rights; nor ought any person to be compelled to frequent or maintain, or contribute, unless on
+contract, to
+maintain any place of worship or any ministry; nor shall any person be deemed incompetent as a
+witness
+or juror who believes in the existence of a God, and that under His dispensation such person will
+be held
+morally accountable for his acts, and be rewarded or punished therefor, either in this world or the
+world
+to come.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 037.0 9002.0 0 MD 1864 ***
+
+ART. 37. That no other test or qualification ought to be required on admission to any office of
+trust or profit
+than such oath of allegiance and fidelity to this State and the United States as may be prescribed
+by this
+constitution, and such oath of office and qualification as may be prescribed by this constitution,
+or by the
+laws of the State, and a declaration of belief in the Christian religion, or in the existence of God,
+and in a
+future state of rewards and punishments.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 038.0 9002.0 0 MD 1864 ***
+
+ART. 38. That every gift, sale, or devise of land, to any minister, public teacher, or preacher of
+the gospel,
+as such, or to any religious sect, order, or denomination, or to or for the support, use, or benefit
+of, or in
+trust for any minister, public teacher, or preacher of the gospel, as such, or any religious sect,
+order, or
+denomination; and every gift or sale of goods or chattels to go in succession, or to take place
+after the death
+of the seller or donor, to or for such support, use, or benefit; and also every devise of goods or
+chattels,
+to or for the support, use, or benefit of any minister, public teacher, or preacher of the gospel, as
+such; or
+any religious sect, order, or denomination, without the prior or subsequent sanction of the
+legislature, shall
+be void; except always any sale, gift, lease, or devise of any quantity of land, not exceeding five
+acres, for
+a church, meeting-house, or other house of worship, or parsonage, or for a burying- ground,
+which shall
+be improved, enjoyed, or used only for such purpose, or such sale, gift, lease, or devise shall be
+void.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 039.0 9002.0 0 MD 1864 ***
+
+ART. 39. That the manner of administering an oath or affirmation to any person ought to be such
+as those
+of the religious persuasion, profession, or denomination of which he is a member generally
+esteem the most
+effectual confirmation by the attestation of the Divine Being.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 040.0 9002.0 0 MD 1864 ***
+
+ART. 40. That the liberty of the press ought to be inviolably preserved; that every citizen of the
+State ought
+to be allowed to speak, write, and punish his sentiments on all subjects, being responsible for the
+abuse of
+that liberty.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 041.0 9002.0 0 MD 1864 ***
+
+ART. 41. That monopolies are odious, contrary to the spirit of a free government and the
+principles of
+commerce, and ought not to be suffered.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 042.0 9002.0 0 MD 1864 ***
+
+ART. 42. That no title of nobility or hereditary honors ought to be granted in this State.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 043.0 9002.0 0 MD 1864 ***
+
+ART. 43. That the legislature ought to encourage the diffusion of knowledge and virtue, the
+extension of
+a judicious system of general education, the promotion of literature, the arts, science, agriculture,
+commerce, and manufacture, and the general melioration of the condition of the people.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 044.0 9002.0 0 MD 1864 ***
+
+ART. 44. This enumeration of rights shall not be construed to impair or deny others retained by
+the people.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** SSTART 045.0 9002.0 0 MD 1864 ***
+
+ART. 45. That the legislature shall pass no law providing for an alteration, change, or
+abolishment of this
+constitution, except in the manner therein prescribed and directed.
+
+[We have continued to treat these "articles" as sections in the Declaration of Rights]
+
+*** SEND ***
+*** AEND ***
+*** ASTART 001.0 MD 1864 ***
+
+
+                           ARTICLE I
+
+                       ELECTIVE FRANCHISE
+
+*** SSTART 001.0 001.0 0 MD 1864 ***
+
+SECTION 1. All elections shall be by ballot, and every white male citizen of the United States,
+of the
+age of twenty-one years or upwards, who shall have resided in the State one year next preceding
+the
+election, and six months in any county, or in any legislative district of Baltimore City, and who
+shall
+comply with the provisions of this article of the constitution, shall be entitled to vote at all
+elections
+hereafter held in this State; and in case any county or city shall be so divided as to form portions
+of
+different electoral districts for the election of Congressmen, senator, delegate, or other officer or
+officers, then to entitle a person to vote for such officer he must have been a resident of that part
+of the
+county or city which shall form a part of the electoral district in which he offers to vote for six
+months
+next preceding the election; but a person who shall have acquired a residence in such county or
+city
+entitling him to vote at any such election shall be entitled to vote in the election-district from
+which he
+removed, until he shall have acquired a residence in the part of the county or city to which he has
+removed.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 MD 1864 ***
+
+SEC. 2. The general assembly shall provide by law for a uniform registration of the names of
+voters in
+this State, which registration shall be evidence of the qualification of said voters to vote at any
+election
+thereafter held, but no person shall be excluded from voting at any election on account of not
+being
+registered until the general assembly shall have passed an act of registration, and the same shall
+have
+been carried into effect, after which no person shall vote unless his name appears on the register.
+The
+general assembly shall also provide by law for taking the votes of soldiers in the Army of the
+United
+States serving in the field.
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 MD 1864 ***
+
+SEC. 3. No person above the age of twenty-one years, convicted of larceny or other infamous
+crime,
+unless pardoned by the governor, shall ever thereafter be entitled to vote at any election in this
+State,
+and no lunatic, or person non compos mentis, shall be entitled to vote.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 MD 1864 ***
+
+SEC. 4. No person who has at any time been in armed hostility to the United States, or the lawful
+authorities thereof, or who has been in any manner in the service of the so-called Confederate
+States of
+America, and no person who has voluntarily left this State and gone within the military lines of
+the so-
+called Confederate States or armies, with the purpose of adhering to said States or armies, and no
+person who has given any aid, comfort, countenance, or support to those engaged in armed
+hostility to
+the United States, or in any manner adhered to the enemies of the United States, either by
+contributing
+to the enemies of the United States, or unlawfully sending within the lines of such enemies
+money, or
+goods, or letters, or information, or who has disloyally held communication with the enemies of
+the
+United States, or who has advised any person to enter the service of the said enemies, or aided
+any
+person so to enter, or who has by any open deed or word declared his adhesion to the cause of the
+enemies of the United States, or his desire for the triumph of said enemies over the arms of the
+United
+States, shall ever be entitled to vote at any election to be held in this State, or to hold any office
+of
+honor, profit, or trust under the laws of this State, unless since such unlawful acts he shall have
+voluntarily entered into the military service of the United States, and been honorably discharged
+therefrom, or shall be on the day of election actually and voluntarily in such service, or unless he
+shall be
+restored to his full rights of citizenship by an act of the general assembly passed by a vote of
+two-thirds
+of all the members elected to each house; and it shall be the duty of all officers of registration
+and
+judges of election carefully to exclude from voting, or being registered, all persons so as above
+disqualified; and the judges of election at the first election held under this constitution shall, and
+at any
+subsequent election may, administer to any person offering to vote the following oath or
+affirmation: " I
+do swear [or affirm] that I am a citizen of the United States; that I have never given any aid,
+countenance, or support to those in armed hostility to the United States; that I have never
+expressed a
+desire for the triumph of said enemies over the arms of the United States; and that I will bear true
+faith
+and allegiance to the United States and support the Constitution and laws thereof as the supreme
+law of
+the land, any law or any ordnance of any State to the contrary notwithstanding; that I will in all
+respects
+demean myself as a loyal citizen of the United States, and I make this oath or affirmation without
+any
+reservation or evasion, and believe it to be binding on me; " and an person declining to take such
+oath
+shall not be allowed to vote, but the taking of such oath shall not be deemed conclusive evidence
+of the
+right of such person to vote; and any person swearing or affirming falsely shall be liable to
+penalties of
+perjury, and it shall be the duty of the proper officers of registration to allow no person to be
+registered
+until he shall have taken the oath or affirmation above set out, and it shall be the duty of the
+judges of
+election in all their returns of the first election held under this constitution to state in their said
+returns that
+every person who has voted has taken such oath or affirmation. But the provisions of this section
+in
+relation to acts against the United States shall not apply to any person not a citizen of the United
+States
+who shall have committed such acts while in the service of some foreign country at war against
+the
+United States, and who has, since such acts, been naturalized, or may be naturalized, under the
+laws of
+the United States, and the oath above set forth shall be taken in the case of such persons in such
+sense.
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 MD 1864 ***
+
+SEC. 5. If any person shall give, or offer to give, directly or indirectly, or hath given, or offered
+to give,
+since the fourth day of July, eighteen hundred and fifty-one, any bribe, present, or reward, or any
+promise, or any security for the payment or delivery of money or any other thing to induce any
+voter to
+refrain from casting his vote, or forcibly to prevent him in any way from voting, or to procure a
+vote, for
+any candidate or person proposed or voted for as elector of President and Vice-President of the
+United States or Representative in Congress, or for any office of profit or trust created by the
+constitution or laws of this State, or by the ordinances or authority of the mayor and city council
+of
+Baltimore, the person giving, or offering to give, and the person receiving the same, and any
+person
+who gives, or causes to be given, an illegal vote, knowing it to be such, at any election to be
+hereafter
+held in this State, or who shall be guilty of or accessory to any fraud, force, surprise, or bribery to
+procure himself or any other person to be nominated to any office, national, State, or municipal,
+shall,
+on conviction in a court of law, in addition to the penalties now or hereafter to be imposed by
+law, be
+forever disqualified to hold any office of profit or trust, or to vote at any election thereafter.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 MD 1864 ***
+
+SEC. 6. It shall be the duty of the general assembly to pass laws to punish with fine and
+imprisonment
+any person who shall remove into any election district or precinct of any ward of the city of
+Baltimore,
+not for the purpose of acquiring a bona-fide residence therein, but for the purpose of voting at an
+approaching election, or who shall vote in
+any election-district or ward in which he does not reside, (except in the case provided for in this
+article,) or shall at the same election vote in more than one election district or precinct, or shall
+vote or
+offer to vote in any name not his own, or in place of any other person of the same name, or shall
+vote in
+any county in which he does not reside.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 MD 1864 ***
+
+SEC. 7. Every person elected or appointed to any office of trust or profit under this constitution,
+or
+under the laws made pursuant thereto, before he shall enter upon the duties of such office, shall
+take
+and subscribe the following oath or affirmation: " I, do swear [or affirm, as the case may be] that
+I will,
+to the best of my skill and judgment, diligently and faithfully, without partiality or prejudice,
+execute the
+office of according to the constitution and laws of this State, and that since the fourth day of July,
+in the
+year eighteen hundred and fifty-one, I have not in any manner violated the provisions of the
+present or
+of the late constitution in relation to the bribery of voters, or preventing legal votes or procuring
+illegal
+votes to be given, and [if a governor, senator, member of the house of delegates, or judge] that I
+will
+not, directly or indirectly, receive the profits or any part of the profits of any other office during
+the term
+of my acting as -------. I do further swear [or affirm] that I will bear true allegiance to the State of
+Maryland and support the constitution and laws thereof, and that I will bear true allegiance to the
+United States, and support, protect, and defend the Constitution, laws, and Government thereof
+as the
+supreme law of the land, any law or ordinance of this or any State to the contrary
+notwithstanding; that
+I have never directly or indirectly, by word, act, or deed, given any aid, comfort, or
+encouragement to
+those in rebellion against the United States or the lawful authorities thereof, but that I have been
+truly
+and loyally on the side of the United States against those in armed rebellion against the United
+States;
+and I do further swear [or affirm] that I will, to the best of my abilities, protect and defend the
+Union of
+the United States, and not allow the same to be broken up and dissolved or the Government
+thereof to
+be destroyed under any circumstances, if in my power to prevent it, and that I will at all times
+discountenance and oppose all political combinations having for their object such dissolution or
+destruction."
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 MD 1864 ***
+
+SEC. 8. Every person holding any office of trust or profit under the late constitution or under any
+law of
+this State, and who shall be continued in office under this constitution or under any law of the
+State,
+shall, within thirty days after this constitution shall have gone into effect, take and subscribe the
+oath or
+affirmation set forth in the seventh section of this article, and if any such person shall fail to take
+said
+oath, his office shall be ipso facto vacant. And every person hereafter elected or appointed to
+office in
+this State who shall refuse or neglect to take the oath or affirmation of office provided for in the
+said
+seventh section of this article shall be considered as having refused to accept the said office,  and
+a new
+election or appointment shall be made as in case of refusal to accept or resignation of an office.
+And
+any person swearing or affirming falsely in the premises shall, on conviction thereof in a court of
+law,
+incur the penalties for wilful and corrupt perjury, and thereafter shall be incapable of holding any
+office
+of profit or trust in this State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 MD 1864 ***
+
+                           ARTICLE II
+
+                      EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 002.0 0 MD 1864 ***
+              
+SECTION 1. The executive power of the State shall be vested in a governor, whose term of
+office
+shall commence on the second Wednesday of January next ensuing his election, and continue for
+four
+years, and until his successor shall have qualified, but the governor chosen at the first election
+under this
+constitution shall not enter upon the discharge of the duties of the office until the expiration of
+the term
+for which the present incumbent was elected, unless the said office shall become vacant by death,
+resignation, removal from the State, or other disqualification of said incumbent.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 MD 1864 ***
+
+SEC.2. An election for governor under this constitution shall be held on the Tuesday next after
+the first
+Monday in November, in the year eighteen hundred and sixty-four, and on the same day and
+month in
+every fourth year thereafter, at the place of voting for delegates to the general assembly, and
+every
+person qualified to vote for delegates shall be qualified and entitled to vote for governor; the
+election to
+be held in the same manner as the election of delegates, and the returns thereof, under seal, to be
+addressed to the speaker of the house of delegates, and inclosed and transmitted to the secretary
+of
+state, and delivered to the said speaker at the commencement of the session of the general
+assembly
+next ensuing said election.
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 MD 1864 ***
+
+SEC. 3. The speaker of the house of delegates shall then open the said returns in the presence of
+both
+houses, and the person having the highest number of votes, and being constitutionally eligible,
+shall be
+the governor, and shall qualify in the manner herein prescribed, on the second Wednesday of
+January
+next ensuing his election, or as soon thereafter as may be practicable.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 MD 1864 ***
+
+SEC. 4. If two or more persons shall have the highest and an equal number of votes, one of them
+shall
+be chosen governor by the senate and house of delegates; and all questions in relation to the
+eligibility of
+governor, and to the returns of said election, and to the number and legality of votes therein
+given, shall
+be determined by the house of delegates; and if the person or persons having the highest number
+of
+votes be ineligible, the governor shall be chosen by the senate and house of delegates. Every
+election of
+governor by the general assembly shall be determined by a joint majority of the senate and house
+of
+delegates, and the vote shall be taken viva voce. But if two or more persons shall have the
+highest and
+an equal number of votes, then a second vote shall be taken, which shall be confined to the
+persons
+having an equal number; and if the votes should be again equal, then the election of governor
+shall be
+determined by lot between those who shall have the highest and an equal number on the first
+vote.
+
+*** SEND ***
+*** SSTART 005.0 002.0 0 MD 1864 ***
+
+SEC. 5. A person to be eligible to the office of governor must have attained the age of thirty
+years, and
+must have been for five years a citizen of the United States, and for five years next preceding his
+election a resident of the State.
+
+*** SEND ***
+*** SSTART 006.0 002.0 0 MD 1864 ***
+
+SEC. 6. A lieutenant-governor shall be chosen at every regular election for governor. He shall
+continue
+in office for the same time, shall be elected in the same manner, and shall possess the same
+qualifications as the governor. In voting for governor and lieutenant-governor, the electors shall
+state for
+whom they vote as governor, and for whom as lieutenant-governor.
+
+*** SEND ***
+*** SSTART 007.0 002.0 0 MD 1864 ***
+
+SEC. 7. The lieutenant-governor shall, by virtue of his office, be president of the senate, and
+whenever
+the senate are equally divided, shall have the right to give the casting vote.
+
+*** SEND ***
+*** SSTART 008.0 002.0 0 MD 1864 ***
+
+SEC. 8. In case of the death, resignation, removal from the State, or other disqualification of the
+governor, the powers, duties, and emoluments of the office shall devolve upon the
+lieutenant-governor;
+and in case of his death, resignation, removal, or other disqualification, then upon the president
+of the
+senate for the time being, until the disqualification or inability shall cease, or until a new
+governor shall
+be elected and qualified; and for any vacancy in said office not herein provided for, provision
+may be
+made by law, and if such vacancy should occur without such provision being made, the general
+assembly shall be convened by the secretary of state for the purpose of filling said vacancy.
+
+*** SEND ***
+*** SSTART 009.0 002.0 0 MD 1864 ***
+
+SEC. 9. Whenever the office of governor shall be administered by the lieutenant-governor, or he
+shall
+be unable to attend as president of the senate, the senate shall elect one of its own members as
+president pro tempore.
+
+*** SEND ***
+*** SSTART 010.0 002.0 0 MD 1864 ***
+
+SEC. 10. The lieutenant-governor, while he acts as president of the senate, shall receive for his
+services
+the same compensation which shall for the same period be allowed to the speaker of the house of
+delegates, and no more.
+
+*** SEND ***
+*** SSTART 011.0 002.0 0 MD 1864 ***
+
+SEC. 11. The governor shall be commander-in-chief of the land and naval forces of the State, and
+may
+call out the militia to repel invasions, suppress insurrections, and enforce the execution of the
+laws; but
+shall not take the command in person without the consent of the general assembly.
+
+*** SEND ***
+*** SSTART 012.0 002.0 0 MD 1864 ***
+
+SEC. 12. He shall take care that the laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 013.0 002.0 0 MD 1864 ***
+
+SEC. 13. He shall nominate and, by and with the advice and consent of the senate, appoint all
+civil and
+military officers of the State, whose appointment or election is not otherwise herein provided for,
+unless
+a different mode of appointment be prescribed by the law creating the office.
+
+*** SEND ***
+*** SSTART 014.0 002.0 0 MD 1864 ***
+
+SEC. 14. In case of a vacancy, during the recess of the senate, in any office which the governor
+has
+power to fill, he shall appoint some suitable person to said office,  whose commission shall
+continue in
+force  till the end of the next session of the general assembly, or till some other person is
+appointed to
+the same office, whichever shall first occur, and the nomination of the person thus appointed
+during the
+recess, or of some other person in his place, shall be made to the senate within thirty days after
+the next
+meeting of the general assembly.
+
+*** SEND ***
+*** SSTART 015.0 002.0 0 MD 1864 ***
+
+SEC. 15. No person after being rejected by the senate shall be again nominated for the same
+office at
+the same session, unless at the request of the senate, or be appointed to the same office during the
+recess of the general assembly.
+
+*** SEND ***
+*** SSTART 016.0 002.0 0 MD 1864 ***
+
+SEC. 16. All civil officers appointed by the governor and senate shall be nominated to the senate
+within
+fifty days from the commencement of each regular session of the general assembly, and their
+term of
+office, except in cases otherwise provided for in this constitution, shall commence on the first
+Monday
+of May next ensuing their appointment, and continue for two years, (unless sooner removed from
+office,) and until their successors respectively qualify according to law.
+
+*** SEND ***
+*** SSTART 017.0 002.0 0 MD 1864 ***
+
+SEC. 17. The governor may suspend or arrest any military officer of the State for disobedience of
+orders, or other military offence; may remove him in pursuance of the sentence of a
+court-martial; and
+may remove, for incompetency or misconduct, all civil officers who received appointments from
+the
+executive for a term not exceeding two years.
+
+*** SEND ***
+*** SSTART 018.0 002.0 0 MD 1864 ***
+
+SEC. 18. The governor may convene the general assembly, or the senate alone, on extraordinary
+occasions; and whenever, from the presence of an enemy, or from any other cause, the seat of
+government shall become an unsafe place for the meeting of the general assembly, he may direct
+their
+sessions to be held at some other convenient place.
+
+*** SEND ***
+*** SSTART 019.0 002.0 0 MD 1864 ***
+
+SEC. 19. It shall be the duty of the governor semi-annually, and oftener, if he deem it expedient,
+to
+examine the bank-book, accountbooks, and official proceedings of the treasurer and comptroller
+of the
+State.
+
+*** SEND ***
+*** SSTART 020.0 002.0 0 MD 1864 ***
+
+SEC. 20. He shall, from time to time, inform the general assembly of the condition of the State,
+and
+recommend to their consideration such measures as he may judge necessary and expedient.
+
+*** SEND ***
+*** SSTART 021.0 002.0 0 MD 1864 ***
+
+SEC. 21. He shall have power to grant reprieves and pardons, except in cases of impeachment,
+and in
+cases in which he is prohibited by other articles of this constitution, and to remit fines and
+forfeitures for
+offences against the State; but shall not remit the principal or interest of any debt due to the State,
+except in cases of fines and forfeitures; and before granting a nolle prosequi, or pardon, he shall
+give
+notice in one or more newspapers of the application made for it, and of the day on or after which
+his
+decision will be given; and in every case in which he exercises this power, he shall report to
+either
+branch of the general assembly, whenever required, the petitions, recommendations, and reasons
+which
+influenced his decision.
+
+*** SEND ***
+*** SSTART 022.0 002.0 0 MD 1864 ***
+
+SEC. 22. The governor shall reside at the seat of government, and shall receive for his services
+an
+annual salary of four thousand dollars.
+
+*** SEND ***
+
+*** SSTART 023.0 002.0 0 MD 1864 ***
+
+SEC. 23. A secretary of state shall be appointed by the governor, by and with the advice and
+consent
+of the senate, who shall continue in office, unless sooner removed by the governor, till the end of
+the
+official term of the governor from whom he received his appointment, and shall receive an
+annual salary
+of one thousand dollars.
+
+*** SEND ***
+*** SSTART 024.0 002.0 0 MD 1864 ***
+
+SEC. 24. The secretary of state shall carefully keep and preserve a record of all official acts and
+proceedings, which may at all times be inspected by a committee of either branch of the general
+assembly, and shall perform such other duties as are now or may hereafter be prescribed by law,
+or as
+may properly belong to his office.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 MD 1864 ***
+
+                          ARTICLE III
+
+                     LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.0 003.0 0 MD 1864 ***
+
+SECTION 1. The legislature shall consist of two distinct branches, a senate and a house of
+delegates,
+which shall be styled " The general assembly of Maryland."
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 MD 1864 ***
+
+SEC. 2. Immediately after the adoption of this constitution, and before there shall have been held
+any
+general election under it, the mayor and city council of Baltimore shall proceed to lay off and
+divide the
+said city into three several districts, of equal population and contiguous territory, as near as may
+be;
+which said districts shall be called the first, second, and third legislative districts of Baltimore
+City.
+
+*** SEND ***
+*** SSTART 003.0 003.0 0 MD 1864 ***
+
+SEC. 3. Every county in the State and each legislative district of Baltimore City, as hereinbefore
+provided for, shall be entitled to one senator, who shall be elected by the qualified voters of the
+counties and of the legislative districts of Baltimore City respectively, and shall serve for four
+years from
+the date of his election, subject to the classification of senators hereinafter provided for.
+
+*** SEND ***
+*** SSTART 004.0 003.0 0 MD 1864 ***
+
+SEC. 4. The white population of the State shall constitute the basis of representation in the house
+of
+delegates, and the apportionment of the delegates among the several counties and legislative
+districts of
+the city of Baltimore shall be as follows: For every five thousand persons, or a fractional part
+thereof
+above one-half, one delegate shall be chosen, until the number of delegates in each county and
+legislative district of the city of Baltimore shall reach five; above that  number, one delegate shall
+be
+chosen for the next twenty thousand persons, or a fractional portion over one-half thereof, in each
+county and legislative district of the city of Baltimore; above that number each county and
+legislative
+district of the said city shall elect one delegate for every eighty thousand persons, or fractional
+portion
+thereof above one-half. Upon this principle, and as soon as practicable after each national census,
+or
+State enumeration of inhabitants, the general assembly shall apportion the members of the house
+of
+delegates among the several counties and the several legislative districts of Baltimore City
+according to
+the white population of each. But until such apportionment is made the house of delegates shall
+consist
+of eighty members, distributed as follows: Alleghany, five members; Anne Arundel, two; each of
+the
+three legislative districts in Baltimore City, six; Baltimore County, six; Calvert, one; Caroline,
+two;
+Carroll, five; Cecil, four; Charles, one; Dorchester, two; Frederick, six; Harford, four; Howard,
+two;
+Kent, two; Montgomery, two; Prince George's, two; Queen Anne's, two; Saint Mary's, one;
+Somerset,
+three; Talbot, two; Washington, five; Worcester, three.
+
+*** SEND ***
+*** SSTART 005.0 003.0 0 MD 1864 ***
+
+SEC. 5. The members of the house of delegates shall be elected by the qualified voters of the
+counties
+and the legislative districts of Baltimore City, respectively, to serve for two years from the day of
+their
+election.
+
+*** SEND ***
+*** SSTART 006.0 003.0 0 MD 1864 ***
+
+SEC. 6. The first election for senators and delegates shall take place on the Tuesday next after the
+first
+Monday in the month of November, eighteen hundred and sixty-four; and the elections for
+delegates,
+and, as nearly as practicable, for one-half of the senators shall be held on the same day in every
+second
+year thereafter.
+
+*** SEND ***
+*** SSTART 007.0 003.0 0 MD 1864 ***
+
+SEC. 7.Immediately after the senate shall have convened, after the first election under this
+constitution,
+the senators shall be divided by lots into two classes, as nearly equal in number as may be;
+senators of
+the first class shall go out of office at the expiration of two years, and senators shall be elected on
+the
+Tuesday next after the first Monday in the month of November, eighteen hundred and sixty-six,
+for the
+term of four years, to supply their places; so that, after the first election, one-half of the senators
+may be
+chosen every year. In case the number of senators be hereinafter increased, such classification of
+the
+additional senators shall be made as to preserve, as nearly as may be, an equal number in each
+class.
+
+*** SEND ***
+*** SSTART 008.0 003.0 0 MD 1864 ***
+
+SEC. 8. No person shall be eligible as a senator or delegate who, at the time of his election, is not
+a
+citizen of the- United States, and who has not resided at least three years next preceding the day
+of his
+election in this State, and the last year thereof in the county or in the legislative district of
+Baltimore City
+which he may be chosen to represent, if such county or legislative district of such city shall have
+been so
+long established, and if not, then in the county or city from which, in whole or part, the same
+may have
+been formed; nor shall any person be eligible as a senator unless he shall have attained the age of
+twenty-five years, nor as a delegate unless he shall have attained the age of twenty-one years, at
+the
+time of his election.
+
+*** SEND ***
+*** SSTART 009.0 003.0 0 MD 1864 ***
+
+SEC. 9. No member of Congress or person holding any civil or military office under the United
+States
+shall be eligible as a senator or delegate; and if any person shall, after his election as a senator or
+delegate, be elected to Congress, or be appointed to any office, civil or military, under the
+Government
+of the United States, his acceptance thereof shall vacate his seat.
+
+*** SEND ***
+*** SSTART 010.0 003.0 0 MD 1864 ***
+
+SEC. 10. No person holding any civil office of profit or trust under this State, except justices of
+the
+peace, shall be eligible to the office of senator or delegate.
+
+*** SEND ***
+*** SSTART 011.0 003.0 0 MD 1864 ***
+
+SEC. 11. No collector, receiver or holder of public moneys, shall be eligible as senator or
+delegate, or
+to any office of profit or trust under this State, until he shall have accounted for and paid into the
+treasury all sums on the books thereof charged to and due by him.
+
+*** SEND ***
+*** SSTART 012.0 003.0 0 MD 1864 ***
+
+SEC. 12. In case of death, disqualification, resignation, refusal to act, expulsion, or removal from
+the
+county or legislative district of Baltimore City for which he shall have been elected, of any
+person who
+shall have been chosen as a delegate or senator, or in case of a tie between two or more such
+qualified
+persons, a warrant of election shall be issued by the speaker of the house of delegates, or
+president of
+the senate, as the case may be, for the election of another person in his place, of which election
+not less
+than ten days' notice shall be given, exclusive of the day of the publication of the notice and of
+the day
+of election; and in case of such resignation or refusal to act, being communicated in writing to
+the
+governor by the person so resigning or refusing to act, or if such death occur during the
+legislative
+recess, and more than ten days before its termination, it shall be the duty of the governor to issue
+a
+warrant of election to supply the vacancy thus created, in the same manner the said speaker or
+president might have done during the session of the general assembly:  Provided, however, That
+unless
+a meeting of the general assembly may intervene, the election thus ordered to fill such vacancy
+shall be
+held on the day of the ensuing election for delegates and senators.
+
+*** SEND ***
+*** SSTART 013.0 003.0 0 MD 1864 ***
+
+SEC. 13. The general assembly shall meet on the first Wednesday of January, eighteen hundred
+and
+sixty-five, and on the same day in every second year thereafter, and at no other time, unless
+convened
+by the proclamation of the governor.
+
+*** SEND ***
+*** SSTART 014.0 003.0 0 MD 1864 ***
+
+SEC. 14. The general assembly shall continue its session so long as in its judgment the public
+interest
+may require, and each member thereof shall receive a compensation of five dollars per diem, for
+every
+day he shall attend the sessions, but shall receive no per diem when absent, unless absent on
+account of
+sickness: Provided, however, That no member shall receive any other or larger sum than four
+hundred
+dollars. When the general assembly shall be convened by proclamation of the governor, the
+session
+shall not continue longer than thirty days, and in such case the compensation shall be at the rate
+of five
+dollars per diem.
+
+*** SEND ***
+*** SSTART 015.0 003.0 0 MD 1864 ***
+
+SEC. 15. No book or other printed matter not appertaining to the business of the session shall be
+purchased or subscribed for  the use of the members of the general assembly, or be distributed
+among
+them at the public expense.
+
+*** SEND ***
+*** SSTART 016.0 003.0 0 MD 1864 ***
+
+SEC . 16. No senator or delegate, after qualifying as such, notwith standing he may thereafter
+resign,
+shall, during the whole period of time for which he was elected, be eligible to any office which
+shall have
+been created, or the salary or profits of which shall have been increased, during such term, or
+shall
+during said whole period of time be appointed to any civil office by the executive or general
+assembly.
+
+*** SEND ***
+*** SSTART 017.0 003.0 0 MD 1864 ***
+
+SEC. 17. No senator or delegate shall be liable, in any civil action or criminal prosecution
+whatever, for
+words spoken in debate.
+
+*** SEND ***
+*** SSTART 018.0 003.0 0 MD 1864 ***
+
+SEC. 18. Each house shall be judge of the qualifications and elections of its members, subject to
+the
+laws of the State; shall appoint its own officers, determine the rules of its own proceedings,
+punish a
+member for disorderly or disrespectful behavior, and, with the consent of two-thirds of its whole
+number of members elected, expel a member; but no member shall be expelled a second time for
+the
+same offence.
+
+*** SEND ***
+*** SSTART 019.0 003.0 0 MD 1864 ***
+
+SEC. 19. A majority of the whole number of the members elected to each house shall constitute a
+quorum for the transaction of business, but a smaller number may adjourn from day to day and
+compel
+the attendance of absent members, in such manner, and under such penalties, as each house may
+prescribe.
+
+*** SEND ***
+*** SSTART 020.0 003.0 0 MD 1864 ***
+
+SEC. 20. The doors of each house and of committees of the whole shall be open, except when the
+business is such as ought to be kept secret.
+
+*** SEND ***
+*** SSTART 021.0 003.0 0 MD 1864 ***
+
+SEC. 21. Each house shall keep a journal of its proceedings, and cause the same to be published.
+The
+yeas and nays of members on any questions shall, at the call of any five of them in the house of
+delegatates, or one in the senate, be entered on the journal.
+
+*** SEND ***
+*** SSTART 022.0 003.0 0 MD 1864 ***
+
+SEC. 22. Each house may punish, by imprisonment during the session of the general assembly,
+any
+person not a member for disrespectful or disorderly behavior in its presence, or for obstructing
+any of
+its proceedings, or any of its officers in the execution of their duties:, Provided, Such
+imprisonment shall
+not, at any one time, exceed ten days.
+
+*** SEND ***
+*** SSTART 023.0 003.0 0 MD 1864 ***
+
+SEC. 23. The house of delegates may inquire, on the oath of witnesses, into all complaints,
+grievances,
+and offences, as the grand inquest of the State, and may commit any person, for any crime, to the
+public jail, there to remain until discharged by due course of law; they may examine and pass all
+accounts of the State, relating either to the collection or expenditure of the revenue, and appoint
+auditors to state and adjust the same; they may call for all public or official papers and records,
+and
+send for persons whom they may judge necessary in the course of their inquiries concerning
+affairs
+relating to the public interest, and may direct all office bonds, which shall be made payable to the
+State,
+to be sued for any breach thereof.
+
+*** SEND ***
+*** SSTART 024.0 003.0 0 MD 1864 ***
+
+SEC. 24. Neither house shall, without the consent of the other, adjourn for more than three days
+at any
+one time, nor to any other place than that in which the house shall be sitting, without the
+concurrent vote
+of two-thirds of the members present.
+
+*** SEND ***
+*** SSTART 025.0 003.0 0 MD 1864 ***
+
+SEC. 25. The house of delegates shall have the sole power of impeachment in all cases, but a
+majority
+of all the members elected must concur in an impeachment; all impeachments shall be tried by
+the
+senate, and, when sitting for that purpose, the senators shall be on oath or affirmation to do
+justice
+according to the law and evidence, but no person shall be convicted without the concurrence of
+two-
+thirds of all the senators elected.
+
+*** SEND ***
+*** SSTART 026.0 003.0 0 MD 1864 ***
+
+SEC. 26. Any bill may originate in either house of the general assembly, and be altered,
+amended, or
+rejected by the other; but no bill shall originate in either house during the last ten days of the
+session, nor
+become a law until it be read on three different days of the session in each house, unless
+three-fourths
+of the members of the house where such bill is pending shall so determine.
+
+*** SEND ***
+*** SSTART 027.0 003.0 0 MD 1864 ***
+
+SEC. 27. No bill shall become a law unless it be passed in each house by a majority of the whole
+number of members elected, and on its final passage the ayes and noes be recorded.
+
+*** SEND ***
+*** SSTART 028.0 003.0 0 MD 1864 ***
+
+SEC. 28. The style of all laws of this State shall be: "Be it enacted by the general assembly of
+Maryland," and all laws shall be passed by original bill; and every law enacted by the general
+assembly
+shall embrace but one subject, and that shall be described in the title; and no law nor section of a
+law
+shall be revised or amended by reference to its title or section only, and it shall be the duty of the
+general assembly, in amending any article or section of the code of laws of this State, to enact the
+same
+as the said article or section would read when amended; and whenever the general assembly shall
+enact
+any publicgeneral law, not amendatory of any section or article in the said code, it shall be the
+duty of
+the general assembly to enact the same in articles and sections, in the same manner as the said
+code is
+arranged, and to provide for the publication of all additions and alterations which may be made
+to the
+code.
+
+*** SEND ***
+*** SSTART 029.0 003.0 0 MD 1864 ***
+
+SEC. 29. Every bill, when passed by the general assembly and sealed with the great seal, shall be
+presented to the governor, who shall sign in the presence of the presiding officers and chief
+clerks of the
+senate and house of delegate. Every law shall be recorded in the office of the court of appeals,
+and, in
+due time, be printed, published, and certified under the great seal to the several courts, in the
+same
+manner as has been heretofore usual in this State.
+
+*** SEND ***
+*** SSTART 030.0 003.0 0 MD 1864 ***
+
+SEC. 30. No law passed by the general assembly shall take effect until the first day of June next
+after
+the session at which it may be  passed, unless it be otherwise expressly declared therein; and in
+case
+any public law is made to take effect before the said first day of June, the general assembly shall
+provide for the immediate publication of the same.
+
+*** SEND ***
+*** SSTART 031.0 003.0 0 MD 1864 ***
+
+SEC. 31. No money shall be drawn from the treasury of the State, except in accordance with an
+appropriation by law, and every such law shall distinctly specify the sum appropriated, and the
+object
+to which it shall be applied: Provided, That nothing herein contained shall prevent the general
+assembly
+from placing a contingent fund at the disposal of the executive, who shall report to the general
+assembly,
+at each session, the amount expended and the purposes to which it was applied. An accurate
+statement
+of the receipts and expenditures of the public money shall be attached to and published with the
+laws
+after each regular session of the general assembly.
+
+*** SEND ***
+*** SSTART 032.0 003.0 0 MD 1864 ***
+
+SEC. 32. The general assembly shall not pass local or special laws in any of the following
+enumerated
+cases, viz: For the assessment and collection of taxes for State or county purposes, or extending
+the
+time for the collection of taxes; providing for the support of public schools; the preservation of
+school-
+funds; the location or the regulation of school-houses; granting divorces; relating to fees or
+salaries;
+relating to the interest on money; providing for regulating the  election or compensation of State
+or
+county officers; or designating the places of voting; or the boundaries of election-districts;
+providing for
+the sale of real estate belonging to minors or other persons laboring under legal disabilities, by
+executors, administrators, guardians, or trustees; giving effect to informal or invalid deeds or
+wills;refunding money paid into the State treasury, or releasing persons from their debts or
+obligations
+to the State, unless recommended by the governor or officers of the treasury department; or
+establishing, locating, or affecting the construction of roads, and the repairing or building of
+bridges.
+And the general assembly shall pass no special law for any case for which provision has been
+made by
+an existing general law. The general assembly, at its first session after the adoption of this
+constitution,
+shall pass general laws providing for the cases enumerated in this section, and for all other cases
+where
+a
+general law can be made applicable.
+
+*** SEND ***
+*** SSTART 033.0 003.0 0 MD 1864 ***
+
+SEC. 33. No debt shall be hereafter contracted by the general assembly unless such debts shall be
+authorized by a law providing for the collection of an annual tax or taxes sufficient to pay the
+interest on
+such debt as it falls due, and also to discharge the principal thereof within fifteen years from the
+time of
+contracting the same, and the taxes laid for this purpose shall not be repealed or applied to any
+other
+object until the said debt and interest thereon shall be fully discharged. The credit of the State
+shall not,
+in any manner, be given or loaned to or in aid of any individual, association or corporation, nor
+shall the
+general assembly have the power in any mode to involve the State in the construction of works of
+internal improvement, nor in any enterprise which shall involve the faith or credit of the State,
+nor make
+any appropriations therefor; and they shall not use or appropriate the proceeds of the internal-
+improvement companies, or of the State tax now levied, or which may hereafter be levied, to pay
+off
+the public debt, to any other purpose until the interest and debt are fully paid, or the sinking-fund
+shall
+be equal to the amount of the outstanding debt; but the general assembly may, without laying a
+tax,
+borrow an amount, never to exceed fifty thousand dollars, to meet temporary deficiencies in the
+treasury, and may contract debts to any amount that may be necessary for the defence of the
+State.
+
+*** SEND ***
+*** SSTART 034.0 003.0 0 MD 1864 ***
+
+SEC. 34. No extra compensation shall be granted or allowed by the general assembly to any
+public
+officer, agent, servant, or contractor, after the services shall have been rendered or the contract
+entered
+into; nor shall the salary or compensation of any public officer be increased or diminished during
+his
+term of office.
+
+*** SEND ***
+*** SSTART 035.0 003.0 0 MD 1864 ***
+
+SEC. 35. No lottery-grant shall ever hereafter be authorized by the general assembly.
+
+*** SEND ***
+*** SSTART 036.0 003.0 0 MD 1864 ***
+
+SEC. 36. The general assembly shall pass no law nor make any appropriation to compensate the
+masters or claimants of slaves emancipated from servitude by the adoption of this constitution.
+
+*** SEND ***
+
+*** SSTART 037.0 003.0 0 MD 1864 ***
+
+SEC. 37. No person shall be imprisoned for debt.
+
+*** SEND ***
+*** SSTART 038.0 003.0 0 MD 1864 ***
+
+SEC. 38. The general assembly shall grant no charter for banking purposes, nor renew any
+banking
+corporation now in existence, except upon the condition that the stockholders shall be liable to
+the
+amount of their respective share or shares of stock in such banking institution, for all its debts
+and
+liabilities, upon note, bill, or otherwise, and upon the further condition, that no director or other
+officer
+of said corporation shall borrow any money from said corporation, and if any director or other
+officer
+shall be convicted, upon indictment, of directly or indirectly violating this section,  he shall be
+punished,
+by fine or imprisonment, at the discretion of the court. The books, papers, and accounts of all
+banks
+shall be open to inspection, under such regulations as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 039.0 003.0 0 MD 1864 ***
+
+SEC. 39. The general assembly shall enact no law authorizing private property to be taken for
+public
+use, without just compensation, as agreed upon between the parties, or awarded by a jury, being
+first
+paid or tendered to the party entitled to such compensation.
+
+*** SEND ***
+*** SSTART 040.0 003.0 0 MD 1864 ***
+
+SEC. 40. Any citizen of this State who shall, after the adoption of this constitution, either in or
+out of
+this State, fight a duel with deadly weapons, or send or accept a challenge so to do, or who shall
+act as
+a second, or knowingly aid or assist in any manner those thus offending, and any citizen who has
+thus
+offended or so aided or assisted those thus offending, since the first Wednesday of June, eighteen
+hundred and fifty-one, shall ever thereafter be incapable of holding any office of trust or profit
+under this
+State.
+
+*** SEND ***
+*** SSTART 041.0 003.0 0 MD 1864 ***
+
+SEC. 41. The general assembly shall pass laws for the preservation of the purity of eletions by
+the
+registration of voters, and by such other means as may be deemed expedient; and to make
+effective the
+provisions of the constitution disfranchising certain persons, or disqualifying them from holding
+office.
+
+*** SEND ***
+*** SSTART 042.0 003.0 0 MD 1864 ***
+
+SEC. 42. The general assembly shall pass laws necessary to protect the property of the wife from
+the
+debts of the husband during her life, and for securing the same to her issue after her death.
+
+*** SEND ***
+*** SSTART 043.0 003.0 0 MD 1864 ***
+
+SEC. 43. Laws shall be passed by the general assembly to protect from execution a reasonable
+amount
+of property of a debtor, not exceeding in value the sum of five hundred dollars.
+
+*** SEND ***
+*** SSTART 044.0 003.0 0 MD 1864 ***
+
+SEC. 44. The general assembly shall provide a simple and uniform system of charges in the
+offices of
+clerks of courts and registers of wills, in the counties of this State and the city of Baltimore, and
+for the
+collection thereof: Provided, The amount of compensation to any of said officers shall not exceed
+the
+sum of twenty-five hundred dollars a year over and above office expenses, and compensation to
+assistants: And provided further, That such compensation of clerks, registers, assistants, and
+office
+expenses shall always be paid out of the fees or receipts of the offices respectively.
+
+*** SEND ***
+*** SSTART 045.0 003.0 0 MD 1864 ***
+
+SEC. 45. The general assembly shall have power to receive from the United States any grant or
+donation of land, money, or securities, for any purpose designated by the United States, and shall
+administer or distribute the same according to the conditions of said grant.
+
+*** SEND ***
+*** SSTART 046.0 003.0 0 MD 1864 ***
+
+SEC. 46. The general assembly shall make provision for all cases of contested elections of any of
+the
+officers not herein provided for.
+
+*** SEND ***
+*** SSTART 047.0 003.0 0 MD 1864 ***
+
+SEC. 47. The general assembly shall pass laws requiring the president, directors, trustees, or
+agents of
+corporations, created or authorized by the laws of this State, teachers or superintendents of the
+public
+schools, colleges, or other institutions of learning; attorneys at law, jurors, and such other
+persons as the
+general assembly shall from time to time prescribe, to take the oath of allegiance to the United
+States
+set forth in the first article of this constitution.
+
+*** SEND ***
+*** SSTART 048.0 003.0 0 MD 1864 ***
+
+SEC. 48. The general assembly shall have power to accept the cession of any territory,
+contiguous to
+this State, from the States of Virginia and West Virginia, or from the United States, with the
+consent of
+Congress and of the inhabitants of such ceded territory, and in case of such cessions the general
+assembly may divide such territory into counties, and shall provide for the representation of the
+same in
+the general assembly, on the basis fixed by this constitution,  and  may, for that purpose, increase
+the
+number of senators and delegates, and the general assembly shall enact such laws as may be
+required
+to extend the constitution and laws of this State over such territory, and may create courts,
+conformably
+to the constitution, for such territory, and may for that purpose increase the number of judges of
+the
+court of appeals.
+
+*** SEND ***
+*** SSTART 049.0 003.0 0 MD 1864 ***
+
+SEC. 49. The general assembly shall provide by law for the registration of births, marriages, and
+deaths, and shall pass laws providing for the celebration of marriage between any persons legally
+competent to contract marriage, and shall provide that any person prevented by conscientious
+scruples
+from being married by any of the existing provisions of law, may be married by any judge or
+clerk of
+any court of record, or any mayor of any incorporated city in this State.
+
+*** SEND ***
+*** SSTART 050.0 003.0 0 MD 1864 ***
+
+SEC. 50. The rate of interest in this State shall not exceed six per centum per annum, and no
+higher rate
+shall be taken or demanded; and the general assembly shall provide by law all necessary
+forfeitures and
+penalties against usury.
+
+*** SEND ***
+*** SSTART 051.0 003.0 0 MD 1864 ***
+
+SEC. 51. Corporations may be formed under general laws, but shall not be created by special act,
+except for municipal purposes, and in cases where, in the judgment of the general assembly, the
+object
+of the corporation cannot be attained under general laws. All laws and special acts, pursuant to
+this
+section, may be altered from time to time, or repealed: Provided, Nothing herein contained shall
+be
+construed to alter, change, or amend in any manner the section in relation to banks. 
+
+*** SEND ***
+*** SSTART 052.0 003.0 0 MD 1864 ***
+
+SEC. 52. The governor, comptroller, and treasurer of the State are hereby authorized, conjointly,
+or
+any two of them, to exchange the State's interest as stockholder and creditor in the Baltimore and
+Ohio
+Railroad Company for an equal amount of the bonds or registered debt now owing by the State;
+and,
+subject to such regulations and conditions as the general assembly may from time to time
+prescribe, to
+sell the State's interest in the other works of internal improvement, whether as a stockholder or a
+creditor; also, the State's interest in any banking corporation, and to receive in payment the bonds
+and
+registered debt now owing by the State, equal in amount to the price obtained for the State's said
+interest: Provided, That the interest of the State in the Washington Branch of the Baltimore and
+Ohio
+Railroad be reserved and excepted from sale: And provided further, That no sale or contract of
+sale
+of the State's interest in the Chesapeake and Ohio Canal, the Chesapeake and Delaware Canal,
+and
+the Susquehanna and Tide Water Canal Companies shall go into effect until the same shall be
+ratified by
+the ensuing general assembly.
+
+*** SEND ***
+*** SSTART 053.0 003.0 0 MD 1864 ***
+
+SEC. 53. The general assembly before authorizing the sale of the State's interest in the
+Chesapeake and
+Ohio Canal, and before prescribing regulations and conditions for said sale, shall pass all laws
+that may
+be necessary to authorize the counties of Alleghany, Washington, Frederick, and Montgomery, or
+any
+one of them, to create a debt by the issue of bonds or otherwise, so as to enable them, or any of
+them,
+to become the purchasers of said interest.
+
+*** SEND ***
+*** SSTART 054.0 003.0 0 MD 1864 ***
+
+SEC. 54. The general assembly shall have power to regulate by law, not inconsistent with this
+constitution, all matters which relate to the judges of election, time, place, and manner of holding
+elections in this State, and of making returns thereof.
+
+*** SEND ***
+*** SSTART 055.0 003.0 0 MD 1864 ***
+
+SEC. 55. The general assembly shall have power to pass all such laws as may be necessary and
+proper
+for carrying into execution the powers vested by this constitution in any department or office of
+the
+government, and the duties imposed upon them thereby.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 MD 1864 ***
+
+                           ARTICLE IV
+                                
+                      JUDICIARY DEPARTMENT
+                                
+*** SSTART 001.0 004.0 1 MD 1864 ***
+
+                   PART I.-GENERAL PROVISIONS
+
+SECTION 1. The judicial power of this State shall be vested in a court of appeals, circuit courts,
+orphans' courts, such courts for the city of Baltimore as may be hereinafter prescribed or
+provided for,
+and justices of the peace; all said courts shall be courts of record, and each shall have a seal, to be
+used
+in the authentication of all process issuing from them. The process and official character of
+justices of
+the peace shall be authenticated as hath heretofore been practised in this State, or may hereafter
+be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 002.0 004.0 1 MD 1864 ***
+
+SEC 2. The judges of the several courts, excep the judges of the orphans' courts, shall be citizens
+of the
+United States, and residents of this State, not less than five years next preceding their election, or
+appointment by the executive in case of a vacancy; and not less than one year next preceding
+their
+election or appointment, residents in the judicial district or circuit, as the case may be, for which
+they
+may be elected or appointed; they shall not be less than thirty  years of age at the time of their
+election,
+and selected from those who have been admitted to practise law in this State, and who are most
+distinguished for integrity, wisdom, and sound legal knowledge.
+
+*** SEND ***
+*** SSTART 003.0 004.0 1 MD 1864 ***
+
+SEC. 3. The judges of the court of appeals shall be elected by the qualified voters of the State;
+and the
+governor, by and with the advice and consent of the senate, shall designate the chief justice; and
+the
+judges of the judicial circuits shall be elected by the qualified voters of their respective circuits;
+each
+judge of the court of appeals and of each judicial circuit shall hold his office for the term of
+fifteen years
+from the time of his election, or until he shall have attained the age of seventy years, whichever
+may first
+happen, and be reeligible thereto until he shall have attained the age of seventy years, and not
+after.
+
+*** SEND ***
+*** SSTART 004.0 004.0 1 MD 1864 ***
+
+SEC. 4. Any judge shall be removed from office by the governor on conviction, in a court of law,
+of
+incompetency, of wilful neglect of duty, of misbehavior in office, or any other crime; or on
+impeachment
+according to this constitution, or the laws the State; or on the address of the general assembly,
+two-
+thirds of each house concurring in such address, and the accused having been notified of the
+charges
+against him, and had opportunity of making his defence.
+
+*** SEND ***
+*** SSTART 005.0 004.0 1 MD 1864 ***
+
+SEC. 5. In case of the death, resignation, removal, or other disqualification of a judge of any
+court of
+this State, except of the orphans' courts, the governor, by and with the advice and consent of the
+senate, shall thereupon appoint a person duty qualified to fill said office until the next general
+election
+thereafter, whether for members of general assembly or county officers, whichever shall first
+occur, at
+which time an election shall be held as herein prescribed for a judge, who shall hold said office
+for the
+term of fifteen years, and until the election and qualification of his successor.
+
+*** SEND ***
+*** SSTART 006.0 004.0 1 MD 1864 ***
+
+SEC. 6. All judges shall, by virtue of their offices, be conservatives of the peace throughout the
+State,
+and no fees or perquisites, commission or reward of any kind, shall be allowed to any judge in
+this
+State, besides his annual salary or fixed per diem, for the discharge of any judicial duty.
+
+*** SEND ***
+*** SSTART 007.0 004.0 1 MD 1864 ***
+
+SEC. 7. No judge shall sit in any case wherein he may be interested, or where either of the parties
+may
+be connected with him by affinity or consanguinity within such degrees as now are or may
+hereafter be
+prescribed by law, or where he shall have been of counsel in the case.
+
+*** SEND ***
+*** SSTART 008.0 004.0 1 MD 1864 ***
+
+SEC. 8. The general assembly shall provide for the trial of causes in case of the disqualification
+of the
+judge of the superior court of Baltimore City, the court of common pleas, the circuit court of
+Baltimore
+City, and the criminal court of Baltimore, and also in case of a disqualification of any judge of
+other
+circuit courts of this State, to hear and determine the same, but in case of such disqualification,
+the
+parties thereto may, by consent, appoint a person to try the same; and the parties to any cause
+may
+submit the same to the court for determination without the aid of a jury.
+
+*** SEND ***
+*** SSTART 009.0 004.0 1 MD 1864 ***
+
+SEC. 9. The judge or judges of any court of this State, except the court of appeals  shall order
+and
+direct the record of proceedings in any suit of action, issue, or petition, presentment or
+indictment,
+pending in such court, to be transmitted to some other court in the same or any adjoining circuit
+having
+jurisdiction in such cases, whenever any party to such cause, or the counsel of any party, shall
+make it
+satisfactorily appear to the court that such party cannot have a fair and impartial trial in the court
+in
+which such suit or action, issue or petition, presentment or indictment, is pending; and the
+general
+assembly shall make such modifications of existing law as may be necessary to regulate and give
+force
+to this provision.
+
+*** SEND ***
+*** SSTART 010.0 004.0 1 MD 1864 ***
+
+SEC. 10. The judge or judges of any court may appoint such officers for their respective courts
+as may
+be found necessary, and it shall be the duty of the general assembly to prescribe by law a fixed
+compensation for all such officers.
+
+*** SEND ***
+*** SSTART 011.0 004.0 1 MD 1864 ***
+
+SEC. 11. Every person being a citizen of the United States shall be permitted to appear to and try
+his
+own case in all the courts of this State.
+
+*** SEND ***
+*** SSTART 012.0 004.0 1 MD 1864 ***
+
+SEC. 12. Any person who shall, after this constitution shall have gone into effect, detain in
+slavery any
+person emancipated by the provisions of this constitution, shall, on conviction, be fined not less
+than five
+hundred dollars nor more than five thousand dollars, or be imprisoned. not more than five years;
+and
+any of the judges of this State shall discharge, on habeas corpus, any person so detained in
+slavery.
+
+*** SEND ***
+*** SSTART 013.0 004.0 1 MD 1864 ***
+
+SEC . 13. The clerks of the several courts created or continued by this constitution shall have
+charge
+and custody of the records and other papers, shall perform all the duties and be allowed the fees
+which
+appertain to their several offices, as the same now are or may hereafter be regulated by law.
+
+*** SEND ***
+*** SSTART 014.0 004.0 1 MD 1864 ***         
+
+SEC. 14. All election of judges and other officers provided for by this constitution, State's
+attorneys
+excepted, shall be certified and the returns made by the clerks of the respective counties to the
+governor, who shall issue commissions to the different persons for the offices to which they shall
+have
+been respectively elected; and in all such elections, the person having the greatest number of
+votes shall
+be declared to be elected.
+
+*** SEND ***
+*** SSTART 015.0 004.0 1 MD 1864 ***
+
+SEC. 15. If in any case of election for judges, clerks of the courts of law, and registers of wills;
+the
+opposing candidates shall have an equal number of votes, it shall be the duty of the governor to
+order a
+new election; and in case of any contested election the governor shall send the returns to the
+house of
+delegates, who shall judge of the election and qualification of the candidates at such election.
+
+*** SEND ***
+*** SSTART 016.0 004.0 1 MD 1864 ***
+
+SEC. 16. All public commissions and grants shall run thus, " The State of Maryland," &c., and
+shall be
+signed by the governor, with the seal of the State annexed; all writs and process shall run to the
+same
+style, and be tested, sealed, and signed as usual; and all indictments shall conclude " against the
+peace,
+government, and dignity of the State."
+
+*** SEND ***
+*** SSTART 017.0 004.0 2 MD 1864 ***
+
+                   PART II.-COURT OF APPEALS
+
+SEC. 17. The court of appeals shall consist of a chief justice and four associate justices, and for
+their
+selection the State shall be divided into five judicial districts, as follows, viz: Worcester,
+Somerset,
+Dorchester, Talbot, Caroline, Queen Anne's, Kent, and Cecil Counties shall compose the first
+district;
+Harford and Baltimore Counties, and the first seven wards of Baltimore City, shall compose the
+second
+district; Baltimore City, except the first seven wards, shall compose the third district; Alleghany,
+Washington, Frederick, Howard, and Carroll Counties shall compose the fourth district; Saint
+Mary's,
+Charles, Anne Arundel, Calvert, Prince George's, and Montgomery Counties shall compose the
+fifth
+district, and one of the justices of the court of appeals shall be elected from each of said districts,
+by the
+qualified voters of the whole State. The present chief justice and associate justices of the court of
+appeals shall continue to act as such until the expiration of the term for which they were
+respectively
+elected, and until their successors are elected and qualified; and an election for a justice of the
+court of
+appeals, to be taken from the fourth judicial district, shall be held on the Tuesday next after the
+first
+Monday in the month of November, eighteen hundred and sixty-four.
+
+*** SEND ***
+*** SSTART 018.0 004.0 2 MD 1864 ***
+
+SEC. 18. The court of appeals shall hold its sessions in the city of Annapolis, on the first
+Monday in
+April and the first Monday in October of each and every year, or at such other times as the
+general
+assembly may by law direct, and it shall be competent for the justices of said court, sufficient
+cause
+appearing to them, temporarily to transfer their sittings elsewhere.
+
+*** SEND ***
+*** SSTART 019.0 004.0 2 MD 1864 ***
+
+SEC. 19. The jurisdiction of the court of appeals shall be coextensive with the limits of the State,
+and
+such as now is or may hereafter be prescribed for it by law, and its sessions shall continue for not
+less
+than ten months in the year, if the business before it shall so require.
+
+*** SEND ***
+*** SSTART 020.0 004.0 2 MD 1864 ***
+
+SEC. 20. Any three of the justices of the court of appeals may constitute a quorum, but no cause
+shall
+be decided without the concurrence of at least three justices in the decision; and in every case
+decided
+an opinion in writing shall be filed within three months after the argument or submission of the
+cause,
+and the judgment of the court shall be final and conclusive.
+
+*** SEND ***
+*** SSTART 021.0 004.0 2 MD 1864 ***
+
+SEC. 21. The salary of the justices of the court of appeals shall be three thousand dollars each per
+annum, payable quarterly.
+
+*** SEND ***
+*** SSTART 022.0 004.0 2 MD 1864 ***
+
+SEC. 22. Provision shall be made by law for publishing reports of all causes argued and
+determined in
+the court of appeals, which the justices shall designate as proper for publication.
+
+
+*** SEND ***
+*** SSTART 023.0 004.0 2 MD 1864 ***
+
+SEC. 23. The court of appeals shall appoint its own clerk, who shall hold his office for six years,
+and
+may be reappointed at the end thereof; he shall be subject to removal by the court for
+incompetency,
+neglect of duty, misdemeanor in office, or such other cause or causes as may be prescribed by
+law.
+
+*** SEND ***
+*** SSTART 024.0 004.0 3 MD 1864 ***
+
+                    PART III.-CIRCUIT COURTS
+
+SEC. 24. The State shall be divided into thirteen judicial circuits, in manner following: The
+counties of
+Saint Mary's and Charles shall constitute the first circuit; the counties of Anne Arundel and
+Calvert, the
+second; the counties of Prince George's and Montgomery, the third; the county of Frederick, the
+fourth;
+the county of Washington, the fifth; the county of Alleghany, the sixth; the counties of Carroll
+and
+Howard, the seventh; the county of Baltimore, the eighth; the counties of Harford and Cecil, the
+ninth;
+the counties of Kent and Queen Anne's, the tenth; the counties of Talbot and Caroline, the
+eleventh; the
+counties of Dorchester, Somerset, and Worcester, the twelfth; and the city of Baltimore, the
+thirteenth.
+
+*** SEND ***
+*** SSTART 025.0 004.0 3 MD 1864 ***
+
+SEC. 25. One court shall be held in each county of the State. The said courts shall be called
+circuit
+courts for the county in which they may be held, and shall have and exercise all the power,
+authority,
+and jurisdiction, original and appellate, which the present circuit courts of this State now have
+and
+exercise, or which may hereafter be prescribed by law.
+
+*** SEND ***
+*** SSTART 026.0 004.0 3 MD 1864 ***
+
+SEC. 26. For each circuit (the thirteenth excepted) there shall be one judge, who shall be styled
+circuit
+judge, who,during his term of office, shall reside in one of the counties composing the circuit for
+which
+he may be elected; the said judges shall hold a term of their courts in each of the counties
+composing
+their respective circuits at such times as now are or may hereafter be fixed by law, such terms to
+be
+never less than two in each year in each county; special terms may be held by said judges in their
+discretion, whenever the business of their several counties renders such terms necessary.
+
+*** SEND ***
+*** SSTART 027.0 004.0 3 MD 1864 ***
+
+SEC.27. The present judges of the circuit courts shall continue to act as judges of the respective
+circuit
+courts within the judicial circuits in which they respectively reside, until the expiration of the
+term for
+which they were respectively elected, and until their successors are elected and qualified, viz:
+The
+present judges of the first, second, third, fourth, sixth, and eighth judicial circuits, as organized at
+the
+time of the adoption of this constitution, shall continue to act as judges respectively of the first,
+second,
+fourth, fifth, ninth, and twelfth judicial circuits as organized under the constitution; and an
+election of
+judges of the third, sixth, seventh, eighth, tenth, and eleventh judicial circuits shall be held on the
+Tuesday next after the first Monday in the month of November, in the year eighteen hundred and
+sixty-
+four.
+
+*** SEND ***
+*** SSTART 028.0 004.0 3 MD 1864 ***
+
+SEC. 28. The salary of each judge of the circuit court shall be twenty-five hundred dollars per
+annum
+payable quarterly, and shall not be increased or diminished during his continuance in office.
+
+*** SEND ***
+*** SSTART 029.0 004.0 3 MD 1864 ***
+
+SEC. 29. There shall be a clerk of the circuit court for each county, who shall be selected by a
+plurality
+of the qualified voters of said county; he shall hold his office for the term of six years from the
+time of his
+election, and until a new election is held and his successor duly qualified; he shall be reeligible at
+the end
+of his term, and shall at any time be subject to removal for wilful neglect of duty, or other
+misdemeanor
+in office, on conviction in a court of law. In the event of any vacancy in the office of the clerk of
+any of
+the circuit courts, said vacancy shall be filled by the judge of said circuit court in which said
+vacancy
+occurs, until the next general election for county officers, when a clerk of said circuit court shall
+be
+elected to serve for six years thereafter.
+
+*** SEND ***
+*** SSTART 030.0 004.0 3 MD 1864 ***
+
+SEC. 30. The judges of the respective circuit courts of this State, and of the courts of Baltimore
+City,
+shall render their decisions, in all cases argued before them, or submitted for their judgment,
+within two
+months after the same  shall have been so argued or submitted.
+
+*** SEND ***
+*** SSTART 031.0 004.0 4 MD 1864 ***
+
+               PART IV.-COURTS OF BALTIMORE CITY
+
+SEC. 31. There shall be in the thirteenth judicial circuit four courts to be styled the superior court
+of
+Baltimore City; the court of common pleas; the circuit court of Baltimore City, and the criminal
+court of
+Baltimore. Each court shall consist of one judge, who shall be elected by the legal and qualified
+voters of
+said city, and shall hold his office for the term of fifteen years, subject to the provisions of this
+constitution
+with regard to the election and qualification of judges, and their removal from office, and shall
+exercise the
+jurisdiction hereinafter specified.
+
+*** SEND ***
+*** SSTART 032.0 004.0 4 MD 1864 ***
+
+SEC. 32. Each of said judges shall receive an annual salary of three thousand dollars, payable
+quarterly.
+
+*** SEND ***
+*** SSTART 033.0 004.0 4 MD 1864 ***
+
+SEC. 33. The superior court of Baltimore City shall have jurisdiction over all suits where the
+debt or
+damage claimed, exclusive of interest, shall exceed the sum of one thousand dollars, and in case
+any plaintiff
+or plaintiffs shall recover less than the sum or value of one thousand dollars, he or they shall be
+deemed as
+adjudged to pay costs in the discretion of the court. The said court shall have jurisdiction as a
+court of
+equity within the limits of the said city, and in all other civil cases which are not hereinafter
+assigned to the
+court of common pleas, and also have jurisdiction in all cases of appeals from the commissioners
+for
+opening the streets.
+
+*** SEND ***
+*** SSTART 034.0 004.0 4 MD 1864 ***
+
+SEC. 34. The court of common pleas shall have civil jurisdiction in all suits where the debt or
+damage
+claimed, exclusive of interest, shall be over one hundred dollars, and shall not exceed one
+thousand dollars;
+and shall also have jurisdiction in all cases of appeal in civil cases from the judgment of justices
+of the peace
+in the said city, and shall have jurisdiction in all applications for the benefit of the insolvent laws
+of this State,
+and the supervision and control of the trustees thereof.
+
+*** SEND ***
+*** SSTART 035.0 004.0 4 MD 1864 ***
+
+SEC. 35. The circuit court of Baltimore City shall have jurisdiction concurrent with the superior
+court of
+Baltimore City, in all cases in equity, in cases arising under the act to direct descents, and its
+supplements,
+and shall exercise all the power that is now conferred by law: Provided, Said court shall not have
+jurisdiction in applications for the writ of habeas corpus, in cases of persons charged with
+criminal
+offences.
+
+*** SEND ***
+*** SSTART 036.0 004.0 4 MD 1864 ***
+
+SEC. 36. The criminal court of Baltimore shall have and exercise all the jurisdiction now held,
+and
+exercised by the criminal court of Baltimore, except in cases of appeals from commissioners for
+opening
+streets, and shall have jurisdiction in all cases of appeals from justices of the peace in said city,
+for the
+recovery of fines, penalties, and forfeitures.
+
+*** SEND ***
+*** SSTART 037.0 004.0 4 MD 1864 ***
+
+SEC. 37. The present judges of the several courts of Baltimore City shall continue to act as such
+until the
+expiration of the terms for which they were respectively elected, and until their successors are
+elected and
+qualified.
+
+*** SEND ***
+*** SSTART 038.0 004.0 4 MD 1864 ***
+
+SEC. 38. All causes pending in the several courts of Baltimore City at the adoption of this
+constitution shall
+be prosecuted to final judgment, as though the jurisdiction of the several courts in which they
+may be
+pending had  not been changed.
+
+*** SEND ***
+*** SSTART 039.0 004.0 4 MD 1864 ***
+
+SEC. 39. There shall be a clerk of each of the said courts of Baltimore City, who shall be elected
+by the
+legal and qualified voters of said city, and shall hold his office for six years from the time of his
+election, and
+until his successor is elected and qualified, and be reeligible thereto, subject to be removed for
+wilful neglect
+of duty or other misdemeanor in office on conviction in a court of law. In case of a vacancy in
+the office
+of a clerk in any of the said courts, the judge of the court of which he was clerk shall have the
+power to
+appoint a clerk until the general election for county officers held next thereafter, when a clerk of
+said court
+shall be elected to serve for six years thereafter.
+
+*** SEND ***
+*** SSTART 040.0 004.0 4 MD 1864 ***
+
+SEC. 40. The present clerk of the superior court of Baltimore City and the court of common
+pleas and of
+the criminal court of Baltimore shall continue to act as clerks of said courts respectively during
+the time for
+which they were severally elected, and until their successors are elected and qualified, and in
+case of the
+death, resignation, or disqualification of either of said clerks before the expiration of the time for
+which they
+were elected, the judge of the court where such death, resignation, or other disqualification may
+occur shall
+have the power to appoint a clerk as provided by the thirty-ninth section of this article. The
+present clerk
+of the circuit court of Baltimore City shall continue to act as clerk of said court until the first
+election for
+county officers next after the adoption of this constitution, when a clerk of said court shall be
+elected in the
+same manner, and hold his office for the same time, and be subject to the same provisions of this
+constitution, as the clerks of the courts in said city.
+
+*** SEND ***
+*** SSTART 041.0 004.0 4 MD 1864 ***
+
+SEC. 41. The general assembly shall, whenever it may think the same proper and expedient,
+provide by
+law another court for the city of Baltimore, to consist of one judge, to be elected by the legal and
+qualified
+voters of said city, who shall be subject to the same constitutional provisions, hold his office for
+the same
+term of years, and receive the same compensation as the judge of the superior court of said city,
+and said
+court shall have such jurisdiction and powers as may be prescribed by law; and the general
+assembly may
+reapportion the civil jurisdiction among the several courts in Baltimore City from time to time as
+in their
+judgments the public interest and convenience may require.
+
+*** SEND ***
+*** SSTART 042.0 004.0 4 MD 1864 ***
+
+SEC. 42. The clerk of the court of common pleas shall have authority to issue within said city all
+marriage
+and other licenses required by law, subject to such provisions as the general assembly have now
+or may
+hereafter prescribe, and the clerk of the superior court of said city shall receive and record all
+deeds,
+conveyances, and other papers which are required by law to be recorded in said city. He shall
+also have
+custody of all papers connected with the proceedings on the law or equity side of Baltimore
+County court,
+and of the dockets thereof, so far as the same have relation to the city of Baltimore.
+
+*** SEND ***
+*** SSTART 043.0 004.0 5 MD 1864 ***
+
+                     PART V.-ORPHANS' COURT
+
+SEC. 43. There shall be an orphans' court in the city of Baltimore, and in each of the counties of
+this
+State. The qualified voters of the city of Baltimore and of the several counties of the State shall,
+on the
+Tuesday next after the first Monday in the month of November, eighteen hundred and
+sixty-seven, elect
+three men to be judges of the orphans' court of said city and counties respectively; one of the said
+judges first elected shall hold his office for two years, one for four years, and the other for six
+years;
+and at the first meeting after their election and qualification, or as soon thereafter as practicable,
+they
+shall determine by lot which one of their members shall hold his office for two, four, and six
+years
+respectively, and thereafter there shall be elected as aforesaid, at each general election for county
+officers, one judge to serve for the term of six years. No person shall be elected judge of the
+orphans'
+court, unless he be at the time of his election a citizen of the United States and resident for twelve
+months in the city or county for which he may be elected. Each of said judges receive such
+compensation, to be paid by the said counties and city respectively, as is now or may hereafter be
+prescribed by the general assembly.
+
+*** SEND ***
+*** SSTART 044.0 004.0 5 MD 1864 ***
+
+SEC. 44. In case of the death, resignation, removal, or other disqualification of a judge of an
+orphans'
+court, the governor, by and with the advice and consent of the senate, shall appoint a person duly
+qualified to fill said office for the residue of the term thus made vacant.
+
+*** SEND ***
+*** SSTART 045.0 004.0 5 MD 1864 ***
+
+SEC. 45. The orphans' courts shall have all the powers now vested by law in the orphans' courts
+of this
+State, subject to such changes as the general assembly may prescribe, and shall have such other
+jurisdiction as may from time to time be provided by law.
+
+*** SEND ***
+*** SSTART 046.0 004.0 5 MD 1864 ***
+
+SEC. 46. There shall be a register of wills in each county of the State and in the city of
+Baltimore, to be
+elected by the legal and qualified voters of said counties and city respectively, who shall hold his
+office
+for six years from the time of his election, and until his successor is elected and qualified; he
+shall be
+reeligible and subject at all times to removal for wilful neglect of duty or misdemeanor in office
+in the
+same manner that the clerks of courts are removable. In the event of any vacancy in the office of
+register of wills, said vacancy shall be filled by the judges of the orphans' court in which such
+vacancy
+occurs, until the next general election for county officers, when a register shall be elected to
+serve for six
+years thereafter.
+
+*** SEND ***
+*** SSTART 047.0 004.0 6 MD 1864 ***
+
+                 PART VI.-JUSTICES OF THE PEACE
+
+SEC. 47. The governor, by and with the advice and consent of the senate, shall appoint such
+number of
+justices of the peace, and the county commissioners of the several counties, and the mayor and
+city
+council of Baltimore, shall appoint such number of constables for the several election-districts of
+the
+counties and wards of the city of Baltimore, as are now or may hereafter be prescribed by law,
+and
+justices of the peace and constables so appointed shall be subject to removal by the judge having
+criminal jurisdiction in the county or city for incompetency, wilful neglect of duty or
+misdemeanor in
+office, on conviction in a court of law. The justices of the peace and constables so appointed and
+commissioned shall be conservators of the peace, shall hold their office for two years, and shall
+have
+such jurisdiction, duties, and compensation, subject to such right of appeal in all cases, from the
+judgment of justices of the peace, as hath been heretofore exercised, or shall be hereafter
+prescribed by
+law.
+
+*** SEND ***
+*** SSTART 048.0 004.0 6 MD 1864 ***
+
+SEC. 48. In the event of a vacancy in the office of a justice of the peace, the governor shall
+appoint a
+person to serve as justice of the peace for the residue of the term, and in case of a vacancy in the
+office
+of constable, the county commissioners of the county in which the vacancy occurs, or the mayor
+and
+city council of Baltimore, as the case may be, shall appoint a person to serve as constable for the
+residue of the term.
+
+*** SEND ***
+*** SSTART 049.0 004.0 7 MD 1864 ***
+
+                       PART VII.-SHERIFFS
+
+SEC. 49. There shall be elected in each county, and in the city of Baltimore, in every second
+year, one
+person, resident in said county or city above the age of twenty-five years, and at least five years
+preceding his election a citizen of this State, to the office of sheriff. He shall hold his office for
+two
+years, and until his successor is duly elected and qualified; shall be ineligible for two years
+thereafter;
+shall give such bond, exercise such powers, and perform such duties as now are or may hereafter
+be
+fixed by law. In case of a vacancy by death, refusal to serve, or neglect to qualify or give bond,
+by disqualification or removal from the county or city, the
+governor shall appoint a person to be sheriff for the remainder of the official term.
+
+*** SEND ***
+*** SSTART 050.0 004.0 7 MD 1864 ***
+
+SEC. 50. Coroners, elisors, and notaries public may be appointed for each county and the city of
+Baltimore, in the manner, for the purposes, and with the powers now fixed or which may
+hereafter be
+prescribed by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 MD 1864 ***
+
+                           ARTICLE V
+
+                        ATTORNEY-GENERAL
+
+*** SSTART 001.0 005.0 0 MD 1864 ***
+
+SECTION 1. There shall be an attorney-general elected by the qualified voters of the State, on
+general
+ticket, on the Tuesday next after the first Monday in the month of November, in the year eighteen
+hundred and sixty-four, and on the same day in every fourth year thereafter, who shall hold his
+office for
+four years from the first Monday of January next ensuing his election, and until his successor
+shall be
+elected and qualified, and shall be reeligible thereto, and shall be subject to removal for
+incompetency,
+wilful neglect of duty, or misdemeanor in office, on conviction in a court of law.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 MD 1864 ***
+
+SEC. 2. All elections for attorney- general shall be certified to, and returns made thereof by the
+clerks
+of the circuit courts for the several counties, and the clerk of the superior court of Baltimore City,
+to the
+governor of the State, whose duty it shall be to decide upon the election and qualifications of the
+person
+returned, and in case of a tie between two or more persons, to designate which of said persons
+shall
+qualify as attorney-general, and to administer the oath of office to the person elected.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 MD 1864 ***
+
+SEC. 3. It shall be the duty of the attorney-general to prosecute and defend, on the part of the
+State, all
+cases which at the time of his election and qualification, and which thereafter may be depending
+in the
+court of appeals, or in the Supreme Court of the United States, by or against the State, or wherein
+the
+State may be interested; and he shall give his opinion in writing whenever required by the
+general
+assembly, or either branch thereof, the governor, the comptroller, the treasurer, or any State's
+attorney,
+on any matter or subject depending before them, or either of them, and when required by the
+governor
+or the general assembly he shall aid any State's attorney in prosecuting any suit or action brought
+by the
+State in any court of this State; and he shall commence and prosecute or defend any suit or action
+in
+any of said courts, on the part of the State, which the general assembly or the governor, acting
+according to law, shall direct to be commenced, prosecuted, or defendedl and he shall receive for
+his
+services an annual salary of twenty-five hundred dollars; but he shall not be entitled to receive
+any fees,
+perquisites, or rewards whatever in addition to the salary aforesaid for the performance of any
+official
+duty, nor have power to appoint any agent, representative, or deputy, under any circumstances
+whatever.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 MD 1864 ***
+
+SEC. 4. No person shall be eligible to the office of attorney-general who has not resided and
+practised
+law in this State for at least seven years next preceding his election.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 MD 1864 ***
+
+SEC. 5. In case of vacancy in the office of attorney-general, occasioned by death, resignation, or
+his
+removal from  the State, or his conviction, as hereinbefore specified, the said vacancy shall be
+filled by
+the governor for the residue of the term thus made vacant.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 MD 1864 ***
+
+SEC. 6. It shall be the duty of the clerk of the court of appeals, and the commissioner of the
+land-office,
+respectively, whenever a case shall be brought into said court or office, in which the State is a
+party or
+has an interest, immediately to notify the attorney-general thereof.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 MD 1864 ***
+                                 
+                     THE STATE'S ATTORNEYS
+
+SEC. 7. There shall be an attorney for the State in each county and the city of Baltimore, to be
+styled "
+the State's attorney," who shall be elected by the voters thereof, respectively, on the Tuesday next
+after
+the first Monday in the month of November, eighteen hundred and sixty-seven, and on the same
+day
+every fourth year thereafter, and shall hold his office for four years from the first Monday in
+January
+next ensuing his election, and until his successor shall be elected and qualified, and shall be
+reeligible
+thereto, and be subject to removal therefrom for incompetency, wilful neglect of duty, or
+misdemeanor
+in office, on conviction in a court of law.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 MD 1864 ***
+
+SEC. 8. All elections for the State's attorney shall be certified to and returns made thereof by the
+clerks
+of the said counties and city to the judges thereof having criminal jurisdiction, respectively,
+whose duty it
+shall be to decide upon the elections and qualifications of the persons returned, and in case of a
+tie
+between two or more persons, to designate which of said persons shall qualify as State's attorney,
+and
+to administer the oaths of office to the persons elected.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 MD 1864 ***
+
+SEC. 9. The State's attorney shall perform such duties and receive such fees and commissions as
+are
+now or may hereafter be prescribed by law, and if any State's attorney shall receive any other fee
+or
+reward than such as is or may be allowed by law, he shall, on conviction thereof, be removed
+from
+office: Provided, That the State's attorney for Baltimore City shall have power to appoint one
+deputy,
+at a salary of not more than fifteen hundred dollars per annum, to be paid by the State's attorney
+out of
+the fees of his office, as has heretofore been practised.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 MD 1864 ***
+
+SEC. 10. No person shall be eligible to the office of State's attorney who has not been admitted
+to
+practise law in this State, and who has not resided for at least one year in the county or city in
+which he
+may be elected.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 MD 1864 ***
+
+SEC. 11. In case of vacancy in the office of State's Attorney, or of his removal from the county
+or city
+in which he shall have been elected, or on his conviction as herein specified, the said vacancy
+shall be
+filled by the judge of the county or city, respectively, having criminal jurisdiction, in which said
+vacancy
+shall occur, for the residue of the term thus made vacant.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 MD 1864 ***
+
+                           ARTICLE VI
+
+                      TREASURY DEPARTMENT
+
+*** SSTART 001.0 006.0 0 MD 1864 ***
+
+SECTION 1. The treasury department of this State shall consist of a comptroller and a treasurer.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 MD 1864 ***
+
+SEC. 2. The comptroller shall be chosen by the qualified electors of the State at each regular
+election
+for members of the general assembly. He shall hold his office for two years, commencing on the
+second
+Wednesday in January next ensuing his election, and shall receive an annual salary of
+twenty-five
+hundred dollars, but shall not be allowed, nor shall he receive, any fees, commissions, or
+perquisites of
+any kind, in addition thereto, for the performance of any official duty or service. He shall keep
+his office
+at the seat of government, and shall take such oath and enter into such bond for the faithful
+performance
+of his duty as are now or may hereafter be prescribed by law. A vacancy in the office of
+comptroller
+shall be filled by the governor for the residue of the term. The first election for comptroller under
+this
+constitution shall be held on the Tuesday next after the first Monday in the month of November,
+in the
+year eighteen hundred and sixty-four; but the comptroller then elected shall not enter upon the
+discharge
+of the duties of his office until the expiration of the term of the present incumbent, unless the said
+office
+shall sooner become vacant.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 MD 1864 ***
+
+SEC. 3. The comptroller shall have the general superintendence of the fiscal affairs of the State;
+he shall
+digest and prepare plans for the improvement and management of the revenue, and for the
+support of
+the public credit; prepare and report estimates of the revenue and expenditures of the State;
+superintend and enforce the collection of all taxes and revenue; adjust, settle, and preserve all
+public
+accounts; decide on the forms of keeping and stating accounts; grant, under regulations
+prescribed by
+law, all warrants for moneys to be paid out of the treasury in pursuance of appropriations by law,
+prescribe the formalities of the transfer of stock or other evidences of the State debt, and
+countersign
+the same, without which such evidences shall not be valid; he shall make full reports of all his
+proceedings and of the state of the treasury department within ten days after the commencement
+of
+each session of the general assembly, and perform such other duties as are now or may hereafter
+be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 MD 1864 ***
+
+SEC. 4. The treasurer shall be elected on joint ballot by the two houses of the general assembly at
+each
+regular session thereof. He shall hold his office for two years, and shall receive an annual salary
+of
+twenty-five hundred dollars, but shall not be allowed, nor shall  he receive, any fees,
+commissions, or
+perquisites of any kind in addition thereto for the performance of any official duty or service. He
+shall
+keep his office at the seat of government, and shall take such oath and enter into such bond for
+the
+faithful discharge of his duty as are now or may hereafter be prescribed by law. A vacancy in the
+office
+of treasurer shall be filled by the governor for the residue of the term. The general assembly, at
+its first
+session after the adoption of this constitution, shall elect a treasurer, but the treasurer then elected
+shall
+not enter upon the discharge of the duties of his office until the expiration of the term of the
+present
+incumbent, unless the said office shall sooner become vacant.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 MD 1864 ***
+
+SEC. 5. The treasurer shall receive and keep the moneys of the State, and disburse the same upon
+warrants drawn by the comptroller, and not otherwise; he shall take receipts for all moneys paid
+by
+him, and all receipts for moneys received by him shall be indorsed upon warrants signed by the
+comptroller, without which warrants, so signed, no acknowledgment of money received into the
+treasury shall be valid; and, upon warrants issued by the comptroller, be shall make arrangements
+for
+the payment of the interest of the public debt, and for the purchase thereof, on account of the
+sinking-
+fund. Every bond, certificate, or other evidence of the debt of the State shall be signed by the
+treasurer
+and countersigned by the comptroller, and no new certificate or other evidence intended to
+replace
+another shall be issued until the old one shall be delivered to the treasurer, and authority executed
+in due
+form for the transfer of the same shall be filed in his office, and the transfer accordingly made on
+the
+books thereof, and the certificate or other evidence cancelled; but the general assembly may
+make
+provision for the loss of certificates or other evidences of the debt.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 MD 1864 ***
+
+SEC. 6. The treasurer shall render his accounts quarterly to the comptroller, and on the third day
+of
+each regular session of the general assembly he shall submit to the senate and house of delegates
+fair
+and accurate copies of all accounts by him from time to time rendered and settled with the
+comptroller.
+He shall at all times submit to the comptroller the inspection of the moneys in his hands, and
+perform all
+other duties that are now or may hereafter be prescribed by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 MD 1864 ***
+
+                          ARTICLE VII
+
+                        SUNDRY OFFICERS
+
+*** SSTART 001.0 007.0 0 MD 1864 ***
+
+SECTION 1. The governor, the comptroller of the treasury, and the treasurer shall constitute the
+board
+of public works in this State; they shall keep a journal of their proceedings, and shall hold regular
+sessions in the city of Annapolis on the first Wednesday in January, April, July, and October in
+each
+year, and oftener if necessary, at which sessions they shall hear and determine such matters as
+affect the
+public works of the State, and as the general assembly may confer upon them the power to
+decide.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 MD 1864 ***
+
+SEC. 2. They shall exercise a diligent and faithful supervision of all public works in which the
+State may
+be interested as stockholder or creditor, and shall appoint the directors in every railroad or canal
+company in which the State has the legal power to appoint directors, which said directors shall
+represent the State in all meetings of the stockholders of every railroad or canal company in
+which the
+State is a stockholder; they shall require the directors of all public works, from time to time, and
+as
+often as there shall be any change in the rates of toll on any of said works, to furnish said board
+of
+public works a schedule of such modified rates of toll, and shall use all legal powers which they
+may
+possess to obtain the establishment of rates of toll which may prevent an injurious competition
+with each
+other to the detriment of the interests of the State; and so to adjust them as to promote the
+agricultural
+interests of the State; they shall report to the general assembly at each regular session, and
+recommend
+such legislation as they shall deem necessary and requisite to promote or protect the interests of
+the
+State in said public works; they shall perform such other duties as may be hereafter prescribed by
+law,
+and a majority of them shall be competent to act.
+The governor, comptroller, and treasurer shall receive no additional salary for services rendered
+by
+them as members of the board of public works.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 MD 1864 ***
+
+SEC. 3. There shall be a commissioner of the land-office, elected by the qualified voters of the
+State,
+on the Tuesday next after the first Monday in the month of November in the year eighteen
+hundred and
+seventy, and on the same day in every sixth year thereafter, who shall hold his office for the term
+of six
+years from the first Monday in January ensuing his election. The returns of said election shall be
+made to
+the governor, and in the event of a tie between two or more candidates, the governor shall direct
+a new
+election to be held, by writs to the sheriffs of the several counties, and of the city of Baltimore,
+who
+shall hold said election after at least twenty days' notice, exclusive of the day of election. He
+shall
+perform such duties as are now required of the commissioner of the land-office, or such as may
+hereafter be prescribed by law, and shall also be the keeper of the chancery records. He shall
+receive a
+salary of two thousand dollars per annum, to be paid out of the treasury, and shall charge such
+fees as
+are now or may be hereafter fixed by law. He shall make a semi-annual report of all the fees of
+his
+office, both as commissioner of the land-office and as keeper of the chancery records, to the
+comptroller of the treasury, and shall pay the same semiannually into the treasury. In case of
+vacancy in
+said office by death, resignation, or other cause, the governor shall fill such vacancy until the
+next
+general election for members of the general assembly thereafter, when a commissioner of the
+land-office
+shall be elected for the full term of six years ensuing.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 MD 1864 ***
+
+SEC. 4. The State librarian shall be elected by a joint vote of the two branches of the general
+assembly
+for four years, and until his successor shall be elected and qualified. His salary shall be fifteen
+hundred
+dollars per annum, and the general assembly shall pass no law whereby he shall receive any
+additional
+compensation. He shall perform such duties as are now or may hereafter be prescribed by law. In
+case
+of a vacancy in the office of State librarian from death, resignation, or any other cause, the
+governor
+shall fill such vacancy until the next meeting of the general assembly thereafter, and until a
+successor be
+elected and qualified.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 MD 1864 ***
+
+SEC. 5. The county commissioner shall be elected, on a general ticket, by the qualified voters of
+the
+several counties in this State; an election for county commissioners shall be held on the Tuesday
+next
+after the first Monday in the month of November, eighteen hundred and sixty-five, and as nearly
+one-
+half as may be of said commissioners shall hold their office for two years, and the other half for
+four
+years. At the first meeting after their election and qualification, or as soon thereafter as
+practicable, the
+said commissioners shall determine by lot which of their number shall hold office for two and
+four years
+respectively; and thereafter there shall be elected as aforesaid, at each general election for county
+officers, county commissioners for four years to fill the places of those whose term has expired.
+The
+said commissioners shall exercise such powers and perform such duties (which shall be similar
+throughout the State) as are now or may hereafter be prescribed by law. Their number in each
+county,
+and their compensation, their powers and duties, may at any time hereafter be changed and
+regulated
+by the general assembly.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 MD 1864 ***
+
+SEC. 6. The general assembly shall provide by law for the appointment of road supervisors in the
+several counties by the county commissioners, and the number of said supervisors, as well as
+their
+powers and duties in the several counties, shall be determined by the said county commissioners.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 MD 1864 ***
+
+SEC. 7. The qualified voters of each county and of the city of Baltimore shall, on the Tuesday
+next after
+the first Monday in the month of November, in the year eighteen hundred and sixty-five, and
+every two
+years thereafter, elect a surveyor for the counties and city of Baltimore, respectively, whose term
+of
+office shall commence on the first Monday of January next ensuing their election, and whose
+duties and
+compensation shall be the same as are now or may hereafter be prescribed by law. Any vacancy
+in the
+office of surveyor shall be filled by the commissioners of the counties or by the mayor and city
+council
+of Baltimore, respectively, for the residue of the term.
+
+*** SEND ***
+*** SSTART 008.0 007.0 0 MD 1864 ***
+
+SEC. 8. The qualified voters of Worcester County shall, on the Tuesday next after the first
+Monday in
+the month of November, in the year eighteen hundred and sixty-five, and every two years
+thereafter,
+elect a wreck-master for said county, whose duties and compensation shall be the same as are
+now or
+may be hereafter prescribed by law; the term of office of said wreck-master shall commence on
+the first
+Monday of January next preceding his election, and a vacancy in said office shall be filled by the
+county
+commissioners of said county for the residue of the term.
+
+*** SEND ***
+*** SSTART 009.0 007.0 0 MD 1864 ***
+
+SEC. 9. The general assembly may provide by law for the election or appointment of such other
+officers as may be required, and are not herein provided for, and prescribe their tenure of office,
+powers, and duties.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 MD 1864 ***
+
+                          ARTICLE VIII
+
+                           EDUCATION
+
+*** SSTART 001.0 008.0 0 MD 1864 ***
+
+SECTION 1. The governor shall, within thirty days after the ratification by the people of this
+constitution, appoint, subject to the confirmation of the senate, at its first session thereafter, a
+State
+superintendent of public instruction, who shall hold his office for four years and until his
+successor shall
+have been appointed and shall have qualified. He shall receive an annual salary of twenty-five
+hundred
+dollars, and such additional sum for travelling and incidental expenses as the general assembly
+may by
+law allow; shall report to the general assembly, within thirty days after the commencement of its
+first
+session under this constitution, a uniform system of free public schools, and shall perform such
+other
+duties pertaining to his office as may from time to time be prescribed by law.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 MD 1864 ***
+
+SEC. 2. There shall be a State board of education, consisting of the governor, the
+lieutenant-governor,
+and speaker of the house of delegates, and the State superintendent of public instruction, which
+board
+shall perform such duties as the general assembly may direct.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 MD 1864 ***
+
+SEC. 3. There shall be in each county such number of school commissioners as the State
+superintendent of public instruction shall deem necessary, who shall be appointed by the State
+board of
+education; shall hold office for four years, and shall perform such duties and receive such
+compensation
+as the general assembly or State superintendent may direct; the school commissioners of
+Baltimore City
+shall remain as at present constituted, and shall be appointed, as at present, by the mayor and city
+council, subject to such alterations and amendments as may be made from time to time by the
+general
+assembly, or the said mayor and city council. 
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 MD 1864 ***
+
+SEC. 4. The general assembly, at its first session after the adoption of this constitution, shall
+provide a
+uniform system of free public schools, by which a school shall be kept open and supported free
+of
+expense for tuition in each school-district, for at least six months in each year; and in case of a
+failure on
+the part of the general assembly so to provide, the system reported to it by the State
+superintendent of
+public instruction shall become the system of free public schools of the State: Proivided That the
+report
+of the State superintendent shall be in conformity with the provisions of this constitution, and
+such
+system shall be subject to such alterations, conformable to this article, as the general assembly
+may
+from time to time enact.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 MD 1864 ***
+
+SEC. 5. The general assembly shall levy at each regular session after the adoption of this
+constitution an
+annual tax of not less than ten cents on each one hundred dollars of taxable property throughout
+the
+State, for the support of the free public schools, which tax shall be collected at the same time and
+by
+the same agents as the general State levy; and shall be paid into the treasury of the State, and
+shall be
+distributed, under such regulations as may be prescribed by law, among the counties and the city
+of
+Baltimore, in proportion to their respective population between the ages of five and twenty years:
+Provided, That the general assembly shall not levy any additional school-tax upon particular
+counties,
+unless such county express by popular vote its desire for such tax. The city of Baltimore shall
+provide
+for its additional school-tax as at present, or as may hereafter be provided by the general
+assembly, or
+by the mayor and city council of Baltimore.
+
+*** SEND ***
+*** SSTART 006.0 008.0 0 MD 1864 ***
+
+SEC. 6. The general assembly shall.further provide by law, at its first session after the adoption
+of this
+constitution, a fund for the support of the free public schools of the State, by the imposition of an
+annual
+tax of not less than five cents on each one hundred dollars of taxable property throughout the
+State, the
+proceeds of which tax shall be known as the public-school fund, and shall be invested by the
+treasurer,
+together with its annual interest, until such time as said fund shall, by its own increase and any
+additions
+which may be made to it from time to time, together with the present school-fund, amount to six
+millions
+of dollars, when the tax of ten cents in the hundred dollars authorized by the preceding section
+may be
+discontinued in whole or in part, as the general assembly may direct. The principal fund of six
+millions
+hereby provided shall remain forever inviolate as the free public-school fund of the State, and the
+annual
+interest of said school-fund shall be disbursed for educational purposes only, as may be
+prescribed by
+law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 MD 1864 ***
+
+                           ARTICLE IX
+
+                  MILITIA AND MILITARY AFFAIRS
+
+*** SSTART 001.0 009.0 0 MD 1864 ***
+
+SECTION 1. The militia shall be composed of all able-bodied male citizens, residents of this
+State,
+being eighteen years of age, and under the age of forty-five years, who shall be enrolled in the
+militia,
+and perform military duty in such manner, not incompatible with the constitution and laws of the
+United
+States, as may be prescribed by the general assembly of Maryland; but persons whose religious
+opinions and conscientious scruples forbid them to bear arms shall be relieved from doing so on
+producing to the proper authorities satisfactory proof that they are thus conscientious.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 MD 1864 ***
+
+SEC. 2. The general assembly shall provide at its first session after the adoption of this
+constitution, and
+from time to time thereafter, as the exigency may require, for organizing, equipping, and
+disciplining the
+militia in such  a manner, not incompatible with the laws of the United States, as shall be most
+effective
+to repel invasion and suppress insurrection, and shall pass such laws as shall promote the
+formation of
+volunteer militia associations in the city of Baltimore and in every county, and to secure them
+such
+privileges or assistance as may afford them effectual encouragement.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 MD 1864 ***
+
+SEC. 3. There shall be an adjutant-general, who shall be appointed by the governor, by and with
+the
+advice and consent of the senate. He shall hold his office at the pleasure of the governor; shall
+perform
+such duties, and shall receive such compensation or emoluments as are now or may be hereafter
+fixed
+by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 MD 1864 ***
+
+                           ARTICLE X
+
+                     COUNTIES AND TOWNSHIPS
+
+*** SSTART 001.0 010.0 0 MD 1864 ***
+
+SECTION 1. The general assembly may provide for organizing new counties, locating and
+removing
+county-seats, and changing county-lines, but no new county shall be organized without the
+consent of a
+majority of the legal voters residing within the limits about to form said county, nor shall the
+lines of any
+county be changed without the consent of a majority of the legal voters residing within the limits
+of the
+lines proposed to be changed, nor shall any new, county contain less than four hundred square
+miles
+nor less than ten thousand white inhabitants, nor shall any county be reduced below that amount
+of
+square miles, nor below that number of white inhabitants.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 MD 1864 ***
+
+SEC. 2. The general assembly shall provide by general law for dividing the counties into
+townships or
+permanent municipal corporations, in place of the existing election-districts, prescribing their
+limits and
+confiding to them all powers necessary for the management of their public local concerns; and
+whenever the organization of these township corporations shall be perfected, all officers provided
+for in
+this constitution, but whose official functions shall have been superrseded by such organizations
+shall be
+dispensed with, and the affairs of such townships and of the counties as affected by the action of
+such
+townships shall be transacted in such manner as the general assembly may direct.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 MD 1864 ***
+
+                           ARTICLE XI
+
+                 AMENDMENTS OF THE CONSTITUTION
+
+*** SSTART 001.0 011.0 0 MD 1864 ***
+
+SECTION 1. The general assembly may propose any amendment or amendments to this
+constitution,
+which shall be agreed to by three-fifths of all the members elected to both houses. Such proposed
+amendment or amendments, with the yeas and nays thereon, shall be entered on the journal of
+each
+house; shall be printed with the laws, passed at the same session, and shall be published, by order
+of
+the governor, in all the newspapers printed in the different counties of this State, and in three
+newspapers printed in the city of Baltimore, (one of which shall be printed in the German
+language,) for
+at least three months preceding the next election for members of the general assembly, at which
+election
+the said proposed amendment or amendments shall be submitted to the qualified electors of the
+State
+for their confirmation or rejection; and if it shall appear to the satisfaction of the governor, from
+the
+returns of said election made to him by the proper authorities, that a majority of the qualified
+votes cast
+at said election on the proposed amendment or amendments were in favor of the said proposed
+amendment or amendments, he shall, by proclamation, declare said amendment or amendments
+to be
+part of the constitution of this State. When two or more amendments shall be submitted by the
+general
+assembly to the qualified electors of the State at the same election, they shall be so subinitted that
+the
+electors may vote for or against each amendment separately.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 MD 1864 ***
+
+SEC. 2. Whenever two-thirds of the members elected to each branch of the general assembly
+shall
+think it necessary to call a convention to revise, amend, or change this constitution, they shall
+recommend to the electors to vote at, the next election for members of the general assembly for
+or
+against a convention; and if a majority of all the electors voting at said election shall have voted
+for a
+convention, the general assembly shall, at their next session, provide by law for calling the same. 
+The
+convention shall consist of as many members as both houses of the general assembly, who shall
+be
+chosen in the same manner, and shall meet within three months after their election for the
+purpose
+aforesaid.
+
+*** SEND ***
+*** SSTART 003.0 011.0 0 MD 1864 ***
+
+SEC. 3. At the general election to be held in the year one thousand eight hundred and eighty-two,
+and
+in each twentieth year thereafter, the question, " Shall there be a convention to revise, alter or
+amend
+the constitution," shall be submitted to the electors of the State, and in any case a majority of all
+the
+electors voting at such election shall decide in favor of a convention, the general assembly at its
+next
+session shall provide by law for the election of delegates and the assembling of'such convention,
+as is
+provided in the preceding section; but no amendment of this constitution agreed upon by any
+convention assembled in pursuance of this article  shall take effect until the same shall have been
+submitted to the electors of the State, and adopted by a majority of those voting thereon.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 MD 1864 ***
+
+                          ARTICLE XII
+
+                            SCHEDULE
+
+*** SSTART 001.0 012.0 0 MD 1864 ***
+
+SECTION 1. Every person holding any office created by or existing under the constitution or
+laws of
+the State, the entire amount of whose pay or compensation received for the discharge of his
+official
+duties shall exceed the yearly sum of three thousand dollars, except wherein otherwise provided
+by this
+constitution, shall keep a book in which shall be entered any sum of sums of money received by
+him or
+on his account as it payment or compensation for his performance of official duties, a copy of
+which
+entries in said book, verified by the oath of the officer by whom it is directed to be kept, shall be
+returned yearly to the comptroller of the State for his inspection and that of the general assembly
+of the
+State, and each of the said officers, when the amount received by him for the year shall exceed
+three
+thousand dollars, shall yearly pay over to the treasurer of the State the amount of such excess by
+him
+received, subject to such disposition thereof as the general assembly may direct; and such officer
+failing
+to comply with this requisition shall be deemed to have vacated his office and be subject to suit
+by the
+State for the amount that ought to be paid into the treasury.
+
+*** SEND ***
+*** SSTART 002.0 012.0 0 MD 1864 ***
+
+SEC. 2. The several courts, except as herein otherwise provided, shall continue with like powers
+and,
+jurisdiction, both at law and in equity, as if this constitution had not been adopted, and until the
+organization of the judicial department provided by this constitution.
+
+*** SEND ***
+*** SSTART 003.0 012.0 0 MD 1864 ***
+
+SEC. 3. If at any election directed by this constitution any two or more candidates shall have the
+highest
+and an equal number of votes, a new election shall be ordered, except in cases specially provided
+for
+by this constitution.
+
+*** SEND ***
+*** SSTART 004.0 012.0 0 MD 1864 ***
+
+SEC. 4. In the trial of all criminal cases, the jury shall be the judges of law as well as fact.
+
+*** SEND ***
+*** SSTART 005.0 012.0 0 MD 1864 ***
+
+SEC. 5. The trial by jury of all issues of fact in civil proceedings in the several courts of law in
+this State,
+where the amount in controversy exceeds the sum of five dollars, shall be inviolably preserved.
+
+*** SEND ***
+*** SSTART 006.0 012.0 0 MD 1864 ***
+
+SEC. 6. All officers, civil and military, now holding office, whether by election or appointment,
+under
+the State, shall continue to hold and exercise their offices, according to their present tenure,
+unless
+otherwise provided in this constitution, until they shall be superseded pursuant to its provisions,
+and until
+their successors be duly qualified, and the compensation of such officers which has been
+increased by
+this constitution shall take effect from the first day of January, eighteen hundred and sixty-five.
+
+*** SEND ***
+*** SSTART 007.0 012.0 0 MD 1864 ***
+
+SEC. 7 . General elections shall be held throughout the State on the Tuesday next after the first
+Monday in the month of November of each and every year; at the election held in the year
+eighteen
+hundred and sixty-four, all State officers required to be elected under this constitution during that
+year
+shall be elected, and in like manner in every second year thereafter an election shall be held for
+those
+State officers whose terms are about to expire; at the election held in the year eighteen hundred
+and
+sixty-five, all county officers required to be elected under this constitution in that year shall be
+elected,
+and in like manner in ever second year thereafter an election shall be held for those county
+officers
+whose terms are about to expire: Provided, however, The judges of the several courts of this
+State,
+except the judges of the orphans' court, shall be elected at the regular election, whether for State
+or
+county officers, as the case may be, immediately preceding the expiration of the term of the
+incumbent
+whose place is to be filled.
+
+
+*** SEND ***
+*** SSTART 008.0 012.0 0 MD 1864 ***
+
+                    VOTE ON THE CONSTITUTION
+
+SEC. 8. For the purpose of ascertaining the sense of the people of this State in regard to the
+adoption
+or rejection of this constitution, the governor shall issue his proclamation within five days after
+the
+adjournment of this convention, directed to the sheriff of the city of Baltimore, and to the sheriffs
+of the
+several counties of this State, commanding them to give notice, in the manner prescribed by law,
+that an
+election will be held in the city of Baltimore on the twelfth day of October, in the year eighteen
+hundred
+and sixty-four, and in the several counties of this State on the twelfth and thirteenth days of
+October, in
+the same year, at the usual places of holding elections in said city and counties, for the adoption
+or
+rejection of this constitution, which election shall be held in the said city of Baltimore on the
+twelfth day
+of October, eighteen hundred and sixty-four, between the hours of eight o'clock a. m. and five
+o'clock
+p. m., and in the said several counties of the State on the said twelfth and thirteenth days of
+October,
+eighteen hundred and sixty-four, between the hours of eight o'clock a. m. and five o'clock p. m.,
+and
+the judges of election of said city, and of the several counties of the State, shall receive at said
+election
+the votes only of such electors as are qualified according to the provisions of this constitution,
+who may
+offer to vote at such election, and the said sheriffs shall also give notice on or after the twelfth
+day of
+October, eighteen hundred and sixty-four, for all elections provided for by this constitution, to be
+held
+during that year.
+
+*** SEND ***
+*** SSTART 009.0 012.0 0 MD 1864 ***
+
+SEC. 9. At the said election the vote shall be by ballot, and each ballot shall describe thereon the
+words " For the constitution," or "Against the constitution," as the voter may select, and it shall
+be
+conducted in all respects as the general elections in this State are now conducted. The judges of
+election shall administer to every person offering to vote the oath or affirmation prescribed by
+this
+constitution, and should any person offering to vote refuse or decline to take said oath, he shall
+not be
+permitted to vote at such election, but the taking of such oath or affirmation shall not be deemed
+conclusive evidence of the right of such person to vote, and it shall be the duty of the return
+judges of
+said city, and of the several counties of the State, having counted the votes given for or against
+the
+adoption of this constitution, to certify the result thereof in the manner now prescribed by law,
+accompanied with a special statement that every person who has voted has taken the oath or
+affirmation prescribed by this constitution; and the governor, upon receiving such result, and
+ascertaining the aggregate vote throughout the State, including the soldiers' vote, hereinafter
+provided
+for, shall, by his proclamation, make known the same, and if a majority of the votes cast shall be
+for the
+adoption of this constitution, it shall go into effect on the first day of November, eighteen
+hundred and
+sixty-four.
+
+*** SEND ***
+*** SSTART 010.0 012.0 0 MD 1864 ***
+
+SEC. 10. And the governor shall exclude from count the votes of any county or city, the return
+judges
+of which shall fail to certify in the returns, as prescribed by this schedule, that all persons who
+have
+voted have taken the oath prescribed to be taken, unless the governor shall be satisfied that such
+oath
+was actually administered, and that the failure to make the certificate has been from inadvertence
+or
+mistake.
+
+*** SEND ***
+*** SSTART 011.0 012.0 0 MD 1864 ***
+
+                         SOLDIERS' VOTE
+
+SEC. 11. Any qualified voter of this State who shall be absent from the county or city of his
+residence
+by reason of being in the military service of the United States, so as not to be able to vote at
+home, on
+the adoption or rejection of this constitution, or for all State officers elected on general ticket, and
+for
+presidential electors and for members of Congress, at the election to be held on the Tuesday next
+after
+the first Monday in the month of November, eighteen hundred and sixty-four, shall be entitled to
+vote at
+such elections as follows: A poll shall be opened in each company of every Maryland regiment in
+the
+service of the United States or of this State on the day appointed by this convention for taking the
+vote
+on the new constitution, or some other day not more than five days thereafter, at the quarters of
+the
+commanding officer thereof, and voters of this State belonging to such company who shall be
+within ten
+miles of such quarters on the day of election may vote at such poll; the polls shall be opened at
+eight
+oclock a.m. and close at six o'clock p.m.; the commissioned officers of such company, or such of
+them
+as are present at the opening of the polls, shall act as judges, and any one officer shall be
+competent so
+to act, and if no officer be present, then the voters in such company present shall elect two of the
+voters
+present to ast as judges of the election; before any votes are received, each of the judges shall
+take an
+oath or affirmation that he will perform the duties of judge according to law; will prevent fraud,
+and
+observe and make proper return thereof, and such oath the judges may administer to each other;
+the
+election shall be by ballot, and any, voter may vote either "For the constitution" or "Against the
+constitution."
+
+*** SEND ***
+*** SSTART 012.0 012.0 0 MD 1864 ***
+
+SEC. 12. Any qualified voter of this State who shall be absent from the city or county of his
+residence
+on the day for taking the vote on the adoption or rejection of this constitution by reason of his
+being in
+the military service of the United States, but shall be at some hospital or military post, or on duty
+within
+this State, and not with his company, may vote at the nearest poll to such place on satisfying the
+judges
+that he is a legal and qualified voter of this State.
+
+*** SEND ***
+*** SSTART 013.0 012.0 0 MD 1864 ***
+
+SEC. 13. The judges may swear any one offering to vote as to his being a legal voter of this
+State. The
+judges shall take down on a poll-book or list the names of all the voters as their votes are taken,
+and
+the tickets shall be placed in a box as taken; after the polls are closed, the tickets shall be counted
+and
+strung on a thread, and the judges shall make out a certificate, which they shall sign, addressed to
+the
+governor, at Annapolis, in which they shall state they have
+taken the oath hereby prescribed, and shall certify the number of votes taken, and the number of
+votes
+for the constituition and against the constitution; the said certificates shall be accompanied with
+the
+names of the voters, and shall be plainly expressed, but no particular words shall be required.
+
+*** SEND ***
+*** SSTART 014.0 012.0 0 MD 1864 ***
+
+SEC. 14. The judges shall, as soon as possible, transmit said returns, with the tickets so strung, to
+the
+governor, who shall receive the return of the soldiers' vote, and shall cast up the same and judge
+of the
+genuineness and correctness of the returns, and may recount the threaded tickets so as to satisfy
+himself, and the governor shall count said vote with the aggregate vote of the State on the
+adoption or
+rejection of this constitution, and shall wait for fifteen days after the day on which the State vote
+is
+taken, so as to allow the returns of the soldiers' vote to be made before the result of the whole
+vote is
+announced. The governor shall receive the returns of the soldiers' vote on said election for State
+officers, presidential electors, and members of Congress, and shall count the same with the
+aggregate
+home vote on State officers, and the aggregate home vote in each district respectively for
+members of
+Congress.
+
+*** SEND ***                                 
+*** SSTART 015.0 012.0 0 MD 1864 ***
+
+SEC. 15. The governor shall make known to the officers of the State regiments the provisions of
+this
+article of the schedule, and request them to exercise the rights hereby conferred upon them, and
+shall
+take all means proper to secure the soldiers' vote; and the general assembly, at its first session
+after the
+adoption of this constitution, shall make proper appropriation to pay any expense that may arise
+herein.
+
+*** SEND ***
+*** SSTART 016.0 012.0 0 MD 1864 ***
+
+SEC. 16. If this constitution shall be adopted by the people, the provisions contained herein for
+taking
+the soldiers' vote on the adoption of the constitution shall apply to all elections to be held in this
+State
+until the general assembly shall provide some other mode of taking the same.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9016.0 MD 1864 ***
+
+
+Done in Convention the sixth day of September, in the year of our Lord one thousand eight
+hundred
+and sixty-four. and of the Independence of the United States the eighty-ninth. 
+
+
+
+                                                             HENRY H. GOLDSBOROUGH, President.
+
+ Attest:
+    W.R. COLE, Secretary.
+
+*** AEND ***
+
+
+*** MSTART 001 006.0 008.0 0 MD 1864 1866 ***
+
+[Act of 1865, Resolution 11. Ratified 1866.]
+
+Joint Resolution abolishing the sixth section of the eighth Article of the Constitution.
+Resolved by the General Assembly of Maryland, Three fifths of the members elected to both
+Houses
+concurring, that the Constitution be and is hereby amended by striking out the sixth section of
+Article
+eight.
+
+*** MEND ***
+
+
+
+
+*** CEND ***

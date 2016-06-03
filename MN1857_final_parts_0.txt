@@ -1,0 +1,1374 @@
+Heather worked on Minnesota
+
+I worked on it 9/24/03
+
+This is ready to go.
+
+
+
+*** CSTART MN 08/30/1857  11/05/1974 ***
+
+CONSTITUTION OF MINNESOTA 1857 
+
+*** ASTART 9001.0 MN 1857 ***
+*** SSTART 001.0 9001.0 0 MN 1857 ***
+
+PREAMBLE
+
+We, the people of the State of Minnesota, grateful to God for our civil and religious liberty, and desiring to
+perpetuate its blessings and secure the same to ourselves and our posterity, do ordain and establish this
+constitution:
+
+*** SEND ***
+*** AEND ***
+*** ASTART 001.0 MN 1857 ***
+
+ARTICLE I
+
+BILL OF RIGHTS
+
+*** SSTART 001.0 001.0 0 MN 1857 ***
+
+SECTION 1. Government is instituted for the security, benefit and protection of the people, in whom all
+political power is inherent, together with the right to alter, modify or reform such government, whenever the
+public good may require it.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 MN 1857 ***
+
+SEC. 2. No member of this State shall be disfranchised, or deprived of any of the rights or privileges secured to
+any citizen thereof, unless by the law of the land, or the judgment of his peers. There shall be neither slavery nor
+involuntary servitude in the State otherwise than in the punishment of crime, whereof the party shall have been
+duly convicted.
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 MN 1857 ***
+
+SEC. 3. The liberty of the press shall forever remain inviolate, and all persons may freely speak, write and
+publish their sentiments on all subjects, being responsible for the abuse of such right.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 MN 1857 ***
+
+SEC. 4. The right of trial by jury shall remain inviolate, and shall extend to all cases at law without regard to the
+amount in controversy, but a jury trial may be waived by the parties in all cases in the manner prescribed by law.
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 MN 1857 ***
+
+SEC. 5. Excessive bail shall not be required, nor shall excessive fines be imposed; nor shall cruel or unusual
+punishments be inflicted.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 MN 1857 ***
+
+SEC. 6. In all criminal prosecutions the accused shall enjoy the right to a speedy and public trial, by an impartial
+jury of the county or district wherein the crime shall have been committed, which county or district shall have
+been previously ascertained by law, and to be informed of the nature and cause of the accusation, to be
+confronted with the witnesses against him, to have compulsory process for obtaining witnesses in his favor, and
+to have the assistance of counsel in his defense.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 MN 1857 ***
+
+SEC. 7. No person shall be held to answer for a criminal offense without due process of law, and no person for
+the same offense shall be put twice in jeopardy of punishment, nor shall be compelled in any criminal case to be
+a witness against himself, nor be deprived of life, liberty or property without due process of law. All persons
+shall before conviction be bailable by sufficient sureties, except for capital offenses when the proof is evident or
+the presumption great; and the privilege of the writ of habeas corpus shall not be suspended unless when in case
+of rebellion or invasion the public safety may require.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 MN 1857 ***
+
+SEC. 8. Every person is entitled to a certain remedy in the laws for all injuries or wrongs which he may receive
+in his person, property or character; he ought to obtain justice freely and without purchase; completely and
+without denial, promptly and without delay, conformable to the laws.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 MN 1857 ***
+
+SEC. 9. Treason against the State shall consist only in levying war against the same, or in adhering to its
+enemies, giving them aid and comfort. No person shall be convicted of treason unless on the testimony of two
+witnesses to the same overt act, or on confession in open court.
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 MN 1857 ***
+
+SEC. 10. The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable
+searches and seizures, shall not be violated; and no warrant shall issue but upon probable cause, supported by
+oath or affirmation, and particularly describing the place to be searched and the person or things to be seized.
+ 
+*** SEND ***
+*** SSTART 011.0 001.0 0 MN 1857 ***
+SEC. 11. No bill of attainder, ex post facto law, nor any law impairing the obligation of contracts shall ever be
+passed, and no conviction shall work corruption of blood or forfeiture of estate.
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 MN 1857 ***
+
+SEC. 12. No person shall be imprisoned for debt in this State, but this shall not prevent the legislature from
+providing for imprisonment, or holding to bail, persons charged with fraud in contracting said debt. A
+reasonable amount of property shall be exempt from seizure or sale for the payment of any debt or liability. The
+amount of such exemption shall be determined by law.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 MN 1857 ***
+ 
+SEC. 13. Private property shall not be taken for public use without just compensation therefor, first paid or
+secured.
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 MN 1857 ***
+
+SEC. 14. The military shall be subordinate to the civil power, and no standing army shall be kept up in this State
+in time of peace.
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 MN 1857 ***
+
+SEC. 15. All lands within the State are declared to be allodial, and feudal tenures of every description, with all
+their incidents, are prohibited. Leases and grants of agricultural lands for a longer period than twenty-one years,
+hereafter made, in which shall be reserved any rent or service of any kind, shall be void.
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 MN 1857 ***
+
+SEC. 16. The enumeration of rights in this constitution shall not be construed to deny or impair others retained
+by and inherent in the people. The right of every man to worship God according to the dictates of his own
+conscience shall never be infringed, nor shall any man be compelled to attend, erect or support any place of
+worship, or to maintain any religious or ecclesiastical ministry, against his consent; nor shall any control of or
+interference with the rights of conscience be permitted, or any preference be given by law to any religious
+establishment or mode of worship; but the liberty of conscience hereby secured shall not be so construed as to
+excuse acts of licentiousness, or justify practices inconsistent with the peace or safety of the State, nor shall any
+money be drawn from the treasury for the benefit of any religious societies, or religious or theological
+seminaries.
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 MN 1857 ***
+
+SEC. 17. No religious test or amount of property shall ever be required as a qualification for any office of public
+trust under the State. No religious test or amount of property shall ever be required as a qualification of any
+voter at any election in this State; nor shall any person be rendered incompetent to give evidence in any court of
+law or equity in consequence of his opinion upon the subject of religion.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 MN 1857 ***
+
+ARTICLE II
+
+ON NAME AND BOUNDARIES
+
+*** SSTART 001.0 002.0 0 MN 1857 ***
+
+SECTION 1. This State shall be called and known by the name of the State of Minnesota, and shall consist of
+and have jurisdiction over the territory embraced in the following boundaries, to-wit: Beginning at the point in
+the center of the main channel of the Red River of the North, where the boundary line between the United States
+and British Possessions crosses the same; thence up the main channel of said river to that of the Bois des Sioux
+river; thence tip the main channel of said river to Lake Travers; thence tip the center of said lake to the southern
+extremity thereof; thence in a direct line to the head of Big Stone lake; thence through its center to its outlet;
+thence by a due south line to the north line of the State of Iowa; thence east along the northern boundary of said
+State to the main channel of the Mississippi river; thence up the main channel of said river and following the
+boundary line to the State of Wisconsin until the same intersects the St. Louis river; thence down the said river
+to and through Lake Superior, on the boundary line of Wisconsin and Michigan, until it intersects the dividing
+line between the United States and British Possessions; thence up Pigeon river and following said dividing line
+to the place of beginning. 
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 MN 1857 ***
+
+SEC. 2. The State of Minnesota shall have concurrent jurisdiction on the Mississippi and on all other rivers and
+waters bordering on the said State of Minnesota, so far as the same shall form a common boundary to said State,
+and any other state or states now or hereafter to be formed by the same; and said rivers and waters, and
+navigable waters leading into the same, shall be common highways and forever free, as well to the inhabitants of
+said State as to other citizens of the United States, without any tax, duty, impost, or toll therefor.
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 MN 1857 ***
+
+SEC. 3. The propositions contained in the act of Congress entitled, "An act to authorize the people of the
+Territory of Minnesota to form a constitution and state government, preparatory to their admission into the
+Union on equal footing with the original states," are hereby accepted, ratified and confirmed, and shall remain
+irrevocable without the consent of the United States; and it is hereby ordained that this State shall never
+interfere with the primary disposal of the soil within the same, by the United States, or with any regulations
+Congress may find necessary for securing the title to said soil to bona fide purchasers thereof; and no tax shall
+be imposed on lands belonging to the United States and in no case shall non-resident proprietors be taxed higher
+than residents.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 MN 1857 ***
+
+ARTICLE III
+
+DISTRIBUTION OF THE POWERS OF GOVERNMENT
+
+*** SSTART 001.0 003.0 0 MN 1857 ***
+
+SECTION 1. The powers of government shall be divided into three distinct departments--Legislative, 
+Executive, and Judicial; and no person or persons belonging to or constituting one of these departments shall
+exercise any of the powers properly belonging to either of the others, except in the instances expressly provided
+in this constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 MN 1857 ***
+
+ARTICLE IV
+
+LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.0 004.0 0 MN 1857 ***
+
+SECTION 1. The Legislature of this State shall consist of the Senate and House of Representatives, who shall
+meet at the Seat of Government of the State, at such times as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 MN 1857 ***
+
+SEC. 2. The number of members who compose the Senate and House of Representatives shall be prescribed by
+law, but the representatives in the Senate shall never exceed one member for every 5,000 inhabitants, and in the
+House of Representatives one member for every 2,000 inhabitants. The representation in both houses shall be
+apportioned equally throughout the different sections of the State, in proportion to the population thereof,
+exclusive of Indians not taxable under the provisions of law.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 MN 1857 ***
+
+SEC. 3. Each house shall be the judge of the election returns and eligibility of its own members; a majority of
+each shall constitute a quorum to transact business, but a smaller number may adjourn from day to day, and
+compel the attendance of absent members in such manner and under such penalties as it may provide.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 MN 1857 ***
+
+SEC. 4. Each house may determine the rules of its proceedings, sit upon its own adjournment, punish its
+members for disorderly behavior, and with the concurrence of two-thirds, expel a member; but no member shall
+be expelled a second time for the same offense.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 MN 1857 ***
+
+SEC. 5. The House of Representatives shall elect its presiding officer and the Senate and House of
+Representatives shall elect such other officers as may be provided by law, they shall keep journals of their
+proceedings, and from time to time publish the same, and the yeas and nays, when taken on any question, shall
+be entered on such journals.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 MN 1857 ***
+
+SEC. 6. Neither house shall, during a session of the legislature, adjourn for more than three days (Sundays
+excepted), nor to all other place than that in which the two houses shall be assembled, without the consent of the
+other house.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 MN 1857 ***
+
+SEC. 7. The compensation of senators and representatives shall be three dollars per diem during the first
+session, but, may afterwards be prescribed by law. But no increase of compensation shall be prescribed which
+shall take effect during the period for which the members of the existing House of Representatives may have
+been elected.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 MN 1857 ***
+
+SEC. 8. The members of each house shall in all cases, except reason, felony, and breach of the peace, be
+privileged from arrest during the session of their respective houses, and in going to or returning from the same.
+For any speech or debate in either house they shall not be questioned in any other place.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 MN 1857 ***
+
+SEC. 9. No senator or representative shall, during the time for which he is elected, hold any office under the
+authority of the United States or the State of Minnesota, except that of postmaster, and no senator or
+representative shall hold an office under the state which has been created or the emoluments of which have been
+increased during the session of the legislature of which he was a member, until one year after the expiration of
+his term of office in the legislature.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 MN 1857 ***
+
+SEC. 10. All bills for raising a revenue shall originate in the House of Representatives, but the Senate may
+propose and concur with amendments as on other bills.
+*** SEND ***
+*** SSTART 011.0 004.0 0 MN 1857 ***
+
+SEC. 11. Every bill which shall have passed the Senate and House of Representatives, in conformity to the rules
+of each house and the joint rules of the two houses, shall, before it becomes a law, be presented to the governor
+of the State. If he approve, he shall sign and deposit it in the office of secretary of state for preservation, and
+notify the house where it originated of the fact. But if not, he shall return it, with his objections, to the house in
+which it shall have originated; when such objections shall be entered at large on the journal of the same, and the
+house shall proceed to reconsider the bill. If, after such reconsideration, two-thirds of that house shall agree to
+pass the bill, it shall be sent, together with the objections, to the other house, by which it shall likewise be
+reconsidered; and if it be approved by two-thirds of that house it shall become a law. But in all such cases the
+votes of both houses shall be determined by yeas and nays, and the names of the persons voting for or against
+the bill shall be entered on the journal of each house, respectively. If any bill shall not be returned by the
+governor within three days (Sundays excepted) after it shall have been presented to him, the same shall be a law
+in like manner as if he had signed it, unless the legislature, by adjournment within that time, prevents its return;
+in which case it shall not be a law. The governor may approve, sign and file in the office of the secretary of
+state, within three days after the adjournment of the legislature, any act passed during the last three days of the
+session, and the same shall become a law.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 MN 1857 ***
+
+SEC. 12. No money shall be appropriated except by bill. Every order, resolution or vote requiring the
+concurrence of the two houses, (except such as relate to the business or adjournment of the same) shall be
+presented to the governor for his signature and, before the same shall take effect, shall be approved by him, or,
+being returned by him with his objections, shall be repassed by two-thirds of the members of the two houses,
+according to the rules and limitations prescribed in case of a bill.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 MN 1857 ***
+
+SEC. 13. The style of all laws of this State shall be: "Be it enacted by the Legislature of the State of Minnesota."
+No law shall be passed unless voted for by a majority of all the members elected to each branch of the
+legislature, and the vote entered upon the journal of each house.
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 MN 1857 ***
+
+SEC. 14. The House of Representatives shall have the sole power of impeachment, through a concurrence of a
+majority of all the members elected to seats therein. All impeachments shall be tried by the Senate; and when
+sitting for that purpose the senators shall be upon oath or affirmation to do justice according to law and
+evidence. No person shall be convicted without the concurrence of two-thirds of the members present.
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 MN 1857 ***
+
+SEC. 15. The legislature shall have full power to exclude from the privilege of electing or being elected any
+person convicted of bribery, perjury, or any other infamous crime.
+*** SEND ***
+*** SSTART 016.0 004.0 0 MN 1857 ***
+
+SEC. 16. Two or more members of either house shall have liberty to dissent and protest against any act or
+resolution which they may think injurious to the public or to any individual, and have the reason of their dissent
+entered on the journal.
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 MN 1857 ***
+
+SEC. 17. The governor shall issue writs of election to fill such vacancies as may occur in either house of the
+legislature. The legislature shall prescribe by law the manner in which evidence in cases of contested seats in
+either house shall be taken.
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 MN 1857 ***
+
+SEC. 18. Each house may punish by imprisonment, during its session, any person, not a member, who shall be
+guilty of any disorderly or contemptuous behavior in their presence, but no such imprisonment shall at any time
+exceed twenty-four hours.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 MN 1857 ***
+
+SEC. 19. Each house shall be open to the public during the thereof, except in such cases as in their opinion may
+require secrecy.
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 MN 1857 ***
+
+SEC. 20. Every bill shall be read on three different days in each separate house, unless, in case of urgency, two-
+thirds of the house where such bill is depending shall deem it expedient to dispense with this rule; and no bill
+shall be passed by either house until it shall have been previously read twice at length. 
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 MN 1857 ***
+
+SEC. 21. Every bill having passed both houses shall be carefully enrolled, and shall be signed by the presiding
+officer of each house. Any presiding officer refusing to sign a bill which shall have previously passed both
+houses shall thereafter be incapable of holding a seat in either branch of the legislature, or hold any other office
+of honor or profit in the State, and in case of such refusal, each house shall, by rule, provide the manner in
+which such bill shall be properly certified for presentation to the governor.
+
+*** SEND ***
+*** SSTART 022.0 004.0 0 MN 1857 ***
+
+SEC. 22. No bill shall be passed by either house of the legislature upon the day prescribed for the adjournment
+of the two houses.  But this section shall not be so construed as to preclude the enrollment of a bill, or the
+signature and passage from one house to the other, or the reports thereon from committees, or its transmission to
+the executive for his signature.
+
+*** SEND ***
+*** SSTART 023.0 004.0 0 MN 1857 ***
+
+SEC. 23. The legislature shall provide by law for an enumeration of the inhabitants of this State in the year one
+thousand eight hundred and sixty-five, and every tenth year thereafter. At their first session after each
+enumeration so made, and also at their first session after each enumeration made by the authority of the United
+States, the legislature shall have the power to prescribe the bounds of congressional, senatorial and
+representative districts, and to apportion anew the senators and representatives among the several districts
+according to the provisions of section second of this article.
+
+*** SEND ***
+*** SSTART 024.0 004.0 0 MN 1857 ***
+
+SEC. 24. The senators shall also be chosen by single districts of convenient contiguous territory, at the same
+time that members of the House of Representatives are required to be chosen, and in the same manner; and no
+representative district shall be divided in the formation of a senate district. The senate districts shall be
+numbered in a regular series, and the senators chosen by the districts designated by odd numbers, shall go out of
+office at the expiration of the first year, and the senators chosen by the districts designated by even numbers
+shall go out of office at the expiration of the second year; and thereafter the senators shall be chosen for the term
+of two years, except there shall be an entire new election of all the senators at the election next succeeding each
+new appointment provided for in this article.  
+
+*** SEND ***
+*** SSTART 025.0 004.0 0 MN 1857 ***
+
+SEC.25. Senators and representatives shall be qualified voters of the State, and shall have resided one year in
+the State and six months immediately preceding the election in the district from which they are elected.
+
+*** SEND ***
+*** SSTART 026.0 004.0 0 MN 1857 ***
+
+SEC. 26. Members of the Senate of the United States from this State shall be elected by the two houses of the
+legislature in joint convention, at such time and in such manner as may be provided by law.
+
+*** SEND ***
+*** SSTART 027.0 004.0 0 MN 1857 ***
+
+SEC. 27. No law shall embrace more than one subject, which shall be expressed in its title.
+
+*** SEND ***
+*** SSTART 028.0 004.0 0 MN 1857 ***
+
+SEC. 28. Divorces shall not be granted by the legislature.
+
+*** SEND ***
+*** SSTART 029.0 004.0 0 MN 1857 ***
+
+SEC. 29. All members and officers of both branches of the legislature shall, before entering upon the duties of
+their respective trusts, take and subscribe an oath or affirmation to support the Constitution of the United States,
+the Constitution of the State of Minnesota, and faithfully and impartial to discharge the duties devolving upon
+him as such member or officer.
+
+*** SEND ***
+*** SSTART 030.0 004.0 0 MN 1857 ***
+
+SEC. 30. In all elections to be made by the legislature, the members thereof shall vote viva voce, and their votes
+shall be entered on the journal.
+
+*** SEND ***
+*** SSTART 031.0 004.0 0 MN 1857 ***
+
+SEC. 31. The legislature shall never authorize any lottery or the sale of lottery tickets.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 MN 1957 ***
+
+ARTICLE V
+
+EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 005.0 0 MN 1857 ***
+
+SECTION 1. The executive department shall consist of a governor, lieutenant governor, secretary of state,
+auditor, treasurer and attorney general who shall be chosen by the electors of the State. 
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 MN 1857 ***
+
+SEC. 2. The returns of every election for the officers named in the foregoing section shall be made to the
+secretary of state, and by him transmitted to the speaker of the House of Representatives, who shall cause the
+same to be opened and canvassed before both houses of the legislature, and the result declared within three days
+after each house shall be organized.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 MN 1857 ***
+
+SEC. 3. The term of office for the governor and lieutenant governor shall be two years, and until their
+successors are chosen and qualified. Each shall have attained the age of twenty-five (25) years, and shall have
+been a bona fide resident of the State for one year next preceding his election. Both shall be citizens of the
+United States.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 MN 1857 ***
+
+SEC. 4. The governor shall communicate by message to each session of the legislature, such information
+touching the state and condition of the country as he may deem expedient. He shall be commander-in-chief of
+the military and naval forces, and may call out such forces to execute the laws, suppress insurrection and repel
+invasion. He may require the opinion, in writing, of the principal officer in each of the executive departments,
+upon any subject relating to the duties of their respective offices, and he shall have power to grant reprieves and
+pardons after conviction for offences against the State, except in cases of impeachment.  He shall have power,
+by and with the advice and consent of the senate, to appoint a state librarian and notaries public, and such other
+officers as may be provided by law; he shall have power to appoint commissioners to take the acknowledgement
+of deeds or other instruments in writing, to be used in the State.  He shall have a negative upon all laws passed
+by the legislature under such rules and limitations as are in this Constitution prescribed.  He may on
+extraordinary occasions convene both houses of the legislature.  He shall take care that the laws be faithfully
+executed, fill any vacancies that may occur in the office of secretary of state, treasurer, auditor, attorney general,
+and such other State and district offices as may be hereafter created by law, until the next annual election, and
+until their successors are chosen and qualified.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 MN 1857 ***
+
+SEC. 5. The official term of the secretary of state, treasurer, and attorney general shall be two (2) years. The
+official term of the auditor shall be three (3) years, and each shall continue in office until his successor shall
+have been elected and qualified.  The governor's salary for the first term under this Constitution shall be two
+thousand five hundred dollars per annum.  The salary of the secretary of state for the first term shall be fifteen
+hundred dollars per annum.  The auditor, treasurer, and attorney general shall each, for the first term, receive a
+salary of one thousand dollars per annum.  And the further duties and salaries of said executive officers shall
+each thereafter be prescribed by law.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 MN 1857 ***
+
+SEC. 6. The lieutenant governor shall be ex officio president of the Senate; and in case a vacancy shall occur,
+from any cause whatever, in the office of governor, he shall be governor during such vacancy. The
+compensation of lieutenant governor shall be double the compensation of a state senator. Before the close of
+each session of the Senate they shall elect a president pro tempore, who shall be lieutenant governor in case a
+vacancy should occur in that office.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 MN 1857 ***
+
+SEC. 7. The term of each of the executive officers named in this article shall commence on taking the oath of
+office on or after the state shall be admitted by Congress into the Union, and continue until the first Monday of 
+January, 1860, except the auditor, who shall continue in office till the first Monday of January, 1861, and until
+their successors shall have been duly elected and qualified.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 MN 1857 ***
+
+
+SEC. 8. Each officer created by this article shall, before entering upon his duties, take an oath or affirmation to
+support the Constitution of the United States and of this State, and faithfully discharge the duties of his office to
+the best of his judgment and ability.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 MN 1857 ***
+
+SEC. 9. Laws shall be passed at the first session of the legislature after the State is admitted into the Union to
+carry out the provisions of this article.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 MN 1857 ***
+
+ARTICLE VI
+
+JUDICIARY
+
+*** SSTART 001.0 006.0 0 MN 1857 ***
+
+SECTION 1. The judicial power of the State shall be vested in a supreme court, district courts, courts of
+probate, justices of the peace, and such other courts, inferior to the supreme court, as the legislature may from
+time to time establish by a two-thirds vote.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 MN 1857 ***
+
+SEC. 2. The supreme court shall consist of one chief justice and two associate justices, but the number of the
+associate justices may be increased to a number not exceeding four, by the legislature, by a two-thirds vote,
+when it shall be deemed necessary. It shall have original jurisdiction in such remedial cases as may be
+prescribed by law and appellate jurisdiction in all cases, both in law and equity, but there shall be no trial by jury
+in said court. It shall hold one or more terms in each year, as the legislature may direct, at the seat of
+government, and the legislature may provide, by a two-thirds vote, that one term in each year shall be held in
+each or any judicial district. It shall be the duty of such court to appoint a reporter of its decisions. There shall be
+chosen, by the qualified electors of the State, one clerk of the supreme court, who shall hold his office for the
+term of three years, and until his successor is duly elected and qualified, and the judges of the supreme court, or
+a majority of them, shall have the power to fill any vacancy in the office of clerk of the supreme court until an
+election can be regularly had.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 MN 1857 ***
+
+SEC. 3. The judges of the supreme court shall be elected by the electors of the State at large, and their term of
+office shall be seven years, and until their successors are elected and qualified.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 MN 1857 ***
+SEC. 4. The State shall be divided by the legislature into six judicial districts, which shall be composed of
+contiguous territory, be bounded by county lines, and contain a population as nearly equal as may be practicable.
+In each judicial district, one judges shall be elected by the electors thereof, who shall constitute said Court and
+whose term of office shall be seven years.  Every district judge shall, at the time of his election, be a resident of
+the district for which he shall be elected and shall reside therein during his continuance in office.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 MN 1857 ***
+
+SEC. 5. The district courts shall have original jurisdiction in all civil cases, both in law and equity, where the
+amount in controversy exceeds one hundred dollars, and in all criminal cases where the punishment shall exceed
+three months' imprisonment or a fine of more than one hundred dollars, and shall have such appellate
+jurisdiction as may be prescribed by law. The legislature may provide by law that the judge of one district may
+discharge the duties of judge of any other district not his own, when convenience or the public interest may
+require it.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 MN 1857 ***
+
+SEC. 6. The judges of the supreme and district courts shall be men learned in the law, and shall receive such
+compensation at stated times as may be prescribed by the legislature; which compensation shall not be
+diminished during their continuance in office, but they shall receive no other fee or reward for their services.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 MN 1857 ***
+
+SEC. 7. There shall be established in each organized county in the State a probate court, which shall be a court
+of record, and be held at such time and places as may be prescribed by law. It shall be held by one judge, who
+shall be elected by, the voters of the county for the term two years. He shall be a resident of such county at the
+time of his election, and reside therein during his continuance in office; and his compensation shall be provided
+by law. He may appoint his own clerk where none has been elected; but the legislature may authorize the
+election, by the electors of any county, of one clerk or register of probate for such county, whose powers, duties,
+term of office and compensation shall be prescribed by law. A probate court shall have jurisdiction over the
+estates of deceased persons and persons under guardianship, but no other jurisdiction, except as prescribed by
+this Constitution.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 MN 1857 ***
+
+SEC. 8. The legislature shall provide for the election of a sufficient number of justices of the peace in each
+county, whose term of office shall be two years, and whose duties and compensation shall be prescribed by law.
+Provided, That no justice of the peace shall have jurisdiction of any civil cause where the amount in controversy
+shall exceed one hundred dollars, nor in a criminal cause where the punishment shall exceed three months'
+imprisonment, or a fine over one hundred dollars, nor in any cause involving the title to real estate.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 MN 1857 ***
+
+SEC. 9. All judges other than those provided for in this Constitution shall be elected by the electors of the
+judicial district, county, or city, for which they shall be created, not for a longer term than seven years.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 MN 1857 ***
+
+SEC. 10. In case the office of any judge become vacant before the expiration of the regular term for which he
+was elected, the vacancy shall be filled by appointment by the governor, until a successor is elected and
+qualified. And such successor shall be elected at the first annual election that occurs more than thirty days after
+the vacancy shall have happened.
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 MN 1857 ***
+
+SEC. 11. The justices of the supreme court and the district courts shall hold no office under the United States,
+nor any other office under this State. And all votes for either of them for any elective office under this
+Constitution, except a judicial office given by the legislature or the people, during their continuance in office,
+shall be void.
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 MN 1857 ***
+
+SEC. 12. The legislature may at any time change the number of judicial districts or their boundaries, when it
+shall be deemed expedient; but no such change shall vacate the office of any judge.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 MN 1857 ***
+
+SEC. 13. There shall be elected in each county where a district court shall be held, one clerk of said court,
+whose qualifications, duties and compensation shall be prescribed by law, and whose term of office shall be four
+years.
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 MN 1857 ***
+
+SEC. 14. Legal pleadings and proceedings in the courts of this State shall be under the direction of the
+legislature. The style of all process shall be, "The State of Minnesota," and all indictments shall conclude,
+"against the peace and dignity of the State of Minnesota."
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 MN 1857 ***
+
+SEC. 15. The legislature may provide for the election of one person in each organized county in this State, to be
+called a court commissioner, with judicial power and jurisdiction not exceeding the power and jurisdiction of a
+judge of the district court at chambers; or the legislature may, instead of such election, confer such power and
+jurisdiction upon the judges of probate in the State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 MN 1857 ***
+
+ARTICLE VII
+
+ELECTIVE FRANCHISE
+
+*** SSTART 001.0 007.0 0 MN 1857 ***
+
+SECTION 1. Every male person of the age of twenty-one (21) years or upwards belonging to either of the
+following classes who has resided in United States one year and in this State for four months next preceding any
+election, shall be entitled to vote at such election in the election district of which he shall at the time have been
+for ten (10) days a resident, for all officers that now are, or hereafter may be, elective by the people.
+First White citizens of the United States.
+Second White persons of foreign birth, who shall have declared their intention to become citizens,
+conformably to the laws of the United States upon the subject of naturalization.
+Third Persons mixed, white and Indian blood residing in this State, who have adopted customs and habits of
+civilization.
+Fourth Persons of Indian blood residing in this State, who have adopted the language, customs, and habits
+of civilization, after an examination before any District Court of the State, in such manner as may be provided
+by law, and shall have been pronounced by said Court capable of enjoying the rights of citizenship within the
+State.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 MN 1857 ***
+
+SEC. 2. No person not belonging to one of the classes specified in the preceding section; no person who has
+been convicted of treason or any felony, unless restored to civil rights; and no person under guardianship, or
+who may be non compos mentis or insane, shall be entitled or permitted to vote at any election in this State.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 MN 1857 ***
+
+SEC. 3. For the purpose of voting, no person shall be deemed to have lost a residence by reason of his absence
+while employed in the service of the United States; nor while engaged upon the waters of this State or of the
+United States; nor while a student in any seminary of learning; nor while kept at any almshouse or asylum; nor
+while, confined in any public prison.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 MN 1857 ***
+
+SEC. 4. No soldier, seaman or marine in the army or navy of the United States shall be deemed a resident of this
+State in consequence of being stationed within the same.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 MN 1857 ***
+
+SEC. 5. During the day on which any election shall be held, no person shall be arrested by virtue of any civil
+process.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 MN 1857 ***
+
+SEC. 6. All elections shall be by ballot, except for such town officers as may be directed by law to be otherwise
+chosen.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 MN 1857 ***
+
+SEC. 7. Every person who by the provisions of this article shall be entitled to vote at any election shall be
+eligible to any office which now is, or hereafter shall be, elective by the people in the district wherein he shall
+have resided thirty days previous to such election, except as otherwise provided in this Constitution, or the
+Constitution and laws of the United States.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 MN 1857 ***
+
+ARTICLE VIII
+
+SCHOOL FUNDS, EDUCATION AND SCIENCE
+
+*** SSTART 001.0 008.0 0 MN 1857 ***
+
+SECTION 1. The stability of a republican form of government depending mainly upon the intelligence of the
+people, it shall be the duty of the legislature to establish a general and uniform system of public schools.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 MN 1857 ***
+
+SEC. 2. The proceeds of such lands as are or hereafter may be granted by the United States for the use of
+schools within each township of this State shall remain a perpetual school fund to the State; and not more than
+one-third (1/3) of said lands may be sold in two (2) years, one-third (1/3) in five (5) years, and one-third (1/3) in
+ten (10) years; but the lands of the greatest valuation shall be sold first; provided, that no portion of said lands
+shall be sold otherwise than at public sale. The principal of all funds arising from sales or other disposition of
+lands or other property, granted or entrusted to this State in each township for educational purposes, shall
+forever be preserved inviolate and undiminished; and the income arising from the lease or sale of said school
+land shall be distributed to the different townships throughout the State, in proportion to the number of scholars
+in each township, between the ages of five and twenty-one years; and shall be faithfully applied to the specific
+objects of the original grants or appropriations.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 MN 1857 ***
+
+SEC. 3. The legislature shall make such provisions, by taxation or otherwise, as, with the income arising from
+the school fund, will secure a thorough and efficient system of public schools in each township in the State.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 MN 1857 ***
+
+SEC. 4. The location of the University of Minnesota, as established by existing laws, is hereby confirmed, and
+said institution is hereby declared to be the University of the State of Minnesota. All the rights, immunities,
+franchises and endowments heretofore granted or conferred are hereby perpetuated unto the, said university; and
+all lands which may be granted hereafter by Congress, or other donations for said university purposes, shall vest
+in the institution referred to in this section.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 MN 1857 ***
+
+ARTICLE IX
+
+FINANCES OF THE STATE, AND BANKS AND BANKING
+
+*** SSTART 001.0 009.0 0 MN 1857 ***
+
+SECTION 1. All taxes to be raised in this State shall be as nearly equal as may be, and all property on which
+taxes are to be levied shall have a cash valuation and be equalized and uniform throughout the State.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 MN 1857 ***
+
+SEC. 2. The legislature shall provide for an annual tax sufficient to defray the estimated expenses of the State
+for each year; and whenever it shall happen that such ordinary expenses of the State for any year shall exceed
+the income of the State for such year, the legislature shall provide for levying a tax for the ensuing year,
+sufficient with other sources of income to pay the deficiency of the preceding year, together with the estimated
+expenses of such ensuing year.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 MN 1857 *** 
+
+SEC. 3. Laws shall be passed taxing all moneys, credits, investments in bonds, stocks, joint stock companies, or
+otherwise, and also all real and personal property, according to its true value in money; but public burying
+grounds, public school houses, public hospitals, academies, colleges, universities, and all seminaries of learning,
+all churches, church property used for religious purposes, and houses of worship, institutions of purely public
+charity, public property used exclusively for any public purpose, and personal property to an amount not
+exceeding in value two hundred dollars for each individual, shall, by general laws, be exempt from taxation.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 MN 1857 ***
+SEC. 4. Laws shall be passed for taxing the notes and bills discounted or purchased, moneys loaned, and all
+other property, effects or dues of every description, of all banks and all bankers, so that all property employed in
+banking shall always be subject to a taxation equal to that imposed on the property of individuals.
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 MN 1857 ***
+
+SEC. 5. For the purpose of defraying extraordinary expenditures, the State may contract public debts, but such
+debts shall never, in the aggregate, exceed $250,000; every such debt shall be authorized by law, for some single
+object, to be distinctly specified therein; and no such law shall take effect until it shall have been passed by the
+vote of two-thirds of the members of each branch of the legislature, to be recorded by yeas and nays on the
+journals of each house respectively; and every such law shall levy a tax annually sufficient to pay the annual
+interest of such debt, and also a tax sufficient to pay the principal of such debt within ten years from the final
+passage of such law, and shall specially appropriate the proceeds of such taxes to the payment of such principal
+and interest; and such appropriation and taxes shall not be repealed, postponed or diminished, until the principal
+and interest of such debt shall have been wholly paid. The State shall never contract any debts for works of
+internal improvements, or be a party in carrying on such works, except in cases where grants of land or other
+property shall have been made to the State, especially dedicated by the grant to specific purposes, and in such
+case the State shall devote thereto the avails of such grants, and may pledge or appropriate the revenues derived
+from such works in aid of their completion.
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 MN 1857 ***
+
+SEC. 6. All debts authorized by the preceding section shall be contracted by loan on State bonds of amounts not
+less than five hundred dollars each on interest, payable within ten years after the final passage of the law
+authorizing such debt; and such bonds shall not be sold by the State under par. A correct registry of all such
+bonds shall be kept by the treasurer, in numerical order, so as always to exhibit the number and amount unpaid,
+and to whom severally made payable.
+
+*** SEND ***
+*** SSTART 007.0 009.0 0 MN 1857 ***
+
+SEC. 7. The State shall never contract any public debt, unless in time of war, to repel invasion or suppress
+insurrection, except in the cases and in the manner provided in the fifth and sixth sections of this article.
+
+*** SEND ***
+*** SSTART 008.0 009.0 0 MN 1857 ***
+
+SEC. 8. The money arising from any loan made, or debt or liability contracted, shall be applied to the object
+specified in the act authorizing such debt or liability, or to the repayment of such debt or liability, and to no
+other purpose whatever.
+
+*** SEND ***
+*** SSTART 009.0 009.0 0 MN 1857 ***
+
+SEC. 9. No money shall ever be paid out of the treasury of this State except in pursuance of an appropriation by
+law.
+*** SEND ***
+*** SSTART 010.0 009.0 0 MN 1857 ***
+
+SEC. 10. The credit of the State shall never be given or loaned in aid of any individual, association or
+corporation. 
+
+*** SEND ***
+*** SSTART 011.0 009.0 0 MN 1857 ***
+
+SEC. 11. There shall be published by the treasurer, in at least one newspaper printed at the seat of government,
+during the first week in January in each year, and in the next volume of the acts of legislature, detailed
+statements of all moneys drawn from the treasury during the preceding year, for what purpose and to whom
+paid, and by what law authorized; and also of all moneys received, and by what authority and from whom.
+
+*** SEND ***
+*** SSTART 012.0 009.0 0 MN 1857 ***
+
+SEC. 12. Suitable laws shall be passed by the legislature for the safe-keeping, transfer and disbursements of the
+state and school funds; and all officers and other persons charged with the same shall be required to give ample
+security for all moneys and funds of any kind, to keep an accurate entry of each sum received, and of each
+payment and transfer; and if any of said officers or other persons shall convert to his own use in any form, or
+shall loan, with or without interest, contrary to law, or shall deposit in banks, or exchange for other fund, any
+portion of the funds of the State, every such act shall be adjudged to be an embezzlement of so much of the
+State funds as shall be thus taken, and shall be declared a felony; and any failure to pay over or produce the
+State or School funds intrusted to such persons, on demand, shall be held and taken to be prima facie evidence
+of such embezzlement.
+
+*** SEND ***
+*** SSTART 013.0 009.0 0 MN 1857 ***
+
+SEC. 13. The legislature may, by a two-thirds vote, pass a general banking law, with the following restrictions
+and requirements, viz:
+First The legislature shall have no power to pass any law sanctioning in any manner, directly or indirectly,
+the suspension of specie payments by any person, association or corporation issuing bank notes of any
+description.
+ Second The legislature shall provide by law for the registry of all bills or notes issued or put, in circulation
+as money, and shall require ample security in United States stock or State stocks for the redemption of the same
+in specie; and in case of a depreciation of said stocks, or any parts thereof, to the amount of ten percent or more
+on the dollar, the bank or banks owning said stocks shall be required to make up said deficiency by additional
+stocks.
+   Third The stockholders in any corporation and joint association for banking purposes, issuing bank notes,
+shall be individually liable in an amount equal to double the amount of stock owned by them for all the debts of
+such corporation or association; and such individual liability shall continue for one year after any transfer or sale
+of stock by any stockholder or stockholders.
+Fourth In case of the insolvency of any bank or banking association, the bill holders thereof shall be entitled
+to preference in payment over all other creditors of such bank or association.
+Fifth Any general banking law, which may be passed in accordance with this article shall provide for
+recording the names of all stockholders in such corporation, the amount of stock held by each, the time of
+transfer, and to whom transferred.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 MN 1857 ***
+
+ARTICLE X
+
+OF CORPORATIONS HAVING NO BANKING PRIVILEGES
+
+*** SSTART 001.0 010.0 0 MN 1857 ***
+
+SECTION 1. The term "Corporation," as used in this article, shall be construed to include all associations and
+joint stock companies having any of the powers and privileges not possessed by individuals or partnerships,
+except such as embrace banking privileges, and all corporations shall have the right to site, and shall be liable to
+be sued in all courts, in like manner as natural persons.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 MN 1857 ***
+
+SEC. 2. No corporations shall be formed under special acts, except for municipal purposes.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 MN 1857 ***
+
+SEC. 3. Each stockholder in any corporation shall be liable to the amount of the stock held or owned by him.
+
+*** SEND ***
+*** SSTART 004.0 010.0 0 MN 1857 ***
+
+SEC. 4. Lands may be taken for public way, for the purpose of granting to any corporation the franchise of way
+for public use. In all cases, however, a fair and equitable compensation shall be paid for such land, and the
+damages arising from the taking of the same; but all corporations being common carriers, enjoying the right of
+way in pursuance of the provisions of this section shall be bound to carry the mineral, agricultural and other
+productions of manufacturers on equal and reasonable terms.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 MN 1857 ***
+
+ARTICLE XI
+
+COUNTIES AND TOWNSHIPS
+
+*** SSTART 001.0 011.0 0 MN 1857 ***
+
+SECTION 1. The legislature may from time to time establish and organize new counties; but no new county
+shall contain less than four hundred square miles; nor shall any county be reduced below that amount; and all
+laws changing county lines in counties already organized, or for removing county seats, shall, before taking
+effect, be submitted to the electors of the county or counties to be affected thereby, at the next general election
+after the passage thereof, and be adopted by a majority of such electors. Counties now established may be
+enlarged, but not reduced below four hundred (400) square miles.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 MN 1857 ***
+
+SEC. 2. The legislature may organize any city into a separate county, when it has attained a population of 20,000
+inhabitants, without reference to geographical extent, when a majority of the electors of the county in which
+such city may be situated, voting thereon, shall be in favor of a separate organization.
+
+*** SEND ***
+*** SSTART 003.0 011.0 0 MN 1857 ***
+
+SEC. 3. Laws may be passed providing for the organization for municipal and other town purposes, of any
+congressional or fractional townships in the several counties in the State, provided that when a township is
+divided by county lines or does not contain one hundred inhabitants, it may be attached to one or more adjoining
+townships or parts of townships for the purposes aforesaid.
+
+*** SEND ***
+*** SSTART 004.0 011.0 0 MN 1857 ***
+
+SEC. 4. Provision shall be made by law for the election of such county or township officers as may be
+necessary.
+
+*** SEND ***
+*** SSTART 005.0 011.0 0 MN 1857 ***
+
+SEC. 5. Any county and township organization shall have such powers of local taxation as may be prescribed by
+law.
+
+*** SEND ***
+*** SSTART 006.0 011.0 0 MN 1857 ***
+
+SEC. 6. No money shall be drawn from any county or township treasury except by authority of law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 MN 1857 ***
+
+ARTICLE XII
+
+OF THE MILITIA
+
+*** SSTART 001.0 012.0 0 MN 1857 ***
+
+SECTION 1. It shall be the duty of the legislature to pass such laws for the organization, discipline and service
+of the militia of the State as may be deemed necessary.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 MN 1857 ***
+
+ARTICLE XIII
+
+IMPEACHMENT AND REMOVAL FROM OFFICE
+
+*** SSTART 001.0 013.0 0 MN 1857 ***
+
+SECTION 1. The governor, secretary of state, treasurer, auditor, attorney general, and the judges of the supreme
+and district courts, may be impeached for corrupt conduct in office, or for crimes and misdemeanors; but
+judgment in such case shall not extend further than to removal from office and disqualification to hold and
+enjoy any office of honor, trust or profit in this State. The party convicted thereof shall nevertheless be liable
+and subject to indictment, trial, judgment and punishment, according to law.
+
+*** SEND ***
+*** SSTART 002.0 013.0 0 MN 1857 ***
+
+SEC. 2. The legislature of this State may provide for the removal of inferior officers from office, for
+malfeasance or nonfeasance in the performance of their duties.
+
+*** SEND ***
+*** SSTART 003.0 013.0 0 MN 1857 ***
+
+SEC. 3. No officer shall exercise the duties of his office after lie shall have been impeached and before his
+acquittal.
+
+*** SEND ***
+*** SSTART 004.0 013.0 0 MN 1857 ***
+
+SEC. 4. On the trial of an impeachment against, the governor, the, lieutenant governor shall not act as a member
+of the court.
+
+*** SEND ***
+*** SSTART 005.0 013.0 0 MN 1857 ***
+
+SEC. 5. No person shall be tried on impeachment before he shall have been served with a copy thereof at least
+twenty days previous to the day set for trial.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 MN 1857 ***
+
+ARTICLE XIV
+
+AMENDMENTS TO THE CONSTITUTION
+
+*** SSTART 001.0 014.0 0 MN 1857 ***
+
+SECTION 1. Whenever a majority of both houses of the legislature shall deem it necessary to alter or amend
+this Constitution, they may propose such alterations or amendments, which proposed amendments shall be
+published with the laws which have been passed at the same session, and said amendments shall be submitted to
+the people for their approval or rejection; and if it shall appear, in a manner to be provided by law, that a
+majority of voters present and voting shall have ratified such alterations or amendments, the same shall be valid
+to all intents and purposes, as a part of this Constitution. If two or more alterations or amendments shall be
+submitted at the same time, it shall be so regulated that the voters shall vote for or against each separately.
+
+*** SEND ***
+*** SSTART 002.0 014.0 0 MN 1857 ***
+
+SEC. 2. Whenever two-thirds of the members elected to each branch of the legislature shall think it necessary to
+call a convention to revise this Constitution, they shall recommend to the electors to vote at the next general
+election for members of the legislature, for or against it convention; and if a majority of all the electors voting at
+said election shall have voted for a convention, the, legislature shall, at their next session, provide by law for
+calling the same. The convention shall consist of as many members as the House of Representatives, who shall
+be chosen in the same manner, and shall meet within three months after their election for the purpose aforesaid.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 015.0 MN 1857 ***
+
+ARTICLE XV
+
+MISCELLANEOUS SUBJECTS
+
+*** SSTART 001.0 015.0 0 MN 1857 ***
+
+SECTION 1. The seat of government of the State shall be at the city of St. Paul, but the legislature, at their first
+or any future session, may provide by law for a change of the seat of government by a vote of the people, or may
+locate the same upon the land granted by Congress for a seat of government to the State; and in the event of the
+seat of government being removed from the city of St. Paul to any other place in the State, the capitol building
+and grounds shall be dedicated to an institution for the promotion of science, literature and the arts, to be
+organized by the legislature of the State, and of which institution the Minnesota Historical Society shall always
+be a department.
+
+*** SEND ***
+*** SSTART 002.0 015.0 0 MN 1857 ***
+
+SEC. 2. Persons residing on Indian lands within the State shall enjoy all the rights and privileges of citizens, as
+though they lived in any other portion of the State, and shall be subject to taxation.
+
+*** SEND ***
+*** SSTART 003.0 015.0 0 MN 1857 ***
+
+SEC. 3. The legislature shall provide for a uniform oath or affirmation to be administered at elections, and no
+person shall be compelled to take any other or different form of oath to entitle him to vote.
+
+*** SEND ***
+*** SSTART 004.0 015.0 0 MN 1857 ***
+
+SEC. 4. There shall be a seal of the State, which shall be kept by the secretary of state, and be used by him
+officially, and shall be called the great seal of the State of Minnesota, and shall be attached to all the official acts
+of the governor (his signature to acts and resolves of the legislature excepted) requiring authentication. The
+legislature shall provide for an appropriate device and motto for said seal.
+
+*** SEND ***
+*** SSTART 005.0 015.0 0 MN 1857 ***
+
+SEC. 5. The territorial prison, as located under existing laws, shall, after the adoption of this Constitution, be
+and remain one of the state prisons of the State of Minnesota.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9003.0 MN 1857 ***
+
+SCHEDULE
+
+*** SSTART 001.0 9003.0 0 MN 1857 ***
+
+SECTION 1. That no inconvenience may arise by reason of a change from a territorial to a permanent state of
+government, it is declared that all rights, actions, judgments, claims and contracts, prosecutions, as well of
+individuals as of bodies corporate, shall continue as if no change had taken place; and all process which may be
+issued under the authority of the Territory of Minnesota previous to its admission into the Union of the United
+States shall be as valid as if issued in the name of the State.
+
+*** SEND ***
+*** SSTART 002.0 9003.0 0 MN 1857 ***
+
+SEC. 2. All laws now in force in the Territory of Minnesota not repugnant to this Constitution shall remain in
+force until they expire by their own limitation, or be altered or repealed by the legislature.
+
+*** SEND ***
+*** SSTART 003.0 9003.0 0 MN 1857 ***
+
+SEC. 3. All fines, penalties or forfeitures accruing to the Territory of Minnesota shall inure to the State.
+
+*** SEND ***
+*** SSTART 004.0 9003.0 0 MN 1857 ***
+
+SEC. 4. All recognizances heretofore taken, or which may be taken before the change from a territorial to a
+permanent state government shall remain valid, and shall pass to and may be prosecuted in the name of the
+State; and all bonds executed to the governor of the Territory, or to any other officer or court in his or their
+official capacity, shall pass to the governor or state authority and their successors in office, for the uses therein
+respectively expressed, and may be sued for and recovered accordingly; and all the estate of property, real,
+personal or mixed, and all judgments, bonds, specialties, choses in action, and claims and debts of whatsoever
+description, of the Territory of Minnesota, shall inure to and vest in the State of Minnesota, and may be sued for
+and recovered in the same manner and to the same extent by the State of Minnesota as the same could have been
+by the Territory of Minnesota. All criminal prosecutions and penal actions which may have arisen, or which may
+arise before the change from a territory to a state government, and which shall then be pending, shall be
+prosecuted to judgment and execution in the name of the State. All offenses committed against the laws of the
+Territory of Minnesota, before the change front a territorial to a state government, and which shall not be
+prosecuted before such change, may be prosecuted in the name and by the authority of the State of Minnesota
+with like effect as though such change had not taken place, and all penalties incurred shall remain the same as if
+this Constitution had not been adopted. All actions at law and suits in equity which may be pending in any of the
+courts of the Territory of Minnesota, at the time of change from a territorial to a state government, may be
+continued and transferred to any court of the State which shall have jurisdiction of the subject matter thereof.
+
+*** SEND ***
+*** SSTART 005.0 9003.0 0 MN 1857 ***
+
+SEC. 5. All territorial officers, civil or military, now holding their offices under the authority of the United
+States, or of the Territory of Minnesota shall continue to hold and exercise their respective offices until they
+shall be superseded by the authority of the State.
+
+*** SEND ***
+*** SSTART 006.0 9003.0 0 MN 1857 ***
+
+SEC. 6. The first session of the legislature of the State of Minnesota, shall commence on the first Wednesday of
+December next, and shall be held at the capitol, in the city of St. Paul.
+
+*** SEND ***
+*** SSTART 007.0 9003.0 0 MN 1857 ***
+
+SEC. 7. The laws regulating the election and qualification of all district, county and precinct officers shall
+continue and be in force until the legislature shall otherwise provide by law.
+
+*** SEND ***
+*** SSTART 008.0 9003.0 0 MN 1857 ***
+
+SEC. 8. The president of this convention shall, immediately after the adjournment thereof cause this
+Constitution to be deposited in the office of the governor of the Territory; and if, after the submission of the
+same to a vote of the people as hereinafter provided, it shall appear that it has been adopted by a vote of the
+people of the State, then the governor shall forward a certified copy of the same, together with an abstract of the
+votes polled for and against the said Constitution, to the president of the United States, to be by him laid before
+the Congress of the United States.
+
+*** SEND ***
+*** SSTART 009.0 9003.0 0 MN 1857 ***
+
+SEC. 9. For the purposes of the first election, the State shall constitute one district, and shall elect three
+members to the House of Representatives of the United States.
+
+*** SEND ***
+*** SSTART 010.0 9003.0 0 MN 1857 ***
+
+SEC. 10. For the purposes of the first election for members of the State Senate and House of Representatives,
+the State shall be divided into senatorial and representative districts, as follows, viz: First district, Washington
+county; Second district, Ramsey county; Third district, Dakota county; Fourth district, so much of Hennepin
+county as lies west of the Mississippi: Fifth district, Rice county; Sixth district, Goodhue county; Seventh
+district, Scott county; Eighth district, Olmsted county; Ninth district, Fillmore county; Tenth district, Houston
+county; Eleventh district, Winona county, Twelfth district, Wabasha county; Thirteenth district, Mower and
+Dodge counties; Fourteenth district, Freeborn and Faribault counties; Fifteenth district, Steele and Waseca
+counties; Sixteenth district, Blue Earth and Le Sueur counties; Seventeenth district, Nicollet and Brown
+counties; Eighteenth district, Sibley, Renville and McLeod counties; Nineteenth district, Carver and Wright
+counties; Twentieth district, Benton, Stearns and Meeker counties; Twenty-first district, Morrison, Crow Wing
+and Mille Lacs counties; Twenty-second district, Cass, Pembina and Todd counties; Twenty-third district, so
+much of Hennepin county as lies east of the Mississippi, Twenty-fourth district, Sherburne, Anoka and
+Manomin counties; Twenty-fifth district, Chisago, Pine and Isanti counties; Twenty-sixth district, Buchanan,
+Carlton, St. Louis, Lake and Itasca counties.
+
+*** SEND ***
+*** SSTART 011.0 9003.0 0 MN 1857 ***
+
+SEC. 11. The counties of Brown, Stearns, Todd, Cass, Pembina and Renville, as applied in the preceding
+section, shall not be deemed to include any territory west of the State line, but shall be deemed to include all
+counties and parts of counties east of said line as were created out of the territory of either, at the last session of
+the legislature.
+
+*** SEND ***
+*** SSTART 012.0 9003.0 0 MN 1857 ***
+
+SEC. 12. The senators and representatives at the first election shall be apportioned among the several senatorial
+and representative districts as follows, to wit:
+
+                        Senators        Representatives        
+      
+1st district  2       3
+2nd         3       6
+3rd         2       5
+4th         2       4
+5th         2       3
+6th         1       4
+7th         1       3
+8th         2       4
+9th         2       6
+10th        2       3
+11th        2       4
+12th        1       3
+13th        2       3
+14th        1       3
+15th        1       4
+16th        1       3
+17th        1       3
+18th        1       1
+19th        1       1
+20th        1       3
+21st        1       1
+22nd        1       1
+23rd        1       2
+24th        1       1
+25th        1       1
+26th        1       1
+                 ------               ------
+               37                  80
+
+*** SEND ***
+*** SSTART 013.0 9003.0 0 MN 1857 ***
+
+SEC. 13. The returns from the twenty-second district shall be made to and canvassed by the judges of election at
+the precinct of Otter Tail City.
+
+*** SEND ***
+*** SSTART 014.0 9003.0 0 MN 1857 ***
+
+SEC. 14. Until the legislature shall otherwise provide, the State shall be divided into judicial districts as follows,
+viz:
+The counties of Washington, Chisago, Manomin, Anoka, Isanti, Pine, Buchanan, Carlton, St. Louis and Lake
+shall constitute the First judicial district.
+The county of Ramsey shall constitute the Second judicial district.
+The counties of Houston, Winona, Fillmore, Olmsted and Wabasha shall constitute the Third judicial district.
+The counties of Hennepin, Carver, Wright, Meeker, Sherburne, Benton, Stearns, Morrison, Crow Wing, Mille
+Lacs, Itasca, Pembina, Todd and Cass shall constitute the Fourth judicial district.
+The counties of Dakota, Goodhue, Scott, Rice, Steele, Waseca, Dodge, Mower and Freeborn shall constitute
+the Fifth judicial district.
+The counties of Le Sueur, Sibley, Nicollet, Blue Earth, Faribault, McLeod, Renville, Brown, and all other
+counties in the State not included within the other districts, shall constitute the Sixth judicial district.
+
+*** SEND ***
+*** SSTART 015.0 9003.0 0 MN 1857 ***
+
+SEC 15. Each of the foregoing enumerated judicial districts may at the first election, elect one prosecuting
+attorney for the district.
+
+*** SEND ***
+*** SSTART 016.0 9003.0 0 MN 1857 ***
+
+SEC. 16. Upon the second Tuesday, the thirteenth day of October, 1857, an election shall be held for members
+of the House of Representatives of the United States, governor, lieutenant governor, supreme and district judges,
+members of the legislature, and all other officers designated in this Constitution, and also for the submission of
+this Constitution to the people, for their adoption or rejection.
+
+*** SEND ***
+*** SSTART 017.0 9003.0 0 MN 1857 ***
+
+SEC. 17. Upon the day so designated as aforesaid every free white male inhabitant over the age of twenty-one
+years, who shall have resided within the limits of the State for ten days previous to the day of said election, may
+vote for all officers to be elected under this Constitution at such election, and also for or against the adoption of
+this Constitution.
+
+*** SEND ***
+*** SSTART 018.0 9003.0 0 MN 1857 ***
+
+SEC. 18. In voting for or against, the adoption of this Constitution, the words, "For Constitution," or "Against
+Constitution," may be written or printed on the ticket of each voter, but no voter shall vote for or against this
+Constitution, on a separate ballot from that cast by him or officers to be elected at said election under this
+Constitution; and if upon the canvass of the vote so polled it shall appear that there was a greater number of
+votes polled for than against said Constitution, then this Constitution shall be deemed to be adopted as the
+Constitution of the State of Minnesota, and all the provisions and obligations of this Constitution, and of the
+schedule thereunto attached, shall thereafter be valid to all intents and purposes as the Constitution of said State.
+
+*** SEND ***
+*** SSTART 019.0 9003.0 0 MN 1857 ***
+
+SEC. 19. At said election the polls shall be opened, the elections held, returns made, and certificates issued, in
+all respects as provided by law for opening, closing and conducting elections and making returns of the same,
+except as hereinbefore specified, and excepting also that polls may be opened and elections held at any point or
+points in any of the counties where precincts may be established as provided by law, ten days previous to the
+day of election, not less than ten miles from the place of voting in any established precinct.
+
+*** SEND ***
+*** SSTART 020.0 9003.0 0 MN 1857 ***
+
+SEC. 20. It shall be the duty of the judges and clerks of election, in addition to the returns required by law for
+each precinct, to forward to the secretary of the Territory, by mail, immediately after the close of the election, a
+certified copy of the poll book containing the name of each person who has voted in the precinct and the number
+of votes polled for and against the adoption of this Constitution.
+
+*** SEND ***
+*** SSTART 021.0 9003.0 0 MN 1857 ***
+
+SEC. 21. The returns of said election for and against this Constitution, and for all state officers and members of
+the House of Representatives of the United States, shall be made, and certificates issued in the manner now
+prescribed by law for returning votes given for delegates to Congress; and the returns for all district officers,
+judicial, legislative or otherwise, shall be made to the register of deeds of the senior county in each district, in
+the manner prescribed by law, except as otherwise provided. The returns for all officers elected at large shall be
+canvassed by the governor of the Territory, assisted by Joseph R. Brown and Thomas J. Galbraith, at the time
+designated by law or canvassing the vote for delegates to Congress.
+
+*** SEND ***
+*** SSTART 022.0 9003.0 0 MN 1857 ***
+
+SEC. 22. If, upon canvassing the votes for and against the adoption of this Constitution, it shall appear that there
+has been polled a greater number of votes against than for it, then no certificate of election shall be issued for
+any State or district officer provided for in this Constitution, and no State organization shall have validity within
+the limits of the Territory, until otherwise provided for and until a Constitution for a State government shall
+have been adopted by the people.
+
+*** SEND ***
+*** AEND ***
+
+ Done in Convention, this twenty-ninth day of August, one thousand eight hundred and fifty-seven, and of the
+Independence of the United States, the eighty-second year.  In witness whereof, we have hereunto subscribed
+our name at the Capital, in the City of St. Paul, this twenty-ninth day of August, in the year of our Lord one
+thousand eight hundred and fifty-seven.
+
+               HENRY H. SIBLEY, of Dakota County
+                    President of the Constitutional Convention of Minnesota 
+
+               J. J. NOAH, 
+                    Secretary of the Constitutional Convention
+
+*** CEND ***

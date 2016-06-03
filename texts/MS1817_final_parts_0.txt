@@ -1,0 +1,1267 @@
+This constitution was coded by
+
+Marcy Wilson
+
+It is ready to go.
+
+JW 02/21/05
+
+
+*** CSTART MS 12/04/1817 10/26/1832 ***
+
+CONSTITUTION OF THE STATE OF MISSISSIPPI 1817
+
+
+*** ASTART 9001.0 MS 1817 ***
+
+WE, the representatives of the people, inhabiting the western part of the Mississippi territory,
+contained within the following limits, to wit: Beginning on the river Mississippi, at the point
+where the southern boundary line of the state of Tennessee, strikes the sam; thence east along the
+said boundary line, to the Tennessee river; thence up the same to the mouth or Bear Creek;
+thence by a direct line to the northwest corner of the county of Washington; thence due south to
+the Gulf of Mexico; thence westwardly, including all islands within six leagues of the shore, to
+the most eastern junction of Pearl river with Lake Borgne; thence up said river, to the thirty-first
+degree of north latitute; thence west, along the said degree of latitude, to the Mississippi river;
+thence up the same to the beginning; assembled in convention, at the town of Washington, on
+Monday, the seventh day July, one thousand eight hundred and seventeen, in pursuance of an act
+of Congress, entitled "An act to enable the people of the western part of the Mississippi territory
+to form a constitution and state government, and for the admission of such state into the Union,
+on an equal footing with the original states," in order to secure to the citizens thereof the rights of
+life, liberty, and property, do ordain and establish the following constitution and form of
+government, and do mutually agree, with each other, to form ourselves into a free and
+independent state, by the name of the State of Mississippi.
+
+*** AEND ***
+
+
+*** ASTART 001.0 MS 1817 ***
+
+                    
+                    CONSTITUTION.
+                                   
+                    ARTICLE I.  
+
+                    DECLARATION OF RIGHTS.
+
+That the general, great, and essential, principles of liberty and free government, may be
+recognised and established, we declare:  
+
+*** SSTART 001.0 001.0 0 MS 1817 ***
+
+SEC. 1.  That all freemen, when they form a social compact, are equal in rights; and that no man,
+or set of men, are entitled to exclusive separate public emoluments or privileges, from the
+community, but in consideration of public services. 
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 MS 1817 ***
+
+SEC. 2.  That all political power is inherent in the people, and all free governments are founded
+on their authority, and instituted for their benefit; and, therefore, they have, at all times, an
+unalienable and indefeasible right to alter or abolish their form of government, in such manner as
+they may think expedient.  
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 MS 1817 ***
+
+SEC. 3.  The exercise and enjoyment of religious profession and worship, without
+discrimination, shall forever be free to all persons in this state; provided that the right hereby
+declared and established, shall not be so construed as to excuse acts of licentiousness, or justify
+practises, inconsistent with the peace and safety of this state. 
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 MS 1817 ***
+
+SEC. 4.  No preference shall ever be given by law to any religious sect or mode of worship.
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 MS 1817 ***
+
+SEC. 5.  That no person shall be molested for his opinions on any subject whatever, nor suffer
+any civil or political incapacity, or acquire any civil or political advantage, in consequence of
+such opinions, except in cases provided for in this constitution.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 MS 1817 ***
+
+SEC. 6.  Every citizen may freely speak, write, and publish, his sentiments, on all subjects, being
+responsible for the abuse of that liberty.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 MS 1817 ***
+
+SEC. 7.  No law shall ever be passed to curtail or restrain the liberty of speech of the press.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 MS 1817 ***
+
+SEC. 8.  In all prosecutions or indictments for libels, the truth may be given in evidence, and the
+jury shall have the right to determine the law and the facts, under the direction of the court.  
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 MS 1817 ***
+
+SEC. 9.  That the people shall be secure in their persons, houses, papers, and possessions, from
+unreasonable seizures or searches; and that no warrant to search any place, or to seize any place
+or to seize any person or things, shall issued, without describing them, as nearly as may be nor
+without probable cause, supported by oath or affirmation.  
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 MS 1817 ***
+
+SEC. 10.  That in all criminal prosecutions, the accused hath a right to be heard by himself and
+counsel; to demand the nature and the cause of the accusation; to be confronted by the witnesses
+against him; to have compulsory process for obtaining witnesses in his favor; and in all
+prosecutions, by indictment or information, a speedy public trial, by an impartial jury of the
+county; that he cannot be compelled to give evidence against himself, nor can he be deprived of
+his life, liberty, or property, but by due course of law.  
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 MS 1817 ***
+
+SEC. 11.  No person shall be accused, arrested, or detained, except in cases ascertained by law,
+and according to the forms which the same has prescribed; and no person shall be punished but
+in virtue of a law established and promulgated prior to the offence, and legally applied.
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 MS 1817 ***
+
+SEC. 12.  That no persona shall, for any indictable offence, be proceeded against criminally, by
+information, except in cases arising in the land or naval forces, or the militia, when in actual
+service, or by leave of the court, for misdemeanor in office.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 MS 1817 ***
+
+SEC. 13.  No person shall, for the same offence, be twice put in jeopardy of life or limb; nor shall
+any person's property be taken of applied to public use, without the consent of his
+representatives, and without just compensation being made therefor.  
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 MS 1817 ***
+
+SEC. 14.  That all courts shall be open, and every person, for an injury done him, in his lands,
+goods, person, or reputation, shall have remedy, by due course of law, and right and justice
+administered, without sale, denial, or delay.  
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 MS 1817 ***
+
+SEC. 15.  That no power of suspending laws shall be exercised, except by the legislature, or its
+authority.
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 MS 1817 ***
+
+SEC. 16.  That excessive bail shall not be required, nor excessive fines imposed, nor cruel
+punishments inflicted.  
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 MS 1817 ***
+
+SEC. 17.  That all prisoners shall, before conviction, be bailable, by sufficient securities, except
+for capital offences, when the proof is evident or the presumption great; and the privilege of the
+writ of habeas corpus shall not be suspended unless when, in case of rebellion or invasion, the
+public safety may require it.  
+
+*** SEND ***
+*** SSTART 018.0 001.0 0 MS 1817 ***
+
+SEC. 18.  That the person of a debtor, where there is not strong presumption of fraud, shall not
+be detained in prison, after delivering up his estate for the benefit of his creditors, in such manner
+as shall be prescribed by law.  
+
+*** SEND ***
+*** SSTART 019.0 001.0 0 MS 1817 ***
+
+SEC. 19.  That no ex post facto law, not law impairing the obligation of a contract, shall be made. 
+
+
+*** SEND ***
+*** SSTART 020.0 001.0 0 MS 1817 ***
+
+SEC. 20.  That no person shall be -------- of treason or felony by the legislature.
+
+*** SEND ***
+*** SSTART 021.0 001.0 0 MS 1817 ***  
+
+SEC. 21.  That the estates of suicides shall descend, or vest, as in cases of natural death; and if
+any person shall be killed by casualty, there shall be no forfeiture by reason thereof.  
+
+*** SEND ***
+*** SSTART 022.0 001.0 0 MS 1817 ***
+
+SEC. 22.  That the citizens have a right, in a peaceable manner, to assemble together for their
+common good, and to apply to those invested with the powers of government, for redress of
+grievances, or other proper purposes, by petition, address, or remonstrance.  
+
+*** SEND ***
+*** SSTART 023.0 001.0 0 MS 1817 ***
+
+SEC. 23.  Every citizen has a right to bear arms, in defence of himself and the state.  
+
+*** SEND ***
+*** SSTART 024.0 001.0 0 MS 1817 ***
+
+SEC. 24.  No standing army shall be kept up without the consent of the legislature; and the
+military shall, in all cases, and at all times, be in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 025.0 001.0 0 MS 1817 ***
+
+SEC. 25.  That no soldier shall, in time of peace, be quartered in any house without the consent
+of the owner, nor in time of war, but in a manner to be prescribed by law.  
+
+*** SEND ***
+*** SSTART 026.0 001.0 0 MS 1817 ***
+
+SEC. 26.  That no hereditary emoluments, privileges, or honors, shall ever be granted or
+conferred in this state.  
+
+*** SEND ***
+*** SSTART 027.0 001.0 0 MS 1817 ***
+
+SEC. 27.  No citizen of this state shall be exiled, or prevented from emigrating, on any pretence
+whatever.
+
+*** SEND ***
+*** SSTART 028.0 001.0 0 MS 1817 ***
+
+SEC. 28.  The right of trial by jury shall remain inviolate.  
+
+*** SEND ***
+*** SSTART 029.0 001.0 0 MS 1817 ***
+
+SEC. 29.  No person shall be debarred from prosecuting or defending any civil cause, for or
+against him or herself, before any tribunal in this state, by him or herself, or counsel, or both.  
+     
+
+               CONCLUSION
+
+To guard against transgressions of the high powers herein delegated, we declare, that every thing
+in this article is excepted out of the general powers of government, and shall forever remain
+inviolate, and that all laws contrary thereto, or to the following provisions, shall be void:  
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 MS 1817 ***
+                    ARTICLE II. 
+
+                    DISTRIBUTION OF POWERS.  
+
+*** SSTART 001.0 002.0 0 MS 1817 ***
+
+SEC. 1.  The powers of the government of the state of Mississippi shall be divided into three
+distinct departments, and each of them be confided to a separate body of magistracy, to wit: those
+which are legislative to one, those which are executive to another, and those which are judicial to
+another.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 MS 1817 ***
+
+SEC. 2.  No person, or collection of persons, being of one of those departments, shall exercise
+any power, properly belonging to either of the others, except in the instances hereinafter
+expressly directed or permitted.  
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 MS 1817 ***
+
+                    ARTICLE III.
+
+                    LEGISLATIVE DEPARTMENT.
+
+*** SSTART 001.0 003.0 0 MS 1817 ***
+
+SEC. 1.  Every free white male person of the age of twenty-one years, or upwards, who shall be a
+citizen of the United States, and shall have resided in this state one year next preceding an
+election, and the last six months within the county, city or town in which he offers to vote, and
+shall be enrolled in the militia thereof, except exempted by law from military service, or having
+the aforesaid qualifications of citizenship and residence, shall have paid a state or county tax,
+shall be deemed a qualified elector: no elector shall be entitled to vote, except in the county, city
+or town (entitled to separate representation) in which he may reside at the time of the election.  
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 MS 1817 ***
+
+SEC. 2.  Electors shall, in all cases, except in those of treason, felony, or breach of the peace, be
+privileged from arrest, during their attendance at elections, and in going to, and returning from,
+the same.
+
+*** SEND ***
+*** SSTART 003.0 003.0 0 MS 1817 ***
+
+SEC. 3.  The first election shall be by ballot, and all future elections, by the people, shall be
+regulated by law.  
+
+*** SEND ***
+*** SSTART 004.0 003.0 0 MS 1817 ***
+
+SEC. 4.  The legislative power of this state shall be vested in two distinct branches: the one to be
+styled the Senate, the other the House of Representatives, and both together, "The General
+Assembly of the State of Mississippi."  And the style of their laws shall be, "Be it enacted by the
+Senate and House of Representatives of the state of Mississippi, in General Assembly convened."
+
+*** SEND ***
+*** SSTART 005.0 003.0 0 MS 1817 ***
+
+SEC. 5.  The members of the house of representatives shall be chosen by the qualified electors,
+and shall serve for the term or one year, from the day of the commencement of the general
+elections, and no longer.  
+
+*** SEND ***
+*** SSTART 006.0 003.0 0 MS 1817 ***
+
+SEC. 6.  The representatives shall be chosen every year, on the first Monday and the day
+following in August.  
+
+*** SEND ***
+*** SSTART 007.0 003.0 0 MS 1817 ***
+
+SEC. 7.  No person shall be a representative unless he be a citizen of the United States, and shall
+have been an inhabitant of this state two years next preceding his election, and the last year
+thereof a resident of the county, city, or town, for which he shall be chosen, and shall have
+attained to the age of twenty-two years; and, also, unless he shall hold, in his own right, within
+this state, one hundred and fifty acres of land, or an interest in real estate of the value of five
+hundred dollars, at the time of his election, and for six months previous thereto.  
+
+*** SEND ***
+*** SSTART 008.0 003.0 0 MS 1817 ***
+
+SEC. 8.  Elections for representatives for the several counties, shall be held at the places of
+holding their respective courts, or in the several election districts into which the legislature may
+divide any county: Provided, that when it shall appear to the legislature, that any city, or town,
+hath a number of free white inhabitants, equal to the ratio then fixed, such city or town shall have
+a separate representation, according to the number of free white inhabitants therein, which shall
+be retained so long as such city or town shall contain a number of free white inhabitants equal to
+the existing ratio; and thereafter and during the existence of the right of separate representation in
+such city or town, elections for the county in which such city or town entitled to a separate
+representation is situated, shall not be held in such city or town.  And provided, that if the
+residuum or fraction of any city or town entitled to separate representation shall when added to
+the residuum in the county in which it may lie, be equal to the ratio fixed by law, for one
+representative, then the aforesaid county, city or town, having the largest residuum, shall be
+entitled to such representation.  And provided also, that when there are two or more counties
+adjoining, which have residuums over and above the ratio then fixed by law, if said residuums
+when added together, will amount to such ratio, in that case one representative shall be added to
+that county having the largest residuum.  
+
+*** SEND ***
+*** SSTART 009.0 003.0 0 MS 1817 ***
+
+SEC. 9.  The general assembly shall, at their first meeting, an in the year one thousand eight
+hundred and twenty, and in not less than every three, nor more than every five years thereafter,
+cause an enumeration to be made of all the free white inhabitants of the state; and the whole
+number of representatives shall, at the several periods of making such enumeration, be fixed by
+the general assembly, and apportioned among the several counties, cities, or towns entitled to
+separate representation, according to the number of free white inhabitants in each, and shall not
+be less than twenty-four, nor greater than thirty-six, until the number of free white inhabitants
+shall be eighty thousand; and after that event, at such ratio, that the whole number of
+representatives shall never be less that thirty-six, nor more that one hundred: Provided however,
+that each county shall always be entitled to at least one representative.  
+
+*** SEND ***
+*** SSTART 010.0 003.0 0 MS 1817 ***
+
+SEC. 10.  The whole number of senators shall, at the several periods of making the enumeration
+beforementioned, be fixed by the general assembly, and apportioned among the several districts
+to be established by law, according to the number of free white taxable inhabitants in each, and
+shall never be less than one-fourth, nor more than one third, of the whole number of
+representatives.  
+
+*** SEND ***
+*** SSTART 011.0 003.0 0 MS 1817 ***
+
+SEC. 11.  The senators shall be chosen by the qualified electors, for three years; and on their
+being convened in consequence of the first election, they shall be divided by lot from their
+respective districts, into three classes, as nearly equal as can be.  The seats of the senators, of the
+first class, shall be vacated at the expiration of the first year, and of the second class, at the
+expiration of the second year, and of the third class, at the expiration of the third year, so that
+one-third thereof may be annually chosen thereafter.  
+
+*** SEND ***
+*** SSTART 012.0 003.0 0 MS 1817 ***
+
+SEC. 12.  Such mode of classifying new additional senators, shall be observed as will, as nearly
+as possible, preserve an equality of numbers in each class.
+
+*** SEND ***
+*** SSTART 013.0 003.0 0 MS 1817 ***
+
+SEC. 13.  When a senatorial district shall be composed of two or more counties, it shall not be
+entirely separated by any county belonging to another district; and no county shall be divided in
+forming a district.  
+
+*** SEND ***
+*** SSTART 014.0 003.0 0 MS 1817 ***
+
+SEC. 14.  No person shall be a senator, unless he be a citizen of the United States, and shall have
+been an inhabitant of this state four years next preceding his election, and the last year thereof, a
+resident of the district, for which he shall be chosen, and shall have attained to the age of twenty-
+six years; and also, unless he shall hold, in his own right, within this state, three hundred acres of
+land, or an interest in real estate, of the value of one thousand dollars, at the time of his election,
+and for six months previous thereto.
+
+*** SEND ***
+*** SSTART 015.0 003.0 0 MS 1817 ***
+
+SEC. 15.  The house of representatives, when assembled, shall choose a speaker, and its other
+officers; and the senate shall choose its officers, except the president; and each house shall judge
+of the qualifications and elections of its own members; but a contested election shall be
+determined in such manner as shall be directed by law.  A majority of each house shall constitute
+a quorum to do business, but a smaller number may adjourn from day to day, and may compel the
+attendance of absent members, in such manner, and under such penalties, as each house may
+provide.  
+
+*** SEND *** 
+*** SSTART 016.0 003.0 0 MS 1817 ***
+
+SEC. 16.  Each house may determine the rules of its own proceedings; punish members for
+disorderly behaviour; and, with the consent o f two-thirds, expel a member, but not a second time
+for the same cause; and shall have all other powers necessary for a branch of the legislature of a
+free and independent state.  
+
+*** SEND ***
+*** SSTART 017.0 003.0 0 MS 1817 ***
+
+SEC. 17.  Each house shall keep a journal of its proceedings, and publish the same, excepting
+such parts as, in its judgment, may require secrecy: and the years and nays of the members of
+either house, on any question, shall, at the desire of any three members present, be entered on the
+journals.  
+
+*** SEND ***
+*** SSTART 018.0 003.0 0 MS 1817 ***
+
+SEC. 18.  When vacancies happen in either house, the governor, or the person exercising the
+powers of the governor, shall issue writs of election to fill such vacancies.
+
+*** SEND ***
+*** SSTART 019.0 003.0 0 MS 1817 ***
+
+SEC. 19.  Senators and representatives shall, in all cases, except of treason, felony, or breach of
+the peace, be privileged from arrest, during the session of the general assembly, and in going to,
+and returning from, the same, allowing one day for every twenty miles such member may reside
+from the place at which the general assembly is convened.  
+
+*** SEND *** 
+*** SSTART 020.0 003.0 0 MS 1817 ***
+
+SEC. 20.  Each house may punish, by imprisonment, during the session, any person, not a
+member, for disrespectful or disorderly behaviour in its presence, or for obstructing any of its
+proceedings: Provided, such imprisonment shall not, at any one time, exceed forty-eight hours.
+
+*** SEND ***
+*** SSTART 021.0 003.0 0 MS 1817 ***
+
+SEC. 21.  The doors of each house shall be open, except on such occasions as, in the opinion of
+the house, may require secrecy.  
+
+*** SEND *** 
+*** SSTART 022.0 003.0 0 MS 1817 ***
+
+SEC. 22.  Neither house shall, without the consent of the other, adjourn for more than three days,
+nor to any other place then that in which they may be sitting.  
+
+*** SEND ***
+*** SSTART 023.0 003.0 0 MS 1817 ***
+
+SEC. 23.  Bills may originate in either house, and be amended, altered, or rejected by the other;
+but no bill shall have the force of a law, until on three several days, it be read in each house, and
+free discussion be allowed thereon, unless in case of urgency, four-fifths of the house in which
+the bill shall be depending, may deem it expedient to dispense with this rule; and every bill
+having passed both houses, shall be signed by the speaker and president of their respective
+houses.  
+
+*** SEND ***
+*** SSTART 024.0 003.0 0 MS 1817 ***
+
+SEC. 24.  All bills for raising revenue shall originate in the house of representatives; but the
+senate may amend or reject them as other bills.  
+
+*** SEND ***
+*** SSTART 025.0 003.0 0 MS 1817 ***
+
+SEC. 25.  Each member of the general assembly, shall receive, from the public treasury, a
+compensation for his services, which may be increased or diminished by law; but no increase of
+compensation shall take effect during the session at which such increase shall have been made.  
+
+*** SEND ***
+*** SSTART 026.0 003.0 0 MS 1817 ***
+
+SEC. 26.  No senator or representative shall, during the term for which he shall have been
+elected, nor for one year thereafter, be appointed to any civil office of profit under this state,
+which shall have been created, or the emoluments of which shall have been increased, during
+such term; except such offices as may be filled by elections by the people.  And no member of
+either house, of the general assembly, shall, after the commencement of the first session of the
+legislature after his election, and during the remainder of the term for which he is elected, be
+eligible to any office or place, the appointment to which may be made in whole or in part by
+either branch of the general assembly.  
+
+*** SEND ***
+*** SSTART 027.0 003.0 0 MS 1817 ***
+
+SEC. 27.  No judge of any court of law or equity, secretary of state, attorney general, clerk of any
+court of record, sheriff or collector, or any person holding a lucrative office under the United
+States, (the office of postmaster excepted,) or this state, shall be eligible to the general assembly:
+provided, that offices in the militia, to which there is attached no annual salary, or the office of
+justice of the peace, or of the quorum, shall not be deemed lucrative.  
+
+*** SEND ***
+*** SSTART 028.0 003.0 0 MS 1817 ***
+
+SEC. 28.  No person who hath heretofore been, or hereafter may be, a collector or holder of
+public moneys, shall have a seat in either house of the general assembly, until such person shall
+have accounted for, and paid into the treasury, all sums for which he may be accountable.
+
+*** SEND ***
+*** SSTART 029.0 003.0 0 MS 1817 ***
+
+SEC. 29.  The first election for senators and representatives shall be general throughout the state,
+and shall be held on the first Monday and Tuesday in September next; and thereafter, there shall
+be an annual election for senators to fill the places of those whose term of service may have
+expired.
+
+*** SEND ***
+*** SSTART 030.0 003.0 0 MS 1817 ***
+
+SEC. 30.  The first session of the general assembly shall commence on the first Monday in
+October next, and be held at the city of Natchez, and thereafter at such place as may be directed
+by law; and thereafter the general assembly shall meet on the first Monday in November in every
+year, and at no other period, unless directed by law, or provided for by this constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 MS 1817 ***
+
+                    ARTICLE IV. 
+                    EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 004.0 0 MS 1817 ***
+
+SEC. 1.  The supreme executive power of this sate shall be vested in a governor, who shall be
+elected by the qualified electors, and shall hold his office for two years from the time of his
+installation, and until his successor be duly qualified.  
+
+*** SEND *** 
+*** SSTART 002.0 004.0 0 MS 1817 ***
+
+SEC. 2.  The returns of every election for governor, shall be sealed up and transmitted to the seat
+of government, directed to the secretary of state, who shall deliver them to the speaker of the
+house of representatives, at the next ensuing session of the general assembly, during the first
+week of which session, the said speaker shall open and publish them in presence of both houses
+of the general assembly.  The person having the highest number of votes shall be governor; but if
+two, or more, shall be equal and highest in votes, one of them shall be chosen governor by the
+joint ballot of both houses.  
+     Contested elections for governor shall be determined by both houses of the general
+assembly in such manner as shall be prescribed by law. 
+
+*** SEND *** 
+*** SSTART 003.0 004.0 0 MS 1817 ***
+
+SEC. 3.  The governor shall be at least thirty years of age, shall have been a citizen of the United
+States for twenty years, shall have resided in this state at least five years next preceding the day
+of his election, and shall be seized in his own right of a freehold estate of six hundred acres of
+land, or of real estate of the value of two thousand dollars at the time of his election, and twelve
+months previous thereto. 
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 MS 1817 ***
+
+SEC. 4.  He shall at stated times receive a compensation for his services, which shall not be
+increased or diminished during the term for which he shall be elected.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 MS 1817 ***
+
+SEC. 5.  He shall be commander in chief of the army and navy of this state, and of the militia,
+except when they shall be called into the service of the United States.  
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 MS 1817 ***
+
+SEC. 6.  He may require information in writing form the officers in the executive department, on
+any subject relating to the duties of their representative offices.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 MS 1817 ***
+
+SEC. 7.  He may on extraordinary occasions convene the general assembly at the seat of
+government, or at a different place, if that shall have become, since their last adjournment,
+dangerous from an enemy, or from contagious disorders; and in case of disagreement between the
+two houses with respect to the time of adjournment, adjourn them to such time as he shall think
+proper, not beyond the day of the next annual meeting of the general assembly. 
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 MS 1817 ***
+
+SEC. 8.  He shall, from time to time, give to the general assembly, information of the state of the
+government, and recommend to their consideration such measurers as he shall deem expedient.  
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 MS 1817 ***
+
+SEC. 9.  He shall take care that the laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 MS 1817 ***
+
+SEC. 10.  In all criminal and penal cases, except in those of trason and impeachment, he shall
+have power to grant reprieves and pardons, and remit fines and forfeitures, under such rules and
+regulations as shall be prescribed by law.  In cases of treason he shall have powre to grant
+reprieves and pardons, by and with the advice and consent of the senate, but may respite the
+sentence and until the end of the next session of the general assembly.  
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 MS 1817 ***
+
+SEC. 11.  All commissions shall be in the name and by the authority of the state of Mississippi,
+be sealed with the state seal, and signed by the governor, and attested by the secretary of state.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 MS 1817 ***
+
+SEC. 12.  There shall be a seal of this state, which shall be kept by the governor, and used by him
+officially, and shall be called the great seal of the state of Mississippi.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 MS 1817 ***
+
+SEC. 13.  When a vacancy shall happen in any office, during the recess of the general assembly,
+the governor shall have power to fill the same, by granting a commission which shall expire at
+the end of the next session of the general assembly, except in cases otherwise directed by this
+constitution. 
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 MS 1817 ***
+
+SEC. 14.  A secretary of state shall be appointed, who shall continue in office, during the term of
+two years.  He shall keep a fair register of all the official acts and proceedings of the governor,
+and shall, when required, lay the same and all papers, minutes and vouchers relative thereto,
+before the general assembly, and shall perform such other duties as may be required of him by
+law.  
+
+*** SEND *** 
+*** SSTART 015.0 004.0 0 MS 1817 ***
+
+SEC. 15.  Every bill which shall have passed both houses of the general assembly, shall be
+presented to the governor; if he approve, he shall sign it; but if not, he shall return it, with his
+objections to the house in which it shall have originated, who shall enter the objections at large
+upon the journals, and proceed to reconsider it; if after such reconsideration two-thirds of that
+house shall agree to pass the bill, it shall be sent with the objections to the other house, by which
+it shall likewise be reconsidered; if approved by two-thirds of that house, it shall become a law:
+but in such cases the votes of both houses shall be determined by yeas and nays, and the names of
+the members voting for and against the bill, shall be entered on the journals of each house,
+respectively: if any bill shall not be returned by the governor within six days (Sundays excepted)
+after it shall have been presented to him, the same shall be a law in like manner as if he had
+signed it, unless the general assembly by their adjournment prevent its return, in which case it
+shall not be a law.  
+     
+*** SEND ***
+*** SSTART 016.0 004.0 0 MS 1817 ***
+
+SEC. 16.  Every order, resolution, or vote, to which the concurrence of both houses may be
+necessary, except on questions of adjournment, shall be presented to the governor, and before it
+shall take effect, be approved by him, or, being disapproved, shall be repassed by both houses,
+according to the rules and limitations prescribed in the case of a bill.             
+                         
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 MS 1817 ***
+
+SEC. 17.  The appointment of all officers not otherwise directed by this constitution shall be by
+the joint vote of both houses of the general assembly; the votes shall be given viva voce and
+recorded in the public journal of each house; provided, that the general assembly be authorized to
+provide by law for the appointments of all inspectors, collectors, and their deputies, surveyors of
+high ways, constables and such other inferior officers whose jurisdiction may be confined within
+the limits of the county.  
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 MS 1817 ***
+
+SEC. 18.  There shall be also a lieutenant governor, who shall be chosen at every election for a
+governor, by the same persons, in the same manner, continue in office for the same time, and
+possess the same qualifications.  In voting for governor and lieutenant governor, the electors shall
+distinguish whom they vote for as governor, and whom as lieutenant governor.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 MS 1817 ***
+
+SEC. 19.  The lieutenant governor shall, by virtue of his office, be president of the senate, and
+have, when in committee of the whole, a right to debate and vote on all questions, and, when the
+senate is equally divided, to give the casting vote.
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 MS 1817 ***
+
+SEC. 20.  In case of the death, resignation, refusal to serve, or removal from office of the
+governor, or of his impeachment of absence from the state, the lieutenant governor shall exercise
+the powers and authority appertaining to the office of governor, until another be chose at the next
+periodical election for a governor, and be duly qualified; or until the governor impeached or
+absent shall be acquitted or return.  
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 MS 1817 ***
+
+SEC. 21.  Whenever the government shall be administered by the lieutenant governor, or he shall
+be unable to attend as president of the senate, the senate shall elect one of their own members as
+president pro tempore.  
+     And if during the vacancy of the office of governor, the lieutenant governor shall die,
+resign, refuse to serve, or be removed from office, or if he shall be impeached or absent from the
+state, the president of the Senate pro tempore shall, in like manner, administer the government,
+until he shall be superceded by a governor or lieutenant governor.  The lieutenant governor shall,
+whilst he acts as president of the senate, receive for his services the same compensation which
+shall, for the same period, be allowed to the speaker of the house of representatives, and no more;
+and during the time he administers the government as governor, shall receive the same
+compensation which the governor would have received had he been employed in the duties of his
+office, and no more.
+
+*** SEND ***
+*** SSTART 022.0 004.0 0 MS 1817 ***
+
+SEC. 22.  The president pro tempore of the senate shall, during the time he administers the
+government, receive, in like manner, the same compensation which the governor would have
+received had he been employed in the duties of his office, and no more.  
+
+*** SEND ***
+*** SSTART 023.0 004.0 0 MS 1817 ***
+
+SEC. 23.  If the lieutenant governor shall be required to administer the government, and shall,
+whilst in such administration, die, resign, or be absent from the state, during the recess of the
+General assembly, it shall be the duty of the secretary of state, for the time being, to convene the
+senate for the purpose of choosing a president pro tempore.
+
+*** SEND ***
+*** SSTART 024.0 004.0 0 MS 1817 ***
+
+SEC. 24.  A sheriff and one of more coroners, shall be elected in each county, by the qualified
+electors thereof, who shall hold their offices for two years, unless sooner removed.  
+
+*** SEND ***
+*** SSTART 025.0 004.0 0 MS 1817 ***
+
+SEC. 25.  A state treasurer, and an auditor of public accounts, shall be annually appointed.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9008.0 MS 1817 ***
+
+                    MILITIA
+
+
+*** SSTART 001.0 9008.0 0 MS 1817 ***
+
+SEC. 1.  The general assembly shall provide by law, for organizing and disciplining the militia of
+this state in such manner as they shall deem expedient, not incompatible with the constitution
+and laws of the United States in relation thereto.
+
+*** SEND ***
+*** SSTART 002.0 9008.0 0 MS 1817 ***
+
+SEC. 2.  Officers of the militia shall be elected or appointed in such manner as the legislature
+shall from time to time direct, and shall be commissioned by the governor.
+
+*** SEND ***
+*** SSTART 003.0 9008.0 0 MS 1817 ***
+
+SEC. 3.  Those persons who conscientiously scruple to bear arms, shall not be compelled to do
+so, but shall pay an equivalent for personal service.
+
+*** SEND ***
+*** SSTART 004.0 9008.0 0 MS 1817 ***
+
+SEC. 4.  The governor shall have power to call forth the militia to execute the laws of the state,
+to suppress insurrection and repel invasions.   
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 MS 1817 ***
+
+                    ARTICLE V.
+                    JUDICIAL DEPARTMENT.
+
+*** SSTART 001.0 005.0 0 MS 1817 ***
+
+SEC. 1.  The judicial power of this state shall be vested in one supreme court, and such superior
+and inferior courts of law and equity as the legislature may from tie to time direct and establish.  
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 MS 1817 ***
+
+SEC. 2.  There shall be appointed in this state not less that four nor more than eight judges of the
+supreme and superior courts, who shall receive for their services a compensation, which shall be
+fixed by law, and shall not be diminished during their continuance in office: Provided, that the
+judge 
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 MS 1817 ***
+
+SEC. 3.  The state shall be divided into convenient districts, and each district shall contain not
+less than three, nor more than six counties.  For each district there shall be appointed a judge who
+shall, after his appointment, reside in the district for which he is appointed.  
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 MS 1817 *** 
+
+SEC. 4.  The superior court shall have original jurisdiction in all matters, civil and criminal,
+within this state, but in civil cases, only where the matter or sum in controversy exceeds fifty
+dollars.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 MS 1817 ***
+
+SEC. 5.  A superior court shall be held in each county in the state at least twice in e very year. 
+The judges of the several superior courts may hold courts for each other when they may deem it
+expedient, or as they may be diverted by law.  
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 MS 1817 ***
+
+SEC. 6.   The legislature shall have power to establish in each county, within this state, a court of
+probate, for the granting of letters testamentary and of administration, for orphan's business, for
+county police, and for the trial of slaves.  
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 MS 1817 ***
+
+SEC. 7.  The legislature shall have power to establish a court of courts of chancery with
+exclusive original equity, jurisdiction, and until the establishment of such court or courts, the said
+jurisdiction shall be vested in the superior courts respectively.  
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 MS 1817 ***
+
+SEC. 8.  A competent number of justices of the peace shall be appointed in and for each county,
+in such mode, and for such term of office, as the legislature shall direct.  Their jurisdiction in
+civil cases shall be limited to causes in which the amount in controversy shall be limited to
+causes in which the amount in controversy shall not exceed fifty dollars.  And in all cases tried by
+a justice of the peace, right of appeal shall be secured, under such rules and regulations as shall
+be prescribed by law. 
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 MS 1817 ***
+
+SEC. 9.  The judges of the several courts of this state shall hold their offices during good
+behaviour.  And for willful neglect of duty, or other reasonable cause, which shall not be
+sufficient ground for an impeachment, the governor shall remove any of them on the address of
+two-thirds of each house of the general assembly: Provided, however, that the cause or causes for
+which such removal shall be required, shall be stated at length in such address, and on the
+journals of each house; and provided further, that the judge so intended to be removed, shall be
+notified, and admitted to hearing in own defence, before any vote for such address shall pass.  
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 MS 1817 ***
+
+SEC. 10.  No person who shall have arrived at the age of sixty-five years, shall be appointed to,
+or continue in, the office of judge in this state.  
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 MS 1817 ***
+
+SEC. 11.  Each court shall appoint its own clerk, who shall hold his office during good
+behaviour, but shall be removable therefrom for neglect of duty or misdemeanor in office, by the
+supreme court, which court shall determine both the law and the fact: Provided, that the clerk so
+appointed shall have been a resident of the county in which he is clerk at least six months
+previous to his appointment.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 MS 1817 ***
+
+SEC. 12.  The judges of the supreme and superior courts, shall, by virtue of their office be
+conservators of the peace throughout the state. 
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 MS 1817 ***
+
+SEC. 13.  The style of all process shall be "The state of Mississippi," and all prosecutions shall
+be carried on in the name and by the authority of "The state of Mississippi," and shall conclude,
+"against the peace and dignity of the same."
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 MS 1817 ***
+
+SEC. 14.  There shall be an attorney general for the state, and as many district attorneys as the
+general assembly may deem necessary, who shall hold their offices for the term of four years, and
+shall receive for their services a compensation which shall not be diminished during their
+continuance in office.  
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9009.0 MS 1817 ***
+
+*** SSTART 001.0 9009.0 0 MS 1817 ***
+
+                    IMPEACHMENTS.  
+
+SEC. 1.  The house of representatives shall have the sole power of impeaching.
+
+*** SEND ***
+*** SSTART 002.0 9009.0 0 MS 1817 ***
+
+SEC. 2.  All impeachments shall be tried by the senate: When sitting for that purpose the senators
+shall be on oath or affirmation: No person shall be convicted without the concurrence of two-
+thirds of the members present.
+
+*** SEND ***
+*** SSTART 003.0 9009.0 0 MS 1817 *** 
+
+SEC. 3.  The governor, and all civil officers, shall be liable to impeachment for any misdemeanor
+in office; but judgment in such cases shall not extend further than to removal from office, and
+disqualification to hold any office of honor, trust, or profit, under the state: but the party
+convicted shall, nevertheless, be liable and subject to indictment, trial, and punishment,
+according to law, as in other cases.  
+
+*** SEND ***
+*** AEND ***             
+*** ASTART 006.0 MS 1817 ***
+
+ARTICLE VI.  
+GENERAL PROVISION 
+
+*** SSTART 001.0 006.0 0 MS 1817 ***
+
+SEC. 1.  Members of the general assembly, and all officers executive and judicial, before they
+enter on the execution of their respective offices, shall take the following oath or affirmation, to
+wit: "I solemnly swear (or affirm as the case may be) that I will support the Constitution of the
+United States, and the Constitution of the state of Mississippi, so long as I continue a citizen
+thereof, and that I will faithfully discharge, to the best of my abilities, the duties of the office of
+____________________ according to law.  So help me God."
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 MS 1817 ***
+
+SEC. 2.  The general assembly shall have power to pass such penal laws to suppress the evil
+practice of duelling, extending to disqualification from office or the tenure thereof, as they may
+deem expedient.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 MS 1817 ***
+
+SEC. 3.  Treason against the state shall consist only in levying war against it, or in adhering to its
+enemies, giving them aid and comfort.  No person shall be convicted of treason unless on the
+testimony of two witnesses to the same overt act, or his own confession in open court.  
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 MS 1817 ***
+
+SEC. 4.  Every person shall be disqualified from holding an office or place of honor or profit
+under the authority of this state, who shall be convicted of having given or offered any bribe to
+procure his election.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 MS 1817 *** 
+
+SEC. 5.  Laws shall be made to exclude from office, and from suffrage, those who shall
+thereafter be convicted of bribery, perjury, forgery, or other high crimes or misdemeanors.  The
+privilege of free suffrage shall be supported by laws regulating elections, and prohibiting, under
+adequate penalties, all undue influence thereon, from power, bribery, tumult, or other improper
+conduct.  
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 MS 1817 ***
+
+SEC. 6.  No person who denies the being of a God, or a future state of rewards and punishments,
+shall hold any office in the civil department of this state.  
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 MS 1817 ***
+
+SEC. 7.  Ministers of the Gospel, being by their profession dedicated to God, and the care of
+souls, ought not to be diverted from the great duties of their functions Therefore, no minister of
+the Gospel, or priest of any denomination whatever, shall be eligible to the office of governor,
+lieutenant governor, or to a seat in either branch of the general assembly.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 MS 1817 ***
+
+SEC. 8.  No money shall be drawn from the treasury but in consequence of an appropriation
+made by law, nor shall any appropriation of money for the support of an army be made for a
+longer term than one year; and a regular statement and account of the receipts and expenditures
+of all public money shall be published annually.  
+
+*** SEND *** 
+*** SSTART 009.0 006.0 0 MS 1817 ***
+
+SEC. 9.  No bank shall be incorporated by the legislature without the reservation of a right to
+subscribe for, in behalf of the state, at least one-fourth part of the capital stock thereof, and the
+appointment of a proportion of the directors, equal to the stock subscribed for.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 MS 1817 ***
+
+SEC. 10.  The general assembly shall pass no law impairing the obligation of contracts, prior to
+the year one thousand eight hundred and twenty-one, on account of the rate of interest, fairly
+agreed on, in writing, between the contracting parties, for a bona fide loan of money; but they
+shall have power to regulate the rate of interest, where no special contract exists in relation
+thereto. 
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 MS 1817 ***
+
+SEC. 11.  The general assembly shall direct, by law, in what manner, and in what courts, suits
+may be brought against the state.
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 MS 1817 ***
+
+SEC. 12.  All officers of the state, the term of whose appointment is not otherwise directed by
+this constitution, shall hold their offices during good behaviour.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 MS 1817 ***
+
+SEC. 13.  Absence, on business of this state, or of the United States, or on a visit, or necessary
+private business, shall not cause a forfeiture f a residence, once obtained.  
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 MS 1817 ***
+
+SEC. 14.  It shall be the duty of the general assembly to regulate, by law, the cases in which
+deductions shall be made from the salaries of public officers, for neglect of duty, in their official
+capacity, and the amount of such deduction.  
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 MS 1817 ***
+
+SEC. 15.  No member of Congress, nor any person holding any office of profit or trust under the
+United States, or either of them, the office of postmaster excepted, or under any foreign power,
+shall hold or exercise any office of trust or profit under this state.  
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 MS 1817 ***
+
+SEC. 16.  Religion, morality, and knowledge, being necessary to good government, the
+preservation of liberty, and the happiness of mankind, schools, and the means of education, shall
+forever be encouraged in this state.  
+
+*** SEND ***
+*** SSTART 017.0 006.0 0 MS 1817 ***
+
+SEC. 17.  Divorces, from the bonds of matrimony, shall not be granted, but in cases provided for
+by Law, by suit in chancery; provided that no decree for such divorce shall have effect until the
+same shall be sanctioned by two-thirds of both branches of the general assembly.
+
+*** SEND ***
+*** SSTART 018.0 006.0 0 MS 1817 ***
+
+SEC. 18.  Returns of all elections, by the people, shall be made to the secretary of state.
+
+*** SEND ***
+*** SSTART 019.0 006.0 0 MS 1817 ***
+
+SEC. 19.  No new country shall be established by the general assembly, which shall reduce the
+county or counties, or either of them, from which it may be taken, to a less content than five
+hundred and seventy-six square miles, nor shall any new country be laid off, of less contents.  
+
+*** SEND ***
+*** SSTART 020.0 006.0 0 MS 1817 ***
+
+SEC. 20.  That the general assembly shall take measures to preserve, from unnecessary waste or
+damage, such lands as are or may hereafter be granted, by the United States, for the use of
+schools, within each township in this state, and apply the funds, which may be raised from such
+lands, by rent or lease, in strict conformity to the objects of such grant; but no lands, granted for
+the use of such township schools, shall ever be sold by any authority in this state.  
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9011.0 MS 1817 ***
+*** SSTART 001.0 9011.0 0 MS 1817 ***
+
+                         SLAVES
+
+SEC. 1.  The general assembly shall have no power to pass laws for the emancipation of slaves,
+without the consent of their owners, unless where a slave shall have rendered to the state some
+distinguished service, in which case the owner shall be paid a full equivalent for the slave so
+emancipated.  They shall have no power to prevent emigrants to this state, from bringing with
+them such persons as are deemed slaves by the laws of any one of the United States, so long as
+any person of the same age or description shall be continued in slavery by the laws of this state:
+Provided, that such person or slave be the bona fide property of such emigrants; and provided,
+also, that laws may be passed to prohibit the introduction into the state of slaves who have
+committed high crimes in other states.  They shall have power to pass laws to permit the owners
+of slaves to emancipate them, saving the rights of creditors, and preventing them from becoming
+a public charge.  They shall have full power to prevent slaves from being brought into this state
+as merchandize; and also to oblige the owners of slaves to treat them with humanity, to provide
+for them necessary clothing and provisions, to abstain from all injuries to them extending to life
+or limb, and in case of their neglect or refusal to comply with the directions of such laws, to have
+such slave or slaves sold for the benefit of the owner or owners.  
+ 
+*** SEND ***
+*** SSTART 002.0 9011.0 0 MS 1817 ***
+
+SEC. 2.  In the prosecution of slaves for crimes, no inquest by a grand jury shall be necessary, but
+the procceedings in such cases shall be regulated by law; except, that in capital cases, the general
+assembly shall have no power to deprive them of an impartial trial by a petit jury. 
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 9012.0 MS 1817 ***
+*** SSTART 001.0 9012.0 0 MS 1817 ***
+
+                    MODE OF REVISING THE CONSTITUTION
+
+SEC. 1.  That whenever two-thirds of the general assembly shall deem it necessary to amend or
+change this constitution, they shall recommend to the electors at the next election for members of
+the general assembly, to vote for or against a convention; and if it shall appear that a majority of
+the citizens of the state voting for representatives have voted for a convention, the general
+assembly shall, at their next session, call a convention, to consist of as many members as there
+may be in the general assembly, to be chosen by the qualified electors, in the manner, and at the
+times and places, of choosing members of the general assembly, which convention shall meet
+within three months after the said election, for the purpose of revising, amending or changing the
+constitution.  
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9003.0 MS 1817 ***
+
+
+*** SSTART 001.0 9003.0 0 MS 1817 ***
+
+                    SCHEDULE
+
+SEC. 1.  That no inconvenience may arise from a change of territorial to a permanent state
+government, it is declared that all rights, actions, prosecutions, claims and contracts, as well of
+individuals, as of bodies corporate, shall continue if no such change had taken place.  
+
+*** SEND ***
+*** SSTART 002.0 9003.0 0 MS 1817 ***
+
+SEC. 2.  All fines, penalties, forfeitures and escheats accruing to the Mississippi territory, within
+the limits of this state, shall enure to the use of the state.  
+
+*** SEND ***
+*** SSTART 003.0 9003.0 0 MS 1817 ***
+
+SEC. 3.  The validity of all bonds and recognizances executed to the governor of the Mississippi
+territory, shall not be impaired by the change of government, but may be sued for and recovered
+in the name of the governor of the state of Mississippi, and his successors in office; and all
+criminal or penal actions arising or now depending within the limits of this state, shall be
+prosecuted to judgment and execution in the name of the said state.  All causes of action arising
+to individuals, and all suits at law or in equity now depending in the several courts, within the
+limits of this state, and not already barred by law, may be commenced in, or transferred to such
+court as may have jurisdiction thereof.  Bonds, recognizances and other papers and writings
+properly belonging to the eastern section of the Mississippi territory, not comprised within the
+limits of this state, shall be transferred to the offices to which they severally belong.  
+
+*** SEND ***
+*** SSTART 004.0 9003.0 0 MS 1817 ***
+
+SEC. 4.  All officers civil and military now holding commissions under the authority of the
+United States or of the Mississippi territory, within this state, shall continue to hold and exercise
+their respective offices, under the authority of this state until they shall be superceded under the
+authority of this constitution; and shall receive from the treasury of this state the same
+compensation which they heretofore received for their services, in proportion to the time they
+shall be so employed.  The governor shall have power to fill vacancies by commissions to expire
+as soon as elections or appointments can be made to such office by the authority of this
+constitution.  
+
+*** SEND ***
+*** SSTART 005.0 9003.0 0 MS 1817 ***
+
+SEC. 5.  All laws and parts of laws now in force in the Mississippi territory, and not repugnant to
+the provisions of this constitution shall continue and remain in force as the laws of this state,
+until they expire by their own limitation, or shall be altered or repealed by the legislature thereof.  
+
+*** SEND ***
+*** SSTART 006.0 9003.0 0 MS 1817 ***
+
+SEC. 6.  Every free white male person above the age of twenty-one years, who shall be a citizen
+of the United States and resident in this state at the time of the adoption of this constitution shall
+be deemed a qualified elector, at the first election to be held in this state; any thing in the
+constitution to the contrary notwithstanding.  
+
+*** SEND ***
+*** SSTART 007.0 9003.0 0 MS 1817 ***
+
+SEC. 7.  The president of this convention shall issue writs of election, directed to the sheriffs of
+the several counties, requiring them to cause an election to be held for a governor, lieutenant
+governor, representative to the Congress of the United States, members of the general assembly,
+and sheriffs of the respective counties, at the respective palces of elections, in said counties,
+except in the county of Warren, in which county the election shall be held at the court house
+instead of the place provided by law, on the first Monday and the day following in September
+next; which elections shall be conducted in the manner prescribed by the existing election laws of
+the Mississippi territory; and the said governor, lieutenant governor and members of the general
+assembly, then duly elected, shall continue to discharge the duties of their respective offices for
+the time prescribed by this constitution, and until their successors be duly qualified.  
+
+*** SEND ***
+*** SSTART 008.0 9003.0 0 MS 1817 ***
+
+SEC. 8.  Until the first enumeration shall be made, as directed by this constitution, the county of
+Warren shall be entitled to one representative, the county of Clairborne to two representatives,
+the county of Jefferson to two representatives, the county of Adams to four representatives, the
+county of Franklin to one representative, the county of Wilkinson to three representatives, the
+county of Amite to three representatives, the county of Pike to two representatives, the county of
+Lawrence to one representative, the county of Marion to one representative, the county of
+Hancock to one representative, the county of Green to one representative, the county of Wayne to
+one representative, the country of Jackson to one representative.  The counties of Warren and
+Clairborne shall be entitled to one senator, the county of Adams to one senator, the county of
+Jefferson to one senator, the county of Wilkinson to one senator, the county of Amite to one
+senator, the counties of Franklin and Pike to one senator, the counties of Lawrence, Marion and
+Hancock to one senator, the counties of Green, Wayne and Jackson to one senator.  
+
+*** SEND ***
+*** SSTART 009.0 9003.0 0 MS 1817 ***
+
+SEC. 9.  The governor may appoint and commission an additional judge, or one of the former
+judges of the superior court, whose commission shall expire so soon as appointments can be
+made under the constitution.  It shall be the duty of the judge so appointed, or one of the former
+territorial judges, to hold superior courts in the counties of Jackson, Green, Wayne, and Hancock,
+at the time heretofore prescribed by law: Provided, that if either of the former territorial judges in
+addition to his duty in the western counties perform such duty, and no additional judge be
+appointed, he shall receive an extra compensation, proportioned to the amount of his salary and
+term of service rendered.  If an additional judge be appointed, he shall receive the same
+compensation for his services as the other judges of the superior court.  
+
+*** SEND ***
+*** SSTART 010.0 9003.0 0 MS 1817 ***
+
+SEC. 10.  The sheriff of Warren county shall, within ten days after the election make return of
+the number of votes for senators in his county, to the sheriff of Claiborne county, who shall be
+the returning officer for the district.  The sheriff of Pike county shall, within ten days after the
+election, make return of the number of votes for senator in his county, to the sheriff of Franklin
+county, who shall be the returning officer for the district.  The sheriffs of Hancock and Lawrence
+counties, shall, within ten days after the election, make return of the number of votes for senator
+in their respective counties, to the sheriff of Marion county, who shall be the returning officer for
+the district.  The sheriffs of Jackson and Wayne counties shall, within ten days after the election,
+make return of the number of votes for senator in their respective counties, to the sheriff of Green
+county, who shall be the returning officer for the district.  
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9023.0 MS 1817 ***
+
+*** SSTART 001.0 9023.0 0 MS 1817 ***
+
+                    ORDINANCE
+
+Whereas, it is required by the act of Congress, under which this convention is assembled, that
+certain provisions should be made by an ordinance of this convention: Therefore, this
+convention, for, and in behalf of the people inhabiting this state, do ordain, agree, and declare,
+that they forever disclaim all right or title to the waste or unappropriated lands lying within the
+state of Mississippi, and that the same shall be, and remain at the sole and entire disposition of
+the United States: and, moreover, that each and every tract of land sold by Congress, shall be, and
+remain, exempt from any tax laid by the order, or under the authority of this state, whether for
+state, county, township, parish, or other purposes whatever, for the term of five years, from and
+after the respective days of sale therefor, and that the lands belonging to citizens of the United
+States residing without this state, shall never be taxed higher than the lands belonging to persons
+residing within the same; that no taxes shall be imposed on lands the property of the United
+States, and that the river Mississippi, and the navigable rivers and waters leading into the same,
+or into the Gulf of Mexico, shall be common highways, and forever free, as well to the
+inhabitants of this state as to other citizens of the United States, without any duty, tax, impost, or
+toll therefor imposed by this state: And this ordinance is hereby declared irrevocable without the
+consent of the United States.
+
+          Done in convention, at the town of Washington, the 13th(????) Day of August, in the year
+     of our Lord 1817, and in the forty-second year of the independence of the United States of
+     America.
+
+                         David Holmes, 
+                    President and Delegate from Adams County.  
+*** SEND ***
+*** AEND ***
+*** CEND ***
+

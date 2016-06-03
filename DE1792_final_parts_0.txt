@@ -1,0 +1,1032 @@
+This file was coded by Trisha Posey and 
+checked by John Wallis on 8/27/2002
+
+It is ready to go.
+
+
+*** CSTART DE 06/30/1792 12/02/1831 ***
+
+                 CONSTITUTION OF DELAWARE-1792
+
+*** ASTART 9001.0 DE 1792 ***
+*** SSTART 001.00 9001.0 0 DE 1792 ***
+
+We, the people, hereby ordain and establish this constitution of government for the State of
+Delaware.
+
+Through divine goodness all men have, by nature, the rights of worshipping and serving their
+Creator according to the dictates of their consciences, of enjoying and defending life and liberty,
+of acquiring and protecting reputation and property, and, in general, of attaining objects suitable
+to their condition, without injury by one to another; and as these rights are essential to their
+welfare, for the due exercise thereof, power is inherent in them; and, therefore, all just authority
+in
+the institutions of political society is derived from the people, and established with their consent,
+to advance their happiness; and they may, for this end, as circumstances require, from time to
+time, alter their constitution of government.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 001.00 DE 1792 ***
+
+                           ARTICLE I
+
+*** SSTART 001.00 001.00 0 DE 1792 ***
+
+SECTION 1. Although it is the duty of all men frequently to assemble together for the public
+worship of the Author of the universe, and piety and morality, on which the prosperity of
+communities depends, are thereby promoted; yet no man shall or ought to be compelled to attend
+any religious worship, to contribute to the erection or support of any place of worship or to the
+maintenance of any ministry, against his own free will and consent; and no power shall or ought
+to
+be vested in or assumed by any magistrate that shall in any case interfere with, or in any manner
+control, the rights of conscience, in the free exercise of religious worship, nor a preference be
+given by law to any religious societies, denominations, or modes of worship.
+
+*** SEND ***
+*** SSTART 002.00 001.00 0 DE 1792 ***
+
+SEC. 2. No religious test shall be required as a qualification to any office, or public trust, under
+this State.
+
+*** SEND ***
+*** SSTART 003.00 001.00 0 DE 1792 ***
+
+SEC. 3. All elections shall be free and equal.
+
+*** SEND ***
+*** SSTART 004.00 001.00 0 DE 1792 ***
+
+SEC. 4.  Trial by jury shall be as heretofore.
+
+*** SEND ***
+*** SSTART 005.00 001.00 0 DE 1792 ***
+
+SEC. 5.  The press shall be free to every citizen who undertakes to examine the official conduct
+of men acting in a public capacity; and any citizen may print on any subject, being responsible
+for the abuse of that liberty.  In prosecutions for publications investigating the proceedings of
+officers, or where the matter published is proper for public information, the truth thereof may be
+given in evidence; and in all indictments for libels, the jury may determine the facts and the law,
+as in other cases.
+
+*** SEND ***
+*** SSTART 006.00 001.00 0 DE 1792 ***
+
+SEC. 6.  The people shall be secure in their persons, houses, papers, and possessions from the
+unreasonable searches and seizures; and no warrant to search any place, or to seize any person or
+things, shall issue without describing them as particularly as may be, nor then, unless there be
+probable cause supported by oath or affirmation.
+
+*** SEND ***
+*** SSTART 007.00 001.00 0 DE 1792 ***
+
+SEC. 7.  In all criminal prosecutions the accused hath a right to be heard by himself and his
+counsel, to be plainly and fully informed of the nature and cause of the accusation against him, to
+meet the witnesses in their examination face to face, to have compulsory process in due time, on
+application by himself, his friends, or counsel, for obtaining witnesses in his favor, and a speedy
+and public trial by an impartial jury; he shall not be compelled to give evidence against himself,
+nor shall be deprived of life, liberty, or property, unless by the judgment of his peers or the law of
+the land.
+
+*** SEND ***
+*** SSTART 008.00 001.00 0 DE 1792 ***
+
+SEC. 8.  No person shall for any indictable offence be proceeded against criminally by
+information, except in cases arising in the land or naval forces, or in the militia when in actual
+service in time of war or public danger, and no person shall be, for the same offence, twice put in
+jeopardy of life or limb; nor shall any man's property be taken or applied to public use without
+the consent of his representatives, and without compensation being made.
+
+*** SEND ***
+*** SSTART 009.00 001.00 0 DE 1792 ***
+
+SEC. 9.  All court shall be open; and every man, for an injury done him in his reputation, person,
+movable or immovable possessions, shall have remedy by the due course of law, and justice
+administered according to the very right of the cause and the law of the land, without sale, denial,
+or unreasonable delay or expense; and every action shall be tried in the county in which it shall
+be commenced, unless when the judges of the court in which the cause is to be tried shall
+determine that an impartial trial therefore cannot be had in that county.  Suits may be brought
+against the State, according to such regulations as shall be made law.
+
+*** SEND ***
+*** SSTART 010.00 001.00 0 DE 1792 ***
+
+SEC. 10.  No power of suspending laws shall be exercised, but by authority of the legislature.
+
+*** SEND ***
+*** SSTART 011.00 001.00 0 DE 1792 ***
+
+SEC. 11.  Excessive bail shall not be required, nor excessive fines imposed, nor cruel
+punishments inflicted; and in the construction of jails a proper regard shall be had to the health of
+prisoners.
+
+*** SEND ***
+*** SSTART 012.00 001.00 0 DE 1792 ***
+
+SEC. 12.  All prisoners shall be bailable by sufficient sureties, unless for capital offences, when
+the proof is positive, or the presumption great; and when persons are confined on accusation for
+such offences, their friends and counsel may at proper season have access to them.
+
+*** SEND ***
+*** SSTART 013.00 001.00 0 DE 1792 ***
+
+SEC. 13.  The privilege of the writ of habeas corpus shall not be suspended, unless when, in
+cases of rebellion or invasion, the public safety may require it.
+
+*** SEND ***
+*** SSTART 014.00 001.00 0 DE 1792 ***
+
+SEC. 14.  No commission of oyer and terminer of jail-delivery shall be issued.
+
+*** SEND ***
+*** SSTART 015.00 001.00 0 DE 1792 ***
+
+SEC 15. No attainder shall work corruption of blood, nor, except, during the life of the offender,
+forfeiture of estate. The estates of those who destroy their own lives shall descend or vest as in
+case of natural death; and if any person be killed by accident, no forfeiture shall be thereby
+incurred.
+
+*** SEND ***
+*** SSTART 016.00 001.00 0 DE 1792 ***
+
+SEC. 16. Although disobedience to laws by a part of the people, upon suggestions of impolicy or
+injustice in them, tends by immediate effect and the influence of example, not only to endanger
+the
+public welfare and safety, but also, in governments of a republican form, contravenes the social
+principles of such governments founded on common consent for common good, yet the citizens
+have a right, in an orderly manner, to meet together, and to apply to persons intrusted with the
+powers of government for redress or grievances or other proper purposes, by petition,
+remonstrance, or address.
+
+*** SEND ***
+*** SSTART 017.00 001.00 0 DE 1792 ***
+
+SEC. 17. No standing army shall be kept up without the consent of the legislature; and the
+military shall, in all cases and at all times, be in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 018.00 001.00 0 DE 1792 ***
+
+SEC. 18. No soldier shall in time of peace be quartered in any house without the consent of the
+owner; nor in time of war, but by a civil magistrate, in a manner to be prescribed by law.
+
+*** SEND ***
+*** SSTART 019.00 001.00 0 DE 1792 ***
+
+SEC. 19. No hereditary distinction shall be granted, nor any office created or exercised, the
+appointment to which shall be for a longer term than during good behavior; and no person
+holding
+any office under this State shall accept of any office or title of any kind whatever, from any king,
+prince, or foreign state.
+
+We declare that everything in this article is reserved out of the general powers of government
+hereinafter mentioned.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.00 DE 1792 ***
+
+                           ARTICLE II
+
+*** SSTART 001.00 002.00 0 DE 1792 ***
+
+SECTION 1. The legislative power of this State shall be vested in a general assembly, which
+shall
+consist of a senate and house of representatives.
+
+*** SEND ***
+*** SSTART 002.00 002.00 0 DE 1792 ***
+
+SEC. 2. The representatives shall be chosen annually by the citizens residing in the several
+counties, respectively, on the first Tuesday of October.
+
+No person shall be a representative who shall not have attained to the age of twenty-four years,
+and have a freehold in the county in which he shall be chosen, have been a citizen and inhabitant
+of the State three years next preceding the first meeting of the legislature after his election, and
+the last year of that term an inhabitant of the county in which he shall be chosen, unless he shall
+have been absent on the public business of the United States, or of this State.
+
+There shall be seven representatives chosen in each county, until a greater number of
+representatives shall be the general assembly be judged necessary; and then, two-thirds of each
+branch of the legislature concurring, they may by law make provision for increasing their
+number.
+
+*** SEND ***
+*** SSTART 003.00 002.00 0 DE 1792 ***
+
+SEC. 3. The senators shall be chosen for three years by the citizens residing in the several
+counties, respectively, having right to vote for representatives, at the same time when they shall
+vote for representatives, in the same manner, and at the same places.
+
+No person shall be a senator who shall not have attained to the age of twenty-seven years, and
+have in the county in which he shall be chosen a freehold estate in two hundred acres of land, or
+an estate in real and personal property, or in either, of the value of one thousand pounds at least,
+and have been a citizen and inhabitant of the State three years next preceding the first meeting of
+the legislature after his election, and the last year of that term an inhabitant of the county in
+which he shall be chosen, unless he shall have been absent on the public business of the United
+States or of this State. 
+
+There shall be three senators chosen in each county. When a greater number of senators shall by
+the general assembly be judged necessary, two-thirds of each branch concurring, they may, by
+law, make provision for increasing their number; but the number of senators shall never be
+greater than one-half, nor less than one-third, of the number of representatives.
+
+Immediately after the senators shall be assembled in consequence of the first election, the
+senators
+residing in each county shall be divided by lot into three classes. The seats of the senators of the
+first class shall be vacated at the expiration of the first year; of the second class at the expiration
+of the second year; and of the third class at the expiration of the third year, so that one-third may
+be chosen every year.
+
+*** SEND ***
+*** SSTART 004.00 002.00 0 DE 1792 ***
+
+SEC. 4. The general assembly shall meet on the first Tuesday of January, in every year, unless
+sooner convened by the governor.
+
+*** SEND ***
+*** SSTART 005.00 002.00 0 DE 1792 ***
+
+SEC. 5. Each house shall choose its speaker and other officers; and also each house, whose
+speaker shall exercise the office of governor, may choose a speaker pro tempore.
+
+*** SEND ***
+*** SSTART 006.00 002.00 0 DE 1792 ***
+
+SEC. 6. Each house shall judge of the elections, returns, and qualifications of its own members;
+and a majority of each shall constitute a quorum to do business; but a smaller number may
+adjourn from day to day, and shall be authorized to compel the attendance of absent members, in
+such manner, and under such penalties, as shall be deemed expedient.
+
+*** SEND ***
+*** SSTART 007.00 002.00 0 DE 1792 ***
+
+SEC. 7. Each house may determine the rules of its proceedings, punish any of its members for
+disorderly behavior, and, with concurrence of two-thirds, expel a member, and shall have all
+other
+powers necessary for a branch of the legislature of a free and independent State.
+
+*** SEND ***
+*** SSTART 008.00 002.00 0 DE 1792 ***
+
+SEC. 8. Each house shall keep a journal of its proceedings, and publish them immediately after
+every session, except such parts as may require secrecy, and the yeas and nays of the members on
+any question shall, at the desire of any member, be entered on the journal.
+
+*** SEND ***
+*** SSTART 009.00 002.00 0 DE 1792 ***
+
+SEC. 9. The doors of each house, and of committees of the whole, shall be open, unless when the
+business is such as ought to be kept secret.
+
+*** SEND ***
+*** SSTART 010.00 002.00 0 DE 1792 ***
+
+SEC. 10. Neither house shall, without the consent of the other, adjourn for more than three days,
+nor to any other place than that in which the two houses shall be sitting.
+
+*** SEND ***
+*** SSTART 011.00 002.00 0 DE 1792 ***
+
+SEC. 11. The senators and representatives shall receive a compensation. for their services to be
+ascertained by law, and paid out of the treasury of the State; but no law varying the compensation
+shall take effect till an election of representatives shall have intervened. They shall in all cases,
+except treason, felony, or breach of the peace, be Privileged from arrest during their attendance at
+the session of their respective houses, and in going to and returning from the same; and for any
+speech or debate in either house they shall not be questioned in any other place.
+
+*** SEND ***
+*** SSTART 012.00 002.00 0 DE 1792 ***
+
+SEC. 12. No senator nor representative shall, during the time for which he shall have been
+elected, be appointed to any civil office under this State which shall have been created, or the
+emoluments of which shall have been increased, during such time. No person concerned in any
+army or navy contract, no member of Congress, nor any person holding any office under this
+State
+or the United States, except the attorney-general, officers usually appointed by the courts of
+justice respectively, attorneys at law, and officers in the militia, holding no disqualifying office,
+shall, during his continuance in Congress or in office, be a senator or representative.
+
+*** SEND ***
+*** SSTART 013.00 002.00 0 DE 1792 ***
+
+SEC. 13. When vacancies happen in either house writs of election shall be issued by the speakers
+respectively, or, in cases of necessity, in such other manner as shall be provided for by law; and
+the persons thereupon chosen shall hold their seats as long as those in whose stead they are
+elected might have done if such vacancies had not happened
+
+*** SEND ***
+*** SSTART 014.00 002.00 0 DE 1792 ***
+
+SEC 14. All bills for raising revenue shall originate in the house of representatives; but the senate
+may propose alterations, as on other bills; and no bill, from. the operation of which, when passed
+into a !aw, revenue may incidentally arise, shall be accounted a bill for raising revenue; nor shall
+any matter or clause whatever, not immediately relating to and necessary for raising revenue, be
+in
+any manner blended with or annexed to a bill for raising revenue.
+
+*** SEND ***
+*** SSTART 015.00 002.00 0 DE 1792 ***
+
+SEC. 15. No money shall be drawn from the treasury but in consequence of appropriations made
+by law; and a regular statement and account of  the receipts and expenditures of all public money
+shall be published annually.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.00 DE 1792 ***
+
+                          ARTICLE III
+
+*** SSTART 001.00 003.00 0 DE 1792 ***
+
+SECTION 1. The supreme executive powers of this State shall be vested in a governor.
+
+*** SEND ***
+*** SSTART 002.00 003.00 0 DE 1792 ***
+
+SEC.2. The governor shall be chosen on the first Tuesday of October by the citizens of the State
+having right to vote for representatives in the counties where they respectively reside, at the
+places where they shall vote for representatives.
+
+The returns of every election for governor shall be sealed up, and immediately delivered by the
+returning officers of the several counties to the speaker of the senate, [or in case of his death to
+the speaker of the house of representatives,] who shall keep the same until a speaker of the senate
+shall be appointed, to whom they shall be immediately delivered after his appointment, who shall
+open and publish the same in the presence of the members of both houses of the legislature.
+Duplicates of the said returns shall also be immediately lodged with the prothonotary of each
+county. The person having the highest number of votes shall be governor; but if two or more
+shall
+be equal in the highest number of votes, the members of the two houses shall, by joint ballot,
+choose one of them to be governor; and if, upon such ballot, two or more of them shall still be
+equal and highest in votes, the speaker of the senate shall have an additional casting vote.
+Contested elections of a governor shall be determined by a joint committee, consisting of one-
+third of all the members of each branch of the legislature, to be selected by ballot of the houses
+respectively; every person of the committee shall take an oath or affirmation that in determining
+the said election he will faithfully discharge the trust reposed in him; and the committee shall
+always sit with open doors.
+
+*** SEND ***
+*** SSTART 003.00 003.00 0 DE 1792 ***
+
+SEC. 3. The governor shall hold his office during three years from the third Tuesday of January
+next ensuing his election, and shall not be capable of holding it longer than three in any term of
+six
+years.
+
+*** SEND ***
+*** SSTART 004.00 003.00 0 DE 1792 ***
+
+SEC. 4. He shall be at least thirty years of age, and have been a citizen and inhabitant of the
+United States twelve years next before the first meeting of the legislature after his election, and
+the last six of that term an inhabitant of this State, unless he shall have been absent on the public
+business of the United States or of this State.
+
+*** SEND ***
+*** SSTART 005.00 003.00 0 DE 1792 ***
+
+SEC. 5. No member of Congress, nor person holding any office under the United States, or this
+State, shall exercise the office of governor.
+
+*** SEND ***
+*** SSTART 006.00 003.00 0 DE 1792 ***
+
+SEC. 6. The governor shall, at stated times, receive for his services an adequate salary, to be
+fixed
+by law, which shall be neither increased nor diminished during the period for which he shall have
+been elected.
+
+*** SEND ***
+*** SSTART 007.00 003.00 0 DE 1792 ***
+
+SEC. 7. He shall be commander-in-chief of the army and navy of this State, and of the Militia,
+except when they shall be called into the service of the United States.
+
+*** SEND ***
+*** SSTART 008.00 003.00 0 DE 1792 ***
+
+SEC. 8. He shall appoint all officers whose offices are established by this constitution, or shall be
+established by law, and whose appointments are not herein otherwise provided for, but no person
+shall be appointed to an office within a county who shall not have a right to vote for
+representatives, and have been an inhabitant therein one year next before his appointment, nor
+hold the office longer than he continues to reside in the county. No member of Congress, nor any
+person holding or exercising any office under the United States, shall, at the same time hold or
+exercise the office of judge, treasurer, attorney-general, secretary, clerk of the supreme court,
+prothonotary, register for the probate of wills and ranting letters of administration, recorder,
+sheriff, or an office under this State, with a salary by law annexed to it, or any other office which
+the legislature shall declare incompatible with offices or appointments under the United States.
+No
+person shall hold more than one of the following offices at the same time, to wit, treasurer,
+attorney general, clerk of the supreme court, prothonotary, register, or sheriff.  All commissions
+shall be in the name of the State, shall be sealed with the great seal, and be signed and tested by
+the governor.
+
+*** SEND ***
+*** SSTART 009.00 003.00 0 DE 1792 ***
+
+SEC. 9. He shall have power to remit fines and forfeitures and to grant reprieves and pardons,
+except in cases of impeachment.
+
+*** SEND ***
+*** SSTART 010.00 003.00 0 DE 1792 ***
+
+SEC. 10. He may require information in writing from the officers in the executive department,
+upon any subject relating to the duties of their respective offices.
+
+*** SEND ***
+*** SSTART 011.00 003.00 0 DE 1792 ***
+
+SEC. 11. He shall from time to time give to the general assembly information of affairs
+concerning
+the State, and recommend to their consideration such measures as be shall judge expedient.
+
+*** SEND ***
+*** SSTART 012.00 003.00 0 DE 1792 ***
+
+SEC. 12. He may, on extraordinary occasions, convene the general assembly; and in case of
+disagreement between the two houses with respect to the time of adjournment, adjourn them to
+such time as he shall think proper, not exceeding three months.
+
+*** SEND ***
+*** SSTART 013.00 003.00 0 DE 1792 ***
+
+SEC. 13. He shall take care that the laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 014.00 003.00 0 DE 1792 ***
+
+SEC. 14. On the death or resignation of the governor, or his removal from office on
+impeachment, or for inability, the speaker of the senate at that time shall exercise the office of
+governor, until a new governor shall be duly qualified, and on the death or resignation of the
+speaker of the senate, the speaker of the house of representatives at that time shall exercise the
+office, until it be regularly vested in a new governor. If the trial of a contested election shall
+continue longer than until the third Tuesday of January next ensuing the election of a governor,
+the governor of the last year, or the speaker of the senate, or of the house of representatives, who
+may then be in the exercise of the executive authority, shall continue therein until a
+determination
+of such contested election. The governor shall not be removed from his office for inability, but
+with the concurrence of two-thirds of all the members of each branch of the legislature.
+
+*** SEND ***
+*** SSTART 015.00 003.00 0 DE 1792 ***
+
+SEC. 15. A secretary shall be appointed and commissioned during the governor's continuance in
+office, if he shall so long behave himself well. He shall keep a fair register of all the official acts
+and proceedings of the governor, and shall, when required by either branch of the legislature, lay
+the same, and all papers, minutes, and vouchers relative thereto, before them, and shall perform
+such other duties as shall be enjoined him by law. He shall have a compensation for his services
+to
+be fixed by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.00 DE 1792 ***
+
+                           ARTICLE IV
+
+*** SSTART 001.00 004.00 0 DE 1792 ***
+
+SECTION 1. All elections of governor, senators, and representatives shall be by ballot. And in
+such elections every white free man of the age of twenty-one years, having resided in the State
+two years next before the election, and within that time paid a State or county tax, which shall
+have been assessed at least six months before the election, shall enjoy the right of an elector; and
+the sons of persons so qualified shall, between the ages of twenty-one and twenty-two years, be
+entitled to vote, although they shall not have paid taxes.
+
+*** SEND ***
+*** SSTART 002.00 004.00 0 DE 1792 ***
+
+SEC. 2. Electors shall in all cases, except treason, felony, or breach of the peace, be privileged
+from arrest during their attendance at elections, and in going to and returning from them.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.00 DE 1792 ***
+
+                           ARTICLE V
+
+*** SSTART 001.00 005.00 0 DE 1792 ***
+
+SECTION 1. The house of representatives shall have the sole power of impeaching; but two-
+thirds of all the members must concur in an impeachment. All impeachments shall be tried by the
+senate; and, when sitting for that purpose, the senators shall be upon oath or affirmation to do
+justice according to the evidence. No person shall be convicted without the concurrence of two-
+thirds of all the senators.
+
+*** SEND ***
+*** SSTART 002.00 005.00 0 DE 1792 ***
+
+SEC. 2. The governor, and all other civil officers under this State, shall be liable to impeachment
+for treason, bribery, or any high crime or misdemeanor in office. Judgment in such cases shall not
+extend further than to removal from office, and disqualification to hold any office of honor, trust,
+or profit under this State; but the party convicted shall nevertheless be subject to indictment, trial,
+judgment, and punishment according to law.
+
+*** SEND ***
+*** SSTART 003.00 005.00 0 DE 1792 ***
+
+SEC. 3. Treason against this State shall consist only in levying war against it, or in adhering to
+the
+enemies of the government, giving them aid and comfort. No person shall be convicted of
+treason,
+unless on the testimony of two witnesses to the same overt act, or on confession in open court.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.00 DE 1792 ***
+
+                           ARTICLE VI
+
+*** SSTART 001.00 006.00 0 DE 1792 ***
+
+SECTION 1. The judicial power of this State shall be vested in a court of chancery, a supreme
+court, and courts of oyer and terminer and general gaol-delivery, in a court of common pleas, and
+in an orphans' court, registers' court, and a court of quarter-sessions of the peace for each county,
+in justices of the peace, and in such other courts as the legislature (two-thirds of all the members
+of each branch concurring) may, from time to time, establish.
+
+*** SEND ***
+*** SSTART 002.00 006.00 0 DE 1792 ***
+
+SEC. 2. The chancellor and the judges of the supreme court, and of the court of common pleas,
+shall hold their offices during good behavior; but, for any reasonable cause which shall not be a
+sufficient ground for an impeachment, the governor may, in his discretion, remove any of them,
+on the address of two-thirds of all the members of each branch of the legislature. They shall, at
+stated times, receive for their services adequate salaries, to be fixed by law, which shall not be
+diminished during their continuance in office, and shall be payable quarterly to their respective
+orders upon the treasurer, out of any moneys in the treasury; but they shall hold no other office of
+profit, nor receive any fees or perquisites, except such fees as shall be fixed by law for business
+to
+be done out of court.
+
+*** SEND ***
+*** SSTART 003.00 006.00 0 DE 1792 ***
+
+SEC. 3. The judges of the supreme court shall be not fewer than three, nor more than four, one of
+whom shall be chief-justice. There shall be a judge residing in each county. The jurisdiction of
+this
+court shall extend over the State. The judges shall, by virtue of their offices, be justices of oyer
+and terminer and general gaol-deliver in several counties. Any two of the judges may act as if all
+were present.
+
+*** SEND ***
+*** SSTART 004.00 006.00 0 DE 1792 ***
+
+SEC. 4. The judges of the court of common pleas shall be not fewer than three, nor more than
+four, one of whom shall be chief-justice. There shall be a judge residing in each county. The
+jurisdiction of this court shall extend over the State. Any two of the judges may act as if all were
+present.
+
+*** SEND ***
+*** SSTART 005.00 006.00 0 DE 1792 ***
+
+SEC. 5. The chancellor, or any judge of the supreme court, or of the court of common pleas, shall
+issue the writ of habeas corpus in vacation time, and out of term, when duly applied for, which
+shall be immediately obeyed.
+
+*** SEND ***
+*** SSTART 006.00 006.00 0 DE 1792 ***
+
+SEC. 6. Any judge of the supreme court, or of the court of common pleas, may, unless the
+legislature shall otherwise provide by law, out of court, take the acknowledgment of deeds; and
+the same being thereon certified, tinder his hand, such deed shall be recorded, and have the same
+effect, as if acknowledged in open court.
+
+*** SEND ***
+*** SSTART 007.00 006.00 0 DE 1792 ***
+
+SEC. 7. In civil causes, when pending, the supreme court and court of common pleas shall have
+the power, before judgment, of directing, upon such terms as they shall deem reasonable,
+amendments in pleadings and legal proceedings, so that by error in any of them the determination
+of causes, according to their real merits, shall not be hindered; and also of directing the
+examination of witnesses that are aged, very infirm, or going out of the State, upon
+interrogatories de bene esse, to be read in evidence in case of the death or departure of the
+witnesses before the trial, or inability by reason of age, sickness, bodily infirmity, or
+imprisonment
+then to attend; and also the power of attaining evidence from places not within the State.
+
+*** SEND ***
+*** SSTART 008.00 006.00 0 DE 1792 ***
+
+SEC. 8. Suits may originate in the supreme court or court of common pleas.
+
+*** SEND ***
+*** SSTART 009.00 006.00 0 DE 1792 ***
+
+SEC. 9. One judge of the supreme court, or of the court of common pleas, may, if the other
+judges come not, open and adjourn the court, and may also make the necessary rules preparatory,
+respectively, to the trial, or argument of causes.
+
+*** SEND ***
+*** SSTART 010.00 006.00 0 DE 1792 ***
+
+SEC. 10. At any time pending an action for debt or damages, the defendant may bring into court
+a
+sum of money for discharging the same, and the costs then accrued, and the plaintiff not
+accepting
+thereof, it shall be delivered for his use to the clerk or prothonotary of the court; and if upon the
+final decision of the cause, the plaintiff shall not recover a greater sum than that so paid into
+court
+for him, he shall not recover any costs accruing after such payment, except where the plaintiff is
+an executor or administrator.
+
+*** SEND ***
+*** SSTART 011.00 006.00 0 DE 1792 ***
+
+SEC. 11. By the death of any party, no suit in chancery or at law, where the cause of action
+survives, shall abate; but, until the legislature shall otherwise provide, suggestion of such death
+being entered of record, the executor or administrator of a deceased petitioner, or plaintiff, may
+prosecute the said suit; and if a respondent or defendant dies, the executor or administrator, being
+duly served with a scire facias, thirty days before the return thereof, shall be considered as a party
+to the suit, in the same manner as if he had voluntarily made himself a party; and in any of those
+cases the court shall pass a decree, or render judgment for or against executors or administrators
+as to right appertains. But where an executor or administrator of a deceased respondent or
+defendant becomes a party, the court, upon motion, shall grant such a continuance of the cause as
+to the judges shall appear proper.
+
+*** SEND ***
+*** SSTART 012.00 006.00 0 DE 1792 ***
+
+SEC. 12. Whenever a person, not being an executor or administrator, appeals from a decree of
+the chancellor, or applies for a writ of error, such appeal or writ shall be no stay of proceeding in
+the chancery, or the court to which the writ issues, unless the appellant or plaintiff in error shall
+give sufficient security, to be approved respectively by the chancellor, or by a judge of the court
+from which the writ issues, that the appellant or plaintiff in error shall prosecute respective his
+appeal or writ to effect, and pay the condemnation money and all costs, or otherwise abide the
+decree in appeal or the judgment in error, if he fail to make his plea good.
+
+*** SEND ***
+*** SSTART 013.00 006.00 0 DE 1792 ***
+
+SEC. 13. No writ of error shall be brought upon any judgment heretofore confessed, entered, or
+rendered, but within five years from this time; nor upon any judgment hereafter to be confessed,
+entered, or rendered, but within five years after the confessing, entering, or rendering thereof,
+unless the person entitled to such writ be an infant, feme-covert, non compos mentis, or a
+prisoner, and then within five years exclusive of the time of such disability.
+
+*** SEND ***
+*** SSTART 014.00 006.00 0 DE 1792 ***
+
+SEC. 14. The equity jurisdiction heretofore exercised by the judges of the court of common pleas
+shall be separated from the common-law jurisdiction, and vested in a chancellor, who shall hold
+courts of chancery in the several counties of this State. In cases of equity jurisdiction, where the
+chancellor is interested, the cognizance thereof shall belong to the court of common pleas, with
+an
+appeal to the high court of errors and appeals.
+
+*** SEND ***
+*** SSTART 015.00 006.00 0 DE 1792 ***
+
+SEC. 15. The judges of the court of common pleas or any two of them, shall compose the
+orphans' court of each county, and may exercise the equity jurisdiction heretofore exercised by
+the
+orphans' courts, except as to the adjusting and settling executors, administrators, and guardians'
+accounts; in which cases they shall have an appellate jurisdiction from the sentence or decree of
+the register. This court may issue process throughout the State to compel the attendance of
+witnesses. Appeals may be made from the orphans' court, in cases where that court has original
+jurisdiction, to the supreme court, whose decision shall be final.
+
+*** SEND ***
+*** SSTART 016.00 006.00 0 DE 1792 ***
+
+SEC. 16. An executor, administrator, or guardian shall file every account with the register for the
+county, who shall, as soon as conveniently may be, carefully examine the particulars, with the
+proofs thereof, in the presence of such executor, administrator, or guardian, and shall adjust and
+settle the same, according to the very right of the matter, and the law of the land; which account,
+so settled, shall remain in his office for inspection; and the executor, administrator, or guardian
+shall, within three months after such settlement, give due notice, in writing, to all persons entitled
+to shares of the estate, or to their guardians respectively if residing within the State, that the
+account is lodged in the said office for inspection; and the judges of the orphans' court shall hear
+the exceptions of any persons concerned, if any be made, and thereupon allow no demand
+whatever .against the estate of the deceased, unless, upon consideration of all circumstances, they
+shall be fully convinced that the same is there with justly chargeable.
+
+*** SEND ***
+*** SSTART 017.00 006.00 0 DE 1792 ***
+
+SEC. 17. The registers of the several counties shall respectively hold the register's court in each
+county. Upon the litigation of a cause, the depositions of the witnesses examined shall be taken at
+large in writing. and make part of the proceedings in the cause. This court may issue process
+throughout the State to compel the attendance of witnesses. Appeals may be made from a
+register's court to the supreme court, whose decision shall be final. In cases where a register is
+interested in questions concerning the probate of wills, the granting letters of administration, or
+executors, administrators, or guardians' accounts, the cognizance thereof shall belong to the
+orphans' court, with an appeal to the supreme court, whose decision shall be final.
+
+*** SEND ***
+*** SSTART 018.00 006.00 0 DE 1792 ***
+
+SEC. 18. The prothonotaries of the court of common pleas  may issue process as heretofore take
+recognizances on bail, and sign confessions of judgment; and the clerks of the supreme court
+shall
+have the like powers. No judgment in the supreme court or court of common pleas held for one
+county shall bind lands or tenements in another, until a testatum fieri facias, being issued, shall
+be
+entered of record in the office of the prothonotary of the county wherein the lands or tenements
+are situated.
+
+*** SEND ***
+*** SSTART 019.00 006.00 0 DE 1792 ***
+
+SEC. 19. The judges of the court of common pleas shall, by virtue of their offices, compose the
+courts of general quarter-sessions of the peace and gaol-delivery within the several counties. Any
+two of the said judges shall be a quorum.
+
+*** SEND ***
+*** SSTART 020.00 006.00 0 DE 1792 ***
+
+SEC. 20. The governor shall appoint a competent number of persons to the office of justice of the
+peace, not exceeding twelve in each county, until two-thirds of both houses of the legislature
+shall
+by law direct an addition to the number, who shall be commissioned for seven years, if so long
+they shall behave themselves well; but may be removed by the governor within that time on
+conviction of misbehavior in office, or on the address of both houses of the legislature.
+
+*** SEND ***
+*** SSTART 021.00 006.00 0 DE 1792 ***
+
+SEC. 21. The style in all process and public acts shall be, "The State of Delaware." Prosecutions
+shall be carried on in the name of the State, and shall conclude, "against the peace and dignity of
+the State."
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.00 DE 1792 ***
+
+                          ARTICLE VII
+
+*** SSTART 001.00 007.00 0 DE 1792 ***
+
+SECTION 1. There shall be a court styled "The high court of errors and appeals," which shall
+consist of the chancellor and of the judges of the supreme court and court of common pleas. Any
+four of the judges of this court may proceed on business, but any smaller number may open and
+adjourn the court. If any of them has rendered judgment or passed a decree in any cause before
+removal, he shall not sit judicially upon the hearing of the same in this court, but may assign the
+reasons upon which such judgment was rendered, or such decree passed. The chancellor shall
+preside, except when he cannot sit judicially; and in such cases, or in his absence, the
+chief-justice
+of the supreme court; but if he is so disqualified or absent, then the chief-justice of the court of
+common pleas shall preside; and if he is so disqualified or absent, then the next eldest judge,
+according to priority in date of commissions, if present, and not disqualified as aforesaid, shall
+preside. This court shall have power to issue writs of error to the supreme court, and to the court
+of common pleas, and to receive and determine appeals from interlocutory or final orders or
+decrees of the chancellor. Errors shall be assigned and causes of appeal exhibited in writing
+speedily, and citations duly served on adverse parties.
+
+*** SEND ***
+*** SSTART 002.00 007.00 0 DE 1792 ***
+
+SEC. 2. Upon the reversal of a judgment of the supreme court or of the court of common pleas,
+or a decree of the chancellor, this court shall respectively render such judgment or pass such
+decree as the supreme court, or the court of common pleas, or the chancellor ought to have
+rendered or passed, except where the reversal is in favor of the plaintiff or petitioner in the
+original suit, and the damages to be assessed, or the matters to be decreed, are uncertain; in any
+of
+which cases the cause shall be remanded, in order to a final decision.
+
+*** SEND ***
+*** SSTART 003.00 007.00 0 DE 1792 ***
+
+SEC. 3. The judges of this court may issue all process proper for bringing records fully before
+them, and for carrying their determinations into execution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.00 DE 1792 ***
+
+                          ARTICLE VIII
+
+*** SSTART 001.00 008.00 0 DE 1792 ***
+
+SECTION 1. The members of the senate and house of representatives, the chancellor, the judges
+of the supreme court and the court of common pleas, and the attorney-general, shall, by virtue of
+their offices, be conservators of the peace throughout the State; and the treasurer, secretary,
+clerks of the supreme court, prothonotaries, resistors, recorders, sheriffs, and coroners shall, by
+virtue of their offices, be conservators thereof within the counties respectively in which they
+reside.
+
+*** SEND ***
+*** SSTART 002.00 008.00 0 DE 1792 ***
+
+SEC. 2. The representative, and when there shall be more than one the representatives, of the
+people of this State in Congress, shall be voted for at the same places where representatives in
+the
+State legislature are voted for, and in the same manner.
+
+*** SEND ***
+*** SSTART 003.00 008.00 0 DE 1792 ***
+
+SEC. 3. The State treasurer shall be appointed annually by the house of representatives, with the
+concurrence of the Senate. No person who hath served in the office of State treasurer shall be
+eligible to a seat in either house of the legislature until he shall have made a final settlement of
+his
+accounts as treasurer, and discharged the balance, if any, thereon due.
+
+*** SEND ***
+*** SSTART 004.00 008.00 0 DE 1792 ***
+
+SEC. 4. Two persons for the office of sheriff, and two for the office of coroner, shall be chosen
+by
+the citizens residing in each county, and having right to vote for representatives, at the time and
+places of election of representatives, one of whom for each office respectively shall be appointed
+by the governor. They shall hold their offices for three years, if so long they shall behave
+themselves well, and until successors be duly qualified; but no person shall be twice appointed
+sheriff, upon election by the citizens, in any term of six years. The governor shall fill vacancies in
+these offices by new appointments, to continue unto the next general election, and until
+successors shall be chosen and duly qualified. The legislature, two-thirds of each branch
+concurring, may, when it shall be judged expedient, vest the appointment of sheriffs and coroners
+in the governor; but no person shall be twice appointed sheriff in any term of six years.
+
+*** SEND ***
+*** SSTART 005.00 008.00 0 DE 1792 ***
+
+SEC. 5. The attorney-general, clerks of the supreme court, prothonotaries, registers, clerks of the
+orphans' courts and of the peace, shall respectively be commissioned for five years, if so long
+they
+shall behave themselves well; but may be removed by the governor within that time, on
+conviction
+of misbehavior in office, or on the address of both houses of the legislature. Prothonotaries,
+clerks
+of the supreme court, of the orphans' courts, registers, recorders, and sheriffs, shall keep their
+offices in the town or place in each county in which the supreme court and the court of common
+pleas are usually held.
+
+*** SEND ***
+*** SSTART 006.00 008.00 0 DE 1792 ***
+
+SEC. 6. Attorneys at law, all inferior officers in the treasury department, election officers,
+officers
+relating to taxes, to the poor, and to highways, constables and hundred officers, shall be
+appointed
+in such manner as is or may be directed by law.
+
+*** SEND ***
+*** SSTART 007.00 008.00 0 DE 1792 ***
+
+SEC. 7. All salaries and fees annexed to offices shall be moderate; and no officer shall receive
+any
+fees whatever, without giving to the person who pays a receipt for them, if required, therein
+specifying every particular, and the charge for it.
+
+*** SEND ***
+*** SSTART 008.00 008.00 0 DE 1792 ***
+
+SEC. 8. No costs shall be paid by a person accused, on a bill being returned ignoramus; nor on
+acquittal by a jury unless a majority of the judges present at the trial certify that there was
+probable cause for the prosecution.
+
+*** SEND ***
+*** SSTART 009.00 008.00 0 DE 1792 ***
+
+SEC. 9. The rights, privileges, immunities, and estates of religious societies and corporate bodies
+shall remain as if the constitution of this State had not been altered. No clergyman or preacher of
+the gospel, of any denomination, shall be capable of holding any civil office in this State, or of
+being a member of either branch of the legislature, while he continues in the exercise of the
+pastoral or clerical functions.
+
+*** SEND ***
+*** SSTART 010.00 008.00 0 DE 1792 ***
+
+SEC. 10. All the laws of this State, existing at the time of making this constitution. and not
+inconsistent with it, shall remain in force, unless they shall be altered by future laws; and all
+actions and prosecutions now pending shall proceed as if this constitution had not been made.
+
+*** SEND ***
+*** SSTART 011.00 008.00 0 DE 1792 ***
+
+SEC. 11. This constitution shall be prefixed to every edition of the laws made by direction of the
+legislature.
+
+*** SEND ***
+*** SSTART 012.00 008.00 0 DE 1792 ***
+
+SEC. 12. The legislature shall, as soon as conveniently may be, provide by law for ascertaining
+what statutes and parts of statutes shall continue to be in force within this State; for reducing
+them, and all acts of the general assembly, into such order, and publishing them in such manner,
+that thereby the knowledge of them may be generally diffused; for choosing inspectors and
+judges
+of elections, and regulating the same, in such manner as shall most effectually guard the rights of
+the citizens entitled to vote; for better securing personal liberty, and easily and speedily
+redressing
+all wrongful restraints thereof; for more certainly obtaining returns of impartial juries; for
+dividing
+lands and tenements in sales by sheriffs, where they will bear a division, into as many parcels as
+may be, without spoiling the whole, and for advertising and making the sales, in such manner and
+at such times and places as may render them most beneficial to all persons concerned; and for
+establishing schools, and promoting arts and sciences.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.00 DE 1792 ***
+*** SSTART 001.00 009.00 0 DE 1792 ***
+
+                           ARTICLE IX
+
+Members of the general assembly, and all officers, executive and judicial, shall be bound, by oath
+or affirmation, to support the constitution of this State, and to perform the duties of their
+respective offices with fidelity.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.00 DE 1792 ***
+*** SSTART 001.00 010.00 0 DE 1792 ***
+
+                           ARTICLE X
+
+The general assembly, whenever two-thirds of each house shall deem it necessary, may, with the
+approbation of the governor, propose amendments to this constitution, and at least three, and not
+more than six months, before the next general election of representatives, duly publish them in
+print, for the consideration of the people; and, if three-fourths of each branch of the legislature
+shall, after such an election, and before another, ratify the said amendments, they shall be valid to
+all intents and purposes, as parts of this constitution. No convention shall be called but by the
+authority of the people; and an unexceptionable mode of making their sense known, will be for
+them, at a general election of representatives, to vote also, by ballot, for or against a convention,
+as they shall severally choose to do; and if, thereupon, it shall appear that a majority of all the
+citizens in the State, having right to vote for representatives, have voted for a convention, the
+general assembly shall, accordingly, at their next sessions, call a convention, to consist of at least
+as many members as there are in both houses of the legislature, to be chosen in the same manner,
+at the same places, and at the same time that representatives are by the citizens entitled to vote
+for
+representatives, on due notice given for one month, and to meet within three months after they
+shall be elected.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9003.0 DE 1792 ***
+*** SSTART 001.00 9003.0 0 DE 1792 ***
+
+                            SCHEDULE
+
+That no inconveniences may arise from the alterations of the constitution of this State, and in
+order to carry the same into complete operation, it is hereby declared and ordained-
+
+I. That the president, or, in case of his death, inability, or absence from the State, the speaker of
+the legislative council, at that time, and in case of his death, inability, or absence from the State,
+the speaker of the house of assembly, at that time, shall respectively, with the privy council,
+exercise the executive authority of this State until the third Tuesday in January next. If the death,
+inability, or, absence of the president shall happen after the first Thursday of next October, and
+before the first Tuesday in next January, then the executive authority shall devolve upon the
+person who was speaker of the council at the next preceding session of the general assembly; and
+in case of his death, inability, or absence, upon the person who was speaker of the house of
+assembly at the said next preceding session.
+
+*** SEND ***                  
+*** SSTART 002.00 9003.0 0 DE 1792 ***
+
+II. That all persons holding offices to which, under this constitution, appointments are to be made
+by the governor, shall continue in the exercise of the duties of their respective offices, until the
+first Tuesday of October, 1793, unless their commissions shall sooner expire by their own
+limitations, or the said offices shall become vacant by death or resignation, and no longer, unless
+reappointed and commissioned by the governor.
+
+*** SEND ***                  
+*** SSTART 003.00 9003.0 0 DE 1792 ***
+
+III. That justice shall be administered in the several counties of this State, until the period last
+mentioned, by the same justices, in the same courts, and in the same manner as heretofore.
+
+*** SEND ***                  
+*** SSTART 004.00 9003.0 0 DE 1792 ***
+
+IV. That the sheriffs elected at October next shall hold their respective commissions two years,
+and no longer, from that time, or until new sheriffs are elected and appointed - and such persons
+shall not be again eligible until the expiration of three years after their commissions cease.
+
+*** SEND ***                  
+*** SSTART 005.00 9003.0 0 DE 1792 ***
+
+V. That the elections of governor, senators, and representatives shall be conducted by the same
+persons and in the same manner as is prescribed by the election laws of this State concerning the
+election of members of the council and of the house of assembly; and the returns thereof shall be
+made respectively to the person exercising the executive authority, to the senate, and to the house
+of representatives.
+
+*** SEND ***                  
+*** SSTART 006.00 9003.0 0 DE 1792 ***
+
+VI. The first meeting of the legislature under this constitution shall be at the town of Dover.
+Done in convention the twelfth day of June, in the year of our Lord one thousand seven hundred
+and ninety-two, and of the Independence of the United States of America the sixteenth. In
+testimony whereof we have hereunto subscribed our names.
+
+                                  THOMAS MONTGOMERY, President.
+                                Attest: JAMES BOOTH, Secretary.
+
+*** SEND *** 
+*** AEND ***
+*** MSTART 001 015.00 006.00 0 DE 1792 1802 ***
+
+             AMENDMENT TO THE CONSTITUTION OF 1792.
+
+The chancellor shall compose the orphans' court of each county, and exercise the equity
+jurisdiction heretofore exercised by the orphans' court, except as to the adjusting and settling
+executors, administrators, and guardians' accounts, in which case he shall have an appellate
+jurisdiction from the sentence and decree of the register. This court may issue process throughout
+the State to compel the attendance of witnesses. Appeals may be made from the orphans' court, in
+cases where that court has original jurisdiction, to the supreme court, whose decision shall be
+final.
+
+[Passed February 5, 1802.]
+
+*** MEND ***
+*** CEND ***

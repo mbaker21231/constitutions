@@ -1,0 +1,1752 @@
+This is ready to go.
+
+JW 1.2.02
+                              
+
+
+*** CSTART NJ 11/4/1947 99/99/9999 ***
+
+Constitution of the State of New Jersey, as agreed upon at the General Election on Nov. 4, 1947
+
+*** ASTART 9001.0 NJ 1947 ***
+*** SSTART 001.0 9001.0 0 NJ 1947 ***
+
+We, the people of the State of New Jersey, grateful to Almighty God for the civil and religious
+liberty which He hath so long permitted us to enjoy, and looking to Him for a blessing upon our
+endeavors to secure and transmit the same unimpaired to succeeding generations, do ordain and
+establish this Constitution.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 001.0 NJ 1947 ***
+
+ARTICLE I
+
+*** SSTART 001.0 001.0 0 NJ 1947 ***
+
+1.  All persons are by nature free and independent and have certain natural and unalienable rights,
+among which are those of enjoying and defending life and liberty, of acquiring, possessing, and
+protecting property, and of pursuing and obtaining safety and happiness.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 NJ 1947 ***
+
+2.  All political power is inherent in the people. Government is instituted for the protection,
+security, and benefit of the people, and they have the right at all times to alter or reform the same,
+whenever the public good may require it.
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 NJ 1947 ***
+
+3.  No person shall be deprived of the inestimable privilege of worshipping Almighty God in a
+manner agreeable to the dictates of his own conscience; nor under any pretense whatever be
+compelled to attend any place of worship contrary to his faith and judgment; nor shall any person
+be obliged to pay tithes, taxes, or other rates for building or repairing any church or churches,
+place or places of worship, or for the maintenance of any minister or ministry, contrary to what he
+believes to be right, or has deliberately and voluntarily engaged to perform.
+
+*** SEND ***
+
+*** SSTART 004.0 001.0 0 NJ 1947 ***
+
+4.  There shall be no establishment of one religious sect in preference to another; no religious or
+racial test shall be required as a qualification for any office or public trust.
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 NJ 1947 ***
+
+5.  No person shall be denied the enjoyment of any civil or military right, nor be discriminated
+against in the exercise of any civil or military right, nor be segregated in the militia or in the public
+schools, because of religious principles, race, color, ancestry or national origin.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 NJ 1947 ***
+
+6.  Every person may freely speak, write and publish his sentiments on all subjects, being
+responsible for the abuse of that right. No law shall be passed to restrain or abridge the liberty of
+speech or of the press. In all prosecutions or indictments for libel, the truth may be given in
+evidence to the jury; and if it shall appear to the jury that the matter charged as libelous is true,
+and was published with good motives and for justifiable ends, the party shall be acquitted; and the
+jury shall have the right to determine the law and the fact.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 NJ 1947 ***
+
+7.  The right of the people to be secure in their persons, houses, papers, and effects, against
+unreasonable searches and seizures, shall not be violated; and no warrant shall issue except upon
+probable cause, supported by oath or affirmation, and particularly describing the place to be
+searched and the papers and things to be seized.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 NJ 1947 ***
+
+8.  No person shall be held to answer for a criminal offense, unless on the presentment or
+indictment of a grand jury, except in cases of impeachment, or in cases now prosecuted without
+indictment, or arising in the army or navy or in the militia, when in actual service in time of war or
+public danger.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 NJ 1947 ***
+
+9.  The right of trial by jury shall remain inviolate; but the Legislature may authorize the trial of
+civil causes by a jury of six persons when the matter in dispute does not exceed fifty dollars. The
+Legislature may provide that in any civil cause a verdict may be rendered by not less than five-
+sixths of the jury. The Legislature may authorize the trial of the issue of mental incompetency
+without a jury.
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 NJ 1947 ***
+
+10.  In all criminal prosecutions the accused shall have the right to a speedy and public trial by an
+impartial jury; to be informed Cf the nature and cause of the accusation; to be confronted with the
+witnesses against him; to have compulsory process for obtaining witnesses in his favor; and to
+have the assistance of counsel in his defense.       
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 NJ 1947 ***
+
+11.  No person shall, after acquittal, be tried for the same offense. All persons shall, before
+conviction, be bailable by sufficient sureties, except for capital offenses when the proof is evident
+or presumption great.
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 NJ 1947 ***
+
+12.   Excessive bail shall not be required, excessive fines shall not be imposed, and cruel and
+unusual punishments shall not be inflicted.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 NJ 1947 ***
+
+13.  No person shall be imprisoned for debt in any action, or on any judgment founded upon
+contract, unless in cases of fraud; nor shall any person be imprisoned for a militia fine in time of
+peace.
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 NJ 1947 ***
+
+14.  The privilege of the writ of habeas corpus shall not be suspended, unless in case of rebellion
+or invasion the public safety may require it.
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 NJ 1947 ***
+
+15.  The military shall be in strict subordination to the civil power.
+
+*** SEND ***
+
+*** SSTART 016.0 001.0 0 NJ 1947 ***
+
+16.  No soldier shall, in time of peace, be quartered In any house, without the consent of the
+owner; nor in time of war, except in a manner prescribed by law.
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 NJ 1947 ***
+
+17.  Treason against the State shall consist only in levying war against it, or in adhering to its
+enemies, giving them aid and comfort. No person shall be convicted of treason, unless on the
+testimony of two witnesses to the same overt act, or on confession in open court.
+
+*** SEND ***
+*** SSTART 018.0 001.0 0 NJ 1947 ***
+
+18.  The people have the right freely to assemble together, to consult for the common good, to
+make known their opinions to their representatives, and to petition for redress of grievances.
+
+*** SEND ***
+*** SSTART 019.0 001.0 0 NJ 1947 ***
+
+19.  Persons in private employment shall have the right to organize and bargain collectively.
+Persons in public employment shall have the right to organize, present to and make known to the
+State, or any of its political subdivisions or agencies, their grievances and proposals through
+representatives of their own choosing.
+
+*** SEND ***
+*** SSTART 020.0 001.0 0 NJ 1947 ***
+
+20.  Private property shall not be taken for public use without just compensation. Individuals or
+private corporations shall not be authorized to take private property for public use without just
+compensation first made to the owners.
+
+*** SEND ***
+***SSTART 021.0 001.0 NJ 1947 ***
+
+21.  This enumeration of rights and privileges shall not be construed impair or deny others
+retained by the people.
+         
+*** SEND ***         
+*** AEND ***
+
+*** ASTART 002.0 NJ 1947 ***
+
+ARTICLE II
+*** SSTART 001.0 002.0 0 NJ 1947 ***
+
+1.  General elections shall be held annually on the first Tuesday after the first Monday in
+November; but the time of holding such elections may be altered by law. The Governor and
+members of the Legislature shall be chosen at general elections. Local elective officers shall be
+chosen at general elections or at such other times as shall be provided by law.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 NJ 1947 ***
+
+2.  All questions submitted to the people of the entire State shall be voted upon at general
+elections. 
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 NJ 1947 ***
+
+3.  Every citizen of the United States, of the age of twenty-one years, who shall have been a
+resident of this State one year, and of the county in which he claims his vote five months, next
+before the election, shall, be entitled to vote for all officers that now are or hereafter may be
+elective by the people, and upon all questions which may be submitted to a vote of the people.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 NJ 1947 ***
+
+4.  In time of war no elector in the military service of the State or in the armed forces of the
+United States shall be deprived of his vote by reason of absence from his election district. The
+Legislature may provide for absentee voting by members of. the armed forces of the United States
+in time of peace. The Legislature may provide the manner in which and the time and place at
+which such absent electors may vote, and for the return and canvass of their votes in the election
+district in which they respectively reside.
+
+*** SEND ***
+*** SSTART 005.0 002.0 0 NJ 1947 ***
+
+5.  No person in the military, naval or marine service of the United States shall be considered a
+resident of this State, by being stationed in any garrison, barrack, or military or naval place or
+station within this State.
+
+*** SEND ***
+*** SSTART 006.0 002.0 0 NJ 1947 ***
+
+6.  No idiot or insane person shall enjoy the right of suffrage.
+
+*** SEND ***
+
+*** SSTART 007.0 002.0 0 NJ 1947 ***
+
+7.  The Legislature may pass laws to deprive persons of the right of suffrage who shall be
+convicted of such crimes as it may designate. Any person so deprived, when pardoned or
+otherwise restored by law to the right of suffrage, shall again enjoy that right.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 003.0 NJ 1947 ***
+         
+ARTICLE III
+
+*** SSTART 001.0 003.0 0 NJ 1947 ***
+          
+1.  The powers of the government shall be divided among three distinct branches, the legislative,
+executive, and judicial. No person or persons belonging to or constituting one branch shall
+exercise any of the powers properly belonging to either of the others, except as expressly
+provided in this Constitution. 
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 004.0 NJ 1947 ***
+
+
+
+*** SSTART 001.0 004.0 1 NJ 1947 ***
+
+1.  The legislative power shall be vested in a Senate and General Assembly.
+
+*** SEND ***
+*** SSTART 001.0 004.0 2 NJ 1947 ***
+
+2.  No person shall be a member of the Senate who shall not have attained the age of thirty years,
+and have been a citizen and resident of the State for four years, and of the county for which he
+shall be elected one year, next before his election. No person shall be a member of the General
+Assembly who shall not have attained the age of twenty-one years, and have been a citizen and
+resident of the State for two years, and of the county for which he shall be elected one year, next
+before his election.  No person shall be eligible for membership in the Legislature unless he be
+entitled to the right of suffrage.
+
+*** SEND ***
+
+
+*** SSTART 001.0 004.0 3 NJ 1947 ***
+
+3.  The Senate and General Assembly shall meet and organize separately at noon on the second
+Tuesday in January of each year, at which time the legislative year shall commence.
+
+*** SEND ***
+
+
+*** SSTART 001.0 004.0 4 NJ 1947 ***
+
+4.  Special sessions of the Legislature shall be called by the Governor upon petition of a majority
+of all the members of each house and may be called by the Governor whenever in his opinion the
+public interest shall require.
+
+*** SEND ***
+
+*** SSTART 002.0 004.0 1 NJ 1947 ***
+
+ARTICLE IV, SEC. 2
+                  
+1.  The Senate shall be composed of one Senator from each county, elected by the legally
+qualified voters of the county, for a term beginning at noon of the second Tuesday in January next
+following his election and ending at noon of the second Tuesday in January four years thereafter.
+
+*** SEND ***
+*** SSTART 002.0 004.0 2 NJ 1947 ***
+
+2.  The members of the Senate shall be elected in two classes so that, as nearly as may be, one-half
+of all the members shall be elected biennially.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 NJ 1947 ***         
+                  
+ART. IV, SEC. 3
+In 1966, a new paragraph 2 is added, and the following paragraph is given part number 1.
+
+1.  The General Assembly shall be composed of members elected biennially by the legally qualified
+voters of the counties, respectively, for terms beginning at noon of the second Tuesday in January
+next following their election and ending at noon of the second Tuesday in January two years
+hereafter. The members of the General Assembly shall be apportioned among the several counties
+as nearly as may be according to the number of their inhabitants, but each county shall at all times
+be entitled to one member and the whole number of members shall never exceed sixty. The
+present apportionment shall continue until the next census of the United States shall have been
+taken. Apportionment of the members of the General Assembly shall be made by the Legislature
+at the first session after the next and every subsequent census, and each apportionment when
+made shall remain unaltered until the following census shall have been taken.
+*** SEND ***         
+         
+
+*** SSTART 004.0 004.0 1 NJ 1947 ***
+
+ART. IV, SEC. 4
+         
+1.  Any vacancy in the Legislature occasioned by death, resignation or otherwise shall be filled by
+election for the unexpired term only, as may be provided by law. Each house shall direct a writ of
+election to fill any vacancy in its membership; but if the vacancy shall occur during a recess of the
+Legislature, the writ may be issued by the Governor, as may be provided by law.
+
+*** SEND ***
+*** SSTART 004.0 004.0 2 NJ 1947 ***
+
+2.  Each house shall be the judge of elections, returns and qualifications of its own members, and a
+majority of all its members shall constitute a quorum to do business; but a smaller number may
+adjourn from day to day, and may be authorized to compel the attendance of absent members, in
+such manner, and under such penalties, as each house may provide.
+
+*** SEND ***
+*** SSTART 004.0 004.0 3 NJ 1947 ***
+
+3. Each house shall choose its own officers, determine the rules of its proceedings, and punish its
+members for disorderly behavior. It may expel a member with the concurrence of two-thirds of all
+its members.
+
+*** SEND ***
+*** SSTART 004.0 004.0 4 NJ 1947 ***
+
+4.  Each house shall keep a journal of its proceedings, and from time to time publish the same.
+The yeas and nays of the members of either house on any question shall, on demand of one-fifth
+of those present, be entered on the journal.
+
+*** SEND ***
+*** SSTART 004.0 004.0 5 NJ 1947 ***
+
+5.  Neither house, during the session of the Legislature, shall, without the consent of the other,
+adjourn for more than three days, or to any other place than that in which the two houses shall be
+sitting.
+
+*** SEND ***
+*** SSTART 004.0 004.0 6 NJ 1947 ***
+
+6.  All bills and joint resolutions shall be read three times in each house before final passage. No
+bill or joint resolution shall be read a third time in either house until after the intervention of one
+full calendar day following the day of the second reading; but if either house shall resolve by vote
+of three-fourths of all its members, signified by yeas and nays entered on the journal, that a bill or
+joint resolution is an emergency measure, it may proceed forthwith from second to third reading.
+No bill or joint resolution shall pass, unless .there shall be a majority of all the members of each
+body personally present and agreeing thereto, and the yeas and nays of the members voting on
+such final passage shall be entered on the journal.
+
+*** SEND ***
+*** SSTART 004.0 004.0 7 NJ 1947 ***
+
+7.  Members of the Senate and General Assembly shall receive annually, during the term for which
+they shall have been elected and while they shall hold their office, such compensation as shall,
+from time to time, be fixed by law and no other allowance or emolument, directly or indirectly, for
+any purpose whatever. The President of the Senate and the Speaker of the General Assembly,
+each by virtue of his office, shall receive an additional allowance, equal to one-third of his
+compensation as a member.
+
+*** SEND ***
+*** SSTART 004.0 004.0 8 NJ 1947 ***
+
+8.  The compensation of members of the Senate and General Assembly shall be fixed at the first
+session of the Legislature held after this Constitution takes effect, and may be increased or
+decreased by law from time to time thereafter, but no increase or decrease shall be effective until
+the legislative year following the next general election for members of the General Assembly.
+
+*** SEND ***
+*** SSTART 004.0 004.0 9 NJ 1947 ***
+
+9.  Members of the Senate and General Assembly shall, in all cases except treason and high
+misdemeanor, be privileged from arrest during their attendance at the sitting of their ~respective
+houses, and in going to and returning from the same; and for any statement, speech or debate in
+either house or at any meeting of a legislative committee, they shall not be questioned in any other
+place.
+
+*** SEND ***
+ 
+
+
+*** SSTART 005.0 004.0 1 NJ 1947 ***
+
+ARTICLE IV, SEC. 5         
+
+1.  No member of the Senate or General Assembly, during the term for which he shall have been
+elected, shall be nominated, elected or appointed to any State civil office or position, of profit,
+which shall have been created by law, or the emoluments whereof shall have been increased by
+law, during such term. The provisions of this paragraph shall not prohibit the election of any
+person as Governor or as a member of the Senate or General Assembly.
+*** SEND ***
+
+*** SSTART 005.0 004.0 2 NJ 1947 ***
+
+2. The Legislature may appoint any commission, committee or other body whose main purpose is
+to aid or assist it in performing its functions. Members of the Legislature may be appointed to
+serve on any such body.
+
+*** SEND ***
+*** SSTART 005.0 004.0 3 NJ 1947 ***
+
+3.  If any member of the Legislature shall become a member of Congress or shall accept any
+Federal or State office or position, of profit, his seat shall thereupon become vacant.
+
+*** SEND ***
+*** SSTART 005.0 004.0 4 NJ 1947 ***
+
+4.  No member of Congress, no person holding any Federal or State office or position, of profit,
+and no judge of any court shall be entitled to a seat in the Legislature.
+
+*** SEND ***
+*** SSTART 005.0 004.0 5 NJ 1947 ***
+
+5.  Neither the Legislature nor either house thereof shall elect or appoint any executive,
+administrative or judicial officer except the State Auditor.
+
+*** SEND ***
+
+*** SSTART 006.0 004.0 1 NJ 1947 ***
+
+ARTICLE IV, SEC. 6
+         
+1.   All bills for raising revenue, shall originate in the General Assembly; but the Senate may
+propose or concur with amendments, as on other bills.
+
+*** SEND ***
+*** SSTART 006.0 004.0 2 NJ 1947 ***
+
+2.   The Legislature may enact general laws under which municipalities,  other than counties, may
+adopt zoning ordinances limiting and restricting to specified districts and regulating therein,
+buildings and structures, according to their construction, and the nature and extent of their use,
+and the nature and extent of the uses of land, and the exercise of such authority shall be deemed
+to be within the police power of the State. Such laws shall be subject to repeal or alteration by the
+Legislature.
+
+*** SEND ***
+
+*** SSTART 006.0 004.0 3 NJ 1947 ***
+
+3.   Any agency or political subdivision of the State or any agency of a political subdivision
+thereof, which may be empowered to take or otherwise acquire private property for any public
+highway, parkway, airport, place,  improvement, or use, may be authorized by law to take or
+otherwise acquire a fee simple absolute or any lesser interest, and may be authorized by law to
+take or otherwise acquire a fee simple absolute in, easements upon, or the benefit of restrictions
+upon, abutting property to preserve and protect the public highway, parkway, airport, place,
+improvement, or use; but such taking shall be with just compensation.
+ 
+*** SEND ***         
+                        
+ARTICLE IV, SEC. 7
+   
+1.  No divorce shall be granted by the Legislature.
+
+*** SSTART 007.0 004.0 1 NJ 1947 ***
+
+*** SEND ***
+*** SSTART 007.0 004.0 2 NJ 1947 ***
+
+2.  No gambling of any kind shall be authorized by the Legislature unless the specific kind,
+restrictions and control thereof have been heretofore submitted to, and authorized by a majority of
+the votes cast by, the people at a special election or shall hereafter be submitted to, and authorized
+by a majority of the votes cast thereon by, the legally qualified voters of the State voting at a
+general election.
+
+*** SEND ***
+*** SSTART 007.0 004.0 3 NJ 1947 ***
+
+3.  The Legislature shall not pass any bill of attainder, ex post facto law, or law impairing the
+obligation of contracts, or depriving a party of any remedy for enforcing a contract which existed
+when the contract was made.         
+
+*** SEND ***
+*** SSTART 007.0 004.0 4 NJ 1947 ***
+
+4.  To avoid improper influences which may result from intermixing in one and the same act such
+things as have no proper relation to each other, every law shall embrace but one object, and. that
+shall be expressed in the title.  This paragraph shall not invalidate any law adopting or enacting a
+compilation, consolidation, revision, or rearrangement of all or parts of the statutory law.
+
+*** SEND ***
+*** SSTART 007.0 004.0 5 NJ 1947 ***
+
+5.  No law shall be revived or amended by reference to its title only, but the act revived, or the
+section or sections amended, shall be inserted at length. No act shall be passed which shall provide
+that any existing law, or any part thereof, shall be made or deemed a part of the act or which shall
+enact that any existing law, or any part thereof, shall be applicable, except by inserting it in such
+act.
+
+*** SEND ***
+*** SSTART 007.0 004.0 6 NJ 1947 ***
+
+6.  The laws of this State shall begin in the following style: "Be it enacted by the Senate and
+General Assembly of the State of New Jersey".
+
+*** SEND ***
+*** SSTART 007.0 004.0 7 NJ 1947 ***
+
+7.  No general law shall embrace any provision of a private, special or local character.
+
+*** SEND ***
+*** SSTART 007.0 004.0 8 NJ 1947 ***
+
+8.  No private, special or local law shall be passed unless public notice of the intention to apply
+therefor, and of the general object thereof, shall have been previously given. Such notice shall be
+given at such time and in such manner and shall be so evidenced and the evidence thereof shall be
+so preserved as may be provided by law.
+
+*** SEND ***
+*** SSTART 007.0 004.0 9 NJ 1947 ***
+
+9.  The Legislature shall not pass any. private, special or local laws:
+     (1)     Authorizing The sale of any lands belonging in whole or in part to a minor or minors or
+other persons who may at the time be under any legal disability to act for themselves.
+     (2)     Changing the law of descent.
+     (3)     Providing for change of venue in civil or criminal causes.
+     (4)     Selecting, drawing, summoning or empaneling grand or petit jurors.
+     (5)     Creating, increasing or decreasing the emoluments, term or tenure rights of any public
+officers or employees.
+     (6)     Relating to taxation or exemption therefrom.
+     (7)     Providing for the management and control of free public schools.
+     (8)     Granting to any corporation, association or individual any exclusive privilege, immunity
+or franchise whatever.
+     (9)     Granting to any corporation, association or individual the right to lay down railroad
+tracks.
+     (10)    Laying out, opening, altering, constructing, maintaining and repairing roads or
+highways.
+     (11)    Vacating any road, town plot, street, alley or public grounds.
+     (12)    Appointing local officers or commissions to regulate municipal affairs.
+     (13)    Regulating the internal affairs of municipalities formed for local government and
+counties, except as otherwise in this Constitution provided.  The Legislature shall pass general
+laws providing for the cases enumerated in this paragraph, and for all other cases which, in its
+judgment, may be provided for by general laws. 
+     The Legislature shall pass no special act conferring corporate powers, but shall pass
+general laws under which corporations may be organized and corporate powers of every nature
+obtained, subject, nevertheless, to repeal or alteration at the will of the Legislature.
+
+*** SEND ***
+*** SSTART 007.0 004.0 10 NJ 1947 ***
+     
+10.    Upon petition by the governing body of any municipal corporation formed for local
+government, or of any county, and by vote of two-thirds of all the members of each house, the
+Legislature may pass private, special or local la vs regulating the internal affairs of the
+municipality or county. The petition shall be authorized in a manner to be prescribed by general
+law and shall specify the general nature of the law sought to be passed. Such law shall become
+operative only if it is adopted by ordinance of the governing body of the municipality or county or
+by vote of the legally qualified voters thereof. The Legislature shall prescribe in such law or by
+general law the method of adopting such law, and the manner in which the ordinance, of adoption
+may be enacted or the vote taken, as the case may be. 
+
+*** SEND ***
+*** SSTART 007.0 004.0 11 NJ 1947 ***
+                  
+11.    The provisions of this Constitution and of any law concerning municipal corporations
+formed for local government, or concerning counties, shall be liberally construed in their favor.
+The powers of counties and such municipal corporations shall include not only those granted in
+express terms but also those of necessary or fair implication, or incident to the powers expressly
+conferred, or essential thereto, and not inconsistent with or prohibited by this Constitution or by
+law.
+
+*** SEND ***         
+
+*** SSTART 008.0 004.0 1 NJ 1947 ***
+
+ARTICLE IV, SEC. 8
+
+1.     Members of the Legislature shall, before they enter on the duties of their respective offices,
+take and subscribe the following oath or affirmation: "I do solemnly swear (or affirm) that I will
+support the Constitution of the United States and the Constitution of the State of New Jersey, and
+that I will faithfully discharge the duties of Senator (or member of the General Assembly)
+according to the best of my ability". Members-elect of the Senate or General Assembly are
+empowered to administer said oath or affirmation to each other.
+*** SEND ***
+*** SSTART 008.0 004.0 2 NJ 1947 ***
+
+2.     Every officer of the Legislature shall, before he enters upon his duties, take and subscribe the
+following oath or affirmation: "I do solemnly promise and swear (or affirm) that I will faithfully,
+impartially and justly perform all the duties of the office of ________ to the best of my ability and
+understanding; that I will carefully preserve all records, papers, writings, or property entrusted to
+me for safe-keeping by virtue of my office, and make such disposition of the same as may be
+required by law".
+         
+*** SEND ***
+*** AEND ***         
+          
+ARTICLE V
+                         
+*** ASTART 005.0 NJ 1947 ***
+
+*** SSTART 001.0 005.0 1 NJ 1947 ***
+
+ARTICLE 5, SEC. 1
+         
+1.     The executive power shall be vested in a Governor.
+
+*** SEND ***
+*** SSTART 001.0 005.0 2 NJ 1947 ***
+
+2.     The Governor shall not be less than thirty years of age, and shall have been for twenty years
+at least a citizen of the United States, and a  resident of this State seven years next before his
+election, unless he shall have been absent during that time on the public business of the United
+States or of this State.
+
+*** SEND ***
+*** SSTART 001.0 005.0 3 NJ 1947 ***
+
+3.     No member of Congress or person holding any office or position, of profit, under this State
+or the United States shall be Governor. If the Governor or person administering the office of
+Governor shall accept any other office or position, of profit, under this State or the United States,
+his office of Governor shall thereby be vacated. No Governor shall be elected by the Legislature
+to any office during the term for which he shall have been elected Governor.
+
+*** SEND ***
+*** SSTART 001.0 005.0 4 NJ 1947 ***
+
+4.     The Governor shall be elected by the legally qualified voters of this State. The person
+receiving the greatest number of votes shall be the Governor; but if two or more shall be equal
+and greatest in votes, one of them shall be elected Governor by the vote of a majority of all the
+members of both houses in joint meeting at the regular legislative, session next following the
+election for Governor by the people. Contested elections for the office of Governor shall be
+determined in such manner as may be provided by law.
+
+*** SEND ***
+*** SSTART 001.0 005.0 5 NJ 1947 ***
+       
+5.     The term of office of the Governor shall be four years, beginning at noon of the third
+Tuesday in January next following his election, and ending at noon of the third Tuesday in January
+four years thereafter. No person who has been elected Governor for two successive terms,
+including an unexpired term, shall again be eligible for that office until the third Tuesday in
+January of the fourth year following the expiration of his second successive term.
+
+*** SEND ***
+*** SSTART 001.0 005.0 6 NJ 1947 ***
+
+6.     In the event of a vacancy in the office of Governor resulting from the death, resignation or
+removal of a Governor in office, or the death of a Governor-elect, or from any other cause, the
+functions, powers, duties and emoluments of the office shall devolve upon the President of the
+Senate, for the time being; and in the event of his death, resignation or removal, then upon the
+Speaker of the General Assembly, for the time being; and in the event of his death, resignation or
+removal, then upon such officers and in such order of succession as may be provided by law; until
+a new Governor shall be elected and qualify.
+
+*** SEND ***
+*** SSTART 001.0 005.0 7 NJ 1947 ***
+
+7.     In the event of the failure of the Governor-elect to qualify, or of the absence from the State
+of a Governor in office, or his inability to discharge the duties of his office, or Ms impeachment,
+the functions, powers, duties and emoluments to the office shall devolve upon the President of the
+Senate, for the time being; and in the event of his death, resignation, removal, absence; inability or
+impeachment, then upon the Speaker of the General Assembly, for the time being; and in the
+event of his death, resignation, removal, absence, inability or impeachment, then upon such
+officers and in such order of succession as may be provided by law; until the Governor-elect shall
+qualify, or the Governor in office shall return to the State, or shall no longer be unable to
+discharge the duties of the office, or shall be acquitted, as the case may he, or until a new
+Governor shall be elected and qualify.
+
+*** SEND ***
+*** SSTART 001.0 005.0 8 NJ 1947 ***
+
+8.     Whenever a Governor-elect shall have failed to qualify within six months after the beginning
+of his term of office, or whenever for a period of six months a Governor in office, or person
+administering the office, shall have remained continuously absent from the State, or shall have
+been continuously unable to discharge the duties of his office by reason of mental or physical
+disability, the office shall be deemed vacant. Such vacancy shall be determined by the Supreme
+Court upon presentment to it of a concurrent resolution declaring the ground of the vacancy,
+adopted by a vote of two-thirds of all the members of each house of the Legislature, and upon
+notice, hearing before the Court and proof of the existence of the vacancy.
+
+*** SEND ***
+*** SSTART 001.0 005.0 9 NJ 1947 ***
+
+9.     In the event of a vacancy in the office of Governor, a Governor shall be elected to fill the
+unexpired term at the general election' next succeeding the. vacancy, unless the vacancy shall
+occur within sixty days immediately preceding a general election, in which case he shall be elected
+at the second succeeding general election; but no election to fill an unexpired term shall be held in
+any year in which a Governor is to be elected for a full term. A Governor elected for an unexpired
+term shall assume his office immediately upon his election.
+
+*** SEND ***
+*** SSTART 001.0 005.0 10 NJ 1947 ***
+
+10.    The Governor shall receive for his services a salary, which shall be  neither increased nor
+diminished during the period for which he shall have been elected.
+
+*** SEND ***
+*** SSTART 001.0 005.0 11 NJ 1947 ***
+
+11.     The Governor shall take care that the laws be faithfully executed. To this end he shall have
+power, by appropriate action or proceeding in the courts brought in the name of the State, to
+enforce compliance with any constitutional or legislative mandate, or to restrain violation of any
+constitutional or legislative power or duty, by any officer, department or agency of the State; but
+this power shall not be construed to authorize any action or proceeding against the Legislature.
+
+*** SEND ***
+*** SSTART 001.0 005.0 12 NJ 1947 ***
+
+12.     The Governor shall communicate to the Legislature, by message at the opening of each
+regular session and at such other times as he may deem necessary, the condition of the State, and
+shall in like manner recommend such measures as he may deem desirable. He may convene the
+Legislature, or the Senate alone, whenever in his opinion the public interest shall require.  He shall
+be the Commander-in-Chief of all the military and naval forces of the State. He shall grant
+commissions to all officers elected or appointed pursuant to this Constitution. He shall nominate
+and appoint, with the advice and consent of the Senate, all officers for whose election or
+appointment provision is not otherwise made by this Constitution or by law.
+
+*** SEND ***
+
+
+
+*** SSTART 001.0 005.0 13 NJ 1947 ***
+
+13.     The Governor may fill any vacancy occurring in any office during a recess of the
+Legislature, appointment to which may be made by the Governor with the advice and consent of
+the Senate, or by the Legislature in joint meeting. An ad interim appointment so made shall expire
+at the end of the next regular session of the Senate, unless a successor shall be sooner appointed
+and qualify; and after the end of the session no ad interim appointment to the same office shall be
+made unless the Governor shall have submitted to the Senate a nomination to the office during the
+session and the Senate shall have adjourned without confirming or rejecting it.  No person
+nominated for any office shall be eligible for an ad interim appointment to such office if the
+nomination shall have failed of confirmation by the Senate.
+
+*** SEND ***
+*** SSTART 001.0 005.0 14 NJ 1947 ***
+
+14.     (a) Every bill which shall have passed both houses shall be presented to the Governor. If he
+approves he shall sign it, but if not he shall return it, with his objections, to the house in which it
+shall have originated, which shall enter the objections at large on its journal and proceed to
+reconsider it. If upon reconsideration, on or after the third day following, the return of the bill,
+two-thirds of all the members of the house of origin shall agree to pass the bill, it shall be sent,
+together with the objections of the Governor, to the other house, by which it shall be reconsidered
+and if approved by two-thirds of all the members of that house, it shall become a law; and in all
+such cases the votes of each house shall be determined by yeas and nays, and the names of the
+persons voting for and against the bill shall be entered on the journal of each house respectively.,
+If a bill shall not be returned by the Governor within ten days, Sundays excepted, after it shall
+have been presented to him, the same shall become a law on the tenth day, unless the house of
+origin shall on that day be in adjournment. If on the tenth day the house of origin shall be in
+temporary adjournment in the course of a regular or special session, the bill shall become a law on
+the day on which the house of origin shall reconvene, unless the Governor shall on -that day
+return the bill to that house.
+      (b)    If on the tenth day the Legislature is in adjournment sine die, the bill shall become a law
+if the Governor shall sign it within forty-five days, Sundays excepted, after such adjournment. On
+the said forty-fifth day the bill shall become a law, notwithstanding the failure of the Governor to
+sign it within the period last stated, unless at or before noon of that day he shall return it with his
+objections to the house of origin at a special session of the Legislature which shall convene on
+that day, without petition or call, for the sole purpose of acting pursuant to this paragraph upon
+bills returned by the Governor. At such special session a bill may be reconsidered beginning on the
+first day, in the manner provided in this paragraph for the reconsideration of bills, and if approved
+upon reconsideration by two-thirds of all the members of each house, it shall become a law. The
+Governor, in returning with his objections a bill for reconsideration at any general or special
+session of the Legislature, may recommend that an amendment or amendments specified by him
+be made in the bill, and in such case the Legislature may amend and re-enact the bill. If a bill be so
+amended and re-enacted, it shall be presented again to the Governor, but shall become a law only
+if he shall sign it within ten days after presentation; and no bill shall be returned by the Governor a
+second time. A special session of the Legislature shall not be convened pursuant to this paragraph
+whenever the forty-fifth day, Sundays excepted, after adjournment sine die of a regular or special
+session shall fall on or after the last day of the legislative year in which such adjournment shall
+have been taken; in which event any bill not signed by the Governor within such forty-five-day
+period shall not become a law.
+
+*** SEND ***
+*** SSTART 001.0 005.0 15 NJ 1947 ***
+
+15.    If any bill presented to the Governor shall contain one or more items of appropriation of
+money, he may object in whole or in part to any such item or items while approving the other
+portions of the bill. In such case he shall append to the bill, at the time of signing it, a statement of 
+each item or part thereof to which he objects, and each item or part so objected to shall not take
+effect. A copy of such statement shall be transmitted by him to the house in which the bill
+originated, and each item or part thereof objected to shall be separately reconsidered. If upon
+reconsideration, on or after the third day following said transmittal, one or more of such items or
+parts thereof be approved by two-thirds of all the members of each house, the same shall become
+a part of the law, notwithstanding the objections of the Governor. All the provisions of the
+preceding paragraph in relation to bills not approved by the Governor shall apply to cases in
+which he shall withhold his approval from any item or items or parts thereof contained in a bill
+appropriating money.                 
+
+*** SEND ***
+         
+*** SSTART 002.0 005.0 1 NJ 1947 ***
+
+ARTICLE V, SEC. 2
+
+1.     The Governor may grant pardons and reprieves in all cases other than impeachment and
+treason, and may suspend and remit fines and forfeitures. A commission or other body may be
+established by law to aid and advise the Governor in the exercise of executive clemency.
+
+*** SEND ***
+*** SSTART 002.0 005.0 2 NJ 1947 ***
+
+2. A system for the granting of parole shall be provided by law.
+         
+*** SEND ***
+
+*** SSTART 003.0 005.0 1 NJ 1947 ***
+         
+ARTICLE V, SEC. 3
+
+1.     Provision for organizing, inducting, training, arming, disciplining and regulating a militia
+shall be made by law, which shall conform to applicable standards establishes for the armed forces
+of the United States. 
+
+*** SEND ***
+*** SSTART 003.0 005.0 2 NJ 1947 ***
+    
+2.    The Governor shall nominate and appoint all general and flag officers of the militia, with the
+advice and consent of the Senate. All other commissioned officers of the militia shall be appointed
+and commissioned by the Governor according to law.
+
+*** SEND ***         
+
+*** SSTART 004.0 005.0 1 NJ 1947 ***         
+                       
+ARTICLE V, SEC. 4
+
+1.     All executive and administrative offices, departments, and instrumentalities of the State
+government, including the offices of Secretary of State and Attorney General, and their respective
+functions, powers and duties, shall be allocated by law among and within not more than twenty
+principal departments, in such manner as to group the same according to major purposes so far as
+practicable. Temporary commissions for special purposes may, however, be established by law
+and such commissions need not be allocated within a principal department.
+
+*** SEND ***
+*** SSTART 004.0 005.0 2 NJ 1947 ***
+
+2.    Each principal department shall be under the supervision of the Governor. The head of each
+principal department shall be a single executive unless otherwise provided by law. Such single
+executives shall be nominated and appointed by the Governor, with the advice and consent of the
+Senate, to serve at the pleasure of the Governor during his term of office and until the
+appointment and qualification of their successors, except as herein otherwise provided with
+respect to the Secretary of State and the Attorney General.
+
+*** SEND ***
+*** SSTART 004.0 005.0 3 NJ 1947 ***
+
+3.     The Secretary of State and the Attorney General shall be nominated and appointed by the
+Governor with the advice and consent of the Senate to serve during the term of office of the
+Governor.
+
+*** SEND ***
+*** SSTART 004.0 005.0 4 NJ 1947 ***
+
+4.     Whenever a board, commission or other body shall be the head of a principal department, the
+members thereof shall be nominated and appointed by the Governor with the advice and consent
+of the Senate, and may be removed in the manner provided by law. Such a board, commission or
+other body may appoint a principal executive officer when authorized by law, but the appointment
+shall be subject to the approval of the Governor. Any principal executive officer so appointed
+shall be removable by the Governor, upon notice and an opportunity to be heard.
+
+*** SEND ***
+*** SSTART 004.0 005.0 5 NJ 1947 ***
+
+5.     The Governor may cause an investigation to be made of the conduct in office of any officer
+or employee who receives his compensation from the State of New Jersey, except a member,
+officer or employee of the Legislature or an officer elected by the Senate and General Assembly in
+joint meeting, or a judicial officer, lie may require such officers or employees to submit to him a
+written statement or statements, under oath, of such information as he may call for relating to the
+conduct of their respective offices or employments. After notice, the service of charges and an
+opportunity to be heard at public hearing the Governor may remove any such officer or employee
+for cause. Such officer or employee shall have the right of judicial review, on both the law and
+.the facts, in such manner as shall be provided by law.
+
+*** SEND ***
+*** SSTART 004.0 005.0 6 NJ 1947 ***
+
+6.     No rule or regulation made by any department, officer, agency or authority of this State,
+except such as relates to the organization or internal management of the State government or a
+part thereof, shall take effect until it is filed either with the Secretary of State or in such other
+manner as may be provided by law. The Legislature shall provide for the prompt publication of
+such rules and regulations.
+         
+*** SEND ***
+*** AEND ***
+
+*** ASTART 006.0 NJ 1947 ***                        
+
+
+         
+*** SSTART 001.0 006.0 0 NJ 1947 ***
+ARTICLE VI, SEC. 1
+
+1.     The judicial power shall be vested in a Supreme Court, a Superior Court, County Courts and
+inferior courts of limited jurisdiction. The inferior courts and their jurisdiction may from time to
+time be established, altered or abolished by law.
+
+*** SEND ***         
+         
+
+
+*** SSTART 002.0 006.0 1 NJ 1947 ***
+ARTICLE VI, SEC. 2
+
+1.     The Supreme Court shall consist of a Chief Justice and six Associate Justices. Five members
+of the court shall constitute a quorum. When necessary, the Chief Justice shall assign the Judge or
+Judges of the Superior Court, senior in service, as provided by rules of the Supreme Court, to
+serve temporarily in the Supreme Court. In case the Chief Justice is absent or unable to serve, a
+presiding Justice designated in accordance with rules of the Supreme Court shall serve
+temporarily in his stead.
+
+*** SEND ***
+*** SSTART 002.0 006.0 2 NJ 1947 ***
+
+2.     The Supreme Court shall exercise appellate jurisdiction in the last resort in all causes
+provided in this Constitution.
+
+*** SEND ***
+*** SSTART 002.0 006.0 3 NJ 1947 ***
+
+3.     The Supreme Court shall make rules governing the administration of all courts in the State
+and, subject to the law, the practice and procedure in all such courts. The Supreme Court shall
+have jurisdiction over the admission to the practice of law and the discipline of persons admitted.
+                  
+*** SEND ***
+         
+*** SSTART 003.0 006.0 1 NJ 1947 ***
+  
+ARTICLE VI, SEC. 3
+
+1.     The Superior Court shall consist of such number of Judges as may be authorized by law, but
+not less than twenty-four, each of whom shall exercise the powers of the court subject to rules of
+the Supreme Court.
+
+*** SEND ***
+*** SSTART 003.0 006.0 2 NJ 1947 ***
+
+2.     The Superior Court shall have original general jurisdiction throughout the State in all causes.
+
+*** SEND ***
+*** SSTART 003.0 006.0 3 NJ 1947 ***
+
+3.     The Superior Court shall be divided into an Appellate Division, a Law Division, and a
+Chancery Division. Each division shall have such Parts, consist of such number of Judges, and
+hear such causes, as may be provided by rules of the Supreme Court.
+
+*** SEND ***
+*** SSTART 003.0 006.0 4 NJ 1947 ***
+
+4.     Subject to rules of the Supreme Court, the Law Division and the Chancery Division shall
+each exercise the powers and functions of the other division when the ends of justice so require,
+and legal and equitable relief shall be granted in any cause so that all matters in controversy
+between the parties may be completely determined.
+
+*** SEND ***
+
+*** SSTART 004.0 006.0 1 NJ 1947 ***
+
+ARTICLE VI, SEC. 4
+         
+1.     There shall be a County Court in each county, which shall have all the jurisdiction heretofore
+exercised by the Court of Common Pleas, Orphans' Court, Court of Oyer and Terminer, Court of
+Quarter Sessions, Court of Special Sessions and such other jurisdiction consistent with this
+Constitution as may be conferred by law.
+
+*** SEND ***
+*** SSTART 004.0 006.0 2 NJ 1947 ***
+
+2.     There shall be a Judge of each County Court and such additional Judges as shall be provided
+by law, and they shall be appointed in the same manner as heretofore provided for Judges of the
+Court of Common Pleas.
+
+*** SEND ***
+*** SSTART 004.0 006.0 3 NJ 1947 ***
+
+3.     Each Judge of the County Court may exercise the jurisdiction of the County Court.
+
+*** SEND *** 
+*** SSTART 004.0 006.0 4 NJ 1947 ***
+
+4.     The jurisdiction, powers and functions of the County Courts and of the Judges of the County
+Courts may be altered by law as the public good may require.
+
+*** SEND ***
+*** SSTART 004.0 006.0 5 1947 ***
+
+5. The County Courts, in civil causes including probate causes, within their jurisdiction, and
+subject to law, may grant legal and equitable relief so that all matters in controversy between the
+parties may be completely determined.
+                                     
+*** SEND ***
+
+
+
+*** SSTART 005.0 006.0 1 NJ 1947 ***
+
+ARTICLE VI, SEC. 5
+
+1.     Appeals may be taken to the Supreme Court:
+        (a) In causes determined by the Appellate Division of the Superior Court involving a
+question arising under the Constitution of the United States or this State;
+        (b)     In causes where there is a dissent in the Appellate Division of the Superior Court;
+        (c) In capital causes;
+        (d)     On certification by the Supreme Court to the Superior Court and, where provided by
+rules of the Supreme Court, to the County Courts and the inferior courts; and
+        (e)     In such causes as may be provided by law.
+
+*** SEND ***
+*** SSTART 005.0 006.0 2 NJ 1947 ***
+                  
+2.    Appeals may be taken to the Appellate Division of the Superior Court from the Law and
+Chancery Divisions of the Superior Court, the County Courts and in such other causes as may be
+provided by law.
+
+*** SEND ***
+*** SSTART 005.0 006.0 3 NJ 1947 ***
+
+3.    The Supreme Court and the Appellate Division of the Superior Court may exercise such
+original jurisdiction as may be necessary to the complete determination of any cause on review. 
+
+*** SEND ***
+*** SSTART 005.0 006.0 4 NJ 1947 ***
+
+4.    Prerogative writs are superseded and, in lieu thereof, review, hearing and relief shall be
+afforded in the Superior Court, on terms and in the manner provided by rules of the Supreme
+Court, as of right, except in criminal causes where such review shall be discretionary.
+      
+*** SEND ***
+
+*** SSTART 006.0 006.0 1 NJ 1947 ***
+
+ARTICLE VI,  SEC. 6
+
+1.    The Governor shall nominate and appoint, with the advice and consent of the Senate, the
+Chief Justice and Associate Justices of the Supreme Court, the judges of the Superior Court, the
+Judges of the County Courts and the judges of the inferior courts with jurisdiction extending to
+more than one municipality. No nomination to such an office shall be sent to the Senate for
+confirmation until after seven days' public notice by the Governor.
+*** SEND ***
+*** SSTART 006.0 006.0 2 NJ 1947 ***
+
+2.    The Justices of the Supreme Court, the Judges of the Superior Court and the Judges of the
+County Courts shall each prior to his appointment have been admitted to the practice of the law in
+this State for at least ten years.
+
+*** SEND ***
+*** SSTART 006.0 006.0 3 NJ 1947 ***
+
+3.    The Justices of the Supreme Court and the Judges of the Superior Court shall hold their
+offices for initial terms of seven years and upon reappointment shall hold their offices during good
+behavior. Such Justices and Judges shall be retired upon attaining the age of seventy years.
+Provisions for the pensioning of the Justices of the Supreme court and the Judges of the Superior
+Court shall be made by law.
+
+*** SEND ***
+*** SSTART 006.0 006.0 4 NJ 1947 ***
+
+4.    The Justices of the Supreme Court, the Judges of the Superior Court and the Judges of the
+County Courts shall be subject to impeachment, and any judicial officer impeached shall not
+exercise his office until acquitted. The Judges of the Superior Court and the Judges of the County
+Courts shall also be subject to removal from office by the Supreme Court for such causes and in
+such manner as shall be provided by law.
+
+*** SSTART 006.0 006.0 5 NJ 1947 ***
+*** SEND ***
+
+5.    Whenever the Supreme Court shall certify to the Governor that it appears that any Justice of
+the Supreme Court, Judge of the Superior Court or Judge of the County Court is so incapacitated
+as substantially to prevent him from performing his judicial duties, the Governor shall appoint a
+commission of three persons to inquire into the circumstances; and, on their recommendation, the
+Governor may retire the Justice or Judge from office, on pension as may be provided by law.
+
+*** SSTART 006.0 006.0 6 NJ 1947 ***
+
+6.    The Justices of the Supreme Court and the Judges of the Superior Court shall receive for
+their services such salaries as may be provided by law, which shall not be diminished during the
+term of their appointment.  They shall not, while in office, engage in the practice of law or other
+gainful pursuit.
+
+*** SEND ***
+*** SSTART 006.0 006.0 7 NJ 1947 ***
+
+7.     The Justices of the Supreme Court, the Judges Of the Superior Court and the Judges of the
+County Courts shall hold no other office or position, of profit, under this State or the United
+States. Any such Justice or Judge who shall become a candidate for an elective public office shall
+thereby forfeit his judicial office.
+
+*** SEND ***         
+ 
+*** SSTART 007.0 006.0 1 NJ 1947 ***
+         
+ARTICLE VI, SEC. 7
+        
+1.     The Chief Justice of the Supreme Court shall be the administrative head of all the courts in
+the State. He shall appoint an Administrative Director to serve at his pleasure.
+
+*** SEND ***
+*** SSTART 007.0 006.0 2 NJ 1947 ***
+
+2.     The Chief Justice of the Supreme Court shall assign Judges of the Superior Court to the
+Divisions and Parts of the Superior Court, and may from time to time transfer Judges from one
+assignment to another, as need appears. Assignments to the Appellate Division shall be for terms
+fixed by rules of the Supreme Court.
+
+*** SEND ***
+*** SSTART 007.0 006.0 3 NJ 1947 ***
+
+3.     The Clerk of the Supreme Court and the Clerk of the Superior Court shall be appointed by
+the Supreme Court for such terms and at such compensation as shall be provided by law.
+         
+*** SEND ***
+*** AEND ***
+
+*** ASTART 007.0 NJ 1947 ***
+
+ARTICLE VII, SEC. 1
+         
+*** SSTART 001.0 007.0 1 NJ 1947 ***
+
+1.     Every State officer, before entering upon the duties of his office, shall take and subscribe an
+oath or affirmation to support the Constitution of this State and of the United States and to
+perform the duties of his office faithfully, impartially and justly to the best of his ability.
+
+*** SEND ***
+*** SSTART 001.0 007.0 2 NJ 1947 ***
+
+2.     Appointments and promotions in the civil service of the State, and of such political
+subdivisions as may be provided by law, shall be made according to merit and fitness to be
+ascertained, as far as practicable, by examination, which, as far as practicable, shall be
+competitive; except that preference in appointments by reason of active service in any branch of
+the military or naval forces of the United States in time of war may be provided by law.
+
+*** SEND ***
+*** SSTART 001.0 007.0 3 NJ 1947 ***
+         
+3.     Any compensation for services or any fees received by any person by virtue of an appointive
+State office or position, in addition to the annual salary provided for the office or position, shall
+immediately upon receipt be paid into the treasury of the State, unless the compensation or fees
+shall be allowed or appropriated to him by law.
+
+*** SEND ***
+*** SSTART 001.0 007.0 4 NJ 1947 ***
+
+4.     Any person before or after entering upon the duties of any public office, position or
+employment in this State may be required to give bond as may be provided by law.
+
+*** SEND ***
+*** SSTART 001.0 007.0 5 NJ 1947 ***
+
+5.     The term of office of all officers elected or appointed pursuant to the provisions of this
+Constitution, except as herein otherwise provided, shall commence on the day of the date of their
+respective commissions; but no commission for any office shall bear date prior to the expiration of
+the term of the incumbent of said office.
+
+*** SEND ***
+*** SSTART 001.0 007.0 6 NJ 1947 ***
+
+6.     The State Auditor shall be appointed by the Senate and General Assembly in joint meeting
+for a term of five years and until his successor shall be appointed and qualified. It shall be his duty
+to conduct post-audits of all transactions, and accounts kept by or for all departments, offices and
+agencies of the State government, to report to the Legislature or to any committee thereof as shall
+be required by law, and to perform such other similar or related duties as shall, from time to time,
+be required of him by law.
+
+*** SEND ***
+
+*** SSTART 002.0 007.0 1 NJ 1947 ***
+
+ARTICLE VII, SEC. 2
+
+1.     County prosecutors shall be nominated and appointed by the Governor, with the advice and
+consent of the Senate. Their term of office shall be five years, and they shall serve until the
+appointment and qualification of their respective successors.
+*** SEND ***
+*** SSTART 002.0 007.0 2 NJ 1947 ***
+
+2.     County clerks, surrogates and sheriffs shall be elected by the people of their respective
+counties at general elections. The term of office of county clerks and surrogates shall be five
+years, and of sheriffs three years. Whenever a vacancy stall occur in any such office it shall be
+filled in the manner to be provided by law.
+         
+*** SEND ***
+
+ARTICLE VII, SEC. 3
+         
+*** SSTART 003.0 007.0 1 NJ 1947 ***
+
+1.     The Governor and all other State officers, while in office and for two years thereafter, shall
+be liable to impeachment for misdemeanor committed during their respective continuance in
+office.
+
+*** SEND ***
+*** SSTART 003.0 007.0 2 NJ 1947 ***
+
+2.     The General Assembly shall have the sole power of impeachment by vote of a majority of all
+the members. All impeachments shall be tried by the Senate, and members, when sitting for that
+purpose, shall be on oath or affirmation "truly and impartially to try and determine the charge in
+question according to the evidence". No person shall be convicted without the concurrence of
+two-thirds of all the members of the Senate. When the Governor is tried, the Chief Justice of the
+Supreme Court shall preside and the President of the Senate shall not participate in the trial.
+
+*** SEND ***
+*** SSTART 003.0 007.0 3 NJ 1947 ***
+
+3.     Judgment in cases of impeachment shall not extend further than to removal from office, and
+to disqualification to hold and enjoy any public office of honor, profit or trust in this State; but the
+person convicted shall nevertheless be liable to indictment, trial and punishment according to law.
+                  
+*** SEND ***
+*** AEND ***
+
+*** ASTART 008.0 NJ 1947 ***
+
+ARTICLE VIII, SEC. 1
+
+*** SSTART 001.0 008.0 1 NJ 1947 ***
+         
+1.     Property shall be assessed for taxation under general laws and by uniform rules. All real
+property assessed and taxed locally or by the State for allotment and payment to taxing districts
+shall be assessed according to the same standard of value; and such real property shall be taxed at
+the general tax rate of the taxing district in which the property is situated, for the use of such
+taxing district.
+
+*** SEND ***
+*** SSTART 001.0 008.0 2 NJ 1947 ***
+
+2.     Exemption from taxation may be granted only by general laws. Until otherwise provided by
+law all exemptions from taxation validly granted and now in existence shall be continued.
+Exemptions from taxation may be altered or repealed, except those exempting real and personal
+property used exclusively for religious, educational, charitable or cemetery purposes as defined by
+law, and owned by any corporation or association organized and conducted exclusively for- one
+or more of such purposes and not operating for profit.
+
+*** SEND ***
+*** SSTART 001.0 008.0 3 NJ 1947 ***
+
+3.     Any citizen and resident of this State now or hereafter honorably discharged or released
+under honorable circumstances from active service in time of war in any branch of the armed
+forces of the United States, shall be exempt from taxation on real and personal property to an
+aggregate assessed valuation not exceeding five hundred dollars, which exemption shall not be
+altered or repealed. Any person hereinabove described who has been or shall be declared by the
+United States Veterans Administration, or its successor, to have a service-connected disability,
+shall be entitled to such further exemption from taxation as from time to time may be provided by
+law. The widow of any citizen and resident of this State who has met or shall meet his death on
+active duty in time of war in any such service shall be entitled, during her widowhood, to the
+exemption in this paragraph provided for honorably discharged veterans and to such further
+exemption as from time to time may be provided by law.
+         
+*** SEND ***
+
+*** SSTART 002.0 008.0 1 NJ 1947 ***
+
+ARTICLE VIII, SEC. 2
+         
+1.     The credit of the State shall not be directly or indirectly loaned in any case.
+
+*** SSEND ***
+*** SSTART 002.0 008.0 2 NJ 1947 ***
+
+2.     No money shall be drawn from the State treasury but for appropriations made by law. All
+moneys for the support of the State government and for all other State purposes as far as can be
+ascertained or reasonably foreseen, shall be provided for in one general appropriation law
+covering one and the same fiscal year; except that when a change in the fiscal year is made,
+necessary provision may be made to effect the transition. No general appropriation law or other
+law appropriating money for any State purpose shall be enacted if the appropriation contained
+therein, together with all prior appropriations made for the, same fiscal period, shall exceed the
+total amount of revenue on hand and anticipated which will be available to meet such
+appropriations during such fiscal period, as certified by the Governor.
+
+*** SEND ***
+*** SSTART 002.0 008.0 3 NJ 1947 ***
+
+3. The Legislature shall not, in any manner, create in any fiscal year a debt or debts, liability or
+liabilities of the State, which together with any previous debts or liabilities shall exceed at any time
+one per centum of the total amount appropriated by the general appropriation law for that fiscal
+year, unless the same shall be authorized by a law for some single object or work distinctly
+specified therein. Regardless of any limitation relating to taxation in this Constitution, such law
+shall provide the ways and means, exclusive of loans, to pay the interest of such debt or liability as
+it falls due, and also to pay and discharge the principal thereof within thirty-five years from the
+time it is contracted; and the law shall not be repealed until such debt or liability and the interest
+thereon are fully paid and discharged. No such law shall take effect until it shall have been
+submitted to the people at a general election and approved by a majority of the legally qualified
+voters of the State voting thereon. All money to be raised by the authority of such law shall be
+applied only to the specific object stated therein, and to the payment of the debt thereby created.
+This paragraph shall not be construed to refer to any money that has been or may be deposited
+with this State by the government of the United States. Nor shall anything in this paragraph
+contained apply to the creation of any debts or liabilities for purposes of war, or to repel invasion,
+or to suppress insurrection or to meet an emergency caused by disaster or act of God.
+         
+*** SEND ***
+         
+*** SSTART 003.0 008.0 1 NJ 1947 ***
+         
+ARTICLE VIII, SEC. 3
+
+1.     The clearance, replanning, development or redevelopment of blighted areas shall be a public
+purpose and public use, for which private property may be taken or acquired. Municipal, public or
+private corporations may be authorized by law to undertake such clearance, replanning,
+development or redevelopment; and improvements made for these purposes and uses; or for any
+of them, may be exempted from taxation, in whole or in part, for a limited period of time during
+which the profits of and dividends payable by any private corporation enjoying such tax
+exemption shall be limited by law. The conditions of use, ownership, management and control of
+such improvements shall be regulated by law.
+
+*** SEND ***
+*** SSTART 003.0 008.0 2 NJ 1947 ***
+
+2.     No county, city, borough, town, township or village shall hereafter give any money or
+property, or loan its money or credit, to or in aid of any individual, association or corporation, or
+become security for, or be directly or indirectly the owner of, any stock or bonds of any
+association or corporation.
+
+*** SEND ***
+*** SSTART 003.0 008.0 3 NJ 1947 ***
+
+3.     No donation of land or appropriation of money shall be made by the State or any county or
+municipal corporation to or for the use of any society, association or corporation whatever.
+                  
+*** SEND ***
+         
+*** SSTART 004.0 008.0 1 NJ 1947 ***
+
+ARTICLE VIII, SEC. 4
+
+1. The Legislature shall provide for the maintenance and support of a thorough and efficient
+system of free public schools for the instruction of all the children in the State between the ages of
+five and eighteen years.
+
+*** SEND ***
+*** SSTART 004.0 008.0 2 NJ 1947 ***
+
+2. The fund for the support of free public schools, and all money, stock and other property, which
+may hereafter be appropriated for that purpose, or received into the treasury under the provision
+of any law heretofore passed to augment the said fund, shall be securely invested, and remain a
+perpetual fund; and the income thereof, except so much as it may be judged expedient to apply to
+an increase of the capital, shall be annually appropriated to the support of free public schools, for
+the equal benefit of all the people of the State; and it shall not be competent for the Legislature
+to borrow, appropriate or use the said fund or any paid thereof for any other purpose, under any
+pretense whatever.
+
+*** SEND ***
+*** SSTART 004.0 008.0 3 NJ 1947 ***
+
+3. The Legislature may, within reasonable limitations as to distance to be prescribed, provide for
+the transportation of children within the ages of five to eighteen years inclusive to and from any
+school.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 009.0 NJ 1947 ***
+
+ARTICLE IX
+         
+
+*** SSTART 001.0 009.0 0 NJ 1947 ***
+
+1. Any specific amendment or amendments to this Constitution may be proposed in the Senate or
+General Assembly. At least twenty calendar days prior to the first vote thereon in the house in
+which such amendment or amendments are first introduced, the same shall be printed and placed
+on the desks of the members of each house. Thereafter and prior to such vote a public hearing
+shall be held thereon. If the proposed amendment or amendments or any of them shall be agreed
+to by three-fifths of all the members of each of the respective houses, the same shall be submitted
+to the people. If the same or any of them shall be agreed to by less than three-fifths but
+nevertheless by a majority of all the members of each of the respective houses, such proposed
+amendment or amendments shall be referred to tile Legislature in the next legislative year; and if
+in that year the same or any of them shall be agreed to by a majority of all the members of each of
+the respective houses, then such amendment or amendments shall be submitted to the people.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 NJ 1947 ***
+
+2. The proposed amendment or amendments shall be entered on the journal of each house with
+the yeas and nays of the members voting thereon.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 NJ 1947 ***
+
+3. The Legislature shall cause the proposed amendment or amendments to be published at least
+once in one or more newspapers of each county, if any be published therein, not less than three
+months prior to submission to the people.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 NJ 1947 ***
+
+4. The proposed amendment or amendments shall then be submitted the people at the next general
+election in the manner and form provided by the Legislature.
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 NJ 1947 ***
+
+5.     If more than one amendment be submitted, they shall be submitted in such manner and form
+that the people may vote for or against each amendment separately and distinctly.
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 NJ 1947 ***
+
+6.     If the proposed amendment or amendments or any of them shall be approved by a majority
+of the legally qualified voters of the State voting thereon, the same shall become part of the
+Constitution on the thirtieth day after the election, unless otherwise provided in the amendment or
+amendments.
+
+*** SEND ***
+*** SSTART 007.0 009.0 0 NJ 1947 ***
+
+7.     If at the election a proposed amendment shall not be approved neither such proposed
+amendment nor one to effect the same or substantially the same change in the Constitution shall
+be submitted to the people before the third general election thereafter.     
+         
+*** SEND ***
+*** AEND ***
+
+*** ASTART 010.0 NJ 1947 ***
+                                    
+ARTICLE X
+
+*** SSTART 001.0 010.0 0 NJ 1947 ***
+
+1.     The seal of the State shall be kept by the Governor, or person administering the office of
+Governor, and used by him officially, and shall be called the Great Seal of the State of New
+Jersey.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 NJ 1947 ***
+
+2.     All grants and commissions shall be in the name and by the authority of the State of New
+Jersey, sealed with the Great Seal, signed by the Governor, or person administering the office of
+Governor, and countersigned by the Secretary of State, and shall run thus: "The State of New
+Jersey, to __________, Greeting".
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 NJ 1947 ***
+
+3.     All writs shall be in the name of the State. All indictments shall conclude: "against the peace
+of this State, the government and dignity of the same".
+
+*** SEND ***
+*** SSTART 004.0 010.0 0 NJ 1947 ***
+
+4.     Whenever in this Constitution the term "person", "persons", "people" or any personal
+pronoun is used, the same shall be taken to include both sexes.
+
+*** SEND ***
+
+
+*** SSTART 005.0 010.0 0 NJ 1947 ***
+
+5.     Except as herein otherwise provided, this Constitution shall take effect on the first day of
+January in the year of our Lord one thousand nine hundred and forty-eight.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 011.0 NJ 1947 ***
+
+*** SSTART 001.0 011.0 1 NJ 1947 ***
+
+ARTICLE XI, SEC. 1
+         
+1.     This Constitution shall supersede the Constitution of one thousand eight hundred and
+forty-four as amended.
+
+*** SEND ***
+*** SSTART 001.0 011.0 2 NJ 1947 ***
+
+2.     The Legislature shall enact all laws necessary to make this Constitution fully effective.
+
+*** SEND ***
+*** SSTART 001.0 011.0 3 NJ 1947 ***
+
+3.     All law, statutory and otherwise, all rules and regulations of administrative bodies and all
+rules of courts in force at the time this Constitution or any Article thereof takes effect shall remain
+in full force until they expire or are superseded, altered or repealed by this Constitution or
+otherwise.
+
+*** SEND ***
+*** SSTART 001.0 011.0 4 NJ 1947 ***
+
+4.     Except as otherwise provided by this Constitution, all writs, actions, judgments, decrees,
+causes of action, prosecutions, contracts, claims and rights of individuals and of bodies corporate,
+and of the State, and all charters and franchises shall continue unaffected notwithstanding the
+taking effect of any Article of this Constitution.
+
+*** SEND ***
+*** SSTART 001.0 011.0 5 NJ 1947 ***
+
+5.     All indictments found before the taking effect of this Constitution or any Article may be
+proceeded upon. After the taking effect thereof, indictments for crime and complaints for offenses
+committed prior thereto may be found, made and proceeded upon in the courts having jurisdiction
+thereof. 
+*** SEND ***
+
+*** SSTART 002.0 011.0 1 NJ 1947 ***
+
+ARTICLE XI, SEC. 2
+         
+1.     The first Legislature under this Constitution shall meet on the second Tuesday in January, in
+the year one thousand nine hundred and forty-eight.
+
+*** SEND ***
+*** SSTART 002.0 011.0 2 NJ 1947 ***
+
+2.     Each member of the General Assembly, elected at the election in the year one thousand nine
+hundred and forty-seven, shall hold office for a term beginning at noon of the second Tuesday in
+January in the year one thousand nine hundred and forty-eight and ending at noon of the second
+Tuesday in January in the year one thousand nine hundred and fifty.
+Each member of the General Assembly elected thereafter shall hold office for the term provided
+by this Constitution.
+
+*** SEND ***
+*** SSTART 002.0 011.0 3 NJ 1947 ***
+
+3.     Each member of the Senate elected in the years one thousand nine hundred and forty-five
+and one thousand nine hundred and forty-six shall hold office for the term for which he was
+elected. Each member of the Senate elected in the year one thousand nine hundred and
+forty-seven shall hold office for a term of four years beginning at noon of the second Tuesday
+in January following his election. The seats in the Senate which would have been filled in the years
+hereinafter designated had this Constitution not been adopted shall be filled by election as follows:
+of those seats which would have been filled by election in the year one thousand nine hundred and
+forty-eight, three seats, as chosen by the Senate in the year one thousand nine hundred and
+forty-eight, shall be filled by election in that year for terms of five years, and three, as so chosen,
+shall be filled by election in that year for terms of three years, and those seats which would have
+been filled by election in the year one thousand nine hundred and forty-nine shall be filled by
+election in that year for terms of four years, so that eleven seats in the Senate shall be filled by
+election in the year one thousand nine hundred and fifty-one and every fourth year thereafter for
+terms of four years, and the members of the Senate so elected and their successors shall constitute
+one class to be elected as prescribed in paragraph 2 of Section II of Article IV of this
+Constitution, and ten seats shall be filled by election in the year one thousand nine hundred and
+fifty-three and every fourth year thereafter for terms of four years, and the members of the Senate
+so elected and their successors shall constitute the other class to be elected as prescribed in said
+paragraph of this Constitution.      
+
+*** SEND ***
+
+
+*** SSTART 002.0 011.0 4 NJ 1947 ***
+
+4.     The provisions of Paragraph 1 of Section V of Article IV of this Constitution shall not
+prohibit the nomination, election or appointment of any member of the Senate or General
+Assembly first organized under this Constitution, to any State civil office or position created by
+this Constitution or created during the first term as such member.
+         
+*** SEND ***
+
+*** SSTART 003.0 011.0 1 NJ 1947 ***
+
+ARTICLE XI, SEC. 3
+
+1.     A Governor shall be elected for a full term at the general election to be held in the year one
+thousand nine hundred and forty-nine and every fourth year thereafter.
+
+*** SEND ***
+*** SSTART 003.0 011.0 2 NJ 1947 ***
+
+2.     The taking effect of this Constitution or any provision thereof shall not of itself affect the
+tenure, term, status or compensation of any person then holding any public office, position or
+employment in this State, except as provided in this Constitution. Unless otherwise specifically
+provided in this Constitution, all constitutional officers in office at the time of its adoption shall
+continue to exercise the authority of their respective offices during the term for which they shall
+have been elected or appointed and until the qualification of their successors respectively. Upon
+the taking effect of this Constitution all officers of the militia shall retain their commissions subject
+to the provisions of Article V, Section III.
+
+*** SEND ***
+*** SSTART 003.0 011.0 3 NJ 1947 ***
+
+3.     The Legislature, in compliance with the provisions of this Constitution, shall prior to the first
+day of July, one thousand nine hundred and forty-nine, and may from time to time thereafter,
+allocate by law the executive and administrative offices, departments and instrumentalities of the
+State government among and within the principal departments. If such allocation shall not have
+been completed within the time limited, the Governor shall call a special session of the Legislature
+to which he shall submit a plan or plans for consideration to complete such allocation; and no
+other matters shall be considered at such session.
+         
+*** SEND ***
+
+
+*** SSTART 004.0 011.0 1 NJ 1947 ***
+
+ARTICLE XI, SEC. 4
+         
+1.     Subsequent to the adoption of this Constitution the Governor shall nominate and appoint,
+with the advice and consent of the Senate, a Chief Justice and six Associate Justices of the new
+Supreme Court from among the persons then being the Chancellor, the Chief Justice and
+Associate Justices of the old Supreme Court, the Vice Chancellors and Circuit Court Judges. The
+remaining judicial officers enumerated and such Judges of the Court of Errors and Appeals as
+have been admitted to the practice of law in this State for at least ten years, and are in office on
+the adoption of the Constitution, shall constitute the Judges of the Superior Court. The Justices of
+the new Supreme Court and the Judges of the Superior Court so designated shall hold office each
+for the period of his term which remains unexpired at the time the Constitution is adopted; and if
+reappointed he shall hold office during good behavior. No Justice of the new Supreme Court or
+Judge of the Superior Court shall hold his office after attaining the age of seventy years, except,
+however, that such Justice or Judge may complete the period of his term which remains unexpired
+at the time the Constitution is adopted.
+
+*** SEND ***
+*** SSTART 004.0 011.0 2 NJ 1947 ***
+
+2.     The Judges of the Courts of Common Pleas shall constitute the Judges of the County Courts,
+each for the period of his term which remains unexpired at the time the Judicial Article of this
+Constitution takes effect.
+
+*** SEND ***
+*** SSTART 004.0 011.0 3 NJ 1947 ***
+
+3.     The Court of Errors and Appeals, the present Supreme Court, the Court of Chancery, the
+Prerogative Court and the Circuit Courts shall be abolished when the Judicial Article of this
+Constitution takes effect; and all their jurisdiction, functions, powers and duties shall be
+transferred to and divided between the new Supreme Court and the Superior Court according as
+jurisdiction is vested in each of them under this Constitution.
+
+*** SEND ***
+*** SSTART 004.0 011.0 4 NJ 1947 ***
+
+4.     Except as otherwise provided in this Constitution and until otherwise provided by law, all
+courts now existing in this State, other than those abolished in paragraph 3 hereof, shall continue
+as if this Constitution had not been adopted, provided, however, that when the Judicial Article of
+this Constitution takes effect, the jurisdiction, powers and functions of the Court of Common
+Pleas, Orphans' Court, Court of Oyer and Terminer, Court of Quarter Sessions and Court of
+Special Sessions of each county, the judicial officers, clerks and employees thereof, and the causes
+pending therein and their files, shall be transferred to the County Court of the county. All
+statutory provisions relating to the county courts aforementioned of each county and to the Judge
+or Judges thereof shall apply to the new County Court of the county and the Judge or Judges
+thereof, unless otherwise provided by law. Until otherwise provided by law and except as
+aforestated,  the judicial officers, surrogates and clerks of all courts now existing, other than those
+abolished in paragraph 3 hereof, and the employees of said officers, clerks, surrogates and courts
+shall continue in the exercise of their duties, as if this Constitution had not been adopted.
+
+*** SEND ***
+*** SSTART 004.0 011.0 5 NJ 1947 ***
+
+5.     The Supreme Court shall make rules governing the administration and practice and
+procedure of the County Courts; and the Chief Justice of the Supreme Court shall be the
+administrative head of these courts with power to assign any Judge thereof of any county to sit
+temporarily in the Superior Court or to sit temporarily without the county in a County Court.
+
+*** SEND ***
+*** SSTART 004.0 011.0 6 NJ 1947 ***
+
+6.     The Advisory Masters appointed to hear matrimonial proceedings and in office on the
+adoption of this Constitution shall, each for the period of his term which remains unexpired at the
+time the Constitution is adopted, continue so to do as Advisory Masters to the Chancery Division
+of the Superior Court, unless otherwise provided by law.
+
+
+*** SEND ***
+*** SSTART 004.0 011.0 7 NJ 1947 ***
+
+7.     All Special Masters in Chancery, Masters in Chancery, Supreme Court Commissioners and
+Supreme Court Examiners shall, until otherwise provided by rules of the Supreme Court, continue
+respectively as Special Masters, Masters, Commissioners and Examiners of the. Superior Court,
+with appropriate similar functions and powers as if this Constitution had not been adopted.
+
+*** SEND ***
+*** SSTART 004.0 011.0 8 NJ 1947 ***
+
+8.     When the Judicial Article of this Constitution takes effect:         
+     (a)     All causes and proceedings of whatever character pending in the Court of Errors
+and Appeals shall be transferred to the new Supreme Court;
+            (b)     All causes and proceedings of whatever character pending on appeal or writ of error
+in the present Supreme Court and in the Prerogative Court and all pending causes involving the
+prerogative writs shall be transferred to the Appellate Division of the Superior Court;
+            (c)     All causes and proceedings of whatever character pending in the Supreme Court
+other than those stated shall. be transferred to the Superior Court;
+            (d)     All causes and proceedings of whatever character pending in the Prerogative Court
+other than those stated shall be transferred to the Chancery Division of the Superior Court;
+            (e)     All causes and proceedings of whatever character pending in all other courts which
+are abolished shall be transferred to the Superior Court.
+For the purposes of this paragraph, paragraph 4 and paragraph 9, a cause shall be deemed to be
+pending notwithstanding that an adjudication has been entered therein, provided the time limited
+for review has not expired or the adjudication reserves to any party the right to apply for further
+relief.
+
+*** SEND ***
+*** SSTART 004.0 011.0 9 NJ 1947 ***
+
+9.     The files of all causes pending in the Court of Errors and Appeals shall be delivered to the
+Clerk of the new Supreme Court; and the files of all causes pending in the present Supreme Court,
+the Court of Chancery and the Prerogative Court shall be delivered to the Clerk of the Superior
+Court.  All other files, books, papers, records and documents and all property of the Court of
+Errors and Appeals, the present Supreme court, the Prerogative Court, the Chancellor and the
+Court of Chancery, or in their custody, shall be disposed of as shall be provided by law.
+
+*** SEND ***
+*** SSTART 004.0 011.0 10 NJ 1947 ***
+
+10.    Upon the taking effect of the Judicial Article of this Constitution, all the functions, powers
+and duties conferred by statute, rules or otherwise upon the Chancellor, the Ordinary, and the
+Justices and Judges of the courts abolished by this Constitution, to the extent that such functions,
+powers and duties are not inconsistent with this Constitution, shall be transferred to and may be
+exercised by Judges of the Superior Court until otherwise provided by law or rules of the new
+Supreme Court; excepting' that such statutory powers not related to the administration of justice
+as are then vested in any such judicial officers shall, after the Judicial Article of this Constitution
+takes effect and until otherwise provided by law, be transferred to and exercised by the Chief
+Justice of, the new Supreme Court.
+
+*** SEND ***
+*** SSTART 004.0 011.0 11 NJ 1947 ***
+
+11.    Upon the taking effect of the Judicial Article of this Constitution, the clerk of the Supreme
+Court shall become the Clerk of the new Supreme Court and shall serve as such Clerk until the
+expiration of the term for which he was appointed as Clerk of the Supreme Court, and all
+employees of the Supreme Court as previously constituted, of the Clerk thereof and of the Chief
+Justice and the Justices thereof, of the Circuit Courts and the Judges thereof and of the Court of
+Errors and Appeals shall be transferred to appropriate similar positions with similar compensation
+and civil service status under the Clerk of the new Supreme Court or the new Supreme Court, or
+the Clerk of the Superior Court or the Superior Court, which shall be provided by law.
+
+*** SEND ***
+*** SSTART 004.0 011.0 12 NJ 1947 ***
+
+12.    Upon the taking effect of the Judicial Article of this Constitution the Clerk in Chancery shall
+become the Clerk of the Superior Court and shall serve as such Clerk until the expiration of the
+term for which he was appointed as Clerk in Chancery, and all employees of the Clerk in
+Chancery, the Court of Chancery, the Chancellor and the several Vice Chancellors shall be
+transferred to appropriate similar positions with similar compensation and civil service status
+under the Clerk of the Superior Court or the Superior Court, which shall be provided by law.
+
+*** SEND ***
+*** SSTART 004.0 011.0 13 NJ 1947 ***
+
+13.    Appropriations made by law for judicial expenditures during the fiscal year one thousand
+nine hundred and forty-eight   one thousand nine hundred and forty-nine may be transferred to
+similar objects and purposes required by the Judicial Article.
+
+*** SEND ***
+*** SSTART 004.0 011.0 14 NJ 1947 ***
+
+14.    The Judicial Article of this Constitution shall take effect on the fifteenth day of September,
+one thousand nine hundred and forty-eight, except that the Governor, with the advice and consent
+of the Senate, shall have the power to fill vacancies arising prior thereto in the new Supreme
+Court and the Superior Court; and except further that any provision of this Constitution which
+may require any act to be done prior thereto or in preparation therefor shall take effect
+immediately upon the adoption of this Constitution.
+
+*** SEND ***
+
+*** ASTART 9016.0 NJ 1947 ***
+Done in Convention, at Rutgers University, the State University of New Jersey, New Brunswick,
+on the tenth day of September, in the year of our Lord one thousand nine hundred and
+forty-seven, and of the independence of the United States of America the one hundred and
+seventy-second.
+
+*** AEND ***
+*** CEND ***

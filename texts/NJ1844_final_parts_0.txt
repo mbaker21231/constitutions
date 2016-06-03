@@ -1,0 +1,1615 @@
+This needs dates
+
+Otherwise it is ready to go.
+
+JW 1.2.02
+
+     
+
+*** CSTART NJ 1844 11/4/1947 ***
+
+CONSTITUTION OF NEW JERSEY 1844
+
+*** ASTART 9001.0 NJ 1844 ***
+
+We, the people of the State of New Jersey, grateful to Almighty God for the civil and religious
+liberty which He hath so long permitted us to enjoy, and looking to Him for a blessing upon our
+endeavors to secure and transmit the same unimpaired to succeeding generations, do ordain and
+establish this CONSTITUTION:
+
+*** AEND ***
+
+*** ASTART 001.0 NJ 1844 ***
+ARTICLE I
+
+RIGHTS AND PRIVILEGES
+
+*** SSTART 001.0 001.0 0 NJ 1844 ***
+
+1. All men are by nature free and independent, and have certain natural and inalienable rights,
+among which are those of enjoying and defending life and liberty; acquiring, possessing and
+protecting property, and of pursuing and obtaining safety and happiness.
+
+*** SEND ***
+
+*** SSTART 002.0 001.0 0 NJ 1844 ***
+
+2. All political power is inherent in the people. Government is instituted for the protection,
+security and benefit of the people, and they have the right at all times to alter or reform the same,
+whenever the public good may require it.
+
+*** SSEND ***
+
+*** SSTART 003.0 001.0 0 NJ 1844 ***
+
+3.No person shall be deprived of the inestimable privilege of worshiping Almighty God in a
+manner agreeable to the dictates of his own conscience; nor, under any pretence whatever, to be
+compelled to attend any place of worship contrary to his faith and judgement; nor shall any person
+be obliged to pay tithes, taxes or other rates for building or repairing any church or churches,
+place or places of worship, or for the maintenance of any minister or ministry, contrary to what he
+believes to be right, or has deliberately and voluntarily engaged to perform.
+
+*** SSEND ***
+
+*** SSTART 004.0 001.0 0 NJ 1844 ***
+
+4. There shall be no establishment of one religious sect in preference to another; no religious test
+shall be required as a qualification for any office or public trust; and no person shall be denied the
+enjoyment of any civil right merely on account of his religious principles.
+
+*** SSEND ***
+
+*** SSTART 005.0 001.0 0 NJ 1844 ***
+
+5. Every person may freely speak, write and publish his sentiments on all subjects, being
+responsible for the abuse of that right. No law shall be passed to restrain or abridge the liberty of
+speech or of the press.  In all prosecutions or indictments for libel, the truth may be given in
+evidence to the jury; and if it shall appear to the jury that the matter charged as libelous is true,
+and was published with good motives and for justifiable ends, the party shall be acquitted; and the
+jury shall have the right to determine the law and the fact.
+
+*** SEND ***
+
+*** SSTART 006.0 001.0 0 NJ 1844 ***
+
+6. The right of the people to be secure in their persons, houses, papers and effects, against
+unreasonable searches and seizures, shall not be violated; and no warrant shall issue but upon
+probable cause, supported by oath or affirmation, and particularly describing the place to be
+searched and the papers and things to be seized.
+*** SEND ***
+
+*** SSTART 007.0 001.0 0 NJ 1844 ***
+
+7. The right of a trial by jury shall remain inviolate; but the legislature may authorize the trial of
+civil suits, when a matter in dispute does not exceed fifty dollars, by a jury of six men.
+*** SEND ***
+
+*** SSTART 008.0 001.0 0 NJ 1844 ***
+
+8. In all criminal prosecutions the accused shall have the right to a speedy and public trial by an
+impartial jury; to be informed of the nature and cause of the accusation; to be confronted with the
+witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to
+have the assistance of counsel in his defense.
+
+*** SEND ***
+
+*** SSTART 009.0 001.0 0 NJ 1844 ***
+
+9. No person shall be held to answer for a criminal offense, unless on the presentment or
+indictment of a grand jury, except in cases of impeachment, or in cases cognizable by justices of
+the peace, or arising in the army or navy; or in the militia, when in actual service in time of war or
+public danger.
+
+*** SEND ***
+
+*** SSTART 010.0 001.0 0 NJ 1844 ***
+
+10. No person shall, after acquittal, be tried for the same offense. All persons shall, before
+conviction, be bailable by sufficient sureties, except for capital offenses, when the proof is evident
+or presumption great.
+*** SEND ***
+
+*** SSTART 011.0 001.0 0 NJ 1844
+
+11. The privilege of the writ of habeas corpus shall not be suspended, unless in case of rebellion
+or invasion the public safety may require it.
+
+*** SEND ***
+
+*** SSTART 012.0 001.0 0 NJ 1844 ***
+
+12. The military shall be in strict subordination to the civil power.
+
+*** SEND ***
+
+*** SSTART 013.0 001.0 0 NJ 1844 ***
+
+13. No soldier shall, in time of peace, be quartered in any house, without the consent of the
+owner; nor in time of war, except in a manner prescribed by law.
+
+*** SEND ***
+
+*** SSTART 014.0 001.0 0 NJ 1844 ***
+
+14. Treason against the State shall consist only in levying war against it, or in adhering to its
+enemies, giving them aid and comfort. No person shall be convicted of treason, unless on the
+testimony of two witnesses to the same overt act, or on confession in open court.
+
+*** SEND ***
+
+*** SSTART 015.0 001.0 0 NJ 1844 ***
+
+15. Excessive bail shall not be required, excessive fines shall not be imposed, and cruel and
+unusual punishments shall not be inflicted.
+
+*** SEND ***
+
+*** SSTART 016.0 001.0 0 NJ 1844 ***
+
+16. Private property shall not be taken for public use without just compensation; but land may be
+taken for public highways as heretofore, until the legislature shall direct compensation to be made.
+
+*** SEND ***
+
+*** SSTART 017.0 001.0 0 NJ 1844 ***
+
+17. No person shall be imprisoned for debt in any action, or on any judgment founded upon
+contract, unless in cases of fraud; nor shall any person be imprisoned for a militia fine in time of
+peace.
+
+*** SEND ***
+
+*** SSTART 018.0 001.0 0 NJ 1844 ***
+
+18. The people have the right freely to assemble together to consult for the common good, to
+make known their opinions to their representatives, and to petition for redress of grievances.
+
+*** SEND ***
+
+*** SSTART 019.0 001.0 0 NJ 1844 ***
+
+19. This enumeration of rights and privileges shall not be construed to impair or deny others
+retained by the people.
+Note: In 1875, this section is renumbered and given section number 21.
+
+   *** SEND ***
+
+   *** AEND ***
+
+   *** ASTART 002.0 NJ 1844 ***
+
+    ARTICLE II
+ *** SSTART 001.0 002.0 0 NJ 1844 ***
+
+1. Every white male citizen of the United States, of the age of twenty-one years, who shall have
+been a resident of this State one year, and of the county in which he claims his vote five months,
+next before the election, shall be entitled to vote for all officers that now are, or hereafter may be,
+elective by the people; provided, that no person in the military, naval or marine service of the
+United States shall be considered a resident in this State, by being stationed in any garrison,
+barrack, or military or naval place or station within this State; and no pauper, idiot, insane person,
+or person convicted of a crime which now excludes him from being a Witness unless pardoned or
+restored by law to the right of suffrage, shall enjoy the right of an elector.
+ 
+*** SEND ***
+
+*** SSTART 002.0 002.0 0 NJ 1844 ***
+
+2. The legislature may pass laws to deprive persons of the right of suffrage who shall be convicted
+of bribery at elections.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 003.0 NJ 1844 ***
+ARTICLE III
+
+
+*** SSTART 001.0 003.0 0 NJ 1844 ***
+
+1. The powers of the government shall be divided into three distinct departments-the legislative,
+executive and judicial; and no person or persons belonging to, or constituting one of these
+departments, shall exercise any of the powers properly belonging to either of the others, except as
+herein expressly provided.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 004.0 NJ 1844 ***
+
+ARTICLE IV, SECTION I
+
+*** SSTART 001.0 004.0 1 NJ 1844 ***
+
+1. The legislative power shall be vested in a senate and general assembly.
+
+*** SEND ***
+*** SSTART 001.0 004.0 2 NJ 1844 ***
+
+2. No person shall be a member of the senate who shall not have attained the age of thirty years,
+and have been a citizen and inhabitant of the State for four years, and of the county for which he
+shall be chosen one year, next before his election; and no person shall be a member of the general
+assembly who shall not have attained the age of twenty-one years, and have been a citizen and
+inhabitant of the State for two years, and of the county for which he shall be chosen one year next
+before his election; provided, that no person shall be eligible as a member of either house of the
+legislature, who shall not be entitled to the right of suffrage.
+
+*** SEND ***
+*** SSTART 001.0 004.0 3 NJ 1844 ***
+
+3. Members of the senate and general assembly shall be elected yearly and every year, on the
+second Tuesday of October  and the two houses shall meet separately on the second Tuesday in
+January next after the said day of election, at which time of meeting the legislative year shall
+commence; but the time of holding such election may be altered by the legislature.
+*** SEND ***
+
+SECTION II
+
+*** SSTART 002.0 004.0 1 NJ 1844 *** 
+
+1. The senate shall be composed of one senator from each county in the State, elected by the legal
+voters of the counties, respectively, for three years.
+
+*** SEND ***
+*** SSTART 002.0 004.0 2 NJ 1844 ***
+
+2. As soon as the senate shall meet after the first election to be held in pursuance of this
+constitution, they shall be divided as equally as may be into three classes. The seats of the senators
+of the first class shall be vacated at the expiration of the first year; of the second class at the
+expiration of the second year; and of the third class at the expiration of the third year, so that one
+class may be elected every year; and if vacancies happen, by resignation or otherwise, the persons 
+elected to supply such vacancies shall be elected for the unexpired terms only.
+
+*** SEND ***
+
+SECTION III
+
+*** SSTART 003.0 004.0 1 NJ 1844 ***
+
+1. The general assembly shall be composed of members annually elected by the legal voters of the
+counties, respectively, who shall be apportioned among the said counties as nearly as may be
+according to the number of their inhabitants. The present apportionment shall continue until the
+next census of the United States shall have been taken, and an apportionment of members of the
+general assembly shall be made by the legislature at its first session after the next and every
+subsequent enumeration or census, and when made shall remain unaltered until another
+enumeration shall have been taken; provided that each county shall at all times be entitled to one
+member; and the whole number of members shall never exceed sixty.
+
+*** SEND ***
+
+SECTION IV
+
+*** SSTART 004.0 004.0 1 NJ 1844 ***
+1. Each house shall direct writs of election for supplying vacancies, occasioned by death,
+resignation, or otherwise; but if vacancies occur during the recess of the legislature, the writs may
+be issued by the governor, under such regulations as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 004.0 004.0 2 NJ 1844 ***
+
+2. Each house shall be the judge of the elections, returns and qualifications of its own members,
+and a majority of each shall constitute a quorum to do business; but a smaller number may adjourn
+from day to day, and may be authorized to compel the attendance of absent members, in such
+manner, and under such penalties, as each house may provide.
+
+*** SEND ***
+*** SSTART 004.0 004.0 3 NJ 1844 ***
+
+3. Each house shall choose its own officers, determine the rules of its proceedings, punish its
+members for disorderly behavior, and, with the concurrence of two-thirds, may expel a member.
+
+*** SEND ***
+
+
+*** SSTART 004.0 004.0 4 NJ 1844 ***
+
+4. Each house shall keep a journal of its proceedings, and from time to time publish the same; and
+the yeas and nays of the members of either house on any question shall, at the desire of one-fifth
+of those present, be entered on the journal.
+
+*** SEND ***
+*** SSTART 004.0 004.0 5 NJ 1844 ***
+
+5. Neither house, during the session of the legislature, shall, without the consent of the other,
+adjourn for more than three days, nor to any other place than that in which the two houses shall
+be sitting.
+
+*** SEND ***
+*** SSTART 004.0 004.0 6 NJ 1844 ***
+
+6. All bills and joint resolutions shall be read three times in each house, before the final passage
+thereof ; and no bill or joint resolution shall pass unless there be a majority of all the members of
+each body personally present and agreeing thereto; and the yeas and nays of the members voting
+on such final passage shall be entered on the journal.
+
+*** SEND ***
+*** SSTART 004.0 004.0 7 NJ 1844 ***
+
+7. Members of the senate and general assembly shall receive a compensation for their services, to
+be ascertained by law, and paid out of the treasury of the State, which compensation shall not
+exceed the sum of three dollars per day for the period of forty days from the commencement of
+the session, and shall not exceed the sum of one dollar and fifty cents per day for the remainder of
+the session.  When convened in extra session by the governor, they shall receive such sum as shall
+be fixed for the first forty days of the ordinary session.  They shall also receive the sum of one
+dollar for every ten miles they shall travel in going to and returning from their place of meeting,
+on the most usual route.  The president of the senate and the speaker of the house of assembly
+shall, in virtue of their offices, receive an additional compensation, equal to one-third of their per
+diem allowance as members.
+
+*** SEND ***
+*** SSTART 004.0 004.0 8 NJ 1844 ***
+
+8. Members of the senate and general assembly shall, in all cases except treason, felony and breach
+of the peace, be privileged from arrest during their attendance at the sitting of their respective
+houses, and in going to and returning from the same; and for any speech or debate, in either
+house, they shall not be questioned in any other place.
+
+*** SEND ***
+
+
+
+SECTION V
+
+*** SSTART 005.0 004.0 1 NJ 1844***
+
+1. No member of the senate or general assembly shall, during the time for which he was elected,
+be nominated or appointed by the governor, or by the legislature in joint meeting, to any civil
+office under the authority of this State which shall have been created, or the emoluments whereof
+shall have been increased, during such time.
+
+*** SEND ***
+*** SSTART 005.0 004.0 2 NJ 1844 ***
+
+2. If any member of the senate or general assembly shall be elected to represent this State in the
+senate or house of representatives of the United States, and shall accept thereof, or shall accept of
+any office or appointment under the government of the United States, his seat in the legislature of
+this State shall thereby be vacated.
+
+*** SEND ***
+*** SSTART 005.0 004.0 3 NJ 1844 ***
+
+3. No justice of the supreme court, nor judge of any other court, sheriff, justice of the peace nor
+any person or persons possessed of any office of profit under the government of this State, shall
+be entitled to a seat either in the senate or in the general assembly; but, on being elected and
+taking his seat, his office shall be considered vacant; and no person holding any office of profit
+under the government of the United States shall be entitled to a seat in either house.
+
+*** SEND ***
+
+SECTION VI
+
+*** SSTART 006.0 004.0 1 NJ 1844 ***
+
+1. All bills for raising revenue shall originate in the house of assembly; but the senate may propose
+or concur with amendments, as on other bills.
+
+*** SEND ***
+*** SSTART 006.0 004.0 2 NJ 1844 ***
+
+2. No money shall be drawn from the treasury but for appropriations made by law.
+
+*** SEND ***
+*** SSTART 006.0 004.0 3 NJ 1844 ***
+
+3. The credit of the State shall not be directly or indirectly loaned in any case.
+*** SEND ***
+
+*** SSTART 006.0 004.0 4 NJ 1844 ***
+
+4. The legislature shall not, in any manner, create any debt or debts, liability or liabilities, of the
+State which shall, singly or in the aggregate with any previous debts or liabilities, at any time
+exceed one hundred thousand dollars, except for purposes of war, or to repel invasion, or to
+suppress insurrection, unless the same shall be authorized by a law for some single object or work,
+to be distinctly specified therein; which law shall provide the ways and means, exclusive of loans,
+to pay the interest of such debt or liability as it falls due, and also to pay and discharge the
+principal of such debt or liability within thirty five years from the time of the contracting thereof,
+and shall he irrepealable until such debt or liability, and the interest thereon, are fully paid and
+discharged; and no such law shall take effect until it shall, at a general election, have been
+submitted to the people, and have received the sanction of a majority of all the votes cast for and
+against it, at such election; and all money to be raised by the authority of such law shall be applied
+only to the specific object stated therein, and to the payment of the debt thereby created. This
+section shall not be construed to refer to any money, that has been, or may be, deposited with this
+State by the government of the United States.
+*** SEND ***
+
+SECTION VII
+
+*** SSTART 007.0 004.0 1 NJ 1844 ***
+
+1.  No divorce shall be granted by the legislature.
+
+*** SEND *** 
+*** SSTART 007.0 004.0 2 NJ 1844 ***
+
+2.  No lottery shall be authorized the legislature or otherwise in this State, and not ticket in any
+lottery shall be bought or sold within this State.
+
+*** SEND ***
+*** SSTART 007.0 004.0 3 NJ 1844 ***
+
+3.  The legislature shall not pass any bill of attainder, ex post facto law, or law impairing the
+obligation of contracts, or depriving a party of any remedy for enforcing a contract which existed
+when the contract was made.
+
+*** SEND ***
+*** SSTART 007.0 004.0 4 NJ 1844 ***
+
+4.  To avoid improper influences which may result from intermixing in one and the same act such
+things as have no proper relation to each other, every law shall embrace but one object, and that
+shall be expressed in the title.
+*** SEND ***
+*** SSTART 007.0 004.0 5 NJ 1844 ***
+                                                                 
+5.  The laws of this State shall be in the following style: "Be it enacted by the Senate and General
+Assembly of the State of New Jersey."
+
+*** SEND ***
+*** SSTART 007.0 004.0 6 NJ 1844 ***
+
+6.  The fund for support of free schools, and all money, stock, and other property which may
+hereafter be appropriated for that purpose, or received into the treasury under the provision of
+any law heretofore passed to augment the said fund, shall be securely invested and remain a
+perpetual fund; and the income thereof, except so much as it may be judged expedient to apply to
+an increase of the capital, shall be annually appropriated to the support of public schools, for the
+equal benefit of all people of the State; and it shall not be competent for the legislature to borrow,
+appropriate or use the said fund, or any part thereof, for any other purpose, under any pretense
+whatever.
+
+*** SEND ***
+*** SSTART 007.0 004.0 7 NJ 1844 ***
+
+7.  No private or special law shall be passed authorizing the sale of any lands belonging in whole
+or in part to a minor or minors, or other persons who may at the time bu under any legal disability
+to act for themselves.
+
+*** SEND ***
+*** SSTART 007.0 004.0 8 NJ 1844 ***
+
+8.  The assent of three-fifths of the members elected to each house shall be requisite to the
+passage of every law for granting, continuing, altering, amending, or renewing charters for banks
+of money corporations, and all such charters shall be limited to a term not exceeding twenty years.
+
+[Note: In an amendment in 1875, this language is stricken out and paragraph nine of Article IV,
+Section 7 is be substituted for it.  A new paragraph nine will also be added by amendment in
+1875.]
+
+*** SEND ***
+*** SSTART 007.0 004.0 9 NJ 1844 ***
+
+9.  Individuals or private corporations shall not be authorized to take private property for public
+use without just compensation first made to the owners. 
+
+[Note: In an amendment in 1875, paragraph nine of Article IV, Section 7 is moved to paragraph 8
+and the language in paragraph 8 is stricken out.  In the same year, a new paragraph nine is added.]
+
+*** SEND ***
+*** SSTART 007.0 004.0 10 NJ 1844 ***
+
+10.  The legislature may vest in the circuit courts or courts of common pleas within the several
+counties of the State chancery powers, so far as relates to the foreclosure of mortgages and sale
+of mortgaged premises.
+*** SEND ***
+
+SECTION VIII
+
+*** SSTART 008.0 004.0 0 NJ 1844 ***
+
+1. Members of the legislature shall, before they enter on the duties of the their respective offices,
+take and subscribe the following oath or affirmation:
+" I do solemnly swear [or affirm, as the case may be], that I will support the constitution of the
+United States and the constitution of the State of New Jersey, and that I will faithfully discharge
+the duties of senator [or member of the general assembly, as the case may be], according to the
+best of my ability."
+And members-elect of the senate or general assembly are hereby empowered to administer to each
+other the said oath or affirmation.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 005.0 NJ 1844 ***
+
+ARTICLE V
+
+
+*** SSTART 001.0 005.0 0 NJ 1844 ***
+
+1. The executive power shall be vested in a governor.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 NJ 1844 ***
+
+2. The governor shall be elected by the legal voters of this State. The person having the highest
+number of votes shall be the governor; but if two or more shall be equal and highest in votes, one
+of them shall be chosen governor by the vote of a majority of the members of both houses in joint
+meeting. Contested elections for the office of governor shall be determined in such manner as the
+legislature shall direct by law. When a governor is to be elected by the people, such election shall
+be held at the time when and at the places where the people shall respectively vote for members of
+the legislature.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 NJ 1844 ***
+
+3. The governor shall hold his office for three years, to commence on the third Tuesday of
+January next ensuing the election for governor by the people, and to end on the Monday
+preceding the third Tuesday of January, three years thereafter; and he shall be incapable of holding
+that office for three years next after his term of service shall have expired; and no appointment or
+nomination to office shall be made by the governor during the last week of his said term..
+*** SEND ***
+*** SSTART 004.0 005.0 0 NJ 1844 ***
+
+4. The governor shall be not less than thirty years of age, and shall have been for twenty years, at
+least, a citizen of the United States, and a resident of this State seven years next before his elec-
+
+tion, unless he shall have been absent during that time on the public business of the United States
+or of this State.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 NJ 1844 ***
+
+5. The governor shall, at stated times, receive for his services a compensation which shall be
+neither increased nor diminished during the period for which he shall have been elected.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 NJ 1844 ***
+
+6 . He shall be the commander-in-chief of all the military and naval forces of the State; he shall
+have power to convene the legislature, whenever in his opinion public necessity requires it; he
+shall communicate by message to the legislature at the opening of each session, and at such other
+times as he may deem necessary, the condition of the State, and recommend such measures as he
+may deem expedient; he shall take care that the laws be faithfully executed, and grant, under the
+great seal of the State, commissions to all such officers as shall be required to be commissioned
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 NJ 1844 ***
+
+7. Every bill which shall have passed both houses shall be presented to the governor; if he approve
+he shall sign it, but if not, he shall return it, with his objections, to the house in which it shall have
+originated, who shall enter the objections at large on their journal, and proceed to reconsider it; if,
+after such reconsideration, a majority of the whole number of that house shall agree to pass the
+bill, it shall be sent, together with the objections, to the other house, by which it shall likewise be
+reconsidered, and if approved of by a majority of the whole number of that house, it shall become
+a law; but in neither house shall the vote be taken on the same day on which the bill shall be
+returned to it; and in all such cases, the votes of both houses shall be determined by yeas and nays,
+and the names of the persons voting for and against the bill shall be entered on the journal of each
+house respectively. If any bill shall not be returned by the governor, within five days (Sunday
+excepted) after it shall have been presented to him, the same shall be a law in like manner as if he
+had signed it, unless the legislature by their adjournment prevent its return, in which case it shall
+not be a law.
+*** SEND ***
+*** SSTART 008.0 005.0 0 NJ 1844 ***
+
+8. No member of Congress, or person holding an office under the United States, or this State,
+shall exercise the office of governor; and in case the governor, or person administering the
+government, shall accept any office under the United States or this state, his office of governor
+shall thereupon be vacant.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 NJ 1844 ***
+
+9. The governor, or person administering the government, shall have power to suspend the
+collection of fines and forfeitures, and to grant reprieves, to extend until the expiration of a time
+not exceeding ninety days after conviction; but this power shall not extend to cases of
+impeachment.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 NJ 1844 ***
+
+10. The governor, or person administering the government, the chancellor, and the six Judges of
+the court of errors and appeals, or a major part of them, of whom the governor, or person
+administering the government, shall be one, may remit fines and forfeitures, and grant pardons,
+after conviction, in all cases except impeachment.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 NJ 1844 ***
+
+11. The governor and all other civil officers under this State shall be liable to impeachment for
+misdemeanor in office during their continuance in office, and for two years thereafter.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 NJ 1844 ***
+
+12. In case of the death, resignation or removal from office of the governor, the powers, duties
+and emoluments of the office shall devolve upon the president of the senate, and in case of his
+death, resignation or removal, then upon the speaker of the house of assembly, for, the time being,
+until another governor shall be elected and qualified; but in such case another governor shall be
+chosen at the next election for members of the legislature, unless such death, resignation or re-
+
+moval shall occur within thirty days immediately preceding such next election, in which case a
+governor shall be chosen at the second succeeding election for members of the legislature. When a
+vacancy happens during the recess of the legislature, in any office which is to be filled by the
+governor and senate, or by the legislature in joint meeting, the governor shall fill such vacancy and
+the commission shall expire at the end of the next session of the legislature, unless a successor
+shall be sooner appointed; when a vacancy happens in the office of clerk or surrogate of any
+county, the governor shall fill such vacancy, and the commission shall expire when a successor is
+elected and qualified.
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 NJ 1844 ***
+
+13. In case of the impeachment of the governor, his absence from the State or inability to
+discharge the duties of his office, the powers, duties and emoluments of the office shall devolve
+upon the president of the senate; and in case of his death, resignation or removal, then upon the
+speaker of the house of assembly for the time being until the governor, absent or impeached, shall
+return or be acquitted, or until the disqualification or inability shall cease, or until a new governor
+be elected and qualified.
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 NJ 1844 ***
+
+14. In case of a vacancy in the office of governor from any other cause than those herein
+enumerated, or in case of the death of the governor-elect before he is qualified into office, the
+powers, duties and emoluments of the office shall devolve upon the president of the senate or
+speaker of the house of assembly, as above provided for, until a new governor be elected and
+qualified.
+
+*** SEND ***
+
+*** AEND ***
+
+ARTICLE VI
+
+*** ASTART 006.0 NJ 1844 ***
+
+SECTION I
+
+*** SSTART 001.0 006.0 1 NJ 1844 ***
+
+1. The judicial power shall be vested in a court of errors and appeals in the last resort in all causes
+as heretofore; a court for the trial of impeachments; a court of chancery; a prerogative court; a su-
+
+preme court; circuit courts, and such inferior courts as now exist, and as may be hereafter
+ordained and established by law; which inferior courts the legislature may alter or abolish, as the
+public good shall require.
+
+*** SEND ***
+
+SECTION II
+
+*** SSTART 002.0 006.0 1 NJ 1844 ***
+
+1. The court of errors and appeals shall consist of the chancellor, the justices of the supreme
+court, and six judges, or a major part, of them; which judges are to be appointed for six years.
+
+*** SEND ***
+*** SSTART 002.0 006.0 2 NJ 1844 ***
+
+2. Immediately after the court shall first assemble, the six judges shall arrange themselves in such
+manner that the seat of one of them shall be vacated every year, in order that thereafter one judge
+may be annually appointed.
+
+*** SEND ***
+*** SSTART 002.0 006.0 3 NJ 1844 ***
+
+3. Such of the six judges as shall attend the court shall receive, respectively, a per diem
+compensation, to be provided by law.
+
+*** SEND ***
+*** SSTART 002.0 006.0 4 NJ 1844 ***
+
+4. The secretary of state shall be the clerk of this Court.
+
+*** SEND ***
+*** SSTART 002.0 006.0 5 NJ 1844 ***
+
+5. When an appeal from an order or decree shall be heard, the chancellor shall inform the court, in
+writing, of the reasons for his order or decree; but he shall not sit as a member, or have a voice in
+the hearing or final sentence.
+
+*** SEND ***
+*** SSTART 002.0 006.0 6 NJ 1844 ***
+
+6. When a writ of error shall be brought, no justice who has given a judicial opinion in the cause
+in favor of or against any error complained of, shall sit as a member, or have a voice on the
+hearing, or for its affirmance or reversal; but the reasons for such opinion shall be assigned to the
+court in writing.
+
+*** SEND ***
+
+SECTION III
+
+*** SSTART 003.0 006.0 1 NJ 1844 ***
+
+1. The house of assembly shall have the sole power of impeaching, by a vote of a majority of all
+the members; and all impeachments shall be tried by the senate; the members, when sitting for that
+purpose, to be on oath or affirmation "truly and impartially to try and determine the charge in
+question according to evidence;" and no person shall be convicted without the concurrence of
+two-thirds of all the members of the senate.
+
+*** SEND *** 
+*** SSTART 003.0 006.0 2 NJ 1844 ***
+
+2. Any judicial officer impeached shall be suspended from exercising his office until his acquittal.
+*** SEND ***
+*** SSTART 003.0 006.0 3 NJ 1844 ***
+
+3. Judgment in cases of impeachment shall not extend farther than to removal from office, and to
+disqualification to hold and enjoy any office of honor, profit or trust under this State; but the party
+convicted shall, nevertheless, be liable to indictment, trial and punishment according to law.
+
+*** SEND ***
+*** SSTART 003.0 006.0 4 NJ 1844 ***
+
+4. The secretary of state shall be the clerk of this court.
+
+*** SEND ***
+
+SECTION IV
+
+*** SSTART 004.0 006.0 1 NJ 1844 ***
+
+1. The court of chancery shall consist of a chancellor.
+
+*** SEND ***
+*** SSTART 004.0 006.0 2 NJ 1844 ***
+
+2. The chancellor shall be the ordinary or surrogate general, and judges of the prerogative court.
+
+*** SEND ***
+*** SSTART 004.0 006.0 3 NJ 1844 ***
+
+3. All persons aggrieved by any order, sentence or decree of the orphans' court, may appeal from
+the same, or from any part thereof, to the prerogative court; but such order, sentence or decree
+shall not be removed into the supreme court, or circuit court if the subject-matter thereof be
+within the jurisdiction of the orphans' court.
+
+*** SEND ***
+*** SSTART 004.0 006.0 4 NJ 1844 ***
+
+4. The secretary of state shall be the register of the prerogative court, and shall perform the duties
+required of him by law in that respect.
+
+*** SEND ***
+
+SECTION V
+
+*** SSTART 005.0 006.0 1 NJ 1844 ***
+
+1. The supreme court shall consist of a chief justice and four associate justices. The number of
+associate justices may be increased or decreased by law, but shall never be less than two.
+
+*** SEND ***
+*** SSTART 005.0 006.0 2 NJ 1844 ***
+
+2. The circuit courts shall be held in every county of this State, by one or more of the justices of
+the supreme court, or a judge appointed for that purpose, and shall, in all cases within the county
+except in those of criminal nature, have common law jurisdiction, concurrent with the supreme
+court; and any final judgment of a circuit court may be docketed in the supreme court, and shall
+operate as a judgment obtained in the supreme court from the time of such docketing.
+*** SEND ***
+*** SSTART 005.0 006.0 3 NJ 1844 ***
+
+3. Final judgments in any circuit court may be brought by writ of error into the supreme court, or
+directly into the court of errors and appeals.
+
+*** SEND ***
+
+SECTION VI
+
+*** SSTART 006.0 006.0 1 NJ 1844 ***
+
+1. There shall be no more than five judges of the inferior court of common pleas in each of the
+counties in this State, after the terms of the judges of said court now in office shall terminate. One
+judge for each county shall be appointed every year, and no more, except to fill vacancies, which
+shall be for the unexpired term only.
+
+*** SEND ***
+*** SSTART 006.0 006.0 2 NJ 1844 ***
+
+2. The commissions for the first appointments of judges of said court shall bear date and take
+effect on the first day of April next; and all subsequent commissions for judges of said court shall
+bear date and take effect on the first day of April in every successive year, except commissions to
+fill vacancies, which shall bear date and take effect when issued.
+
+*** SEND ***
+
+SECTION VII
+
+*** SSTART 007.0 006.0 1 NJ 1844 ***
+
+1. There may be elected under this constitution two, and not more than five, justices of the peace
+in each of the townships of the several counties of this State, and in each of the wards, in cities
+that may vote in wards. When a township or ward contains two thousand inhabitants or less, it
+may have two justices; when it contains more than two thousand inhabitants, and not more than
+four thousand, it may have four justices; and when it contains more than four thousand
+inhabitants, it may have five justices; provided, that whenever any township not voting in wards
+contains more than seven thousand inhabitants, such township may have an additional justice for
+each additional three thousand inhabitants above four thousand.
+
+*** SEND ***
+*** SSTART 007.0 006.0 2 NJ 1844 ***
+
+2. The population of the townships in the several counties of the State and of the several wards
+shall be ascertained by the last preceding census of the United States, until the legislature shall
+provide, by law, some other mode of ascertaining it.
+
+*** SEND ***
+
+*** AEND ***
+
+ARTICLE VII
+
+*** ASTART 007.0 NJ 1844 ***
+
+SECTION I
+
+*** SSTART 001.0 007.0 1 NJ 1844 ***
+1. The legislature shall provide by law for enrolling, organizing and arming the militia.
+
+*** SEND ***
+*** SSTART 001.0 007.0 2 NJ 1844 ***
+
+2. Captains, subalterns and non-commissioned officers shall be elected by the members of their
+respective companies.
+
+*** SEND ***
+*** SSTART 001.0 007.0 3 NJ 1844 ***
+
+3. Field officers of regiments, independent battalions and squadrons shall be elected by the
+commissioned officers of their respective regiments, battalions, or squadrons.
+
+*** SEND ***
+*** SSTART 001.0 007.0 4 NJ 1844 ***
+
+4. Brigadier-generals shall be elected by the field officers of their respective brigades.
+
+*** SEND ***
+*** SSTART 001.0 007.0 5 NJ 1844 ***
+
+5. Major-generals shall be nominated by the governor, and appointed by him, with the advice and
+consent of the senate.
+
+*** SEND ***
+*** SSTART 001.0 007.0 6 NJ 1844 ***
+
+6. The legislature shall provide, by law, the time and manner of electing militia officers, and of
+certifying their elections to the governor, who shall grant their commissions, and determine their
+rank, when, not determined by law; and no commissioned-officer shall be removed from office but
+by the sentence of a court-martial, pursuant to law.
+
+*** SEND ***
+*** SSTART 001.0 007.0 7 NJ 1844 *** 
+
+7. In case the electors of subalterns, captains or field officers shall refuse or neglect to make such
+elections, the governor shall have power to appoint such officers, and to fill all vacancies caused
+by such refusal or neglect.
+
+*** SEND ***
+*** SSTART 001.0 007.0 8 NJ 1844 ***
+
+8. Brigade inspectors shall be chosen by the field officers of their respective brigades.
+
+*** SEND ***
+*** SSTART 001.0 007.0 9 NJ 1844 ***
+
+9. The governor shall appoint the adjutant-general, quartermaster general, and all other militia
+officers whose appointment is not otherwise provided for in this constitution.
+
+*** SEND ***
+*** SSTART 001.0 007.0 10 NJ 1844 ***
+
+10. Major-generals, brigadier-generals and commanding officers of regiments, independent
+battalions and squadrons shall appoint the staff officers of their divisions, brigades, regiments,
+independent battalions and squadrons, respectively.
+
+*** SEND ***
+
+SECTION II
+
+*** SSTART 002.0 007.0 1 NJ 1844 ***
+
+1. Justices of the supreme court, chancellor, judges of the court of errors and appeals shall be
+nominated by the governor, and appointed by him, with the advice and consent of the senate.
+The justices of the supreme court and chancellor shall hold their offices for the term of seven
+years; shall, at stated times, receive for their services a compensation which shall not be
+diminished during the term of their appointments; and they shall hold no other office under the
+government of this State or of the United States.
+
+*** SEND ***
+*** SSTART 002.0 007.0 2 NJ 1844 ***
+
+2. Judges of the courts of common pleas shall be appointed by the senate and general assembly, in
+joint meeting.
+They shall hold their offices for five years; but when appointed to fill vacancies, they shall hold for
+the unexpired term only.
+
+*** SEND ***
+*** SSTART 002.0 007.0 3 NJ 1844 *** 
+                                 
+3. The state treasurer and the keeper and inspectors of the state prison shall be appointed by the
+senate and general assembly, in joint meeting.
+They shall hold their offices for one year, and until their successors shall be qualified into office.
+
+[In 1875, paragraph 3 was amended and renumbered paragraph 2.]
+
+*** SEND ***
+*** SSTART 002.0 007.0 4 NJ 1844 ***
+
+4. The attorney-general, prosecutors of the pleas, clerk of the supreme court, clerk of the court of
+chancery, and secretary of state shall be nominated by the governor, and appointed by him, with
+the advice and consent of the senate.
+They shall hold their offices for five years.
+   
+[In 1875, paragraph 4 was amended and renumbered paragraph 3.]
+
+*** SEND ***
+*** SSTART 002.0 007.0 5 NJ 1844 ***
+
+5. The law reporter shall be appointed by the justices of the supreme court, or a majority of them;
+and the chancery reporter shall be appointed by the chancellor.
+   They shall hold their offices for five years.
+
+[In 1875, paragraph 5 was renumbered paragraph 4.]
+
+*** SEND ***
+*** SSTART 002.0 007.0 6 NJ 1844 ***
+
+   6. Clerks and surrogates of counties shall be elected by the people of their respective counties,
+at the annual elections for members of the general assembly.
+They shall hold their offices for five years.
+
+[In 1875, paragraph 6 was renumbered paragraph 5.]
+
+*** SEND ***
+*** SSTART 002.0 007.0 7 NJ 1844 ***
+
+                                   7.   Sheriffs and coroners shall be elected annually by the people of their respective counties, at
+the annual elections for members of the general assembly. They may be reelected until they have
+served three years, but no longer; after which three years must elapse before they can be again
+capable of serving.
+
+[In 1875, paragraph 7 was renumbered paragraph 6.]
+
+*** SEND ***
+*** SSTART 002.0 007.0 8 NJ 1844 *** 
+
+8. Justices of the peace shall be elected by ballot at the annual meetings of the townships in the
+several counties of the State, and of the wards in cities that may vote in wards, in such manner
+and under such regulations as may be hereafter provided by law.
+They shall be commissioned for the county, and their commissions shall bear date and take effect
+on the first day of May next after their election.
+They shall hold their offices for five years; but when elected to fill vacancies, they shall hold for
+the unexpired term only; provided, that the commission of any justice of the peace shall become
+vacant upon his ceasing to reside in the township in which he was elected.
+The first election for justices of the peace shall take place at the next annual town-meetings of the
+townships in the several counties of the State and of the wards in cities that may vote in wards.
+
+[In 1875, paragraph 8 was renumbered paragraph 7.]
+
+*** SEND ***
+*** SSTART 002.0 007.0 9 NJ 1844 ***
+
+9. All other officers, whose appointments are not otherwise provided for by law, shall be
+nominated by the governor, and appointed by him, with the advice and consent of the senate; and
+shall hold their offices for the time prescribed by law.
+
+[In 1875, paragraph 9 was renumbered paragraph 8.]
+
+*** SEND ***
+*** SSTART 002.0 007.0 10 NJ 1844 ***
+
+10. All civil officers elected or appointed pursuant to the provisions of this constitution, shall be
+commissioned by the governor.
+
+[In 1875, paragraph 10 was renumbered paragraph 9.]
+
+*** SEND ***
+*** SSTART 002.0 007.0 11 NJ 1844 ***
+
+11. The term of office of all officers elected or appointed, pursuant to the provisions of this
+constitution, except when herein otherwise directed, shall commence on the day of the date of
+their respective commissions; but no commission for any office shall bear date prior to the
+expiration of the term of the incumbent of said office.
+
+[In 1875, paragraph 11 was renumbered paragraph 10.]
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 008.0 NJ 1844 ***
+
+
+ARTICLE VIII
+
+*** SSTART 001.0 008.0 0 NJ 1844 ***
+
+1. The secretary of state shall be ex officio an auditor of the accounts of the treasurer, and as
+such, it shall be his duty to assist the legislature in the annual examination and settlement of said
+accounts, until otherwise provided by law.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 NJ 1844 ***
+
+2. The seal of the State shall be kept by the governor, or person administering the government,
+and used by him officially, and shall be called the great seal of the State of New Jersey.
+     
+*** SEND ***
+*** SSTART 003.0 008.0 0 NJ 1844 ***
+
+3. All grants and commissions shall be in the name and by the authority of the State of New
+Jersey, sealed with the great seal, signed by the governor, or person administering the
+government, and countersigned by the secretary of state, and it shall run thus: "The State of New
+Jersey, to greeting." All writs shall be in the name of the State; and all indictments shall conclude
+in the following manner, viz., "against the peace of this State, the government and dignity of the
+same."
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 NJ 1844 ***
+
+4. This constitution shall take effect and go into operation on the second day of September, in the
+year of our Lord one thousand eight hundred and forty-four.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 009.0 NJ 1844 ***
+
+
+ARTICLE IX
+*** SSTART 001.0 009.0 0 NJ 1844 ***
+
+   Any specific amendment or amendments to the constitution may be proposed in the senate or
+general assembly, and if the same shall be agreed to by a majority of the members elected to each
+of the two houses, such proposed amendment or amendments shall be entered on their journals,
+with the yeas and nays taken thereon, and referred to the legislature then next to be chosen, and
+shall be published for three months previous to making such choice, in at least one newspaper of
+each county, if any be published therein; and if in the legislature next chosen as aforesaid, such
+proposed amendment or amendments, or any of them, shall be agreed to by a majority of all the
+members elected to each house, then it shall be the duty of the legislature to submit such proposed
+amendment or amendments, or such of them as may have been agreed to as aforesaid by the two
+legislatures, to the people, in such manner and at such time, at least four months after the
+adjournment of the legislature, as the legislature shall prescribe; and if the people at a special
+election to be held for that purpose only shall approve and ratify such amendment or amendments,
+or any of them, by a majority of the electors qualified to vote for members of the legislature
+voting thereon, such amendment or amendments so approved and ratified shall become part of the
+constitution; provided that if more than one amendment be submitted, they shall be submitted in
+such manner and form that the people may vote for or against each amendment separately and
+distinctly; but no amendment or amendments shall be submitted to the people by the legislature
+oftener than once in five years.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 010.0 NJ 1844 ***
+
+ARTICLE X
+That no inconvenience may arise from the change in the constitution of this State, and in order to
+carry the same into complete operation, it is hereby declared and ordained, that
+
+*** SSTART 001.0 010.0 0 NJ 1844 ***
+
+1. The common law and the statute laws now in force, not repugnant to this constitution, shall
+remain in force until they expire by their own limitation, or be altered or repealed by the
+legislature; and all writs, actions, causes of action, prosecutions, contracts, claims and rights of
+individuals and of bodies corporate, and of the State, and all charters of incorporation, shall
+continue, and all indictments which shall have been found, or which may hereafter be found, for
+tiny crime or offense committed before the adoption of this constitution, may be proceeded upon
+as if no change had taken place. The several courts of law and equity, except as herein otherwise
+provided, shall continue with the like powers and jurisdiction as if this constitution had not been
+adopted.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 NJ 1844 ***
+
+2. All officers now filling any office or appointment shall continue in the exercise of the duties
+thereof, according to their respective commissions or appointments, unless by this constitution it
+is otherwise directed.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 NJ 1844 ***
+
+3. The present governor, chancellor and ordinary or surrogate-general and treasurer shall continue
+in office until successors elected or appointed under this constitution shall be sworn or affirmed
+into office.
+
+*** SEND ***
+*** SSTART 004.0 010.0 0 NJ 1844 ***
+
+4. In case of the death, resignation or disability of the present governor, the person who may be
+vice-president of council at the time of the adoption of this constitution shall continue in office
+and administer the government until a governor shall have been elected and sworn or affirmed into
+office under this constitution.
+
+*** SEND ***
+*** SSTART 005.0 010.0 0 NJ 1844 ***
+
+5. The present governor, or in case of his death or inability to act, the vice-president of council,
+together with the present members of the legislative council and secretary of state, shall constitute
+a board of state canvassers, in the manner now provided by law, for the purpose of ascertaining
+and declaring the result of the next ensuing election for governor, members of the house of
+representatives, and electors of president and vice-president.
+                                 
+*** SEND ***
+*** SSTART 006.0 010.0 0 NJ 1844 ***
+
+6. The returns of the votes for governor, at the said next ensuing election, shall be transmitted to
+the secretary of state, the votes counted, and the election declared in the manner now provided by
+law in the case of the election of electors of president and vice-president.
+
+*** SEND ***
+*** SSTART 007.0 010.0 0 NJ 1844 ***
+
+7. The election of clerks and surrogates, in those counties where the term of office of the present
+incumbent shall expire previous to the general election of eighteen hundred and forty-five, shall be
+held at the general election next ensuing the adoption of this constitution; the result of which
+election shall be ascertained in the manner now provided by law for the election of sheriffs.
+
+*** SEND ***
+*** SSTART 008.0 010.0 0 NJ 1844 ***
+
+8. The elections for the year eighteen hundred and forty-four shall take place as now provided by
+law.
+
+*** SEND ***
+*** SSTART 009.0 010.0 0 NJ 1844 ***
+
+9. It shall be the duty of the governor to fill all vacancies in office happening between the adoption
+of this constitution and the first session of the senate, and not otherwise provided for, and the
+commissions shall expire at the end of the first session of the senate, or when successors shall be
+elected or appointed and qualified.
+
+*** SEND ***
+*** SSTART 010.0 010.0 0 NJ 1844 ***
+
+10. The restriction of the pay of members of the legislature, after forty days from the
+commencement of the session, shall not be applied to the first legislature convened under this
+constitution.
+
+*** SEND ***
+*** SSTART 011.0 010.0 0 NJ 1844 ***
+
+11. Clerks of counties shall be clerks of the inferior courts of common pleas and quarter sessions
+of the several counties, and perform the duties, and be subject to the regulations now required of
+them by law until otherwise ordained by the legislature.
+
+*** SEND ***                     
+*** SSTART 012.0 010.0 0 NJ 1844 *** 
+
+12. The legislature shall pass all laws necessary to carry into effect the provisions of this
+constitution.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 9016 NJ 1844 ***
+
+STATE OF NEW JERSEY:
+I, Alexander Wurts, Secretary of State of the State of New Jersey, do hereby certify the foregoing
+to be a true copy of the Constitution of the State of New Jersey as amended, as the same is taken
+from and compared with the original Constitution and amendments thereto, now remaining on file
+in my office.
+In testimony whereof, I have hereunto set my hand and affixed my official seal, this twenty-sixth
+day of October, A. D. eighteen hundred and ninety-seven. 
+[ L. S. ]                                                                                                                                          
+  ALEXANDER  WURTS.
+
+*** AEND ***
+*** CEND ***
+
+
+AMENDMENTS TO CONSTITUTION OF 1844
+
+*** MSTART 001 019.0 001.0 0 NJ 1844 1875 ***
+
+19.  No county, city borough, town, township or village shall hereafter give any money or
+property, or loan its money or credit, to or in aid of any individual, association or corporation, or
+become security for, or be directly or indirectly the owner of any stock or bonds of any
+association or corporation.
+
+[New. Added 9/7/1875, in force 9/28/1875]
+
+*** MEND *** 
+
+*** MSTART 002 020.0 001.0 0 NJ 1844 1875 ***
+
+20.  No donation of land or appropriation of money shall be made by the state or any municipal
+corporation to or for the use of any society, association or corporation whatever.
+
+[New. Added 9/7/1875, in force 9/28/1875]
+
+*** MEND ***
+
+*** MSTART 003 021.0 001.0 0 NJ 1844 1875 ***
+
+21. This enumeration of rights and privileges shall not be construed to impair or deny others
+retained by the people.
+
+[Formerly Section 19.
+
+(Amended 9/7/1875, in force 9/28/1875)]
+
+*** MEND ***
+
+*** MSTART 004 001.0 002.0 0 NJ 1844 1875 ***
+
+ 1.  Every male citizen of the United States, of the age of twenty-one years, who shall have been a
+resident of this State one year, and of the county in which he claims his vote five months, next
+before the election, shall be entitled to vote for all officers that now are, or hereafter may be,
+elective by the people; provided, that no person in the military, naval or marine service of the
+United States shall be considered a resident in this State, by being stationed in any garrison,
+barrack, or military or naval place or station within this State; and no pauper, idiot, insane person,
+or person convicted of a crime which now excludes him from being a Witness unless pardoned or
+restored by law to the right of suffrage, shall enjoy the right of an elector; and provided further,
+that in time of war no elector in the actual military service of the State, or of the United States, in
+the army or navy thereof, shall be deprived of his vote by reason of his absence from such election
+district; and the legislature shall have power to provide the manner in which, and the time and
+place at which, such absent electors may vote, and for the return and canvass of their votes in the
+election districts in which they respectively reside.
+
+[(Amended 9/7/1875, in force 9/28/1875)]
+
+*** MEND ***
+
+*** MSTART 005 002.0 002.0 0 NJ 1844 1875 ***
+
+2. The legislature may pass laws to deprive persons of the right of suffrage who shall be convicted
+of bribery.
+
+[Amended 9/7/1875, in force 9/28/1875]
+
+*** MEND ***
+
+*** MSTART 006 001.0 004.0 3 NJ 1844 1875 *** 
+
+3. Members of the senate and general assembly shall be elected yearly and every year, on the first
+Tuesday after the first Monday in November; and the two houses shall meet separately on the
+second Tuesday in January next after the said day of election, at which time of meeting the
+legislative year shall commence; but the time of holding such election may be altered by the
+legislature.
+
+[Amended 9/7/1875, in force 9/28/1875]
+
+*** MEND ***
+
+*** MSTART 007 004.0 004.0 7 NJ 1844 1875 ***
+
+7. Members of the senate and general assembly shall receive annually the sum of five hundred
+dollars during the time for which they shall hold their office, and no other allowance or
+emoluments, directly or indirectly, for any purpose whatever.  The president of the senate and the
+speaker of the house of assembly shall, in virtue of their offices, receive an additional
+compensation, equal to one-third of their allowance as members.
+
+[Amended 9/7/1875, in force 9/28/1875)]
+
+*** MEND ***
+
+*** MSTART 008 007.0 004.0 4 NJ 1844 1875 ***
+
+4.  To avoid improper influences which may result from intermixing in one and the same act such
+things as have no proper relation to each other, every law shall embrace but one object, and that
+shall be expressed in the title.  No law shall be revived or amended by reference to its title only,
+but the act revived, or the section or sections amended, shall be inserted at length.  No general
+law shall embrace any provision of a private, special or local character.  No act shall be passed
+which shall provide that any existing law, or any part thereof, shall be made or deemed a part of
+the act or which shall be applicable, except by inserting it in such act.
+
+*** MEND ***
+*** MSTART 009 007.0 004.0 6 NJ 1844 1875 ***
+
+6.  The fund for support of free schools, and all money, stock, and other property which may
+hereafter be appropriated for that purpose, or received into the treasury under the provision of
+any law heretofore passed to augment the said fund, shall be securely invested and remain a
+perpetual fund; and the income thereof, except so much as it may be judged expedient to apply to
+an increase of the capital, shall be annually appropriated to the support of public free schools, for
+the equal benefit of all people of the State; and it shall not be competent for the legislature to
+borrow, appropriate or use the said fund, or any part thereof, for any other purpose, under any
+pretense whatever.  The legislature shall provide for the maintenance and support of a thorough
+and efficient system of free public schools for the instruction of all the children in this state
+between the ages of five and eighteen years.
+
+*** MEND ***
+*** MSTART 010 007.0 004.0 8 NJ 1844 1875 ***
+
+8.  Individuals or private corporations shall not be authorized to take private property for public
+use without just compensation first made to the owners. 
+
+[Formerly Article IV, Section 7, paragraph 9.  Former language in paragraph 8 removed by
+amendment in 1875.]
+
+*** MEND ***
+*** MSTART 011 007.0 004.0 9 NJ 1844 1875 ***
+
+9.  No private, special or local bill shall be passed unless public notice of the intention to apply
+therefor, and  of the general object thereof, shall have been previously given.  The legislature, at
+the next session after the adoption thereof, and from time to time thereafter, shall prescribe the
+time and mode of giving such notice, the evidence thereof, and how such evidence shall be
+preserved.
+
+*** MEND ***
+
+*** MSTART 012 007.0 009.0 11 NJ 1844 1875 ***
+
+11.  The legislature shall not pass private, local or special laws in any of the following enumerated
+cases, that is to say:
+Laying out, opening, altering and working roads or highways.
+Vacating any road, town plot, street, alley or public grounds.
+Regulating the internal affairs of towns and counties; appointing local offices or commissions to
+regulate municipal affairs.
+Selecting, drawing, summoning or empanelling grand or petit jurors.
+Creating, increasing or decreasing the per centage or allowance of public officers during the term
+for which said officers were elected or appointed.
+Changing the law of descent.
+Granting to any corporation, association or individual any exclusive privilege, immunity or
+franchise whatever.
+Granting to any corporation, association or individual the right to lay down railroad tracks.
+Providing for changes of venue in civil or criminal cases.  
+Providing for the management and support of free public schools.
+The legislature shall pass general laws providing for the cases enumerated in this paragraaph, and
+for all other cases which, in its judgement, may be provided for by general laws.  The legislature
+shall pass no special act conferring corporate powers, but they shall pass general laws under
+which corporations may be organized and corporate powers of every nature obtained, subject,
+nevertheless, to repeal or alteration at the will of the legislature.
+12.  Property shall be assessed for taxes under general laws, and by uniform rules, according to its
+true value.
+
+[New.  Adopted  9/7/1875, in force 9/28/75]
+
+*** MEND ***
+*** MSTART 013 008.0 004.0 2 NJ 1844 1875 *** 
+
+2.  Every officer of the legislature shall, before he enters upon his duties take and subscribe the
+following oath or affirmation: " I do solemnly promise and swear (or affirm) that I will faithfully,
+impartially and justly perform all the duties of the office of ------, to the best of my ability and
+understanding; that I will carefully preserve all records, papers, writing or property entrusted to
+me for safe keeping by virtue of my office, and make such disposition of the same as may be
+required by law."
+
+[New. Adopted 9/7/1875, in force 9/28/75]
+
+*** MEND ***
+
+*** MSTART 014 006.0 005.0 0 NJ 1844 1875 *** 
+
+6 . He shall be the commander-in-chief of all the military and naval forces of the State; he shall
+have power to convene the legislature, or the senate alone, whenever in his opinion public
+necessity requires it; he shall communicate by message to the legislature at the opening of each
+session, and at such other times as he may deem necessary, the condition of the State, and
+recommend such measures as he may deem expedient; he shall take care that the laws be faithfully
+executed, and grant, under the great seal of the State, commissions to all such officers as shall be
+required to be commissioned
+
+[Amended 9/7/1875, in force 9/28/1875.]
+
+*** MEND***
+*** MSTART 015 007.0 005.0 0 NJ 1844 1875 ***
+
+7. Every bill which shall have passed both houses shall be presented to the governor; if he approve
+he shall sign it, but if not, he shall return it, with his objections, to the house in which it shall have
+originated, who shall enter the objections at large on their journal, and proceed to reconsider it; if,
+after such reconsideration, a majority of the whole number of that house shall agree to pass the
+bill, it shall be sent, together with the objections, to the other house, by which it shall likewise be
+reconsidered, and if approved of by a majority of the whole number of that house, it shall become
+a law; but in neither house shall the vote be taken on the same day on which the bill shall be
+returned to it; and in all such cases, the votes of both houses shall be determined by yeas and nays,
+and the names of the persons voting for and against the bill shall be entered on the journal of each
+house respectively. If any bill shall not be returned by the governor, within five days (Sunday
+excepted) after it shall have been presented to him, the same shall be a law in like manner as if he
+had signed it, unless the legislature by their adjournment prevent its return, in which case it shall
+not be a law.  If any bill presented to the governor contains several items of appropriations of
+money, he may object to one or more  of such items while approving of the other portions of the
+bill.  In such case he shall append to the bill, at the time of signing it, a statement of the items to
+which he objects, and the appropriations so objected to shall not take effect.  If the legislature be
+in session he shall transmit to the house in which the bill originated a copy of such statement, and
+the items objected to shall be separately reconsidered.  If, reconsideration, one or more of such
+items be approved by a majority of the members elected to each house, the same shall be a part of
+the law, notwithstanding the objections of the governor.  All the provisions of this section in
+relation to bills not approved by the governor shall apply to cases in which he shall withhold his
+approval from any item or items contained in a bill appropriating money.
+
+[Amended 9/7/1875, in force 9/28/1875.]
+
+*** MEND ***
+*** MSTART 016 008.0 005.0 0 NJ 1844 1875 ***
+
+
+8. No member of Congress, or person holding an office under the United States, or this State,
+shall exercise the office of governor; and in case the governor, or person administering the
+government, shall accept any office under the United States or this state, his office of governor
+shall thereupon be vacant.  Nor shall he be elected by the legislature to any office under the
+government of this state or of the United States, during the term for which he shall have been
+elected governor.
+
+[Amended 9/7/1875, in force 9/28/1875.]
+
+*** MEND ***
+*** MSTART 017 001.0 007.0 5 NJ 1844 1875 ***
+
+5. Major-generals, the adjutant-general and quartermaster-general shall be nominated by the
+governor, and appointed by him, with the advice and consent of the senate.
+
+[Amended 9/7/1875, in force 9/28/1875.]
+
+*** MEND ***
+*** MSTART 018 001.0 007.0 9 NJ 1844 1875 *** 
+
+9. The governor shall appoint all militia officers whose appointment is not otherwise provided for
+in this constitution.
+
+[Amended 9/7/1875, in force 9/28/1875]
+
+*** MEND ***
+*** MSTART 019 002.0 007.0 1 NJ 1844 1875 ***
+
+1. Justices of the supreme court, chancellor, judges of the court of errors and appeals and judges
+of the inferior court of common pleas shall be nominated by the governor, and appointed by him,
+with the advice and consent of the senate.
+The justices of the supreme court and chancellor shall hold their offices for the term of seven
+years; shall, at stated times, receive for their services a compensation which shall not be
+diminished during the term of their appointments; and they shall hold no other office under the
+government of this State or of the United States.
+
+[Amended 9/7/1875, in force 9/28/1875]
+
+*** MEND ***
+*** MSTART 020 002.0 007.0 2 NJ 1844 1875 ***
+
+2. Judges of the courts of common pleas shall be appointed by the senate and general assembly, in
+joint meeting.
+They shall hold their offices for five years; but when appointed to fill vacancies, they shall hold for
+the unexpired term only.
+
+[Note: In 1875, Article VII, Section2, paragraph 3 is renumbered paragraph 2.  This is the
+original text of Article VII, Section 2,, with one change.  It is unclear from the extant sources
+what became of the original Article VII, Section 2, paragraph 2.
+
+Amended 9/7/1875, in force 9/28/1875]
+
+*** MEND ***
+*** MSTART 021 002.0 007.0 2 NJ 1844 1875 ***
+
+2. The state treasurer and comptroller shall be appointed by the senate and general assembly, in
+joint meeting.
+They shall hold their offices for three years, and until their successors shall be qualified into office.
+
+[Formerly Article VII, Section 2, paragraph 3.  Amended 9/7/1875, in force 9/28/1875]
+
+*** MEND ***
+*** MSTART 022 002.0 007.0 3 NJ 1844 1875 ***
+
+3.  The attorney-general, prosecutors of the pleas, clerk of the supreme court, clerk of the court
+of chancery, secretary of state and the keeper of the state prison shall be nominated by the
+governor, and appointed by him, with the advice and consent of the senate.
+They shall hold their offices for five years.
+   
+[Formerly Article VII, Section 2, paragraph 4.  Amended 9/7/1875, in force 9/28/1875.]
+
+*** MEND ***
+*** MSTART 023 002.0 007.0 4 NJ 1844 1875 ***
+
+    4. The law reporter shall be appointed by the justices of the supreme court, or a majority of
+them; and the chancery reporter shall be appointed by the chancellor.
+   They shall hold their offices for five years.
+
+[Formerly Article VII, Section 2, paragraph 4.  Amended 9/7/1875, in force 9/28/1875.]
+
+*** MEND ***
+*** MSTART 024 002.0 007.0 5 NJ 1844 1875 ***
+
+     5. Clerks and surrogates of counties shall be elected by the people of their respective counties,
+at the annual elections for members of the general assembly.
+They shall hold their offices for five years.
+
+[Formerly Article VII, Section 2, paragraph 4.  Amended 9/7/1875, in force 9/28/1875.]
+
+*** MEND ***
+*** MSTART 025 002.0 007.0 6 NJ 1844 1875 ***
+
+    6.                             Sheriffs and coroners shall be elected by the people of their respective counties, at the
+elections for members of the general assembly, and they shall hold their offices for three years,
+after which three years must elapse before they can be again capable of serving. Sheriffs shall
+annually renew their bonds.
+
+[Formerly Article VII, Section 2, paragraph 4.  Amended 9/7/1875, in force 9/28/1875.]
+
+*** MEND ***
+*** MSTART 026 002.0 007.0 7 NJ 1844 1875 ***
+
+7. Justices of the peace shall be elected by ballot at the annual meetings of the townships in the
+several counties of the State, and of the wards in cities that may vote in wards, in such manner
+and under such regulations as may be hereafter provided by law.
+They shall be commissioned for the county, and their commissions shall bear date and take effect
+on the first day of May next after their election.
+They shall hold their offices for five years; but when elected to fill vacancies, they shall hold for
+the unexpired term only; provided, that the commission of any justice of the peace shall become
+vacant upon his ceasing to reside in the township in which he was elected.
+The first election for justices of the peace shall take place at the next annual town-meetings of the
+townships in the several counties of the State and of the wards in cities that may vote in wards.
+
+[Formerly Article VII, Section 2, paragraph 8.  Amended 9/7/1875, in force 9/28/1875.]
+
+*** MEND ***
+*** MSTART 027 002.0 007.0 8 NJ 1844 1875 ***
+
+8. All other officers, whose appointments are not otherwise provided for by law, shall be
+nominated by the governor, and appointed by him, with the advice and consent of the senate; and
+shall hold their offices for the time prescribed by law.
+
+[Formerly Article VII, Section 2, paragraph 8. Amended 9/7/1875, in force 9/28/1875.]
+
+*** MEND ***
+*** MSTART 028 002.0 007.0 9 NJ 1844 1875 ***
+
+9. All civil officers elected or appointed pursuant to the provisions of this constitution, shall be
+commissioned by the governor.
+
+[Formerly Article VII, Section 2, paragraph 10.  Amended 9/7/1875, in force 9/28/1875.]
+
+*** MEND ***
+*** MSTART 029 002.0 007.0 10 NJ 1844 1875 ***
+
+10. The term of office of all officers elected or appointed, pursuant to the provisions of this
+constitution, except when herein otherwise directed, shall commence on the day of the date of
+their respective commissions; but no commission for any office shall bear date prior to the
+expiration of the term of the incumbent of said office.
+
+[Formerly Article VII, Section 2, paragraph 11.  Amended 9/7/1875, in force 9/28/1875.]
+                                 
+*** MEND ***
+
+*** MSTART 030 007.0 004.0 2 NJ 1844 1897 ***
+
+2.  No lottery shall be authorized the legislature or otherwise in this State, and not ticket in any
+lottery shall be bought or sold within this state, nor shall pool-selling, book -making or gambling
+of any kind be authorized or allowed within this state, nor shall any gambling device, practice or
+game of chance now prohibited by law be legalized, or the remedy, penalty or punishment now
+provided therefor be in any way diminished.
+
+[Amended 9/28/1897.]
+
+*** MEND ***
+*** MSTART 031 012.0 005.0 12 NJ 1844 1897 ***
+
+12. In case of the death, resignation or removal from office of the governor, the powers, duties
+and emoluments of the office shall devolve upon the president of the senate, and in case of his
+death, resignation or removal, then upon the speaker of the house of assembly, for, the time being,
+until another governor shall be elected and qualified; but in such case another governor shall be
+chosen at the next election for members of the legislature, unless such death, resignation or re-
+
+moval shall occur within thirty days immediately preceding such next election, in which case a
+governor shall be chosen at the second succeeding election for members of the legislature. When a
+vacancy happens during the recess of the legislature, in any office which is to be filled by the
+governor and senate, or by the legislature in joint meeting, the governor shall fill such vacancy and
+the commission shall expire at the end of the next session of the legislature, unless a successor
+shall be sooner appointed; when a vacancy happens in the office of clerk or surrogate of any
+county, the governor shall fill such vacancy, and the commission shall expire when a successor is
+elected and qualified.  No person who shall have been nominated to the senate by the governor for
+any office of trust or profit under the government of this state and shall not have been confirmed
+before the recess of the legislature, shall be eligible for appointment to such office during the
+continuance of such recess.
+
+[Amended 9/28/1897]
+
+*** MEND ***
+*** MSTART 032 006.0 004.0 5 NJ 1844 1927 ***
+
+5.  The legislature may enact general laws under which municipalities, other than counties, may
+adopt zoning ordinances limiting and restricting to specified districts and regulating therein,
+buildings and structures, according to their construction, and the nature and extent of their use,
+and the exercise of such authority shall be deemed to be within the police power of the State. 
+Such laws shall be subject to repeal or alteration by the Legislature. 
+
+[New.  Added 9/20/1927]
+
+*** MEND ***
+*** MSTART 033 007.0 004.0 2 NJ 1844 1939 ***
+
+It shall be lawful to hold, carry on, and operate in this State race meetings whereat the trotting,
+running or steeplechase racing of horses only may be conducted between the hours of sunrise and
+sunset on week days only and in duly legalized racetracks, at which the pari-mutuel system of
+betting shall be permitted. No lottery, roulette, or game of chance of any form shall be authorized
+by the Legislature in this State, and no ticket in any lottery shall be bought or sold within this
+State, or offered for sale; nor shall pool-selling, book-making, or gambling of any kind be
+authorized or allowed within this State, except pari-mutuel betting on the results of the racing of
+horses only, from which the State shall derive a reasonable revenue for the support of
+government; nor shall any gambling device, practice, or game of chance, or pari-mutuel betting
+thereon now prohibited by law, except as herein stated and otherwise provided, be legalized, or
+the remedy, penalty, or punishment now provided therefor be in any way diminished. 
+
+[Amended June 20, 1939.]
+
+*** MEND ***                     

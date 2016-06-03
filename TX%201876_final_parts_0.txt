@@ -1,0 +1,2279 @@
+Doug Campbell worked on Texas
+
+I think it is ready to go
+JW 7/1/06
+
+          
+
+*** CSTART TX 2/15/1876 01/01/2006 *** 
+
+CONSTITUTION OF TEXAS-1876
+*** ASTART 9001.0 TX 1876 ***
+PREAMBLE
+
+Humbly invoking the blessing of Almighty God, the people of the State of Texas do ordain and
+establish this constitution.
+
+*** AEND ***
+*** ASTART 001.0 TX 1876 ***
+
+ARTICLE I
+
+BILL OF RIGHTS
+
+That the general, great, and essential principles of liberty and free government may be recognized
+and established, we declare-
+
+*** SSTART 001.0 001.0 0 TX 1876 ***
+SECTION 1. Texas is a free and independent State, subject only to the Constitution of the United
+States; and the maintenance of our free institutions and the perpetuity of the Union depend upon
+the preservation of the right of local self-government unimpaired to all the States.
+*** SEND ***
+*** SSTART 002.0 001.0 0 TX 1876 ***
+SEC. 2. All political power is inherent in the people, and all free governments are founded on
+their authority, and instituted for their benefit. The faith of the people of Texas stands pledged to
+the preservation of a republican form of government, and, subject to this limitation only, they
+have at all times the inalienable right to alter, reform, or abolish their government in such manner
+as they may think expedient.
+*** SEND ***
+*** SSTART 003.0 001.0 0 TX 1876 ***
+SEC. 3. All free men when they form a social compact have equal rights, and no man, or set of
+men, is entitled to exclusive separate public emoluments, or privileges, but in consideration of
+public services.
+*** SEND ***
+*** SSTART 004.0 001.0 0 TX 1876 ***
+SEC. 4. No religious test shall ever be required as a qualification to any office, or public trust, in
+this State; nor shall any one be excluded from holding office on account of his religious
+sentiments, provided the acknowledge the existence of a Supreme Being.
+*** SEND ***
+*** SSTART 005.0 001.0 0 TX 1876 ***
+SEC. 5. No person shall be disqualified to give evidence in any of the courts of this State on
+account of his religious opinions, or for the want of any religious belief, but all oaths or
+affirmations shall be administered in the mode most binding upon the conscience, and shall be
+taken subject to the pains and penalties of perjury.
+*** SEND ***
+*** SSTART 006.0 001.0 0 TX 1876 ***
+SEC. 6 . All men have a natural and indefeasible right to worship Almighty God according to the
+dictates of their own consciences.  No man shall be compelled to attend, erect, or support any
+place of worship, or to maintain any ministry against his consent. No human authority ought, in
+any case whatever, to control or interfere with the rights of conscience in matters of religion, and
+no preference shall ever be given by law to any religious society or mode of worship. But it shall
+be the duty of the legislature to pass such laws as may be needed to protect equally every
+religious denomination in the peaceable enjoyment of its own mode of public worship.
+*** SEND ***
+*** SSTART 007.0 001.0 0 TX 1876 ***
+SEC. 7. No money shall be appropriated or drawn from the treasury for the benefit of any sect or
+religious society, theological or religious seminary; nor shall property belonging to the State be
+appropriated for any such purposes.
+*** SEND ***
+*** SSTART 008.0 001.0 0 TX 1876 ***
+SEC. 8. Every person shall be at liberty to speak, write, or publish his opinions on any subject,
+being responsible for the abuse of that privilege; and no law shall ever be passed curtailing the
+liberty, of speech or of the press. In prosecutions for the publication of papers investigating the
+conduct of officers or men in public capacity, or when the matter published is proper for public
+information, the truth thereof may be given in evidence. And in all indictments for libels the jury
+shall have the right to determine the law and the facts under the direction of the court, as in other
+cases.
+*** SEND ***
+*** SSTART 009.0 001.0 0 TX 1876 ***
+SEC. 9. The people shall be secure in their persons, houses, papers, and possessions from all
+unreasonable seizures or searches; and no warrant to search any place, or to seize any person or
+thing, shall issue without describing them as near as may be,.nor without probable cause,
+supported by oath or affirmation.
+*** SEND ***
+*** SSTART 010.0 001.0 0 TX 1876 ***
+SEC . 10. In all criminal prosecutions the accused shall have a speedy public trial by an impartial
+jury. He shall have the right to demand the nature and cause of the accusation against him and to
+have a copy thereof. He shall not be compelled to give evidence against himself. He shall have
+the right of being heard by himself or counsel, or both; shall be confronted with the witnesses
+against him, and shall have compulsory process for obtaining witnesses in his favor. And no
+person shall be held to answer for a criminal offence, unless on indictment of a grand jury, except
+in cases in which the punishment is by fine, or imprisonment otherwise than in the penitentiary,
+in cases of impeachment, and in cases arising in the army or navy, or in the militia, when in
+actual service in time of war or public danger.
+*** SEND ***
+*** SSTART 011.0 001.0 0 TX 1876 ***
+SEC. 11. All prisoners shall be bailable by sufficient sureties, unless for capital offences when
+the proof is evident; but this provision shall not be so construed as to prevent bail after
+indictment found, upon examination of the evidence in such manner as may be prescribed by
+law.
+*** SEND ***
+*** SSTART 012.0 001.0 0 TX 1876 ***
+SEC. 12. The writ of habeas corpus is a writ of right, and shall never be suspended. The
+legislature shall enact laws to render the remedy speedy and effectual.
+*** SEND ***
+*** SSTART 013.0 001.0 0 TX 1876 ***
+SEC. 13. Excessive bail shall not be required, nor excessive fines imposed, nor cruel or unusual
+punishment inflicted. All courts shall be open, and every person for an injury done him in his
+lands, goods, person, or reputation, shall have remedy by due course of law.
+*** SEND ***
+*** SSTART 014.0 001.0 0 TX 1876 ***
+SEC. 14. No person, for the same offence, shall be twice put in jeopardy of life or liberty; nor
+shall a person be again put upon trial for the same offence after a verdict of not guilty in a court
+of competent jurisdiction.
+*** SEND ***
+*** SSTART 015.0 001.0 0 TX 1876 ***
+SEC. 15. The right of trial by jury shall remain inviolate. The legislature shall pass such laws as
+may be needed to regulate the same, and to maintain its purity and efficiency.
+*** SEND ***
+*** SSTART 016.0 001.0 0 TX 1876 ***
+SEC. 16. No bill of attainder, ex post facto law, retroactive law, or any law impairing the
+obligation of contracts, shall be made.
+*** SEND ***
+*** SSTART 017.0 001.0 0 TX 1876 ***
+SEC. 17. No person's property shall be taken, damaged, or destroyed for or applied to public use
+without adequate compensation being made, unless by the consent of such person; and, when
+taken, except for the use of the State, such compensation shall be first made, or secured, by a
+deposit of money; and no irrevocable or uncontrollable grant of special privileges or immunities
+shall be made; but all privileges and franchises granted by the legislature or created under its
+authority shall be subject to the control thereof.
+*** SEND ***
+*** SSTART 018.0 001.0 0 TX 1876 ***
+SEC. 18. No person shall ever be imprisoned for debt.
+*** SEND ***
+*** SSTART 019.0 001.0 0 TX 1876 ***
+SEC. 19. No citizen of this State shall be deprived of life, liberty, property, privileges, or
+immunities, or in any manner disfranchised, except by the due course of the law of the land.
+*** SEND ***
+*** SSTART 020.0 001.0 0 TX 1876 ***
+SEC. 20. No citizen shall be outlawed; nor shall any person be transported out of the State for
+any offence committed within the same.
+*** SEND ***
+*** SSTART 021.0 001.0 0 TX 1876 ***
+SEC. 21. No conviction shall work corruption of blood or forfeiture of estate; and the estates of
+those who destroy their own lives shall descend or vest as in case of natural death.
+*** SEND ***
+*** SSTART 022.0 001.0 0 TX 1876 ***
+SEC. 22. Treason against the State shall consist only in levying war against it, or adhering to its
+enemies, giving them aid and comfort; and no person shall be convicted of treason except on the
+testimony of two witnesses to the same overt act, or on confession in open court.
+*** SEND ***
+*** SSTART 023.0 001.0 0 TX 1876 ***
+SEC. 23. Every citizen shall have the right to keep and bear arms in the lawful defence of himself
+or the State; but the legislature shall have power by law to regulate the wearing of arms with a
+view to prevent crime..
+*** SEND ***
+*** SSTART 024.0 001.0 0 TX 1876 ***
+SEC. 24. The military shall at all times be subordinate to the civil authority.
+*** SEND ***
+*** SSTART 025.0 001.0 0 TX 1876 ***
+SEC. 25. No soldier shall, in time of peace, be quartered in the house of any citizen without the
+consent of the owner, nor in time of war but in a manner prescribed by law.
+*** SEND ***
+*** SSTART 026.0 001.0 0 TX 1876 ***
+SEC. 26. Perpetuities and monopolies are contrary to the genius of a free government, and shall
+never be allowed; nor shall the law of primogeniture or entailments ever be in force in this State.
+*** SEND ***
+*** SSTART 027.0 001.0 0 TX 1876 ***
+SEC. 27. The citizens shall have the right, in a peaceable manner, to assemble together for their
+common good, and apply to those invested with the power of government for redress of
+grievances or other purposes by petition, address, or remonstrance.
+*** SEND ***
+*** SSTART 028.0 001.0 0 TX 1876 ***
+SEC. 28. No power of suspending laws in this State shall be exercised except by the legislature.
+*** SEND ***
+*** SSTART 029.0 001.0 0 TX 1876 ***
+SEC. 29. To guard against transgressions of the high powers herein delegated, we declare that
+everything in this "Bill of Rights" is excepted out of the general powers of government, and shall
+forever remain inviolate, and all laws contrary thereto, or to the following provisions, shall be
+void.
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 TX 1876 ***
+ ARTICLE II
+
+THE POWERS OF GOVERNMENT
+*** SSTART 001.0 002.0 0 TX 1876 ***
+SECTION 1. The powers of the government of the State of Texas shall be divided into three
+distinct departments each of which shall be confided to a separate body of magistracy. to wit:
+Those which are legislative to one, those which are executive to another, and those which are
+judicial to another; and no person, or collection of persons, being of one of these departments,
+shall exercise any power properly attached to either of the others, except in the instances herein
+expressly permitted.
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 TX 1876 ***
+ARTICLE III
+
+LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.0 003.0 0 TX 1876 ***
+SECTION 1. The legislative power of this State shall be vested in a senate and house of
+representatives, which together shall be styled "The Legislature of the State of Texas."
+*** SEND ***
+*** SSTART 002.0 003.0 0 TX 1876 ***
+SEC. 2. The senate shall consist of thirty-one members, and shall never be increased above this
+number. The house of representatives shall consist of ninety-three members until the first
+apportionment after the adoption of this constitution, when, or at any apportionment thereafter,
+the number of representatives may be increased by the legislature, upon the ratio of not more than
+one representative for every fifteen thousand inhabitants: Provided, The number of
+representatives shall never exceed one hundred and fifty.
+*** SEND ***
+*** SSTART 003.0 003.0 0 TX 1876 ***
+SEC. 3. The senators shall be chosen by the qualified electors for the term of four years; but a
+new senate shall be chosen after every apportionment, and the senators elected after each
+apportionment shall be divided by lot into two classes. The seats of the senators of the first class
+shall be vacated at the expiration of the first two years, and those of the second class at the
+expiration of four years, so that one-half of the senators shall be chosen biennially thereafter.
+*** SEND ***
+*** SSTART 004.0 003.0 0 TX 1876 ***
+SEC. 4. The members of the house of representatives shall be chosen by the qualified electors,
+and their term of office shall be two years from the day of their election.
+*** SEND ***
+*** SSTART 005.0 003.0 0 TX 1876 ***
+SEC. 5. The legislature shall meet every two years, at such time as may be provided by law, and
+at other times when convened by the governor.
+*** SEND ***
+*** SSTART 006.0 003.0 0 TX 1876 ***
+SEC. 6. No person shall be a senator unless he be a citizen of the United States, and at the time
+of his election a qualified elector of this State, and shall have been a resident of this State five
+years next preceding his election, and the last year thereof a resident of the district for which he
+shall be chosen, and shall have attained the age of twenty-six years.
+*** SEND ***
+*** SSTART 007.0 003.0 0 TX 1876 ***
+SEC. 7. No person shall be a representative unless he be a citizen of the United States and at the
+time of his election a qualified elector of this State, and shall have been a resident of this State
+two years next preceding his election, the last year thereof a resident of the district for which he
+shall be chosen, and shall have attained the age of twenty-one years.
+*** SEND ***
+*** SSTART 008.0 003.0 0 TX 1876 ***
+SEC. 8. Each house shall be the judge of the qualifications and election of its own members; but
+contested elections shall be determined in such a manner as shall be provided by law.
+*** SEND ***
+*** SSTART 009.0 003.0 0 TX 1876 ***
+SEC. 9. The senate shall, at the beginning and close of each session, and at such other times as
+may be necessary, elect one of its members president pro tempore, who shall perform the duties
+of the lieutenant-governor in any case of absence or disability of that officer, and whenever the
+said office of lieutenant-governor shall be vacant. The house of representatives shall, when it first
+assembles, organize temporarily, and thereupon proceed to the election of a speaker from its own
+members; and each house shall choose its other officers.
+*** SEND ***
+*** SSTART 010.0 003.0 0 TX 1876 ***
+SEC. 10. Two-thirds of each house shall constitute a quorum to do business, but a smaller
+number may adjourn from day to day, and compel the attendance of absent members, in such
+manner and under such penalties as each house may provide.
+*** SEND ***
+*** SSTART 011.0 003.0 0 TX 1876 ***
+SEC. 11. Each house may determine the rules of its own proceedings, punish members for
+disorderly conduct, and, with the consent of two-thirds, expel a member, but not a second time
+for the same offence.
+*** SEND ***
+*** SSTART 012.0 003.0 0 TX 1876 ***
+SEC. 12. Each house shall keep a journal of its proceedings, and publish the same; and the yeas
+and nays of the members of either house on any question shall, at the desire of any three
+members present, be entered on the journals.
+*** SEND ***
+*** SSTART 013.0 003.0 0 TX 1876 ***
+SEC. 13. When vacancies occur in either house, the governor, or the person exercising the power
+of the governor, shall issue writs of election to fill such vacancies; and should the governor fail to
+issue a writ of election to fill any such vacancy within twenty days after it occurs, the
+returning-officer of the district in which such vacancy may have happened shall be authorized to
+order an election for that purpose.
+*** SEND ***
+*** SSTART 014.0 003.0 0 TX 1876 ***
+SEC. 14. Senators and representatives shall, except in cases of treason, felony, or breach of the
+peace, be privileged from arrest during the session of the legislature and in going to and returning
+from the same, allowing one day for every twenty miles such member may reside from the place
+at which the legislature is convened.
+*** SEND ***
+*** SSTART 015.0 003.0 0 TX 1876 ***
+SEC. 15. Each house may punish, by imprisonment, during its sessions, any person not a
+member, for disrespectful or disorderly conduct in its presence, or for obstructing any of its
+proceedings: Provided, Such imprisonment shall not, at any one time, exceed forty-eight hours.
+*** SEND ***
+*** SSTART 016.0 003.0 0 TX 1876 ***
+SEC. 16. The sessions of each house shall be open, except the senate when in executive session.
+*** SEND ***
+*** SSTART 017.0 003.0 0 TX 1876 ***
+SEC. 17. Neither house shall, without the consent. of the other, adjourn for more than three days,
+nor to any other place than that where the legislature may be sitting.
+*** SEND ***
+*** SSTART 018.0 003.0 0 TX 1876 ***
+SEC. 18. No senator or representative shall, during the term for which he may be elected, be
+eligible to any civil office of profit under this State which shall have been created or the
+emoluments of which may have been increased during such term; no member of either house
+shall, during the term for which he is elected, be eligible to any office or place, the appointment
+to which may be made, in whole or in part, by either branch of the legislature; and no member of
+either house shall vote for any other member for, any office whatever which may be filled by a
+vote of the legislature, except in such cases as are in this constitution provided. Nor shall any
+member of the legislature be interested, either directly or indirectly, in any contract with the
+State, or any county thereof, authorized by any law passed during the term for which he shall
+have been elected.
+*** SEND ***
+*** SSTART 019.0 003.0 0 TX 1876 ***
+SEC. 19. No judge of any court, secretary of state, attorney-general, clerk of any court of record,
+or any person holding a lucrative office under the United States or this State, or an foreign
+government, shall, during the term for which he is elected or appointed, be eligible to the
+legislature.
+*** SEND ***
+*** SSTART 020.0 003.0 0 TX 1876 ***
+SEC. 20. No person who at any time may have been a collector of taxes, or who may have been
+otherwise intrusted with public money, shall be eligible to the legislature, or to any office of
+profit or trust under the State government, until he shall have obtained a discharge for the amount
+of such collections, or for all public moneys with which he may have been intrusted.
+*** SEND ***
+*** SSTART 021.0 003.0 0 TX 1876 ***
+SEC. 21. No member shall be questioned in any other place for words spoken in debate in either
+house.
+*** SEND ***
+*** SSTART 022.0 003.0 0 TX 1876 ***
+SEC. 22. A member who has a personal or private interest in any measure or bill proposed or
+pending before the legislature, shall disclose the fact to the house of which he is a member, and
+shall not vote thereon.
+*** SEND ***
+*** SSTART 023.0 003.0 0 TX 1876 ***
+SEC. 23. If any senator or representative remove his residence from the district or county for
+which he was elected, his office shall thereby become vacant, and the vacancy shall be filled as
+provided in section 13 of this article.
+*** SEND ***
+*** SSTART 024.0 003.0 0 TX 1876 ***
+SEC. 24. The members of the legislature shall receive from the public treasury such
+compensation for their services as may, from time to time, be provided by law, not exceeding
+five dollars per day for the first sixty days of each session, and after that not exceeding two
+dollars per day for the remainder of the session; except the first session held under this
+constitution when they may receive not exceeding five dollars per day for the first ninety days,
+and after that not exceeding two dollars per day for the remainder of the session. In addition to
+the per diem, the members of each house shall be entitled to mileage in going to and returning
+from the seat of government, which mileage shall not exceed five dollars for every twenty-five
+miles, the distance to be computed by the nearest and most direct route of travel by land,
+regardless of railways or water-routes; and the comptroller of the State shall prepare and preserve
+a table of distances to each county-seat now or hereafter to be established, and by such table the
+mileage of each member shall be paid; but no member shall be entitled to mileage for any extra
+session that may be called within one day after the adjournment of a regular or called session.
+*** SEND ***
+*** SSTART 025.0 003.0 0 TX 1876 ***
+SEC. 25. The State shall be divided into senatorial districts of contiguous territory, according to
+the number of qualified electors, as nearly as may be, and each district shall be entitled to elect
+one senator, and no single county shall be entitled to more than one senator.
+*** SEND ***
+*** SSTART 026.0 003.0 0 TX 1876 ***
+SEC. 26. The members of the house of representatives shall be apportioned among the several
+counties, according to the number of population in each. as nearly as may be, on a ratio obtained
+by dividing the population of the State, as ascertained by the most recent United States census, by
+the number of members of which the house is composed: Provided, That whenever a single
+county has sufficient population to be entitled to a representative, such county shall be formed
+into a separate representative district, and when two or more counties are required to make up the
+ratio of representation such counties shall be contiguous to each other; and when any one county
+has more than sufficient population to be entitled to one or more representatives, such
+representative or representatives shall be apportioned to such county, and for any surplus of
+population it may be joined in a representative district with any other contiguous county or
+counties.
+*** SEND ***
+*** SSTART 027.0 003.0 0 TX 1876 ***
+SEC. 27. Elections for senators and representatives shall be general throughout the State, and
+shall be regulated by law.
+*** SEND ***
+*** SSTART 028.0 003.0 0 TX 1876 ***
+SEC. 28. The legislature shall, at its first session after the publication of each United States
+decennial census, apportion the State into senatorial and representative districts, agreeably to the
+provisions of sections 25 and 26 of this article; and until the next decennial census, when the first
+apportionment shall be made by the legislature, the State shall be, and it is hereby, divided into
+senatorial and representative districts as provided by an ordinance of the convention on that
+subject.
+*** SEND ***
+*** SSTART 029.0 003.0 0 TX 1876 ***
+SEC 29 The enacting clause of all laws shall be, "Be it enacted by the legislature of the State of
+Texas."
+*** SEND ***
+*** SSTART 030.0 003.0 0 TX 1876 ***
+SEC. 30. No law shall be passed except by bill, and no bill shall be so amended in its passage
+through either house as to change its original purpose.
+*** SEND ***
+*** SSTART 031.0 003.0 0 TX 1876 ***
+SEC. 31. Bills may originate in either house, and when passed by such house may be amended,
+altered, or rejected by the other.
+*** SEND ***
+*** SSTART 032.0 003.0 0 TX 1876 ***
+SEC. 32. No bill shall have the force of a law until it has been read on three several days in each
+house, and free discussion allowed thereon; but in cases of imperative public necessity (which
+necessity shall be stated in a preamble or in the body of the bill) four-fifths of the house in which
+the bill may be pending may suspend this rule, the yeas and nays being taken on the question of
+suspension, and entered upon the journals.
+*** SEND ***
+*** SSTART 033.0 003.0 0 TX 1876 ***
+SEC. 33. All bills for raising revenue shall originate in the house of representatives, but the
+senate may amend or reject them as other bills.
+*** SEND ***
+*** SSTART 034.0 003.0 0 TX 1876 ***
+SEC. 34. After a bill has been considered and defeated by either house of the legislature, no bill
+containing the same substance shall be passed into a law during the same session. After a
+resolution has been acted on and defeated, no resolution containing the same substance shall be
+considered at the same session,
+*** SEND ***
+*** SSTART 035.0 003.0 0 TX 1876 ***
+SEC. 35. No bill (except general appropriation bills, which may embrace the various subjects and
+accounts for and on account of which moneys are appropriated) shall contain more than one
+subject, which shall be expressed in its title. But if any subject shall be embraced in an act which
+shall not be expressed in the title, such act shall be void only as to so much thereof as shall not be
+so expressed.
+*** SEND ***
+*** SSTART 036.0 003.0 0 TX 1876 ***
+SEC. 36. No law shall be revived or amended by reference to its title; but in such case the act
+revived or the section or sections amended shall be re-enacted and published at length.
+*** SEND ***
+*** SSTART 037.0 003.0 0 TX 1876 ***
+SEC. 37. No bill shall be considered unless it has been first referred to a committee and reported
+thereon, and no bill shall be passed which has not been presented and referred to and reported
+from, a committee at least three days before the final adjournment of the legislature.
+*** SEND ***
+*** SSTART 038.0 003.0 0 TX 1876 ***
+SEC. 38. The presiding officer of each house shall, in the presence of the house over which he
+presides, sign all bills and joint resolutions passed by the legislature, after their titles have been
+publicly read before signing; and the fact of signing shall be entered on the journals.
+*** SEND ***
+*** SSTART 039.0 003.0 0 TX 1876 ***
+SEC. 39. No law passed by the legislature, except the general appropriation act, shall take effect
+or go into force until ninety days after the adjournment of the session at which it was enacted,
+unless in case of an emergency, which emergency must be expressed in a preamble or in the body
+of the act, the legislature shall, by a vote of two-thirds of all the members elected to each house,
+otherwise direct; said vote to be taken by yeas and nays, and entered upon the journals.
+*** SEND ***
+*** SSTART 040.0 003.0 0 TX 1876 ***
+SEC. 40. When the legislature shall be convened in special session, there shall be no legislation
+upon subjects other than those designated in the proclamation of the governor calling such
+session, or presented to them by the governor; and no such session shall be of longer duration
+than thirty days.
+*** SEND ***
+*** SSTART 041.0 003.0 0 TX 1876 ***
+SEC. 41. In all elections by the senate and house of representatives, jointly or separately, the vote
+shall be given viva voce, except in the election of their officers.
+*** SEND ***
+*** SSTART 042.0 003.0 0 TX 1876 ***
+SEC. 42. The legislature shall pass such laws as may be necessary to carry into effect the
+provisions of this constitution.
+*** SEND ***
+*** SSTART 043.0 003.0 0 TX 1876 ***
+SEC. 43. The first session of the legislature under this constitution shall provide for revising,
+digesting, and publishing the laws, civil and criminal; and a like revision, digest, and publication
+may be made every ten years thereafter: Provided, That in the adoption of and giving effect to
+any such digest or revision the legislature shall not be limited by sections 35 and 36 of this
+article.
+*** SEND ***
+*** SSTART 044.0 003.0 0 TX 1876 ***
+SEC. 44. The legislature shall provide by law for the compensation of all officers, servants,
+agents, and public contractors not provided for in this constitution, but shall not grant extra
+compensation to any officer, agent, servant, or public contractors after such public service shall
+have been performed or contract entered into for the performance of the same; nor grant, by
+appropriation or otherwise, any amount of money out of the treasury of the State, to any
+individual, on a claim, real or pretended, when the same shall not have been provided for by
+pre-existing law; nor employ any one in the name of the State unless authorized by pre-existing
+law.
+*** SEND ***
+*** SSTART 045.0 003.0 0 TX 1876 ***
+SEC. 45. The power to change the venue in civil and criminal cases shall be vested in the courts,
+to be exercised in such manner as shall be provided by law; and the legislature shall pass laws for
+that purpose.
+*** SEND ***
+*** SSTART 046.0 003.0 0 TX 1876 ***
+SEC. 46. The legislature shall, at its first session after the adoption of this constitution, enact
+effective vagrant laws.
+*** SEND ***
+*** SSTART 047.0 003.0 0 TX 1876 ***
+SEC. 47. The legislature shall pass laws prohibiting the establishment of lotteries and gift
+enterprises in this State, as well as the sale of tickets in lotteries, gift enterprises, or other
+evasions involving the lottery principle, established or existing in other States.
+*** SEND ***
+*** SSTART 048.0 003.0 0 TX 1876 ***
+SEC. 48. The legislature shall not have the right to levy taxes or impose burdens upon the people,
+except to raise revenue sufficient for the economical administration of the government, in which
+may be included the following purposes:
+The payment of all interest upon the bonded debt of the State;
+The erection and repairs of public buildings;
+The benefit of the sinking-fund, which shall not be more than two per centum of the public debt;
+and for the payment of the present floating debt of the State, including matured bonds for the
+payment of which the sinking-fund is inadequate;
+The support of public schools, in which shall be included colleges and universities established by
+the State; and the maintenance and support of the Agricultural and Mechanical College of Texas;
+The payment of the cost of assessing and collecting the revenue, and the payment of all officers,
+agents, and employees of the State government, and all incidental expenses connected therewith;
+The support of the blind asylum, the deaf and dumb asylum, and the insane asylum, the State
+cemetery, and the public grounds of the State;
+The enforcement of quarantine regulations on the coast of Texas;
+The protection of the frontier.
+*** SEND ***
+*** SSTART 049.0 003.0 0 TX 1876 ***
+SEC. 49. No debt shall be created by or on behalf of the State, except to supply casual
+deficiencies of revenue, repel invasion, suppress insurrection, defend the State in war, or pay
+existing debt; and the debt created to supply deficiencies in the revenue shall never exceed in the
+aggregate at any one time two hundred thousand dollars.
+*** SEND ***
+*** SSTART 050.0 003.0 0 TX 1876 ***
+SEC. 50 The legislature shall have no power to give or to lend, or to authorize the giving or
+lending, of the credit of the State in aid of, or to any person, association, or corporation, whether
+municipal or other; or to pledge the credit of the State in any manner whatsoever for the payment
+of the liabilities, present or prospective, of any individual, association of individuals, municipal
+or other corporation whatsoever.
+*** SEND ***
+*** SSTART 051.0 003.0 0 TX 1876 ***
+SEC. 51. The legislature shall no power to make any grant, or authorize the making of any grant,
+of public money to any individual, association of individuals, municipal or other corporation
+whatsoever: Provided, That this shall not be so construed as to prevent the grant of aid in case of
+public calamity.
+*** SEND ***
+*** SSTART 052.0 003.0 0 TX 1876 ***
+SEC. 52. The legislature shall have no power to authorize any county, city, town, or other
+political corporation, or subdivision of the State, to lend its credit or to grant public money or
+thing of value, in aid of or to any individual, association, or corporation whatsoever; or to
+become a stockholder in such corporation, association, or company.
+*** SEND ***
+*** SSTART 053.0 003.0 0 TX 1876 ***
+SEC. 53. The legislature shall have no power to grant, or to authorize any county or municipal
+authority to grant, any extra compensation, fee, or allowance to a public officer, agent, servant, or
+contractor after service has been rendered or a contract has been entered into and performed in
+whole or in part; nor pay, nor authorize the payment of, any claim created against any county or
+municipality or the State, under any agreement or contract, made without authority of law.
+*** SEND ***
+*** SSTART 054.0 003.0 0 TX 1876 ***
+SEC. 54. The legislature shall have no power to release or alienate any lien held by the State
+upon any railroad, or in anywise change the tenor or meaning, or pass any act explanatory
+thereof; but the same shall be enforced in accordance with the original terms upon which it was
+acquired.
+*** SEND ***
+*** SSTART 055.0 003.0 0 TX 1876 ***
+SEC. 55. The legislature shall have no power to release or extinguish, or to authorize the
+releasing or extinguishing, in whole or part, the indebtedness, liability, or obligation of any
+incorporation or individual to this State, or to any county, or other municipal corporation therein.
+*** SEND ***
+*** SSTART 056.0 003.0 0 TX 1876 ***
+SEC. 56. The legislature shall not, except as otherwise provided in this constitution, pass any
+local or special law, authorizing-
+The creation, extension, or repairing of liens;
+Regulating the affairs of counties, cities, towns, wards, or school districts;
+Changing the names of persons or places; changing the venue in civil or criminal cases;
+Authorizing the laying out, opening, altering or maintaining of roads, highways, streets, or alleys;
+Relating to ferries or bridges, or incorporating ferry or bridge companies, except for the erection
+of bridges crossing streams which form boundaries between this and any other State;
+Vacating roads, town-plats, streets, or alleys;
+Relating to cemeteries, graveyards, or public grounds not of the State;
+Authorizing the adoption or legitimation of children;
+Locating or changing county-seats;
+Incorporating cities, towns, or villages, or changing their charters;
+For the opening and conducting of elections, or fixing or changing the places of voting;
+Granting divorces;
+Creating offices, or prescribing the powers and duties of officers, in counties, cities, towns,
+election or school districts;
+Changing the law of descent or succession;
+Regulating the practice or jurisdiction of or changing the rules of evidence in any judicial
+proceeding or inquiry before courts, justices of the peace, sheriffs, commissioners, arbitrators, or
+other tribunals, providing or changing methods for the collection of debts, or the forcing of
+judgments, or prescribing the effect of judicial sales of real estate;
+Regulating the fees, or extending the powers and duties of aldermen, justices of the peace,
+magistrates, or constables;
+Regulating the management of public schools, the building or repairing of school-houses, and the
+raising of money for such purposes
+Fixing the rate of interest;
+Affecting the estates of minors or persons under disability;
+Remitting fines, penalties, and forfeitures, and refunding moneys legally paid into the treasury;
+Exempting property from taxation;
+Regulating labor, trade, mining, and manufacturing;
+Declaring any named person of age;
+Extending the time for the assessment or collection of taxes, or otherwise relieving any assessor
+or collector of taxes from the due performance of his official duties, or his securities from
+liability;
+Giving effect to informal or invalid wills or deeds;
+Summoning or impanelling grand or petit juries-,
+For limitation of civil or criminal actions;
+For incorporating railroads or other works of internal improvements;
+And in all other cases where a general law can be made applicable, no local or special law shall
+be enacted: Provided, That nothing herein contained shall be construed to prohibit the legislature
+from passing special laws for the preservation of the game and fish of this State in certain
+localities.
+*** SEND ***
+*** SSTART 057.0 003.0 0 TX 1876 ***
+SEC. 57. No local or special law shall be passed, unless notice of the intention to apply therefor
+shall have been published in the locality where the matter or thing to be affected may be situated,
+which notice shall state the substance of the contemplated law, and shall be published at least
+thirty days prior to the introduction into the legislature of such bill and in the manner to be
+provided by law. The evidence of such notice having been published shall be exhibited in the
+legislature before such act shall be passed.
+*** SEND ***
+*** SSTART 058.0 003.0 0 TX 1876 ***
+SEC. 58. The legislature shall hold its sessions at the city of Austin, which is hereby declared to
+be the seat of government.
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 TX 1876 ***
+ARTICLE IV
+
+EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 004.0 0 TX 1876 ***
+SECTION 1. The executive department of the State shall consist of a governor, who shall be the
+chief executive officer of the State, a lieutenant-governor, secretary of state, com troller of public
+accounts, treasurer, commissioner of the general land-office, and attorney-general.
+*** SEND ***
+*** SSTART 002.0 004.0 0 TX 1876 ***
+SEC. 2. All the above officers of the executive department (except secretary of state) shall be
+elected by the qualified voters of the State at the time and places of election for members of the
+legislature.
+*** SEND ***
+*** SSTART 003.0 004.0 0 TX 1876 ***
+SEC. 3. The returns of every election for said executive officers, until otherwise provided by law,
+shall be made out, sealed up, and transmitted by the returning-officers prescribed by law, to the
+seat of government, directed to the secretary of state, who shall deliver the same to the speaker of
+the house of representatives, as soon as the speaker shall be chosen; and the said speaker shall,
+during the first week of the session of the legislature, open and publish them in the presence of
+both houses of the legislature. The person voted for at said election having the highest number of
+votes for each of said offices respectively, and being constitutionally eligible, shall be declared
+by the speaker, under sanction of the legislature, to be elected to said office. But if two or more
+persons shall have the highest and an equal number of votes for either of said offices one of them
+shall be immediately chosen to such office by joint vote of both houses of the legislature.
+Contested elections for either of said offices shall be determined by both houses of the legislature
+in joint session.
+*** SEND ***
+*** SSTART 004.0 004.0 0 TX 1876 ***
+SEC. 4. The governor shall be installed on the first Tuesday after the organization of the
+legislature, or as soon thereafter as practicable, and shall hold his office for the term of two years,
+or until his successor shall be duly installed. He shall be at least thirty years of age, a citizen of
+the United States, and shall have resided in this State at least five years immediately preceding
+his election.
+*** SEND ***
+*** SSTART 005.0 004.0 0 TX 1876 ***
+SEC. 5. He shall, at stated times, receive as compensation for his services an annual salary of
+four thousand dollars and no more, and shall have the use and occupation of the governor's
+mansion, fixtures, and furniture.
+*** SEND ***
+*** SSTART 006.0 004.0 0 TX 1876 ***
+SEC. 6. During the time he holds the office of governor he shall not hold any other office, civil,
+military, or corporate; nor shall he practice any profession, and receive compensation, reward,
+fee, or the promise thereof for the same; nor receive any salary, reward, or compensation, or the
+promise thereof, from any person or corporation, for any service rendered or performed during
+the time he is governor, or to be thereafter rendered or performed.
+*** SEND ***
+*** SSTART 007.0 004.0 0 TX 1876 ***
+SEC. 7. He shall be commander-in-chief of the military forces of the State, except when they are
+called into actual service of the United States. He shall have power to call forth the militia to
+execute the laws of the State, to suppress insurrections, repel invasions, and protect the frontier
+from hostile incursions by Indians or other predatory bands.
+*** SEND ***
+*** SSTART 008.0 004.0 0 TX 1876 ***
+SEC. 8. The governor may, on extraordinary occasions, convene the legislature at the seat of
+government, or at a different place in case that should be in possession of the public enemy or in
+case of the prevalence of disease thereat. His proclamation therefor should state specifically the
+purpose for which the legislature is convened.
+*** SEND ***
+*** SSTART 009.0 004.0 0 TX 1876 ***
+SEC. 9. The governor shall, at the commencement of each session of the legislature, and at the
+close of his term of office, give to the legislature information, by message, of the condition of the
+State; and he shall recommend to the legislature such measures as he may deem expedient. He
+shall account to the legislature for all public moneys received and paid out by him from any
+funds subject to his order, with vouchers; and shall accompany his message with a statement of
+the same. And at the commencement of each regular session he shall present estimates of the
+amount of money required to be raised by taxation for all purposes.
+*** SEND ***
+*** SSTART 010.0 004.0 0 TX 1876 ***
+SEC. 10. He shall cause the laws to be faithfully executed; and shall conduct, in person, or in
+such manner as shall be prescribed by law, all intercourse and business of the State with other
+States and with the United States.
+*** SEND ***
+*** SSTART 011.0 004.0 0 TX 1876 ***
+SEC. 11. In all criminal cases, except treason and impeachment, he shall have power, after
+conviction, to grant reprieves, commutations of punishment, and pardons; and under such rules
+as the legislature may prescribe he shall have power to remit fines and forfeitures. With the
+advice and consent of the senate, he may grant pardons in cases of treason, and to this end he
+may respite a sentence therefor until the close of the succeeding session of the legislature:
+Provided, That in all cases of remissions of fines and forfeitures, or grants of reprieve,
+commutation of punishment, or pardon, he shall file in the office of the secretary of state his
+reasons therefor.
+*** SEND ***
+*** SSTART 012.0 004.0 0 TX 1876 ***
+SEC. 12. All vacancies in State or district offices, except members of the legislature, shall be
+filled, unless otherwise provided by law, by appointment of the governor, which appointment, if
+made during its session,.shall be with the advice and consent of two-thirds of the senate present.
+If made during the recess of the senate, the said appointee, or some other person to fill such
+vacancy, shall be nominated to the senate during the first ten days of its session. If rejected, said
+office shall immediately become vacant, and the governor shall, without delay, make further
+nominations, until a confirmation takes place. But should there be no confirmation during the
+session of the senate, the governor shall not thereafter appoint any person to fill such vacancy
+who has been rejected by the senate; but may appoint some other person to fill the vacancy until
+the next session of the senate or until the regular election to said office, should it sooner occur.
+Appointments to vacancies in office elective by the people shall only continue until the first
+general election thereafter.
+*** SEND ***
+*** SSTART 013.0 004.0 0 TX 1876 ***
+SEC. 13. During the session of the legislature the governor shall reside where its sessions are
+held and at all other times at the seat of government, except when by act of the legislature he may
+be required or authorized to reside elsewhere.
+*** SEND ***
+*** SSTART 014.0 004.0 0 TX 1876 ***
+SEC. 14. Every bill which shall have passed both houses of the legislature shall be presented to
+the governor for his approval. If he approve he shall sign it; but if he disapprove it, he shall return
+it, with his objections, to the house in which it originated, which house shall enter the objections
+at large upon its journal,_and proceed to reconsider it. If, after such reconsideration, two thirds of
+the members present agree to pass the bill, it shall be sent with the objections, to the other house,
+by which likewise it shall be reconsidered; and, if approved by two-thirds of the members of that
+house, it shall become a law; but in such cases the votes of both houses shall be determined by
+yeas and nays, and the names of the members voting for and against the bill shall be entered on
+the journal of each house respectively. If any bill shall not be returned by the governor with his
+objections within ten days (Sundays excepted) after it shall have been presented to him, the same
+shall be a law, in like manner as if he had signed it, unless the legislature, by its adjournment,
+prevent its return; in which case it shall be a law, unless he shall file the same, with his
+objections, in the office of the secretary of state, and give notice thereof by public proclamation
+within twenty days after such adjournment. If any bill presented to the governor contains several
+items of appropriation, he may object to one or more of such items, and approve the other portion
+of the bill. In such case he shall append to the bill, at the time of signing it, a statement of the
+items to which he objects, and no item so objected to shall take effect. If the legislature be in
+session he shall transmit to the house in which the bill originated a copy of such statement and
+the items objected to shall be separately reconsidered. If, on reconsideration, one or more of such
+items be approved by two-thirds of the members present of each house, the same shall be part of
+the law, notwithstanding the objections of the governor. If any such bill, containing several items
+of appropriation, not having been presented to the governor ten days (Sundays excepted) prior to
+adjournment, be in the hands of the governor at the time of adjournment, he shall have twenty
+days from such adjournment within which to file objections to any items thereof and make
+proclamation of the same, and such item or items shall not take effect.
+*** SEND ***
+*** SSTART 015.0 004.0 0 TX 1876 ***
+SEC. 15. Every order, resolution, or vote to which the concurrence of both houses of the
+legislature may be necessary, except on questions of adjournment, shall be presented to the
+governor. and, before it shall take effect, shall be approved by him; or, being disapproved, shall
+be repassed by both houses; and all the rules, provisions, and limitations shall apply thereto as
+prescribed in the past. preceding section in the case of a bill.
+*** SEND ***
+*** SSTART 016.0 004.0 0 TX 1876 ***
+SEC. 16. There shall also be a lieutenant-governor, who shall be chosen at every election for
+governor by the same electors, in the same manner, continue in office the same time, and possess
+the same qualifications. The electors shall distinguish for whom they vote as governor and for
+whom as lieutenant-governor. The lieutenant-governor shall by virtue of his office, be president
+of the Senate, and shall have, when in committee of the whole, a right to debate and vote on all
+questions; and, when the senate is equally divided, to give the casting vote. In case of the death,
+resignation, removal from office, inability, or refusal of the governor to serve, or of his
+impeachment or absence from the State, the lieutenant-governor shall exercise the powers and
+authority appertaining to the office of governor until another be chosen at the periodical election,
+and be duly qualified, or until. the governor impeached, absent, or disabled, shall be acquitted,
+return, or his disability be removed.
+*** SEND ***
+*** SSTART 017.0 004.0 0 TX 1876 ***
+SEC. 17. If, during the vacancy in the office of governor, the lieutenant-governor should die,
+resign, refuse to serve, or be removed from office, or be unable to serve, or if he shall be
+impeached or absent from the State, the president of the senate, for the time being, shall, in like
+manner, administer the government until he shall be superseded by a governor or
+lieutenant-governor. The lieutenant-governor shall, while he acts as president of the senate,
+receive for his services the same compensation and mileage which shall be allowed to the
+members of the senate, and no more; and during the time he administers the government, as
+governor, he shall receive in like manner the same compensation which the governor would have
+received had he been employed in the duties of his office, and no more. The resident, for the time
+being, of the senate, shall, during the time he administers the government, receive in like manner
+the same compensation which the governor would have received had he been employed in the
+duties of his office.
+*** SEND ***
+*** SSTART 018.0 004.0 0 TX 1876 ***
+SEC. 18. The lieutenant-governor or president of the senate succeeding to the office of governor
+shall, during the entire term to which he may succeed, be under all the restrictions and inhibitions
+imposed in this constitution on the governor.
+*** SEND ***
+*** SSTART 019.0 004.0 0 TX 1876 ***
+SEC. 19. There shall be a seal of the State, which shall be kept by the secretary of state, and used
+by him officially under the direction' of the governor. The seal of the State shall be a star of five
+points, encircled by olive and live-oak branches, and the words "The State of Texas."
+*** SEND ***
+*** SSTART 020.0 004.0 0 TX 1876 ***
+SEC. 20. All commissions shall be in the name and by the authority of the State of Texas, sealed
+with the State seal, signed by the governor, and attested by the secretary of state.
+*** SEND ***
+*** SSTART 021.0 004.0 0 TX 1876 ***
+SEC. 21. There shall be a secretary of state, who shall be appointed by the governor, by and with
+the advice and consent of the senate, and who shall continue in office during the term of service
+of the governor. He shall authenticate the publication of the laws, and keep a fair register of all
+official acts and proceedings of the governor, and shall, when required, lay the same and all
+papers, minutes, and vouchers relative thereto before the legislature, or either house thereof, and
+shall perform such other duties as may be required of him by law. He shall receive for his
+services an annual salary of two thousand dollars, and no more.
+*** SEND ***
+*** SSTART 022.0 004.0 0 TX 1876 ***
+SEC. 22. The attorney-general shall hold his office for two years and until his successor is duly
+qualified. He shall represent the State in all suits and pleas in the supreme court of the State in
+which the State may be a party, and shall especially inquire into the charter rights of all private
+corporations, and, from time to time, in the name of the State take such action in the courts as
+may be proper and necessary to prevent any private corporation from exercising any power or
+demanding or collecting any species of taxes, tolls, freight, or wharfage not authorized by law.
+He shall, whenever sufficient cause exists, seek a judicial forfeiture of such charters, unless
+otherwise expressly directed by law, and give legal advice, in writing, to the governor and other
+executive officers, when requested by them, and perform such other duties as may be required by
+law. He shall reside at the seat of government during his continuance in office. He shall receive
+for his services an annual salary of two thousand dollars, and no more, besides such fees as may
+be prescribed by law: Provided, That the fees which he may receive shall not amount to more
+than two thousand dollars annually.
+*** SEND ***
+*** SSTART 023.0 004.0 0 TX 1876 ***
+SEC. 23. The comptroller of public accounts, the treasurer, and the commissioner of the general
+land-office shall each hold office for the term of two years, and until his successor is qualified;
+receive an annual salary of two thousand and five hundred dollars, and no more; reside at the
+capital of the State during his continuance in office, and perform such duties as are or may be
+required of him by law. They and the secretary of state shall not receive to their own use any fees,
+costs, or perquisites of office. All fees that may be payable by law for any service performed by
+any officer specified in this section, or in his office, shall be paid, when received, into the State
+treasury.
+*** SEND ***
+*** SSTART 024.0 004.0 0 TX 1876 ***
+SEC. 24. An account shall be kept by the officers of the executive department and by all officers
+and managers of State institutions of all moneys and choses in action received and disbursed, or
+otherwise disposed of by them, severally, from all sources, and for every service performed; and
+a semi-annual report thereof shall be made to the governor under oath. The governor may at any
+time require information in writing from any and all of said officers or managers upon any
+subject relating to the duties, condition, management, and expenses of their respective offices
+and institutions, which information shall be required by the governor under oath; and the
+governor may also inspect their books, accounts, vouchers and public funds; and any officer or
+manager who at any time shall willfully make a false report or give false information shall be
+guilt of perjury, and so adjudged and punished accordingly, and remove from office.
+*** SEND ***
+*** SSTART 025.0 004.0 0 TX 1876 ***
+SEC. 25. The legislature shall pass efficient laws facilitating the investigation of breaches of trust
+and duty by all custodians of public funds, and providing for their suspension from office on
+reasonable cause shown, and for the appointment of temporary incumbents of their offices during
+such suspension.
+*** SEND ***
+*** SSTART 026.0 004.0 0 TX 1876 ***
+SEC. 26. The governor, by and with the advice and consent of two-thirds of the state, shall
+appoint a convenient number of notaries public for each county, who shall perform such duties as
+now are or may be prescribed by law.
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 TX 1876 ***
+
+ARTICLE V
+JUDICIAL  DEPARTMENT
+*** SSTART 001.0 005.0 0 TX 1876 ***
+SECTION 1. The judicial power of this State shall be vested in one Supreme Court, in a Court of
+Appeals, in District Courts, in County Courts, in Commissioners' Courts, in Courts of Justices of
+the Peace, and in such other courts and may be established by law. The Legislature may establish
+Criminal District Courts with such jurisdiction as it may prescribe, but no such court shall be
+established unless the district includes a city containing at least thirty thousand inhabitants as
+ascertained by the census of the United States or other official census; provided, such town or
+city shall support said Criminal District Courts when established. The Criminal District Court of
+Galveston and Harris counties shall continue with the district, jurisdiction and organization now
+existing by law, until otherwise provided by law.
+*** SEND ***
+*** SSTART 002.0 005.0 0 TX 1876 ***
+SEC. 2. The supreme court shall consist of a chief-justice and two associate justices, any two of
+whom shall constitute a quorum, and the concurrence of two judges shall be necessary to the
+decision of a case. No person shall be eligible to the office of chief-justice or associate justice of
+the supreme court unless he be at the time of his election a citizen of the United States and of this
+State, and unless he shall have attained the age of thirty years, and shall have been a practising
+lawyer or a judge of a court in this State, or such lawyer and judge together, at least seven years.
+Said chief-justice and associate justices shall be elected by the qualified voters of the State at a
+general election, shall hold their offices for six years, and shall each receive an annual salary of
+not more than three thousand five hundred and fifty dollars. In case of a vacancy in the office of
+chief-justice or associate justice of the supreme court, the governor shall fill the vacancy until the
+next general election for State officers, and at such general election the vacancy for the unexpired
+term shall be filled by election by the qualified voters of the State.
+*** SEND ***
+*** SSTART 003.0 005.0 0 TX 1876 ***
+SEC. 3. The supreme court shall have appellate jurisdiction only, which shall be contractual
+organization-extensive with the limits of the State, but shall only extend to civil cases, of which
+the district courts have original or appellate jurisdiction. Appeals may be allowed from
+interlocutory judgments of the district courts, in such cases and under such regulations as may be
+provided by law. The supreme court and the judges thereof shall have power to issue, under such
+regulations as may be prescribed by law, the writ of mandamus and all other writs necessary to
+enforce the jurisdiction of said court. The supreme court shall have power upon affidavit or
+otherwise, as by the court may be thought proper, to ascertain such matters of fact as may be
+necessary to the proper exercise of its jurisdiction. The supreme court shall sit for the transaction
+of business from the first Monday in October until the last Saturday of June of every year, at the
+seat of government, and at not more than two other places in the State.
+*** SEND ***
+*** SSTART 004.0 005.0 0 TX 1876 ***
+SEC. 4. The supreme court shall appoint a clerk for each place at which it may sit, and each of
+said clerks shall give bond in such manner as is now or may hereafter be required by law; shall
+hold his office for four years, and shall be subject to removal by said court for good cause entered
+of record on the minutes of said court.
+*** SEND ***
+*** SSTART 005.0 005.0 0 TX 1876 ***
+SEC. 5. The court of appeals shall consist of three judges, any two of whom shall constitute a
+quorum, and the concurrence of two judges shall be necessary to a decision of said court. They
+shall be elected by the qualified voters of the State at a general election. They shall be citizens of
+the United States and of this State; shall have arrived at the age of thirty years at the time of
+election; each shall have been a practising lawyer or a judge of a court in this State, or such
+lawyer and judge together, for at least seven years. Said judges shall hold their offices for a term
+of six years, and each of them shall receive an annual salary of three thousand five hundred and
+fifty dollars, which shall not be increased or diminished during their term of office.
+*** SEND ***
+*** SSTART 006.0 005.0 0 TX 1876 ***
+SEC. 6. The court of appeals shall have appellate jurisdiction, coextensive with the limits of the
+State, in all criminal cases, of whatever grade, and in all civil cases, unless hereafter otherwise
+provided by law, of which the county courts have original or appellate jurisdiction. In civil cases
+its opinions shall not be published unless the publication of such opinions be required by law.
+The court of appeals and the judges thereof shall have power to issue the writ of habeas corpus,
+and under such regulation as may be prescribed by law issue such writs as may be necessary to
+enforce its own jurisdiction. The court of appeals shall have power upon affidavits or otherwise,
+as by the court may be thought proper, to ascertain such matters of fact as may be necessary to
+the exercise of its jurisdiction. The court of appeals shall sit for the transaction of business from
+the first Monday of October until the last Saturday of June of every year, at the capital, and at not
+more than two other places in the State, at which the supreme court shall hold its sessions. The
+court shall appoint a clerk for each place at which it may sit, and each of said clerks shall give
+bond in such manner as is now or may hereafter be required by law, shall hold his office for four
+years, and shall be subject to removal by the said court for good cause, entered of record on the
+minutes of said court.
+*** SEND ***
+*** SSTART 007.0 005.0 0 TX 1876 ***
+SEC. 7. The State shall be divided into twenty-six judicial districts, which may be increased or
+diminished by the legislature. For each district there shall be elected by the qualified voters
+thereof, at a general election for members of the legislature, a judge, who shall be at least
+twenty-five years of age, shall be a citizen of the United States, shall have been a practising
+attorney or a judge of a court in this State for the period of four years, and shall have resided in
+the district in which he is elected for two years next before his election; shall reside in his district
+during his term of office; shall hold his office for the term of four years; shall receive an annual
+salary of twenty-five hundred dollars, which shall not be increased or diminished during his term
+of service, and shall hold the regular term of court at one place in each county in the district twice
+in each year, in such manner as may be prescribed by law. The legislature shall have power by
+general act to authorize the holding of special terms when necessary, and to provide for holding
+more than two terms of the court in any county for the dispatch of business, and shall provide for
+the holding of district courts, when the judge thereof is absent or is from any cause disabled or
+disqualified from presiding.
+*** SEND ***
+*** SSTART 008.0 005.0 0 TX 1876 ***
+SEC. 8. The district court shall have original jurisdiction in criminal cases of the grade of felony;
+of all suits in behalf of the State to recover penalties, forfeitures, and escheats; of all cases of
+divorce; in cases of misdemeanors involving official misconduct; of all suits to recover damages
+for slander or defamation of character; of all suits for the trial of title to land, and for the
+enforcement of liens thereon; of all suits for trial of right to property levied on by virtue of any
+writ of execution, sequestration, or attachment, when the property levied on shall be equal to or
+exceed in value five hundred dollars, and of all suits, complaints, or pleas whatever, without
+regard to any distinction between law and equity, when the matter in controversy shall be valued
+at or amount to five hundred dollars, exclusive of interest; and the said courts and the judges
+thereof shall have power to issue writs of habeas corpus in felony cases, mandamus, injunction,
+certiorari, and all writs necessary to enforce their jurisdiction. The district courts shall have
+appellate jurisdiction and general control in probate matters over the county court established in
+each county for appointing guardians, granting letters testamentary and of administration, for
+settling the accounts of executors, administrators, and guardians, and for the transaction of
+business appertaining to estates; and original jurisdiction and general control over executors,
+administrators, guardians, and minors, under such regulations as may be prescribed by the
+legislature.  All cases now pending in the supreme court, of which the court of appeals has
+appellate jurisdiction under the provisions of said article, shall, as soon as practicable after the
+establishment of said court of appeals, be certified, and the records transmitted to the court of
+appeals, and shall be decided by such court of appeals as if the same had been originally appealed
+to such court.
+*** SEND ***
+*** SSTART 009.0 005.0 0 TX 1876 ***
+SEC. 9. There shall be a clerk for the district court of each county, who shall be elected by the
+qualified voters for the State and county officers, and who shall old his office for two years,
+subject to removal by information, or by indictment of a grand jury and conviction by a petit jury.
+In case of vacancy the ste of the district court shall have the power to appoint a clerk, who , all
+hold until the office can be filled by election.
+*** SEND ***
+*** SSTART 010.0 005.0 0 TX 1876 ***
+SEC. 10. In the trial of all causes in the district courts, the plaintiff or defendant shall, upon
+application made in open court, have the right of trial by jury; but no jury shall be impaneled in
+any civil case unless demanded by a party to the case, and a jury fee be paid by the party
+demanding a jury, for such sum and withy such exceptions as may be prescribed by the
+legislature.
+*** SEND ***
+*** SSTART 011.0 005.0 0 TX 1876 ***
+SEC. 11. No judge shall sit in any case wherein he may be interested, where either of the parties
+may be connected with him by affinity or consanguinity, within such degree as may be prescribed
+by law, or where he shall have been counsel in the case. When the Supreme Court, or the
+Appellate Court, or any two of the members of either, shall be thus disqualified to hear and
+determine any case or cases in said court, the same shall be certified to the governor of the State,
+who shall immediately commission the requisite number of persons learned in the law, for the
+trial and determination of said cause or causes. When a judge of the District Court is disqualified
+by any of the causes above stated, the parties may, by consent, appoint a proper person to try said
+case; or, upon their failing to do so, a competent person may be appointed to try the same in the
+county where it is pending, in such manner as may be prescribed by law. And the district judges
+may exchange districts or hold courts for each other, when they may deem it expedient, and shall
+do so when directed by law. The disqualification of judges of inferior tribunals shall be remedied,
+and vacancies in their offices shall be filled, as prescribed by law. 
+*** SEND ***
+*** SSTART 012.0 005.0 0 TX 1876 ***
+SEC. 12. All judges of the Supreme Court, Court of Appeals and District Courts shall, by virtue
+of their offices, be conservators of the peace throughout the State. The style of all writs and
+process shall be "The State of Texas." All prosecutions shall be carried on in the name and by the
+authority of "The State of Texas," and conclude "against the peace and dignity of the State."
+*** SEND ***
+*** SSTART 013.0 005.0 0 TX 1876 ***
+SEC. 13. Grand and petit juries in the district courts shall be composed of twelve men; but nine
+members of a grand jury shall be a quorum to transact business and present bills in trials of civil
+cases, and in trials of criminal cases below the grade of felony in the district courts, nine
+members of the jury, concurring, may render a verdict; but when the verdict shall be rendered by
+less than the whole number it shall be signed by every member of the jury concurring in it. When
+pending the trial of any case one or more jurors, not exceeding three, may die, or be disabled
+from sitting, the remainder of the jury shall have the power to render the verdict: Provided, That
+the legislature may change or modify the rule authorizing less than the whole number of the jury
+to render a verdict.
+*** SEND ***
+*** SSTART 014.0 005.0 0 TX 1876 ***
+SEC. 14. The judicial districts in this State and the time of holding the courts therein are fixed by
+ordinance forming part of this constitution, until otherwise provided by law.
+*** SEND ***
+*** SSTART 015.0 005.0 0 TX 1876 ***
+SEC. 15. There shall be established in each county in this State a county court, which shall be a
+court of record, and there shall be elected in each county, by the qualified voters, a county judge,
+who shall be well informed in the law of the State, shall be a conservator of the peace, and shall
+hold his office for two years, and until his successor shall be, elected and qualified. He shall
+receive as a compensation for his services such fees and perquisites as may be prescribed by law.
+*** SEND ***
+*** SSTART 016.0 005.0 0 TX 1876 ***
+SEC. 16. The County Court shall have original jurisdiction of all misdemeanors, of which
+exclusive original jurisdiction is not given to the Justice's Court, as the same are now or may be
+hereafter prescribed by law, and when the fine to be imposed shall exceed two hundred dollars;
+and they shall have exclusive original jurisdiction in all civil cases when the matter in
+controversy shall exceed in value two hundred dollars, and not exceed five hundred dollars,
+exclusive of interest; and concurrent jurisdiction with the District Courts, when the matter in
+controversy shall exceed five hundred and not exceed one thousand dollars, exclusive of interest,
+but shall not have jurisdiction of suits for the recovery of land. They shall have appellate
+jurisdiction in cases, civil and criminal, of which Justices' Courts have original jurisdiction, but
+of such civil cases only when the judgment of the court appealed from, shall exceed twenty
+dollars exclusive of costs, under such regulations as may be prescribed by law. In all appeals
+from Justices' Courts, there shall be a trial de novo in the County Court, and when the judgment
+rendered or fine imposed by the County Court shall not exceed one hundred dollars such trial
+shall be final, but if the judgment rendered or fine imposed shall exceed one hundred dollars, as
+well as in all cases, civil and criminal, of which the County Court has exclusive or concurrent
+original jurisdiction, an appeal shall lie to the Court of Appeals, under such regulations as may be
+prescribed by law. The County Courts shall have the general jurisdiction of a Probate Court.
+They shall probate wills, appoint guardians of minors, idiots, lunatics, persons non compos
+mentis, and common drunkards, grant letters testamentary and of administration, settle accounts
+of executors, administrators and guardians, transact all business appertaining to the estates of
+deceased persons, minors, idiots, lunatics, persons non compos mentis, and common drunkards,
+including the settlement, partition and distribution of estates of deceased persons, and to
+apprentice minors, as provided by law. And the County Courts, or judges thereof, shall have
+power to issue writs of mandamus, injunction, and all other writs necessary to the enforcement of
+the jurisdiction of said courts, and to issue writs of habeas corpus in cases where the offense
+charged is within the jurisdiction of the County Court, or any other court or tribunal inferior to
+said court. The County Court shall not have criminal jurisdiction in any county were there is a
+Criminal District Court, unless expressly conferred by law; and in such counties appeals from
+Justices' Courts and other inferior courts and tribunals, in criminal cases shall be to the Criminal
+District Courts under such regulations as may be prescribed by law, and in all such cases an
+appeal shall lie from such District Courts to the Court of Appeals. Any case pending in the
+County Court, which the county judge may be disqualified to try, shall be transferred to the
+District Court of the same county for trial; and where there exists any cause disqualifying the
+county judge for the trial of a cause of which the County Court has jurisdiction, the District Court
+of such county shall have original jurisdiction of such cause.
+*** SEND ***
+*** SSTART 017.0 005.0 0 TX 1876 ***
+SEC. 17. The county court shall hold a term for civil business at least once in every two months,
+and shall dispose of probate business, either in term time or vacation, as may be provided by law;
+and said court shall hold a term for criminal business once in every month, as may be provided
+by law. Prosecutions may be commenced in said court by information filed by the county
+attorney or by affidavit, as may be provided by law. Grand juries impaneled in the district courts
+shall inquire into misdemeanors, and all indictments therefor returned into the district courts
+shall forthwith be certified to the county courts, or other inferior courts having jurisdiction to try
+them, for trial; and if such indictment be quashed in the county or other inferior court the person
+charged shall not be discharged if there is probable cause of guilt, but may be held by such court
+or magistrate to answer an information or affidavit. A jury in the county court shall consist of six
+men; but no jury shall be impanelled to try a civil case, unless demanded by one of the parties,
+who shall pay such jury fee therefor in advance, as may be prescribed by law, unless he makes
+affidavit that he is unable to pay the same.
+*** SEND ***
+*** SSTART 018.0 005.0 0 TX 1876 ***
+SEC. 18. Each organized county, in the State now or hereafter existing shall be divided from time
+to time, for the convenience of the people, into precincts, not less than four and not more than
+eight. The present county courts shall make the first division. Subsequent divisions shall be made
+by the commissioners' court, provided for by this constitution. In each such precinct there shall
+be elected at each biennial election one justice of the peace and one constable, each of whom
+shall hold his office for two years and until his successor shall be elected and qualified: Provided,
+That in any precinct in which there may be a city of eight thousand or more inhabitants there
+shall be elected two justices of the peace. Each county shall in like manner be divided into four
+commissioners' precincts, in each of which there shall be elected by the qualified voters thereof
+one county commissioner, who shall hold his office for two years and until his successor shall be
+elected and qualified. The county commissioners so chosen, with the county judge as presiding
+officer, shall compose the county commissioners' court, which shall exercise such powers and
+jurisdiction over all county business as is conferred by this constitution and the laws of this State,
+or as may be hereafter prescribed.
+*** SEND ***
+*** SSTART 019.0 005.0 0 TX 1876 ***
+SEC. 19. Justices of the peace shall have jurisdiction in criminal matters of all cases where the
+penalty of fine to be imposed by law may not be more than for two hundred dollars, and in civil
+matters of all cases where the amount in controversy is two hundred dollars or less, exclusive of
+interest, of which exclusive original jurisdiction is not given to the district or county courts; and
+such other jurisdiction, criminal and civil, as may be provided by law, under such regulations as
+may be prescribed by law; and appeals to the county courts shall be allowed in all cases decided
+in justices' courts where the judgment is for more than twenty dollars, exclusive of costs, and in
+all criminal cases, under such regulations as may be bed by law. And the justices of the peace
+shall be ex officio notaries public, and they shall hold their courts at such times and places as
+may be provided by law.
+*** SEND ***
+*** SSTART 020.0 005.0 0 TX 1876 ***
+SEC. 20. There shall be elected for each county, by the qualified voters, a county clerk, who shall
+hold his office or two years, who shall be clerk of the county and commissioners' courts and
+recorder of the county, whose duties, perquisites, and fees of office shall be prescribed by the
+legislature, and a vacancy in whose office shall be filled by the commissioners' court until the
+next general election for county and State officers: Provided, That in counties having a
+population of less than eight thousand persons there may be an election of a single clerk, who
+shall perform the duties of district and county clerks.
+*** SEND ***
+*** SSTART 021.0 005.0 0 TX 1876 ***
+SEC. 21. A county attorney, for counties in which there is not a resident criminal district
+attorney, shall be elected by the qualified voters of each county, who shall be commissioned by
+the governor, and hold his office for the term of two years. In case of vacancy the commissioners'
+court of the county shall have power to appoint a county attorney until the next general election.
+The county attorneys shall represent the State in all cases in the district and inferior courts in
+their respective counties; but if any county shall be included  in a district in which there shall be a
+district. attorney, the respective duties of district attorneys and county attorneys shall in such
+counties be regulated by the legislature. The legislature may provide for the election of district
+attorneys in such districts as may be deemed necessary, and make provision for the compensation
+of district attorneys and county attorneys: Provided, District attorneys shall receive an annual
+salary of five hundred dollars to be paid by the State, and such fees, commissions, and perquisites
+as may be provided by law. County attorneys shall receive as compensation only such fees,
+commissions, and perquisites as may be prescribed by law.
+*** SEND ***
+*** SSTART 022.0 005.0 0 TX 1876 ***
+SEC. 22. The legislature shall have power, by local or general law, to increase, diminish, or
+change the civil and criminal jurisdiction of county courts; and in cases of any such change of
+jurisdiction the legislature shall also conform the jurisdiction of the other courts to such change.
+*** SEND ***
+*** SSTART 023.0 005.0 0 TX 1876 ***
+SEC. 23. There shall be elected by the qualified voters of each county a sheriff, who shall hold
+his office for the term of two years, whose duties and perquisites and fees of office shall be
+prescribed by the legislature, and vacancies in whose office shall be filled by the commissioners'
+court until the next general election for county or State officers.
+*** SEND ***
+*** SSTART 024.0 005.0 0 TX 1876 ***
+SEC. 24. County judges, county attorneys, clerks of the district and county courts, justices of the
+peace, constables, and other county officers may be removed by the judges of the district courts
+for incompetency, official misconduct, habitual drunkenness, or other causes defined by law,
+upon the cause therefor being set forth in writing and the finding of its truth by a jury.
+*** SEND ***
+*** SSTART 025.0 005.0 0 TX 1876 ***
+SEC. 25. The Supreme Court shall have power to make rules and regulations for the government
+of said court, and the other courts of the State, to regulate proceedings and expedite the dispatch
+of business therein.
+*** SEND ***
+*** SSTART 026.0 005.0 0 TX 1876 ***
+SEC. 26. The State shall have no right of appeal in criminal cases.
+*** SEND ***
+*** SSTART 027.0 005.0 0 TX 1876 ***
+SEC. 27. The legislature shall, at its first session, provide for the transfer of all business, civil
+and criminal, pending in district courts, over which jurisdiction is given by this constitution to
+the county courts or other inferior courts, to such county or inferior courts, and for the trial or
+disposition of all such causes by such county or other inferior courts.
+*** SEND ***
+*** SSTART 028.0 005.0 0 TX 1876 ***
+SEC. 28. Vacancies in the office of judges in the supreme court, of the court of appeals, and
+district court shall be filled by the governor until the next succeeding general election; and
+vacancies in the office of county judge and justices of the peace shall be filled by the
+commissioners' court until the next general election for such offices.
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 TX 1876 ***
+ARTICLE VI
+
+SUFFRAGE
+
+*** SSTART 001.0 006.0 0 TX 1876 ***
+SECTION 1. The following classes of persons shall not be allowed to vote in this State, to wit:
+First--Persons under twenty-one years of age.
+Second--Idiots and lunatics.
+Third--All paupers supported by any county.
+Fourth--All persons convicted of any felony, subject to such exceptions as the Legislature may
+make.
+Fifth--All soldiers, marines and seamen, employed in the service of the army or navy of the
+United States. 
+*** SEND ***
+*** SSTART 002.0 006.0 0 TX 1876 ***
+SEC. 2. Every male person subject to none of the foregoing disqualifications, who shall have
+attained the age of twenty-one years, and who shall be a citizen of the United States, and who
+shall have resided in this State one year next preceding an election, and the last six months within
+the district or county in which be offers to vote, shall be deemed a qualified elector; and every
+male person of foreign birth, subject to none of the foregoing disqualifications, who, at any time
+before an election, shall have declared his intention to become a citizen of the United States, in
+accordance with the Federal naturalization laws, and shall have resided in this State one year next
+preceding such election, and the last six months in the county in which he offers to vote, shall
+also be deemed a qualified elector; and all electors shall vote in the election-precinct of their
+residence: Provided, That electors living in any unorganized county may vote at any
+election-precinct in the county to which such county is attached for judicial purposes.
+*** SEND ***
+*** SSTART 003.0 006.0 0 TX 1876 ***
+SEC. 3. All qualified electors of the State, as herein described, who shall have resided for six
+months immediately preceding an election within the limits of any city or corporate town shall
+have the right to vote for mayor and all other elective officers; but in all elections to determine
+expenditure of money or assumption of debt only those shall be qualified to vote who pay taxes
+on property in said city or incorporated town: Provided, That no poll-tax for the payment of debts
+thus incurred shall be levied upon the persons debarred from voting in relation thereto.
+*** SEND ***
+*** SSTART 004.0 006.0 0 TX 1876 ***
+SEC. 4. In all elections by the people the vote shall be by ballot, and the Legislature shall provide
+for the numbering of tickets and make such other regulations as may be necessary to detect and
+punish fraud and preserve the purity of the ballot box; but no law shall ever be enacted requiring
+a registration of the voters of this State.
+*** SEND ***
+*** SSTART 005.0 006.0 0 TX 1876 ***
+SEC. 5. Voters shall in all cases, except treason, felony, or breach of the peace, be privileged
+from arrest during their attendance at elections, and in going to and returning therefrom.
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 TX 1876 ***
+ARTICLE VII
+
+EDUCATION-THE PUBLIC FREE SCHOOLS
+
+*** SSTART 001.0 007.0 0 TX 1876 ***
+SECTION 1. A general diffusion of knowledge being essential to the preservation of the liberties
+and rights of the people, it shall be the duty of the legislature of the State to establish and make
+suitable provision for the support and maintenance of an efficient system of public free schools.
+*** SEND ***
+*** SSTART 002.0 007.0 0 TX 1876 ***
+SEC. 2. All funds, lands, and other property heretofore set apart and appropriated for the support
+of public schools; all the alternate sections of land reserved by the State out of grants heretofore
+made, or that may hereafter be made, to railroads or other corporations of any nature whatsoever;
+one-half of the public domain of the State; and all sums of money that may come to the State
+from the sale of any portion of the same, shall constitute a perpetual public-school fund.
+*** SEND ***
+*** SSTART 003.0 007.0 0 TX 1876 ***
+SEC. 3. There shall be set apart annually not more than one-fourth of general revenue of the
+State, and a poll tax of one dollar on all male inhabitants in this State between the ages of
+twenty-one and sixty years, for the benefit of the public free schools.
+*** SEND ***
+*** SSTART 004.0 007.0 0 TX 1876 ***
+SEC. 4. The lands herein set apart to the public free school fund shall be sold under such
+regulations, at such times and on such terms as may be prescribed by law; and the Legislature
+shall not have power to grant any relief to the purchasers thereof. The comptroller shall invest the
+proceeds of such sales, and of those heretofore made, as may be directed by the Board of
+Education herein provided for, in the bonds of this State, if the same can be obtained, otherwise
+in United States bonds; and the United States bonds now belonging to said fund shall likewise be
+invested in State bonds, if the same can be obtained on terms advantageous to the school fund.
+*** SEND ***
+*** SSTART 005.0 007.0 0 TX 1876 ***
+SEC. 5. The principal of all bonds and other funds, and the principal arising from the sale of the
+lands hereinbefore set apart to Said school-fund, shall be the permanent school-fund; and all the
+interest derivable therefrom and the taxes herein authorized and levied shall be the available
+school-fund, which shall be applied annually to the support of the public free schools. And no
+law shall ever be enacted appropriating any part of the permanent or available school-fund to any
+other purpose whatever; nor shall the same or any part thereof ever be appropriated to or used for
+the support of any sectarian school; and the available school-fund herein provided shall be
+distributed to the several counties according to their scholastic population, and applied in manner
+as may be provided by law.
+*** SEND ***
+*** SSTART 006.0 007.0 0 TX 1876 ***
+SEC. 6. All lands heretofore or hereafter granted to the several counties of this State for
+education or schools are of right the property of said counties respectively to which they were
+granted, and title thereto is vested in said counties, and no adverse possession or limitation shall
+ever be available against the title of any county. Each county may sell or dispose of its lands, in
+whole or in part, in manner to be provided by the commissioners' court of the county. Actual
+settlers residing on said lands shall be protected in the prior right of purchasing the same to the
+extent of their settlement, not to exceed one hundred and sixty acres, at the price fixed by said
+court, which price shall not include the value of existing improvements made thereon by such
+settlers. Said lands and the proceeds thereof, when sold, shall be held by said counties alone as a
+trust for the benefit of public schools therein; said proceeds to be invested in bonds of the State
+of Texas or of the United States, and only the interest thereon to be used and expended annually.
+*** SEND ***
+*** SSTART 007.0 007.0 0 TX 1876 ***
+SEC. 7. Separate schools shall be provided for the white and colored children, and impartial
+provision shall be made for both.
+*** SEND ***
+*** SSTART 008.0 007.0 0 TX 1876 ***
+SEC. 8. The governor, comptroller, and Secretary of state shall constitute a board of education,
+who shall distribute said funds to the several counties and perform such other duties concerning
+public schools as may be prescribed by law.
+*** SEND ***
+*** SSTART 009.0 007.0 0 TX 1876 ***
+SEC. 9. All lands heretofore granted for the benefit of the Lunatic, Blind, Deaf and Dumb, and
+Orphan Asylums, together with such donations as may have been or may hereafter be made to
+either of them, respectively, as indicated in the several grants, are hereby set apart to provide a
+permanent fund for the support, maintenance and improvement of said asylums. And the
+Legislature may provide for the sale of the lands and the investment of the proceeds in manner as
+provided for the sale and investment of school lands in section 4 of this Article.
+*** SEND ***
+*** SSTART 010.0 007.0 0 TX 1876 ***
+SEC 10. The legislature shall, as soon as practicable, establish, organize, and provide for the
+maintenance, support, and direction of a university of the first class, to be located by a vote of the
+people of this State, and styled "The University of Texas," for the promotion of literature and the
+arts and sciences; including an agricultural and mechanical department.
+*** SEND ***
+*** SSTART 011.0 007.0 0 TX 1876 ***
+SEC. 11. In order to enable the legislature to perform the duties set forth in the foregoing section,
+it is hereby declared that all lands and other property heretofore set apart and appropriated for the
+establishment and maintenance of "The University of Texas" together with all the proceeds of
+sales of the same, heretofore made or hereafter so to be made, and all grants, donations, and
+appropriations that may hereafter be made by the State of Texas, or from any other source, shall
+constitute and become a permanent university fund. And the same as realized and received into
+the treasury of the State (together with such sums, belonging to the fund, as may now be in the
+treasury) shall be invested in bonds of the State of Texas, if the same can be obtained; if not, then
+in United States bonds, and the interest accruing thereon shall be subject to appropriation by the
+legislature to accomplish the purpose declared in the foregoing section: Provided, That one-tenth
+of the alternate sections of the lands granted to railroads, reserved by the State, which were set
+apart and appropriated to the establishment of "The University of Texas," by an act of the
+legislature of February 11, 1858, entitled "An act to establish 'The University of Texas,' shall not
+be included in or constitute a part of the permanent university fund.
+*** SEND ***
+*** SSTART 012.0 007.0 0 TX 1876 ***
+SEC. 12. The land herein set apart to the university fund shall be sold under such regulations, at
+such times, and on such terms, as may be provided by law; and the legislature shall provide for
+the prompt collection, at maturity, of all debts due on account of university lands; heretofore
+sold, or that may hereafter be sold, and shall in neither event have the power to grant relief to the
+purchasers.
+*** SEND ***
+*** SSTART 013.0 007.0 0 TX 1876 ***
+SEC. 13. The Agricultural and Mechanical College of Texas, established by an act of the
+legislature, passed April 17, 1871, located in the county of Brazos, is hereby made and
+constituted a branch of the University of Texas, for instruction in agriculture, the mechanic arts,
+and the natural sciences connected therewith. And the legislature shall, at its next session, make
+an appropriation, not to exceed forty thousand dollars, for the construction and completion of the
+buildings and improvements, and for providing the furniture necessary to put said college in
+immediate and successful operation.
+*** SEND ***
+*** SSTART 014.0 007.0 0 TX 1876 ***
+SEC. 14. The legislature shall also, when deemed practicable, establish and provide for the
+maintenance of a college or branch university for the instruction of the colored youths of the
+State, to be locate by a vote of the people: Provided, that no tax shall be levied and no money
+appropriated out of the general revenue, either for this purpose or for the establishment and
+erection of the buildings of the University of Texas.
+*** SEND ***
+*** SSTART 015.0 007.0 0 TX 1876 ***
+SEC. 15. In addition to the lands heretofore granted to the University of Texas, there is hereby set
+apart and appropriated for the endowment, maintenance, and support of said university and its
+branches one million acres of the unappropriated public domain of the State, to be designated and
+surveyed as may be provided by law; and said lands shall be sold under the same regulations, and
+the proceeds invested in the same manner, as is provided for the sale and investment of the
+permanent university fund; and the legislature shall not have power to grant any relief to the
+purchasers of said lands.
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 TX 1876 ***
+ARTICLE VIII
+
+TAXATION AND REVENUE
+
+*** SSTART 001.0 008.0 0 TX 1876 ***
+SECTION 1. Taxation shall be equal and uniform. All property in this State, whether owned by
+natural persons or corporations, other than municipal, shall be taxed in proportion to its value,
+which shall be ascertained as may be provided by law. The legislature may impose a poll-tax. It
+may also impose occupation taxes, both upon natural persons and upon corporations, other than
+municipal, doing business in this State. It may also tax incomes of both natural persons and
+corporations, other than municipal, except that persons engaged in mechanical and agricultural
+pursuits shall never be required to pay an occupation tax: Provided, That two hundred and fifty
+dollars' worth of household and kitchen furniture belonging to each family in this State shall be
+exempt from taxation: And provided further, That the occupation tax levied by any county, city,
+or town, for any year, on persons or corporations pursuing any profession or business, shall not
+exceed one-half of the tax levied by the State for the same period on such profession or business.
+*** SEND ***
+*** SSTART 002.0 008.0 0 TX 1876 ***
+SEC.2. All occupation taxes shall be equal and uniform upon the same class of subjects within
+the limits of the authority levying the tax; but the legislature may, by general laws, exempt from
+taxation public property used for public purposes, actual places of religious worship, places of
+burial not held for private or corporate profit, all buildings used exclusively and owned by
+persons or associations of persons for school purposes, (and the necessary furniture of all
+schools,) and institutions of purely public charity; and all laws exempting property from taxation,
+other than the property above mentioned, shall be void.
+*** SEND ***
+*** SSTART 003.0 008.0 0 TX 1876 ***
+SEC. 3. Taxes shall be levied and collected by general laws and for public purposes only.
+*** SEND ***
+*** SSTART 004.0 008.0 0 TX 1876 ***
+SEC. 4. The power to tax corporations and corporate property shall not be surrendered or
+suspended by act of the legislature by any contract or grant to which the State shall be a party.
+*** SEND ***
+*** SSTART 005.0 008.0 0 TX 1876 ***
+SEC. 5. All property of railroad companies, of whatever description, lying or being within the
+limits of any city or incorporated town within this State, shall bear its proportionate share of
+municipal taxation, and if any such property shall not have been heretofore rendered, the
+authorities of the city or town within which it lies shall have power to require its rendition, and
+collect the usual municipal tax thereon as on other property lying within said municipality.
+*** SEND ***
+*** SSTART 006.0 008.0 0 TX 1876 ***
+SEC. 6. No money shall be drawn from the treasury but in pursuance of specific appropriations
+made by law; nor shall any appropriation of money be made for a longer term than two years,
+except by the first legislature, to assemble under this constitution, which may make the necessary
+appropriations to carry on the government until the assemblage of the sixteenth legislature.
+*** SEND ***
+*** SSTART 007.0 008.0 0 TX 1876 ***
+SEC. 7. The legislature shall not have power to borrow, or in any manner divert from its purpose,
+any special fund that may, or ought to, come into the treasury; and shall make it penal for any
+person or persons to borrow, withhold, or in any manner to divert from its purpose any special
+fund, or any part thereof.
+*** SEND ***
+*** SSTART 008.0 008.0 0 TX 1876 ***
+SEC. 8. All property of railroad companies shall be assessed, and the taxes collected, in the
+several counties in which said property is situated, including so much of the road-bed and
+fixtures as shall be in each county. The rolling-stock may be assessed in gross in the county
+where the principal office of this company is located, and the county tax paid upon it shall be
+apportioned by the comptroller, in proportion to the distance such road may run through any such
+county, among the several counties through which the road passes, as a part of their assets.
+*** SEND ***
+*** SSTART 009.0 008.0 0 TX 1876 ***
+SEC. 9. The State tax on property, exclusive of the tax necessary to pay the public debt, shall
+never exceed fifty cents on the one hundred dollars valuation, and no county, city or town shall
+levy more than one-half of said State tax, except for the payment of debts already incurred, and
+for the erection of public buildings, not to exceed fifty cents on the one hundred dollars in any
+one year, and except as in this Constitution is otherwise provided.
+*** SEND ***
+*** SSTART 010.0 008.0 0 TX 1876 ***
+SEC. 10. The legislature shall have no power to release the inhabitants of, or property in, any
+county, city, or town from the payment of taxes levied State or county purposes, unless in case of
+great public calamity in any such county, city, or town, when such release may be made by a vote
+of two-thirds of each house of the legislature.
+*** SEND ***
+*** SSTART 011.0 008.0 0 TX 1876 ***
+SEC. 11. All property, whether owned by persons or corporations, shall be assessed for taxation,
+and the taxes paid in the county where situated, but the legislature may, by a two-thirds vote,
+authorize the payment of taxes of non-residents of counties to be made at the office of the
+comptroller of public accounts. And all lands and other property not rendered for taxation by the
+owner thereof shall be assessed at its fair value by the proper officer.
+*** SEND ***
+*** SSTART 012.0 008.0 0 TX 1876 ***
+SEC. 12. All property subject to taxation in and owned by residents of unorganized counties shall
+be assessed and the taxes thereon paid in the counties to which such unorganized counties shall
+be attached for judicial purposes; and lands in and owned by nonresidents of unorganized
+counties, and lands lying in the territory not laid off into counties, shall be assessed and the taxes
+thereon collected at the office of the comptroller of the State.
+*** SEND ***
+*** SSTART 013.0 008.0 0 TX 1876 ***
+SEC. 13. Provision shall be made by the first Legislature for the speedy sale of a sufficient
+portion of all lands and other property for the taxes due thereon, and every year thereafter for the
+sale of all lands and other property upon which the taxes have not been paid, and the deed of
+conveyance to the purchaser for all lands and other property thus sold shall be held to vest a good
+and perfect title in the purchaser thereof, subject to the impeached only for actual fraud;
+provided, that the former owner shall, within two years from the date of purchaser's deed, have
+the right to redeem the land upon the payment of double the amount of money paid for the land.
+*** SEND ***
+*** SSTART 014.0 008.0 0 TX 1876 ***
+SEC. 14. There shall be elected by the qualified electors of each county, at the same time and
+under the same law regulating the election of State and county officers, an assessor of taxes, who
+shall hold his office for two years and until his successor is elected and qualified.
+*** SEND ***
+*** SSTART 015.0 008.0 0 TX 1876 ***
+SEC. 15. The annual assessment made upon landed property shall be a special lien thereon, and
+all property, both real and personal, belonging to any delinquent taxpayer, shall be liable to
+seizure and sale for the payment of all the taxes and penalties due by such delinquent; and such
+property may be sold for the payment of the taxes and penalties due by such delinquent under
+such regulations as the legislature may provide.
+*** SEND ***
+*** SSTART 016.0 008.0 0 TX 1876 ***
+SEC. 16. The sheriff of each county, in addition to his other duties, shall be the collector of taxes
+therefor. But in counties having ten thousand inhabitants, to be determined by the last preceding
+census of the United States, a collector of taxes shall be elected to hold office for two years and
+until his successor shall be elected and qualified.
+*** SEND ***
+*** SSTART 017.0 008.0 0 TX 1876 ***
+SEC. 17. The specification of the objects and subjects of taxation shall not deprive the legislature
+of the power to require other subjects or objects to be taxed in such manner as may be consistent
+with the principles of taxation fixed in this constitution.
+*** SEND ***
+*** SSTART 018.0 008.0 0 TX 1876 ***
+SEC. 18. The legislature shall provide for equalizing, as near as may be, the valuation of all
+property subject to or rendered for taxation, (the county commissioners' court to constitute a
+board of equalization;) and may also provide for the classification of all lands, with reference to
+their value, in the several counties.
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 TX 1876 ***
+
+ARTICLE IX
+
+COUNTIES
+
+*** SSTART 001.0 009.0 0 TX 1876 ***
+SECTION 1. The legislature shall have power to create counties for the convenience of the
+people, subject to the following provisions:
+First. In the territory of the State exterior to all counties now existing, no new counties shall be
+created with a less area than nine hundred square miles, in a square form, unless prevented by
+preexisting boundary-lines. Should the State-lines render this impracticable in border counties,
+the area may be less. The territory referred to may, at any, time, in whole or in part, be divided
+into counties in advance of population, and attached, for judicial and land-surveying purposes, to
+the most convenient organized county or counties.
+Second. Within the territory of any county or counties now existing, no new county shall be
+created with a less area than seven hundred square miles, nor shall any such county now existing
+be reduced to a less area than seven hundred square miles. No new counties shall be created so as
+to approach nearer than twelve miles of the county-seat of any county from which it may in
+whole or in part, be taken. Counties of a less area than nine hundred, but of seven hundred or
+more square miles, within counties now existing, may be created by a two-thirds vote of each
+house of the legislature, taken by yeas and nays, and entered on the journals. Any county now
+existing may be reduced to an area of not less than seven hundred square miles by a like
+two-thirds vote. When any part of a county is stricken off and attached to or created into another
+county, the part stricken off shall be holden for and obliged to pay its proportion of all the
+liabilities then existing of the county from which it was taken, in such manner as may be
+prescribed by law.
+Third. No part of any existing county shall be detached from it and attached to another existing
+county until the proposition for in such manner as may be such change shall have been
+submitted, provided by law, to a vote of the electors of both counties, and shall have received a
+majority of those voting on the question in each.
+*** SEND ***
+*** SSTART 002.0 009.0 0 TX 1876 ***
+SEC. 2. The legislature shall pass laws regulating the manner of removing county-seats, but no
+county-seat situated within five miles of the geographical centre of the county shall be removed,
+except by a vote of two-thirds of all the electors voting on the subject. A majority of such
+electors, however, voting at such election, may remove a county-seat from a point more than five
+miles from the geographical centre of the county to a point within five miles of such centre, in
+either case the centre to be determined by a certificate from the commissioner of the general
+land-office.
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 TX 1876 ***
+ARTICLE X
+
+RAILROADS
+
+*** SSTART 001.0 010.0 0 TX 1876 ***
+SECTION 1. Any railroad corporation or association, organized under the law for the purpose,
+shall have the right to construct and operate a railroad between any points within this State, and
+to connect at the State-line with railroads of other States. Every railroad company shall have the
+right, with its road, to intersect, connect with, or cross any other railroad; and shall receive, and
+transport each the others' passengers, tonnage, and cars, loaded or empty, without delay or
+discrimination, under such regulations as shall be prescribed by law.
+*** SEND ***
+*** SSTART 002.0 010.0 0 TX 1876 ***
+SEC. 2. Railroads heretofore constructed, or that may hereafter be constructed in this State, are
+hereby declared public highways, and railroad companies common carriers. The Legislature shall
+pass laws to correct abuses and prevent unjust discrimination and extortion in the rates of freight
+and passenger tariffs on the different railroads in this State; and shall from time to time pass laws
+establishing reasonable maximum rates of charges for the transportation of passengers and freight
+on said railroads, and enforce all such laws by adequate penalties.
+*** SEND ***
+*** SSTART 003.0 010.0 0 TX 1876 ***
+SEC. 3. Every railroad or other corporation, organized or doing business in this State under the
+laws or authority thereof, shall have and maintain a public office or place in this State for the
+transaction of its business, where transfers of stock shall be made, and where shall be kept, for
+inspection by the stockholders of such corporations, books, in which shall be recorded the
+amount of capital stock subscribed, the names of the owners of the stock, the amounts owned by
+them respectively, the amount of stock paid, and by whom, the transfer of said stock, with the
+date of the transfer, the amount of its assets and liabilities, and the names and places of residence
+of its officers. The directors of every railroad company shall hold one meeting annually in this
+State, public notice of which shall be given thirty days previously, and the president or
+superintendent shall report annually, under oath, to the comptroller or governor, their acts and
+doings, which report shall include such matters relating to railroads as may be prescribed by law.
+The legislature shall pass laws enforcing by suitable penalties the provisions of this section.
+*** SEND ***
+*** SSTART 004.0 010.0 0 TX 1876 ***
+SEC. 4. The rolling-stock and all other movable property belonging to any railroad company or
+corporation in this State shall be considered personal property, and its real and personal property,
+or any part thereof, shall be liable to execution and sale in the same manner as the property of
+individuals; and the legislature shall pass no laws exempting any such property from execution
+and sale.
+*** SEND ***
+*** SSTART 005.0 010.0 0 TX 1876 ***
+SEC. 5. No railroad or other corporation, or the lessees, purchasers, or managers of any railroad
+corporation, shall consolidate the stock, property, or franchises of such corporation, with, or lease
+or purchase the works or franchises of, or in any way control any railroad corporation owning or
+having under its control a parallel or competing line; nor shall any officer of such railroad
+corporation act as an officer of any other railroad corporation owning or having the control of a
+parallel or competing line.
+*** SEND ***
+*** SSTART 006.0 010.0 0 TX 1876 ***
+SEC. 6. No railroad company organized under the laws of this State shall consolidate, by private
+or judicial sale or otherwise, with any railroad company organized under the laws of any other
+State or of the United States.
+*** SEND ***
+*** SSTART 007.0 010.0 0 TX 1876 ***
+SEC. 7. No law shall be passed by the legislature granting the right to construct and operate a
+street-railroad within any city, town, or village, or upon any public highway, without first
+acquiring the consent of the local authorities having control of the street or highway proposed to
+be occupied by such street-railroad.
+*** SEND ***
+*** SSTART 008.0 010.0 0 TX 1876 ***
+SEC. 8. No railroad corporation in existence at the time of the adoption of this constitution shall
+have the benefit of any future legislation, except on condition of complete acceptance of all the
+provisions of this constitution applicable to railroads.
+*** SEND ***
+*** SSTART 009.0 010.0 0 TX 1876 ***
+SEC. 9. No railroad hereafter constructed in this State shall pass within a distance of three miles
+of any county-seat without passing through the same, and establish in and maintaining a depot
+therein, unless prevented by natural obstacles, such as streams, hills, or mountains: Provided,
+Such town or its citizens shall grant the right of way through its limits and sufficient ground for
+ordinary depot purposes.
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 TX 1876 ***
+ARTICLE XI
+
+MUNICIPAL CORPORATIONS
+*** SSTART 001.0 011.0 0 TX 1876 ***
+SECTION 1. The several counties of this State are hereby recognized as legal subdivisions of the
+State.
+*** SEND ***
+*** SSTART 002.0 011.0 0 TX 1876 ***
+SEC. 2. The construction of jails, court-houses and bridges, and the establishment of county
+poor-houses and farms, and the laying out, construction, and repairing of county roads shall be
+provided for by general laws.
+*** SEND ***
+*** SSTART 003.0 011.0 0 TX 1876 ***
+SEC. 3. No county, city, or other municipal corporation shall hereafter become a subscriber to
+the capital of any private corporation or association, or make any appropriation or donation to the
+same, or in any wise loan its credit; but this shall not be construed to in any way affect any
+obligation heretofore undertaken pursuant to law.
+*** SEND ***
+*** SSTART 004.0 011.0 0 TX 1876 ***
+SEC. 4. Cities and towns having a population of ten thousand inhabitants or less, may be
+chartered alone by general law. They may levy, assess, and collect an annual tax to defray the
+current expenses of their local government, but such tax shall never exceed, for any one year,
+one-fourth of one per cent., and shall be collectible only in current money. And all license and
+occupation tax levied, and all fines, forfeitures, penalties, and other dues accruing to cities and
+towns shall be collectible only in current money.
+*** SEND ***
+*** SSTART 005.0 011.0 0 TX 1876 ***
+SEC. 5. Cities having more than ten thousand inhabitants may have their charters granted or
+amended by special act of the legislature, and may levy, assess, and collect such taxes as may be
+authorized by law, but no tax for any purpose shall ever be lawful, for any one year, which shall
+exceed two and one-half per cent. of the taxable property of such city; and no debt shall ever be
+created by any city, unless at the same time provision be made to assess and collect annually a
+sufficient sum to pay the interest thereon and create a sinking-fund of at least two per cent.
+thereon.
+*** SEND ***
+*** SSTART 006.0 011.0 0 TX 1876 ***
+SEC. 6. Counties, cities, and towns are authorized, in such mode as may now or may hereafter be
+provided by law, to levy, assess, and collect the taxes necessary to pay the interest and provide a
+sinking-fund to satisfy any indebtedness heretofore legally made and undertaken; but all such
+taxes shall be assessed and collected separately from that levied, assessed, and collected for
+current expenses of municipal government, and shall when levied specify in the act of levying the
+purpose therefor, and such taxes may be aid in the coupons, bonds, or other indebtedness for the
+payment by which such tax may have been levied.
+*** SEND ***
+*** SSTART 007.0 011.0 0 TX 1876 ***
+SEC. 7. All counties and cities bordering on the coast of the Gulf of Mexico are hereby
+authorized, upon a vote of two-thirds of the tax-payers therein, (to be ascertained as may be
+provided by law,) to levy and collect such tax for construction of sea-walls, breakwaters, or
+sanitary purposes, as may be authorized by law, and may create a debt for such works and issue
+bonds in evidence thereof. But no debt for any purpose shall ever be incurred in any manner by
+any city or county, unless provision is made, at the time of creating the same, for levying and
+collecting a sufficient tax to pay the interest thereon and provide at least two per cent. as a
+sinking-fund; and the condemnation of the right of way for the erection of such works shall be
+fully provided for.
+*** SEND ***
+*** SSTART 008.0 011.0 0 TX 1876 ***
+SEC. 8. The counties and cities on the Gulf coast being subject to calamitous overflows, and a
+very large proportion of the general revenue being derived from those otherwise prosperous
+localities, the legislature is especially authorized to aid by donation of such portion o the public
+domain as may be deemed proper, and in such mode as may be provided by law, the construction
+of sea-walls or breakwaters, such aid to be proportioned to the extent and value of the works
+constructed, or to be constructed, in any locality.
+*** SEND ***
+*** SSTART 009.0 011.0 0 TX 1876 ***
+SEC. 9. The property of counties, cities, and towns owned and held only for public purposes,
+such as public buildings and the sites therefor, fire-engines and the furniture thereof, and all
+property used or intended for extinguishing fires, public grounds and all other property devoted
+exclusively to the use and benefit of the public, shall be exempt from forced sale and from
+taxation: Provided, Nothing herein shall prevent the enforcement of the vendor's lien, the
+mechanic's or builder's lien, or other liens now existing.
+*** SEND ***
+*** SSTART 010.0 011.0 0 TX 1876 ***
+SEC. 10. The legislature may constitute any city or town a separate and independent
+school-district. And when the citizens of any city or town have a charter, authorizing the city
+authorities to levy and collect a. tax for the support and maintenance of a public institution of
+learning, such tax may hereafter be levied and collected, if, at an election held for that purpose,
+two-thirds of the tax-payers of such city or town shall vote for such tax.
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 TX 1876 ***
+ARTICLE XII
+
+PRIVATE CORPORATIONS
+
+*** SSTART 001.0 012.0 0 TX 1876 ***
+SECTION 1. No private corporation shall be created except by general laws.
+*** SEND ***
+*** SSTART 002.0 012.0 0 TX 1876 ***
+SEC. 2. General laws shall be enacted providing for the creation of private corporations, and
+shall therein provide fully for the adequate protection of the public and of the individual
+stockholders.
+*** SEND ***
+*** SSTART 003.0 012.0 0 TX 1876 ***
+SEC. 3. The right to authorize and regulate freights, tolls, wharfage, or fares levied and collected,
+or proposed to be levied and collected, by individuals, companies, or corporations, for the use of
+highways, landings, wharves, bridges, and ferries devoted to public use, has never been and shall
+never be relinquished or abandoned by the State, but shall always be under legislative control and
+depend upon legislative authority.
+*** SEND ***
+*** SSTART 004.0 012.0 0 TX 1876 ***
+SEC. 4. The first legislature assembled after the adoption of this constitution shall provide a
+mode of procedure by the attorney general and district or county attorneys, in the name and
+behalf of the State, to prevent and punish the demanding and receiving or collection of any and
+all charges as freight, wharfage, fares, or tolls, for the use of property devoted to the public,
+unless the same shall have been specially authorized by law.
+*** SEND ***
+*** SSTART 005.0 012.0 0 TX 1876 ***
+SEC. 5. All laws granting the right to demand and collect freights, fares, tolls, or wharfage shall
+at all times be subject to amendment, modification, or repeal by the legislature.
+*** SEND ***
+*** SSTART 006.0 012.0 0 TX 1876 ***
+SEC. 6. No corporation shall issue stock or bonds except for money paid, labor done, or property
+actually received, and all fictitious increase of stock or indebtedness shall be void.
+*** SEND ***
+*** SSTART 007.0 012.0 0 TX 1876 ***
+SEC. 7. Nothing in this article shall be construed to divest or affect rights guaranteed by any
+existing grant or statute of this State or of the republic of Texas.
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 TX 1876 ***
+ARTICLE XIII
+
+SPANISH AND MEXICAN LAND-TITLES
+
+*** SSTART 001.0 013.0 0 TX 1876 ***
+SECTION 1. All fines, penalties, forfeitures, and escheats which have heretofore accrued to the
+republic and State of Texas, tinder their constitutions and laws, shall accrue to the State under
+this constitution; and the legislature shall provide a method for determining what lands, have
+been forfeited, and for giving effect to escheats; and all such rights of forfeiture and escheat to
+the State shall, ipso facto, inure to the protection of the innocent holders of junior titles, as
+provided in sections 2, 3, and 4 of this article.
+*** SEND ***
+*** SSTART 002.0 013.0 0 TX 1876 ***
+SEC. 2. Any claim of title or right to land in Texas, issued prior to the 13th day of November,
+1835, not duly recorded in the county where the land was situated at the time of such record, or
+not duly archived in the general land-office, or not in the actual possession of the grantee thereof,
+or some person claiming under him, prior to the accruing of junior title thereto from the
+sovereignty of the soil, under circumstances reasonable calculated to give notice to said junior
+grantee, has never had, and shall not have, standing or effect against such junior title, or color of
+title, acquired without such or actual notice of such prior claim of title or right; and no condition
+annexed to such grants, not archived or recorded or occupied as aforesaid, has been, or ever shall
+be, released or waived, but actual performance of all such conditions shall be proved by the
+person or persons claiming under such title or claim of right in order to maintain action thereon,
+and the holder of such junior title, or color of title, shall have all the rights of the government
+which have heretofore existed, or now exist, arising from the non-performance of all such
+conditions.
+*** SEND ***
+*** SSTART 003.0 013.0 0 TX 1876 ***
+SEC. 3. Non-payment of taxes on any claim of title to land, dated prior to the 13th day of
+November, 1835, not recorded or archived, as provided in section 2, by the person or persons so
+claiming, or those under whom he or they so claim, from that date up to the date of the adoption
+of this constitution, shall be held to be a presumption that the right thereto has reverted to the
+State, and that said claim is a stale demand, which presumption shall only be rebutted by
+payment of all taxes on said lands, State, county, and city or town, to be assessed on the fair
+value of such lands by the comptroller, and paid to him without commutation or deduction for
+any part of the above period.
+*** SEND ***
+*** SSTART 004.0 013.0 0 TX 1876 ***
+SEC. 4. No claim of title or right to land, which issued prior to the 13th day of November, 1835,
+which has not been duly recorded in the county where the land was situated at the time of such
+record, or which has not been duly archived in the general land-office, shall ever hereafter be
+deposited in the general land-office, or recorded in this State, or delineated on the maps, or used
+as evidence in any of the courts of this State, and the same are stale claims; but this shall not
+affect such rights or presumptions as arise from actual possession. By the words "duly recorded,"
+as used in sections 2 and 4 of this article, it is meant that such claim of title or right to land shall
+have been recorded in the proper office, and that mere errors in the certificate of registration, or
+informality, not affecting the fairness and good faith of the holder thereof, with which the record
+was made, shall not be held to vitiate such record.
+*** SEND ***
+*** SSTART 005.0 013.0 0 TX 1876 ***
+SEC. 5. All claims, locations, surveys, grants, and titles of any kind, which are declared null and
+void by the constitution of the republic or State of Texas, are, and the same shall remain forever,
+null and void.
+*** SEND ***
+*** SSTART 006.0 013.0 0 TX 1876 ***
+SEC. 6. The legislature shall a stringent laws for the detection and conviction of all forgers of
+land-titles, and may make such appropriations of money for that purpose as may be necessary.
+*** SEND ***
+*** SSTART 007.0 013.0 0 TX 1876 ***
+SEC. 7. Sections 2, 3, 4, and 5 of this article shall not be so construed as to set aside or repeal
+any law or laws of the republic or State of Texas, releasing the claimants of headrights of
+colonists of a league of land, or less, from compliance with the conditions on which their grants
+were made.
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 TX 1876 ***
+ARTICLE XIV
+
+PUBLIC LANDS AND LAND-OFFICE
+
+*** SSTART 001.0 014.0 0 TX 1876 ***
+SECTION 1. There shall be one general land-office in the State, which shall be at the seat of
+government, where all land-titles which have emanated, or may hereafter emanate, from the State
+shall be registered, except those titles the registration of which may be prohibited by this
+constitution. It shall be the duty of the legislature, at the earliest practicable time, to make the
+land-office self-sustaining, and from time to time the legislature may establish such subordinate
+offices as may be deemed necessary.
+*** SEND ***
+*** SSTART 002.0 014.0 0 TX 1876 ***
+SEC. 2. All unsatisfied genuine land-certificates barred by section 4, article 10, of the
+constitution of 1869, by reason of the holders or owners thereof failing to have them surveyed
+and returned to the land-office by the 1st day of January, 1875.,'are hereby revived. All
+unsatisfied genuine land-certificates now in existence shall be surveyed and returned to the
+general land-office within five years after the adoption of this constitution, or be forever barred;
+and all genuine land certificates hereafter issued by the State shall be surveyed and returned to
+the general land-office within five years after issuance, or be forever barred: Provided, That all
+genuine land certificates heretofore or hereafter issued shall be located, surveyed, or patented
+only upon vacant and unappropriated public domain, and not upon any land titled or equitably
+owned under color of title from the sovereignty of the State, evidence of the appropriation of
+which is on the county records or in the general land-office, or when the appropriation is
+evidenced by the occupation of the owner, or of some person holding for him.
+*** SEND ***
+*** SSTART 003.0 014.0 0 TX 1876 ***
+SEC. 3. The legislature shall have no power to grant any of the lands of this State to any railway
+company, except upon the following restrictions and conditions:
+First. That there shall never be granted to any such corporation more than sixteen sections to the
+mile, and no reservation of any part of the public domain for the purpose of satisfying such grant
+shall ever be made.
+Second. That no land-certificate shall be issued to such company until they have equipped,
+constructed, and in running order at least ten miles of road, and on the failure of such company to
+comply with the terms of its charter, or to alienate its land at a period to be fixed by law, in no
+event to exceed twelve years from the issuance of the patent, all said land shall. be forefeited to
+the State, and become a portion of the public domain, and liable to location and survey. The
+legislature shall pass general laws only, to give effect to the provisions of this section.
+*** SEND ***
+*** SSTART 004.0 014.0 0 TX 1876 ***
+SEC. 4. No certificate for land shall be sold at the Land Office except to actual settlers upon the
+same, and in lots not to exceed one hundred and sixty acres.
+*** SEND ***
+*** SSTART 005.0 014.0 0 TX 1876 ***
+SEC. 5. All lands heretofore or hereafter granted to railway companies, where the charter or law
+of the State required, or shall hereafter require, their alienation within a certain period, on pain of
+forfeiture, or is silent on the subject of forfeiture, and which lands have not been or shall not
+hereafter be alienated, in conformity with the terms of their charters and the laws under which the
+grants were made, are hereby declared forfeited to the State, and subject to preemption, location,
+and survey as other vacant lands. All lands heretofore granted to said railroad companies to
+which no forfeiture was attached on their failure to alienate, are not included in the foregoing
+clause; but in all such last-named cases it shall be the duty of the attorney-general, in every
+instance where alienations have been or hereafter may be made, to inquire into the same, and if
+such alienation has been made in fraud of the rights of the State, and is colorable only, the real
+and beneficial interest being still in such corporation, to institute legal proceedings in the county
+where the seat of government is situated to forfeit such lands to the State, and if such alienation
+be judicially ascertained to be fraudulent and colorable as aforesaid, such lands shall be forfeited
+to the State, and become a part of the vacant public domain, liable to pre-emption, location, and
+survey.
+*** SEND ***
+*** SSTART 006.0 014.0 0 TX 1876 ***
+SEC. 6. To every head of a family without a homestead there shall be donated one hundred and
+sixty acres of public land, upon condition that he will select and locate said land, and occupy the
+same three years, and pay the office-fees due thereon. To all single men of eighteen years of age
+and upwards shall be donated eighty acres of public land, upon the terms and conditions
+prescribed for heads of families.
+*** SEND ***
+*** SSTART 007.0 014.0 0 TX 1876 ***
+SEC. 7. The State of Texas hereby releases to the owner or owners of the soil all mines and
+minerals that may be on the same, subject to taxation as other property.
+*** SEND ***
+*** SSTART 008.0 014.0 0 TX 1876 ***
+SEC. 8. Persons residing between the Nucces River and the Rio Grande, and owning grants for
+lands which emanated from the government of Spain or that of Mexico, which grants have been
+recognized and validated by the State, by acts of the legislature, approved February 10, 1852,
+August 15, 1870, and, other acts, and who have been prevented from complying with the
+requirements of said acts by the unsettled condition of the country, shall be allowed until the 1st
+day of January, 1880, to complete their surveys and the plots thereof, and to return their
+field-notes to the general land-office; and all claimants failing to do so shall be forever barred:
+Provided, Nothing in this section shall be so construed as to validate any titles not already valid,
+or to interfere with the rights of third persons.
+*** SEND ***
+*** AEND ***
+*** ASTART 015.0 TX 1876 ***
+ARTICLE XV                              
+
+IMPEACHMENT
+*** SSTART 001.0 015.0 0 TX 1876 ***
+SECTION 1. The power of impeachment shall be vested in the house of representatives.
+*** SEND ***
+*** SSTART 002.0 015.0 0 TX 1876 ***
+SEC. 2. Impeachment of the governor, lieutenant-governor, attorney-general, treasurer,
+commissioner of the general land-office, comptroller, and the judges of the supreme court, court
+of appeals, and district court shall be tried by the senate.
+*** SEND ***
+*** SSTART 003.0 015.0 0 TX 1876 ***
+SEC. 3. When the senate is sitting as a court of impeachment, the senators shall be on oath, or
+affirmation, impartially to try the party impeached, and no person shall be convicted without the
+concurrence of two-thirds of the senators present.
+*** SEND ***
+*** SSTART 004.0 015.0 0 TX 1876 ***
+SEC. 4. Judgment in cases of impeachment shall extend only to removal from office, and
+disqualification from holding any office of honor, trust, or profit under this State. A party
+convicted on impeachment shall also be subject to indictment, trial, and punishment, according
+to law.
+*** SEND ***
+*** SSTART 005.0 015.0 0 TX 1876 ***
+SEC. 5. All officers against who articles of impeachment may be preferred shall be suspended
+from the exercise of the duties of their office during the pendency of such impeachment. The
+governor may make a provisional appointment to fill the vacancy occasioned by the suspension
+of an officer until the decision on the impeachment.
+*** SEND ***
+*** SSTART 006.0 015.0 0 TX 1876 ***
+SEC. 6. Any judge of the district courts of the State who is incompetent to discharge the duties of
+his office, or who shall be guilty of partiality, or oppression, or other official misconduct, or
+whose habits and conduct are such as to render him unfit to hold such office, or who shall
+negligently fail to perform his duties as judge, or who shall fall to execute in a reasonable
+measure the business in his courts, may be removed by the supreme court. The supreme court
+shall have original jurisdiction to hear and determine the causes aforesaid, when presented in
+writing upon the oaths taken before some judge of a court of record of not less than ten lawyers
+practising in the courts held by such judge and licensed to practise in the supreme court; said
+presentment to be founded either upon the knowledge of the persons making it or upon the
+written oaths as to the facts of creditable witnesses. The supreme court may issue all needful
+process and prescribe all needful rules to give effect to this section. Causes of this kind shall have
+precedence and be tried as soon as practicable.
+*** SEND ***
+*** SSTART 007.0 015.0 0 TX 1876 ***
+SEC. 7. The legislature shall provide by law for the trial and removal from office of all officers
+of this State, the modes for which have not been provided in this constitution.
+*** SEND ***
+*** SSTART 008.0 015.0 0 TX 1876 ***
+ADDRESS
+
+SEC. 8. The judges of the supreme court, court of appeals, and district courts, shall be removed
+by the governor on the address of two-thirds of each house of the legislature for willful neglect of
+duty, incompetency, habitual drunkenness, oppression in office, or other reasonable cause which
+shall not be sufficient ground for impeachment: Provided, however, That the cause or causes for
+which such removal shall be required shall be stated at length in such address and entered on the
+journals of each house: And provided further, That the cause or causes shall be notified to the
+judge so intended to be removed, and he shall be admitted to a hearing in his own defense before
+any vote for such address shall pass; and in all such cases the vote shall be taken by yeas and
+nays and entered on the journals of each house, respectively.
+*** SEND ***
+*** AEND ***
+*** ASTART 016.0 TX 1876 ***
+ARTICLE XVI
+GENERAL PROVISIONS
+
+*** SSTART 001.0 016.0 0 TX 1876 ***
+SECTION 1. Members of the legislature, and all officers, before they enter upon the duties of
+their offices, shall take the following oath or affirmation: "I,  - - do solemnly swear (or affirm)
+that I will faithfully and impartially discharge and perform all the duties incumbent upon me as
+---, according to the best of my skill and ability, agreeably to the Constitution and laws of the
+United States and of this State; and I do further solemnly swear (or affirm) that since the
+adoption of the constitution of this State, I being a citizen of this State, have not fought a duel
+with dead weapons, within this State nor out of it, nor have I sent or accepted a challenge to fight
+a duel with deadly weapons, nor have I acted as second in carrying a challenge, or aided, advised
+or assisted any person thus offending and I furthermore solemnly swear (or affirm) that I have not
+directly; nor indirectly paid, offered, or promised to pay, contributed, nor promised to contribute
+any money, or valuable thing, or promised any public office or employment, as a reward for the
+giving or withholding a vote at the election at which I was elected, (or if the office is one of
+appointment, to secure my appointment:) So help me God."
+*** SEND ***
+*** SSTART 002.0 016.0 0 TX 1876 ***
+SEC. 2. Laws shall be made to exclude from office, serving on juries, and from the right of
+suffrage those who may have been or shall hereafter be convicted of bribery, perjury, forgery, or
+other high crimes. The privilege of free suffrage shall be protected by laws regulating elections
+and prohibiting under adequate penalties all undue influence therein from power, bribery, tumult,
+or other improper practice.
+*** SEND ***
+*** SSTART 003.0 016.0 0 TX 1876 ***
+SEC. 3. The legislature shall make provision whereby persons convicted of misdemeanors and
+committed to the county jails in default of payment of fines and costs shall be required to
+discharge such fines and costs by manual labor, under such regulations as may be prescribed by
+law.
+*** SEND ***
+*** SSTART 004.0 016.0 0 TX 1876 ***
+SEC. 4. Any citizen of this State who shall, after the adoption of this constitution, fight a duel
+with deadly weapons, or send or accept a challenge to fight a duel with deadly weapons, either
+within this State or out of it, or who shall act as second, or knowingly assist in any manner those
+thus offending, shall be deprived of the right of suffrage, or of holding any office of trust or profit
+under this State.
+*** SEND ***
+*** SSTART 005.0 016.0 0 TX 1876 ***
+SEC. 5. Every person shall be disqualified from holding any office of profit or trust in this State
+who shall have been convicted of having given or offered a bribe to procure his election or
+appointment.
+*** SEND ***
+*** SSTART 006.0 016.0 0 TX 1876 ***
+SEC. 6. No appropriation for private or individual purposes shall be made. A regular statement,
+under oath, and an account of the receipts and expenditures of all public money shall be
+published annually in such manner as shall be prescribed by law.
+*** SEND ***
+*** SSTART 007.0 016.0 0 TX 1876 ***
+SEC. 7. The legislature shall in no case have power to issue "treasury warrants," "treasury notes,"
+or paper of any description intended to circulate as money.
+*** SEND ***
+*** SSTART 008.0 016.0 0 TX 1876 ***
+SEC. 8. Each county in the State may provide, in such manner as may be prescribed by law, a
+manual-labor poor-house and farm, for taking care of, managing, employing, and supplying the
+wants of its indigent and poor inhabitants.
+*** SEND ***
+*** SSTART 009.0 016.0 0 TX 1876 ***
+SEC. 9. Absence on business of the State, or of the United States, shall not forfeit a residence
+once obtained, so as to deprive any one of the right of suffrage, or of being elected or appointed
+to any office under the exceptions contained in this constitution.
+*** SEND ***
+*** SSTART 010.0 016.0 0 TX 1876 ***
+SEC. 10. The legislature shall provide for deductions from the salaries of public officers who
+may neglect the performance of any duty that may be assigned them by
+*** SEND ***
+*** SSTART 011.0 016.0 0 TX 1876 ***
+SEC. 11. The legal rate of interest shall not exceed eight per cent. per annum, in the absence of
+any contract as to the rate of interest; and by contract parties may agree upon any rate not to
+exceed 12 per cent. per annum. All interest charged above this last named rate shall be deemed
+usurious, and the Legislature shall, at its first session, provide appropriate pains and penalties to
+prevent and punish usury.
+*** SEND ***
+*** SSTART 012.0 016.0 0 TX 1876 ***
+SEC. 12. No member of Congress, nor person holding or exercising any office of profit or trust
+under the United States, or either of them, or under any foreign power, shall be eligible as a
+member of the legislature, or hold or exercise any office of profit or trust under this State.
+*** SEND ***
+*** SSTART 013.0 016.0 0 TX 1876 ***
+SEC. 13. It shall be the duty of the legislature to pass such laws as may be necessary and proper
+to decide differences by arbitration, when the parties shall elect that method of trial.
+*** SEND ***
+*** SSTART 014.0 016.0 0 TX 1876 ***
+SEC. 14. All civil officers shall reside within the State; and all district or county officers within
+their districts or counties, and shall keep their offices at such places as may be required by law;
+and failure to comply with this condition shall vacate the office so held.
+*** SEND ***
+*** SSTART 015.0 016.0 0 TX 1876 ***
+SEC. 15. All property, both real and personal, of the wife, owned or claimed by her before
+marriage, and that acquired afterward by gift, devise, or descent, shall be her separate property;
+and laws shall be passed more clearly defining the rights of the wife in relation as well to her
+separate property as that held in common with her husband. Laws shall also be passed providing
+for the registration of the wife's separate property.
+*** SEND ***
+*** SSTART 016.0 016.0 0 TX 1876 ***
+SEC. 16. No corporate body shall hereafter be created, renewed, or extended with banking or
+discounting privileges.
+*** SEND ***
+*** SSTART 017.0 016.0 0 TX 1876 ***
+SEC. 17. All officers within this State shall continue to perform the duties of their offices until
+their successors shall be duly qualified.
+*** SEND ***
+*** SSTART 018.0 016.0 0 TX 1876 ***
+SEC. 18. The rights of property and of action, which have been acquired under the constitution
+and laws of the republic and State, shall not be divested; nor shall any rights or actions which
+have been divested, barred, or declared null and void by the constitution of the republic and
+State, be reinvested, renewed, or reinstated by this constitution; but the same shall remain
+precisely in the situation which they were before the adoption of this constitution, unless
+otherwise herein provided: And provided further, That no cause of action heretofore barred shall
+be revived.
+*** SEND ***
+*** SSTART 019.0 016.0 0 TX 1876 ***
+SEC. 19. The legislature shall prescribe by law the qualification of grand and petit jurors.
+*** SEND ***
+*** SSTART 020.0 016.0 0 TX 1876 ***
+SEC. 20. The Legislature shall, at its first session, enact a law whereby the qualified voters of any
+county, justice's precinct, town or city, by a majority vote, from time to time, may determine
+whether the sale of intoxicating liquors shall be prohibited within the prescribed limits.
+*** SEND ***
+*** SSTART 021.0 016.0 0 TX 1876 ***
+SEC. 21. All stationery and printing, except proclamations and such printing as may be done at
+the deaf and dumb asylum, paper, and fuel used in the legislative and other departments of the
+government, except the judicial department, shall be furnished, and the printing and binding of
+the laws, journals, and department reports, and all other printing and binding, and the repairing
+and furnishing the halls and rooms used for the meetings of the legislature and its committees,
+shall be performed, under contract, to be given to the lowest responsible bidder, below such
+maximum price, and under such regulations, as shall be prescribed by law. No member or officer
+of any department of the government shall be in any way interested in such contracts; and all
+such contracts shall be subject to the approval of the governor, secretary of state, and
+comptroller.
+*** SEND ***
+*** SSTART 022.0 016.0 0 TX 1876 ***
+SEC. 22. The legislature shall have the power to pass such fence laws, applicable to any
+subdivision of the State or counties, as may be needed to meet the wants of the people.
+*** SEND ***
+*** SSTART 023.0 016.0 0 TX 1876 ***
+SEC. 23. The legislature may pass laws for the regulation of live stock and the protection of
+stock-raisers in the stock-raising portion of the State, and exempt from the operation of such laws
+other portions, sections, or counties; and shall have power to pass general and special laws for
+the inspection of cattle, stock, and hides, and for the regulation of brands: Provided, That any
+local law thus passed shall be submitted to the freeholders of the section to be affected thereby,
+and approved by them, before it shall go into effect.
+*** SEND ***
+*** SSTART 024.0 016.0 0 TX 1876 ***
+SEC. 24. The legislature shall make provision for laying out and working public roads, for the
+building of bridges, and for utilizing fines, forfeitures, and convict labor to all these purposes.
+*** SEND ***
+*** SSTART 025.0 016.0 0 TX 1876 ***
+SEC. 25. That all drawbacks and rebatement of insurance, freight, transportation, carriage,
+wharfage, storage, compressing, baling, repairing, or for any other kind of labor or service, of or
+to any cotton, grain, or any other produce or article of commerce in this State, paid, or allowed,
+or contracted for, to any common carrier, shipper, merchant, commission-merchant, factor, agent,
+or middle-man of kind, not the true and absolute owner thereof, are forever prohibited and it shall
+be the duty of the legislature to pass effective laws punishing all persons in this State who pay,
+receive, or contract for or respecting the same.
+*** SEND ***
+*** SSTART 026.0 016.0 0 TX 1876 ***
+SEC. 26. Every person, corporation, or company, that may commit a homicide, through wilful
+act, or omission, or gross neglect, shall be responsible, in exemplary damages, to the suing
+husband, widow, heirs of his or her body, or such of them as there may be, without regard to any
+criminal proceeding that may or may not be had in relation to the homicide.
+*** SEND ***
+*** SSTART 027.0 016.0 0 TX 1876 ***
+SEC. 27. In all elections to fill vacancies of office in this State it shall be to fill the unexpired
+term only.
+*** SEND ***
+*** SSTART 028.0 016.0 0 TX 1876 ***
+SEC. 28. No current wages for personal service shall ever be subject to garnishment.
+*** SEND ***
+*** SSTART 029.0 016.0 0 TX 1876 ***
+SEC. 29. The legislature shall provide by law for defining and punishing barratery.
+*** SEND ***
+*** SSTART 030.0 016.0 0 TX 1876 ***
+SEC. 30. The duration of all offices not fixed by this constitution shall never exceed two years.
+*** SEND ***
+*** SSTART 031.0 016.0 0 TX 1876 ***
+SEC. 31. The legislature may pass laws prescribing the qualifications of practitioners of medicine
+in this State, and to punish persons for malpractice, but no preference shall ever be given by law
+to any schools of medicine.
+*** SEND ***
+*** SSTART 032.0 016.0 0 TX 1876 ***
+SEC. 32. The legislature may provide by law for the establishment of a board of health and vital
+statistics, under such rules and regulations as it may deem proper.
+*** SEND ***
+*** SSTART 033.0 016.0 0 TX 1876 ***
+SEC. 33. The accounting-officers of this State shall neither draw nor pay a warrant upon the
+treasury in favor of any person, for salary or compensation as agent, officer, or appointee, who
+holds at the same time any other office or position of honor, trust, or profit under this State or the
+United States, except as prescribed in this constitution.
+*** SEND ***
+*** SSTART 034.0 016.0 0 TX 1876 ***
+SEC. 34. The legislature shall pass laws authorizing the governor to lease, or sell to the
+Government of the United States, a sufficient quantity of the public domain of the State
+necessary for the erection of forts, barracks, arsenals, and military stations, or camps, and for
+other needful military purposes; and the action of the governor therein shall be subject to the
+approval of the legislature.
+*** SEND ***
+*** SSTART 035.0 016.0 0 TX 1876 ***
+SEC. 35. The legislature shall, at its first session, pass laws to protect laborers on public
+buildings, streets, roads, railroads, canals, and other similar public works against the failure of
+contractors and subcontractors to pay their current wages when due, and to make tile corporation,
+company, or individual for whose benefit the work is done responsible for their ultimate
+payment.
+*** SEND ***
+*** SSTART 036.0 016.0 0 TX 1876 ***
+SEC. 36. The legislature shall, at its first session, provide for the payment, or funding, as they
+may deem best, of the amounts found to be justly due to the teachers in the public schools, by the
+State, for service rendered prior to the 1st day of July, 1873, and for the payment by the
+school-districts in the State of amounts justly due teachers of public schools by such district to
+January, 1876.
+*** SEND ***
+*** SSTART 037.0 016.0 0 TX 1876 ***
+SEC. 37. Mechanics, artisans, and material-men of every class, shall have a lien upon the
+buildings and articles made or repaired by them for the value of their labor done thereon or
+material furnished therefor; and the legislature shall provide by law for the speedy and efficient
+enforcement of said liens.
+*** SEND ***
+*** SSTART 038.0 016.0 0 TX 1876 ***
+SEC. 38. The legislature may, at such time as the public interest may require, provide for the
+office of commissioner of insurance, statistics, and history, whose term of office, duties, and
+salary shall be prescribed by law.
+*** SEND ***
+*** SSTART 039.0 016.0 0 TX 1876 ***
+SEC. 39. The legislature may, from time to time, make appropriations for preserving and
+perpetuating memorials of the history of Texas, by means of monuments, statues, paintings, and
+documents of historical value.
+*** SEND ***
+*** SSTART 040.0 016.0 0 TX 1876 ***
+SEC. 40. No person shall hold or exercise, at the same time, more than one civil office of
+emolument, except that of justice of the peace, county commissioner, notary public, and
+postmaster, unless otherwise specially provided herein.
+*** SEND ***
+*** SSTART 041.0 016.0 0 TX 1876 ***
+SEC. 41. Any person who shall, directly or indirectly, offer, give, or promise, any money or thing
+of value, testimonial, privilege, or personal advantage, to any executive or judicial officer or
+member of the legislature to influence him in the performance of any of his public or official
+duties, shall be guilty of bribery, and be punished in such manner as shall be provided by law.
+And any member of the legislature, or executive or judicial officer, who shall solicit, demand, or
+receive, or consent to receive, directly or indirectly, for himself or for another, from any
+company, corporation, or person, any money, appointment, employment, testimonial, reward,
+thing of value or employment, or of personal advantage or promise thereof, for his vote or
+official influence, or for withholding the same, or with any understanding, expressed or implied,
+that his vote or official action shall be in any way influenced hereby, or who shall solicit,
+demand, and receive any such money or other advantage, matter, or thing, aforesaid for another,
+as the consideration of his vote or official influence, in consideration of the payment or promise
+of such money, advantage, matter or thing to another, shall be held guilty of bribery within the
+meaning of the constitution, and shall incur the disabilities provided for said offenses, with a
+forfeiture of the office he may hold, and such other additional punishment as is or shall be
+provided by law.
+*** SEND ***
+*** SSTART 042.0 016.0 0 TX 1876 ***
+SEC. 42. The legislature may establish an inebriate asylum, for the cure of drunkenness and
+reform of inebriates.
+*** SEND ***
+*** SSTART 043.0 016.0 0 TX 1876 ***
+SEC. 43. No man or set of men shall ever be exempted, relieved, or discharged from the
+performance of an public duty or service imposed by general law by any special law. Exemptions
+from the performance of such public duty or service shall only be, made by general law.
+*** SEND ***
+*** SSTART 044.0 016.0 0 TX 1876 ***
+SEC. 44. The legislature shall prescribe the duties and provide for the election, by the qualified
+voters of each county in this State, of a county treasurer and a county surveyor, who shall have an
+office at, the county-seat, and hold their office for two years and until their successors are
+qualified; and shall have such compensation as may be provided by law.
+*** SEND ***
+*** SSTART 045.0 016.0 0 TX 1876 ***
+SEC. 45. It shall be the duty of the legislature to provide for collecting, arranging, and safely
+keeping such records, rolls, correspondence, and other documents, civil and military, relating to
+the history of Texas, as may be now in the possession of parties willing to confide them to the
+care and preservation of the State.
+*** SEND ***
+*** SSTART 046.0 016.0 0 TX 1876 ***
+SEC. 46. The legislature shall provide by law for organizing and disciplining the militia of the
+State in such manner as they shall deem expedient, not incompatible with the Constitution and
+laws of the United States.
+*** SEND ***
+*** SSTART 047.0 016.0 0 TX 1876 ***
+SEC. 47. Any person who conscientiously scruples to bear arms shall not be compelled to do so,
+but shall pay an equivalent for personal service.
+*** SEND ***
+*** SSTART 048.0 016.0 0 TX 1876 ***
+SEC. 48. All laws and parts of laws now in force in the State of Texas which are not repugnant to
+the constitution of the United States or to this constitution shall continue and remain in force as
+the laws of this State until they expire by their own limitation or shall be amended or repealed by
+the legislature.
+*** SEND ***
+*** SSTART 049.0 016.0 0 TX 1876 ***
+SEC. 49. The legislature shall have power, and it shall be its duty, to protect by law from forced
+sale a certain portion of the personal property of all heads of families, and also of unmarried
+adults, male and female.
+*** SEND ***
+*** SSTART 050.0 016.0 0 TX 1876 ***
+SEC. 50. The homestead of a family shall be, and is hereby, protected from forced sale for the
+payment of all debts except for the purchase-money thereof, or a part of such purchase-money,
+the taxes due thereon, or for work and material used in constructing improvements thereon, and
+in this last case only when the work and material are contracted for in writing, with the consent
+of the wife given in the same manner as is required in making a sale and conveyance of the
+homestead; nor shall the owner, if a married man, sell the homestead without the consent of the
+wife, given in such manner as may be prescribed by law. No mortgage, trust-deed, or other lien
+on the homestead shall ever be valid, except for the purchase-money therefor, or improvements
+made thereon, as hereinbefore provided, whether such mortgage, or trust-deed, or other lien, shall
+have been created by the husband alone, or together with his wife; and all pretended sales of the
+homestead involving any condition of defeasance shall be void.
+*** SEND ***
+*** SSTART 051.0 016.0 0 TX 1876 ***
+SEC. 51. The homestead, not in a. town or city, shall consist of not more than two hundred acres
+of land, which may be in one or more parcels, with the improvements thereon; the homestead in a
+city, town, or village shall consist of lot, or lots, not to exceed in value five thousand dollars at
+the time of their designation as the homestead without reference to the value. of any
+improvements thereon: Provided, That the same shall be used for the purposes of a home, or as a
+place to exercise the calling or business of the head of a family: Provided also, That any
+temporary renting of the homestead shall not change the character of the same when no other
+homestead has been acquired.
+*** SEND ***
+*** SSTART 052.0 016.0 0 TX 1876 ***
+SEC. 52. On the death of the husband or wife, or both, the homestead shall descend and vest in
+like manner as other real property of the deceased, and shall be governed by the same laws of
+descent and distribution, but it shall not be partitioned among the heirs of the deceased during the
+life-time of the surviving husband or wife, or so long as the survivor may elect to use or occupy
+the same as a homestead, or so long as the guardian of the minor children of the deceased may be
+permitted, under the order of the proper court having the jurisdiction, to use and occupy the
+same.
+*** SEND ***
+*** SSTART 053.0 016.0 0 TX 1876 ***
+SEC. 53. That no inconvenience may arise from the adoption of this constitution, it is declared
+that all process and writs of all kinds which have been or may be issued and not returned or
+executed when this constitution is adopted, shall remain valid, and shall not be in any way
+affected by the adoption of this constitution.
+*** SEND ***
+*** SSTART 054.0 016.0 0 TX 1876 ***
+SEC. 54. It shall be the duty of the legislature to provide for the custody and maintenance of
+indigent lunatics, at the expense of the State, under such regulations and restrictions as the
+legislature may prescribe.
+*** SEND ***
+*** SSTART 055.0 016.0 0 TX 1876 ***
+SEC. 55. The legislature may provide annual pensions, not to exceed one hundred and fifty
+dollars per annum, to surviving soldiers or volunteers in the war between Texas and Mexico,
+from the commencement of the revolution in 1835 until the 1st of January, 1937; and also to the
+surviving signers of the declaration of independence of Texas, and to the surviving widows,
+continuing unmarried, of such soldiers and signers: Provided, That no such pension be granted
+except to those in indigent circumstances, proof of which shall be made before the county court
+of the county where the applicant resides, in such manner as may be provided by law.
+*** SEND ***
+*** SSTART 056.0 016.0 0 TX 1876 ***
+SEC. 56. The legislature shall have no power to appropriate any of the public money for the
+establishment and maintenance of a bureau of immigration, or for any purpose of bringing
+immigrants to this State.
+*** SEND ***
+*** SSTART 057.0 016.0 0 TX 1876 ***
+SEC. 57. Three million acres of the public domain are hereby appropriated and set apart for the
+purpose of erecting a new State capitol -and other necessary public buildings at the seat of
+government, said lands to be sold under the direction of the legislature; and the legislature shall
+pass suitable laws to carry this section into effect.
+*** SEND ***
+*** AEND ***
+*** ASTART 017.0 TX 1876 ***
+
+ARTICLE XVII
+
+MODE OF AMENDING THE CONSTITUTION OF THIS STATE
+*** SSTART 001.0 017.0 0 TX 1876 ***
+SECTION 1. The legislature, at any biennial session, by a vote of two-thirds of all the members
+elected to each house, to be entered by yeas and nays on the journals, may propose amendments
+to the constitution, to be voted upon by the qualified electors for members of the legislature,
+which proposed amendments shall be duly published once a week for four weeks, commencing at
+least three months before an election, the time of which shall be specified by the legislature, in
+one weekly newspaper of each county in which such newspaper may be published; and it shall be
+the duty of the several returning officers of said election to open a poll for, and make returns to,
+the secretary of state of the number of legal votes cast at said election for and against said
+amendments; and if more than one be proposed, then the number of votes cast for and against
+each of them; and if it shall appear from said return that a majority of the votes cast have been
+cast in favor of any amendment, the said amendment so receiving a majority of the votes cast
+shall become a part of this constitution, and proclamation shall be made by the governor thereof.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9016.0 TX 1876 ***
+
+Done by the delegates of the people of Texas, in convention assembled, in the city of Austin, on
+this the twenty-fourth day of November, in the year of our Lord one thousand eight hundred and
+seventy-five.
+In testimony whereof we hereunto subscribe our names.
+EDWARD B. PICKETT, President.
+LEIGH CHALMERS, Secretary.
+
+*** AEND ***
+*** CEND ***

@@ -1,0 +1,2793 @@
+*** CSTART AK 1/3/1959 1/1/2003 ***
+
+CONSTITUTION OF ALASKA-1959 
+
+*** ASTART 9001.0 AK 1959 ***
+
+Preamble
+
+We the people of Alaska, grateful to God and to those who founded our nation and pioneered this
+great land, in order to secure and transmit to succeeding generations our heritage of political,
+civil, and religious liberty within the Union of States, do ordain and establish this constitution for
+the State of Alaska.
+
+.0*** AEND ***
+*** ASTART 001.0 AK 1959 ***
+
+ARTICLE I.  Declaration of Rights
+
+*** SSTART 001.0 001.0 0 AK 1959 ***
+
+Section 1. Inherent Rights. This constitution is dedicated to the principles that all persons have a
+natural right to life, liberty, the pursuit of happiness, and the enjoyment of the rewards of their
+own industry; that all persons are equal and entitled to equal rights, opportunities, and protection
+under the law; and that all persons have corresponding obligations to the people and to the State.
+ 
+*** SEND ***
+*** SSTART 002.0 001.0 0 AK 1959 ***
+
+Section 2. Source of Government. All political power is inherent in the people. All government
+originates with the people, is founded upon their will only, and is instituted solely for the good of
+the people as a whole.
+ 
+*** SEND ***
+*** SSTART 003.0 001.0 0 AK 1959 ***
+
+Section 3. Civil Rights. No person is to be denied the enjoyment of any civil or political right
+because of race, color, creed, or national origin. The legislature shall implement this section.
+
+ 
+*** SEND ***
+*** SSTART 004.0 001.0 0 AK 1959 ***
+
+Section 4. Freedom of Religion. No law shall be made respecting an establishment of religion, or
+prohibiting the free exercise thereof.
+ 
+*** SEND ***
+*** SSTART 005.0 001.0 0 AK 1959 ***
+
+Section 5. Freedom of Speech. Every person may freely speak, write, and publish on all subjects,
+being responsible for the abuse of that right.
+ 
+*** SEND ***
+*** SSTART 006.0 001.0 0 AK 1959 ***
+
+Section 6. Assembly; Petition. The right of the people peaceably to assemble, and to petition the
+government shall never be abridged.
+ 
+*** SEND ***
+*** SSTART 007.0 001.0 0 AK 1959 ***
+
+Section 7. Due Process. No person shall be deprived of life, liberty, or property, without due
+process of law. The right of all persons to fair and just treatment in the course of legislative and
+executive investigations shall not be infringed.
+ 
+*** SEND ***
+*** SSTART 008.0 001.0 0 AK 1959 ***
+
+Section 8. Grand Jury. No person shall be held to answer for a capital, or otherwise infamous
+crime, unless on a presentment or indictment of a grand jury, except in cases arising in the armed
+forces in time of war or public danger. Indictment may be waived by the accused. In that case the
+prosecution shall be by information. The grand jury shall consist of at least twelve citizens, a
+majority of whom concurring may return an indictment. The power of grand juries to investigate
+and make recommendations concerning the public welfare or safety shall never be suspended.
+ 
+*** SEND ***
+*** SSTART 009.0 001.0 0 AK 1959 ***
+
+Section 9. Jeopardy and Self-incrimination. No person shall be put in jeopardy twice for the same
+offense. No person shall be compelled in any criminal proceeding to be a witness against himself.
+ 
+*** SEND ***
+*** SSTART 010.0 001.0 0 AK 1959 ***
+
+Section 10. Treason. Treason against the State consists only in levying war against it, or in
+adhering to its enemies, giving them aid and comfort. No person shall be convicted of treason,
+unless on the testimony of two witnesses to the same overt act, or on confession in open court.
+ 
+*** SEND ***
+*** SSTART 011.0 001.0 0 AK 1959 ***
+
+Section 11. Rights of Accused. In all criminal prosecutions, the accused shall have the right to a
+speedy and public trial, by an impartial jury of twelve, except that the legislature may provide for
+a jury of not more than twelve nor less than six in courts not of record. The accused is entitled to
+be informed of the nature and cause of the accusation; to be released on bail, except for capital
+offenses when the proof is evident or the presumption great; to be confronted with the witnesses
+against him; to have compulsory process for obtaining witnesses in his favor, and to have the
+assistance of counsel for his defense.
+ 
+*** SEND ***
+*** SSTART 012.0 001.0 0 AK 1959 ***
+
+Section 12. Criminal Administration. Excessive bail shall not be required, nor excessive fines
+imposed, nor cruel and unusual punishments inflicted. Penal administration shall be based oon
+the principle of reformation and the need for protecting the public..0
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 AK 1959 ***
+
+Section 13. Habeas Corpus. The privilege of the writ of habeas corpus shall not be suspended,
+unless when in cases of rebellion or actual or imminent invasion, the public safety requires it..0
+
+ *** SEND ***
+*** SSTART 014.0 001.0 0 AK 1959 ***
+
+Section 14. Searches and Seizures. The right of the people to be secure in their persons, houses
+and other property, papers, and effects, against unreasonable searches and seizures, shall not be
+violated. No warrants shall issue, but upon probable cause, supported by oath or affirmation, and
+particularly describing the place to be searched, and the persons or things to be seized.
+ 
+*** SEND ***
+*** SSTART 015.0 001.0 0 AK 1959 ***
+
+Section 15. Prohibited State Action. No bill of attainder or ex post facto law shall be passed. No
+law impairing the obligation of contracts, and no law making any irrevocable grant of special
+privileges or immunities shall be passed. No conviction shall work corruption of blood or
+forfeiture of estate.
+ 
+*** SEND ***
+*** SSTART 016.0 001.0 0 AK 1959 ***
+
+Section 16. Civil Suits; Trial by Jury. In civil cases where the amount in controversy exceeds two
+hundred fifty dollars, the right of trial by a jury of twelve is preserved to the same extent as it
+existed at common law. The legislature may make provision for a verdict by not less than
+three-fourths of the jury and, in courts not of record, may provide for a jury of not less than six or
+more than twelve.
+ 
+*** SEND ***
+*** SSTART 017.0 001.0 0 AK 1959 ***
+
+Section 17. Imprisonment for Debt. There shall be no imprisonment for debt. This section does
+not prohibit civil arrest of absconding debtors.
+ 
+*** SEND ***
+*** SSTART 018.0 001.0 0 AK 1959 ***
+
+Section 18. Eminent Domain. Private property shall not be taken or damaged for public use
+without just compensation.
+ 
+*** SEND ***
+*** SSTART 019.0 001.0 0 AK 1959 ***
+
+Section 19. Right to Keep and Bear Arms. A well- regulated militia being necessary to the
+security of a free state, the right of the people to keep and bear arms shall not be infringed. 
+ 
+*** SEND ***
+*** SSTART 020.0 001.0 0 AK 1959 ***
+
+Section 20. Quartering Soldiers. No member of the armed forces shall in time of peace be
+quartered in any house without the consent of the owner or occupant, or in time of war except as
+prescribed by law. The military shall be in strict subordination to the civil power.
+ 
+*** SEND ***
+*** SSTART 021.0 001.0 0 AK 1959 ***
+
+Section 21. Construction. The enumeration of rights in this constitution shall not impair or deny
+others retained by the people.
+ 
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 AK 1959 ***
+
+Article II
+The Legislature
+
+*** SSTART 001.0 002.0 0 AK 1959 ***
+          
+Section 1. Legislative Power; Membership. The legislative power of the State is vested in a
+legislature consisting of a senate with a membership of twenty and a house of representatives
+with a membership of forty. 
+ 
+*** SEND ***
+*** SSTART 002.0 002.0 0 AK 1959 ***
+
+Section 2. Members' Qualifications. A member of the legislature shall be a qualified voter who
+has been a resident of Alaska for at least three years and of the district from which elected for at
+least one year, immediately preceding his filing for office. A senator shall be at least twenty-five
+years of age and a representative at least twenty-one years of age. 
+ 
+*** SEND ***
+*** SSTART 003.0 002.0 0 AK 1959 ***
+
+Section 3. Election and Terms. Legislators shall be elected at general elections. Their terms begin
+on the fourth Monday of the January following election unless otherwise provided by law. The
+term of representatives shall be two years, and the term of senators, four years. One-half of the
+senators shall be elected every two years. 
+ 
+*** SEND ***
+*** SSTART 004.0 002.0 0 AK 1959 ***
+
+Section 4. Vacancies. A vacancy in the legislature shall be filled for the unexpired term as
+provided by law. If no provision is made, the governor shall fill the vacancy by appointment. 
+ 
+*** SEND ***
+*** SSTART 005.0 002.0 0 AK 1959 ***
+
+Section 5. Disqualifications. No legislator may hold any other office or position of profit under
+the United States or the State. During the term for which elected and for one year thereafter, no
+legislator may be nominated, elected, or appointed to any other office or position of profit which
+has been created, or the salary or emoluments of which have been increased, while he was a
+member. This section shall not prevent any person from seeking or holding the office of
+governor, secretary of state, or member of Congress. This section shall not apply to employment
+by or election to a constitutional convention.
+ 
+*** SEND ***
+*** SSTART 006.0 002.0 0 AK 1959 ***
+
+Section 6. Immunities. Legislators may not be held to answer before any other tribunal for any
+statement made in the exercise of their legislative duties while the legislature is in session.
+Members attending, going to, or returning from legislative sessions are not subject to civil
+process and are privileged from arrest except for felony or breach of the peace. 
+ 
+*** SEND ***
+*** SSTART 007.0 002.0 0 AK 1959 ***
+
+Section 7. Salary and Expenses. Legislators shall receive annual salaries. They may receive a per
+diem allowance for expenses while in session and are entitled to travel expenses going to and
+from sessions. Presiding officers may receive additional compensation.
+ 
+*** SEND ***
+*** SSTART 008.0 002.0 0 AK 1959 ***
+
+Section 8. Regular Sessions. The legislature shall convene in regular session each year on the
+fourth Monday in January, but the month and day may be changed by law.
+
+*** SEND ***
+*** SSTART 009.0 002.0 0 AK 1959 ***
+
+Section 9. Special Sessions. Special sessions may be called by the governor or by vote of
+two-thirds of the legislators. The vote may be conducted by the legislative council or as
+prescribed by law. At special sessions called by the governor, legislation shall be limited to
+subjects designated in his proclamation calling the session or to subjects presented by him.
+Special sessions are limited to thirty days.
+
+*** SEND ***
+*** SSTART 010.0 002.0 0 AK 1959 ***
+
+Section 10. Adjournment. Neither house may adjourn or recess for longer than three days unless
+the other concurs. If the two houses cannot agree on the time of adjournment and either house
+certifies the disagreement to the governor, he may adjourn the legislature. 
+ 
+*** SEND ***
+*** SSTART 011.0 002.0 0 AK 1959 ***
+
+Section 11. Interim Committees. There shall be a legislative council, and the legislature may
+establish other interim committees. The council and other interim committees may meet between
+legislative sessions. They may perform duties and employ personnel as provided by the
+legislature. Their members may receive an allowance for expenses while performing their duties. 
+ 
+*** SEND ***
+*** SSTART 012.0 002.0 0 AK 1959 ***
+
+Section 12. Rules. The houses of each legislature shall adopt uniform rules of procedure. Each
+house may choose its officers and employees. Each is the judge of the election and qualifications
+of its members and may expel a member with the concurrence of two-thirds of its members. Each
+shall keep a journal of its proceedings. A majority of the membership of each house constitutes a
+quorum to do business, but a smaller number may adjourn from day to day and may compel
+attendance of absent members. The legislature shall regulate lobbying. 
+ 
+*** SEND ***
+*** SSTART 013.0 002.0 0 AK 1959 ***
+.0Section 13. Form of Bills. Every bill shall be confined to one subject unless it is an
+appropriation bill or one codifying, revising, or rearranging existing laws. Bills for appropriations
+shall be confined to appropriations. The subject of each bill shall be expressed in the title. The
+enacting clause shall be: "Be it enacted by the Legislature of the State of Alaska." 
+ 
+*** SEND ***
+*** SSTART 014.0 002.0 0 AK 1959 ***
+
+Section 14. Passage of Bills. The legislature shall establish the procedure for enactment of bills
+into law. No bill may become law unless it has passed three readings in each house on three
+separate days, except that any bill may be advanced from second to third reading on the same day
+by concurrence of three-fourths of the house considering it. No bill may become law without an
+affirmative vote of a majority of the membership of each house. The yeas and nays on final
+passage shall be entered in the journal. 
+ 
+*** SEND ***
+*** SSTART 015.0 002.0 0 AK 1959 ***
+
+Section 15. Veto. The governor may veto bills passed by the legislature. He may, by veto, strike
+or reduce items in appropriation bills. He shall return any vetoed bill, with a statement of his
+objections, to the house of origin. 
+ 
+*** SEND ***
+*** SSTART 016.0 002.0 0 AK 1959 ***
+
+Section 16. Action upon Veto.   Upon receipt of a veto message, the legislature shall meet
+immediately in joint session and reconsider passage of the vetoed bill or item.  Bills to raise
+revenue and appropriation bills or items, although vetoed, become law by an affirmative vote of
+three-fourths of the membership of the legislature.  Bills vetoed after the adjournment of the first
+regular session of the legislature shall be reconsidered by the legislature sitting as one body no
+later than the fifth day of the next regular or special session of that legislature. 
+ 
+*** SEND ***
+
+*** SSTART 017.0 002.0 0 AK 1959 ***
+
+Section 17. Bills Not Signed. A bill becomes law if, while the legislature is in session, the
+governor neither signs nor vetoes it within fifteen days, Sundays excepted, after its delivery to
+him. If the legislature is not in session and the governor neither signs nor vetoes a bill within
+twenty days, Sundays excepted, after its delivery to him, the bill becomes law. 
+ 
+*** SEND ***
+*** SSTART 018.0 002.0 0 AK 1959 ***
+
+Section 18. Effective Date. Laws passed by the legislature become effective ninety days after
+enactment. The legislature may, by concurrence of two-thirds of the membership of each house,
+provide for another effective date. 
+ 
+*** SEND ***
+*** SSTART 019.0 002.0 0 AK 1959 ***
+
+Section 19. Local or Special Acts. The legislature shall pass no local or special act if a general act
+can be made applicable. Whether a general act can be made applicable shall be subject to judicial
+determination. Local acts necessitating appropriations by a political subdivision may not become
+effective unless approved by a majority of the qualified voters voting thereon in the subdivision
+affected. 
+ 
+*** SEND ***
+*** SSTART 020.0 002.0 0 AK 1959 ***
+
+Section 20. Impeachment. All civil officers of the State are subject to impeachment by the
+legislature. Impeachment shall originate in the senate and must be approved by a two-thirds vote
+of its members. The motion for impeachment shall list fully the basis for the proceeding. Trial on
+impeachment shall be conducted by the house of representatives. A supreme court justice
+designated by the court shall preside at the trial. Concurrence of two-thirds of the members of the
+house is required for a judgment of impeachment. The judgment may not extend beyond removal
+from office, but shall not prevent proceedings in the courts on the same or related charges. 
+ 
+*** SEND ***
+*** SSTART 021.0 002.0 0 AK 1959 ***
+
+Section 21. Suits Against the State. The legislature shall establish procedures for suits against the
+State. 
+ 
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 AK 1959 ***
+Article III 
+The Executive
+
+*** SSTART 001.0 003.0 0 AK 1959 ***
+
+Section 1. Executive Power. The executive power of the State is vested in the governor. 
+ 
+*** SEND ***
+
+*** SSTART 002.0 003.0 0 AK 1959 ***
+
+Section 2. Governor's Qualifications. The governor shall be at least thirty years of age and a
+qualified voter of the State. He shall have been a resident of Alaska at least seven years
+immediately preceding his filing for office, and he shall have been a citizen of the United States
+for at least seven years. 
+ 
+*** SEND ***
+*** SSTART 003.0 003.0 0 AK 1959 ***
+
+Section 3. Election. The governor shall be chosen by the qualified voters of the State at a general
+election. The candidate receiving the greatest number of votes shall be governor. 
+ 
+*** SEND ***
+*** SSTART 004.0 003.0 0 AK 1959 ***
+
+Section 4. Term of Office. The term of office of the governor is four years, beginning at noon on
+the first Monday in December following his election and ending at noon on the first Monday in
+December four years later. 
+ 
+*** SEND ***
+*** SSTART 005.0 003.0 0 AK 1959 ***
+
+Section 5. Limit on Tenure. No person who has been elected governor for two full successive
+terms shall be again eligible to hold that office until one full term has intervened. 
+ 
+*** SEND ***
+*** SSTART 006.0 003.0 0 AK 1959 ***
+
+Section 6. Dual Office Holding. The governor shall not hold any other office or position of profit
+under the United States, the State, or its political subdivisions. 
+ 
+*** SEND ***
+*** SSTART 007.0 003.0 0 AK 1959 ***
+
+Section 7. Secretary of State  Duties. There shall be a secretary of state. He shall have the same
+qualifications as the governor and serve for the same term. He shall perform such duties as may
+be prescribed by law and as may be delegated to him by the governor. 
+
+*** SEND ***
+*** SSTART 008.0 003.0 0 AK 1959 ***
+
+Section 8. Same - Election. The secretary of state shall be nominated in the manner provided by
+law for nominating candidates for other elective offices. In the general election the votes cast for
+a candidate for governor shall be considered as cast also for the candidate for secretary of state
+running jointly with him. The candidate whose name appears on the ballot jointly with that of the
+successful candidate for governor shall be elected secretary of state. 
+ 
+*** SEND ***
+*** SSTART 009.0 003.0 0 AK 1959 ***
+
+Section 9. Acting Governor. In case of the temporary absence of the governor from office, the
+secretary of state shall serve as acting governor. 
+
+*** SEND ***
+*** SSTART 010.0 003.0 0 AK 1959 ***
+
+Section 10. Succession; Failure to Qualify. If the governor-elect dies, resigns, or is disqualified,
+the secretary of state elected with him shall succeed to the office of governor for the full term. If
+the governor- elect fails to assume office for any other reason, the secretary of state elected with
+him shall serve as acting governor, and shall succeed to the office if the governor-elect does not
+assume his office within six months of the beginning of the term. 
+
+*** SEND ***
+*** SSTART 011.0 003.0 0 AK 1959 ***
+
+Section 11. Vacancy. In case of a vacancy in the office of governor for any reason, the secretary
+of state shall succeed to the office for the remainder of the term.
+ 
+*** SEND ***
+*** SSTART 012.0 003.0 0 AK 1959 ***
+
+Section 12. Absence. Whenever for a period of six months, a governor has been continuously
+absent from office or has been unable to discharge the duties of his office by reason of mental or
+physical disability, the office shall be deemed vacant. The procedure for determining absence and
+disability shall be prescribed by law. 
+ 
+*** SEND ***
+*** SSTART 013.0 003.0 0 AK 1959 ***
+
+Section 13. Further Succession. Provision shall be made by law for succession to the office of
+governor and for an acting governor in the event that the secretary of state is unable to succeed to
+the office or act as governor. No election of a secretary of state shall be held except at the time of
+electing a governor. 
+
+*** SEND ***
+*** SSTART 014.0 003.0 0 AK 1959 ***
+
+Section 14. Title and Authority of Successor. When the secretary of state succeeds to the office
+of governor, he shall have the title, powers, duties and emoluments of that office. 
+ 
+*** SEND ***
+*** SSTART 015.0 003.0 0 AK 1959 ***
+
+Section 15. Compensation. The compensation of the governor and the secretary of state shall be
+prescribed by law and shall not be diminished during their term of office, unless by general law
+applying to all salaried officers of the State. 
+ 
+*** SEND ***
+*** SSTART 016.0 003.0 0 AK 1959 ***
+
+Section 16. Governor's Authority. The governor shall be responsible for the faithful execution of
+the laws. He may, by appropriate court action or proceeding brought in the name of the State,
+enforce compliance with any constitutional or legislative mandate, or restrain violation of any
+constitutional or legislative power, duty, or right by any officer, department, or agency of the
+State or any of its political subdivisions. This authority shall not be construed to authorize any
+action or proceeding against the legislature. 
+ 
+*** SEND ***
+*** SSTART 017.0 003.0 0 AK 1959 ***
+
+Section 17. Convening Legislature. Whenever the governor considers it in the public interest, he
+may convene the legislature, either house, or the two houses in joint session. 
+ 
+*** SEND ***
+*** SSTART 018.0 003.0 0 AK 1959 ***
+
+Section 18. Messages to Legislature. The governor shall, at the beginning of each session, and
+may at other times, give the legislature information concerning the affairs of the State and
+recommend the measures he considers necessary. 
+ 
+*** SEND ***
+*** SSTART 019.0 003.0 0 AK 1959 ***
+
+Section 19. Military Authority. The governor is commander-in-chief of the armed forces of the
+State. He may call out these forces to execute the laws, suppress or prevent insurrection or
+lawless violence, or repel invasion. The governor, as provided by law, shall appoint all general
+and flag officers of the armed forces of the State, subject to confirmation by a majority of the
+members of the legislature in joint session. He shall appoint and commission all other officers. 
+ 
+*** SEND ***
+*** SSTART 020.0 003.0 0 AK 1959 ***
+
+Section 20. Martial Law. The governor may proclaim martial law when the public safety requires
+it in case of rebellion or actual or imminent invasion. Martial law shall not continue for longer
+than twenty days without the approval of a majority of the members of the legislature in joint
+session. 
+ 
+*** SEND ***
+*** SSTART 021.0 003.0 0 AK 1959 ***
+
+Section 21. Executive Clemency. Subject to procedure prescribed by law, the governor may grant
+pardons, commutations, and reprieves, and may suspend and remit fines and forfeitures. This
+power shall not extend to impeachment. A parole system shall be provided by law. 
+ 
+*** SEND ***
+*** SSTART 022.0 003.0 0 AK 1959 ***
+
+Section 22. Executive Branch. All executive and administrative offices, departments, and
+agencies of the state government and their respective functions, powers, and duties shall be
+allocated by law among and within not more than twenty principal departments, so as to group
+them as far as practicable according to major purposes. Regulatory, quasi-judicial, and temporary
+agencies may be established by law and need not be allocated within a principal department. 
+ 
+*** SEND ***
+*** SSTART 023.0 003.0 0 AK 1959 ***
+
+Section 23. Reorganization. The governor may make changes in the organization of the executive
+branch or in the assignment of functions among its units which he considers necessary for
+efficient administration. Where these changes require the force of law, they shall be set forth in
+executive orders. The legislature shall have sixty days of a regular session, or a full session if of
+shorter duration, to disapprove these executive orders. Unless disapproved by resolution
+concurred in by a majority of the members in joint session, these orders become effective at a
+date thereafter to be designated by the governor. 
+ 
+*** SEND ***
+*** SSTART 024.0 003.0 0 AK 1959 ***
+
+Section 24. Supervision. Each principal department shall be under the supervision of the
+governor. 
+ 
+*** SEND ***
+*** SSTART 025.0 003.0 0 AK 1959 ***
+
+Section 25. Department Heads. The head of each principal department shall be a single executive
+unless otherwise provided by law. He shall be appointed by the governor, subject to confirmation
+by a majority of the members of the legislature in joint session, and shall serve at the pleasure of
+the governor, except as otherwise provided in this article with respect to the secretary of state.
+The heads of all principal departments shall be citizens of the United States. 
+ 
+*** SEND ***
+*** SSTART 026.0 003.0 0 AK 1959 ***
+
+Section 26. Boards and Commissions. When a board or commission is at the head of a principal
+department or a regulatory or quasi-judicial agency, its members shall be appointed by the
+governor, subject to confirmation by a majority of the members of the legislature in joint session,
+and may be removed as provided by law. They shall be citizens of the United States. The board
+or commission may appoint a principal executive officer when authorized by law, but the
+appointment shall be subject to the approval of the governor. 
+ 
+*** SEND ***
+*** SSTART 027.0 003.0 0 AK 1959 ***
+
+Section 27. Recess Appointments. The governor may make appointments to fill vacancies
+occurring during a recess of the legislature, in offices requiring confirmation by the legislature.
+The duration of such appointments shall be prescribed by law. 
+ 
+*** SEND ***
+ 
+*** AEND ***
+*** ASTART 004.0 AK 1959 ***
+Article IV
+The Judiciary
+
+*** SSTART 001.0 004.0 0 AK 1959 ***
+
+Section 1. Judicial Power and Jurisdiction. The judicial power of the State is vested in a supreme
+court, a superior court, and the courts established by the legislature. The jurisdiction of courts
+shall be prescribed by law. The courts shall constitute a unified judicial system for operation and
+administration. Judicial districts shall be established by law. 
+ 
+*** SEND ***
+*** SSTART 002.0 004.0 0 AK 1959 ***
+
+Section 2. Supreme Court. The supreme court shall be the highest court of the State, with final
+appellate jurisdiction. It shall consist of three justices, one of whom is chief justice. The number
+of justices may be increased by law upon the request of the supreme court. 
+ 
+*** SEND ***
+*** SSTART 003.0 004.0 0 AK 1959 ***
+
+Section 3. Superior Court. The superior court shall be the trial court of general jurisdiction and
+shall consist of five judges. The number of judges may be changed by law. 
+ 
+*** SEND ***
+*** SSTART 004.0 004.0 0 AK 1959 ***
+
+Section 4. Qualifications of Justices and Judges. Supreme court justices and superior court judges
+shall be citizens of the United States and of the State, licensed to practice law in the State, and
+possessing any additional qualifications prescribed by law. Judges of other courts shall be
+selected in a manner, for terms, and with qualifications prescribed by law. 
+ 
+*** SEND ***
+*** SSTART 005.0 004.0 0 AK 1959 ***
+
+Section 5. Nomination and Appointment. The governor shall fill any vacancy in an office of
+supreme court justice or superior court judge by appointing one of two or more persons
+nominated by the judicial council. 
+ 
+*** SEND ***
+*** SSTART 006.0 004.0 0 AK 1959 ***
+
+Section 6. Approval or Rejection. Each supreme court justice and superior court judge shall, in
+the manner provided by law, be subject to approval or rejection on a nonpartisan ballot at the first
+general election held more than three years after his appointment. Thereafter, each supreme court
+justice shall be subject to approval or rejection in a like manner every tenth year, and each
+superior court judge, every sixth year. 
+ 
+*** SEND ***
+*** SSTART 007.0 004.0 0 AK 1959 ***
+
+Section 7. Vacancy. The office of any supreme court justice or superior court judge becomes
+vacant ninety days after the election at which he is rejected by a majority of those voting on the
+question, or for which he fails to file his declaration of candidacy to succeed himself. 
+ 
+*** SEND ***
+*** SSTART 008.0 004.0 0 AK 1959 ***
+
+Section 8. Judicial Council. The judicial council shall consist of seven members. Three attorney
+members shall be appointed for six-year terms by the governing body of the organized state bar.
+Three non-attorney members shall be appointed for six-year terms by the governor subject to
+confirmation by a majority of the members of the legislature in joint session. Vacancies shall be
+filled for the unexpired term in like manner. Appointments shall be made with due consideration
+to area representation and without regard to political affiliation. The chief justice of the supreme
+court shall be ex-officio the seventh member and chairman of the judicial council. No member of
+the judicial council, except the chief justice, may hold any other office or position of profit under
+the United States or the State. The judicial council shall act by concurrence of four or more
+members and according to rules which it adopts. 
+ 
+*** SEND ***
+*** SSTART 009.0 004.0 0 AK 1959 ***
+
+Section 9. Additional Duties. The judicial council shall conduct studies for improvement of the
+administration of justice, and make reports and recommendations to the supreme court and to the
+legislature at intervals of not more than two years. The judicial council shall perform other duties
+assigned by law. 
+ 
+*** SEND ***
+*** SSTART 010.0 004.0 0 AK 1959 ***
+
+Section 10. Incapacity of Judges.  Whenever the judicial council certifies to the governor that a
+supreme court justice appears to be so incapacitated as substantially to prevent him form
+performing his judicial duties, the governor shall appoint a board of three persons to inquire into
+the circumstances, and may on the board's recommendation retire the justice.  Whenever a judge
+on another court appears to be so incapacitated as substantially to prevent him form performing
+his judicial duties, the judicial council shall recommend to the supreme court that the judge be
+placed under early retirement.  After notice and hearing, the supreme court by majority vote of its
+members may retire the judge.
+ 
+*** SEND ***
+*** SSTART 011.0 004.0 0 AK 1959 ***
+
+Section 11. Retirement. Justices and judges shall be retired at the age of seventy except as
+provided in this article. The basis and amount of retirement pay shall be prescribed by law.
+Retired judges shall render no further service on the bench except for special assignments as
+provided by court rule. 
+ 
+*** SEND ***
+*** SSTART 012.0 004.0 0 AK 1959 ***
+
+Section 12. Impeachment. Impeachment of any justice or judge for malfeasance or misfeasance
+in the performance of his official duties shall be according to procedure prescribed for civil
+officers. 
+ 
+*** SEND ***
+*** SSTART 013.0 004.0 0 AK 1959 ***
+
+Section 13. Compensation. Justices, judges, and members of the judicial council shall receive
+compensation as prescribed by law. Compensation of justices and judges shall not be diminished
+during their terms of office, unless by general law applying to all salaried officers of the State. 
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 AK 1959 ***
+
+Section 14. Restrictions. Supreme court justices and superior court judges while holding office
+may not practice law, hold office in a political party, or hold any other office or position of profit
+under the United States, the State, or its political subdivisions. Any supreme court justice or
+superior court judge filing for another elective public office forfeits his judicial position. 
+ 
+*** SEND ***
+*** SSTART 015.0 004.0 0 AK 1959 ***
+
+Section 15. Rule-making Power. The supreme court shall make and promulgate rules governing
+the administration of all courts. It shall make and promulgate rules governing practice and
+procedure in civil and criminal cases in all courts. These rules may be changed by the legislature
+by two-thirds vote of the members elected to each house. 
+ 
+*** SEND ***
+*** SSTART 016.0 004.0 0 AK 1959 ***
+
+Section 16. Court Administration. The chief justice of the supreme court shall be the
+administrative head of all courts. He may assign judges from one court or division thereof to
+another for temporary service. The chief justice shall, with the approval of the supreme court,
+appoint an administrative director to serve at his pleasure and to supervise the administrative
+operations of the judicial system. 
+
+*** SEND *** 
+*** AEND ***
+*** ASTART 005.0 AK 1959 ***
+Article V
+Suffrage and Elections
+
+*** SSTART 001.0 005.0 0 AK 1959 ***
+
+Section 1. Qualified Voters. Every citizen of the United States who is at least nineteen years of
+age, who meets registration residency requirements which may be prescribed by law, and who is
+qualified to vote under this article, may vote in any state or local election. He shall have been,
+immediately preceding the election, a thirty day resident of the election district in which he seeks
+to vote, except that for purposes of voting for President and Vice President of the United States
+other residency requirements may be prescribed by law. He shall be able to read or speak the
+English language as prescribed by law, unless prevented by physical disability.  Additional voting
+qualifications may be prescribed by law for bond issue elections of political subdivisions. 
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 AK 1959 ***
+
+Section 2. Disqualifications. No person may vote who has been convicted of a felony involving
+moral turpitude unless his civil rights have been restored. No person may vote who has been
+judicially determined to be of unsound mind unless the disability has been removed. 
+ 
+*** SEND ***
+*** SSTART 003.0 005.0 0 AK 1959 ***
+
+ Section 3. Methods of Voting; Election Contests. Methods of voting, including absentee voting,
+shall be prescribed by law. Secrecy of voting shall be preserved. The procedure for determining
+election contests, with right of appeal to the courts, shall be prescribed by law. 
+
+ *** SEND ***
+*** SSTART 004.0 005.0 0 AK 1959 ***
+
+Section 4. Voting Precincts; Registration. The legislature may provide a system of permanent
+registration of voters, and may establish voting precincts within election districts. 
+ 
+*** SEND ***
+*** SSTART 005.0 005.0 0 AK 1959 ***
+
+Section 5. General Elections. General elections shall be held on the second Tuesday in October
+of every even-numbered year, but the month and day may be changed by law. 
+ 
+*** SEND *** 
+*** AEND ***
+*** ASTART 006.0 AK 1959 ***
+Article VI
+Legislative Apportionment
+ 
+*** SSTART 001.0 006.0 0 AK 1959 ***
+
+Section 1. Election Districts. Members of the house of representatives shall be elected by the
+qualified voters of the respective election districts. Until reapportionment, election districts and
+the number of representatives to be elected from each district shall be as set forth in Section 1 of
+Article XIV.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 AK 1959 ***
+
+Section 2. Senate Districts.  Members of the senate shall be elected by the qualified voters of the
+respective senate districts. Senate districts shall be as set forth in Section 2 of Article XIV,
+subject to changes authorized in this article.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 AK 1959 ***
+
+Section 3. Reapportionment of House and Senate. The Governor and the senate shall reapportion
+the house of representatives and the senate immediately following the official reporting of each
+decennial census of the United States. Reapportionment shall be based upon the civilian
+population within each election district as reported by the census.
+ 
+*** SEND ***
+*** SSTART 004.0 006.0 0 AK 1959 ***
+.0Section 4. Reapportionment shall be by the method of equal proportions, except that each
+election district having the major fraction of the quotient obtained by dividing total civilian
+population by forty shall have one representative.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 AK 1959 ***
+
+Section 5. Combining Districts.  Should the total civilian population within any election district
+fall below one-half of the quotient, the district shall be attached to an election district within its
+senate district, and the reapportionment for the new district shall be determined as provided in
+section 4 of this article.
+ 
+*** SEND ***
+*** SSTART 006.0 006.0 0 AK 1959 ***
+
+Section 6. District Boundaries. The Governor may further redistrict by changing the size and area
+of election districts, subject to the limitations of this article. Each new district so created shall be
+formed of contiguous and compact territory containing as nearly as practicable a relatively
+integrated socio-economic area. Each shall contain a population at least equal to the quotient
+obtained by dividing the total civilian population state by forty. Consideration may be given to
+local government boundaries. Drainage and other geographic features shall be used in describing
+boundaries wherever possible.
+ 
+*** SEND ***
+*** SSTART 007.0 006.0 0 AK 1959 ***
+
+Section 7. Modification of Senate Districts. The senate districts, described in Section 2 of Article
+XIV, may be modified to reflect changes in election districts.  A district, although modified, shall
+retain its total number of senators and its approximate perimeter.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 AK 1959 ***
+
+Section 8. Reapportionment Board. The governor shall appoint a reapportionment board to act in
+an advisory capacity to him.  It shall consist of five members, none of whom may be public
+employees or officials.  At least one member each shall be appointed from the Southeastern,
+Southcentral, Central, and Northwestern Senate districts.  Appointments shall be made without
+regard to political affiliation.  Board members shall be compensated.
+ 
+*** SEND ***
+*** SSTART 009.0 006.0 0 AK 1959 ***
+
+Section 9. Board Actions. The board shall elect one of its members chairman and may employ
+temporary assistants.  Concurrence of three members is required for a ruling or determination,
+but a lesser number may conduct hearings or otherwise act for the board.
+.0*** SEND ***
+*** SSTART 010.0 006.0 0 AK 1959 ***
+
+Section 10. Redistricting Plan and Proclamation.  Within ninety days following the official
+reporting of each decennial census, the board shall submit to the governor a plan for
+reapportionment and redistricting as provided in this article.  Within ninety days after receipt of
+the plan, the governor shall issue a proclamation of reapportionment and redistricting.  An
+accompanying statement shall explain any changes from the plan of the board.  The
+reapportionment and redistricting shall be effective for the election of members of the legislature
+until the official reporting of the next decennial census. 
+ 
+*** SEND ***
+*** SSTART 011.0 006.0 0 AK 1959 ***
+
+Section 11. Enforcement.  Any qualified voter may apply to the superior court to compel the
+governor, by mandamus or otherwise, to perform his reapportionment duties or to correct any
+error in redistricting or reapportionment. Application to compel the governor to perform his
+reapportionment duties must be filed within thirty days of the expiration of either of the two
+ninety-day periods specified in this article. Application to compel correction of any error in
+redistricting must be filed within thirty days following the proclamation.  Original jurisdiction in
+these matters is hereby vested in the superior court. On appeal, the cause shall be reviewed by the
+supreme court upon the law and the facts.
+
+*** SEND *** 
+*** AEND ***
+*** ASTART 007.0 AK 1959 ***
+Article VII
+Health, Education and Welfare
+
+
+*** SSTART 001.0 007.0 0 AK 1959 ***
+
+Section 1. Public Education. The legislature shall by general law establish and maintain a system
+of public schools open to all children of the State, and may provide for other public educational
+institutions. Schools and institutions so established shall be free from sectarian control. No
+money shall be paid from public funds for the direct benefit of any religious or other private
+educational institution. 
+ 
+*** SEND ***
+*** SSTART 002.0 007.0 0 AK 1959 ***
+
+Section 2. State University. The University of Alaska is hereby established as the state university
+and constituted a body corporate. It shall have title to all real and personal property now or
+hereafter set aside for or conveyed to it. Its property shall be administered and disposed of
+according to law. 
+ 
+*** SEND ***
+*** SSTART 003.0 007.0 0 AK 1959 ***
+
+Section 3. Board of Regents of University. The University of Alaska shall be governed by a
+board of regents. The regents shall be appointed by the governor, subject to confirmation by a
+majority of the members of the legislature in joint session. The board shall, in accordance with
+law, formulate policy and appoint the president of the university. He shall be the executive
+officer of the board. 
+ 
+*** SEND ***
+*** SSTART 004.0 007.0 0 AK 1959 ***
+
+Section 4. Public Health. The legislature shall provide for the promotion and protection of public
+health. 
+ 
+*** SEND ***
+*** SSTART 005.0 007.0 0 AK 1959 ***
+
+Section 5. Public Welfare. The legislature shall provide for public welfare. 
+ 
+*** SEND *** 
+*** AEND ***
+*** ASTART 008.0 AK 1959 ***
+
+Article VIII
+Natural Resources
+
+*** SSTART 001.0 008.0 0 AK 1959 ***
+
+Section 1. Statement of Policy. It is the policy of the State to encourage the settlement of its land
+and the development of its resources by making them available for maximum use consistent with
+the public interest. 
+ 
+*** SEND ***
+*** SSTART 002.0 008.0 0 AK 1959 ***
+
+Section 2. General Authority. The legislature shall provide for the utilization, development, and
+conservation of all natural resources belonging to the State, including land and waters, for the
+maximum benefit of its people. 
+ 
+*** SEND ***
+*** SSTART 003.0 008.0 0 AK 1959 ***
+
+Section 3. Common Use. Wherever occurring in their natural state, fish, wildlife, and waters are
+reserved to the people for common use. 
+ 
+*** SEND ***
+*** SSTART 004.0 008.0 0 AK 1959 ***
+
+Section 4. Sustained Yield. Fish, forests, wildlife, grasslands, and all other replenishable
+resources belonging to the State shall be utilized, developed, and maintained on the sustained
+yield principle, subject to preferences among beneficial uses. 
+ 
+*** SEND ***
+*** SSTART 005.0 008.0 0 AK 1959 ***
+
+Section 5. Facilities and Improvements. The legislature may provide for facilities, improvements,
+and services to assure greater utilization, development, reclamation, and settlement of lands, and
+to assure fuller utilization and development of the fisheries, wildlife, and waters. 
+ 
+*** SEND ***
+*** SSTART 006.0 008.0 0 AK 1959 ***
+
+Section 6. State Public Domain. Lands and interests therein, including submerged and tidal lands,
+possessed or acquired by the State, and not used or intended exclusively for governmental
+purposes, constitute the state public domain. The legislature shall provide for the selection of
+lands granted to the State by the United States, and for the administration of the state public
+domain. 
+ 
+*** SEND ***
+*** SSTART 007.0 008.0 0 AK 1959 ***
+
+Section 7. Special Purpose Sites. The legislature may provide for the acquisition of sites, objects,
+and areas of natural beauty or of historic, cultural, recreational, or scientific value. It may reserve
+them from the public domain and provide for their administration and preservation for the use,
+enjoyment, and welfare of the people. 
+ 
+*** SEND ***
+*** SSTART 008.0 008.0 0 AK 1959 ***
+
+Section 8. Leases. The legislature may provide for the leasing of, and the issuance of permits for
+exploration of, any part of the public domain or interest therein, subject to reasonable concurrent
+uses. Leases and permits shall provide, among other conditions, for payment by the party at fault
+for damage or injury arising from noncompliance with terms governing concurrent use, and for
+forfeiture in the event of breach of conditions. 
+ 
+*** SEND ***
+*** SSTART 009.0 008.0 0 AK 1959 ***
+
+Section 9. Sales and Grants. Subject to the provisions of this section, the legislature may provide
+for the sale or grant of state lands, or interests therein, and establish sales procedures. All sales or
+grants shall contain such reservations to the State of all resources as may be required by Congress
+or the State and shall provide for access to these resources. Reservation of access shall not
+unnecessarily impair the owners' use, prevent the control of trespass, or preclude compensation
+for damages. 
+ 
+*** SEND ***
+*** SSTART 010.0 008.0 0 AK 1959 ***
+
+Section 10. Public Notice. No disposals or leases of state lands, or interests therein, shall be
+made without prior public notice and other safeguards of the public interest as may be prescribed
+by law. 
+ 
+*** SEND ***
+*** SSTART 011.0 008.0 0 AK 1959 ***
+
+Section 11. Mineral Rights. Discovery and appropriation shall be the basis for establishing a right
+in those minerals reserved to the State which, upon the date of ratification of this constitution by
+the people of Alaska, were subject to location under the federal mining laws. Prior discovery,
+location, and filing, as prescribed by law, shall establish a prior right to these minerals and also a
+prior right to permits, leases, and transferable licenses for their extraction. Continuation of these
+rights shall depend upon the performance of annual labor, or the payment of fees, rents, or
+royalties, or upon other requirements as may be prescribed by law. Surface uses of land by a
+mineral claimant shall be limited to those necessary for the extraction or basic processing of the
+mineral deposits, or for both. Discovery and appropriation shall initiate a right, subject to further
+requirements of law, to patent of mineral lands if authorized by the State and not prohibited by
+Congress. The provisions of this section shall apply to all other minerals reserved to the State
+which by law are declared subject to appropriation. 
+ 
+*** SEND ***
+*** SSTART 012.0 008.0 0 AK 1959 ***
+
+Section 12. Mineral Leases and Permits. The legislature shall provide for the issuance, types and
+terms of leases for coal, oil, gas, oil shale, sodium, phosphate, potash, sulfur, pumice, and other
+minerals as may be prescribed by law. Leases and permits giving the exclusive right of
+exploration for these minerals for specific periods and areas, subject to reasonable concurrent
+exploration as to different classes of minerals, may be authorized by law. Like leases and permits
+giving the exclusive right of prospecting by geophysical, geochemical, and similar methods for
+all minerals may also be authorized by law. 
+ 
+*** SEND ***
+*** SSTART 013.0 008.0 0 AK 1959 ***
+
+Section 13. Water Rights. All surface and subsurface waters reserved to the people for common
+use, except mineral and medicinal waters, are subject to appropriation. Priority of appropriation
+shall give prior right. Except for public water supply, an appropriation of water shall be limited
+to stated purposes and subject to preferences among beneficial uses, concurrent or otherwise, as
+prescribed by law, and to the general reservation of fish and wildlife. 
+ 
+*** SEND ***
+*** SSTART 014.0 008.0 0 AK 1959 ***
+
+Section 14. Access to Navigable Waters. Free access to the navigable or public waters of the
+State, as defined by the legislature, shall not be denied any citizen of the United States or resident
+of the State, except that the legislature may by general law regulate and limit such access for
+other beneficial uses or public purposes.
+ 
+*** SEND ***
+*** SSTART 015.0 008.0 0 AK 1959 ***
+
+Section 15. No Exclusive Right of Fishery. No exclusive right or special privilege of fishery shall
+be created or authorized in the natural waters of the State.
+ 
+*** SEND ***
+*** SSTART 016.0 008.0 0 AK 1959 ***
+
+Section 16. Protection of Rights. No person shall be involuntarily divested of his right to the use
+of waters, his interests in lands, or improvements affecting either, except for a superior beneficial
+use or public purpose and then only with just compensation and by operation of law. 
+ 
+*** SEND ***
+*** SSTART 017.0 008.0 0 AK 1959 ***
+
+Section 17. Uniform Application. Laws and regulations governing the use or disposal of natural
+resources shall apply equally to all persons similarly situated with reference to the subject matter
+and purpose to be served by the law or regulation. 
+ 
+*** SEND ***
+*** SSTART 018.0 008.0 0 AK 1959 ***
+
+Section 18. Private Ways of Necessity. Proceedings in eminent domain may be undertaken for
+private ways of necessity to permit essential access for extraction or utilization of resources. Just
+compensation shall be made for property taken or for resultant damages to other property rights. 
+ 
+*** SEND *** 
+*** AEND ***
+*** ASTART 009.0 AK 1959 ***
+Article IX
+Finance and Taxation
+*** SSTART 001.0 009.0 0 AK 1959 ***
+
+Section 1. Taxing Power. The power of taxation shall never be surrendered. This power shall not
+be suspended or contracted away, except as provided in this article. 
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 AK 1959 ***
+
+Section 2. Nondiscrimination. The lands and other property belonging to citizens of the United
+States residing without the State shall never be taxed at a higher rate than the lands and other
+property belonging to the residents of the State. 
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 AK 1959 ***
+
+Section 3. Assessment Standards. Standards for appraisal of all property assessed by the State or
+its political subdivisions shall be prescribed by law. 
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 AK 1959 ***
+
+Section 4. Exemptions. The real and personal property of the State or its political subdivisions
+shall be exempt from taxation under conditions and exceptions which may be provided by law.
+All, or any portion of, property used exclusively for non-profit religious, charitable, cemetery, or
+educational purposes, as defined by law, shall be exempt from taxation. Other exemptions of like
+or different kind may be granted by general law. All valid existing exemptions shall be retained
+until otherwise provided by law. 
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 AK 1959 ***
+
+Section 5. Interests in Government Property. Private leaseholds, contracts, or interests in land or
+property owned or held by the United States, the State, or its political subdivisions, shall be
+taxable to the extent of the interests. 
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 AK 1959 ***
+
+Section 6. Public Purpose. No tax shall be levied, or appropriation of public money made, or
+public property transferred, nor shall the public credit be used, except for a public purpose. 
+
+*** SEND ***
+*** SSTART 007.0 009.0 0 AK 1959 ***
+
+Section 7. Dedicated Funds. The proceeds of any state tax or license shall not be dedicated to any
+special purpose, except when required by the federal government for state participation in federal
+programs. This provision shall not prohibit the continuance of any dedication for special
+purposes existing upon the date of ratification of this section by the people of Alaska. 
+
+*** SEND ***
+*** SSTART 008.0 009.0 0 AK 1959 ***
+
+Section 8. State Debt. No state debt shall be contracted unless authorized by law for capital
+improvements and ratified by a majority of the qualified voters of the State who vote on the
+question. The State may, as provided by law and without ratification, contract debt for the
+purpose of repelling invasion, suppressing insurrection, defending the State in war, meeting
+natural disasters, or redeeming indebtedness outstanding at the time this constitution becomes
+effective. .0
+
+*** SEND ***
+*** SSTART 009.0 009.0 0 AK 1959 ***
+
+Section 9. Local Debts. No debt shall be contracted by any political subdivision of the State,
+unless authorized for capital improvements by its governing body and ratified by a majority vote
+of those qualified to vote and voting on the question. 
+
+*** SEND ***
+*** SSTART 010.0 009.0 0 AK 1959 ***
+
+Section 10. Interim Borrowing. The State and its political subdivisions may borrow money to
+meet appropriations for any fiscal year in anticipation of the collection of the revenues for that
+year, but all debt so contracted shall be paid before the end of the next fiscal year. 
+
+*** SEND ***
+*** SSTART 011.0 009.0 0 AK 1959 ***
+
+Section 11. Exceptions. The restrictions on contracting debt do not apply to debt incurred
+through the issuance of revenue bonds by a public enterprise or public corporation of the State or
+a political subdivision, when the only security is the revenues of the enterprise or corporation.
+The restrictions do not apply to indebtedness to be paid from special assessments on the
+benefited property, nor do they apply to refunding indebtedness of the State or its political
+subdivisions. 
+
+*** SEND ***
+*** SSTART 012.0 009.0 0 AK 1959 ***
+
+Section 12. Budget. The governor shall submit to the legislature, at a time fixed by law, a budget
+for the next fiscal year setting forth all proposed expenditures and anticipated income of all
+departments, offices, and agencies of the State. The governor, at the same time, shall submit a
+general appropriation bill to authorize the proposed expenditures, and a bill or bills covering
+recommendations in the budget for new or additional revenues. 
+
+*** SEND ***
+*** SSTART 013.0 009.0 0 AK 1959 ***
+
+Section 13. Expenditures. No money shall be withdrawn from the treasury except in accordance
+with appropriations made by law. No obligation for the payment of money shall be incurred
+except as authorized by law. Unobligated appropriations outstanding at the end of the period of
+time specified by law shall be void. 
+
+*** SEND ***
+*** SSTART 014.0 009.0 0 AK 1959 ***
+
+Section 14. Legislative Post-audit. The legislature shall appoint an auditor to serve at its pleasure.
+He shall be a certified public accountant. The auditor shall conduct post-audits as prescribed by
+law and shall report to the legislature and to the governor. 
+
+*** SEND ***
+
+*** AEND ***
+*** ASTART 010.0 AK 1959 ***
+Article X
+Local Government
+
+*** SSTART 001.0 010.0 0 AK 1959 ***
+
+Section 1. Purpose and Construction. The purpose of this article is to provide for maximum local
+self-government with a minimum of local government units, and to prevent duplication of tax
+levying jurisdictions. A liberal construction shall be given to the powers of local government
+units. 
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 AK 1959 ***
+
+Section 2. Local Government Powers. All local government powers shall be vested in boroughs
+and cities. The State may delegate taxing powers to organized boroughs and cities only. 
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 AK 1959 ***
+
+Section 3. Boroughs. The entire State shall be divided into boroughs, organized or unorganized.
+They shall be established in a manner and according to standards provided by law. The standards
+shall include population, geography, economy, transportation, and other factors. Each borough
+shall embrace an area and population with common interests to the maximum degree possible.
+The legislature shall classify boroughs and prescribe their powers and functions. Methods by
+which boroughs may be organized, incorporated, merged, consolidated, reclassified, or dissolved
+shall be prescribed by law. 
+
+*** SEND ***
+*** SSTART 004.0 010.0 0 AK 1959 ***
+
+Section 4. Assembly. The governing body of the organized borough shall be the assembly, and its
+composition shall be established by law or charter.  Each city of the first class, and each city of
+any other class designated by law, shall be represented on the assembly by one or more members
+of its council.  The other members of the assembly shall be elected from and by the qualified
+voters resident outside such cities.
+
+*** SEND ***
+*** SSTART 005.0 010.0 0 AK 1959 ***
+
+Section 5. Service Areas. Service areas to provide special services within an organized borough
+may be established, altered, or abolished by the assembly, subject to the provisions of law or
+charter. A new service area shall not be established if, consistent with the purposes of this article,
+the new service can be provided by an existing service area, by incorporation as a city, or by
+annexation to a city. The assembly may authorize the levying of taxes, charges, or assessments
+within a service area to finance the special services. 
+
+*** SEND ***
+*** SSTART 006.0 010.0 0 AK 1959 ***
+
+Section 6. Unorganized Boroughs. The legislature shall provide for the performance of services it
+deems necessary or advisable in unorganized boroughs, allowing for maximum local
+participation and responsibility. It may exercise any power or function in an unorganized borough
+which the assembly may exercise in an organized borough. 
+
+*** SEND ***
+*** SSTART 007.0 010.0 0 AK 1959 ***
+
+Section 7. Cities. Cities shall be incorporated in a manner prescribed by law, and shall be a part
+of the borough in which they are located. Cities shall have the powers and functions conferred by
+law or charter. They may be merged, consolidated, classified, reclassified, or dissolved in the
+manner provided by law. 
+
+*** SEND ***
+*** SSTART 008.0 010.0 0 AK 1959 ***
+
+Section 8. Council. The governing body of a city shall be the council. 
+
+*** SEND ***
+*** SSTART 009.0 010.0 0 AK 1959 ***
+.0Section 9. Charters. The qualified voters of any borough of the first class or city of the first
+class may adopt, amend, or repeal a home rule charter in a manner provided by law. In the
+absence of such legislation, the governing body of a borough or city of the first class shall
+provide the procedure for the preparation and adoption or rejection of the charter. All charters, or
+parts or amendments of charters, shall be submitted to the qualified voters of the borough or city,
+and shall become effective if approved by a majority of those who vote on the specific question. 
+
+*** SEND ***
+*** SSTART 010.0 010.0 0 AK 1959 ***
+
+Section 10. Extended Home Rule. The legislature may extend home rule to other boroughs and
+cities. 
+
+*** SEND ***
+*** SSTART 011.0 010.0 0 AK 1959 ***
+
+Section 11. Home Rule Powers. A home rule borough or city may exercise all legislative powers
+not prohibited by law or by charter. 
+
+*** SEND ***
+*** SSTART 012.0 010.0 0 AK 1959 ***
+
+Section 12. Boundaries. A local boundary commission or board shall be established by law in the
+executive branch of the state government. The commission or board may consider any proposed
+local government boundary change. It may present proposed changes to the legislature during the
+first ten days of any regular session. The change shall become effective forty-five days after
+presentation or at the end of the session, whichever is earlier, unless disapproved by a resolution
+concurred in by a majority of the members of each house. The commission or board, subject to
+law, may establish procedures whereby boundaries may be adjusted by local action. 
+
+*** SEND ***
+*** SSTART 013.0 010.0 0 AK 1959 ***
+
+Section 13. Agreements; Transfer of Powers. Agreements, including those for cooperative or
+joint administration of any functions or powers, may be made by any local government with any
+other local government, with the State, or with the United States, unless otherwise provided by
+law or charter. A city may transfer to the borough in which it is located any of its powers or
+functions unless prohibited by law or charter, and may in like manner revoke the transfer. 
+
+*** SEND ***
+*** SSTART 014.0 010.0 0 AK 1959 ***
+
+Section 14. Local Government Agency. An agency shall be established by law in the executive
+branch of the state government to advise and assist local governments. It shall review their
+activities, collect and publish local government information, and perform other duties prescribed
+by law. 
+
+*** SEND ***
+*** SSTART 015.0 010.0 0 AK 1959 ***
+
+Section 15. Special Service Districts. Special service districts existing at the time a borough is
+organized shall be integrated with the government of the borough as provided by law. 
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 AK 1959 ***
+
+Article XI
+Initiative, Referendum, and Recall
+ 
+*** SSTART 001.0 011.0 0 AK 1959 ***
+
+Section 1. Initiative and Referendum. The people may propose and enact laws by the initiative,
+and approve or reject acts of the legislature by the referendum.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 AK 1959 ***
+
+Section 2. Application. An initiative or referendum is proposed by an application containing the
+bill to be initiated or the act to be referred. The application shall be signed by not less than one
+hundred qualified voters as sponsors, and shall be filed with the secretary of state. If he finds it in
+proper form he shall so certify. Denial of certification shall be subject to judicial review.
+
+*** SEND ***
+*** SSTART 003.0 011.0 0 AK 1959 ***
+
+Section 3. Petition. After certification of the application, a petition containing a summary of the
+subject matter shall be prepared by the secretary of state for circulation by the sponsors. If signed
+by qualified voters, equal in number to ten per cent of those who voted in the preceding general
+election and resident in at least two-thirds of the election districts of the State, it may be filed
+with the secretary of state.
+
+*** SEND ***
+*** SSTART 004.0 011.0 0 AK 1959 ***
+
+Section 4. Initiative Election. An initiative petition may be filed at any time. The secretary of
+state shall prepare a ballot title and proposition summarizing the proposed law, and shall place
+them on the ballot for the first statewide election held more than one hundred- twenty days after
+adjournment of the legislative session following the filing. If, before the election, substantially
+the same measure has been enacted, the petition is void.
+.0*** SEND ***
+*** SSTART 005.0 011.0 0 AK 1959 ***
+
+Section 5. Referendum Election. A referendum petition may be filed only within ninety days after
+adjournment of the legislative session at which the act was passed. The secretary of state shall
+prepare a ballot title and proposition summarizing the act and shall place them on the ballot for
+the first statewide election held more than one hundred-eighty days after adjournment of that
+session.
+
+*** SEND ***
+*** SSTART 006.0 011.0 0 AK 1959 ***
+
+Section 6. Enactment. If a majority of the votes cast on the proposition favor its adoption, the
+initiated measure is enacted. If a majority of the votes cast on the proposition favor the rejection
+of an act referred, it is rejected. The secretary of state shall certify the election returns. An
+initiated law becomes effective ninety days after certification, is not subject to veto, and may not
+be repealed by the legislature within two years of its effective date. It may be amended at any
+time. An act rejected by referendum is void thirty days after certification. Additional procedures
+for the initiative and referendum may be prescribed by law.
+
+*** SEND ***
+*** SSTART 007.0 011.0 0 AK 1959 ***
+
+Section 7. Restrictions. The initiative shall not be used to dedicate revenues, make or repeal
+appropriations, create courts, define the jurisdiction of courts or prescribe their rules, or enact
+local or special legislation. The referendum shall not be applied to dedications of revenue, to
+appropriations, to local or special legislation, or to laws necessary for the immediate preservation
+of the public peace, health, or safety.
+
+*** SEND ***
+*** SSTART 008.0 011.0 0 AK 1959 ***
+
+Section 8. Recall. All elected public officials in the State, except judicial officers, are subject to
+recall by the voters of the State or political subdivision from which elected. Procedures and
+grounds for recall shall be prescribed by the legislature.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 AK 1959 ***
+Article XII
+General Provisions
+
+*** SSTART 001.0 012.0 0 AK 1959 ***
+
+Section 1. State Boundaries. The State of Alaska shall consist of all the territory, together with
+the territorial waters appurtenant thereto, included in the Territory of Alaska upon the date of
+ratification of this constitution by the people of Alaska. 
+
+*** SEND ***
+*** SSTART 002.0 012.0 0 AK 1959 ***
+
+Section 2. Intergovernmental Relations. The State and its political subdivisions may cooperate
+with the United States and its territories, and with other states and their political subdivisions on
+matters of common interest. The respective legislative bodies may make appropriations for this
+purpose. 
+*** SEND ***
+
+*** SSTART 003.0 012.0 0 AK 1959 ***
+
+Section 3. Office of Profit. Service in the armed forces of the United States or of the State is not
+an office or position of profit as the term is used in this constitution. 
+
+*** SEND ***
+*** SSTART 004.0 012.0 0 AK 1959 ***
+
+Section 4. Disqualification for Disloyalty. No person who advocates, or who aids or belongs to
+any party or organization or association which advocates, the overthrow by force or violence of
+the government of the United States or of the State shall be qualified to hold any public office of
+trust or profit under this constitution. 
+
+*** SEND ***
+*** SSTART 005.0 012.0 0 AK 1959 ***
+
+Section 5. Oath of Office. All public officers, before entering upon the duties of their offices,
+shall take and subscribe to the following oath or affirmation: "I do solemnly swear (or affirm)
+that I will support and defend the Constitution of the United States and the Constitution of the
+State of Alaska, and that I will faithfully discharge my duties as . . . . . . . . to the best of my
+ability." The legislature may prescribe further oaths or affirmations. 
+
+*** SEND ***
+*** SSTART 006.0 012.0 0 AK 1959 ***
+
+Section 6. Merit System. The legislature shall establish a system under which the merit principle
+will govern the employment of persons by the State. 
+
+*** SEND ***
+*** SSTART 007.0 012.0 0 AK 1959 ***
+
+Section 7. Retirement Systems. Membership in employee retirement systems of the State or its
+political subdivisions shall constitute a contractual relationship. Accrued benefits of these
+systems shall not be diminished or impaired. 
+
+*** SEND ***
+*** SSTART 008.0 012.0 0 AK 1959 ***
+
+Section 8. Residual Power. The enumeration of specified powers in this constitution shall not be
+construed as limiting the powers of the State. 
+
+*** SEND ***
+*** SSTART 009.0 012.0 0 AK 1959 ***
+
+Section 9. Provisions Self-executing. The provisions of this constitution shall be construed to be
+self-executing whenever possible. 
+
+*** SEND ***
+*** SSTART 010.0 012.0 0 AK 1959 ***
+
+Section 10. Interpretation. Titles and subtitles shall not be used in construing this constitution.
+Personal pronouns used in this constitution shall be construed as including either sex. 
+
+*** SEND ***
+*** SSTART 011.0 012.0 0 AK 1959 ***
+
+Section 11. Law-making Power. As used in this constitution, the terms "by law" and "by the
+legislature," or variations of these terms, are used interchangeably when related to law-making
+powers. Unless clearly inapplicable, the law-making powers assigned to the legislature may be
+exercised by the people through the initiative, subject to the limitations of Article XI. 
+
+*** SEND ***
+*** SSTART 012.0 012.0 0 AK 1959 ***
+
+Section 12. Disclaimer and Agreement. The State of Alaska and its people forever disclaim all
+right and title in or to any property belonging to the United States or subject to its disposition,
+and not granted or confirmed to the State or its political subdivisions, by or under the act
+admitting Alaska to the Union. The State and its people further disclaim all right or title in or to
+any property, including fishing rights, the right or title to which may be held by or for any Indian,
+Eskimo, or Aleut, or community thereof, as that right or title is defined in the act of admission.
+The State and its people agree that, unless otherwise provided by Congress, the property, as
+described in this section, shall remain subject to the absolute disposition of the United States.
+They further agree that no taxes will be imposed upon any such property, until otherwise
+provided by the Congress. This tax exemption shall not apply to property held by individuals in
+fee without restrictions on alienation. 
+
+*** SEND ***
+*** SSTART 013.0 012.0 0 AK 1959 ***
+.0Section 13. Consent to Act of Admission. All provisions of the act admitting Alaska to the
+Union which reserve rights or powers to the United States, as well as those prescribing the terms
+or conditions of the grants of lands or other property, are consented to fully by the State and its
+people. 
+
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 AK 1959 ***
+Article XIII
+Amendment and Revision
+
+*** SSTART 001.0 013.0 0 AK 1959 ***
+
+Section 1. Amendments.  Amendments to this constitution may be proposed by a two-thirds vote
+of each house of the legislature. The secretary of state shall prepare a ballot title and proposition
+summarizing each proposed amendment, and shall place them on the ballot for the next statewide
+election. If a majority of the votes cast on the proposition favor the amendment, it shall be
+adopted. Unless otherwise provided in the amendment, it becomes effective thirty days after the
+certification of the election returns by the secretary of state. 
+
+*** SEND ***
+*** SSTART 002.0 013.0 0 AK 1959 ***
+
+Section 2. Convention. The legislature may call constitutional conventions at any time. 
+
+*** SEND ***
+*** SSTART 003.0 013.0 0 AK 1959 ***
+          
+Section 3. Call by Referendum. If during any ten-year period a constitutional convention has not
+been held, the secretary of state shall place on the ballot for the next general election the
+question: "Shall there be a Constitutional Convention?" If a majority of the votes cast on the
+question are in the negative, the question need not be placed on the ballot until the end of the
+next ten-year period. If a majority of the votes cast on the question are in the affirmative,
+delegates to the convention shall be chosen at the next regular statewide election, unless the
+legislature provides for the election of the delegates at a special election. The secretary of state
+shall issue the call for the convention. Unless other provisions have been made by law, the call
+shall conform as nearly as possible to the act calling the Alaska Constitutional Convention of
+1955, including, but not limited to, number of members, districts, election and certification of
+delegates, and submission and ratification of revisions and ordinances. The appropriation
+provisions of the call shall be self-executing and shall constitute a first claim on the state
+treasury. 
+
+*** SEND ***
+*** SSTART 004.0 013.0 0 AK 1959 ***
+
+Section 4. Powers. Constitutional conventions shall have plenary power to amend or revise the
+constitution, subject only to ratification by the people. No call for a constitutional convention
+shall limit these powers of the convention. 
+
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 AK 1959 ***
+Article XIV
+Apportionment Schedule
+*** SSTART 001.0 014.0 0 AK 1959 ***
+
+Section 1.  Members of the house of representatives shall, until reapportionment, be elected from
+the election districts and in the numbers shown below:
+
+                                                       Number of District       Name of District              Number of Representatives
+
+                                                  1                   Prince of Wales               1
+                                             2                   Ketchikan                2
+                                                  3                   Wrangell-Petersburg           1
+                                                  4                   Sitka                         2
+                                                  5                   Juneau                        2
+                                                  6                   Lynn Canal-Icy Straits        1
+                                                  7                   Cordova-McCarthy              1
+                    8                   Valdez-Chitina-Whittier       1
+                                                  9                   Palmer-Wasilla-Talkeetna      1
+                                             10                  Anchorage                8
+                                             11                  Seward                   1
+                                                  12                  Kenai-Cook Inlet              1
+                                             13                  Kodiak                   2
+                                                  14                  Aleutian Islands              1
+                                                  15                  Bristol Bay                   1
+                                                  16                  Bethel                        1
+                                             17                  Kuskokwim                1
+                                             18                  Yukon-Koyukuk            1
+                                             19                  Fairbanks                5
+                                                  20                  Upper Yukon                   1
+                                             21                  Barrow                   1
+                                                  22                  Kobuk                         1
+                                             23                  Nome                     2
+                                             24                  Wade Hampton             1
+
+*** SEND ***
+*** SSTART 002.0 014.0 0 AK 1959 ***
+
+Section 2.  Members of the senate shall be elected from the senate districts and in the number
+shown below:
+
+
+                                                                 Name of District              Composed of Election Districts     Number of Senators
+
+                                                                 A. Southeastern               1, 2, 3, 4, 5, and 6               2
+                                                       B. Ketchikan-Prince of Wales  1 and 2                  1
+                                                       C. Wrangell-Petersburg-Sitka  3 and 4                  1
+                                                       D. Juneau-Yakutat             5 and 6                  1
+                                                                 E. Southcentral               7, 8, 9, 10, 11, 12, 13, and 14    2
+                                                       F. Cordova-Valdez             7 and 8                  1
+                                                       G. Anchorage-Palmer           9 and 10                 1
+                                                       H. Seward-Kenai               11 and 12                1
+                                                       I. Kodiak-Aleutians           13 and 14                1
+                                                                 J. Central                    15, 16, 17, 18, 19, and 20         2
+                                                            K. Bristol Bay-Bethel              15 and 16                1
+                                                  L. Yukon-Kuskokwim       17 and 18                1
+                                                       M. Fairbanks-Fort Yukon       19 and 20                1
+                                                            N. Northwestern               21, 22, 23, and 24            2
+                                                       O. Barrow-Kobuk               21 and 22                1
+                                                       P. Nome-Wade Hampton          23 and 24                1
+
+*** SEND ***
+
+*** SSTART 003.0 014.0 0 AK 1959 ***
+
+Section 3. The election districts set forth in Section 1 shall include the following territory:
+
+1.  Prince of Wales: All of Prince of Wales, Dall, Forrester, Suemez, Baker, Lulu, Noyes,
+Warren, Kosciusko and the Kashevarof Islands as well as adjacent off-shore islands.
+
+2.  Ketchikan: That area of the mainland drained by streams flowing into Revillagigedo Channel,
+Behm Canal, Burroughs Bay, and east side of Clarence Strait from the southernmost point of the
+Alaska-British Columbia boundary line to and including Lemesurier Point; and those islands
+south of Ernest Sound and east of Clarence Strait, including Revillagigedo, Gravina, Annette,
+and Duke Islands, and other adjacent smaller islands.
+
+3.  Wrangell-Petersburg: That area of the mainland north of Election District No. 2 and south of,
+and including, the area draining into Frederick Sound to Cape Fanshaw on the north, and partly
+bounded on the north by a line drawn between Cape Fanshaw and the north side of Pybus bay;
+that area of Admiralty Island drained by the streams flowing into Frederick Sound; that area of
+Baranof Island drained by streams flowing into Chatham Strait to but not including that area
+drained by streams flowing into Peril Starit; and including Kupereanof. Mitkof, Kulu and
+Coronation Islands and other smaller adjacent islands.
+
+4.  Sitka: Those parts of Admiralty, Chichagof and Baranof Islands not included in Election
+Districts No. 3, 5 and 6; and Kruzof Island and other smaller adjacent islands.
+
+5.  Juneau: The mainland north of Election District No. 3 up to and including the area drained by
+streams flowing into Berners Bay on the north; and that area of Admiralty Island north of
+Election District No. 3 and drained by streams flowing into Stephens Passage, Seymour Canal,
+Lynn Canal, and their tributaries; and including Douglas, Shelter and Benjamin Islands, and other
+smaller adjacent islands.
+
+6.  Lynn Canal- Icy Straits: That part of the mainland, not included in Election district No. 5,
+drained by streams flowing into Lynn Canal, Glacier Bay, Icy Strait, Cross Sound and their
+tributaries, and the Pacific Ocean, to and including the area drained into Icy Bay to the west;
+those parts of Admiralty and Chichagof Islands drained by streams flowing onto Icy Strait, Cross
+Sound, and their tributaries; and Yakobi, Lemesurier, and Pleasant Islands, and other smaller
+adjacent islands.
+
+7.  Cordova-McCarthy: That area draining into the Gulf of Alaska and Prince William Sound,
+from but not including the area draining into the south side of Icy Bay on the east to Knowles
+Head on the west, including Hawkins, Hinchinbrook, Kayak, and Middleton Islands, and other
+smaller adjacent islands; and that area drained by the Copper River and its tributaries up to and
+not including the Tiekel River on the west, and up to and including the Chitina River on the east.
+
+8.  Valdez-Chitina-Whittier: That area drained by all streams flowing into Prince William Sound
+from Cape Junken on the the west to Knowles Head on the east, including Montague, Latouche,
+and Knight Islands, and other smaller adjacent islands; and all of the area drained by the Copper
+River and its tributaries above and including the Tiekel River on the west, and above but not
+including the Chitina River on the east.
+
+9.  Pamer-Wasilla-Talkeetna: That area from and including Susitna on the south, drained by the
+Susitna River and its tributaries; and that area drained by the Little Susitna River from and
+including Flat Lake on the south; and that area draining into Knik Arm from and including Fish
+Creek and its tributaries on the west side of Knik Arm, to and including the area draining into the
+Knik River from the north, and from the south to the highway bridge.
+
+10.  Anchorage: That area around Turnagain Arm and east of Knik Arm drained by streams
+flowing into Turnagain Arm and Knik Arm, from and including Placer River on the south, to and
+including the Knik River highway bridge on the north; that area east of Knik Arm and north of
+Cook Inlet drained by Goose Creek and its tributaries on the east, and the Little Susitna River
+south of Flat Lake, and the Susitna River south of but not including Susitna; the area west of
+Cook Inlet drained by Ivan, Lewis, Theodore Rivers and their tributaries, to but not including
+Beluga River on the south.
+
+11.  Seward: That part of the Kenai Peninsula draining into the Gulf of Alaska from Gore Point
+on the west to Cape Junken on the east; and the area draining into Turnagain Arm from and
+including the drainage of Resurrection Creek on the west but not including Placer River on the
+east, and to and including the confluence of the Kenai and Russian Rivers on the west.
+
+12. Kenai-Cook Inlet: That area of Kenai Peninsula drained by streams flowing into the Gulf of
+Alaska, Cook Inlet, and Turnagain Arm, from and including the area drained into Port Dick on
+the south to Gore Point, to but not including Resurrection Creek on the north, and the area east of
+the confluence of the Kenai and Russian Rivers; and that area west of Cook Inlet drained by all
+streams flowing into Cook Inlet drained by all streams flowing into Cook Inlet from Cape
+Douglas on the south, to and including the Beluga River; including Elizabeth Island and adjacent
+Islands in Cook Inlet.
+
+13.  Kodiak: The part of the Alaska Peninsula drained by all streams flowing into the Pacific
+Ocean from Cape Douglas on the east to but not including Kujulik Bay on the west; and all
+adjacent off-shore islands, including the Semidi Islands, and Kodiak, Afognak, Trinity, Chirikof
+Islands, and other smaller islands in the immediate vicinity, such as the Barren Islands and the
+Chugach Islands.
+
+14. Aleutian Islands: The part of the Alaska Peninsula west of including the drainage of Meshik
+River and Kujulik Bay; and all of the Aleutian and Pribilof Islands and adjacent off-shore Islands
+west of and excluding the Semidi Islands and Sutwik Island.
+
+15. Bristol Bay: The area drained by all streams flowing into Bristol Bay from Cape Newenham
+on the west to but not including the Meshik River on the south.
+
+16.  Bethel: The area drained by all streams flowing into Baird Inlet, Etolin Strait, and
+Kuskokwim Bay; that area drained by the Kuskokwim River and its tributaries up to, and
+including, the area drained by the Tuluksak River on the east bank of the Kuskokwim River; and
+the area drained by tributaries up to the opposite point on the west bank of the Kuskokwim
+River; and including Nunivak Island and St. Matthew Island and adjacent islands.
+
+17.  Kuskokwim: The area drained by the Kuskokwim River and its tributaries above and not
+including the area drained by the Tuluksak River and its tributaries on the east bank; and the area
+drained by tributaries above the opposite point on the west bank of the Kuskokwim River; and
+the area drained by the Yukon River from Tuckers Slough, to but not including the area drained
+by the Khotol River.
+
+18.  Yukon-Koyokuk: The area drained by all streams and their tributaries flowing into the
+Yukon River from and including Khotol River on the west to and including Hess Creek on the
+east; and that area drained by the Tanana River and its tributaries up to but not including Clear
+Creek, near Blair Lakes, on the east; and that part of Goldstream Creek up to but not including
+Nugget Creek and Spinach Creek; and that portion drained by the Chatanika River up to but not
+including Vault Creek.
+
+19.  Fairbanks: That area drained by the Tanana River and its tributaries from and including
+Clear Creek, near Blair Lakes, on the west, to the Alaska-Canada boundary on the east; and also
+that area drained by Goldstream Creek and its tributaries from, and including, Nugget Creek and
+Spinach Creek; and that portion drained by the Chatanika River and its tributaries up stream from
+and including Vault Creek.
+
+
+20.  Upper Yukon: That area drained by the Yukon River and its tributaries from, but not
+including Hess Creek on the west, to the Alaska-Canada boundary; and that area drained by
+streams flowing into the Arctic Ocean from, but not including, Kuparuk River on the west, to the
+Alaska boundary.
+
+21.  Barrow: The area drained by all streams flowing into the Arctic Ocean from Cape Lisburne
+on the west, to and including the area drained by the Kuparuk River and its tributaries on the
+east.
+
+22.  Kobuk: The area drained by all streams flowing into the Arctic Ocean and Kotzebue Sound,
+from Cape Lisburne on the north, to and including the area drained by the Goodhope River and
+its tributaries on the south.
+
+23.  Nome: That part of the Seward Peninsula and adjacent areas drained by all streams flowing
+into the Kotzebue Sound, Bering Strait and Norton Sound, from, but not including, the area
+drained by the Goodhope River and its tributaries on the north, to but not including, the area
+drained by the Pastolik River on the south; and King, Little Diomede, St. Lawrence, Sledge, and
+Stuart Islands, as well as adjacent offshore islands.
+
+24.  Wade Hampton: The area drained by the lower Yukon River and its tributaries, from
+Tuckers Slough to the mouth of the Bering Sea; and the area drained by all streams flowing into
+the Bering Sea and Norton Sound, from and including Hazen Bay on the south, to and including
+the Pastolik River on the north.
+
+*** SEND ***
+*** AEND ***
+ *** ASTART 015.0 AK 1959 ***
+Article XV
+Schedule of Transitional Measures
+ 
+To provide an orderly transition from a territorial to a state form of government, it is declared and
+ordained:
+
+*** SSTART 001.0 015.0 0 AK 1959 ***
+
+Section 1. Continuance of Laws. All laws in force in the Territory of Alaska on the effective date
+of this constitution and consistent therewith shall continue in force until they expire by their own
+limitation, are amended, or repealed.
+
+*** SEND ***
+*** SSTART 002.0 015.0 0 AK 1959 ***
+.0Section 2. Saving of Existing Rights and Liabilities. Except as otherwise provided in this
+constitution, all rights, titles, actions, suits, contracts, and liabilities and all civil, criminal, or
+administrative proceedings shall continue unaffected by the change from territorial to state
+government, and the State shall be the legal successor to the Territory in these matters.
+
+*** SEND ***
+*** SSTART 003.0 015.0 0 AK 1959 ***
+
+Section 3. Local Government. Cities, school districts, health districts, public utility districts, and
+other local subdivisions of government existing on the effective date of this constitution shall
+continue to exercise their powers and functions under existing law, pending enactment of
+legislation to carry out the provisions of this constitution. New local subdivisions of government
+shall be created only in accordance with this constitution.
+
+*** SEND ***
+*** SSTART 004.0 015.0 0 AK 1959 ***
+
+Section 4. Continuance of Office. All officers of the Territory, or under its laws, on the effective
+date of this constitution shall continue to perform the duties of their offices in a manner
+consistent with this constitution until they are superseded by officers of the State.
+
+*** SEND ***
+*** SSTART 005.0 015.0 0 AK 1959 ***
+
+Section 5. Corresponding Qualifications. Residence, citizenship, or other qualifications under the
+Territory may be used toward the fulfillment of corresponding qualifications required by this
+constitution.
+
+*** SEND ***
+*** SSTART 006.0 015.0 0 AK 1959 ***
+
+Section 6. Governor to Proclaim Election. When the people of the Territory ratify this
+constitution and it is approved by the duly constituted authority of the United States, the governor
+of the Territory shall, within thirty days after receipt of the official notification of such approval,
+issue a proclamation and take necessary measures to hold primary and general elections for all
+state elective offices provided for by this constitution.
+
+*** SEND ***
+*** SSTART 007.0 015.0 0 AK 1959 ***
+
+Section 7. First State Elections. The primary election shall take place not less than forty nor more
+than ninety days after the proclamation by the governor of the Territory. The general election
+shall take place not less than ninety days after the primary election. The elections shall be
+governed by this constitution and by applicable territorial laws.
+
+*** SEND ***
+*** SSTART 008.0 015.0 0 AK 1959 ***
+
+Section 8. United States Senators and Representative. The officers to be elected at the first
+general election shall include two senators and one representative to serve in the Congress of the
+United States, unless senators and a representative have been previously elected and seated. One
+senator shall be elected for the long term and one senator for the short term, each term to expire
+on the third day of January in an odd-numbered year to be determined by authority of the United
+States. The term of the representative shall expire on the third day of January in the
+odd-numbered year immediately following his assuming office. If the first representative is
+elected in an even-numbered year to take office in that year, a representative shall be elected at
+the same time to fill the full term commencing on the third day of January of the following year,
+and the same person may be elected for both terms.
+
+*** SEND ***
+*** SSTART 009.0 015.0 0 AK 1959 ***
+
+Section 9. Terms of First Governor and Secretary of state. The First Governor and Secretary of
+state shall hold office for a term beginning with the day on which they assume office and ending
+at noon on the first Monday in December of the even-numbered year following the next
+presidential election. This term shall count as a full term for purposes of determining eligibility
+for reelection only if it is four years or more in duration
+
+*** SEND ***
+*** SSTART 010.0 015.0 0 AK 1959 ***
+
+Section 10. Election of First Senators. At the first State general election, one senator shall be
+chosen for a two-year term from each of the following senate districts, described in Section 2 of
+Article XIV: A, B, D, E, G, I, J, L, N, and O. At the same election, one senator shall be chosen
+for a four-year term from each of the following senate districts described in Section 2 of Article
+XIV: A, C, E, F, H, J, K, M, N, and P.
+
+*** SEND ***
+*** SSTART 011.0 015.0 0 AK 1959 ***
+
+Section 11. Terms of First State Legislators. The first State legislators shall hold office for a term
+beginning with the day on which they assume office and ending at noon on the fourth Monday in
+January after the next general election, except that senators elected for four-year terms shall serve
+an additional two years thereafter. If the first general election is held in an even-numbered year, it
+shall be deemed to be the general election for that year.
+
+*** SEND ***
+*** SSTART 012.0 015.0 0 AK 1959 ***
+
+Section 12. Election Returns. The returns of the first general election shall be made, canvassed,
+and certified in the manner prescribed by law. The governor of the Territory shall certify the
+results to the President of the United States.
+*** SEND ***
+
+*** SSTART 013.0 015.0 0 AK 1959 ***
+
+Section 13. Assumption of Office. When the President of the United States issues a proclamation
+announcing the results of the election, and the State has been admitted into the Union, the
+officers elected and qualified shall assume office.
+
+*** SEND ***
+*** SSTART 014.0 015.0 0 AK 1959 ***
+
+Section 14. First Session of Legislature. The governor shall call a special session of the first state
+legislature within thirty days after the presidential proclamation unless a regular session of the
+legislature falls within that period. The special session shall not be limited as to duration.
+
+*** SEND ***
+*** SSTART 015.0 015.0 0 AK 1959 ***
+
+Section 15. Office Holding by First Legislators. The provisions of Section 5 of Article II shall not
+prohibit any member of the first State legislature from holding any office or position created
+during his first term.
+
+*** SEND ***
+*** SSTART 016.0 015.0 0 AK 1959 ***
+
+Section 16. First Judicial Council. The first members of the judicial council shall,
+notwithstanding Section 8 of Article IV, be appointed for terms as follows: three attorney
+members for one, three, and five years respectively, and three non-attorney members for two,
+four, and six years respectively. The six members so appointed shall, in accordance with Section
+5 of Article IV, submit to the governor nominations to fill the initial vacancies on the superior
+court and the supreme court, including the office of chief justice. After the initial vacancies on
+the superior and supreme courts are filled, the chief justice shall assume his seat on the judicial
+council.
+
+*** SEND ***
+*** SSTART 017.0 015.0 0 AK 1959 ***
+
+Section 17. Transfer of Court Jurisdiction. Until the courts provided for in Article IV are
+organized, the courts, their jurisdiction, and the judicial system shall remain as constituted on the
+date of admission unless otherwise provided by law. When the State courts are organized, new
+actions shall be commenced and filed therein, and all causes, other than those under the
+jurisdiction of the United States, pending in the courts existing on the date of admission, shall be
+transferred to the proper state court as though commenced, filed, or lodged in those courts in the
+first instance, except as otherwise provided by law.
+
+*** SEND ***
+*** SSTART 018.0 015.0 0 AK 1959 ***
+
+Section 18. Territorial Assets and Liabilities. The debts and liabilities of the Territory of Alaska
+shall be assumed and paid by the State, and debts owed to the Territory shall be collected by the
+State. Assets and records of the Territory shall become the property of the State.
+
+*** SEND ***
+*** SSTART 019.0 015.0 0 AK 1959 ***
+
+Section 19. First Reapportionment. The first reapportionment of the house of representatives
+shall be made immediately following the official reporting of the 1960 decennial census, or after
+the first regular legislative session if the session occurs thereafter, notwithstanding the provision
+as to time contained in Section 3 of Article VI. All other provisions of Article VI shall apply in
+the first reapportionment.
+*** SEND ***
+
+*** SSTART 020.0 015.0 0 AK 1959 ***
+
+Section 20. State Capital. The capital of the State of Alaska shall be at Juneau.
+
+*** SEND ***
+*** SSTART 021.0 015.0 0 AK 1959 ***
+
+Section 21. Seal. The seal of the Territory, substituting the word "State" for "Territory," shall be
+the seal of the State.
+
+*** SEND ***
+*** SSTART 022.0 015.0 0 AK 1959 ***
+
+Section 22. Flag. The flag of the Territory shall be the flag of the State.
+
+*** SEND ***
+*** SSTART 023.0 015.0 0 AK 1959 ***
+
+Section 23. Special Voting Provision. Citizens who legally voted in the general election of
+November 4, 1924, and who meet the residence requirements for voting, shall be entitled to vote
+notwithstanding the provisions of Section 1 of Article V.
+
+*** SEND ***
+*** SSTART 024.0 015.0 0 AK 1959 ***
+
+Section 24. Ordinances. Ordinance No. 1 on ratification of the constitution, Ordinance No. 2 on
+the Alaska-Tennessee Plan, and Ordinance No. 3 on the abolition of fish traps, adopted by the
+Alaska Constitutional Convention and appended to this constitution, shall be submitted to the
+voters and if ratified shall become effective as provided in each ordinance.
+
+*** SEND ***
+*** SSTART 025.0 015.0 0 AK 1959 ***
+
+Section 25. Effective Date. This constitution shall take effect immediately upon the admission of
+Alaska into the Union as a state.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9016.0 AK 1959 ***           
+
+Agreed upon by the delegates in Constitutional Convention assembled at the University of
+Alaska, this fifth day of February, in the year of our Lord one thousand nine hundred and
+fifty-six, and of the Independence of the United States the one hundred and eightieth.
+
+Wm. A. Egan
+President of the Convention
+ 
+R. Rolland Armstrong
+Dorothy J. Awes
+Frank Barr
+John C. Boswell
+Seaborn J. Buckalew, Jr.
+John B. Coghill
+E. B. Collins
+George D. Cooper
+John M. Cross
+Edward V. Davis
+James P. Doogan
+Truman C. Emberg
+Helen Fischer
+Victor Fischer
+Douglas Gray
+Thomas C. Harris
+John S. Hellenthal
+Mildred R. Hermann
+Herb Hilscher
+Jack Hinckel
+James Hurley
+Maurice T. Johnson
+Yule F. Kilcher
+Leonard H. King
+William W. Knight
+Maynard D. Londborg
+Steve McCutcheon
+George M. McLaughlin
+Robert J. McNealy
+John A. McNees
+M. R. Marston
+Irwin L. Metcalf
+Leslie Nerland
+James Nolan
+Katherine D. Nordale
+Frank Peratrovich
+Chris Poulsen
+Peter L. Reader
+Burke Riley
+Ralph J. Rivers
+Victor C. Rivers
+John H. Rosswog
+W. O. Smith
+B. D. Stewart
+George Sundborg
+Dora M. Sweeney
+Warren A. Taylor
+H. R. Vanderleest
+M. J. Walsh
+Barrie M. White
+Eldor R. Lee
+
+
+ATTEST:
+Thomas B. Stewart
+Secretary of the Convention
+
+*** AEND ***
+
+*** MSTART 001 001.0 005.0 0 AK 1959 1966 ***
+
+Section 1. Qualified Voters. Every citizen of the United States who is at least nineteen years of
+age, who meets registration residency requirements which may be prescribed by law, and who is
+qualified to vote under this article, may vote in any state or local election. A voter shall have
+been, immediately preceding the election, a thirty day resident of the election district in which he
+seeks to vote, except that for purposes of voting for President and Vice President of the United
+States other residency requirements may be prescribed by law. A voter shall be able to read or
+speak the English language as prescribed by law, unless prevented by physical disability. 
+Additional voting qualifications may be prescribed by law for bond issue elections of political
+subdivisions. 
+
+[As amended October 9, 1966.]
+
+*** MEND ***
+
+*** MSTART 002 010.0 004.0 0 AK 1959 1968 ***
+
+Section 10. Commission on Judicial Qualifications. The Commission on Judicial Conduct shall
+consist of nine members, as follows: one justice of the supreme court, elected by the justices of
+the supreme court; three judges of the superior court, elected by the judges of the superior court;
+one judge of the district court elected by the judges of the district court; two members who have
+practiced law in this state for ten years, appointed by the governing body of the organized bar;
+and two persons who are not judges, retired judges, or members of the state bar, appointed by the
+governor and subject to confirmation by a majority of the members of the legislature in joint
+session. In addition to being subject to impeachment under Section 12 of this article, a justice or
+judge may be disqualified from acting as such and may be suspended, removed from office,
+retired, or censured by the supreme court upon the recommendation of the commission. The
+powers and duties of the commission and the bases for judicial disqualification shall be
+established by law. 
+
+[As amended October 11, 1968.]
+
+*** MEND ***
+
+*** MSTART 003 013.0 004.0 0 AK 1959 1968 ***
+
+Section 13. Compensation. Justices, judges, and members of the judicial council and the
+Commission on Judicial Qualifications shall receive compensation as prescribed by law.
+Compensation of justices and judges shall not be diminished during their terms of office, unless
+by general law applying to all salaried officers of the State. 
+
+[As amended October 11, 1968.]
+
+*** MEND ***
+
+*** MSTART 004 007.0 003.0 0 AK 1959 1970 ***
+
+Section 7. Lieutenant Governor Duties. There shall be a lieutenant governor. He shall have the
+same qualifications as the governor and serve for the same term. He shall perform such duties as
+may be prescribed by law and as may be delegated to him by the governor. 
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 005 008.0 003.0 0 AK 1959 1970 ***
+
+Section 8. Same - Election. The lieutenant governor shall be nominated in the manner provided
+by law for nominating candidates for other elective offices. In the general election the votes cast
+for a candidate for governor shall be considered as cast also for the candidate for lieutenant
+governor running jointly with him. The candidate whose name appears on the ballot jointly with
+that of the successful candidate for governor shall be elected lieutenant governor. 
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 006 009.0 003.0 0 AK 1959 1970 ***
+
+Section 9. Acting Governor. In case of the temporary absence of the governor from office, the
+lieutenant governor shall serve as acting governor. 
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 007 010.0 003.0 0 AK 1959 1970 ***
+
+Section 10. Succession; Failure to Qualify. If the governor-elect dies, resigns, or is disqualified,
+the lieutenant governor elected with him shall succeed to the office of governor for the full term.
+If the governor- elect fails to assume office for any other reason, the lieutenant governor elected
+with him shall serve as acting governor, and shall succeed to the office if the governor-elect does
+not assume his office within six months of the beginning of the term. 
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 008 011.0 003.0 0 AK 1959 1970 ***
+
+Section 11. Vacancy. In case of a vacancy in the office of governor for any reason, the lieutenant
+governor shall succeed to the office for the remainder of the term. 
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 009 013.0 003.0 0 AK 1959 1970 ***
+.0Section 13. Further Succession. Provision shall be made by law for succession to the office of
+governor and for an acting governor in the event that the lieutenant governor is unable to succeed
+to the office or act as governor. No election of a lieutenant governor shall be held except at the
+time of electing a governor. 
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 010 014.0 003.0 0 AK 1959 1970 ***
+
+Section 14. Title and Authority of Successor. When the lieutenant governor succeeds to the
+office of governor, he shall have the title, powers, duties and emoluments of that office. 
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 011 015.0 003.0 0 AK 1959 1970 ***
+
+Section 15. Compensation. The compensation of the governor and the lieutenant governor shall
+be prescribed by law and shall not be diminished during their term of office, unless by general
+law applying to all salaried officers of the State. 
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 013 002.0 004.0 0 AK 1959 1970 ***
+
+Section 2. Supreme Court. 
+
+(a) The supreme court shall be the highest court of the State, with final appellate jurisdiction. It
+shall consist of three justices, one of whom is chief justice. The number of justices may be
+increased by law upon the request of the supreme court. 
+
+(b) The chief justice shall be selected from among the justices of the supreme court by a majority
+vote of the justices. His term of office as chief justice is three years. A justice may serve more
+than one term as chief justice but he may not serve consecutive terms in that office. 
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 014 016.0 004.0 0 AK 1959 1970 ***
+.0Section 16. Court Administration. The chief justice of the supreme court shall be the
+administrative head of all courts. He may assign judges from one court or division thereof to
+another for temporary service. The chief justice shall, with the approval of the supreme court,
+appoint an administrative director to serve at the pleasure of the supreme court and to supervise
+the administrative operations of the judicial system. 
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 015 001.0 005.0 0 AK 1959 1970 ***
+
+Section 1. Qualified Voters. Every citizen of the United States who is at least eighteen years of
+age, who meets registration requirements which may be prescribed by law, and who is qualified
+to vote under this article, may vote in any state or local election. A voter shall have been,
+immediately preceding the election, for one year a resident of Alaska and for thirty days a
+resident of the election district in which he seeks to vote, except that for purposes of voting for
+President and Vice President of the United States other residency requirements may be prescribed
+by law. Additional voting qualifications may be prescribed by law for bond issue elections of
+political subdivisions. 
+
+[As amended October 10, 1970.]
+
+Note: The 1970 text of Article 5, Section 1 reflects two distinct amendments which both became
+effective on the same date.  The amendment proposed by legislation in 1969 established the
+voting age at 18 years.  The amendment proposed by legislation in 1970 eliminated the
+requirement of ability to read or speak English as prerequisite to voting.
+
+*** MEND ***
+
+*** MSTART 016 002.0 011.0 0 AK 1959 1970 ***
+
+Section 2. Application. An initiative or referendum is proposed by an application containing the
+bill to be initiated or the act to be referred. The application shall be signed by not less than one
+hundred qualified voters as sponsors, and shall be filed with the lieutenant governor. If he finds it
+in proper form he shall so certify. Denial of certification shall be subject to judicial review.
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 017 003.0 011.0 0 AK 1959 1970 ***
+
+Section 3. Petition. After certification of the application, a petition containing a summary of the
+subject matter shall be prepared by the lieutenant governor for circulation by the sponsors. If
+signed by qualified voters, equal in number to ten per cent of those who voted in the preceding
+general election and resident in at least two-thirds of the election districts of the State, it may be
+filed with the lieutenant governor.
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 018 004.0 011.0 0 AK 1959 1970 ***
+
+Section 4. Initiative Election. An initiative petition may be filed at any time. The lieutenant
+governor shall prepare a ballot title and proposition summarizing the proposed law, and shall
+place them on the ballot for the first statewide election held more than one hundred- twenty days
+after adjournment of the legislative session following the filing. If, before the election,
+substantially the same measure has been enacted, the petition is void.
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 019 005.0 011.0 0 AK 1959 1970 ***
+
+Section 5. Referendum Election. A referendum petition may be filed only within ninety days after
+adjournment of the legislative session at which the act was passed. The lieutenant governor shall
+prepare a ballot title and proposition summarizing the act and shall place them on the ballot for
+the first statewide election held more than one hundred-eighty days after adjournment of that
+session.
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 020 006.0 011.0 0 AK 1959 1970 ***
+
+Section 6. Enactment. If a majority of the votes cast on the proposition favor its adoption, the
+initiated measure is enacted. If a majority of the votes cast on the proposition favor the rejection
+of an act referred, it is rejected. The lieutenant governor shall certify the election returns. An
+initiated law becomes effective ninety days after certification, is not subject to veto, and may not
+be repealed by the legislature within two years of its effective date. It may be amended at any
+time. An act rejected by referendum is void thirty days after certification. Additional procedures
+for the initiative and referendum may be prescribed by law.
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 021 001.0 013.0 0 AK 1959 1970 ***
+
+Section 1. Amendments.  Amendments to this constitution may be proposed by a two-thirds vote
+of each house of the legislature. The lieutenant governor shall prepare a ballot title and
+proposition summarizing each proposed amendment, and shall place them on the ballot for the
+next statewide election. If a majority of the votes cast on the proposition favor the amendment, it
+shall be adopted. Unless otherwise provided in the amendment, it becomes effective thirty days
+after the certification of the election returns by the lieutenant governor. .0
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 022 003.0 013.0 0 AK 1959 1970 ***
+
+Section 3. Call by Referendum. If during any ten-year period a constitutional convention has not
+been held, the lieutenant governor shall place on the ballot for the next general election the
+question: "Shall there be a Constitutional Convention?" If a majority of the votes cast on the
+question are in the negative, the question need not be placed on the ballot until the end of the
+next ten-year period. If a majority of the votes cast on the question are in the affirmative,
+delegates to the convention shall be chosen at the next regular statewide election, unless the
+legislature provides for the election of the delegates at a special election. The lieutenant governor
+shall issue the call for the convention. Unless other provisions have been made by law, the call
+shall conform as nearly as possible to the act calling the Alaska Constitutional Convention of
+1955, including, but not limited to, number of members, districts, election and certification of
+delegates, and submission and ratification of revisions and ordinances. The appropriation
+provisions of the call shall be self-executing and shall constitute a first claim on the state
+treasury. 
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 023 009.0 015.0 0 AK 1959 1970 ***
+
+Section 9. Terms of First Governor and Lieutenant Governor. The First Governor and Lieutenant
+Governor shall hold office for a term beginning with the day on which they assume office and
+ending at noon on the first Monday in December of the even-numbered year following the next
+presidential election. This term shall count as a full term for purposes of determining eligibility
+for reelection only if it is four years or more in duration
+
+[As amended October 10, 1970.]
+
+*** MEND ***
+
+*** MSTART 024 003.0 001.0 0 AK 1959 1972 ***
+
+Section 3. Civil Rights. No person is to be denied the enjoyment of any civil or political right
+because of race, color, creed, sex, or national origin. The legislature shall implement this section.
+
+[As amended October 14, 1972.]
+
+*** MEND ***
+
+*** MSTART 025 022.0 001.0 0 AK 1959 1972 ***
+
+Section 22. Right of Privacy. The right of the people to privacy is recognized and shall not be
+infringed. The legislature shall implement this section.
+
+[Adopted October 14, 1972.]
+
+*** MEND ***
+
+
+*** MSTART 026 015.0 008.0 0 AK 1959 1972 ***
+
+Section 15. No Exclusive Right of Fishery. No exclusive right or special privilege of fishery shall
+be created or authorized in the natural waters of the State. This section does not restrict the power
+of the State to limit entry into any fishery for purposes of resource conservation, to prevent
+economic distress among fishermen and those dependent upon them for a livelihood and to
+promote the efficient development of aquaculture in the State.
+
+[As amended October 14, 1972.]
+
+*** MEND ***
+
+*** MSTART 029 001.0 005.0 0 AK 1959 1972 ***
+
+Section 1. Qualified Voters. Every citizen of the United States who is at least eighteen years of
+age, who meets registration residency requirements which may be prescribed by law, and who is
+qualified to vote under this article, may vote in any state or local election. A voter shall have
+been, immediately preceding the election, a thirty day resident of the election district in which he
+seeks to vote, except that for purposes of voting for President and Vice President of the United
+States other residency requirements may be prescribed by law. Additional voting qualifications
+may be prescribed by law for bond issue elections of political subdivisions. 
+
+[As amended October 14, 1972.]
+
+*** MEND ***
+
+*** MSTART 030 004.0 010.0 0 AK 1959 1972 ***
+
+Section 4. Assembly. The governing body of the organized borough shall be the assembly, and its
+composition shall be established by law or charter. 
+
+[As amended October 14, 1972.]
+
+*** MEND ***
+
+*** MSTART 031 001.0 013.0 0 AK 1959 1974 ***
+
+Section 1. Amendments to this constitution may be proposed by a two-thirds vote of each house
+of the legislature. The lieutenant governor shall prepare a ballot title and proposition
+summarizing each proposed amendment, and shall place them on the ballot for the next general
+election. If a majority of the votes cast on the proposition favor the amendment, it shall be
+adopted. Unless otherwise provided in the amendment, it becomes effective thirty days after the
+certification of the election returns by the lieutenant governor. .0
+
+[As amended October 12, 1974.]
+
+*** MEND ***
+
+*** MSTART 032 009.0 002.0 0 AK 1959 1976 ***
+
+Section 9. Special Sessions. Special sessions may be called by the governor or by vote of
+two-thirds of the legislators. The vote may be conducted by the legislative council or as
+prescribed by law. At special sessions called by the governor, legislation shall be limited to
+subjects designated in his proclamation calling the session, to subjects presented by him, and the
+reconsideration of bills vetoed by him after adjournment of the last regular session. Special
+sessions are limited to thirty days..0
+
+[As amended December 23, 1976.]
+
+*** MEND ***
+
+*** MSTART 033 016.0 002.0 0 AK 1959 1976 ***
+
+Section 16.  Upon receipt of a veto message during a regular session of the legislature, the
+legislature shall meet immediately in joint session and reconsider passage of the vetoed bill or
+item.  Bills to raise revenue and appropriation bills or items, although vetoed, become law by an
+affirmative vote of three-fourths of the membership of the legislature.  Bills vetoed after the
+adjournment of the first regular session of the legislature shall be reconsidered by the legislature
+sitting as one body no later than the fifth day of the next regular or special session of that
+legislature.  Bills vetoed after the adjournment of the second regular session shall be reconsidered
+by the legislature sitting as one body no later than the fifth day of a special session of that
+legislature, if one is called. The vote on reconsideration of a vetoed bill shall be entered on the
+journals of both houses.
+
+[As amended December 23, 1976.]
+
+*** MEND ***
+
+*** MSTART 034 007.0 009.0 0 AK 1959 1977 ***
+
+Section 7. Dedicated Funds. The proceeds of any state tax or license shall not be dedicated to any
+special purpose, except as provided in Section 15 of this article or when required by the federal
+government for state participation in federal programs. This provision shall not prohibit the
+continuance of any dedication for special purposes existing upon the date of ratification of this
+section by the people of Alaska. 
+.0
+[As amended February 21, 1977.]
+
+*** MEND ***.0
+
+*** MSTART 035 015.0 009.0 0 AK 1959 1977 ***
+
+Section 15. Alaska Permanent Fund. At least twenty-five per cent of all mineral lease rentals,
+royalties, royalty sale proceeds, federal mineral revenue sharing payments and bonuses received
+by the State shall be placed in a permanent fund, the principal of which shall be used only for
+those income-producing investments specifically designated by law as eligible for permanent
+fund investments. All income from the permanent fund shall be deposited in the general fund
+unless otherwise provided by law. .0
+
+[As adopted February 21, 1977.]
+
+*** MEND ***.0
+
+*** MSTART 036 010.0 004.0 0 AK 1959 1982 ***
+
+Section 10. Commission on Judicial Conduct. The Commission on Judicial Conduct shall consist
+of nine members, as follows: three persons who are justices or judges of state courts, elected by
+the justices and judges of state courts; three members who have practiced law in this state for ten
+years, appointed by the governor from nominations made by the governing body of the organized
+bar and subject to confirmation by a majority of the members of the legislature in joint session;
+and three persons who are not judges, retired judges, or members of the state bar, appointed by
+the governor and subject to confirmation by a majority of the members of the legislature in joint
+session. In addition to being subject to impeachment under Section 12 of this article, a justice or
+judge may be disqualified from acting as such and may be suspended, removed from office,
+retired, or censured by the supreme court upon the recommendation of the commission. The
+powers and duties of the commission and the bases for judicial disqualification shall be
+established by law. .0
+
+[As amended December 24, 1982.]
+
+*** MEND ***
+
+*** MSTART 037 008.0 009.0 0 AK 1959 1982 ***
+
+Section 8. State Debt. No state debt shall be contracted unless authorized by law for capital
+improvements or unless authorized by law for housing loans for veterans, and ratified by a
+majority of the qualified voters of the State who vote on the question. The State may, as provided
+by law and without ratification, contract debt for the purpose of repelling invasion, suppressing
+insurrection, defending the State in war, meeting natural disasters, or redeeming indebtedness
+outstanding at the time this constitution becomes effective. .0
+
+[As amended December 24, 1982.]
+
+*** MEND ***.0
+
+*** MSTART 038 016.0 009.0 0 AK 1959 1982 ***
+
+Section 16. Appropriation Limit. Except for appropriations for Alaska permanent fund dividends,
+appropriations of revenue bond proceeds, appropriations required to pay the principal and interest
+on general obligation bonds, and appropriations of money received from a nonstate source in
+trust for a specific purpose, including revenues of a public enterprise or public corporation of the
+State that issues revenue bonds, appropriations from the treasury made for a fiscal year shall not
+exceed $2,500,000,000 by more than the cumulative change, derived from federal indices as
+prescribed by law, in population and inflation since July 1, 1981. Within this limit, at least
+one-third shall be reserved for capital projects and loan appropriations. The legislature may
+exceed this limit in bills for appropriations to the Alaska permanent fund and in bills for
+appropriations for capital projects, whether of bond proceeds or otherwise, if each bill is
+approved by the governor, or passed by affirmative vote of three-fourths of the membership of
+the legislature over a veto or item veto, or becomes law without signature, and is also approved
+by the voters as prescribed by law. Each bill for appropriations for capital projects in excess of
+the limit shall be confined to capital projects of the same type, and the voters shall, as provided
+by law, be informed of the cost of operations and maintenance of the capital projects. No other
+appropriation in excess of this limit may be made except to meet a state of disaster declared by
+the governor as prescribed by law. The governor shall cause any unexpended and unappropriated
+balance to be invested so as to yield competitive market rates to the treasury.
+.0
+[Adopted December 24, 1982.]
+
+*** MEND ***
+
+*** MSTART 039 026.0 015.0 0 AK 1959 1982 ***
+
+Section 26. Appropriations for Relocation of the Capital. If a majority of those voting on the
+question at the general election in 1982 approve the ballot proposition for the total cost to the
+State of providing for relocation of the capital, no additional voter approval of appropriations for
+that purpose within the cost approved by the voters is required under the 1982 amendment
+limiting increases in appropriations (art. IX, sec. 16).
+.0
+[As adopted December 24, 1982.]
+
+*** MEND ***.0
+
+*** MSTART 040 027.0 015.0 0 AK 1959 1982 ***
+
+Section 27. Reconsideration of Amendment Limiting Increases in Appropriations. If the 1982
+amendment limiting appropriation increases (art. IX, sec. 16) is adopted, the lieutenant governor
+shall cause the ballot title and proposition for the amendment to be placed on the ballot again at
+the general election in 1986. If the majority of those voting on the proposition in 1986 rejects the
+amendment, it shall be repealed..0
+
+[As adopted December 24, 1982.]
+
+*** MEND ***
+
+*** MSTART 041 028.0 015.0 0 AK 1959 1982 ***
+
+Section 28. Application of Amendment. The 1982 amendment limiting appropriation increases
+(art. IX, sec.16) applies to appropriations made for fiscal year 1984 and thereafter.
+.0
+[As adopted December 24, 1982.]
+
+*** MEND ***.0
+
+*** MSTART 042 008.0 002.0 0 AK 1959 1984 ***
+
+Section 8. Regular Sessions. The legislature shall convene in regular session each year on the
+fourth Monday in January, but the month and day may be changed by law. The legislature shall
+adjourn from regular session no later than one hundred twenty consecutive calendar days from
+the date it convenes except that a regular session may be extended once for up to ten consecutive
+calendar days. An extension of the regular session requires the affirmative vote of at least
+two-thirds of the membership of each house of the legislature. The legislature shall adopt as part
+of the uniform rules of procedure deadlines for scheduling session work not inconsistent with
+provisions controlling the length of the session. 
+.0
+[As amended December 30, 1984.]
+
+*** MEND ***
+
+*** MSTART 043 023.0 001.0 0 AK 1959 1989 ***
+
+Section 23. Resident Preference. This constitution does not prohibit the State from granting
+preferences, on the basis of Alaska residence, to residents of the State over nonresidents to the
+extent permitted by the Constitution of the United States.
+.0
+[Adopted January 4, 1989.]
+
+*** MEND ***
+
+*** MSTART 044 017.0 009.0 0 AK 1959 1991 ***
+
+Section 17. Budget Reserve Fund. (a) There is established as a separate fund in the State treasury
+the budget reserve fund. Except for money deposited into the permanent fund under Section 15
+of this article, all money received by the State after July 1, 1990, as a result of the termination,
+through settlement or otherwise, of an administrative proceeding or of litigation in a State or
+federal court involving mineral lease bonuses, rentals, royalties, royalty sale proceeds, federal
+mineral revenue sharing payments or bonuses, or involving taxes imposed on mineral income,
+production, or property, shall be deposited in the budget reserve fund. Money in the budget
+reserve fund shall be invested so as to yield competitive market rates to the fund. Income of the
+fund shall be retained in the fund. Section 7 of this article does not apply to deposits made to the
+fund under this subsection. Money may be appropriated from the fund only as authorized under
+(b) or (c) of this section.
+
+(b) If the amount available for appropriation for a fiscal year is less than the amount appropriated
+for the previous fiscal year, an appropriation may be made from the budget reserve fund.
+However, the amount appropriated from the fund under this subsection may not exceed the
+amount necessary, when added to other funds available for appropriation, to provide for total
+appropriations equal to the amount of appropriations made in the previous calendar year for the
+previous fiscal year.
+
+(c) An appropriation from the budget reserve fund may be made for any public purpose upon
+affirmative vote of three-fourths of the members of each house of the legislature.
+
+(d) If an appropriation is made from the budget reserve fund, until the amount appropriated is
+repaid, the amount of money in the general fund available for appropriation at the end of each
+succeeding fiscal year shall be deposited in the budget reserve fund. The legislature shall
+implement this subsection by law..0
+
+[Adopted January 2, 1991.]
+
+*** MEND ***
+
+*** MSTART 045 012.0 001.0 0 AK 1959 1994 ***
+
+Section 12. Criminal Administration. Excessive bail shall not be required, nor excessive fines
+imposed, nor cruel and unusual punishments inflicted. Criminal administration shall be based
+upon the following: the need for protecting the public, community condemnation of the offender,
+the rights of victims of crimes, restitution from the offender, and the principle of reformation.0.
+
+[As amended December 30, 1994.]
+
+*** MEND ***
+
+*** MSTART 046 019.0 001.0 0 AK 1959 1994 ***
+
+Section 19. Right to Keep and Bear Arms. A well- regulated militia being necessary to the
+security of a free state, the right of the people to keep and bear arms shall not be infringed. The
+individual right to keep and bear arms shall not be denied or infringed by the State or a political
+subdivision of the State..0
+
+[As amended December 30, 1994.]
+
+*** MEND ***.0
+
+*** MSTART 047 024.0 001.0 0 AK 1959 1994 ***
+
+Section 24. Rights of Crime Victims. Crime victims, as defined by law, shall have the following
+rights as provided by law: the right to be reasonably protected from the accused through the
+imposition of appropriate bail or conditions of release by the court; the right to confer with the
+prosecution; the right to be treated with dignity, respect, and fairness during all phases of the
+criminal and juvenile justice process; the right to timely disposition of the case following the
+arrest of the accused; the right to obtain information about and be allowed to be present at all
+criminal or juvenile proceedings where the accused has the right to be present; the right to be
+allowed to be heard, upon request, at sentencing, before or after conviction or juvenile
+adjudication, and at any proceeding where the accused's release from custody is considered; the
+right to restitution from the accused; and the right to be informed, upon request, of the accused's
+escape or release from custody before or after conviction or juvenile adjudication..0
+
+[Adopted December 30, 1994.]
+
+*** MEND ***.0
+
+*** MSTART 048 014.0 012.0 0 AK 1959 1996 ***
+     
+Section 14. Approval of Federal Amendment to Statehood Act Affecting an Interest of the State
+under That Act. A federal statute or proposed federal statute that affects an interest of this State
+under the Act admitting Alaska to the Union is ineffective as against the State interest unless
+approved by a two-thirds vote of each house of the legislature or approved by the people of the
+State. The legislature may, by a resolution passed by a majority vote of each house, place the
+question of approval of the federal statute on the ballot for the next general election unless in the
+resolution placing the question of approval, the legislature requires the question to be placed
+before the voters at a special election. The approval of the federal statute by the people of the
+State is not effective unless the federal statute described in the resolution is ratified by a majority
+of the qualified voters of the State who vote on the question. Unless a summary of the question is
+provided in the resolution passed by the legislature, the lieutenant governor shall prepare an
+impartial summary of the question. The lieutenant governor shall present the question to the
+voters so that a "yes" vote on the question is a vote to approve the federal statute..0
+
+[As adopted December 27, 1996.]
+
+*** MEND ***.0
+
+*** MSTART 049 025.0 001.0 0 AK 1959 1999 ***
+
+Section 25. Marriage To be valid or recognized in this State, a marriage may exist only between
+one man and one woman.
+.0
+[Adopted January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 050 001.0 006.0 0 AK 1959 1999 ***
+
+Section 1. House Districts. Members of the house of representatives shall be elected by the
+qualified voters of the respective house districts. The boundaries of the house districts shall be set
+under this article following the official reporting of each decennial census of the United States.
+.0
+[As amended January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 051 002.0 006.0 0 AK 1959 1999 ***
+
+Section 2. Senate Districts.  Members of the senate shall be elected by the qualified voters of the
+respective senate districts. The boundaries of the senate districts shall be set under this article
+following the official reporting of each decennial census of the United States..0
+
+[As amended January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 052 003.0 006.0 0 AK 1959 1999 ***
+
+Section 3. Reapportionment of House and Senate. The Redistricting Board shall reapportion the
+house of representatives and the senate immediately following the official reporting of each
+decennial census of the United States. Reapportionment shall be based upon the population
+within each house and senate district as reported by the official decennial census of the United
+States.
+.0
+[As amended January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 053 004.0 006.0 0 AK 1959 1999 ***
+
+Section 4. Method Redistricting. The Redistricting Board shall establish forty house districts,
+with each house district to elect one member of the house of representatives. The board shall
+establish twenty senate districts, each composed of two house districts, with each senate district
+to elect one senator..0
+
+[As amended January 3, 1999.]
+
+*** MEND ***.0
+.0
+*** MSTART 054 005.0 006.0 0 AK 1959 1999 ***
+
+Section 5. Combining Districts. [Repealed by 1998 Ballot measure No. 3 (1998 Legislative
+Resolve 74; 20th Legislature's SCS CSHJR 44 (JUD).]
+.0
+[As amended effective January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 055 006.0 006.0 0 AK 1959 1999 ***
+
+Section 6. District Boundaries. The Redistricting Board shall establish the size and area of house
+districts, subject to the limitations of this article. Each house district shall be formed of
+contiguous and compact territory containing as nearly as practicable a relatively integrated
+socio-economic area. Each shall contain a population as near as practicable to the quotient
+obtained by dividing the population of the state by forty. Each senate district shall be composed
+as near as practicable of two contiguous house districts. Consideration may be given to local
+government boundaries. Drainage and other geographic features shall be used in describing
+boundaries wherever possible..0
+
+[As amended January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 056 007.0 006.0 0 AK 1959 1999 ***
+
+Section 7. Modification of Senate Districts. [Repealed by 1998 Ballot measure No. 3 (1998
+Legislative Resolve 74; 20th Legislature's SCS CSHJR 44 (JUD).].0
+
+[As amended effective January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 057 008.0 006.0 0 AK 1959 1999 ***
+
+Section 8 Redistricting Board. (a) There shall be a redistricting board. It shall consist of five
+members, all of whom shall be residents of the state for at least one year and none of whom may
+be public employees or officials at the time of or during the tenure of appointment. Appointments
+shall be made without regard to political affiliation. Board members shall be compensated. 
+(b) Members of the Redistricting Board shall be appointed in the year in which an official
+decennial census of the United States is taken and by September 1 of that year. The governor
+shall appoint two members of the board. The presiding officer of the senate, the presiding officer
+of the house of representatives, and the chief justice of the supreme court shall each appoint one
+member of the board. The appointments to the board shall be made in the order listed in this
+subsection. At least one board member shall be a resident of each judicial district that existed on
+January 1, 1999. Board members serve until a final plan for redistricting and proclamation of
+redistricting has been adopted and all challenges to it brought under Section 11 of this article
+have been resolved after final remand or affirmation. 
+(c) A person who was a member of the Redistricting Board at any time during the process leading
+to final adoption of a redistricting plan under Section 10 of this article may not be a candidate for
+the legislature in the general election following the adoption of the final redistricting plan. 
+Annotations.0
+
+[As amended January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 058 009.0 006.0 0 AK 1959 1999 ***
+
+Section 9 Board Actions. The board shall elect one of its members chairman and may employ
+temporary assistants. Concurrence of three members of the Redistricting Board is required for
+actions of the Board, but a lesser number may conduct hearings. The board shall employ or
+contract for services of independent legal counsel.
+.0
+[As amended January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 059 010.0 006.0 0 AK 1959 1999 ***
+
+Section 10. Redistricting Plan and Proclamation.  (a) Within thirty days after the official
+reporting of the decennial census of the United States or thirty days after being duly appointed,
+whichever occurs last, the board shall adopt one or more proposed redistricting plans. The board
+shall hold public hearings on the proposed plan, or, if no single proposed plan is agreed on, on all
+plans proposed by the board. No later than ninety days after the board has been appointed and the
+official reporting of the decennial census of the United States, the board shall adopt a final
+redistricting plan and issue a proclamation of redistricting. The final plan shall set out boundaries
+of house and senate districts and shall be effective for the election of members of the legislature
+until after the official reporting of the next decennial census of the United States. 
+(b) Adoption of a final redistricting plan shall require the affirmative votes of three members of
+the Redistricting Board..0
+
+[As amended January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 060 011.0 006.0 0 AK 1959 1999 ***
+
+Section 11.  Enforcement.  Any qualified voter may apply to the superior court to compel the
+Redistricting Board, by mandamus or otherwise, to perform its duties under this article or to
+correct any error in redistricting. Application to compel the board to perform must be filed not
+later than thirty days following the expiration of the ninety-day period specified in this article.
+Application to compel correction of any error in redistricting must be filed within thirty days
+following the adoption of the final redistricting plan and proclamation by the board. Original
+jurisdiction in these matters is vested in the superior court. On appeal from the superior court, the
+cause shall be reviewed by the supreme court on the law and the facts. Notwithstanding Section
+15 of Article IV, all dispositions by the superior court and the supreme court under this section
+shall be expedited and shall have priority over all other matters pending before the respective
+court. Upon a final judicial decision that a plan is invalid, the matter shall be returned to the
+board for correction and development of a new plan. If that new plan is declared invalid, the
+matter may be referred again to the board..0
+
+[As amended January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 061 003.0 011.0 0 AK 1959 1999 ***
+
+Section 3. Petition. After certification of the application, a petition containing a summary of the
+subject matter shall be prepared by the lieutenant governor for circulation by the sponsors. If
+signed by qualified voters, equal in number to ten per cent of those who voted in the preceding
+general election and resident in at least two-thirds of the house districts of the State, it may be
+filed with the lieutenant governor.
+.0
+[As amended January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 062 001.0 014.0 0 AK 1959 1999 ***
+
+Section 1.  Article XIV is repealed by 1998 Ballot Measure No. 3, eff. 1/3/99, (1998 Legislative
+Resolve 74; 20th Legislature's SCS CSHJR 44 (JUD)). A replacement redistricting schedule will
+be adopted by the redistricting board established in Article VI, Section 8, upon completion of the
+2000 census..0
+
+[As amended January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 063 002.0 014.0 0 AK 1959 1999 ***
+
+Section 2.  Article XIV is repealed by 1998 Ballot Measure No. 3, eff. 1/3/99, (1998 Legislative
+Resolve 74; 20th Legislature's SCS CSHJR 44 (JUD)). A replacement redistricting schedule will
+be adopted by the redistricting board established in Article VI, Section 8, upon completion of the
+2000 census..0
+
+[As amended January 3, 1999.]
+
+*** MEND ***
+
+*** MSTART 064 003.0 014.0 0 AK 1959 1999 ***
+
+Section 3.  Article XIV is repealed by 1998 Ballot Measure No. 3, eff. 1/3/99, (1998 Legislative
+Resolve 74; 20th Legislature's SCS CSHJR 44 (JUD)). A replacement redistricting schedule will
+be adopted by the redistricting board established in Article VI, Section 8, upon completion of the
+2000 census..0
+
+[As amended January 3, 1999.]
+
+*** MEND ***.0
+
+*** MSTART 065 029.0 015.0 0 AK 1959 1999 ***
+
+Section 29. Applicability of Amendments Providing for Redistricting of the Legislature. The
+1998 amendments relating to redistricting of the legislature (art. VI and art. XIV) apply only to
+plans for redistricting and proclamations of redistricting adopted on or after January 1, 2001.
+
+[As adopted January 3, 1999.]
+
+*** MEND ***
+*** CEND ***

@@ -1,0 +1,1088 @@
+This constitution was originally done by David Darlington. 
+Mike Peterson and I worked on in the fall of 2002,
+
+Ready to go.  JW.  12/7/02
+
+
+
+
+*** CSTART ME 12/06/1819 1/1/2000 ***
+
+CONSTITUTION OF 1819
+
+*** ASTART 9001.0 ME 1819 ***
+   We, the people of Maine, in order to establish justice, insure tranquillity, provide for our natural
+defence, promote our common welfare, and secure to ourselves and our posterity the blessings of
+liberty, acknowledging, with grateful hearts, the goodness of the Sovereign Ruler of  the Universe in
+affording us an opportunity so favorable to the design, and imploring His aid and direction in its
+accomplishment, do agree to form ourselves into a free and independent State, by the style and title of
+the State of Maine, and do ordain and establish the following constitution for the government of the
+same:
+*** AEND ***
+
+*** ASTART 001.0 ME 1819 ***
+ARTICLE I.
+DECLARATION OF RIGHTS
+
+*** SSTART 001.0 001.0 0 ME 1819 ***
+   SECTION 1. All men are born equally free and independent, and have certain natural inherent,
+and unalienable rights, among which are those of enjoying and defending life and liberty, acquiring,
+possessing, and protecting property, and of pursuing and obtaining safety and happiness.
+*** SEND ***
+
+*** SSTART 002.0 001.0 0 ME 1819 ***
+   SEC. 2. All power is inherent in the people; all free governments are founded in their authority, and
+instituted for their benefit; they have, therefore, an unalienable and indefeasible right to institute
+government, and to alter, reform, or totally change the same, when their safety and happiness require it.
+*** SEND ***
+
+*** SSTART 003.0 001.0 0 ME 1819 ***
+   SEC. 3. All men have a natural and unalienable right to worship Almighty God according to the
+dictates of their own consciences, and no one shall be hurt, molested, or restrained in his person,
+liberty, or estate for worshipping God in the manner and season most agreeable to the dictates of his
+own conscience, nor for his religious professions or sentiments, provided he does not disturb the public
+peace, nor obstruct others in their religious worship; and all persons demeaning themselves peaceably,
+as good members of the State, shall be equally under the protection of the laws, and no subordination
+nor preference of any one sect or denomination to another shall ever be established by law, nor shall
+any religious test be required as a qualification for any office or trust under this State; and all religious
+societies in this State, whether incorporate or unincorporate, shall at all times have the exclusive right of
+electing their public teachers, and contracting with them for their support and maintenance.
+*** SEND ***
+
+*** SSTART 004.0 001.0 0 ME 1819 ***
+   SEC. 4. Every citizen may freely speak, write, and publish his sentiments on any subject, being
+responsible for the abuse of this liberty.  No laws shall be passed regulating or restraining the freedom
+of the press; and, in prosecutions for any publication respecting the official conduct of men in public
+capacity, or the qualifications of those who are candidates for the suffrages of the people, or where the
+matter published is proper for public information, the truth thereof may be given in evidence; and in all
+indictments for libels, the jury, after having received the direction of the court, shall have a right to
+determine, at their discretion, the law and the fact.
+*** SEND ***
+
+*** SSTART 005.0 001.0 0 ME 1819 ***
+   SEC. 5. The people shall be secure in their persons, houses, papers, and possessions from
+unreasonable searches and seizures; and no warrant to search any place, or seize any person or thing,
+shall issue without a special designation of the place to be searched, and the person or thing to be
+seized, nor without probable cause, supported by oath or affirmation.
+*** SEND ***
+
+*** SSTART 006.0 001.0 0 ME 1819 ***
+   SEC. 6. In all criminal prosecutions, the accused shall have a right to be heard by himself and his
+counsel, or either, at his election; to demand the nature and cause of the accusation, and have a copy
+thereof; to be confronted by the witnesses against him; to have compulsory process for obtaining
+witnesses in his favor; to have a speedy, public, and impartial trial; and, except in trials by martial law or
+impeachment, by a jury of the vicinity. He shall not be compelled to furnish or give evidence against
+himself, nor be deprived of his life, liberty, property, or privileges, but by judgment of his peers, or the
+law of the land.
+*** SEND ***
+
+*** SSTART 007.0 001.0 0 ME 1819 ***
+   SEC. 7. No person shall be held to answer for a capital or infamous crime, unless on a
+presentment or indictment of a grand jury, except in cases of impeachment, or in such cases of offences
+as are usually cognizable by a justice of the peace, or in cases; arising in the army or navy, or in the
+militia when in actual service, in time of war or public danger. The legislature shall provide by law a
+suitable and impartial mode of selecting juries; and their usual number and unanimity, in indictments and
+convictions, shall be held indispensable.
+*** SEND ***
+
+*** SSTART 008.0 001.0 0 ME 1819 ***
+   SEC. 8. No person for the same offence shall be twice put in jeopardy of life or limb.
+*** SEND ***
+
+*** SSTART 009.0 001.0 0 ME 1819 ***
+   SEC. 9. Sanguinary laws shall not be passed; all penalties and punishments shall be proportioned
+to the offence; excessive bail shall not be required nor excessive fines imposed, nor cruel nor unusual
+punishments inflicted.
+*** SEND ***
+
+*** SSTART 010.0 001.0 0 ME 1819 ***
+   SEC. 10. All persons, before conviction, shall be bailable except for capital offences, where the
+proof is evident or the presumption great; and the privilege of the writ of habeas corpus shall, not be
+suspended, unless when, in cases of rebellion or invasion, the public safety may require it.
+*** SEND ***
+
+*** SSTART 011.0 001.0 0 ME 1819 ***
+   SEC. 11. The legislature shall pass no bill of attainder, ex post facto law, nor law impairing the
+obligation of contracts, and no attainder shall work corruption of blood nor forfeiture of estate.
+*** SEND ***
+
+*** SSTART 012.0 001.0 0 ME 1819 ***
+   SEC. 12. Treason against this State shall consist only in levying war against it, adhering to its
+enemies, giving them aid and comfort. No person shall be convicted of treason, unless on the testimony
+of two witnesses to the same overt act, or confession in open court.
+*** SEND ***
+
+*** SSTART 013.0 001.0 0 ME 1819 ***
+   SEC. 13. The laws shall not be suspended, but by the legislature or its authority.
+*** SEND ***
+
+*** SSTART 014.0 001.0 0 ME 1819 ***
+   SEC. 14. No person shall be subject to corporal punishment under military law, except such as are
+employed in the army or navy, or in the militia when in actual service, in time of war or public danger.
+*** SEND ***
+
+*** SSTART 015.0 001.0 0 ME 1819 ***
+   SEC. 15. The people have a right, at all times, in an orderly and peaceable manner, to assemble
+and consult upon the common good, to give instructions to their representatives, and to request of either
+department of the government, by petition or remonstrance, redress of their wrongs and grievances.
+*** SEND ***
+
+*** SSTART 016.0 001.0 0 ME 1819 ***
+   SEC. 16. Every citizen has a right to keep and bear arms for the common defence; and this right
+shall never be questioned.
+*** SEND ***
+
+*** SSTART 017.0 001.0 0 ME 1819 ***
+   SEC. 17. No standing army shall be kept up in time of peace, without the consent of the
+legislature; and the miliary, shall, in all cases and at all times, be in strict subordination to the civil power.
+*** SEND ***
+
+*** SSTART 018.0 001.0 0 ME 1819 ***
+   SEC. 18. No soldier shall, in time of peace, be quartered in any house without the consent of the
+owner or occupant, nor in time of war, but in a manner to be prescribed by law.
+*** SEND ***
+
+*** SSTART 019.0 001.0 0 ME 1819 ***
+   SEC. 19. Every person, for an injury done him in his person, reputation, property, or immunities,
+shall have remedy by due course of law; and right and justice shall be administered freely and without
+sale, completely and without denial, promptly and without delay.
+*** SEND ***
+
+*** SSTART 020.0 001.0 0 ME 1819 ***
+   SEC. 20. In all civil suits, and in all controversies concerning property, the parties shall have a right
+to a trial by jury, except in cases where it has heretofore been otherwise practised; the party claiming
+the right may be heard by himself and his counsel, or either, at his election.
+*** SEND ***
+
+*** SSTART 021.0 001.0 0 ME 1819 ***
+   SEC. 21. Private property shall not be taken for public uses without just compensation, nor unless
+the public exigencies require it.
+*** SEND ***
+
+*** SSTART 022.0 001.0 0 ME 1819 ***
+   SEC. 22. No tax or duty shall be imposed without the consent, of the people or their
+representatives in the legislature.
+*** SEND ***
+
+*** SSTART 023.0 001.0 0 ME 1819 ***
+   SEC. 23. No title of nobility or hereditary distinction, privilege, honor, or emolument, shall ever be
+granted or confirmed; nor shall any office be created, the appointment to which shall be for a longer
+time than during good behavior.
+*** SEND ***
+
+*** SSTART 024.0 001.0 0 ME 1819 ***
+   SEC. 24. The enumeration of certain rights shall not impair nor deny others retained by the people.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 002.0 ME 1819 ***
+ARTICLE II.
+Electors.
+*** SSTART 001.0 002.0 0 ME 1819 ***
+   SECTION 1. Every male citizen of the United States of the age of twenty-one years and upwards,
+excepting paupers, persons under guardianship, and Indians not taxed, having his residence established
+in this State for the term of three months next preceding any election, shall be an elector for governor,
+senators, and representatives, in the town or plantation where his residence is so established, and the
+elections shall be by written ballot. But persons in the military, naval, or marine service of the United
+States or this State, shall not be considered as having obtained such established residence by being
+stationed in any garrison, barrack, or military place, in any town or plantation; nor shall the residence of
+a student at any seminary of learning entitle him to the right of suffrage in the town or plantation where
+such seminary is established.
+*** SEND ***
+*** SSTART 002.0 002.0 0 ME 1819 ***
+   SEC. 2. Electors shall in all cases except treason, felony, or breach of the peace, be privileged
+from arrest on the days of election, during their attendance at, going to, and returning therefrom.
+*** SEND ***
+
+*** SSTART 003.0 002.0 0 ME 1819 ***
+   SEC. 3. No elector shall be obliged to do duty in the militia on any day of election, except in time
+of war or public danger.
+*** SEND ***
+
+*** SSTART 004.0 002.0 0 ME 1819 ***
+   SEC. 4. The election of governor, senators, and representatives shall be on the second Monday of
+September, annually, forever.
+*** SEND ***
+*** AEND ***
+
+
+*** ASTART 003.0 ME 1819 ***
+ARTICLE III.
+Distribution of Powers
+*** SSTART 001.0 003.0 0 ME 1819 ***
+   SECTION I. The powers of this government shall be divided into three distinct departments, the
+legislative, executive, and judicial.
+*** SEND ***
+
+*** SSTART 002.0 003.0 0 ME 1819 ***
+   SEC. 2. No person or persons belonging to one of these departments shall exercise any of the
+powers properly belonging to either of the others, except in the cases herein expressly directed or
+permitted.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 004.0 ME 1819 ***
+ARTICLE IV. -- PART FIRST
+Legislative Power -- House of Representatives
+*** SSTART 001.0 004.0 1 ME 1819 ***
+   SECTION 1. The legislative power shall be vested in two distinct branches, a house of
+representatives and a senate, each to have a negative on the other, and both to be styled the legislature
+of Maine; and the style of their acts and laws shall be, "Be it enacted by the senate and house of
+representatives in legislature assembled."
+*** SEND ***
+
+*** SSTART 002.0 004.0 1 ME 1819 ***
+   SEC. 2. The house of representatives shall consist of not less than one hundred nor more than two
+hundred members, to be elected by the qualified electors for one year from the next day preceding the
+annual meeting of the legislature. The legislature which shall first be convened under this constitution,
+shall, on or before the fifteenth day of August, in the year of our Lord one thousand eight hundred and
+twenty-one, and the legislature within every subsequent period of at most ten years, and at least five,
+cause the number of the inhabitants of the State to be ascertained, exclusive of foreigners not
+naturalized, and Indians not taxed. The number of representatives shall, at the several periods of making
+such enumeration, be fixed and apportioned among the several counties, as near as may be, according
+to the number of inhabitants, having regard to the relative increase of population. The number of
+representatives shall, on said first apportionment, be not less than one hundred nor more than one
+hundred and fifty; and whenever the number of representatives shall be two hundred, at the next annual
+meetings of elections, which shall thereafter be had, and at every subsequent period of ten years, the
+people shall give in their votes whether the number of representatives shall be increased or diminished;
+and if a majority of votes are in favor thereof, it shall be the duty of the next legislature thereafter to
+increase or diminish the number by the rule hereinafter prescribed.
+*** SEND ***
+
+*** SSTART 003.0 004.0 1 ME 1819 ***
+   SEC. 3. Each town having fifteen hundred inhabitants may elect one representative; each town
+having three thousand seven hundred and fifty may elect two; each town having six thousand seven hun-
+
+dred and fifty may elect three; each town having ten thousand five hundred may elect four; each town
+having fifteen thousand may elect five; each town having twenty thousand two hundred and fifty may
+elect six; each town having twenty-six thousand two hundred and fifty inhabitants may elect seven; but
+no town shall ever be entitled to more than seven representatives; and towns and plantations, duly
+organized, not having fifteen hundred inhabitants, shall be classed, as conveniently as may be, into
+districts containing that number, and so as not to divide towns; and each such district may elect one
+representative; and when on this apportionment, the number of representatives shall be two hundred, a
+different apportionment shall take place upon the above principle; and, in case the fifteen hundred shall
+be too large or too small to apportion all the representatives to any county, it shall be so increased or
+diminished as to give the number of representatives according to the above rule and proportion; and
+whenever any town or towns, plantation or plantations, not entitled to elect a representative, shall
+determine against a classification with any other town or plantation, the legislature may, at each
+apportionment of representatives, on the application of such town or plantation, authorize it to elect a
+representative for such portion of time, and such periods, as shall be equal to its portion of
+representation, and the right of representation, so established, shall not be altered until the next general
+apportionment.
+*** SEND ***
+
+*** SSTART 004.0 004.0 1 ME 1819 ***
+   SEC. 4. No person shall be a member of the house of representatives unless he shall, at the
+commencement of the period for which he is elected, have been five years a citizen of the United
+States; have arrived at the age of twenty-one years; have been a resident in this State one year, or from
+the adoption of this constitution; and for the three months next preceding the time of his election shall
+have been, and during the period for which he is elected shall continue to be, a resident in the town or
+district which he represents.
+*** SEND ***
+
+*** SSTART 005.0 004.0 1 ME 1819 ***
+   SEC. 5. The meetings for the choice of representatives shall be warned, in due course of law, by
+the selectmen of the several towns, seven days at least before the election; and the selectmen thereof
+shall preside impartially at such meetings, receive the votes of all the qualified electors present, sort,
+count, and declare them, in open town meeting, and in the presence of the town clerk, who shall form a
+list of the persons voted for, with the number of votes for each person against his name, shall make a
+fair record thereof in the presence of the selectmen, and in open town meeting; and a fair copy of this
+list shall be attested by the selectmen and town clerk, and delivered by said selectmen to each
+representative within ten days next after such election. And the towns and plantations, organized by
+law, belonging to any class herein provided shall hold their meetings at the same time in the respective
+towns and plantations; and the town and plantation meetings in such towns and plantations shall be
+notified, held, and regulated, the votes received, sorted, counted, and declared in the same manner.
+And the assessors and clerks of plantations shall have all the powers, and be subject to all the duties,
+which selectmen and town clerks have and are subject to by this constitution. And the selectmen of
+such towns, and the assessors of such plantations so classed, shall, within four days next after such
+meeting, meet at some place, to be prescribed and notified by the selectmen or assessors of the eldest
+town or plantation in such class, and the copies of said lists shall be then examined and compared; and,
+in case any person shall be elected by a majority of all the votes, the selectmen or assessors shall
+deliver the certified copies of such lists to the person so elected, within ten days next after such election,
+and the clerks of towns and plantations, respectively, shall seal up copies of all such lists, and cause
+them to be delivered into the secretary's office twenty days at least before the first Wednesday, in
+January, annually; but, in case no person shall have a majority of votes, the selectmen and assessors
+shall, as soon as may be, notify another meeting, and the same proceedings shall be at every future
+meeting until an election shall have been effected: Provided, That the legislature may, by law, prescribe
+a different mode of returning, examining, and ascertaining the election of the representatives in such
+classes.
+*** SEND ***
+
+*** SSTART 006.0 004.0 1 ME 1819 ***
+   SEC. 6. Whenever the seat of a member shall be vacated, by death, resignation, or otherwise, the
+vacancy may be filled by a new election.
+*** SEND ***
+
+*** SSTART 007.0 004.0 1 ME 1819 ***
+   SEC. 7. The house of representatives shall choose their speaker, clerk, and other officers.
+*** SEND ***
+
+*** SSTART 008.0 004.0 1 ME 1819 ***
+   SEC. 8. The house of representatives shall have the sole power of impeachment.
+*** SEND ***
+
+*** SSTART 001.0 004.0 2 ME 1819 ***
+ARTICLE IV -- PART SECOND.
+Senate.
+   SECTION 1. The senate shall consist of not less than twenty nor more than thirty-one members,
+elected at the same time, and for the same term, as the representatives, by the qualified electors of the
+districts into which the State shall from time to time be divided.
+*** SEND ***
+
+*** SSTART 002.0 004.0 2 ME 1819 ***
+   SEC. 2. The legislature which shall be first convened under this constitution shall, on or before the
+fifteenth day of August, in the year of our Lord one thousand eight hundred and twenty-one, and the
+legislature at every subsequent period of ten years, cause the State to be divided into districts for the
+choice of senators. The districts shall conform, as near as may be, to county lines, and be apportioned
+according to the number of inhabitants. The number of senators shall not exceed twenty at the first
+apportionment, and shall, at each apportionment, be increased until they shall amount to thirty-one,
+according to the increase in the house of representatives.
+*** SEND ***
+
+*** SSTART 003.0 004.0 2 ME 1819 ***
+   SEC. 3. The meetings for the election of senators shall be notified held, and regulated, and the
+votes received, sorted, counted, declared, and recorded, in the same manner as those for
+representatives. And fair copies of the lists of votes shall be attested by the selectmen and town clerks
+of towns, and the assessors and clerks of plantations, and sealed up in open town and plantation
+meetings, and the town and plantation clerks, respectively, shall cause the same to be delivered into the
+secretary's office, thirty days at least before the first Wednesday of January. All other qualified electors,
+living in places unincorpotated, who shall be assessed to the support of government by the assessors of
+an adjacent town, shall have the privilege of voting for senators, representatives, and governor in such
+town, and shall be notified by the selectmen thereof, for the purpose, accordingly.
+*** SEND ***
+
+*** SSTART 004.0 004.0 2 ME 1819 ***
+   SEC. 4. The governor and council shall, as soon as may be, examine returned copies of such list,
+and, twenty days before the said first Wednesday of January, issue a summons to such persons as shall
+appear to be elected by a majority of the votes in each district, to attend that day and take their seats.
+*** SEND ***
+
+*** SSTART 005.0 004.0 2 ME 1819 ***
+   SEC. 5. The senate shall, on the said first Wednesday of January annually, determine who are
+elected by a majority of votes to be senators in each district; and, in case the full number of senators to
+be elected from each district shall not have been so elected, the members of the house of
+representatives, and such senators as shall have been elected, shall, from the highest number of the
+persons voted for, on said lists, equal to twice the number of senators deficient in every district, if there
+be so many voted for, elect, by joint ballot, the number of senators required; and in this manner all
+vacancies in the senate shall be supplied, as soon as may be, after such vacancies happen.
+*** SEND ***
+
+*** SSTART 006.0 004.0 2 ME 1819 ***
+   SEC. 6. The senators shall be twenty-five years of age at the commencement of the term for which
+they are elected, and in all other respects their qualifications shall be the same as those of the
+representatives.
+*** SEND ***
+
+*** SSTART 007.0 004.0 2 ME 1819 ***
+   SEC. 7. The senate shall have the sole power to try all impeachments, and, when sitting for that
+purpose, shall be on oath or affirmation, and no person shall be convicted without the concurrence of
+two-thirds of the members present. Their judgment, however, shall not extend further than to removal
+from office and disqualification to hold or enjoy any office of honor, trust, or profit under this State; but
+the party, whether convicted or acquitted, shall, nevertheless, be liable to indictment, trial, judgment,
+and punishment, according to law.
+*** SEND ***
+
+*** SSTART 008.0 004.0 2 ME 1819 ***
+   SEC. 8. The senate shall choose their president, secretary, and other officers.
+*** SEND ***
+
+*** SSTART 001.0 004.0 3 ME 1819 ***
+ARTICLE IV -- PART THIRD.
+Legislative Powers
+   SECTION 1. The legislature shall convene on the first Wednesday of January annually, and shall
+have full power to make and establish all reasonable laws and regulations for the defence and benefit of
+the people of this State, not repugnant to this constitution nor to that of the United States.
+*** SEND ***
+
+*** SSTART 002.0 004.0 3 ME 1819 ***
+   SEC. 2. Every bill or resolution, having the force of law, to which the concurrence of both houses
+may be necessary, except on a question of adjournment, which shall have passed both houses, shall be
+presented to the governor, and, if he approve, he shall sign it; if not, he shall return it, with his
+objections, to the house in which it shall have originated, which shall enter the objections at large on its
+journals and proceed to reconsider it. If, after such reconsideration, two-thirds of that house shall agree
+to pass it, it shall be sent, together with the objections, to the other house, by which it shall be recon-
+
+sidered, and, if approved by two-thirds of that house, it shall have the same effect as if it had been
+signed by the governor; but, in all such cases, the votes of both houses shall be taken by yeas and nays,
+and the names of the persons voting for and against the bill or resolution shall be entered on the journals
+of both houses, respectively. If the bill or resolution shall not be returned by the governor within five,
+days (Sundays excepted) after it shall have been presented to him, it shall have the same force and
+effect as if he had signed it, unless the legislature, by their adjournment, prevent its return, inwhich case
+it shall have such force and effect, unless returned within three days after their next meeting.
+*** SEND ***
+
+*** SSTART 003.0 004.0 3 ME 1819 ***
+   SEC. 3. Each house shall be the judge of the elections and qualifications of its own members, and
+a majority shall constitute a quorum to do business; but a smaller number may adjourn from day to day,
+and may compel the attendance of absent members, in such manner and under such penalties as each
+house shall provide.
+*** SEND ***
+
+*** SSTART 004.0 004.0 3 ME 1819 ***
+   SEC. 4. Each house may determine the rules of its proceedings, punish its members for disorderly
+behavior, and, with the concurrence of two-thirds, expel a member, but not a second time for the same
+cause.
+*** SEND ***
+
+*** SSTART 005.0 004.0 3 ME 1819 ***
+   SEC. 5. Each house shall keep a journal, and from time to time publish its proceedings, except
+such parts as, in their judgment, may require secrecy; and the yeas and nays of the members of either
+house, on any question, shall, at the desire of one-fifth of those present, be entered on the journals.
+*** SEND ***
+
+*** SSTART 006.0 004.0 3 ME 1819 ***
+   SEC. 6. Each house, during its session, may punish, by imprisonment, any person, not a member,
+for disrespectful or disorderly behavior in its presence, for obstructing any of its proceedings, threat-
+
+ening, assaulting, or abusing any of its members for anything said, done, or doing in either house:
+Provided, That no imprisonment shall extend beyond the period of the same session.
+*** SEND ***
+
+*** SSTART 007.0 004.0 3 ME 1819 ***
+   SEC. 7. The senators and representatives shall receive such compensation as shall be established
+by law, but no law increasing their compensation shall take effect during the existence of the legislature
+which enacted it. The expenses of the members of the house of representatives, in travelling to the
+legislature and returning therefrom, once in each session, and no more, shall be paid by the State, out of
+the public treasury, to every member who shall seasonably attend, in the judgment of the house, and
+does not depart therefrom without leave.
+*** SEND ***
+
+*** SSTART 008.0 004.0 3 ME 1819 ***
+   SEC. 8. The senators and representatives shall, in all cases, except treason, felony, or breach of
+the peace, be privileged from arrest during their attendance at, going to, and returning from each session
+of the legislature, and no member shall be liable for anything spoken in debate in either house in any
+court or place elsewhere.
+*** SEND ***
+
+*** SSTART 009.0 004.0 3 ME 1819 ***
+   SEC. 9. Bills, orders, or resolutions may originate in either house, and may be altered, amended,
+or rejected in the other; but all bills for raising a revenue shall originate in the house of representatives,
+but the senate may propose amendments, as in other cases: Provided, That they shall not, under color
+of amendment introduce any new matter, which does not relate to raising a revenue.
+*** SEND ***
+
+*** SSTART 010.0 004.0 3 ME 1819 ***
+   SEC. 10. No senator or representative shall, during the term for which he shall have been elected,
+be appointed to any civil office of profit under this State, which shall have been created or the emolu-
+
+ments of which increased during such term, except such offices as may be filled by elections by the
+people: Provided, That this prohibition shall not extend to members of the first legislature.
+*** SEND ***
+
+*** SSTART 011.0 004.0 3 ME 1819 ***
+   SEC. 11. No member of Congress, nor person holding any office under the United States, (post-
+officers excepted,) nor office of profit under this State, justices of the peace, notaries public, coroners,
+and officers of the militia excepted, shall have a seat in either house during his being such member of
+Congress or his continuing in such office.
+*** SEND ***
+
+*** SSTART 012.0 004.0 3 ME 1819 ***
+   SEC. 12. Neither house shall, during the session, without the consent of the other, adjourn for
+more than two days, nor to any other place than that in which the houses shall be sitting.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 005.0 ME 1819 ***
+ARTICLE V -- PART FIRST
+Executive Power
+*** SSTART 001.0 005.0 1 ME 1819 ***
+   SECTION 1. The supreme executive power of this State shall be vested in a governor.
+*** SEND ***
+
+*** SSTART 002.0 005.0 1 ME 1819 ***
+   SEC. 2. The governor shall be elected by the qualified electors, and shall hold his office one year,
+from the first Wednesday of January in each year.
+*** SEND ***
+
+*** SSTART 003.0 005.0 1 ME 1819 ***
+   SEC. 3. The meetings for election of governor shall be notified, held, and regulated, and votes shall
+be received, sorted, counted, declared, and recorded in the same manner as those for senators and
+representatives. They shall be sealed and returned into the secretary's office in the same manner and at
+the same time as those for senators. And the secretary of state for the time being shall, on the first
+Wednesday of January then next lay the lists before the senate and house of representatives, to be by
+them examined, and, in case of a choice by a majority of all the votes returned, they shall declare and
+publish the same. But if no person shall have a majority of votes, the house of representatives shall, by
+ballot, from the persons having the four highest numbers of votes on the list, if so many there be, elect
+two persons, and make return of their names to the senate, of whom the senate shall, by ballot, elect
+one, who shall be declared the governor.
+*** SEND ***
+
+*** SSTART 004.0 005.0 1 ME 1819 ***
+   SEC. 4. The governor shall, at the commencement of his term be not less than thirty years of age, a
+natural-born citizen of the United States, have been five years, or from the adoption of this constitution,
+a resident of the State and, at the time of his election, and during the term for which he is elected, be a
+resident of said State.
+*** SEND ***
+
+*** SSTART 005.0 005.0 1 ME 1819 ***
+   SEC. 5. No person holding any office or place under the United States, this State, or any other
+power, shall exercise the office of governor.
+*** SEND ***
+
+*** SSTART 006.0 005.0 1 ME 1819 ***
+   SEC. 6. The governor shall, at stated times, receive for his services a compensation, which shall
+not be increased or diminished during his continuance in office.
+*** SEND ***
+
+*** SSTART 007.0 005.0 1 ME 1819 ***
+   SEC. 7. He shall be commander-in-chief of the army and navy of the State, and of the militia,
+except when called into the actual service of the United States; but he shall not march nor convey any
+of the citizens out of the State without their consent, or that of the legislature, unless it shall become
+necessary, in order to march or transport them from one part of the State to another, for the defence
+thereof.
+*** SEND ***
+
+*** SSTART 008.0 005.0 1 ME 1819 ***
+   SEC. 8. He shall nominate and, with the advice and consent of the council, appoint all judicial
+officers, the attorney-general, the sheriff, coroners, registers of probate, and notaries public, and he
+shall also nominate and, with the advice and consent of the council, appoint all other civil and military
+officers whose appointment is not, by this constitution, or shall not by law be otherwise provided for;
+and every such nomination shall be made seven days at least prior to such appointment.
+*** SEND ***
+
+*** SSTART 009.0 005.0 1 ME 1819 ***
+   SEC. 9. He shall, from time to time, give the legislature information of the condition of the State,
+and recommend to their consideration such measures as he may Judge expedient.
+*** SEND ***
+
+*** SSTART 010.0 005.0 1 ME 1819 ***
+   SEC. 10. He may require information from any military officer, or any officer in the executive
+department, upon any subject relating to the duties of their respective offices.
+*** SEND ***
+
+*** SSTART 011.0 005.0 1 ME 1819 ***
+   SEC. 11. He shall have power, with the advice and consent of the council, to remit, after
+conviction, all forfeitures and penalties, and grant reprieves and pardons, except in cases of
+impeachment.
+*** SEND ***
+
+*** SSTART 012.0 005.0 1 ME 1819 ***
+   SEC. 12. He shall take care that the laws be faithfully executed.
+*** SEND ***
+
+*** SSTART 013.0 005.0 1 ME 1819 ***
+   SEC. 13. He may, on extraordinary occasions, convene the legislature; and, in case of
+disagreement between the two houses with respect to the time of adjournment, adjourn them to such
+time as he shall think proper, not beyond the day of the next annual meeting; and if, since their last
+adjournment, the place where the legislature were next to convene shall have become dangerous from
+an enemy or contagious sickness, may direct the session to be held at some other convenient place
+within the State.
+*** SEND ***
+
+*** SSTART 014.0 005.0 1 ME 1819 ***
+   SEC. 14. Whenever the office of governor shall become vacant by death, resignation, removal
+from office, or otherwise, the president of the senate shall exercise the office of governor until another
+governor shall be duly qualified; and, in case of the death, resignation, removal from office, or other
+disqualification of the president of the Senate, so exercising the office of governor, the speaker of the
+house of representatives shall exercise the office until a president of the senate shall have been chosen;
+and when the office of governor, president of the senate, and speaker of the house shall become
+vacant, in the recess of the senate, the person acting as secretary of state for the time being shall, by
+proclamation, convene the senate, that a president may be chosen to exercise the office of governor.
+And whenever either the president of the senate or speaker of the house shall so exercise said office, he
+shall receive only the compensation of governor, but his duties as president or speaker shall be
+suspended; and the senate or house shall fill the vacancy until his duties as governor shall cease.
+*** SEND ***
+
+*** SSTART 001.0 005.0 2 ME 1819 ***
+ARTICLE V. -- PART SECOND
+Council.
+   SECTION 1. There shall be a council, to consist of seven persons, citizens of the United States
+and residents of this State, to advise the governor in the executive part of the government, whom the
+governor shall have full power, at his discretion, to assemble; and he, with the councillors, or a majority
+of them, may, from time to time, hold and keep a council, for ordering and directing the affairs of state
+according to law.
+*** SEND ***
+
+*** SSTART 002.0 005.0 2 ME 1819 ***
+   SEC. 2. The councillors shall be chosen annually on the first Wednesday of January, by joint ballot
+of the senators and representatives in convention; and vacancies which shall afterwards happen shall be
+filled in the same manner; but not more than one councillor shall be elected from any district prescribed
+for the election of senators; and they shall be privileged from arrest in the same manner as senators and
+representatives.
+*** SEND ***
+
+*** SSTART 003.0 005.0 2 ME 1819 ***
+   SEC. 3. The resolutions and advice of council shall be recorded in a register, and signed by the
+members agreeing thereto, which may be called for by either house of the legislature; and any councillor
+may enter his dissent to the resolution of the majority.
+*** SEND ***
+
+*** SSTART 004.0 005.0 2 ME 1819 ***
+   SEC. 4. No member of Congress or of the legislature of this State, nor any person holding any
+office under the United States, (post-officers excepted,) nor any civil officers under this State, (justices
+of the peace and notaries public excepted,) shall be councillors. And no councillor shall be appointed to
+any office during the time for which he shall have been elected.
+*** SEND ***
+
+*** SSTART 001.0 005.0 3 ME 1819 ***
+ARTICLE V. -- PART THIRD.
+Secretary.
+   SECTION 1. The secretary of state shall be chosen annually at the first session of the legislature,
+by joint ballot of the senators and representatives in convention.
+*** SEND ***
+
+*** SSTART 002.0 005.0 3 ME 1819 ***
+   SEC. 2. The records of the State shall be kept in the office of the secretary, who may appoint his
+deputies, for whose conduct he shall be accountable.
+*** SEND ***
+
+*** SSTART 003.0 005.0 3 ME 1819 ***
+   SEC. 3. He shall attend the governor and council, senate and house of representatives, in person
+or by his deputies, as they shall respectively require.
+*** SEND ***
+
+*** SSTART 004.0 005.0 3 ME 1819 ***
+   SEC. 4. He shall carefully keep and preserve the records of all the official acts and proceedings of
+the governor and council, senate and house of representatives, and, when required, lay the same before
+either branch of the legislature, and perform such other duties as are enjoined by this constitution, or
+shall be required by law.
+*** SEND ***
+
+*** SSTART 001.0 005.0 4 ME 1819 ***
+ARTICLE V. -- PART FOURTH.
+Treasurer.
+   SECTION 1. The treasurer shall be chosen annually at the first session of the legislature, by joint
+ballot of the senators and representatives in convention, but shall not be eligible more than five years
+successively.
+*** SEND ***
+
+*** SSTART 002.0 005.0 4 ME 1819 ***
+   SEC. 2. The treasurer shall, before entering on the duties of his office, give bond to the State, with
+sureties, to the satisfaction of the legislature, for the faithful discharge of his trust.
+*** SEND ***
+
+*** SSTART 003.0 005.0 4 ME 1819 ***
+   SEC. 3. The treasurer shall not, during his continuance in office, engage in any business of trade or
+commerce, or as a broker, nor as an agent or factor for any merchant or trader.
+*** SEND ***
+
+*** SSTART 004.0 005.0 4 ME 1819 ***
+   SEC. 4. No money shall be drawn from the treasury but by warrant from the governor and
+council, and in consequence of appropriations made by law; and a regular statement and account of the
+receipts and expenditures of all public money shall be published at the commencement of the annual
+session of the legislature.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 006.0 ME 1819 ***
+ARTICLE VI.
+Judicial Power
+
+*** SSTART 001.0 006.0 0 ME 1819 ***
+   SECTION 1. The judicial power of this State shall be vested in a supreme judicial court, and such
+other courts as the legislature shall, from time to time, establish.
+*** SEND ***
+
+*** SSTART 002.0 006.0 0 ME 1819 ***
+   SEC. 2. The justices of the supreme judicial court shall, at stated times, receive a compensation,
+which shall not be diminished during their continuance in office, but they shall receive no other fee or
+reward.
+*** SEND ***
+
+*** SSTART 003.0 006.0 0 ME 1819 ***
+   SEC. 3. They shall be obliged to give their opinion upon important questions of law, and upon
+solemn occasions, when required by the governor, council, senate, or house of representatives.
+*** SEND ***
+
+*** SSTART 004.0 006.0 0 ME 1819 ***
+   SEC. 4. All judicial officers, except justices of the peace, shall hold their offices during good
+behavior, but not beyond the age of seventy years.
+*** SEND ***
+
+*** SSTART 005.0 006.0 0 ME 1819 ***
+   SEC. 5. Justices of the peace and notaries public shall hold their offices during seven years, if they
+so long behave themselves well, at the expiration of which term they may be re-appointed, or others
+appointed as the public interest may require.
+*** SEND ***
+
+*** SSTART 006.0 006.0 0 ME 1819 ***
+   SEC. 6. The justices of the supreme judicial court shall hold no office under the United States, nor
+any State, nor any other office under this State, except that of justice of the peace.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 007.0 ME 1819 ***
+ARTICLE VII.
+
+Military.
+
+*** SSTART 001.0 007.0 0 ME 1819 ***
+   SECTION 1. The captains and subalterns of the militia shall be elected by the written votes of the
+members of their respective companies; the field-officers of regiments by the written votes of the cap-
+
+tains and subalterns of their respective regiments; the brigadier generals, in like manner, by the field-
+officers of their respective brigades.
+*** SEND ***
+
+*** SSTART 002.0 007.0 0 ME 1819 ***
+   SEC. 2. The legislature shall, by law, direct the manner of notifying the electors, conducting the
+elections, and making the returns to the governor of the officers elected; and if the electors shall neglect
+or refuse to make such elections, after being duly notified according to law, the governor shall appoint
+suitable persons to fill such offices.
+*** SEND ***
+
+*** SSTART 003.0 007.0 0 ME 1819 ***
+   SEC. 3. The major-general shall be elected by the senate and house of representatives, each
+having a negative on the other. The adjutant-general and quartermaster-general shall be appointed by
+the governor and council; but the adjutant-general shall perform the duties of quartermaster-general until
+otherwise directed by law. The major-generals and brigadier-generals and the commanding officers of
+regiments and battalions shall appoint their respective staff-officers; and all military officers shall be
+commissioned by the governor.
+*** SEND ***
+
+*** SSTART 004.0 007.0 0 ME 1819 ***
+   SEC. 4. The militia, as divided into divisions, brigades, regiments, battalions, and companies,
+pursuant to the laws now in force, shall remain so organized until the same shall be altered by the
+legislature.
+*** SEND ***
+
+*** SSTART 005.0 007.0 0 ME 1819 ***
+   SEC. 5. Persons of the denomination of Quakers and Shakers, justices of the supreme judicial
+court, and ministers of the gospel, may be exempted from military duty; but no other person, of the age
+of eighteen and under the age of forty-five years, excepting officers of the militia who have been
+honorably discharged, shall be so exempted, unless he shall pay an equivalent, to be fixed by law.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 008.0 ME 1819 ***
+ARTICLE VIII.
+Literature.
+
+*** SSTART 001.0 008.0 0 ME 1819 ***
+   A general diffusion of the advantages of education being essential to the preservation of the rights
+and liberties of the people, to promote this important object, the legislature are authorized, and it shall
+be their duty, to require the several towns to make suitable provision, at their own expense, for the
+support and maintenance of public schools, and it shall further be their duty to encourage and suitably
+endow, from time to time, as the circumstances of the people may authorize, all academies, colleges,
+and seminaries of learning within the State: Provided, That no donation, grant, or endowment shall at
+any time be made by the legislature to any literary institution now established, or which may hereafter be
+established unless, at the time of making such endowment, the legislature of the State shall have the right
+to grant any further powers to alter, limit, or restrain an of the powers vested in any such literary
+institution as shall be judged necessary to promote the best interests thereof.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 009.0 ME 1819 ***
+ARTICLE IX.
+General Provisions.
+
+*** SSTART 001.0 009.0 0 ME 1819 ***
+   SECTION 1. Every person elected or appointed to either of the places or offices provided in this
+constitution and every person elected, appointed, or commissioned to any judicial, executive, military,
+or other office under this State, shall, before he enter on the discharge of the duties of his place or
+office, take and subscribe the following oath or affirmation: "I, _______ _________, do swear that I
+will support the Constitution of the United States and of this State, so long as I shall continue a citizen
+thereof: So help me God." "I ______ ______, do swear that I will faithfully discharge, to the best of my
+abilities, the duties incumbent on me as _________ __________, according to the constitution and the
+laws of the State: So help me God." Provided, That an affirmation in the above forms may be
+substituted, when the persons shall be conscientiously scrupulous of taking and subscribing an oath.
+   The oaths or affirmations shall be taken and subscribed by the governor and councillors before the
+presiding officer of the senate, in the presence of both houses of the legislature, and by the senators and
+representatives before the governor and council, and by the residue of said officers before such person
+as shall be prescribed by the legislature; and whenever the governor or any councillor shall not be able
+to attend, during the session of the legislature, to take and subscribe said. oaths or affirmations, such
+oaths or affirmations may be taken and subscribed, in the recess of the legislature, before any justice of
+the supreme judicial court: Provided, That the senators and representatives first elected under this
+constitution shall take and subscribe such oaths or affirmations before the president of the convention.
+*** SEND ***
+
+*** SSTART 002.0 009.0 0 ME 1819 ***
+   SEC. 2. No person holding the office of justice of the supreme judicial court or of any inferior
+court, attorney- general, county attorney, treasurer of the State, adjutant-general, judge of probate,
+register of probate, register of deeds, sheriffs or their deputies, clerks lie judicial courts, shall be a
+member of the legislature; and any person holding either of the foregoing offices, elected to and accept-
+
+ing a seat in the Congress of the United States, shall thereby vacate said office; and no person shall be
+capable of holding or exercising at the same time, within this State, more than one of the offices before
+mentioned.
+*** SEND ***
+
+*** SSTART 003.0 009.0 0 ME 1819 ***
+   SEC. 3. All commissions shall be in the name of the State, signed by the governor, attested by the
+secretary or his deputy, and have the seal of the State thereto affixed.
+*** SEND ***
+
+*** SSTART 004.0 009.0 0 ME 1819 ***
+   SEC. 4. And in case the elections required by this constitution on the first Wednesday of January,
+annually, by the two houses of the legislature, shall not be completed on that day, the same may be
+adjourned from day to day until completed, in the following order: The vacancies in the senate shall first
+be filled; the governor shall then be elected, if there be no choice by the people; and afterwards the two
+houses shall elect the council.
+*** SEND ***
+
+*** SSTART 005.0 009.0 0 ME 1819 ***
+   SEC. 5. Every person holding any civil office under this State may be removed by impeachment,
+for misdemeanor in office; and every person holding any office may be removed by the governor, with
+the advice of the Council, on the address of both branches of the legislature. But, before such address
+shall pass either house, the causes of removal shall be stated and entered on the journal of the house in
+which it originated, and a copy thereof served on the person in office, that he may be admitted to a
+hearing in his defence.
+*** SEND ***
+
+*** SSTART 006.0 009.0 0 ME 1819 ***
+   SEC. 6. The tenure of all offices, which are not or shall not be otherwise provided for, shall be
+during the. pleasure of the governor and council.
+*** SEND ***
+
+*** SSTART 007.0 009.0 0 ME 1819 ***
+   SEC. 7. While the public expenses shall be assessed on polls and estates, a general valuation shall
+be taken at least once in ten years.
+*** SEND ***
+
+*** SSTART 008.0 009.0 0 ME 1819 ***
+   SEC. 8. All taxes upon real estate, assessed by authority of this State, shall be apportioned and
+assessed equally, according to the just value thereof.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 010.0 ME 1819 ***
+ARTICLE X.
+Schedule.
+
+*** SSTART 001.0 010.0 0 ME 1819 ***
+   SECTION 1.The first legislature shall meet on the last Wednesday in May next. The elections on
+the second Monday in September, annually, shall not commence until the year one thousand eight
+hundred and twenty-one, and, in the mean time, the election for governor, senators, and representatives
+shall be on the first Monday in April, in the year of our Lord one thousand eight hundred and twenty;
+and at this election the same proceedings shall be had as are required at the elections provided for in
+this constitution, on the second Monday in September, annually, and the lists of the votes for the
+governor and senators shall be transmitted by the town and plantation clerks, respectively, to the
+secretary of state pro tempore, seventeen days at least before the last Wednesday in May next; and the
+president of the convention shall in presence of the secretary of state pro tempore open and examine
+the attested copies of said lists, so returned for senators, and shall have all the powers and be subject to
+all the duties in ascertaining, notifying, and summoning the senators who appear, to be elected, as the
+governor and council have, and are subject to, by this constitution: Provided, He shall notify said
+senators fourteen days at least before the last Wednesday in May, and vacancies shall be ascertained
+and filled in the manner herein provided; and the senators to be elected on the said first Monday of
+April shall be apportioned as follows:
+   The county of York shall elect three; the county of Cumberland shall elect three; the county of
+Lincoln shall elect three; the county of Hancock shall elect two; the county of Washington shall elect
+one; the county of Kennebec shall elect three; the county of Oxford shall elect two; the county of
+Somerset shall elect two; the county of Penobscot shall elect one.
+   And the members of the house of representatives shall be elected, ascertained, and returned in the
+same manner as herein provided at elections on the second Monday of September; and the first house
+of representatives shall consist of the following number, to be elected as follows:
+   County of York.--The towns of York and Wells may each elect two representatives, and each of
+the remaining towns may elect one.
+   County of Cumberland--The town of Portland may elect three representatives; North Yarmouth,
+two; Brunswick, two; Gorham, two; Freeport and Pownal, two; Raymond and Otisfield, one;
+Bridgeton, Baldwin, and Harrison, one; Poland and Danville, one; and each remaining town, one.
+   County of Lincoln.--The towns of Georgetown and Phippsburgh may elect one representative;
+Lewiston and Wales, one; Saint George, Cushing and Friendship, one; Hope and Appleton Ridge one;
+Jefferson, Putnam, and Patricktown Plantation one; Alba and Whitefield, one; Montville, Palermo, and
+Montville Plantation, one; Woolwich and Dresden, one; and each remaining town, one.
+   County of Hancock.--The town of Bucksport may elect one representative; Deer Island, one;
+Castine and Brooksville, one; Orland and Penobscot, one; Mount Desert and Eden one; Vinalhaven
+and Isleborough, one; Sedgwick and Blue Hill, one; Gouldsborough, Sullivan, and Plantations Nos. 8
+and 9, north of Sullivan, one; Surry, Ellsworth, Trenton, and Plantation of Mariaville, one; Lincolnville,
+Searsmont, and  Belmont, one; Belfast and Northport, one; Prospect and Swanville, one; Frankfort and
+Monroe, one; Knox, Brooks, Jackson, and Thorndike, one.
+   County of Washington.--The towns of Steuben, Cherryfield, and Harrington may elect one
+representative; Addison Columbia, and Jonesborough, one; Machias, one; Lubec, Dennysville,
+Plantations No. 9, No. 10, No. 11, No. 12, one; Eastport, one; Perry, Robinson, Calais, Plantations
+No. 3, No. 6, No. 7, No. 15, and No., 16, one.
+   County of Kennebec.--The towns of Belgrade and Dearborn may elect one representative;
+Chesterville, Vienna, and Rome, one; Wayne and Fayette, one; Temple and Wilton, one; Winslow and
+China one; Fairfax and Freedom, one; Unity, Joy, and Twenty-five Mile Pond Plantation, one; Harlem
+and Malta, one; and each remaining town, one.
+   County of Oxford.--The towns of Dixfield, Mexico, Weld, and Plantations Nos. 1 and 4, may
+elect one representative; Jay and Hartford, one; Livermore, one; Rumford, East Andover, and Planta-
+
+tions Nos. 7 and 8, one; Turner, one; Woodstock, Paris, and Greenwood, one; Hebron and Norway,
+one; Gilead, Bethel, Newry, Albany, and Howard's Gore, one; Porter, Hiram, and Brownfield, one;
+Waterford, Sweden, and Lovell, one; Denmark, Fryeburgh, and Fryeburgh Addition, one; Buckfield
+and Sumner, one.
+   County of Somerset.-- The town of Fairfield may elect one representative; Norridgwock and
+Bloomfield, one; Starks and Mercer, one; Industry, Strong, and New Vineyard, one; Avon, Phillips,
+Freeman, and Kingfield, one; Anson, New Portland, Embden, and Plantation No. 1, one; Canaan,
+Warsaw, Palmyra, Saint Albans, and Corinna, one; Madison, Solon, Bingham, Moscow, and Northhill,
+one; Cornville, Athens, Harmony, Ripley, and Warrenstown, one.
+   County of Penobscot.- The towns of Hampden and Newburgh may elect one representative;
+Orrington, Brewer, and Eddington, and plantations adjacent, on the east side of Penobscot River, one;
+Bangor, Orono, and Sunkhaze Plantation, one; Dixmont, Newport, Carmel, Harmon, Stetson, and
+Plantation No. 4, in the 6th range, one; Levant, Corinth, Exeter, New Charleston, Blakesburgh, Planta-
+
+tion No. 1, in 3d range, and Plantation No. 1, in 4th range, one; Dexter, Garland, Guilford, Sangerville,
+and Plantation No. 3, in 6th range, one; Atkinson, Sebec, Foxcroft, Brownville, Williamsburgh,
+Plantation No. 1, in 7th range, and Plantation No. 3, in 7th range, one.
+   And the secretary of state pro tempore shall have the same powers and be subject to the same
+duties, in relation to the votes for governor, as the secretary of state has and is subject to by this
+constitution; and the election of governor shall, on the said last Wednesday in May, be determined and
+declared in the same manner as other elections of governor are by this constitution; and, in case of
+vacancy in said office, the president of the senate and the speaker of the house of representatives shall
+exercise the office as herein otherwise provided, and the councillors, secretary, and treasurer shall also
+be elected on the said day, and have the same powers, and be subject to the same duties, as is
+provided in this constitution; and in case of the death or other disqualification of the president of the
+convention, or of the secretary of state pro tempore, before the election and qualification of the
+governor or secretary of state under this constitution, the persons to be designated by this convention,
+at their session in January next, shall have all the powers and perform all the duties which the president
+of this convention, or the secretary pro tempore, to be by them appointed, shall have and perform.
+*** SEND ***
+
+*** SSTART 002.0 010.0 0 ME 1819 ***
+   SEC. 2. The period for which the governors, senators and representatives, councillors, secretary,
+and treasurer, first elected or appointed, are to serve in their respective offices and places shall
+commence on the last Wednesday in May, in the year of our Lord one thousand eight hundred and
+twenty, and continue until the first Wednesday of January, in the year of our Lord one thousand eight
+hundred and twenty-two.  
+*** SEND ***
+
+*** SSTART 003.0 010.0 0 ME 1819 ***
+   SEC. 3. All laws now in force in this State, and not repugnant to this constitution shall remain and
+be in force until altered or repealed by the legislature or shall expire by their own limitation.
+*** SEND ***
+
+*** SSTART 004.0 010.0 0 ME 1819 ***
+   SEC. 4. The legislature, whenever two-thirds of both houses shall deem it necessary, may propose
+amendments to this Constitution; and when any amendment shall be so agreed upon a resolution shall
+be passed and sent to the selectmen of the several towns and the assessors of the several plantations,
+empowering and directing them to notify the inhabitants of their respective towns and plantations, in the
+manner prescribed by law, at their next annual meetings in the month of September, to give in their
+votes on the question whether such amendment shall be made; and if it shall appear that a majority of
+the inhabitants voting on the question are in favor of such amendment, it shall become a part of this
+constitution.
+*** SEND ***
+
+*** SSTART 005.0 010.0 0 ME 1819 ***
+   SEC. 5. All officers provided for in the sixth section of an act of the commonwealth of
+Massachusetts, passed on the 19th day of June, in the year Of Our Lord one thousand eight hundred
+and nineteen, entitled "An act relating to the separation of the District of Maine from Massachusetts
+proper, and forming the same into a separate and independent State," shall continue in office, as therein
+provided; and the following provisions of said act shall be a part of this constitution; subject, however,
+to be modified or annulled, as therein is prescribed, and not otherwise, to wit:
+   "SECTION 1. Whereas it has been represented to this legislature that a majority of the people of
+the District of Maine are desirous of establishing a separate and independent government within said
+District: Therefore,
+   "Be it enacted by the senate and house of representatives in general court assembled, and by
+the authority of the same, That the consent of this commonwealth be, and the same is hereby, given
+that the District of Maine may be formed and erected into a separate and independent State, if the
+people of the said District shall, in the manner and by the majority hereinafter mentioned, express their
+consent and agreement thereto, upon the following terms and conditions, and provided the Congress of
+the United States shall give its consent the fourth day of March next; which terms and conditions are as
+follows, viz:
+   "First. All the lands and buildings belonging to the commonwealth, within Massachusetts proper,
+shall continue to belong to said commonwealth; and all the lands belonging to the commonwealth within
+the District of Maine shall belong, the one-half thereof to the said commonwealth, and the other half
+thereof to the State to be formed within the said District, to be divided as is hereinafter mentioned; and
+the lands within the said District which shall belong to the said commonwealth shall be free from
+taxation, while the title of said lands remains in the commonwealth; and the right of the commonwealth
+to their lands within said District and the remedies for the recovery thereof, shall continue the same
+within the proposed State, and in the courts thereof, as they now are within the said commonwealth,
+and in the courts thereof; for which purposes, and for the maintenance of its rights and recovery of its
+lands, the said commonwealth shall be entitled to all other proper and legal remedies, and may appear
+in the courts of the proposed State, and in the courts of the United States holden therein; and all rights
+of action for, or entry into lands, and of action upon bonds, for the breach of the performance of the
+condition of settling duties, so called, which, have accrued, or may accrue, shall remain in this
+commonwealth, to be enforced, commuted, released, or otherwise disposed of, in such manner as this
+commonwealth may hereafter determine: Provided however, That whatever this commonwealth may
+hereafter receive or obtain on account thereof, if anything, shall, after deducting all reasonable charges
+relating thereto, be divided, one third part thereof to the new State, and two third parts thereof to this
+commonwealth.
+   "Second. All the arms which have been received by this commonwealth from the United States,
+under the law of Congress entitled, 'An act making provision for arming and equipping the whole body
+of militia of the United States," passed April the twenty-third, one thousand eight hundred and eight,
+shall, as soon as the said District shall become a separate State, be divided between the two States, in
+proportion to the returns of the militia, according to which the said arms have been received from the
+United States as aforesaid.
+   "Third. All money, stock, or other proceeds, hereafter derived from the United States, on account
+of the claim of this commonwealth for disbursements made and expenses incurred for the defence of the
+State during the late war with Great Britain, shall be received by this commonwealth; and, when
+received, shall be divided between the two States, in the proportion of two-thirds to this commonwealth
+and one-third to the new State.
+   "Fourth.  All other property, of every description, belonging to the common wealth, shall be
+holden and receivable by the same, as a fund and security for all debts, annuities, and Indian subsidies
+or claims, due by said commonwealth; and within two years after the said District shall have become a
+separate State, the commissioners to be appointed, as hereinafter provided, if the said States cannot
+otherwise agree, shall assign a just portion of the productive property so held by said commonwealth,
+as an equivalent and indemnification to said commonwealth for all such debts, annuities, or Indian sub-
+
+sidies, or claims, which may then remain due or unsatisfied; and all the surplus of the said property, so
+holden as aforesaid, shall be divided between the said commonwealth and the said District of Maine, in
+the proportion of two-thirds to the said commonwealth and one-third to the said District; and if in the
+judgment of the said commissioners the whole of aid property, so held as a fund and security, shall not
+be sufficient indemnification for the purpose, the said District shall be liable for and shall pay to said
+commonwealth one-third of the deficiency.
+   "Fifth. The new State shall, as soon as the necessary arrangements can be made for that purpose,
+assume and perform all the duties and obligations of this commonwealth towards the Indians within said
+District of Maine, whether the same arise from treaties or otherwise; and for this purpose shall obtain
+the assent of said Indians, and their release to this commonwealth of claims and stipulations arising
+under the treaty at present existing between the said commonwealth and said Indians; and, as
+indemnification to such new State therefor, this commonwealth, when such arrangements shall be com-
+
+pleted, and the said duties and obligations assumed, shall pay to said new State the value of thirty
+thousand dollars in manner following, viz: The said commissioners shall set off, by metes and bounds, so
+much of ally part of the land within the said District falling to this commonwealth, in the division of the
+public lands hereinafter provided for, as in their estimation shall be of the value of thirty thousand
+dollars; and this commonwealth shall, thereupon, assign the same to the said new State, or in lieu
+thereof may pay the sum of thirty thousand dollars, at its election; which election of the said
+commonwealth shall be made within one year from the time that notice of the doings of the
+commissioners on this subject shall be made known to the governor and council, and if not made within
+that time, the election shall be with the new State.
+   "Sixth. Commissioners, with the powers and for the purposes mentioned in this act, shall be
+appointed in manner following: The executive authority of each State shall appoint two, and the four so
+appointed, or the major part of them, shall appoint two more; but if they cannot agree in the
+appointment, the executive of each State shall appoint one in addition; not, however, in that case, to be
+a citizen of its own State. And any vacancy happening with respect to the commissioners shall be
+supplied in the manner provided for their original appointment; and, in addition to the powers herein-
+
+before given to said commissioners, they shall have full power and authority to divide all the public lands
+within the District between the respective States in equal shares or moieties, in severalty, having regard
+to quantity, situation, and quality; they shall determine what lands shall be surveyed and divided, from
+time to time, the expenses of which surveys and of the commissioners shall be borne equally by the two
+States. They shall keep fair records of their doings, and of the surveys made by their direction, copies
+of which records, authenticated by them, shall be deposited, from time to time, in the archives of the
+respective States, transcripts of which, properly certified, may be admitted in evidence in all questions
+touching the subject to which they relate. The executive authority of each State may revoke the power
+of either or both its commissioners, having, however, first appointed. a substitute or substitutes, and
+may fill any vacancy happening with respect to its own commissioners; four of said commissioners shall
+constitute a quorum for the transaction of business; their decision shall be final upon subjects within their
+cognizance. In case said commission shall expire, the same not having been completed, and either State
+shall request the renewal or filling up of the same it shall be renewed or filled up in the same manner as
+is provided for filling the Same in the first instance, and with the like powers; and if either State shall,
+after six months notice neglect or refuse to appoint its commissioners, the other may fill up the whole
+commission.
+   "Seventh. All grants of lands, franchises, immunities, corporate or other rights, and all contracts
+for or grants of lands not yet located which have been or may be made by the said commonwealth
+before the separation of said District shall take place, and having or to have effect within the said
+District, shall continue in full force after the said District shall become a separate State. But the grant
+which has been made to the president and trustees of Bowdoin College out of the tax laid upon the
+banks within this commonwealth shall be charged upon the tax upon the banks within the said District of
+Maine, and paid according to the terms of said grant; and the president and trustees and the overseers
+of said college shall have, hold, and enjoy their powers and privileges in all respects, so that the same
+shall not be subject to be altered, limited, annulled, or restrained, except by judicial process, according
+to the principles of law; and, in all grants hereafter to be made, by either State, of unlocated land within
+the said District, the same reservations shall be made for the benefit of schools and of the ministry as
+have heretofore been usual in grants made by this commonwealth. And all lands heretofore granted by
+this commonwealth to any religious, literary, or eleemosynary corporation or society shall be free from
+taxation while the same continues to be owned by such corporation or society.
+   "Eighth. No laws shall be passed in the proposed State with regard to taxes, actions, or remedies
+at law, or bars or limitations thereof, or otherwise making any distinction between the lands and rights
+of property of proprietors not resident in, or not citizens of, said proposed State, and the lands and
+rights of property of the citizens of the proposed State resident therein; and the rights and liabilities of all
+persons shall, after the said separation, continue the same as if the said District was still a part of this
+commonwealth, in all suits pending or judgments remaining unsatisfied on the fifteenth day of March
+next, where the suits have been commenced in Massachusetts proper and process has been served
+within the District of Maine, or commenced in the District of Maine and process has been served in
+Massachusetts proper, either by taking bail, making attachments, arresting and detaining persons, or
+otherwise, where execution remains to be done; and in such suits the courts within Massachusetts
+proper, and within the proposed State, shall continue to have the same jurisdiction as if the said District
+had still remained a part of the commonwealth. And this commonwealth shall have the same remedies
+within the proposed State as it now has for the collection of all taxes, bonds, or debts which may be
+assessed, due, made, or contracted by, to, or with the commonwealth on or before the said fifteenth
+day of March, within the said District of Maine, and all officers within Massachusetts proper and the
+District of Maine shall conduct themselves accordingly.
+   "Ninth. These terms and conditions, as here set forth, when the said District shall become a
+separate and independent State, shall, ipso facto, be incorporated into and become and be a part of
+any constitution, provisional or other, under which the government of the said proposed State shall, at
+any time hereafter, be administered, subject, however, to be modified or annulled by the agreement of
+the legislature of both the said States, but by no other power or body whatsoever."
+*** SEND ***
+
+*** SSTART 006.0 010.0 0 ME 1819 ***
+   SEC. 6. This constitution shall be enrolled on parchment, deposited in the secretary's office, and
+be the supreme law of the State, and printed copies thereof shall be prefixed to the books containing
+the laws of this State.
+
+*** SEND ***
+*** AEND ***
+*** CEND ***

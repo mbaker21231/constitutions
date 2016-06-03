@@ -1,0 +1,1621 @@
+  This is ready to go
+  
+  JW 1.1.02
+  
+  
+  *** CSTART HI 08/21/1959 11/05/1968 ***
+  
+  CONSTITUTION OF THE STATE OF HAWAII,
+  
+  [Note:  This Constitution was by the Constitutional Convention in 1950 and accepted by
+  the people on November 7, 1950.  Four sections were amended in 1959, ratified by the
+  people on June 27, 1959.  These are listed separately as amendments and are not included
+  in this original version, but they were part of the Constitution when it first went into effect
+  on August 21, 1959 when Hawaii became a state.]
+  
+  *** ASTART 9001.0 HI 1959 ***
+  
+  PREAMBLE
+  
+  *** SSTART 001.0 9001.0 0 HI 1959 ***
+           
+  We, the people of the State of Hawaii, grateful for Divine Guidance, and mindful of our
+  Hawaiian heritage, reaffirm our belief in a government of the people, by the people and for
+  the people, and with an understanding heart toward all the peoples of the earth do hereby
+  ordain and establish this constitution for the State of Hawaii.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 9026.0 HI 1959 ***
+           
+  FEDERAL CONSTITUTION ADOPTED
+  
+  *** SSTART 001.0 9026.0 HI 1959 ***
+           
+  The Constitution of the United States of America is adopted on behalf of the people of the
+  State of Hawaii.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 001.0 HI 1959 ***
+           
+  ARTICLE I
+  
+  BILL OF RIGHTS
+           
+  *** SSTART 001.0 001.0 0 HI 1959 ***
+  
+  SECTION 1.  POLITICAL POWER.  All political power of this State is inherent in the
+  people; and the responsibility for the exercise thereof rests with the people. All
+  government is founded on this authority.
+  
+  *** SEND ***
+  *** SSTART 002.0 001.0 0 HI 1959 ***
+                                             
+  SEC. 2.  RIGHTS OF MAN.  All persons are free by nature and are equal in their inherent
+  and inalienable rights.  Among these rights are the enjoyment of life, liberty and the pursuit
+  of happiness, and the acquiring and possessing of property. These rights cannot endure
+  unless the people recognize their corresponding obligations and responsibilities.
+  
+  *** SEND ***
+  *** SSTART 003.0 001.0 0 HI 1959 ***
+           
+  SEC. 3.  FREEDOM OF RELIGION, SPEECH, PRESS, ASSEMBLY AND PETITION. 
+  No law shall be enacted respecting an establishment of religion or prohibiting the free
+  exercise thereof, or abridging the freedom of speech or of the press, or the right of the
+  people peaceably to assemble and to petition the government for a redress of grievances.
+  
+  *** SEND ***
+  *** SSTART 004.0 001.0 0 HI 1959 ***
+           
+  SEC. 4.  DUE PROCESS AND EQUAL PROTECTION. No person shall be deprived of
+  life, liberty or property without due process of law, not be denied the equal protection of
+  the laws, nor be denied the enjoyment of his civil rights or be discriminated against in the
+  exercise thereof because of race, religion, sex or ancestry.
+  
+  *** SEND ***
+  *** SSTART 005.0 001.0 0 HI 1959 ***
+         
+  SEC. 5.  SEARCHES AND SEIZURES. The right of the people to be secure in their
+  persons, houses, papers and effects, against unreasonable searches and seizures, shall not
+  be violated; and no warrants shall issue, but upon probable cause, supported by oath or
+  affirmation, and particularly describing the place to be searched and the persons or things
+  to be seized.
+  
+  *** SEND ***
+  *** SSTART 006.0 001.0 0 HI 1959 ***
+  
+  SEC. 6.  RIGHTS OF CITIZENS.  No citizen shall be disfranchised, or deprived of any of
+  the rights or privileges secured to other citizens, unless by the law of the land.
+  
+  *** SEND ***
+  *** SSTART 007.0 001.0 0 HI 1959 ***
+           
+  SEC. 7.  ENLISTMENT, SEGREGATION.  No citizen shall be denied enlistment in any
+  military organization of this State nor be segregated therein because of race, religious
+  principles or ancestry.
+  
+  *** SEND ***
+  *** SSTART 008.0 001.0 0 HI 1959 ***
+           
+  SEC. 8.  INDICTMENT, TRIAL BY JURY, CRIMINAL CASES.  No person shall be
+  held to answer for a capital or otherwise infamous crime, unless on a presentment or
+  indictment of a grand jury, except in cases arising in the armed forces when in actual
+  service in time of war or public danger; nor shall any person be subject for the same
+  offense to be twice put in jeopardy; nor shall any person be compelled in any criminal case
+  to be a witness against himself.
+  
+  *** SEND ***
+  *** SSTART 009.0 001.0 0 HI 1959 ***
+           
+  SEC. 9.  BAIL, EXCESSIVE PUNISHMENT.  Excessive bail shall not be required, nor
+  excessive fines imposed, nor cruel or unusual punishments inflicted.
+  
+  *** SEND ***         
+  *** SSTART 010.0 001.0 0 HI 1959 ***
+  
+  SEC. 10.  TRIAL BY JURY, CIVIL CASES.  In suits at common law where the value in
+  controversy shall exceed one hundred dollars, the right of trial by jury shall be preserved.
+  The legislature may provide for a verdict by not less than three-fourths of the members of
+  the jury.
+  
+  *** SEND ***
+  *** SSTART 011.0 001.0 0 HI 1959 ***
+           
+  SEC. 11.  RIGHTS OF ACCUSED.  In all criminal prosecutions, the accused shall enjoy
+  the right to a speedy and public trial by an impartial jury of the district wherein the crime
+  shall have been committed, which district shall have been previously ascertained by law, or
+  of such other district to which the prosecution may be removed with the consent of the
+  accused; to be informed of the nature and cause of the accusation; to be confronted with
+  the witnesses against him; to have compulsory process for obtaining witnesses in his favor;
+  and to have the assistance of counsel for his defense.
+  
+  *** SEND ***
+  *** SSTART 012.0 001.0 0 HI 1959 ***
+           
+  SEC. 12.  JURY SERVICE.  No person shall be disqualified to serve as a juror because of
+  sex.
+  
+  *** SEND ***
+  *** SSTART 013.0 001.0 0 HI 1959 ***
+           
+  SEC. 13.  HABEAS CORPUS AND SUSPENSION OF LAWS.  The privilege of the writ
+  of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion the
+  public safety may require it.  
+       The power of suspending the privilege of the writ of habeas corpus, and the laws or the
+  execution thereof, shall never be exercised except by the legislature, or by authority
+  derived from it to be exercised in such particular cases only as the legislature shall
+  expressly prescribe. 
+  
+  *** SEND ***
+  *** SSTART 014.0 001.0 0 HI 1959 ***
+           
+  SEC. 14.  SUPREMACY OF CIVIL POWER.  The military shall be held in strict
+  subordination to the civil power.
+  
+  *** SEND ***
+  *** SSTART 015.0 001.0 0 HI 1959 ***
+  
+  SEC. 15.  RIGHT TO BEAR ARMS.  A well regulated militia being necessary to the
+  security of a free state, the right of the people to keep and bear arms shall not be infringed.
+  
+  *** SEND ***
+  *** SSTART 016.0 001.0 0 HI 1959 ***
+           
+  SEC. 16.  QUARTERING OF SOLDIERS.  No soldier or member of the militia shall, in
+  time of peace, be quartered in any house, without the consent of the owner or occupant,
+  nor in time of war, except in a manner prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 017.0 001.0 0 HI 1959 ***
+  
+  SEC. 17.  IMPRISONMENT FOR DEBT.  There shall be no imprisonment for debt.
+  
+  *** SEND ***
+  *** SSTART 018.0 001.0 0 HI 1959 ***
+  
+  SEC. 18.  EMINENT DOMAIN.  Private property shall not be taken for public use
+  without just compensation.
+  
+  *** SEND ***
+  *** SSTART 019.0 001.0 0 HI 1959 ***
+           
+  SEC. 19.  LIMITATIONS ON SPECIAL PRIVILEGES.  The power of the State to act
+  in the general welfare shall never be impaired by the making of any irrevocable grant of
+  special privileges or immunities.
+  
+  *** SEND ***
+  *** SSTART 020.0 001.0 0 HI 1959 ***
+           
+  SEC. 20.  CONSTRUCTION.  The enumeration of rights and privileges shall not be
+  construed to impair or deny others retained by the people.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 002.0 HI 1959 ***
+           
+  ARTICLE II
+  
+  SUFFRAGE AND ELECTIONS
+  
+  *** SSTART 001.0 002.0 0 HI 1959 ***
+           
+  SEC. 1.  QUALIFICATIONS.  Every citizen of the United States, who shall have attained
+  the age of twenty years, have been a resident of this State not less than one year next
+  preceding the election and be a voter registered in accordance with law, shall be qualified
+  to vote in any state or local election. No person shall be qualified to vote unless he is also
+  able, except for physical disability, to speak, read and write the English or Hawaiian
+  language.
+  
+  *** SEND ***
+  *** SSTART 002.0 002.0 0 HI 1959 ***
+        
+  SEC. 2.  DISQUALIFICATIONS.  No person who is non compos mentis and no person
+  convicted of felony, unless pardoned and restored to his civil rights, shall be qualified to
+  vote.
+  
+  *** SEND ***
+  *** SSTART 003.0 002.0 0 HI 1959 ***
+  
+  SEC. 3.  RESIDENCE.  No person shall be deemed to have gained or lost residence
+  simply because of his presence or absence while employed in the service of the United
+  States, or while engaged in navigation or while a student at any institution of learning.
+  
+  *** SEND ***
+  *** SSTART 004.0 002.0 0 HI 1959 ***
+  
+  SEC. 4.  REGISTRATION, VOTING.  The legislature shall provide for the registration of
+  voters and for absentee voting; and shall prescribe the method of voting at all elections.
+  Secrecy of voting shall be preserved.
+  
+  *** SEND ***
+  *** SSTART 005.0 002.0 0 HI 1959 ***
+           
+  SEC. 5.  ELECTIONS.  General elections shall be held on the first Tuesday after the first
+  Monday in November in all even-numbered years. Special elections may be held in
+  accordance with law. Contested elections shall be determined by a court of competent
+  jurisdiction in such manner as shall be provided by law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 003.0 HI 1959 ***
+         
+  ARTICLE III
+           
+  THE LEGISLATURE
+  
+  *** SSTART 001.0 003.0 0 HI 1959 ***
+           
+  SEC. 1.  LEGISLATIVE POWER.  The legislative power of the State shall be vested in a
+  legislature, which shall consist of two houses, a senate and a house of representatives.
+  Such power shall extend to all rightful subjects of legislation not inconsistent with this
+  constitution or the Constitution of the United States.
+  
+  *** SEND ***
+  *** SSTART 002.0 003.0 0 HI 1959 ***
+           
+  SEC. 2.  SENATE; DISTRICTS; COMPOSITION.  The senate shall be composed of
+  twenty-five members, who shall be elected by the qualified voters of the respective
+  senatorial districts. The districts, and the number of senators to be elected from each, shall
+  be as follows:
+       First senatorial district: that portion of the island of Hawaii known as Puna, Hilo and
+  Hamakua, five;
+       Second senatorial district: that portion of the island of Hawaii known as Kau, Kona
+  and Kohala, two;
+       Third senatorial district: the islands of Maui, Molokai, Lanai and Kahoolawe, five;
+       Fourth senatorial district: that portion of the island of Oahu lying east and south of
+  Nuuanu Street and Pali Road and the upper ridge of the Koolau Range from the Nuuanu
+  Pali to Makapuu Point and all other islands not specifically enumerated, five;
+       Fifth senatorial district: that portion of the island of Oahu lying west and north of the
+  fourth senatorial district, five; and
+       Sixth senatorial district: the islands of Kauai and Niihau, three.
+  
+  *** SEND ***
+  *** SSTART 003.0 003.0 0 HI 1959 ***
+           
+  SEC. 3.  HOUSE OF REPRESENTATIVES; COMPOSITION.  The house of
+  representatives shall be composed of fifty-one members, who shall be elected by the
+  qualified voters of the respective representative districts. Until the next reapportionment,
+  the representative districts and the number of representatives to be elected from each shall
+  be as set forth in the Schedule.
+  
+  *** SEND ***
+  *** SSTART 004.0 003.0 0 HI 1959 ***
+           
+  SEC. 4.  REAPPORTIONMENT Of HOUSE.  On or before June 1 of the year 1959, and
+  of each tenth year thereafter, the governor shall reapportion the members of the house of
+  representatives in the following manner: The total number of representatives shall first be
+  reapportioned among four basic areas, namely, (1) the island of Hawaii, (2) the islands of
+  Maui, Molokai, Lanai and Kahoolawe, (3) the island of Oahu and all other islands not
+  specifically enumerated, and (4) the islands of Kauai and Niihau, on the basis of the
+  number of voters registered at the last preceding general election in each of such basic       
+  areas and computed by the method known as the method of equal proportions, no basic
+  area to receive less than one member. Upon the determination of the total number of
+  representatives to which each basic area is entitled, such total shall be reapportioned
+  among the one or more representative districts within each basic area on the basis of the
+  number of voters registered at the last preceding general election within each of such
+  representative districts and computed by the method known as the method of equal
+  proportions, no representative district to receive less than one member. Upon any
+  reapportionment, should the total number of voters registered in any representative district
+  be less than one-half of the quotient obtained by dividing the total number of voters
+  registered in the State by the total number of members to which the house is entitled, then,
+  as part of such reapportionment, the basic area within which such representative district
+  lies shall be redistricted by the governor in such manner that the total number of voters
+  registered in each new representative district therein shall be more than one-half of such
+  quotient.
+       The governor shall thereupon issue a proclamation showing the results of such
+  reapportionment, and such reapportionment shall be effective for the election of members
+  to such house for the next five succeeding legislatures.
+           
+  MANDAMUS.  Original jurisdiction is hereby vested in the supreme court of the State to
+  be exercised on the application of any registered voter, made within thirty days following
+  the date specified above, to compel, by mandamus or otherwise, the governor to perform
+  the above duty; and made within thirty days following the date of such proclamation, to
+  compel, by mandamus or otherwise, the correction of any error made in such
+  reapportionment.
+  
+  *** SEND ***
+  *** SSTART 005.0 003.0 0 HI 1959 ***
+           
+  SEC. 5.  ELECTION OF MEMBERS; TERM.   The members of the legislature shall be
+  elected at general elections. The term of office of members of the house of representatives
+  shall be two years beginning with their election and ending on the day of the next general
+  election, and the term of office of members of the senate shall be four years beginning with
+  their election and ending on the day of the second general election after their election.
+  
+  *** SEND ***
+  *** SSTART 006.0 003.0 0 HI 1959 ***
+           
+  SEC. 6.  VACANCIES.  Any vacancy in the legislature shall be filled for the unexpired
+  term in such manner as may be prescribed by law, or, if no provision be made by law, by
+  appointment by the governor for the unexpired term.
+  
+  *** SEND ***
+  *** SSTART 007.0 003.0 0 HI 1959 ***
+           
+  SEC. 7.  QUALIFICATIONS OF MEMBERS.  No person shall be eligible to serve as a
+  member of the senate unless he shall have attained the age of thirty years, have been a
+  resident of the State for not less than three years and be a qualified voter of the senatorial
+  district from which he seeks to be elected. No person shall be eligible to serve as a
+  member of the house of representatives unless he shall have attained the age of twenty-five
+  years, have been a resident of the State for not less than three years and be a qualified
+  voter of the representative district from which he seeks to be elected.
+  
+  *** SEND ***
+  *** SSTART 008.0 003.0 0 HI 1959 ***
+           
+  SEC. 8.  PRIVILEGES OF MEMBERS.  No member of the legislature shall be held to
+  answer before any other tribunal for any statement made or action taken in the exercise of
+  his legislative functions; and members of the legislature shall, in all cases except felony or
+  breach of the peace, be privileged from arrest during their attendance at the sessions of
+  their respective houses, and in going to and returning from the same.
+  
+  *** SEND ***
+  *** SSTART 009.0 003.0 0 HI 1959 ***
+           
+  SEC. 9.  DISQUALIFICATIONS OF MEMBERS.  No member of the legislature shall
+  hold any other public office under the State, nor shall he, during the term for which he is
+  elected or appointed, be elected or appointed to any public office or employment which
+  shall have been created, or the emoluments whereof shall have been increased, by
+  legislative act during such term.  The term "public office", for the purposes of this section,
+  shall not include notaries public, reserve police officers or officers of emergency
+  organizations for civilian defense or disaster relief. The legislature may prescribe further
+  disqualifications.
+  
+  *** SEND ***
+  *** SSTART 010.0 003.0 0 HI 1959 ***
+           
+  SEC. 10.  SALARY AND ALLOWANCES.  The members of the legislature shall receive
+  such salary and allowances as may be prescribed by law, but any increase or decrease in
+  the amount thereof shall not apply to the legislature which enacted the same. No salary
+  shall be payable when the senate alone is convened in special session, or when the
+  legislature convenes in special session pursuant to Section 17 of this article.
+  
+  *** SEND ***
+  *** SSTART 011.0 003.0 0 HI 1959 ***
+           
+  SEC. 11.  SESSIONS.  Regular sessions of the legislature shall be held annually. The
+  governor may convene the legislature, or the senate alone, in special session. All sessions
+  shall be held at the capital of the State. In case the capital shall be unsafe, the governor
+  may direct that any session shall be held at some other place. Regular sessions in odd-
+  numbered years shall be known as "general sessions" and regular sessions in even-
+  numbered years shall be known as "budget sessions."
+           
+  BUDGET SESSIONS. At budget sessions the legislature shall be limited to the
+  consideration and enactment of the general appropriations bill for the succeeding fiscal
+  year and bills to authorize proposed capital expenditures, revenue bills necessary therefor,
+  urgency measures deemed necessary in the public interest, bills calling elections, proposed
+  constitutional amendments and bills to provide for the expenses of such session and the
+  special session to be convened thereafter in accordance with the provisions of Section 17
+  of this article. The legislature may also consider and act upon matters relating to the
+  impeachment or removal of officers.  No urgency measure shall be considered unless a
+  statement of facts constituting such urgency shall be set forth in one section thereof and
+  until such section shall have been first approved by each house. The approval of such
+  section and the final passage of such measure in each house shall require a two-thirds vote
+  of all the members to which such house is entitled, taken by ayes and noes and entered
+  upon its journal.
+           
+  SESSIONS; COMMENCEMENT; DURATION.  Regular sessions shall commence at
+  10:00 o'clock a.m., on the third Wednesday in February.   General sessions shall be limited
+  to a period of sixty days and budget sessions and special sessions to a period of thirty
+  days, but the governor may extend any session for not more than thirty days.  Sundays and
+  holidays shall be excluded in computing the number of days of any session.
+  
+  *** SEND ***
+  *** SSTART 012.0 003.0 0 HI 1959 ***
+           
+  SEC. 12.  ADJOURNMENT.  Neither house shall adjourn during any session of the
+  legislature for more than three days, or sine die, without the consent of the other.
+  
+  *** SEND ***
+  *** SSTART 013.0 003.0 0 HI 1959 ***
+           
+  SEC. 13.  ORGANIZATION; DISCIPLINE; RULES; PROCEDURE.  Each house shall
+  be the judge of the elections, returns and qualifications of its own members and shall have,
+  for misconduct, disorderly behavior or neglect of duty of any member, power to punish
+  such member by censure or, upon a two-thirds vote of all the members to which such       
+  house is entitled, by suspension or expulsion of such member. Each house shall choose its
+  own officers, determine the rules of its proceedings and keep a journal. The ayes and noes
+  of the members on any question shall, at the desire of one-fifth of the members present, be
+  entered upon the journal.
+       Twenty days after a bill has been referred to a committee in either house, the same may
+  be recalled from such committee by the affirmative vote of one-third of the members to
+  which such house is entitled.
+  
+  *** SEND ***
+  *** SSTART 014.0 003.0 0 HI 1959 ***
+  
+  SEC. 14.  QUORUM; COMPULSORY ATTENDANCE.  A majority of the number of
+  members to which each house is entitled shall constitute a quorum of such house for the
+  conduct of ordinary business, of which quorum a majority vote shall suffice; but the final
+  passage of a bill in each house shall require the vote of a majority of all the members to
+  which such house is entitled, taken by ayes and noes and entered upon its journal. A
+  smaller number than a quorum may adjourn from day to day and may compel the
+  attendance of absent members in such manner and under such penalties as each house may
+  provide.
+  
+  *** SEND ***
+  *** SSTART 015.0 003.0 0 HI 1959 ***
+           
+  SEC. 15.  BILLS; ENACTMENT.  No law shall be passed except by bill. Each law shall
+  embrace but one subject, which shall be expressed in its title. The enacting clause of each
+  law shall be, "Be it enacted by the legislature of the State of Hawaii."
+  
+  *** SEND ***
+  *** SSTART 016.0 003.0 0 HI 1959 ***
+           
+  SEC. 16.  PASSAGE OF BILLS.  No bill shall become law unless it shall pass three
+  readings in each house, on separate days. Every bill when passed by the house in which it
+  originated, or in which amendments thereto shall have originated, shall immediately be
+  certified by the presiding officer and clerk and sent to the other house for consideration.
+  
+  *** SEND ***
+  *** SSTART 017.0 003.0 0 HI 1959 ***
+           
+  SEC. 17.  APPROVAL OR VETO.  Every bill which shall have passed the legislature
+  shall be certified by the presiding officers and clerks of both houses and shall thereupon be
+  presented to the governor. If he approves it, he shall sign it and it shall become law. If the
+  governor does not approve such bill, he may return it, with his objections to the
+  legislature. He may veto any specific item or items in any bill which appropriates money
+  for specific purposes by striking out or reducing the same; but he shall veto other bills, if
+  at all, only as a whole.
+       The governor shall have ten days to consider bills presented to him ten or more days
+  before the adjournment of the legislature sine die, and if any such bill is neither signed nor
+  returned by the governor within that time, it shall become law in like manner as if he had
+  signed it.
+           
+  RECONSIDERATION AFTER ADJOURNMENT.  The governor shall have forty-five
+  days, after the adjournment of the legislature sine die, to consider bills presented to him
+  less than ten days before such adjournment, or presented after adjournment, and any such
+  bill shall become law on the forty-fifth day unless the governor by proclamation shall have
+  given ten days' notice to the legislature that he plans to return such bill with his objections
+  on that day. The legislature may convene at or before noon on the forty-fifth day in special
+  session, without call, for the sole purpose of acting upon any such bill returned by the
+  governor. In case the legislature shall fail to so convene, such bill shall not become law.
+  Any such bill may be amended to meet the governor's objections and, if so amended and
+  passed, only one reading being required in each house for such passage, it shall be
+  presented again to the governor, but shall become law only if he shall sign it within ten
+  days after presentation.  Sundays and holidays shall be excluded in computing the number
+  of days designated in this section.
+  
+  *** SEND ***
+  *** SSTART 018.0 003.0 0 HI 1959 ***
+  
+  SEC. 18.  PROCEDURES UPON VETO.  Upon the receipt of a veto message from the
+  governor, each house shall enter the same at large upon its journal and proceed to
+  reconsider the vetoed bill, or the item or items vetoed, and again vote upon such bill, or
+  such item or items, by ayes and noes, which shall be entered upon its journal. If after such
+  reconsideration such bill, or such item or items, shall be approved by a two-thirds vote of
+  all members to which each house is entitled, the same shall become law.
+  
+  *** SEND ***
+  *** SSTART 019.0 003.0 0 HI 1959 ***
+           
+  SEC. 19.  PUNISHMENT OF NONMEMBERS.  Each house may punish by fine, or by
+  imprisonment not exceeding thirty days, any person not a member of either house who
+  shall be guilty of disrespect of such house by any disorderly or contemptuous behavior in
+  its presence or that of any committee thereof; or who shall, on account of the exercise of
+  any legislative function, threaten harm to the body or estate of any of the members of such
+  house; or who shall assault, arrest or detain any witness or other person ordered to attend
+  such house, on his way going to or returning therefrom; or who shall  rescue any person
+  arrested by order of such house.
+       Any person charged with such an offense shall be informed in writing of the charge
+  made against him, and have an opportunity to present evidence and be heard in his own
+  defense.
+  
+  *** SEND ***
+  *** SSTART 020.0 003.0 0 HI 1959 ***
+           
+  SEC. 20.  IMPEACHMENT.  The governor and lieutenant governor, and any appointive
+  officer for whose removal the consent of the senate is required, may be removed from
+  office upon conviction of impeachment for such causes as may be provided by law.
+       The house of representatives shall have the sole power of impeachment of the governor
+  and lieutenant governor and the senate the sole power to try such impeachments, and no
+  such officer shall be convicted without the concurrence of two-thirds of the members of
+  the senate. When sitting for that purpose, the members of the senate shall be on oath or
+  affirmation and the chief justice shall preside. Subject to the provisions of this paragraph,
+  the legislature may provide for the manner and procedure of removal by impeachment of
+  such officers.
+        The legislature shall by law provide for the manner and procedure of removal by
+  impeachment of the appointive officers.  Judgments in cases of impeachment shall not
+  extend beyond removal from office and disqualification to hold and enjoy any office of
+  honor, trust or profit under the State; but the person convicted may nevertheless be liable
+  and subject to indictment, trial, judgment and punishment according to law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 004.0 HI 1959 ***
+  
+  ARTICLE IV
+           
+  THE EXECUTIVE
+  
+  *** SSTART 001.0 004.0 0 HI 1959 ***
+  
+  SEC. 1.  ESTABLISHMENT OF THE EXECUTIVE.  The executive power of the State   
+      shall be vested in a governor.
+       The governor shall be elected by the qualified voters of this State at a general election.
+  The person receiving the highest number of votes shall be the governor. In case of a tie
+  vote, the selection of the governor shall be determined in accordance with law.
+        The term of office of the governor shall begin at noon on the first Monday in
+  December next following his election and end at noon on the first Monday in December,
+  four years thereafter.
+         No person shall be eligible to the office of governor unless he shall be a qualified
+  voter, have attained the age of thirty-five years and have been a citizen of the United
+  States for twenty years and a resident of this State for five years next preceding his
+  election.
+         The governor shall not hold any other office or employment of profit under the State
+  or the United States during his term of office.
+  
+  *** SEND ***
+  *** SSTART 002.0 004.0 0 HI 1959 ***
+  
+  SEC. 2.  LIEUTENANT GOVERNOR.  There shall be a lieutenant governor, who shall
+  have the same qualifications as the governor. He shall be elected at the same time, for the
+  same term, and in the same manner, as the governor.  He shall perform such duties as may
+  be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 003.0 004.0 0 HI 1959 ***
+  
+  SEC. 3.  COMPENSATION:  GOVERNOR, LIEUTENANT GOVERNOR.  The
+  compensation of the governor and of the lieutenant governor shall be prescribed by law,
+  but shall not be less than eighteen thousand dollars, and twelve thousand dollars,
+  respectively, per annum. Such compensation shall not be increased or diminished for their
+  respective terms, unless by general law applying to all salaried officers of the State. When
+  the lieutenant governor succeeds to the office of governor, he shall receive the
+  compensation for that office.
+  
+  *** SEND ***
+  *** SSTART 004.0 004.0 0 HI 1959 ***
+  
+  SEC. 4.  SUCCESSION TO GOVERNORSHIP; ABSENCE OR DISABILITY OF
+  GOVERNOR.  When the office of governor is vacant, the lieutenant governor shall
+  become governor. In the event of the absence of the governor from the State, or his
+  inability to exercise and discharge the powers and duties of his office, such powers and
+  duties shall devolve upon the lieutenant governor during such absence or disability.
+       When the office of lieutenant governor is vacant, or in the event of the absence of the
+  lieutenant governor from the State, or his inability to exercise and discharge the powers
+  and duties of his office, such powers and duties shall devolve upon such officers in such
+  order of succession as may be provided by law.
+        In the event of the impeachment of the governor or of the lieutenant governor, he shall
+  not exercise the powers of his office until acquitted.
+  
+  *** SEND ***
+  *** SSTART 005.0 004.0 0 HI 1959 ***
+  
+  SEC. 5.  EXECUTIVE POWERS.  The governor shall be responsible for the faithful
+  execution of the laws. He shall be commander in chief of the armed forces of the State and
+  may call out such forces to execute the laws, suppress or prevent insurrection or lawless
+  violence or repel invasion. He shall, at the beginning of each session, and may, at other
+  times, give to the legislature information concerning the affairs of the State and
+  recommend to its consideration such measures as he shall deem expedient.
+       The governor may grant reprieves, commutations and pardons, after conviction, for all
+  offenses, subject to regulation by law as to the manner of applying for the same. The
+  legislature may, by general law, authorize the governor to grant pardons before
+  conviction, to grant pardons for impeachment and to restore civil rights denied by reason
+  of conviction of offenses by tribunals other than those of this State.
+       The governor shall appoint an administrative director to serve at his pleasure.
+  
+  *** SEND ***
+  *** SSTART 006.0 004.0 0 HI 1959 ***
+           
+  SEC. 6.  EXECUTIVE AND ADMINISTRATIVE OFFICES AND DEPARTMENTS. 
+  All executive and administrative offices, departments and instrumentalities of the state
+  government and their respective functions, powers and duties shall be allocated by law
+  among  and within not more than twenty principal departments in such manner as to group
+  the same according to major purposes so far as practicable. Temporary commissions or
+  agencies for special purposes may be established by law and need not be allocated within a
+  principal department.
+       Each principal department shall be under the supervision of the governor and, unless
+  otherwise provided in this constitution or by law, shall be headed by a single executive.
+  Such single executive shall be nominated and, by and with the advice and consent of the
+  senate, appointed by the governor and he shall hold office for a term to expire at the end
+  of the term for which the governor was elected. The governor may, by and with the advice
+  and consent of the senate, remove such single executive.
+       Whenever a board, commission or other body shall be the head of a principal
+  department of the state government, the members thereof shall be nominated and, by and
+  with the advice and consent of the senate, appointed by the governor. The term of office
+  and removal of such members shall be as prescribed by law. Such board, commission or
+  other body may appoint a principle executive officer, who, when authorized by law, may
+  be ex officio a voting member thereof, and who may be removed by a majority vote of the
+  members appointed by the governor.
+       The governor shall nominate and, by and with the advice and consent of the senate,
+  appoint all officers for whose election or appointment provision is not otherwise made by
+  this constitution or by law. The legislature may provide for the suspension or removal for
+  cause, by the governor, of any officer for whose removal the consent of the senate is
+  required by this constitution.
+       When the senate is not in session and a vacancy occurs in any office, appointment to
+  which requires the confirmation of the senate, the governor may fill the office by granting
+  a commission which shall, unless such appointment is confirmed, expire at the end of the
+  next session of the senate; but the person so appointed shall not be eligible for another
+  interim appointment to such office if the appointment shall have failed of confirmation by
+  the senate.
+       No person who has been nominated for appointment to any office and whose
+  appointment has not received the consent of the senate shall be eligible to an interim
+  appointment thereafter to such office.
+       All officers appointed under the provisions of this section shall be citizens of this State
+  and shall have been residents of the State for at least three years next preceding their
+  appointment.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 005.0 HI 1959 ***
+           
+  ARTICLE V
+           
+  THE JUDICIARY
+  
+  *** SSTART 001.0 005.0 0 HI 1959 ***
+  
+  SEC. 1.  JUDICIARY POWER.  The judicial power of the State shall be vested in one
+  supreme court, circuit courts, and in such inferior courts as the legislature may from time
+  to time establish. The several courts shall have original and appellate jurisdiction as
+  provided by law.
+  
+  *** SEND ***
+  *** SSTART 002.0 005.0 0 HI 1959 ***
+  
+  SEC. 2.  SUPREME COURT.  The supreme court shall consist of a chief justice and four
+  associate justices. When necessary, the chief justice shall assign a judge or judges of a
+  circuit court to serve temporarily on the supreme court. In case of a vacancy in the office
+  of chief justice, or if he is ill, absent or otherwise unable to serve, an associate justice
+  designated in accordance with the rules of the supreme court shall serve temporarily in his
+  stead.
+  
+  *** SEND ***
+  *** SSTART 003.0 005.0 0 HI 1959 ***
+  
+  SEC. 3.  APPOINTMENT OF JUDGES.  The governor shall nominate and, by and with
+  the advice and consent of the senate, appoint the justices of the supreme court and the
+  judges of the circuit courts. No nomination shall be sent to the senate, and no interim
+  appointment shall be made when the senate is not in session, until after ten days' public
+  notice by the governor.
+           
+  QUALIFICATIONS.  No justice or judge shall hold any other office or position of profit
+  under the State or the United States. No person shall be eligible to such office who shall
+  not have been admitted to practice law before the supreme court of this State for at least
+  ten years. Any justice or judge who shall become a candidate for an elective office shall
+  thereby forfeit his office.
+             
+  TENURE; COMPENSATION; RETIREMENT; REMOVAL.  The term of office of a
+  justice of the supreme court shall be seven years and that of a judge of a circuit court shall
+  be six years. They shall receive for their services such compensation as may be prescribed
+  by law, which shall not be diminished during their respective terms of office, unless by
+  general law applying to all salaried officers of the State. They shall be retired upon
+  attaining the age of seventy years. They shall be included in any retirement law of the
+  State. They shall be subject to removal from office upon the concurrence of two-thirds of
+  the membership of each house of the legislature, sitting in joint session, for such causes
+  and in such manner as may be provided by law.
+  
+  *** SEND ***
+  *** SSTART 004.0 005.0 0 HI 1959 ***
+  
+  SEC. 4.  RETIREMENT FOR INCAPACITY.  Whenever a commission or agency,    
+  authorized by law for such purpose, shall certify to the governor that any justice of the
+  supreme court or judge of a circuit court appears to be so incapacitated as substantially to
+  prevent him from performing his judicial duties, the governor shall appoint a board of
+  three persons to inquire into the circumstances and on their recommendation the governor
+  may retire the justice or judge from office.
+  
+  *** SEND ***
+  *** SSTART 005.0 005.0 0 HI 1959 ***
+  
+  SEC. 5.  ADMINISTRATION.  The chief justice of the supreme court shall be the
+  administrative head of the courts. He may assign judges from one circuit court to another
+  for temporary service. With the approval of the supreme court he shall appoint an
+  administrative director to serve at his pleasure.
+  
+  *** SEND ***
+  *** SSTART 006.0 005.0 0 HI 1959 ***
+           
+  SEC. 6.  RULES.  The supreme court shall have power to promulgate rules and
+  regulations in all civil and criminal cases for all courts relating to process, practice,
+  procedure and appeals, which shall have the force and effect of law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 006.0 HI 1959 ***         
+           
+  ARTICLE VI
+           
+  TAXATION AND FINANCE
+  
+  *** SSTART 001.0 006.0 0 HI 1959 ***
+  
+  SEC. 1.  TAXING POWER INALIENABLE.  The power of taxation shall never be
+  surrendered, suspended or contracted away.
+  
+  *** SEND ***
+  *** SSTART 002.0 006.0 0 HI 1959 ***
+  
+  SEC. 2.  TAXATION OF NONRESIDENT CITIZENS.  The land and other property
+  belonging to citizens of the United States residing without the State shall never be taxed at
+  a higher rate than the lands and other property belonging to residents thereof.
+  
+  *** SEND ***
+  *** SSTART 003.0 006.0 0 HI 1959 ***
+           
+  SEC. 3.  DEBT LIMITATIONS.  All bonds and other instruments of indebtedness issued
+  by or on behalf of the State or a political subdivision thereof must be authorized by the
+  legislature, and bonds and other instruments of indebtedness of a political subdivision must
+  also be authorized by its governing body.
+       Sixty million dollars is established as the limit of the funded debt of the State at any
+  time outstanding and unpaid. Bonds and other instruments of indebtedness in excess of
+  such limit may be issued when authorized by a two-thirds vote of all the members to which
+  each house of the legislature is entitled, provided such excess debt, at the time of
+  authorization, would not cause the total of state indebtedness to exceed a sum equal to
+  fifteen percent of the total of assessed values for tax rate purposes of real property in the
+  State, as determined by the last tax assessment rolls  pursuant to law.
+       Instruments of indebtedness to meet appropriations for any fiscal period in anticipation
+  of the collection of revenues for such period or to meet casual deficits or failures of
+  revenue, which shall be payable within one year, and bonds or other instruments of
+  indebtedness to suppress insurrection, to repel invasion, to defend the State in war or to
+  meet emergencies caused by disaster or act of God, may be issued by the State under
+  legislative authorization without regard to any debt limit.
+       A sum equal to ten percent of the total of the assessed values for tax rate purposes of
+  real property in any political subdivision, as determined by the last tax assessment rolls
+  pursuant to law, is established as the limit of the funded debt of such political subdivision
+  at any time outstanding and unpaid. The aggregate, however, of such debts contracted by
+  any political subdivision during a fiscal year shall not exceed two percent of the total of
+  such assessed values in such political subdivision.
+       Instruments of indebtedness to meet appropriations for any fiscal period in anticipation
+  of the collection of revenues for such period or to meet casual deficits or failures of
+  revenue, which shall be payable within one year, may be issued by any political subdivision
+  under authorization of law and of its governing body, without regard to the limits of debt
+  hereinabove provided.
+       All bonds or other instruments of indebtedness for a term exceeding one year shall be
+  in serial form maturing in substantially equal annual installments, the first installment to
+  mature not later than five years from the date of the issue of such series, and the last
+  installment not later than thirty-five years from the date of such issue. Interest and
+  principal payments shall be a first charge on the general revenues of the State or political
+  subdivision, as the case may be.
+       The provisions of this section shall not be applicable to indebtedness incurred under
+  revenue bond statutes by a public enterprise of the State or political subdivision, or by a
+  public corporation, when the only security for such indebtedness is the revenues of such
+  enterprise or public corporation, or to indebtedness incurred under special improvement
+  statutes when the only security for such indebtedness is the properties benefited or
+  improved or the assessments thereon.
+       Nothing in this section shall prevent the refunding of any indebtedness at any time.
+  
+  *** SEND ***
+  *** SSTART 004.0 006.0 0 HI 1959 ***
+           
+  SEC. 4.  THE BUDGET.  Within such time prior to the opening of each regular session as
+  may be prescribed by law, the governor shall submit to the legislature a budget setting
+  forth a complete plan of proposed general fund expenditures and anticipated receipts
+  of the State for the ensuing fiscal period, together with such other information as the
+  legislature may require. The budget shall be compiled in two parts, one setting forth all
+  proposed operating expenditures for the ensuing fiscal period and the other, all capital
+  improvements expenditures proposed to be undertaken during such period. The governor
+  shall also, upon the opening of the session, submit bills to provide for such proposed
+  expenditures and for any recommended additional revenues or borrowings by which the
+  proposed expenditures are to be met. Such bills shall be introduced in the legislature upon
+  the opening of each regular session.
+  
+  *** SEND ***
+  *** SSTART 005.0 006.0 0 HI 1959 ***
+           
+  SEC. 5.  LEGISLATIVE APPROPRIATIONS; PROCEDURES.  No appropriation bill,
+  except bills recommended by the governor for immediate passage, or to cover the
+  expenses of the legislature, shall be passed on final reading until the bill authorizing
+  operating expenditures for the ensuing fiscal period, to be known as the general
+  appropriations bill, shall have been transmitted to the governor.
+  
+  *** SEND ***
+  *** SSTART 006.0 006.0 0 HI 1959 ***
+           
+  SEC. 6.  APPROPRIATIONS FOR PRIVATE PURPOSES PROHIBITED.  No tax shall
+  be levied or appropriation of public money or property made, nor shall the public credit be
+  used, directly or indirectly, except for a public purpose. No grant shall be made in
+  violation of Section 3 of Article I of this constitution.
+  
+  *** SEND ***
+  *** SSTART 007.0 006.0 0 HI 1959 ***
+           
+  SEC. 7.  EXPENDITURE CONTROLS.  Provision for the control of the rate of
+  expenditures of appropriated state moneys, and for the reduction of such expenditures
+  under prescribed conditions, shall be made by law.
+  
+  *** SEND ***
+  *** SSTART 008.0 006.0 0 HI 1959 ***
+           
+  SEC. 8.  AUDITOR.  The legislature, by a majority vote of each house in joint session,
+  shall appoint an auditor who shall serve for a period of eight years and thereafter until a
+  successor shall have been appointed. The legislature, by a two-thirds vote of the members
+  in joint session, may remove the auditor from office at any time for cause. It shall be the
+  duty of the auditor to conduct post-audits of all transactions and of all accounts kept by or
+  for all departments, offices and agencies of the State and its political subdivisions, to
+  certify to the accuracy of all financial statements issued by the respective accounting
+  officers and to report his findings and recommendations to the governor and to the
+  legislature at such times as shall be prescribed by law. He shall also make such additional
+  reports and conduct such other investigations as may be directed by the legislature.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 007.0 HI 1959 ***
+           
+  ARTICLE VII
+                  
+  LOCAL GOVERNMENT
+  
+  *** SSTART 001.0 007.0 0 HI 1959 ***
+  
+  SEC. 1.  POLITICAL SUBDIVISIONS; CREATION, POWERS.  The legislature shall
+  create counties, and may create other political subdivisions within the State, and provide
+  for the government thereof. Each political subdivision shall have and exercise such powers
+  as shall be conferred under general laws.
+  
+  *** SEND ***
+  *** SSTART 002.0 007.0 0 HI 1959 ***
+           
+  SEC. 2.  LOCAL SELF-GOVERNMENT; CHARTER.  Each political subdivision shall
+  have power to frame and adopt a charter for its own self-government within such limits
+  and under such procedures as may be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 003.0 007.0 0 HI 1959 ***
+           
+  SEC. 3.  TAXATION AND FINANCE.  The taxing power shall be reserved to the State
+  except so much thereof as may be delegated by the legislature to the political subdivisions,
+  and the legislature shall have the power to apportion state revenues among the several
+  political subdivisions.
+  
+  *** SEND ***
+  *** SSTART 004.0 007.0 0 HI 1959 ***
+           
+  SEC. 4.  MANDATES; ACCRUED CLAIMS.  No law shall be passed mandating any
+  political subdivision to pay any previously accrued claim.
+  
+  *** SEND ***
+  *** SSTART 005.0 007.0 0 HI 1959 ***
+  
+   SEC. 5.  STATE-WIDE LAWS.  This article shall not limit the power of the legislature
+  to enact laws of state-wide concern.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 008.0 HI 1959 ***
+           
+  ARTICLE VIII
+           
+  PUBLIC HEALTH AND WELFARE
+  
+  *** SSTART 001.0 008.0 0 HI 1959 ***
+                                    
+  SEC. 1.   PUBLIC HEALTH.  The State shall provide for the protection and promotion
+  of the public health.
+  
+  *** SEND ***
+  *** SSTART 002.0 008.0 0 HI 1959 ***
+  
+  SEC. 2.  CARE OF HANDICAPPED.  The State shall have power to provide for
+  treatment and rehabilitation, as well as domiciliary care, of mentally or physically
+  handicapped persons.
+  
+  *** SEND ***
+  *** SSTART 003.0 008.0 0 HI 1959 ***
+           
+  SEC. 3.  PUBLIC ASSISTANCE.  The State shall have power to provide assistance for
+  persons unable to maintain a standard of living compatible with decency and health.
+  
+  *** SEND ***
+  *** SSTART 004.0 008.0 0 HI 1959 ***
+           
+  SEC. 4.  SLUM CLEARANCE, REHABILITATION AND HOUSING.  The State shall
+  have power to provide for, or assist in, slum clearance and the development or
+  rehabilitation of substandard areas, including housing for persons of low income.
+  
+  *** SEND ***
+  *** SSTART 005.0 008.0 0 HI 1959 ***
+           
+  SEC. 5.  PUBLIC SIGHTLINESS AND GOOD ORDER.  The State shall have power to
+  conserve and develop its natural beauty, objects and places of historic or cultural interest,
+  sightliness and physical good order, and for that purpose private property shall be subject
+  to reasonable regulation.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 009.0 HI 1959 ***
+           
+  ARTICLE IX
+  
+  EDUCATION
+  
+  *** SSTART 001.0 009.0 0 HI 1959 ***
+  
+  SEC. 1.  PUBLIC EDUCATION.  The State shall provide for the establishment, support
+  and control of a statewide system of public schools free from sectarian control,  a state
+  university, public libraries and such other educational institutions as may be deemed
+  desirable, including physical facilities therefor. There shall be no segregation in public
+  educational institutions because of race, religion or ancestry; nor shall public funds be
+  appropriated for the support or benefit of any sectarian or private educational institution.
+  
+  *** SEND ***
+  *** SSTART 002.0 009.0 0 HI 1959 ***
+  
+  SEC. 2.  BOARD OF EDUCATION.  There shall be a board of education, the members
+  of which shall be nominated and, by and with the advice and consent of the senate,
+  appointed by the governor from panels submitted by local school advisory councils to be
+  established by law.  At least part of the membership of the board shall represent
+  geographic subdivisions of the State. 
+  
+  *** SEND ***
+  *** SSTART 003.0 009.0 0 HI 1959 ***
+           
+  SEC. 3.  POWERS OF THE BOARD OF EDUCATION.  The board of education shall
+  have power, in accordance with law, to formulate policy, and to exercise control over the
+  public school system through its executive officer, the superintendent of education, who
+  shall be appointed by the board and shall be ex officio a voting member thereof.
+  
+  *** SEND ***
+  *** SSTART 004.0 009.0 0 HI 1959 ***
+           
+  SEC. 4.  UNIVERSITY OF HAWAII.  The University of Hawaii is hereby established as
+  the state university and constituted a body corporate. It shall have title to all the real and
+  personal property now or hereafter set aside or conveyed to it, which shall be held in
+  public trust for its purposes, to be administered and disposed of according to law.
+  
+  *** SEND ***
+  *** SSTART 005.0 009.0 0 HI 1959 ***
+           
+  SEC. 5.  BOARD OF REGENTS; POWERS.  There shall be a board of regents of the
+  University of Hawaii, the members of which shall be nominated and, by and with the
+  advice and consent of the senate, appointed by the governor. At least part of the
+  membership of the board shall represent geographic subdivisions of the State.  The
+  president of the university and the superintendent of public instruction shall be ex officio
+  voting members of the board.  The board shall have power, in accordance with law, to
+  formulate policy, and to exercise control over the university through its executive officer,
+  the president of the university, who shall be appointed by the board. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 010.0 HI 1959 ***
+  
+  ARTICLE X
+  
+  CONSERVATION AND DEVELOPMENT OF RESOURCES
+  
+  *** SSTART 001.0 010.0 0 HI 1959 ***
+  
+  SEC. 1.  RESOURCES; CONSERVATION, DEVELOPMENT AND USE.  The
+  legislature shall promote the conservation, development and utilization of agricultural
+  resources, and fish, mineral, forest, water, land, game and other natural resources.
+  
+  *** SEND ***
+  *** SSTART 002.0 010.0 0 HI 1959 ***
+           
+  SEC. 2.  NATURAL RESOURCES; MANAGEMENT AND DISPOSITION.  The
+  legislature shall vest in one or more executive boards or commissions powers for the
+  management of natural resources owned or controlled by the State, and such powers of
+  disposition thereof as may he authorized by law; but land set aside for public use, other
+  than for a reserve for conservation purposes, need not be  placed under the jurisdiction of
+  such a board or commission.
+       The mandatory provisions of this section shall not apply to the natural resources owned
+  by or under the control of a political subdivision or a department or agency thereof.
+  
+  *** SEND ***
+  *** SSTART 003.0 010.0 0 HI 1959 ***
+  
+  SEC. 3.  SEA FISHERIES.  All fisheries in the sea waters of the State not included in any
+  fish pond or artificial enclosure shall be free to the public, subject to vested rights and the
+  right of the State to regulate the same.
+  
+  *** SEND ***
+  *** SSTART 004.0 010.0 0 HI 1959 ***
+           
+  SEC. 4.  GENERAL LAWS REQUIRED; EXCEPTIONS.  The legislative power over
+  the lands owned by or under the control of the State and its political subdivisions shall be
+  exercised only by general laws, except in respect to transfers to or for the use of the State,
+  a political subdivision, or any department or agency thereof.
+  
+  *** SEND ***
+  *** SSTART 005.0 010.0 0 HI 1959 ***
+           
+  SEC. 5.  FARM AND HOME OWNERSHIP.  The public lands shall be used for the
+  development of farm and home ownership on as widespread a basis as possible, in
+  accordance with procedures and limitations prescribed by Law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 011.0 HI 1959 ***
+           
+  ARTICLE XI
+           
+  HAWAIIAN HOME LANDS
+  
+  *** SSTART 001.0 011.0 0 HI 1959 ***
+  
+  SEC. 1.  HAWAIIAN HOMES COMMISSION ACT.  Anything in this constitution to the
+  contrary notwithstanding, the Hawaiian Homes Commission Act, 1920, enacted by the
+  Congress, as the same has been or may be amended prior to the admission of the State, is
+  hereby adopted as a law of the State, subject to amendment or repeal by the legislature,
+  provided, that, if and to the extent that the United States shall so require said law shall be
+  subject to amendment or repeal only with the consent of the United States and in no other
+  manner, provided, further, that, if the United States shall have been provided or shall
+  provide that particular provisions or types of provisions of said Act may be amended in the
+  manner required for ordinary state legislation, such provisions or types of provisions may
+  be so amended. The proceeds and income from Hawaiian home lands shall be used only in
+  accordance with the terms of said Act, and the legislature may, from time to time, make
+  additional sums available for the purposes of said Act by appropriating the same in the
+  manner provided by law.
+  
+  *** SEND ***
+  *** SSTART 002.0 011.0 0 HI 1959 ***
+           
+  SEC. 2.  COMPACT WITH THE UNITED STATES.  The State and its people do
+  hereby accept, as a compact with the United States, or as conditions or trust provisions
+  imposed by the United States, relating to the management and disposition of the Hawaiian
+  home lands, the requirement that Section 1 hereof be included in this constitution, in
+  whole or in part, it being intended that the Act or Acts of the Congress pertaining thereto
+  shall be definitive of the extent and nature of such compact, conditions or trust provisions,
+  as the case may be. The State and its people do further agree and declare that the spirit of
+  the Hawaiian Homes Commission Act looking to the continuance of the Hawaiian homes
+  projects for the further rehabilitation of the Hawaiian race shall be faithfully carried out.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 012.0 HI 1959 ***
+           
+  ARTICLE XII
+           
+  ORGANIZATION, COLLECTIVE BARGAINING
+  
+  *** SSTART 001.0 012.0 0 HI 1959 ***
+           
+  SEC. 1.  PRIVATE EMPLOYEES.  Persons in private employment shall have the right to
+  organize for the purpose of collective bargaining.
+           
+  PUBLIC EMPLOYEES.  Persons in public employment shall have the right to organize
+  and to present and make known their grievances and proposals to the State, or any
+  political subdivision or any department or agency thereof.
+           
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 013.0 HI 1959 ***
+           
+  ARTICLE XIII
+           
+  STATE BOUNDARIES, CAPITAL, FLAG
+  
+  *** SSTART 001.0 013.0 0 HI 1959 ***
+  
+  SEC. 1.   BOUNDARIES.  The State of Hawaii shall include the islands and territorial
+  waters heretofore constituting the Territory of Hawaii. 
+  
+  *** SEND ***
+  *** SSTART 002.0 013.0 0 HI 1959 ***
+  
+  SEC. 2.  CAPITAL.  Honolulu, on the Island of Oahu shall be the capital of the State.
+  
+  *** SEND ***
+  *** SSTART 003.0 013.0 0 HI 1959 ***
+           
+  SEC. 3.  STATE FLAG.  The Hawaiian flag shall be the flag of the State.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 014.0 HI 1959 ***
+           
+  ARTICLE XIV
+           
+  GENERAL AND MISCELLANEOUS PROVISIONS
+  
+  *** SSTART 001.0 014.0 0 HI 1959 ***
+  
+  SEC.1.  CIVIL SERVICE.  The employment of persons in the civil service, as defined by
+  law, of or under the State, shall be governed by the merit principle.
+  
+  *** SEND ***
+  *** SSTART 002.0 014.0 0 HI 1959 ***
+           
+  SEC. 2.  EMPLOYEES' RETIREMENT SYSTEM.  Membership in any employees'
+  retirement system of the State or any political subdivision thereof shall be a contractual
+  relationship, the accrued benefits of which shall not be diminished or impaired.
+  
+  *** SEND ***
+  *** SSTART 003.0 014.0 0 HI 1959 ***
+           
+  SEC. 3.  DISQUALIFICATION FOR DISLOYALTY.  No person who advocates, or
+  who aids or belongs to any party, organization or association which advocates, the
+  overthrow by force or Violence of the government of this State or of the United States
+  shall be qualified to hold any public office or employment.
+  
+  *** SEND ***
+  *** SSTART 004.0 014.0 0 HI 1959 ***
+           
+  SEC. 4.  OATH OF OFFICE.  All public officers, before entering upon the duties of their
+  respective offices, shall take and subscribe to the following oath or affirmation: "I do
+  solemnly swear (or affirm) that I will support and defend the Constitution of the United
+  States, and the Constitution of the State of Hawaii, and that I will faithfully discharge my 
+  duties as    .. to the best of my ability." The legislature may prescribe further oaths or
+  affirmations.
+  
+  *** SEND ***
+  *** SSTART 005.0 014.0 0 HI 1959 ***
+           
+  SEC. 5.  INTERGOVERNMENTAL RELATIONS.  The legislature may provide for
+  cooperation on the part of this State and its political subdivisions with the United States,
+  or other states  and territories, or their political subdivisions, in matters affecting the public
+  health, safety and general welfare, and funds may be appropriated to effect such
+  cooperation.
+  
+  *** SEND ***
+  *** SSTART 006.0 014.0 0 HI 1959 ***
+           
+  SEC. 6.  FEDERAL LANDS.  The United States shall be vested with or retain title to or
+  an interest in or shall hold the property in the Territory of Hawaii set  aside for the use of
+  the United States and remaining so set aside immediately prior to the admission of this
+  State, in all respects as and to the extent set forth in the act or resolution providing for the
+  admission of this State to the Union.
+  
+  *** SEND ***
+  *** SSTART 007.0 014.0 0 HI 1959 ***
+           
+  SEC. 7.  COMPLIANCE WITH TRUST.  Any trust provisions which the Congress shall
+  impose, upon the admission of this State, in respect of the lands patented to the State by
+  the United States or the proceeds and income therefrom, shall be complied with by
+  appropriate legislation.
+  
+  *** SEND ***
+  *** SSTART 008.0 014.0 0 HI 1959 ***
+  
+  SEC. 8.  ADMINISTRATION OF UNDISPOSED LANDS.  The lands and other
+  property, the final determination and disposition of which shall not have been made by the
+  Congress upon the admission of this State, shall, pending such determination and
+  disposition, continue to be administered in accordance with the laws applicable thereto
+  immediately prior to the admission of this State, except as the Congress may consent to
+  any amendment of said laws, and no provision of this constitution for the exercise of
+  powers or functions other than in accordance with such laws shall, without the consent of
+  the Congress, apply to the lands or property so administered.
+  
+  *** SEND ***
+  *** SSTART 009.0 014.0 0 HI 1959 ***
+           
+  SEC. 9.  FEDERAL PROPERTY, TAX EXEMPTION.  No taxes shall be imposed by the
+  State upon any lands or other property now owned or hereafter acquired by the United
+  States, except as the same shall become taxable by reason of disposition thereof by the
+  United States or by reason of the consent of the United States to such taxation.
+  
+  *** SEND ***
+  *** SSTART 010.0 014.0 0 HI 1959 ***
+  
+  SEC. 10.  HAWAII NATIONAL PARK.  All provisions of the act or resolution admitting
+  this State to the Union, or providing for such admission, which reserve to the United
+  States jurisdiction of Hawaii National Park, or the ownership or control of lands within
+  Hawaii National Park, are consented to fully by the State and its people.
+  
+  *** SEND ***
+  *** SSTART 011.0 014.0 0 HI 1959 ***
+           
+  SEC. 11.  JUDICIAL RIGHTS.  All those provisions of the act or resolution admitting
+  this State to the Union, or providing for such admission, which reserve to the United
+  States judicial rights or powers are consented to fully by the State and its people; and
+  those provisions of said act or resolution which preserve for the State judicial rights and
+  powers are hereby accepted and adopted, and such rights and powers are hereby assumed,
+  to be exercised and discharged pursuant to this constitution and the laws of the State.
+  
+  *** SEND ***
+  *** SSTART 012.0 014.0 0 HI 1959 ***
+           
+  SEC. 12.  TITLES, SUBTITLES, PERSONAL PRONOUNS; CONSTRUCTION.  Titles
+  and subtitles shall not be used for purposes of construing this constitution. Whenever any
+  personal pronoun appears in this constitution, it shall be construed to mean either sex.
+  
+  *** SEND ***
+  *** SSTART 013.0 014.0 0 HI 1959 ***
+           
+  SEC. 13.  GENERAL POWER.  The enumeration in this constitution of specified powers
+  shall not be construed as limitations upon the power of the State to provide for the general
+  welfare of the people.
+  
+  *** SEND ***
+  *** SSTART 014.0 014.0 0 HI 1959 ***
+  
+  SEC. 14.  PROVISIONS SELF-EXECUTING.  The provisions of this constitution shall
+  be self-executing to the fullest extent that their respective natures permit.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 015.0 HI 1959 ***
+           
+  ARTICLE XV
+           
+  REVISION AND AMENDMENT
+  
+  *** SSTART 001.0 015.0 0 HI 1959 ***
+  
+  SEC. 1.   METHODS OF PROPOSAL.  Revisions of or amendments to this constitution
+  may be proposed by constitutional convention or by the legislature.
+  
+  *** SEND ***
+  *** SSTART 002.0 015.0 0 HI 1959 ***
+           
+  SEC. 2.  CONSTITUTIONAL CONVENTION.  The legislature may submit to the
+  electorate at any general or special election the question, "Shall there be a convention to
+  propose a revision of or amendments to the Constitution?"  If any ten-year period shall
+  elapse during which the question shall not have been submitted, the lieutenant governor
+  shall certify the question, to be voted on at the first general election following the
+  expiration of such period.
+           
+  ELECTION OF DELEGATES.  If a majority of the ballots cast upon such question be in
+  the affirmative, delegates to the convention shall be chosen at the next regular election
+  unless the legislature shall provide for the election of delegates at a special election.   
+       Notwithstanding any provision in this constitution to the contrary, other than Section 3
+  of Article XIV, any qualified voter of the district concerned shall be eligible to
+  membership in the convention.
+       Unless the legislature shall otherwise provide, there shall be the same number of
+  delegates to such convention, who shall he elected from the same areas, and the
+  convention shall be convened in the same manner, as nearly as practicable, as required for
+  the Hawaii State Constitutional Convention of 1950.
+           
+  ORGANIZATION; PROCEDURE.  The convention shall determine its own organization
+  and rules of procedure. It shall be the sole judge of the elections, returns and qualifications
+  of its members and, by a two-thirds vote, may suspend or remove any member for cause.
+  The governor shall fill any vacancy by appointment of a qualified voter from the district
+  concerned.
+           
+  RATIFICATION; APPROPRIATIONS.  The convention shall provide for the time and
+  manner in which the proposed constitutional revision or amendments shall be submitted to
+  a vote of the electorate, but no such revision or amendments shall be effective unless
+  approved at a general election by a majority of all of the votes tallied upon the question,
+  such majority constituting at least thirty-five percent of the total vote cast at such election,
+  or at a special election by a majority of the total vote tallied upon such question, such
+  majority constituting at least thirty-five percent of the total number of registered voters;
+  provided, that no constitutional amendment altering this proviso or the representation
+  from any senatorial  district in the senate shall become effective unless it shall also be
+  approved by a majority of the votes tallied upon the question in each of a majority of  the
+  counties.
+       The provisions of this section shall be self-executing, but the legislature shall make the
+  necessary appropriations and may enact legislation to facilitate their operation.
+  
+  *** SEND ***
+  *** SSTART 003.0 015.0 0 HI 1959 ***
+           
+  SEC.3.  AMENDMENTS PROPOSED BY LEGISLATURE.  The legislature may
+  propose amendments to the constitution by adopting the same, in the manner required for
+  legislation, by a two-thirds vote of each house on final reading at any session, after either
+  or both houses shall have given the governor at least ten days' written notice of the final
+  form of the proposed amendment, or, with or without such notice, by a majority vote of
+  each house on final reading at each of two successive sessions.
+       Upon such adoption, the proposed amendments shall be entered upon the journals,
+  with the ayes and noes, and published once in each of four successive weeks in at least one
+  newspaper of general circulation in each senatorial district wherein such a newspaper is
+  published, within the two months' period immediately preceding the next general election.
+       At such general election the proposed amendments shall be submitted to the electorate
+  for approval or rejection upon a separate ballot.
+       The conditions of and requirements for ratification of such proposed amendments shall
+  be the same as provided in Section 2 of this article for ratification at a general election.
+  
+  *** SEND ***
+  *** SSTART 004.0 015.0 0 HI 1959 ***
+  
+  SEC. 4.  VETO.   No proposal for amendment of the constitution adopted in either
+  manner provided by this article shall be subject to veto by the governor.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 016.0 HI 1959 ***
+           
+  ARTICLE XVI
+  
+  SCHEDULE
+  
+  *** SSTART 001.0 016.0 0 HI 1959 ***
+  
+  REPRESENTATIVE DISTRICTS
+  SEC. 1.  DESCRIPTION; NUMBER OF MEMBERS.   As provided in Section 3 of
+  Article III until the next reapportionment, the representative districts and the number of
+  members to be elected from each shall be as follows:
+       First representative district: that portion of the island of Hawaii known as Puna, one
+  representative;
+       Second representative district: that portion of the island of Hawaii known as South
+  Hilo, four representatives;
+       Third representative district: that portion of the island of Hawaii known as North Hilo
+  and Hamakua, one representative;
+       Fourth representative district: that portion of the island of Hawaii known as Kau and
+  South Kona and that portion of North Kona, for convenience herein referred to as
+  Keauhou, more particularly described as follows: from a point at the seashore between the
+  lands of Holualoa 1 and 2 and Puapuaa 2 running northeasterly along the boundary of
+  Holualoa 1 and 2 to Puu Laalaau; (2) easterly in a straight line to a point called
+  "Naohueleelua" being the common corner of the lands of Puuanahulu, Kaohe and
+  Keauhou 2nd; (3) southeasterly along the common boundary between Hamakua and North
+  Kona districts to the summit of Mauna Loa; (4) westerly along the common boundary
+  between Kau and North Kona districts to the easterly boundary of South Kona district; (5)
+  northerly and westerly along the boundary between North and South Kona districts to the
+  seashore; and (6) northerly along the seashore to the point of beginning, one
+  representative;
+       Fifth representative district: that portion of the island of Hawaii known as Kohala and
+  that portion of North Kona not included in the fourth representative district, one
+  representative;
+       Sixth representative district: the islands of Molokai and Lanai, one representative;         
+      Seventh representative district: the islands of Maui and Kahoolawe, five representatives;
+       Eighth representative district: that portion of the island of Oahu known as Koolaupoko
+  and Koolauloa, two representatives;
+       Ninth representative district: that portion of the island of Oahu, for convenience herein
+  referred to as Waialua and Wahiawa, two representatives;
+       Tenth representative district: that portion of the island of Oahu known as Ewa and
+  Waianae, two representatives;
+       Eleventh representative district: that portion of the island of Oahu, for convenience
+  herein referred to as Kalihi, more particularly described as follows: from the intersection
+  of Kalihi and Auiki  Streets running westerly along Auiki Street to Mokauea Street; (2)
+  southwesterly along Mokauea Street Extension extended to a point on the outer edge of
+  the reef; (3) westerly along the outer edge of the reef to a point on the Moanalua-Halawa
+  boundary; (4) northerly and northeasterly along the Moanalua-Halawa boundary to the top
+  of Koolau Range; (5) southeasterly along the top of Koolau Range to a place called "Puu
+  Lanihuli"; (6) southwesterly along the top of the ridge between the lands of Kalihi,
+  Kapalama and Nuuanu to Kalihi Street; and (7) southwesterly along Kalihi Street to the
+  point of beginning, three representatives;
+       Twelfth representative district: that portion of the island of Oahu, for convenience
+  herein referred to as upper Nuuanu, more particularly described as follows: from the
+  intersection of King and Kalihi Streets running northeasterly along Kalihi Street to the
+  ridge between the lands of Kalihi, Kapalama and Nuuanu; (2) northeasterly along the top
+  of said ridge to a point on the Koolau Range called "Puu Lanihuli"; (3) easterly along the
+  top of said Range to Pali Road at the Nuuanu Pali; (4) southwesterly along Pali Road to
+  Nuuanu Avenue and southwesterly along Nuuanu Avenue to School Street; (5)
+  northwesterly along School Street to the center line of the Kapalama Drainage Canal
+  (Waikiki Branch); (6) southwesterly along said Canal to the center line of the main
+  Kapalama Drainage Canal; (7) southwesterly along said Canal to King Street; and (8)
+  northwesterly along King Street to the point of beginning, three representatives;
+       Thirteenth representative district: that portion of the island of Oahu, for convenience
+  herein referred to as Kapalama, more particularly described as follows: from the junction
+  of the Honolulu Harbor Channel and the reef running westerly along the outer edge of the
+  reef to Mokauea Street Extension extended; (2) northeasterly along Mokauea Street
+  Extension extended to Sand Island Road; (3) northeasterly along Mokauea Street
+  Extension to Auiki Street; (4) easterly along Auiki Street to Kalihi Street; (5)
+  northeasterly along Kalihi Street to King Street; (6) southeasterly along King Street to the
+  center line of the main Kapalama Drainage Canal; (7) northerly along said Canal to the
+  center line of the Kapalama Drainage Canal (Waikiki Branch); (8) northeasterly along said
+  Canal to School Street; (9) southeasterly along School Street to Nuuanu Avenue; (10)
+  southwesterly along Nuuanu Avenue to the sea; and (11) southwesterly along the middle
+  of Honolulu Harbor and Honolulu Harbor Channel to the point of beginning, three
+  representatives;
+       Fourteenth representative district: that portion of the island of Oahu for convenience
+  herein referred to as Pauoa, more particularly described as follows: from the junction of
+  the Honolulu Harbor Channel and the outer edge of the reef running northeasterly along
+  the middle of Honolulu Harbor Channel and Honolulu Harbor to the intersection of Queen
+  Street and Nuuanu Avenue; (2) northeasterly along Nuuanu Avenue to Pali Road and
+  northeasterly along Pali Road to the top of the Koolau Range at the Nuuanu Pali;  (3)
+  easterly and southerly along the top of the Koolau Range to a point called "Puu
+  Konahuanui"; (4) southwesterly along the top of the ridge between the lands of Nuuanu,
+  Pauoa and Manoa to a mountain peak called "Puu Ohia" or "Tantalus"; (5) southwesterly
+  along the top of the ridge between the lands of Makiki and Kalawahine to the intersection
+  of Nehoa Street and Lewalani Drive;  (6) southerly along Lewalani Drive and Piikoi     
+  Street to Wilder Avenue; (7) easterly along Wilder Avenue to Punahou Street; (8)
+  southerly along Punahou Street to King Street; (9) westerly along King Street to Kalakaua
+  Avenue; (10) southerly  along Kalakaua Avenue to the center line of the Ala Wai Canal;
+  (11) westerly along said Canal and along the line of said Canal extended to the outer edge
+  of the reef; and (12) westerly along the  outer edge of the reef to the point of beginning,
+  five representatives;
+       Fifteenth representative district: that portion of the island of Oahu, for convenience
+  herein referred to as Manoa and Waikiki, more particularly described as follows: from the
+  intersection of Kalakaua Avenue and the center line of the Ala Wai Canal running
+  northerly along Kalakaua Avenue to King Street; (2) easterly along King Street to      
+  Punahou Street; (3) northerly along Punahou Street to Wilder Avenue; (4) westerly along
+  Wilder Avenue to Piikoi Street; (5) northerly along Piikoi Street to Lewalani Drive; (6)
+  northerly along Lewalani Drive to Nehoa Street; (7) northeasterly along the top of the
+  ridge between the lands of Makiki and Kalawahine to a mountain peak called "Puu Ohia"
+  or "Tantalus"; (8) northeasterly along the top of the ridge between the lands of Pauoa,      
+  Manoa and Nuuanu to a point on the Koolau Range called "Puu Konahuanui"; (9)
+  southeasterly along the top of said Range to a place called "Mt. Olympus"; (10)
+  southwesterly along the top of Waahila Ridge to the top edge of Pablo Valley; (11)
+  southwesterly along the top edge of said Valley to the forest reserve boundary; (12)
+  southwesterly along the southeasterly boundary of St. Louis Heights Tract, Series 2 (File
+  Plan 464) to the southerly boundary of said Tract 100 feet southeasterly from Alencastre
+  Street; (13) southwesterly parallel to and 100 feet from Alencastre Street and St. Louis
+  Drive to Waialae Avenue; (14) westerly along Waialae Avenue to Kapahulu Avenue
+  extended; (15) southerly across Waialae Avenue and along Kapahulu Avenue to Kalakaua
+  Avenue; (16) westerly along Kapahulu Avenue extended to the outer edge of the reef;
+  (17) northwesterly along the outer edge of the reef to a point on the line extended of the
+  center line of the Ala Wai Canal; and (18) easterly along said line to the point of
+  beginning, six representatives;
+       Sixteenth representative district: that portion of the island. of Oahu, for convenience
+  herein referred to as Kaimuki and Kapahulu, more particularly described as follows: from
+  a point at the seacoast at a place called "Black Point" running westerly along the seacoast
+  to Kapahulu Avenue extended to the sea; (2) easterly across Kalakaua Avenue and
+  easterly and northerly along Kapahulu Avenue to Waialae Avenue;. (3) easterly along
+  Waialae Avenue to a point 100 feet easterly of St. Louis Drive; (4) northeasterly across
+  Waialae Avenue then parallel to and 100 feet from St. Louis Drive and Alencastre Street
+  to the southerly boundary of St. Louis Heights Tract, Series 2 (File Plan No. 464); (5)
+  northeasterly along the southeasterly boundary of said Tract to the forest reserve
+  boundary; (6) northeasterly along the top ridge of Pablo Valley to the top of Waahila
+  Ridge; (7) northeasterly along the top of Waahila Ridge to a point on the Koolau Range
+  called "Mt. Olympus"; (8) easterly along the top of the Koolau Range to the top of the
+  ridge between the lands of Waialae Nui and Pablo; (9) southwesterly along the top of said
+  ridge to a place called "Kalepeamoa"; (10) southwesterly along Mauumae Ridge to Sierra
+  Drive; (11) southwesterly along Sierra Drive to Waialae Avenue; (12) easterly along
+  Waialae Avenue to 13th Avenue; (13) southwesterly along 13th Avenue and Ocean View
+  Drive to Kilauea Avenue; (14) westerly along Kilauea Avenue to Makapuu Avenue; (15)
+  southwesterly along Makapuu Avenue to Diamond Head Road; and (16) southeasterly
+  along Diamond Head Road to the Military Road and along the Military Road extended to
+  the point of beginning, four representatives;
+       Seventeenth representative district: that portion of the island of Oahu not included in
+  any other representative district on the island of Oahu together with all other islands not
+  included in any other representative district, three representatives;
+       Eighteenth representative district: the islands of Kauai and Niihau, four representatives.
+       Wherever a roadway, or the intersection of one or more roadways, is designated as a
+  boundary in any of the above descriptions, the center line of such roadway or intersection
+  is intended as such boundary. 
+  
+  *** SEND ***
+  *** SSTART 002.0 016.0 0 HI 1959 ***
+           
+  TRANSITIONAL PROVISIONS
+  SEC. 2.  CONTINUITY OF LAWS.  All laws in force at the time this constitution takes
+  effect and not inconsistent therewith, including, among others, acts of the Congress
+  relating to the lands in the possession, use arid control of the Territory of Hawaii, shall be
+  the laws of the State and remain in force, mutatis mutandis, until they expire by their own 
+  limitation, or are altered or repealed by the legislature.
+       Except as otherwise provided by this constitution, all existing writs, actions, suits,
+  proceedings, civil or criminal liabilities, prosecutions, judgments, sentences, orders,
+  decrees, appeals, causes of action, contracts, claims, demands, titles and rights shall
+  continue unaffected notwithstanding the taking effect of this constitution, except that the
+  State shall be the legal successor to the Territory in respect thereof, and may be
+  maintained, enforced or prosecuted, as the case may be, before the appropriate or
+  corresponding tribunals or agencies of or under the State or of the United States, in the
+  name of the State, political subdivision, person or other party entitled to do so, in all
+  respects as fully as could have been done prior to taking effect of this constitution.
+  
+  *** SEND ***
+  *** SSTART 003.0 016.0 0 HI 1959 ***
+           
+  SEC.  3.  DEBTS.  The debts and liabilities of the Territory shall be assumed and paid by
+  the State, and all debts owed to the Territory shall be collected by the State.
+  
+  *** SEND ***
+  *** SSTART 004.0 016.0 0 HI 1959 ***
+           
+  SEC. 4.  BOND ACTS.  All acts of the legislature of the Territory authorizing the
+  issuance of bonds by the Territory or its political subdivisions are approved, subject,
+  however, to amendment or repeal by the legislature, and bonds may be issued by the State
+  and its political subdivisions pursuant to said acts. Whenever in said acts the approval of
+  the President or of the Congress is required, the approval of the governor shall suffice.
+  
+  *** SEND ***
+  *** SSTART 005.0 016.0 0 HI 1959 ***
+           
+  SEC.5.  CONTINUANCE OF OFFICERS.  Except as otherwise provided by this
+  constitution, all executive officers of the Territory or any political subdivision thereof and
+  all judicial officers who may be in office at the time of admission of this State to the Union
+  shall continue to exercise and discharge the powers and duties of their respective offices
+  until their successors shall have qualified in accordance with this constitution or the laws
+  enacted pursuant thereto.
+  
+  *** SEND ***
+  *** SSTART 006.0 016.0 0 HI 1959 ***
+           
+  SEC. 6.  LIEUTENANT GOVERNOR; SECRETARY.  Unless otherwise provided by
+  law the lieutenant governor shall exercise and discharge the powers and duties of the
+  secretary of the Territory.
+  
+  *** SEND ***
+  *** SSTART 007.0 016.0 0 HI 1959 ***
+           
+  SEC. 7.  RESIDENCE, OTHER QUALIFICATIONS.  Requirements as to residence,
+  citizenship or other status or qualifications in or under the State prescribed by this
+  constitution shall be satisfied pro tanto by corresponding residence, citizenship or other
+  status or qualifications in or under the Territory.
+  
+  *** SEND ***
+  *** SSTART 008.0 016.0 0 HI 1959 ***
+           
+  SEC. 8.  ALLOCATION OF DEPARTMENTS.  The provisions of Section 6 of Article
+  IV shall not be mandatory until four years from the date of admission of this State to the
+  Union. The legislature shall within three years from said date allocate and group the
+  executive  and administrative offices, departments and instrumentalities of the state
+  government and their respective functions, powers and duties among and within the
+  principal departments pursuant to said section.
+       If such allocation and grouping shall not have been completed within such period, the
+  governor,  within one year thereafter, by executive order,  shall make such allocation and
+  grouping.
+  
+  *** SEND ***
+  *** SSTART 009.0 016.0 0 HI 1959 ***
+  
+  SEC. 9.  CONDEMNATION OF FISHERIES.  All vested rights in fisheries in the sea
+  waters not included in any fish pond or artificial enclosure shall be condemned to the use
+  of the public upon payment of just compensation, which compensation, when lawfully
+  ascertained, shall be paid out of any money in the treasury of the State not otherwise
+  appropriated.         
+  
+  *** SEND ***
+  *** SSTART 010.0 016.0 0 HI 1959 ***
+           
+  FIRST OFFICERS, PROCEDURES
+  SEC. 10.  ELECTIONS.  In case the people of the Territory ratify this constitution and
+  the same is approved by the duly constituted authority of the United States whose
+  approval thereto may be required, the governor of the Territory shall, within thirty days   
+  after receipt of the official notification of such approval, issue a proclamation for primary
+  and final elections, as hereinafter provided, at which officers for all state elective offices
+  provided for by this constitution shall be nominated and elected; but the officers so to be
+  elected shall in any event include two Senators and two Representatives in Congress, and
+  unless and until otherwise required by law, said representatives shall be elected at large. 
+  
+  *** SEND ***
+  *** SSTART 011.0 016.0 0 HI 1959 ***
+           
+  SEC. 11.  ELECTION PROCEDURE; CERTIFICATION.  Said primary election shall
+  take  place not less than sixty nor more than ninety days after said proclamation, and the
+  final election shall take place within forty days after the primary election. Such elections
+  shall be held and the qualifications of voters thereat shall be as prescribed by this
+  constitution and by the laws relating to the election of members of the legislature at
+  primary and general elections. The returns thereof shall be made, canvassed and certified
+  in the manner prescribed by law with respect to the election for the ratification or rejection
+  of this constitution. The governor shall thereupon certify the results thereof to the
+  President.
+  
+  *** SEND ***
+  *** SSTART 012.0 016.0 0 HI 1959 ***
+           
+  SEC. 12.  PROCLAMATION OF ADMISSION; ASSUMPTI9N OF OFFICE.  Upon the
+  issuance by the President of a proclamation announcing the results of said election and the
+  admission of this State to the Union, the officers elected and qualified shall proceed to
+  exercise and discharge the powers and duties pertaining to their respective offices.
+  
+  *** SEND ***
+  *** SSTART 013.0 016.0 0 HI 1959 ***
+           
+  SEC. 13.  GOVERNOR AND LIEUTENANT GOVERNOR.  The first governor and
+  lieutenant governor shall hold office for a term beginning with their election and ending at
+  noon on the first Monday in December following the second general election.
+  
+  *** SEND ***
+  *** SSTART 014.0 016.0 0 HI 1959 ***
+           
+  SEC. 14.  CERTIFICATION. UNITED STATES SENATORS AND
+  REPRESENTATIVES.  The governor of the State and secretary of state shall certify the
+  election of the senators and representatives to the Congress in the manner required by law.
+  For this purpose, the lieutenant governor of this State shall be deemed secretary of state.
+  
+  *** SEND ***
+  *** SSTART 015.0 016.0 0 HI 1959 ***
+  
+  SEC. 15.  FIRST LEGISLATURE; TERM OF OFFICE.  The terms of office of the
+  members of the first legislature shall be as follows:
+       Members of the house of representatives shall hold office for a term beginning with
+  their election and ending on the day of the second general election held thereafter.
+       Members of the senate shall be divided into two classes. The first class shall consist of
+  the following number elected with the highest number of votes from their respective
+  senatorial districts:  first district, three; second district, one; third district, two; fourth
+  district, three; fifth district, two; and sixth district, two. Members of the first class shall
+  hold office for a term beginning with their election and ending on the day of the third
+  general election held thereafter. The remaining members elected shall constitute the
+  second class and shall hold office for a term beginning with their election and ending on
+  the day of the second general election held thereafter.
+  
+  *** SEND ***
+  *** SSTART 016.0 016.0 0 HI 1959 ***
+           
+  SEC. 16.  FIRST SESSION OF LEGISLATURE.  Ten days after the admission of this
+  State to the Union, the legislature shall convene in special session.
+  
+  *** SEND ***
+  *** SSTART 017.0 016.0 0 HI 1959 ***
+           
+  SEC. 17.  SALARIES OF LEGISLATORS.  Until otherwise provided by law in
+  accordance with Section 10 of Article III, the salary of members of the legislature shall be
+  as follows: the sum of two thousand five hundred dollars for each general session, the sum
+  of one thousand five hundred dollars for each budget session and the sum of seven
+  hundred and fifty dollars for each special session.
+  
+  *** SEND ***
+  *** SSTART 018.0 016.0 0 HI 1959 ***
+           
+  SEC. 18.  COMPENSATION OF JUDGES.  Until the legislature shall otherwise provide
+  under Section 3 of Article V, the chief justice, justices of the supreme court and judges of
+  the circuit courts shall receive as compensation for their services the sums of seventeen
+  thousand five hundred dollars, seventeen thousand dollars and fifteen thousand dollars per
+  annum, respectively, which shall, notwithstanding the provisions of Article V of this
+  constitution, be subject to increase or decrease by the first session of the legislature.
+           
+  *** SEND ***
+  *** AEND ***
+           
+  EFFECTIVE DATE.  This constitution shall take effect and be in full force immediately
+  upon the admission of Hawaii into the Union as a State.
+           
+  Done in Convention, at Iolani Place, Honolulu, Hawaii, on the twenty-second day of July,
+  in the year one thousand nine hundred fifty, and of the Independence of the United States
+  of America the one hundred and seventy-fifth.
+  
+  *** CEND ***

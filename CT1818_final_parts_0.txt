@@ -1,0 +1,1906 @@
+This constitution was coded by Trisha Posey and checked
+by John Wallis on 8/27/2002
+
+It is ready to go.
+
+Aaron: The tester doesn't seem to like the format on amendment 001.
+
+
+               
+
+
+*** CSTART CT 10/12/1818 01/01/1955 ***
+
+                    CONSTITUTION OF CONNECTICUT-1818
+
+*** ASTART 9001.0 CT 1818 ***
+
+                                PREAMBLE
+
+The people of Connecticut, acknowledging with gratitude the good providence of God in having permitted them
+to enjoy a free government, do, in order more effectually to define, secure, and perpetuate the liberties, rights,
+and privileges which they have derived from their ancestors, hereby, after a careful consideration and revision,
+ordain and establish the following Constitution and form of civil government:
+
+*** AEND ***
+*** ASTART 001.0 CT 1818 ***
+
+                              ARTICLE FIRST
+                                    
+                          DECLARATION OF RIGHTS
+
+That the great and essential principles of liberty and free government may be recognized and established, we
+declare,
+
+*** SSTART 001.00 001.00 0 CT 1818 ***
+
+SECTION 1. That all men, when they form a social compact, are equal in rights; and that no man or set of men
+are entitled to exclusive public emoluments or privileges from the community.
+
+*** SEND ***
+*** SSTART 002.00 001.00 0 CT 1818 ***
+
+SEC. 2. That all political power is inherent in the people, and all free governments are founded on their authority
+and instituted for their benefit; and that they have at all times an undeniable and indefeasible right to alter their
+form of government in such a manner as they may think expedient.
+
+*** SEND ***
+*** SSTART 003.00 001.00 0 CT 1818 ***
+
+SEC. 3. The exercise and enjoyment of religious profession and worship, without discrimination, shall forever be
+free to all persons in this State, provided that the right hereby declared and established shall not be so construed
+as to excuse acts of licentiousness, or to justify practices inconsistent with the peace and safety of the State.
+
+*** SEND ***
+*** SSTART 004.00 001.00 0 CT 1818 ***
+
+SEC. 4. No preference shall be given by law to any Christian sect or mode of worship.
+
+*** SEND ***
+*** SSTART 005.00 001.00 0 CT 1818 ***
+
+SEC. 5. Every citizen may freely speak, write, and publish his sentiments on all subjects, being responsible for
+the abuse of that liberty.
+
+*** SEND ***
+*** SSTART 006.00 001.00 0 CT 1818 ***
+
+SEC. 6. No law shall ever be passed to curtail or restrain the liberty of speech or of the press.
+
+*** SEND ***
+*** SSTART 007.00 001.00 0 CT 1818 ***
+
+SEC. 7. In all prosecutions or indictments for libels, the truth may be given in evidence, and the jury shall have
+the right to determine the law and the facts, under the direction of the court.
+
+*** SEND ***
+*** SSTART 008.00 001.00 0 CT 1818 ***
+
+SEC. 8. The people shall be secure in their persons, houses, papers, and possessions from unreasonable searches
+or seizures, and no warrant to search any place, or to seize any person or things, shall issue without describing
+them as nearly as may be, nor without probable cause supported by oath or affirmation.
+
+*** SEND ***
+*** SSTART 009.00 001.00 0 CT 1818 ***
+
+SEC. 9. In all criminal prosecutions, the accused shall have the right to be heard by himself and by counsel; to
+demand the nature and cause of the accusation; to be confronted by the witnesses against him; to have
+compulsory process to obtain witnesses in his favor; and in all prosecutions, by indictment or information, a
+speedy public trial by an impartial jury. He shall not be compelled to give evidence against himself, nor be
+deprived of life, liberty, or property, but by the course of law. And no person shall be holden to answer for any
+crime, the punishment of which may be death or imprisonment for life, unless on a presentment or indictment of
+a grand jury; except in the land or naval forces, or in the militia when in actual service in time of war or public
+danger.
+
+*** SEND ***
+*** SSTART 010.00 001.00 0 CT 1818 ***
+
+SEC. 10. No person shall be arrested, detained, or punished, except in cases clearly warranted by law.
+
+*** SEND ***
+*** SSTART 011.00 001.00 0 CT 1818 ***
+
+SEC. 11. The property of no person shall be taken for public use without just compensation therefor.
+
+*** SEND ***
+*** SSTART 012.00 001.00 0 CT 1818 ***
+
+SEC. 12. All courts shall be open, and every person, for an injury done to him in his person, property, or
+reputation, shall have remedy by due course of law, and right and justice administered without sale, denial, or
+delay.
+
+*** SEND ***
+*** SSTART 013.00 001.00 0 CT 1818 ***
+
+SEC. 13. Excessive bail shall not be required, nor excessive fines imposed.
+
+*** SEND ***
+*** SSTART 014.00 001.00 0 CT 1818 ***
+
+SEC. 14. All prisoners shall, before conviction, be bailable by sufficient sureties except for capital Offenses,
+where the proof is evident, or the presumption great; and the privileges of the writ of habeas corpus shall not be
+suspended, unless when, in case of rebellion or invasion, the public safety may require it; nor in any case, but by
+the legislature.
+
+*** SEND ***
+*** SSTART 015.00 001.00 0 CT 1818 ***
+
+SEC. 15. No person shall be attainted of treason or felony by the legislature.
+
+*** SEND ***
+*** SSTART 016.00 001.00 0 CT 1818 ***
+
+SEC. 16. The citizens have a right, in a peaceable manner, to assemble for their common good, and to apply to
+those invested with the powers of government, for redress of grievances, or other proper purposes, by petition,
+address, or remonstrance.
+
+*** SEND ***
+*** SSTART 017.00 001.00 0 CT 1818 ***
+
+SEC. 17. Every citizen has a right to bear arms in defense of himself and the State.
+
+*** SEND ***
+*** SSTART 018.00 001.00 0 CT 1818 ***
+
+SEC. 18. The military shall, in all cases and at all times, be in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 019.00 001.00 0 CT 1818 ***
+
+SEC. 19. No soldier shall, in time of peace, be quartered in any house without the consent of the owner; nor in
+time of war but in a manner to be prescribed by law.
+
+*** SEND ***
+*** SSTART 020.00 001.00 0 CT 1818 ***
+
+SEC. 20. No hereditary emoluments, privileges, or honors shall ever be granted or conferred in this State.
+
+*** SEND ***
+*** SSTART 021.00 001.00 0 CT 1818 ***
+
+SEC. 21. The right of trial by jury shall remain inviolate.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.00 CT 1818 ***
+*** SSTART 001.00 002.00 0 CT 1818 ***
+                             ARTICLE SECOND
+                                    
+                      OF THE DISTRIBUTION OF POWERS
+
+The powers of government shall be divided into three distinct departments, and each of them confided to a
+separate magistracy, to wit: those which are legislative, to one; those which are executive, to another; and those
+which are judicial, to another.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.00 CT 1818 ***
+
+                              ARTICLE THIRD
+                                    
+                      OF THE LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.00 003.00 0 CT 1818 ***
+
+SECTION 1. The legislative power of this State shall be vested in two distinct houses or branches; the one to be
+styled The Senate, the other The House of Representatives, and both together The General Assembly. The style
+of their laws shall be, Be it enacted by the Senate and House of Representatives in General Assembly convened.
+
+*** SEND ***
+*** SSTART 002.00 003.00 0 CT 1818 ***
+
+SEC. 2. There shall be one stated session of the General Assembly, to be holden in each year, alternately at
+Hartford and New Haven, on the first Wednesday of May, and at such other times as the General Assembly shall
+judge necessary; the first session to be holden at Hartford; but the person administering the office of Governor
+may, on special emergencies, convene the General Assembly at either of said places, at any other time. And in
+case of danger from the prevalence of contagious diseases in either of said places, or other circumstances, the
+person administering the office of Governor may by proclamation convene said Assembly at any other place in
+this State.
+
+*** SEND ***
+*** SSTART 003.00 003.00 0 CT 1818 ***
+
+SEC. 3. The House of Representatives shall consist of electors residing in towns from which they are elected.
+The number of Representatives from each town shall be the same as at present practiced and allowed. In case a
+new town shall hereafter be incorporated, such new town shall be entitled to one representative only;  and if
+such new town shall be made from one or more towns, the town or towns from which the same shall be made
+shall be entitled to the same number of Representatives as at present allowed, unless the number shall be
+reduced by the consent of such town or towns.
+
+*** SEND ***
+*** SSTART 004.00 003.00 0 CT 1818 ***
+
+SEC. 4. The Senate shall consist of twelve members, to be chosen annually by the electors.
+
+*** SEND ***
+*** SSTART 005.00 003.00 0 CT 1818 ***
+
+SEC. 5. At the meetings of the electors, held in the several towns in this State in April annually, after the
+election of Representatives, the electors present shall be called upon to bring in their written ballots for
+Senators. The presiding officer shall receive the votes of the electors, and count and declare them in open
+meeting. The presiding officer shall also make duplicate lists of the persons voted for, and of the number of
+votes for each, which shall be certified by the presiding officer; one of which lists shall be delivered to the Town
+Clerk, and the other, within ten days after said meeting, shall be delivered, under seal, either to the Secretary or
+to the sheriff of the county in which said town is situated; which list shall be directed to the Secretary, with a
+superscription expressing the purport of the contents thereof; and each sheriff who shall receive such votes shall,
+within fifteen days after said meeting, deliver, or cause them to be delivered, to the Secretary.
+
+*** SEND ***
+*** SSTART 006.00 003.00 0 CT 1818 ***
+
+SEC. 6. The Treasurer, Secretary, and Comptroller, for the time being, shall canvas the votes publicly. The
+twelve persons having the greatest number of votes for Senators shall be declared to be elected. But in cases
+where no choice is made by the electors in consequence of an equality of votes, the House of Representatives
+shall designate, by ballot, which of the candidates having such equal number of votes shall be declared to be
+elected. The return of votes and the result of the canvass shall be submitted to the House of Representatives, and
+also to the Senate, on the first day of the session of the General Assembly; and each house shall be the final
+judge of the election returns, and qualifications of its own members.
+
+*** SEND ***
+*** SSTART 007.00 003.00 0 CT 1818 ***
+
+SEC. 7. The House of Representatives, when assembled, shall choose a speaker, clerk, and other officers. The
+Senate shall choose its clerk and other officers except the President. A majority of each house shall constitute a
+quorum to do business; but a smaller number may adjourn. from day to day, and compel the attendance of
+absent members in such manner, and under such penalties, as each house may prescribe.
+
+*** SEND ***
+*** SSTART 008.00 003.00 0 CT 1818 ***
+
+SEC. 8. Each house shall determine the rules of its own proceedings, punish members for disorderly conduct,
+and, with the consent of two-thirds, expel a member, but not a second time for the same cause; and shall have all
+other powers necessary for a branch of the legislature of a free and independent State.
+
+
+*** SEND ***
+*** SSTART 009.00 003.00 0 CT 1818 ***
+
+SEC. 9. Each house shall keep a journal of its proceedings, and publish the same, when required by one-fifth of
+its members, except such parts as, in the judgment of a majority, require secrecy. The yeas and nays of the
+members of either house shall, at the desire of one-fifth of those present, be entered on the journals.
+
+*** SEND ***
+*** SSTART 010.00 003.00 0 CT 1818 ***
+
+SEC. 10. The Senators and Representatives shall, in all cases of civil process, be privileged from arrest during
+the session of the General Assembly, and or four days before the commencement and after the termination of
+any session thereof. And for any speech or debate in either house, they shall not be questioned in any other
+place.
+
+*** SEND ***
+*** SSTART 011.00 003.00 0 CT 1818 ***
+
+SEC. 11. The debates of each house shall be public, except on such occasions as, in the opinion of the house,
+may require secrecy.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.00 CT 1818 ***
+
+                             ARTICLE FOURTH
+                                    
+                       OF THE EXECUTIVE DEPARTMENT
+
+*** SSTART 001.00 004.00 0 CT 1818 ***
+
+SECTION 1. The supreme executive power of the State shall be vested in a Governor, who shall be chosen by
+the electors of the State, and shall hold his office for one year from the first Wednesday of May next succeeding
+this election, and until his successor be duly qualified. No person who is not an elector of this State, and who
+has not arrived at the age of thirty years, shall be eligible.
+
+*** SEND ***
+*** SSTART 002.00 004.00 0 CT 1818 ***
+
+SEC. 2. At the meetings of the electors in the respective towns, in the month of April in each year, immediately
+after the election of Senators, the presiding officers shall call upon the electors to bring in their ballots for him
+whom they would elect to be Governor, with his name fairly written. When such ballots shall have been
+received and counted in the presence of the electors, duplicate lists of the persons voted for, and of the number
+of votes given for each, shall be made and certified by the presiding officer, one of which lists shall be deposited
+in the office of the Town Clerk within three days, and the other within ten days, after said election, shall be
+transmitted to the Secretary, or to the sheriff of the county in which such election shall have been held. The
+sheriff receiving said votes shall deliver, or cause them to be delivered, to the Secretary within fifteen days next
+after said election. The votes so returned shall be counted by the Treasurer, Secretary, and Comptroller, within
+the month of April. A fair list of the persons and number of votes given for each, together with the returns of the
+presiding officers, shall be, by the Treasurer, Secretary, and Comptroller, made and laid before the General
+Assembly, then next to be holden, on the first day of the session thereof; and said Assembly shall, after
+examination of the same, declare the person whom they shall find to be legally chosen, and give him notice
+accordingly. If no person shall have a majority of the whole number of said votes, or if two or more shall have
+an equal and the greatest number of said votes, then said Assembly, on the second day of their session, by joint
+ballot of both houses, shall proceed, without debate, to choose a Governor from a list of the names of the two
+persons having the greatest number of votes, or of the names of the persons having an equal and highest number
+of votes so returned as aforesaid. The General Assembly shall by law prescribe the manner in which all
+questions concerning the election of a Governor, or Lieutenant-Governor, shall be determined.
+
+*** SEND ***
+*** SSTART 003.00 004.00 0 CT 1818 ***
+
+SEC. 3. At the annual meetings of the electors, immediately after the election of Governor, there shall also be
+chosen, in the same manner as is hereinbefore provided for the election of Governor, a Lieutenant-Governor,
+who shall continue in office for the same time, and possess the same qualifications.
+
+*** SEND ***
+*** SSTART 004.00 004.00 0 CT 1818 ***
+
+SEC. 4. The compensations of the Governor, Lieutenant-Governor, Senators, and Representatives shall be
+established by law, and shall not be varied so as to take effect until after an election, which shall next succeed
+the passage of the law establishing said compensation.
+
+*** SEND ***
+*** SSTART 005.00 004.00 0 CT 1818 ***
+
+SEC. 5. The Governor shall be Captain-General of the militia of the State, except when called into the service of
+the United States.
+
+*** SEND ***
+*** SSTART 006.00 004.00 0 CT 1818 ***
+
+SEC. 6. He may require information in writing from the officers in the executive department on any subject
+relating to the duties of their respective offices.
+
+*** SEND ***
+*** SSTART 007.00 004.00 0 CT 1818 ***
+
+SEC. 7. The Governor, in case of a disagreement between the two houses of the General Assembly respecting
+the time of adjournment, may adjourn them to such time as he shall think proper, not beyond the day of the next
+stated session.
+
+*** SEND ***
+*** SSTART 008.00 004.00 0 CT 1818 ***
+
+SEC. 8. He shall, from time to time, give to the General Assembly information of the state of the government,
+and recommend to their consideration such measures as he shall deem expedient.
+
+*** SEND ***
+*** SSTART 009.00 004.00 0 CT 1818 ***
+
+SEC. 9. He shall take care that the laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 010.00 004.00 0 CT 1818 ***
+
+SEC. 10. The Governor shall have power to grant reprieves after conviction, in all cases except those of
+impeachment, until the end of the next session of the General Assembly, and no longer.
+
+*** SEND ***
+*** SSTART 011.00 004.00 0 CT 1818 ***
+
+SEC. 11. All commissions shall be in the name and by authority of the State of Connecticut; shall be sealed with
+the State seal, signed by the Governor, and attested by the Secretary.
+
+*** SEND ***
+*** SSTART 012.00 004.00 0 CT 1818 ***
+
+SEC. 12. Every bill which shall have passed both houses of the General Assembly shall be presented to the
+Governor. If he approves, he shall sign and transmit it to the Secretary, but if not he shall return it to the house
+in which it originated, with his objections, which shall be entered on the journals of the house, who shall
+proceed to reconsider the bill. If, after such reconsideration, that house shall again pass it, it shall be sent, with
+objections, to the other house, which shall also reconsider it. If approved, it shall become a law. But in such
+cases the votes of both houses shall be determined by yeas and nays; and the names of the members voting for
+and against the bill shall be entered on the journals of each house respectively. If the bill shall not be returned by
+the Governor within three days, Sundays excepted, after it shall have been presented to him, the same shall be a
+law, in like manner as if he had signed it, unless the General Assembly, by their adjournment, prevents its
+return; in which case it shall not be a law.
+
+*** SEND ***
+*** SSTART 013.00 004.00 0 CT 1818 ***
+
+SEC. 13. The Lieutenant-Governor shall, by virtue of his office, be President of the Senate, and have, when in
+Committee of the Whole, a right to debate; and when the Senate is equally divided, to give the casting vote.
+
+*** SEND ***
+*** SSTART 014.00 004.00 0 CT 1818 ***
+
+SEC. 14. In case of the death, resignation, refusal to serve, or removal from office of the Governor, or of his
+impeachment or absence from the State, the Lieutenant-Governor shall exercise the powers and authority
+appertaining to the office of Governor, until another be chosen at the next periodical election for Governor, and
+be duly qualified or until the Governor, impeached or absent, shall be acquitted or return.
+
+*** SEND ***
+*** SSTART 015.00 004.00 0 CT 1818 ***
+
+SEC. 15. When the government shall be administered by the Lieutenant-Governor, or he shall be unable to
+attend as President of the Senate, the Senate shall elect one of their members as President pro tempore. And if
+during the vacancy of the office of Governor the Lieutenant-Governor shall die, resign, refuse to serve, or be
+removed from office, or if he shall be impeached or absent from the State, the President of the Senate pro
+tempore shall, in like manner, administer the government, until he be superseded by a Governor or Lieutenant-
+Governor.
+
+*** SEND ***
+*** SSTART 016.00 004.00 0 CT 1818 ***
+
+SEC. 16. If the Lieutenant-Governor shall be required to administer the Government, and shall, while in such
+administration, die or resign during the recess of the General Assembly, it shall be the duty of the Secretary, for
+the time being, to convene the Senate for the purpose of choosing a President  pro tempore.
+
+*** SEND ***
+*** SSTART 017.00 004.00 0 CT 1818 ***
+
+SEC. 17. A Treasurer shall annually be chosen by the electors at their meeting in April; and the votes shall be
+returned, counted, canvassed, and declared in the same manner as is provided for the election of Governor and
+Lieutenant-Governor, but the votes for treasurer shall be canvassed by the Secretary and Comptroller only. He
+shall receive all moneys be going to the State, and disburse the same only as he may be directed by law. He shall
+pay no warrant or order for the disbursement of public money until the same has been registered in the office of
+the Comptroller.
+
+*** SEND ***
+*** SSTART 018.00 004.00 0 CT 1818 ***
+
+SEC. 18. A Secretary shall be chosen next after the Treasurer, and in the same manner; and the votes for
+Secretary shall be returned to, and counted, canvassed, and declared by the Treasurer and Comptroller. He shall
+have the safe keeping and custody of the public records and documents, and particularly of the acts, resolutions,
+and orders of the General Assembly, and record the same; and perform all such duties as shall be prescribed by
+law. He shall be the keeper of the seal of the State, which shall not be altered.
+
+*** SEND ***
+*** SSTART 019.00 004.00 0 CT 1818 ***
+
+SEC. 19. A Comptroller of the Public Accounts shall be annually appointed by the General Assembly. He shall
+adjust and settle all public accounts and demands, except grants and orders of the General Assembly. He shall
+prescribe the mode of keeping and rendering all public accounts. He shall ex officio be one of the auditors of the
+accounts of the Treasurer. The General Assembly may assign to him other duties in relation to his office, and to
+that the Treasurer, and shall prescribe the manner in which his duties shall be performed.
+
+*** SEND ***
+*** SSTART 020.00 004.00 0 CT 1818 ***
+
+SEC. 20. A sheriff shall be appointed in each county by the General Assembly, who shall hold his office for
+three years, removable by said Assembly, and shall become bound, with sufficient sureties to the Treasurer of
+the State, for the faithful discharge of the duties of his office, in such manner as shall be prescribed by law. In
+case the sheriff of any county shall die or resign, the Governor may fill the vacancy occasioned thereby, until the
+same shall be filled by the General Assembly.
+
+*** SEND ***
+*** SSTART 021.00 004.00 0 CT 1818 ***
+
+SEC. 21. A statement of all receipts, payments, funds, and debts of the State, shall be published from time to
+time, in such manner and at such periods as shall be prescribed by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.00 CT 1818 ***
+
+                              ARTICLE FIFTH
+                                    
+                       OF THE JUDICIAL DEPARTMENT
+
+*** SSTART 001.00 005.00 0 CT 1818 ***
+
+SECTION 1. The judicial power of the State shall be vested in a Supreme Court of Errors, a Superior Court, and
+such inferior courts as the General Assembly shall, from time to time, ordain and establish; the powers and
+jurisdiction of which courts shall be defined by law.
+
+*** SEND ***
+*** SSTART 002.00 005.00 0 CT 1818 ***
+
+SEC. 2. There shall be appointed in each county a sufficient number of justices of the peace, with such
+jurisdiction in civil and criminal cases as the General Assembly may prescribe.
+
+*** SEND ***
+*** SSTART 003.00 005.00 0 CT 1818 ***
+
+SEC. 3. The Judges of the Supreme Court of Errors, of the Superior and inferior courts, and all justices of the
+peace, shall be appointed by the General Assembly, in such manner as shall by law be prescribed. The Judges of
+the Supreme Court and the Superior Court shall hold their offices during good behavior, but may be removed by
+impeachment; and the Governor shall also remove them on the address of two-thirds of the members of each
+House of the General Assembly; all other judges, and justices of the peace shall be appointed annually. No
+judge or justice of the peace shall be capable of holding his office after he shall arrive at the age of seventy
+years.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.00 CT 1818 ***
+
+                              ARTICLE SIXTH
+                                    
+                    OF THE QUALIFICATIONS OF ELECTORS
+
+*** SSTART 001.00 006.00 0 CT 1818 ***
+
+SECTION 1. All persons who have been, or shall hereafter, previous to the ratification of this Constitution, be
+admitted freemen, according to the existing laws of this State, shall be electors.
+
+*** SEND ***
+*** SSTART 002.00 006.00 0 CT 1818 ***
+
+SEC. 2. Every white male citizen of the United States, who shall have gained a settlement in this State, attained
+the age of twenty-one years, and resided in the town in which he may offer himself to be admitted to the
+privilege of an elector, at least six months preceding; and have a freehold estate of the yearly value of seven
+dollars in this State; or, having been enrolled in the militia, shall have performed military duty therein for the
+term of one year next preceding the time he shall offer himself for admission, or being liable thereto shall have
+been, by authority of law, excused therefrom; or shall have paid a State tax within the year next preceding the
+time he shall present himself for such admission; and shall sustain a good moral character, shall, on his taking
+such oath as may be prescribed by law, be an elector.
+
+*** SEND ***
+*** SSTART 003.00 006.00 0 CT 1818 ***
+
+SEC. 3. The privileges of an elector shall be forfeited by a conviction of bribery, forgery, perjury, duelling,
+fraudulent bankruptcy, theft, or other offense for which an infamous punishment is inflicted.
+
+*** SEND ***
+*** SSTART 004.00 006.00 0 CT 1818 ***
+
+SEC. 4. Every elector shall be eligible to any office in this State, except in cases provided for in this
+Constitution.
+
+*** SEND ***
+*** SSTART 005.00 006.00 0 CT 1818 ***
+
+SEC. 5. The selectmen and town clerk of the several towns shall decide on the qualifications of electors, at such
+times and in such manner as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 006.00 006.00 0 CT 1818 ***
+
+SEC. 6. Laws shall be made to support the privilege of free suffrage, prescribing the manner of regulating and
+conducting meetings of the electors, and prohibiting, under adequate penalties, all undue influence therein, from
+power, bribery, tumult, and other improper conduct.
+
+*** SEND ***
+*** SSTART 007.00 006.00 0 CT 1818 ***
+
+SEC. 7. In all elections of officers of the State, or members of the General Assembly, the votes of the electors
+shall be by ballot.
+
+*** SEND ***
+*** SSTART 008.00 006.00 0 CT 1818 ***
+
+SEC. 8. At all elections of officers of the State, or members of the General Assembly, the electors shall be
+privileged from arrest during their attendance upon, and going to, and returning from the same, on any civil
+process.
+
+*** SEND ***
+*** SSTART 009.00 006.00 0 CT 1818 ***
+
+SEC. 9. The meetings of the electors for the election of the several State officers by law annually to be elected,
+and members of the General Assembly of this State shall be holden on the first Monday of April in each year.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.00 CT 1818 ***
+
+                             ARTICLE SEVENTH
+                                    
+                               OF RELIGION
+
+*** SSTART 001.00 007.00 0 CT 1818 ***
+
+SECTION 1. It being the duty of all men to worship the Supreme Being, the Great Creator and Preserver of the
+Universe, and their right to render that worship in the mode most consistent with the associated to, any
+congregation, church, or religious association. But every person now belonging to such congregation, church, or
+religious association, shall remain a member thereof until he shall have separated himself therefrom in the
+manner hereinafter provided. And each and every society or denomination of Christians in this State shall have
+and enjoy the same and equal powers, rights, and privileges; and shall have power and authority to support and
+maintain the ministers or teachers of their respective denominations, and to build and repair houses for public
+worship by a tax on the members of any such society only, to be laid by a major vote of the legal voters
+assembled at any society Meeting, warned and held according to law, or in any other manner.
+
+*** SEND ***
+*** SSTART 002.00 007.00 0 CT 1818 ***
+
+SEC.2. If any person shall choose to separate himself from the society or denomination of Christians to which
+he may belong, and shall leave a written notice thereof with the clerk of such society, he shall thereupon be no
+longer liable for any future expenses which may be incurred by said society.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.00 CT 1818 ***
+
+                             ARTICLE EIGHTH
+                                    
+                              OF EDUCATION
+
+*** SSTART 001.00 008.00 0 CT 1818 ***
+
+
+SECTION 1. The charter of Yale College, as modified by agreement with the corporation thereof, in pursuance
+of an Act of the General Assembly, passed in May, 1792, is hereby confirmed.
+
+*** SEND ***
+*** SSTART 002.00 008.00 0 CT 1818 ***
+
+SEC. 2. The fund called the SCHOOL F UND shall remain a perpetual fund, the interest of which shall be
+inviolably appropriated to the support and encouragement of the public or common schools throughout the
+State, and for the equal benefit of all the people thereof. The value and amount of said fund shall, as soon as
+practicable, be ascertained in such manner as the General Assembly may prescribe, published, and recorded in
+the Comptroller's office, and no law shall ever be made authorizing said fund to be diverted to any other use
+than the encouragement and support of public or common schools, among the several school societies, as justice
+and equity shall require.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.00 CT 1818 ***
+
+                              ARTICLE NINTH
+                                    
+                             OF IMPEACHMENTS
+
+*** SSTART 001.00 009.00 0 CT 1818 ***
+
+SECTION 1. The House of Representatives shall have the sole power of impeaching.
+
+*** SEND ***
+*** SSTART 002.00 009.00 0 CT 1818 ***
+
+SEC. 2. All impeachments shall be tried by the Senate. When sitting for that purpose, they shall be on oath or
+affirmation. No person shall be convicted without the concurrence of two-thirds of the members present. When
+the Governor is impeached, the Chief Justice shall preside.
+
+*** SEND ***
+*** SSTART 003.00 009.00 0 CT 1818 ***
+
+SEC. 3. The Governor, and all other executive and judicial officers, shall be liable to impeachment; but
+judgments in such cases shall not extend further than to removal from office and disqualification to hold any
+office of honor, trust, or profit under this State. The party convicted shall nevertheless, be liable and subject to
+indictment, trial, and punishment according to law.
+
+*** SEND ***
+*** SSTART 004.00 009.00 0 CT 1818 ***
+
+SEC. 4. Treason against the State shall consist only in levying war against it or adhering to its enemies, giving
+them aid and comfort. No person shall be convicted of treason unless on the testimony of two witnesses to the
+same overt act, or on confession in open court. No conviction of treason or attainder shall work corruption of
+blood or forfeiture.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.00 CT 1818 ***
+
+                              ARTICLE TENTH
+                                    
+                           GENERAL PROVISIONS
+
+*** SSTART 001.00 010.00 0 CT 1818 ***
+
+SECTION 1. Members of the General Assembly, and all officers, executive and judicial, shall, before they enter
+on the duties of their respective offices, take the following oath or affirmation, to wit:
+You do solemnly swear, or affirm (as the case may be), that you will support the Constitution of the United
+States and the Constitution of the State of Connecticut, so long as you continue a citizen thereof; and that you
+will faithfully discharge, according to law, the duties of the office of   to the best of your abilities. So help you
+God.
+
+*** SEND ***
+*** SSTART 002.00 010.00 0 CT 1818 ***
+
+SEC. 2. Each town shall annually elect selectmen, and such officers of local police as the laws may prescribe.
+
+*** SEND ***
+*** SSTART 003.00 010.00 0 CT 1818 ***
+
+SEC. 3. The rights and duties of all corporations shall remain as if this Constitution had not been adopted; with
+the exception of such regulations and restrictions as are contained in this Constitution. All judicial and civil
+officers now in office, who have been appointed by the General Assembly, and commissioned according to law,
+and all such officers as shall be appointed by the said Assembly, and commissioned as aforesaid, before the first
+Wednesday of May next, shall continue to hold their offices until the first day of June next, unless they shall
+before that time resign, or be removed from office according to law. The Treasurer and Secretary shall continue
+in office until a Treasurer and Secretary shall be appointed under this Constitution. All military officers shall
+continue to hold and exercise their respective offices until they shall resign or be removed according to law. All
+laws not contrary to, or inconsistent with the provisions of this Constitution shall remain in force until they shall
+expire by their own limitation, or shall be altered or repealed by the General Assembly, in pursuance of this
+Constitution. The validity of all bonds, debts, contracts, as well of individuals as of bodies corporate, or the
+State, of all suits, actions, or rights of action, both in law and equity, shall continue as if no change had taken
+place. The Governor, Lieutenant-Governor, and General Assembly which is to be formed in October next, shall
+have and possess all the powers and authorities not repugnant to, or inconsistent with, this Constitution, which
+they now have and possess, until the first Wednesday of May next.
+
+*** SEND ***
+*** SSTART 004.00 010.00 0 CT 1818 ***
+
+SEC. 4. No judge of the Superior Court, or of the Supreme Court of Errors; no member of Congress; no person
+holding any office under the authority of the United States; no person holding the office of Treasurer, Secretary,
+or Comptroller; no sheriff or sheriff's deputy shall be a member of the General Assembly.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.00 CT 1818 ***
+*** SSTART 001.00 011.00 0 CT 1818 ***
+                            ARTICLE ELEVENTH
+                                    
+                    OF AMENDMENTS TO THE CONSTITUTION
+
+Whenever a majority of the House of Representatives shall deem it necessary to alter or amend this
+Constitution, they may propose such alteration and amendments; which proposed amendments shall be
+continued to the next General Assembly, and be published with the laws which may have been passed at the
+same session; and if two-thirds of each House, at the next session of said Assembly, shall approve the
+amendments proposed by yeas and nays, said amendments shall, by the Secretary, be transmitted to the town
+clerk in each town in the State, whose duty it shall be to present the same to the inhabitants thereof, for their
+consideration, at a town meeting, legally warned and held for that purpose; and if it shall appear, in a manner to
+be provided by law, that a majority of the electors present at such meetings shall have approved such
+amendments, the same shall be valid, to all intents and purposes, as a part of this Constitution.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9016.0 CT 1818 ***
+
+Done in Convention, on the fifteenth day of September, in the year of our Lord one thousand eight hundred and
+eighteen, and of the Independence of the United States the forty-third.
+
+By order of the Convention,
+  
+                                                                                         OLIV: WOLCOTT, President.
+
+      JAMES LANMAN
+      ROBERT FAIRCHILD,
+                                 Clerks.
+
+
+*** AEND ***
+*** MSTART 001 004.00 003.00 0 1818 1828 ***
+
+                     AMENDMENTS TO THE CONSTITUTION
+
+                                ARTICLE I
+
+From and after the first Wednesday of May, in the year of our Lord one thousand eight hundred and thirty, the
+Senate of this State shall consist of not less than eighteen nor more than twenty-four members, and be chosen by
+districts.
+
+[Adopted November, 1828.]
+
+
+*** MEND ***
+*** MSTART 002 004.00 003.00 0 CT 1818 1828 ***
+
+                               ARTICLE II
+
+The General Assembly, which shall be holden on the first Wednesday of May, in the year one thousand eight
+hundred and twenty-nine, shall divide the State into districts for the choice of Senators, and shall determine
+what number shall be elected in each; which districts shall not be less than eight nor more than twenty-four a in
+number, and shall always be composed of contiguous territory, and in forming them no town shall be divided,
+nor shall the whole or part of one county be joined to the whole or part of another county to form a district:
+regard being had to the population in said apportionment, and in forming said districts, in such manner that no
+county shall have less than two senators. The districts, when established, shall continue the same until the
+session of the General Assembly next after the completion of the next census of the United States; which said
+Assembly shall have power to alter the same, if found necessary, to preserve a proper equality between said
+districts, in respect to the number of inhabitants therein, according to the principles above recited; after which
+said districts shall not be altered, nor the number of Senators altered, except at any session of the General As-
+
+sembly next after the completion of a census of the United States, and then only according to the principles
+above prescribed.
+
+[Adopted November, 1828.]
+
+*** MEND ***
+*** MSTART 003 005.00 003.00 0 CT 1818 1828 ***
+
+                               ARTICLE III
+                                    
+At the meeting of the electors on the first Monday of April, in the year one thousand eight hundred and thirty,
+and annually thereafter, immediately after the choice of Representatives, the electors qualified by law to vote in
+the choice of such Representatives shall be called upon by the presiding officer in such meeting, in the several
+towns within their districts, respectively, to bring in their ballots for such person or number of persons to be
+Senator or Senators for such districts in the next General Assembly, as shall by law be allowed to such districts
+respectively; which person or persons at the time of holding such meetings shall belong to and reside in the
+respective districts in which they shall be so balloted for, as aforesaid; and each elector present at such meeting,
+qualified as aforesaid, may thereupon bring in his ballot or suffrage for such person or persons as he shall
+choose to be Senators for such district, not exceeding the number by law allowed to the same, with the name or
+names of such person or persons fairly written on one piece of paper. And the votes so given in shall be
+received, counted, canvassed, and declared in the same manner now provided by the Constitution for the choice
+of Senators. The person or persons, not exceeding the number by law allowed to the districts in which such
+votes shall be given in, having the highest number of votes, shall be declared to be duly elected for such
+districts; but in the event of an equality of votes between two or more of the persons so voted for, the House of
+Representatives shall, in the manner provided for by the Constitution, designate which of such person or persons
+shall be declared to be duly elected.
+
+[Adopted November, 1828.]
+
+*** MEND ***
+*** MSTART 004 003.00 004.00 0 CT 1818 1832 ***
+
+                               ARTICLE IV
+                                    
+There shall annually be chosen and appointed a Lieutenant-Governor, a Treasurer, and Secretary in the same
+manner as is provided in the second section of the fourth article of the Constitution of this State, for the choice
+and appointment of a Governor.
+
+[Adopted November, 1832.]
+
+*** MEND ***
+*** MSTART 005 017.00 004.00 0 CT 1818 1832 ***
+
+                               ARTICLE IV
+                                    
+There shall annually be chosen and appointed a Lieutenant-Governor, a Treasurer, and Secretary in the same
+manner as is provided in the second section of the fourth article of the Constitution of this State, for the choice
+and appointment of a Governor.
+
+[Adopted November, 1832.]
+
+*** MEND ***
+*** MSTART 006 018.00 004.00 0 CT 1818 1832 ***
+
+                               ARTICLE IV
+                                    
+There shall annually be chosen and appointed a Lieutenant-Governor, a Treasurer, and Secretary in the same
+manner as is provided in the second section of the fourth article of the Constitution of this State, for the choice
+and appointment of a Governor.
+
+[Adopted November, 1832.]
+
+*** MEND ***
+*** MSTART 007 018.00 004.00 0 CT 1818 1836 ***
+
+                                ARTICLE V
+
+A Comptroller of Public Accounts shall be annually chosen by the electors, at their meeting in April, and in the
+same manner as the Treasurer and Secretary are chosen, and the votes for Comptroller shall be returned to, and
+counted, canvassed, and declared by the Treasurer and Secretary.
+
+[Adopted November, 1836.]
+
+*** MEND ***
+*** MSTART 008 005.00 003.00 0 CT 1818 1836 ***
+
+                               ARTICLE VI
+
+The electors in the respective towns, on the first Monday of April in each year, may vote for Governor,
+Lieutenant-Governor, Treasurer, Secretary, Senators, and Representatives in the General Assembly successively,
+or for any number of said officers at the same time, and the General Assembly shall have power to enact laws
+regulating and prescribing the order and manner of voting for said officers, and also providing for the election of
+Representatives at some time subsequent to the first Monday of April in all cases when it shall so happen that
+the electors in any town shall fail on that day to elect the Representative or Representatives to which such town
+shall be by law entitled: provided, that in all elections of officers of the State, or members of the General
+Assembly, the votes of the electors shall be by ballot, either written or printed.
+
+[Adopted November, 1836.]
+
+*** MEND ***
+*** MSTART 009 002.00 004.00 0 CT 1818 1836 ***
+
+                               ARTICLE VI
+
+The electors in the respective towns, on the first Monday of April in each year, may vote for Governor,
+Lieutenant-Governor, Treasurer, Secretary, Senators, and Representatives in the General Assembly successively,
+or for any number of said officers at the same time, and the General Assembly shall have power to enact laws
+regulating and prescribing the order and manner of voting for said officers, and also providing for the election of
+Representatives at some time subsequent to the first Monday of April in all cases when it shall so happen that
+the electors in any town shall fail on that day to elect the Representative or Representatives to which such town
+shall be by law entitled: provided, that in all elections of officers of the State, or members of the General
+Assembly, the votes of the electors shall be by ballot, either written or printed.
+
+[Adopted November, 1836.]
+
+*** MEND ***
+*** MSTART 010 003.00 004.00 0 CT 1818 1836 ***
+
+                               ARTICLE VI
+
+The electors in the respective towns, on the first Monday of April in each year, may vote for Governor,
+Lieutenant-Governor, Treasurer, Secretary, Senators, and Representatives in the General Assembly successively,
+or for any number of said officers at the same time, and the General Assembly shall have power to enact laws
+regulating and prescribing the order and manner of voting for said officers, and also providing for the election of
+Representatives at some time subsequent to the first Monday of April in all cases when it shall so happen that
+the electors in any town shall fail on that day to elect the Representative or Representatives to which such town
+shall be by law entitled: provided, that in all elections of officers of the State, or members of the General
+Assembly, the votes of the electors shall be by ballot, either written or printed.
+
+[Adopted November, 1836.]
+
+*** MEND ***
+*** MSTART 011 017.00 004.00 0 CT 1818 1836 ***
+
+                               ARTICLE VI
+
+The electors in the respective towns, on the first Monday of April in each year, may vote for Governor,
+Lieutenant-Governor, Treasurer, Secretary, Senators, and Representatives in the General Assembly successively,
+or for any number of said officers at the same time, and the General Assembly shall have power to enact laws
+regulating and prescribing the order and manner of voting for said officers, and also providing for the election of
+Representatives at some time subsequent to the first Monday of April in all cases when it shall so happen that
+the electors in any town shall fail on that day to elect the Representative or Representatives to which such town
+shall be by law entitled: provided, that in all elections of officers of the State, or members of the General
+Assembly, the votes of the electors shall be by ballot, either written or printed.
+
+[Adopted November, 1836.]
+
+*** MEND ***
+*** MSTART 012 018.00 004.00 0 CT 1818 1836 ***
+
+                               ARTICLE VI
+
+The electors in the respective towns, on the first Monday of April in each year, may vote for Governor,
+Lieutenant-Governor, Treasurer, Secretary, Senators, and Representatives in the General Assembly successively,
+or for any number of said officers at the same time, and the General Assembly shall have power to enact laws
+regulating and prescribing the order and manner of voting for said officers, and also providing for the election of
+Representatives at some time subsequent to the first Monday of April in all cases when it shall so happen that
+the electors in any town shall fail on that day to elect the Representative or Representatives to which such town
+shall be by law entitled: provided, that in all elections of officers of the State, or members of the General
+Assembly, the votes of the electors shall be by ballot, either written or printed.
+
+[Adopted November, 1836.]
+
+*** MEND ***
+*** MSTART 013 020.00 004.00 0 CT 1818 1838 ***
+
+                               ARTICLE VII
+                                    
+A sheriff shall be appointed in each county by the electors therein, in such manner as shall be prescribed by law,
+who shall hold his office for three years, removable by the General Assembly, and shall become bound with
+sufficient sureties to the Treasurer of the State for the faithful discharge of the duties of his office.
+
+[Adopted October, 1838.]
+
+*** MEND ***
+*** MSTART 014 002.00 006.00 0 CT 1818 1845 ***
+
+                              ARTICLE VIII
+
+Every white male citizen of the United States, who shall have attained the age of twenty-one years, who shall
+have resided in this State for a term of one year next preceding, and in the town in which be may offer himself to
+be admitted to the privileges of an elector, at least six month next preceding the time he may so offer himself 
+and shall sustain a good moral character, shall, on his taking such oath as may be prescribed by law, be an
+elector.
+
+[Adopted October, 1845.]
+
+*** MEND ***
+*** MSTART 015 003.00 005.00 0 CT 1818 1850 ***
+
+                               ARTICLE IX
+
+The Judges of Probate shall be appointed by the electors residing in the several probate districts, and qualified to
+vote for Representatives therein, in such manner as shall be prescribed by law.
+
+[Adopted October, 1850.]
+
+*** MEND ***
+*** MSTART 016 002.00 005.00 0 CT 1818 1850 ***
+
+                                ARTICLE X
+
+The Justices of the Peace for the several towns in this State shall be appointed by the electors in such towns; and
+the time and manner of their election, the number for each town, and the period for which they shall hold their
+offices, shall be prescribed by law.
+
+[Adopted October, 1850.]
+
+*** MEND ***
+*** MSTART 017 002.00 006.00 0 CT 1818 1855 ***
+
+                               ARTICLE XI
+
+Every person shall be able to read any article of the Constitution, or any section of the Statutes of this State,
+before being admitted an elector.
+
+[Adopted October, 1855.]
+
+*** MEND ***
+*** MSTART 018 003.00 005.00 0 CT 1818 1856 ***
+
+                               ARTICLE XII
+
+The Judges of the Supreme Court of Errors, and of the Superior Court, appointed in the year 1855, and
+thereafter, shall hold their offices for the term of eight years, but may be removed by impeachment; and the
+Governor shall also remove them on the address of two-thirds of each house of the General Assembly. No Judge
+of the Supreme Court of Errors, or of the Superior Court, shall be capable of holding office after he shall arrive
+at the age of seventy years.
+
+[Adopted October, 1856.]
+
+*** MEND ***
+*** MSTART 019 001.00 9099.0 0 CT 1818 1864 ***
+                                    
+                              ARTICLE XIII
+
+Every elector of this State who shall be in the military service of the United States, either as a drafted person or
+volunteer, during the present rebellion, shall when absent from this State, because of such service, have the
+same right to vote in any election of State officers, Representatives in Congress, and electors of President and
+Vice-President of the United States, as he would have if present at the time appointed for such election, in the
+town in which he resided at the time of his enlistment into such service. This provision shall in no case extend
+to persons in the regular army of the United States, and shall cease and become inoperative and void upon the
+termination of the present war.
+
+The General Assembly shall prescribe, by law, in what manner and at what time the votes of electors absent
+from this State in the military service of the United States, shall be received, counted, returned, and canvassed.
+
+[Adopted August, 1864.  Temporary amendment adopted for the duration of the Civil War.]
+
+*** MEND ***
+*** MSTART 020 002.00 003.00 0 CT 1818 1873 ***
+
+                               ARTICLE XIV
+                                    
+All annual and special sessions of the General Assembly shall, on and after the first Wednesday of May, A. D.
+1875, be held at Hartford, but the person administering the office of Governor may, in case of special
+emergency, convene said Assembly at any other place in this State.
+
+[Adopted October, 1873.]
+
+*** MEND ***
+*** MSTART 021 003.00 003.00 0 CT 1818 1874 ***
+
+                               ARTICLE XV
+
+The House of Representatives shall consist of electors residing in towns from which they are elected. Every
+town which now contains, or hereafter shall contain, a population of five thousand, shall be entitled to send two
+representatives, and every other one shall be entitled to its present representation in the General Assembly. The
+population of each town shall be determined by the enumeration made under the authority of the census of the
+United States next, before the election of Representatives is held.
+
+[Adopted October, 1874.]
+
+*** MEND ***
+*** MSTART 022 002.00 004.00 0 CT 1818 1875 ***
+
+                               ARTICLE XVI
+                                    
+
+SECTION 1. A general election for Governor, Lieutenant-Governor, Secretary of State, Treasurer, Comptroller,
+and members of the General Assembly, shall be held on the Tuesday after the first Monday of November, 1876,
+and annually thereafter, for such officers as are herein and may be hereafter prescribed.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 023 003.00 004.00 0 CT 1818 1875 ***
+
+                               ARTICLE XVI
+                                    
+
+SECTION 1. A general election for Governor, Lieutenant-Governor, Secretary of State, Treasurer, Comptroller,
+and members of the General Assembly, shall be held on the Tuesday after the first Monday of November, 1876,
+and annually thereafter, for such officers as are herein and may be hereafter prescribed.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 024 017.00 004.00 0 CT 1818 1875 ***
+
+                               ARTICLE XVI
+                                    
+
+SECTION 1. A general election for Governor, Lieutenant-Governor, Secretary of State, Treasurer, Comptroller,
+and members of the General Assembly, shall be held on the Tuesday after the first Monday of November, 1876,
+and annually thereafter, for such officers as are herein and may be hereafter prescribed.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 025 018.00 004.00 0 CT 1818 1875 ***
+
+                               ARTICLE XVI
+                                    
+
+SECTION 1. A general election for Governor, Lieutenant-Governor, Secretary of State, Treasurer, Comptroller,
+and members of the General Assembly, shall be held on the Tuesday after the first Monday of November, 1876,
+and annually thereafter, for such officers as are herein and may be hereafter prescribed.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 026 004.00 003.00 0 CT 1818 1875 ***
+
+SEC. 2. The State officers above named, and the Senators from those districts having even numbers, elected on
+the Tuesday after the first Monday of November, 1876, and those elected biennially thereafter on the Tuesday
+after the first Monday of November, shall respectively hold their offices for two years from and after the
+Wednesday following the first Monday of the next succeeding January. The Senators from those districts having
+odd numbers elected on the Tuesday after the first Monday of November, 1876, shall hold their offices for one
+year from and after the Wednesday following the first Monday of January, 1877; the electors residing in the
+senatorial districts having odd numbers shall, on the Tuesday after the first Monday of November, 1877 and
+biennially thereafter, elect Senators who shall hold their offices for two years from and after the Wednesday
+following the first Monday of the next succeeding January. The Representatives elected from the several towns
+on the Tuesday after the first Monday of November, 1876, and those elected annually thereafter, shall hold their
+offices for one year from and after the Wednesday following the first Monday of the next succeeding January.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 027 001.00 004.00 0 CT 1818 1875 ***
+
+SEC. 2. The State officers above named, and the Senators from those districts having even numbers, elected on
+the Tuesday after the first Monday of November, 1876, and those elected biennially thereafter on the Tuesday
+after the first Monday of November, shall respectively hold their offices for two years from and after the
+Wednesday following the first Monday of the next succeeding January. The Senators from those districts having
+odd numbers elected on the Tuesday after the first Monday of November, 1876, shall hold their offices for one
+year from and after the Wednesday following the first Monday of January, 1877; the electors residing in the
+senatorial districts having odd numbers shall, on the Tuesday after the first Monday of November, 1877 and
+biennially thereafter, elect Senators who shall hold their offices for two years from and after the Wednesday
+following the first Monday of the next succeeding January. The Representatives elected from the several towns
+on the Tuesday after the first Monday of November, 1876, and those elected annually thereafter, shall hold their
+offices for one year from and after the Wednesday following the first Monday of the next succeeding January.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 028 003.00 004.00 0 CT 1818 1875 ***
+
+SEC. 2. The State officers above named, and the Senators from those districts having even numbers, elected on
+the Tuesday after the first Monday of November, 1876, and those elected biennially thereafter on the Tuesday
+after the first Monday of November, shall respectively hold their offices for two years from and after the
+Wednesday following the first Monday of the next succeeding January. The Senators from those districts having
+odd numbers elected on the Tuesday after the first Monday of November, 1876, shall hold their offices for one
+year from and after the Wednesday following the first Monday of January, 1877; the electors residing in the
+senatorial districts having odd numbers shall, on the Tuesday after the first Monday of November, 1877 and
+biennially thereafter, elect Senators who shall hold their offices for two years from and after the Wednesday
+following the first Monday of the next succeeding January. The Representatives elected from the several towns
+on the Tuesday after the first Monday of November, 1876, and those elected annually thereafter, shall hold their
+offices for one year from and after the Wednesday following the first Monday of the next succeeding January.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 029 017.00 004.00 0 CT 1818 1875 ***
+
+SEC. 2. The State officers above named, and the Senators from those districts having even numbers, elected on
+the Tuesday after the first Monday of November, 1876, and those elected biennially thereafter on the Tuesday
+after the first Monday of November, shall respectively hold their offices for two years from and after the
+Wednesday following the first Monday of the next succeeding January. The Senators from those districts having
+odd numbers elected on the Tuesday after the first Monday of November, 1876, shall hold their offices for one
+year from and after the Wednesday following the first Monday of January, 1877; the electors residing in the
+senatorial districts having odd numbers shall, on the Tuesday after the first Monday of November, 1877 and
+biennially thereafter, elect Senators who shall hold their offices for two years from and after the Wednesday
+following the first Monday of the next succeeding January. The Representatives elected from the several towns
+on the Tuesday after the first Monday of November, 1876, and those elected annually thereafter, shall hold their
+offices for one year from and after the Wednesday following the first Monday of the next succeeding January.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 030 018.00 004.00 0 CT 1818 1875 ***
+
+SEC. 2. The State officers above named, and the Senators from those districts having even numbers, elected on
+the Tuesday after the first Monday of November, 1876, and those elected biennially thereafter on the Tuesday
+after the first Monday of November, shall respectively hold their offices for two years from and after the
+Wednesday following the first Monday of the next succeeding January. The Senators from those districts having
+odd numbers elected on the Tuesday after the first Monday of November, 1876, shall hold their offices for one
+year from and after the Wednesday following the first Monday of January, 1877; the electors residing in the
+senatorial districts having odd numbers shall, on the Tuesday after the first Monday of November, 1877 and
+biennially thereafter, elect Senators who shall hold their offices for two years from and after the Wednesday
+following the first Monday of the next succeeding January. The Representatives elected from the several towns
+on the Tuesday after the first Monday of November, 1876, and those elected annually thereafter, shall hold their
+offices for one year from and after the Wednesday following the first Monday of the next succeeding January.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 031 001.00 003.00 0 CT 1818 1875 ***
+
+SEC. 3. There shall be a stated session of the General Assembly in Hartford on the Wednesday after the first
+Monday of January, 1877, and annually a thereafter on the Wednesday after the first Monday of January.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 032 009.00 006.00 0 CT 1818 1875 ***
+
+SEC. 3. There shall be a stated session of the General Assembly in Hartford on the Wednesday after the first
+Monday of January, 1877, and annually a thereafter on the Wednesday after the first Monday of January.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 033 002.00 9099.0 0 CT 1818 1875 ***
+
+SEC. 4. The persons who shall be severally elected to the State offices and General Assembly on the first
+Monday of April, 1876, shall hold such offices only until the Wednesday after the first Monday of January,
+1877.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 034 003.00 9099.0 0 CT 1818 1875 ***
+
+SEC. 5. The General Assembly elected in April, 1876, shall have power to pass such laws as may be necessary
+to carry into effect the provisions of this amendment.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 035 003.00 006.00 0 CT 1818 1875 ***
+
+                              ARTICLE XVII
+
+The General Assembly shall have power, by a vote of two-thirds of the members of both branches, to restore the
+privileges of an elector to those who may have forfeited the same by a conviction of crime.
+
+[Adopted October, 1875.]
+
+*** MEND ***
+*** MSTART 036 003.00 003.00 0 CT 1818 1876 ***
+
+                              ARTICLE XVIII
+
+In case a new town shall hereafter be incorporated, such new town shall not be entitled to a Representative in the
+General Assembly unless it has at least twenty-five hundred inhabitants, and unless the town from which the
+major portion of its territory is taken has also at least twenty-five hundred inhabitants; but until such towns shall
+each have at least twenty-five hundred inhabitants, such new town shall, for the purpose of representation in the
+General Assembly, be attached to and be deemed to be a part of, the town from which the major portion of its
+territory is taken, and it shall be an election district of such town for the purpose of representation in the House of
+Representatives.
+
+[Adopted October, 1876.]
+
+*** MEND ***
+*** MSTART 037 002.00 004.00 0 CT 1818 1876 ***
+
+                               ARTICLE XIX
+
+The provisions of Section 2, Article IV of the Constitution, and of the amendments thereto, shall apply, mutatis
+mutandis, to all elections held on the Tuesday after the first Monday of November, 1876, and annually thereafter.
+                                    
+[Adopted October, 1876.]
+
+*** MEND ***
+*** MSTART 038 003.00 005.00 0 CT 1818 1876 ***
+                                    
+                               ARTICLE XX
+                                    
+Judges of the Courts of Common Pleas and of the District Courts shall be appointed for terms of four years.
+Judges of the City Courts and Police Courts shall be appointed for terms of two years.
+
+[Adopted October, 1876.]
+
+*** MEND ***
+*** MSTART 039 003.00 005.00 0 CT 1818 1876 ***
+
+                               ARTICLE XXI
+                                    
+Judges of Probate shall be elected by the electors residing in their respective districts on the Tuesday after the
+first Monday of November, 1876, and biennially thereafter. Those persons elected Judges of Probate on the
+Tuesday after the first Monday of November, 1876, and those elected biennially thereafter, shall hold their
+offices for two years from and after the Wednesday after the first Monday of the next succeeding January. Those
+persons elected Judges of Probate on the first Monday of April, 1876, shall hold their offices only until the
+Wednesday after the first Monday of January, 1877.
+
+[Adopted October, 1876.]
+
+*** MEND ***
+*** MSTART 040 004.00 9099.0 0 CT 1818 1876 ***
+
+                              ARTICLE XXII
+
+The compensation of members of the General Assembly shall not exceed three hundred dollars per annum, and
+one mileage each way for each session, at the rate of twenty-five cents per mile.
+
+[Adopted October, 1876.]
+
+*** MEND ***
+*** MSTART 041 002.00 006.00 0 CT 1818 1876 ***
+
+                              ARTICLE XXIII
+                                    
+That Article VIII of the amendments to the Constitution be amended by erasing the word "white" from the first
+line.
+
+[Adopted October, 1876.]
+
+*** MEND ***
+*** MSTART 042 005.00 9099.0 0 CT 1818 1877 ***
+
+                              ARTICLE XXIV
+                                    
+Neither the General Assembly nor any County, City, Borough, Town, or School District shall have power to pay
+or grant any extra compensation to any public officer, employee, agent, or servant, or increase the compensation
+of any public officer or employe, to take effect during the continuance in office of any person whose salary might
+be increased thereby, or increase the pay or compensation of any public contractor above the amount specified in
+the contract.
+
+[Adopted October, 1877.]
+
+*** MEND ***
+*** MSTART 043 006.00 9099.0 0 CT 1818 1877 ***
+
+                               ARTICLE XXV
+                                    
+
+No County, City, Town, Borough, or other municipality shall ever subscribe to the capital stock of any railroad
+corporation, or become a purchaser of the bonds, or make donation to, or loan its credit, directly or indirectly, in
+aid of any such corporation; but nothing herein contained shall affect the validity of any bonds or debts incurred
+under existing laws, nor be construed to prohibit the General Assembly from authorizing any Town or City to
+protect, by additional appropriations of money or credit, any railroad debt contracted prior to the adoption of this
+amendment.
+
+[Adopted October, 1877.]
+
+*** MEND ***
+*** MSTART 044 003.00 005.00 0 CT 1818 1880 ***
+
+                              ARTICLE XXVI
+
+The Judges of the Supreme Court of Errors and of the Superior Court shall, upon nomination of the Governor, be
+appointed by the General Assembly, in such manner as shall by law be prescribed.
+
+[Adopted October, 1880.]
+
+*** MEND ***
+*** MSTART 045 002.00 004.00 0 CT 1818 1884 ***
+
+                              ARTICLE XXVII
+                                    
+SECTION 1. A general election for Governor, Lieutenant-Governor, Secretary, Treasurer, Comptroller, and
+members of the General Assembly, shall be held on the Tuesday after the first Monday of November, 1886, and
+biennially thereafter for such officers as are herein and may be hereafter prescribed.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 046 003.00 004.00 0 CT 1818 1884 ***
+
+                              ARTICLE XXVII
+                                    
+SECTION 1. A general election for Governor, Lieutenant-Governor, Secretary, Treasurer, Comptroller, and
+members of the General Assembly, shall be held on the Tuesday after the first Monday of November, 1886, and
+biennially thereafter for such officers as are herein and may be hereafter prescribed.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 047 017.00 004.00 0 CT 1818 1884 ***
+
+                              ARTICLE XXVII
+                                    
+SECTION 1. A general election for Governor, Lieutenant-Governor, Secretary, Treasurer, Comptroller, and
+members of the General Assembly, shall be held on the Tuesday after the first Monday of November, 1886, and
+biennially thereafter for such officers as are herein and may be hereafter prescribed.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 048 018.00 004.00 0 CT 1818 1884 ***
+
+                              ARTICLE XXVII
+                                    
+SECTION 1. A general election for Governor, Lieutenant-Governor, Secretary, Treasurer, Comptroller, and
+members of the General Assembly, shall be held on the Tuesday after the first Monday of November, 1886, and
+biennially thereafter for such officers as are herein and may be hereafter prescribed.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 049 004.00 003.00 0 CT 1818 1884 ***
+
+SEC. 2. The State officers above named, and members of the General Assembly, elected on the Tuesday after the
+first Monday of November, 1886, and those elected biennially thereafter on the Tuesday after the first Monday of
+November, shall hold their respective offices from the Wednesday following the first Monday of the next
+succeeding January until the Wednesday after the first Monday of the third succeeding January, and until their
+successors are duly qualified.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 050 001.00 004.00 0 CT 1818 1884 ***
+
+SEC. 2. The State officers above named, and members of the General Assembly, elected on the Tuesday after the
+first Monday of November, 1886, and those elected biennially thereafter on the Tuesday after the first Monday of
+November, shall hold their respective offices from the Wednesday following the first Monday of the next
+succeeding January until the Wednesday after the first Monday of the third succeeding January, and until their
+successors are duly qualified.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 051 003.00 004.00 0 CT 1818 1884 ***
+
+SEC. 2. The State officers above named, and members of the General Assembly, elected on the Tuesday after the
+first Monday of November, 1886, and those elected biennially thereafter on the Tuesday after the first Monday of
+November, shall hold their respective offices from the Wednesday following the first Monday of the next
+succeeding January until the Wednesday after the first Monday of the third succeeding January, and until their
+successors are duly qualified.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 052 017.00 004.00 0 CT 1818 1884 ***
+
+SEC. 2. The State officers above named, and members of the General Assembly, elected on the Tuesday after the
+first Monday of November, 1886, and those elected biennially thereafter on the Tuesday after the first Monday of
+November, shall hold their respective offices from the Wednesday following the first Monday of the next
+succeeding January until the Wednesday after the first Monday of the third succeeding January, and until their
+successors are duly qualified.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 053 018.00 004.00 0 CT 1818 1884 ***
+
+SEC. 2. The State officers above named, and members of the General Assembly, elected on the Tuesday after the
+first Monday of November, 1886, and those elected biennially thereafter on the Tuesday after the first Monday of
+November, shall hold their respective offices from the Wednesday following the first Monday of the next
+succeeding January until the Wednesday after the first Monday of the third succeeding January, and until their
+successors are duly qualified.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 054 007.00 9099.0 0 CT 1818 1884 ***
+
+SEC. 3. The compensation of members of the General Assembly shall not exceed three hundred dollars for the
+term for which they are elected, and one mileage each way for the regular session, at the rate of twenty-five cents
+per mile; they shall also receive one mileage at the same rate for attending any extra session called by the
+Governor.
+
+[Adopted October, 1884.]
+
+[AMENDS WALLIS AMENDMENT NUMBER 40]
+
+*** MEND ***
+*** MSTART 055 002.00 003.00 0 CT 1818 1884 ***
+
+SEC. 4. The regular sessions of the General Assembly shall commence on the Wednesday following the first
+Monday of the January next succeeding the election of its members.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 056 009.00 006.00 0 CT 1818 1884 ***
+
+SEC. 4. The regular sessions of the General Assembly shall commence on the Wednesday following the first
+Monday of the January next succeeding the election of its members.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 057 008.00 9099.0 0 CT 1818 1884 ***
+
+SEC. 5. The Senators elected on the Tuesday after the first Monday of November, 1885, shall hold their offices
+only until the Wednesday ,after the first Monday of January, 1887.
+
+[Adopted October, 1884.]
+
+*** MEND ***
+*** MSTART 058 020.00 004.00 0 CT 1818 1886 ***
+
+                             ARTICLE XXVIII
+
+Sheriffs shall be elected in the several counties on the Tuesday after the first Monday of November, 1886, and
+quadrennially thereafter, for the term of four years, commencing on the first day of June following their election.
+
+[Adopted October, 1886.]
+
+*** MEND ***
+*** MSTART 059 002.00 006.00 0 CT 1818 1897 ***
+
+                              ARTICLE XXIX
+
+Every person shall be able to read in the English language any article of the Constitution or any section of the
+Statutes of this State before being admitted an elector.
+
+[Adopted October, 1897.]
+
+*** MEND ***
+*** MSTART 060 002.00 004.00 0 CT 1818 1901 ***
+
+                               ARTICLE XXX
+                                    
+In the election for Governor, Lieutenant-Governor, Secretary, Treasurer, Comptroller, and Attorney-General, the
+person found by the General Assembly, in the manner provided in the fourth article of the Constitution of this
+State, to have received the greatest number of votes for each of said offices respectively, shall be declared by said
+Assembly to be elected. But if two or more persons shall be found to have an equal and the greatest number of
+votes for any of said offices, then the General Assembly, on the second day of its session, by joint ballot of both
+houses, shall proceed without debate to choose said officer from a list of the names of the persons found to have
+an equal and greatest number of votes for said office.
+
+[Adopted October, 1901.]
+
+*** MEND ***
+*** MSTART 061 003.00 004.00 0 CT 1818 1901 ***
+
+                               ARTICLE XXX
+                                    
+In the election for Governor, Lieutenant-Governor, Secretary, Treasurer, Comptroller, and Attorney-General, the
+person found by the General Assembly, in the manner provided in the fourth article of the Constitution of this
+State, to have received the greatest number of votes for each of said offices respectively, shall be declared by said
+Assembly to be elected. But if two or more persons shall be found to have an equal and the greatest number of
+votes for any of said offices, then the General Assembly, on the second day of its session, by joint ballot of both
+houses, shall proceed without debate to choose said officer from a list of the names of the persons found to have
+an equal and greatest number of votes for said office.
+
+[Adopted October, 1901.]
+
+*** MEND ***
+*** MSTART 062 017.00 004.00 0 CT 1818 1901 ***
+
+                               ARTICLE XXX
+                                    
+In the election for Governor, Lieutenant-Governor, Secretary, Treasurer, Comptroller, and Attorney-General, the
+person found by the General Assembly, in the manner provided in the fourth article of the Constitution of this
+State, to have received the greatest number of votes for each of said offices respectively, shall be declared by said
+Assembly to be elected. But if two or more persons shall be found to have an equal and the greatest number of
+votes for any of said offices, then the General Assembly, on the second day of its session, by joint ballot of both
+houses, shall proceed without debate to choose said officer from a list of the names of the persons found to have
+an equal and greatest number of votes for said office.
+
+[Adopted October, 1901.]
+
+*** MEND ***
+*** MSTART 063 018.00 004.00 0 CT 1818 1901 ***
+
+                               ARTICLE XXX
+                                    
+In the election for Governor, Lieutenant-Governor, Secretary, Treasurer, Comptroller, and Attorney-General, the
+person found by the General Assembly, in the manner provided in the fourth article of the Constitution of this
+State, to have received the greatest number of votes for each of said offices respectively, shall be declared by said
+Assembly to be elected. But if two or more persons shall be found to have an equal and the greatest number of
+votes for any of said offices, then the General Assembly, on the second day of its session, by joint ballot of both
+houses, shall proceed without debate to choose said officer from a list of the names of the persons found to have
+an equal and greatest number of votes for said office.
+
+[Adopted October, 1901.]
+
+*** MEND ***
+*** MSTART 064 019.00 004.00 0 CT 1818 1901 ***
+
+                               ARTICLE XXX
+                                    
+In the election for Governor, Lieutenant-Governor, Secretary, Treasurer, Comptroller, and Attorney-General, the
+person found by the General Assembly, in the manner provided in the fourth article of the Constitution of this
+State, to have received the greatest number of votes for each of said offices respectively, shall be declared by said
+Assembly to be elected. But if two or more persons shall be found to have an equal and the greatest number of
+votes for any of said offices, then the General Assembly, on the second day of its session, by joint ballot of both
+houses, shall proceed without debate to choose said officer from a list of the names of the persons found to have
+an equal and greatest number of votes for said office.
+
+[Adopted October, 1901.]
+
+*** MEND ***
+*** MSTART 065 004.00 003.00 0 CT 1818 1901 ***
+
+                              ARTICLE XXXI
+
+SECTION 1. Front and after the Wednesday after the first Monday of January, 1905, the Senate shall be
+composed of not less than twenty-four and not more than thirty-six members, who shall be elected at the electors'
+meetings held biennially on the Tuesday after the first Monday in November.
+
+[Adopted October, 1901.]
+
+*** MEND ***
+*** MSTART 066 005.00 003.00 0 CT 1818 1901 ***
+
+                              ARTICLE XXXI
+
+SECTION 1. Front and after the Wednesday after the first Monday of January, 1905, the Senate shall be
+composed of not less than twenty-four and not more than thirty-six members, who shall be elected at the electors'
+meetings held biennially on the Tuesday after the first Monday in November.
+
+[Adopted October, 1901.]
+
+*** MEND ***
+*** MSTART 067 004.00 003.00 0 CT 1818 1901 ***
+
+SEC. 2. The General Assembly which shall be held on the Wednesday after the first Monday of January, 1903,
+shall divide the State into senatorial districts, as hereinafter provided; the number of such districts shall not be
+less than twenty-four nor more than thirty-six, and each district shall elect only one Senator. The districts shall
+always be composed of contiguous territory, and in forming them regard shall be had to population in the several
+districts, that the same may be as nearly equal as possible under the limitations of this amendment. Neither the
+whole or a part of one county shall be joined to the whole or a part of another county to form a district, and no
+town shall be divided, unless for the purpose of forming more than one district wholly within such town, and
+each county shall have at least one Senator. The districts, when established as hereinafter provided, shall
+continue the same until the session of the General Assembly next after the completion of the next census of the
+United States, which General Assembly shall have power to alter the same, if found necessary to preserve a
+proper equality of population in each district, but only in accordance with the principles above recited; after
+which said districts shall not be altered, nor the number of Senators altered, except at a session of the General
+Assembly next after the completion of a census of the United States, and then only in accordance with the
+principles hereinbefore provided.
+
+[Adopted October, 1901.]
+
+*** MEND ***
+*** MSTART 068 002.00 010.00 0 CT 1818 1905 ***
+
+                              ARTICLE XXXII
+
+Each town shall, annually, or biennially, as the electors of the town may determine, elect selectmen and such
+officers of local police as the laws may prescribe.
+
+[Adopted October, 1905.]
+
+*** MEND ***
+*** MSTART 069 005.00 003.00 0 CT 1818 1905 ***
+
+                             ARTICLE XXXIII
+
+Voting machines or other mechanical devices for voting may be used in all elections in this state, under such
+regulations as may be prescribed by law; provided, however, that the right of secret voting shall be preserved.
+
+*** MEND ***
+*** MSTART 070 001.00 004.00 0 CT 1818 1905 ***
+
+                             ARTICLE XXXIII
+
+Voting machines or other mechanical devices for voting may be used in all elections in this state, under such
+regulations as may be prescribed by law; provided, however, that the right of secret voting shall be preserved.
+
+*** MEND ***
+*** MSTART 071 002.00 004.00 0 CT 1818 1905 ***
+
+                             ARTICLE XXXIII
+
+Voting machines or other mechanical devices for voting may be used in all elections in this state, under such
+regulations as may be prescribed by law; provided, however, that the right of secret voting shall be preserved.
+
+*** MEND ***
+*** MSTART 072 003.00 004.00 0 CT 1818 1905 ***
+
+                             ARTICLE XXXIII
+
+Voting machines or other mechanical devices for voting may be used in all elections in this state, under such
+regulations as may be prescribed by law; provided, however, that the right of secret voting shall be preserved.
+
+*** MEND ***
+*** MSTART 073 017.00 004.00 0 CT 1818 1905 ***
+
+                             ARTICLE XXXIII
+
+Voting machines or other mechanical devices for voting may be used in all elections in this state, under such
+regulations as may be prescribed by law; provided, however, that the right of secret voting shall be preserved.
+
+*** MEND ***
+*** MSTART 074 018.00 004.00 0 CT 1818 1905 ***
+
+                             ARTICLE XXXIII
+
+Voting machines or other mechanical devices for voting may be used in all elections in this state, under such
+regulations as may be prescribed by law; provided, however, that the right of secret voting shall be preserved.
+
+*** MEND ***
+*** MSTART 075 019.00 004.00 0 CT 1818 1905 ***
+
+                             ARTICLE XXXIII
+
+Voting machines or other mechanical devices for voting may be used in all elections in this state, under such
+regulations as may be prescribed by law; provided, however, that the right of secret voting shall be preserved.
+
+*** MEND ***
+*** MSTART 076 014.00 004.00 0 CT 1818 1911 ***
+
+                              ARTICLE XXXIV
+                                    
+         LIEUTENANT-GOVERNOR TO PERFORM DUTIES OF GOVERNOR, WHEN
+
+In case of the death, resignation, refusal to serve, inability to perform the powers and duties of his office, or
+removal from office of the governor, or of his impeachment or absence from the state, the lieutenant-governor
+shall exercise the powers and authority appertaining to the office of governor, until another be chosen at the next
+periodical election for governor, and be duly qualified; or until the disability be removed, or until the governor,
+impeached or absent, shall be acquitted or return.
+
+*** MEND ***
+*** MSTART 077 007.00 004.00 0 CT 1818 1911 ***
+
+                              ARTICLE XXXV
+                                    
+            GENERAL ASSEMBLY, LIMIT OF DURATION OF SESSION OF
+
+The general assembly shall adjourn sine die not later than the first Wednesday after the first Monday in June
+following its organization.
+
+*** MEND ***
+*** MSTART 078 009.00 9099.0 0 CT 1818 1915 ***
+
+                              ARTICLE XXXVI
+                                    
+                 MILEAGE FOR MEMBERS OF GENERAL ASSEMBLY
+
+That portion of section three of article twenty-seven of the amendments to the constitution which relates to
+mileage of members of the general assembly is hereby amended to read as follows: and in addition to such
+compensation, the general assembly may provide by law for the transportation of each member by public
+conveyance by the most convenient route between his home station and the place of meeting during the session
+or sessions of the general assembly to which he was elected.
+
+[AMENDS WALLIS AMENDMENT NUMBER 54]
+
+*** MEND ***
+*** MSTART 079 010.00 9099.0 0 CT 1818 1924 ***
+
+                             ARTICLE XXXVII
+                                    
+        GOVERNOR MAY VETO SEPARATE ITEMS IN AN APPROPRIATION BILL
+
+The governor shall have power to disapprove of any item or items of any bill making appropriations of money
+embracing distinct items while at the same time approving the remainder of the bill, and the part or parts of the
+bill so approved shall become effective and the item or items of appropriation so disapproved shall not take
+effect unless the same are separately reconsidered and repassed in accordance with the rules and limitations
+prescribed for the passage of bills over the executive veto. In all cases in which the governor shall exercise the
+right of disapproval hereby conferred he shall append to the bill at the time of signing it a statement of the item
+or items disapproved, together with his reasons for such disapproval, and transmit the bill and such appended
+statement to the secretary. If the general assembly be then in session he shall forthwith cause a copy of such
+statement to be delivered to the house in which the bill originated for reconsideration of the disapproved items in
+conformity with the rules prescribed for legislative action in respect to bills which have received executive
+disapproval.
+
+[Adopted November, 1924.]
+
+*** MEND ***
+*** MSTART 080 005.00 006.00 0 CT 1818 1932 ***
+
+                             ARTICLE XXXVIII
+                                    
+               QUALIFICATIONS OF ELECTORS, HOW DETERMINED
+
+Section five of Article VI is amended to read as follows:
+
+The selectmen and town clerks or an assistant town clerk of the several towns, shall decide on the qualifications
+of electors, at such times and in such manner as prescribed by law.
+
+*** MEND ***
+*** MSTART 081 011.00 9099.0 0 CT 1818 1932 ***
+
+                              ARTICLE XXXIX
+                                    
+                             ABSENTEE VOTING
+
+The general assembly shall have power to provide by law for voting by qualified voters of the state who are
+absent from the city or town of which they are inhabitants at the time of an election or because of sickness or
+physical disability are unable to appear at the polling places on the day of election, in the choice of any officer to
+be elected or upon any question to be voted on at such election.
+
+*** MEND ***
+*** MSTART 082 012.00 004.00 0 CT 1818 1934 ***
+
+                               ARTICLE XL
+                                    
+ POWER OF GOVERNOR TO APPROVE OR DISAPPROVE BILLS PASSED BY THE GENERAL
+               ASSEMBLY; BILLS PRESENTED AFTER ADJOURNMENT
+
+Each bill which shall have passed both houses of the general assembly shall be presented to the governor. If he
+shall approve, he shall sign and transmit it to the secretary of the state, but if he shall disapprove, he shall
+transmit it to the secretary with his objections, and the secretary shall thereupon return the bill to the house in
+which it originated, with the governor's objections, which shall be entered on the journal of the house, which
+shall proceed to reconsider the bill. If, after such reconsideration, that house shall again pass it, it shall be sent
+with the objections to the other house, which shall also reconsider it. If approved, it shall be a law and be
+transmitted to the secretary; but in such case the votes of both houses shall be determined by yeas and nays and
+the names of the members voting for and against the bill shall be entered on the journal of each house
+respectively. In case the governor shall not transmit the bill to the secretary, either with his approval pr with his
+objections, within five calendar days, Sundays and legal holidays excepted, after the same shall have been
+presented to him, it shall be a law at the expiration of that period unless the general assembly shall then have
+adjourned sine die, in which case the bill should be a law unless the governor shall, within fifteen calendar days
+after the same shall have been presented to him, transmit it to the secretary with his objections, in which case it
+shall not be a law.
+Bills may be presented to the governor after the adjournment sine die of the general assembly, and the general
+assembly may by law consistent with this amendment regulate the time and method of performing all ministerial
+acts necessary or incidental to the administration of this amendment. This amendment shall not impair the
+powers granted to the governor by article VII of the amendments to the constitution.
+
+*** MEND ***
+*** MSTART 083 003.00 005.00 0 CT 1818 1934 ***
+
+                               ARTICLE XLI
+                                    
+   APPOINTMENT OF JUDGES OF SUPREME, SUPERIOR AND COMMON PLEAS COURTS
+
+Article XXVI of the Amendments to the Constitution is amended to read as follows: The judges of the supreme
+court of errors, of the superior court and of the courts of common pleas shall, upon nomination of the governor,
+be appointed by the general assembly in such manner as shall by law be prescribed.
+
+*** MEND ***
+*** MSTART 084 012.00 9099.0 0 CT 1818 1946 ***
+
+                              ARTICLE XLII
+                                    
+              DEATH OR FAILURE TO QUALIFY OF GOVERNOR-ELECT
+
+If, at the time fixed for the beginning of the term of the governor, the governorelect shall have died or shall have
+failed to qualify, the lieutenantgovernor-elect may qualify as governor, and, upon so qualifying, shall become
+governor. The general assembly may by law provide for the case in which neither the governorelect nor the
+lieutenant-governor-elect shall have qualified, by declaring who shall, in such event, act as governor or the
+manner in which the person who is so to act shall be selected, and such person shall act accordingly until a
+governor or a lieutenant-governor shall have qualified.
+
+*** MEND ***
+*** MSTART 085 013.00 9099.0 0 CT 1818 1946 ***
+
+                              ARTICLE XLIII
+                                    
+                SALARY OF MEMBERS OF THE GENERAL ASSEMBLY
+
+The salary of members of the general assembly shall be six hundred dollars for the term for which they are
+elected.
+
+[AMENDS WALLIS AMENDMENT NUMBER 54]
+
+*** MEND ***
+*** MSTART 086 003.00 005.00 0 CT 1818 1948 ***
+
+                              ARTICLE XLIV
+                                    
+                       ELECTION OF PROBATE JUDGES
+
+Article XXI of the amendments to the constitution is amended to read as follows: Judges of probate shall be
+elected by the electors residing in their respective districts on the Tuesday after the first Monday of November,
+1950, and quadrennially thereafter, and shall hold office for four years from and after the Wednesday after the
+first Monday of the next succeeding January.
+
+*** MEND ***
+*** MSTART 087 002.00 004.00 0 CT 1818 1948 ***
+
+                               ARTICLE XLV
+                                    
+               ELECTIONS OF STATE OFFICERS; TERM OF OFFICE
+
+ 1. Elections of state officers
+
+SECTION 1. A general election for governor, lieutenant-governor, secretary, treasurer and comptroller shall be
+held on the Tuesday after the first Monday of November, 1950, and quadrennially thereafter.
+
+*** MEND ***
+*** MSTART 088 003.00 004.00 0 CT 1818 1948 ***
+
+
+ 1. Elections of state officers
+
+SECTION 1. A general election for governor, lieutenant-governor, secretary, treasurer and comptroller shall be
+held on the Tuesday after the first Monday of November, 1950, and quadrennially thereafter.
+
+*** MEND ***
+*** MSTART 089 017.00 004.00 0 CT 1818 1948 ***
+
+ 1. Elections of state officers
+
+SECTION 1. A general election for governor, lieutenant-governor, secretary, treasurer and comptroller shall be
+held on the Tuesday after the first Monday of November, 1950, and quadrennially thereafter.
+
+*** MEND ***
+*** MSTART 090 018.00 004.00 0 CT 1818 1948 ***
+
+ 1. Elections of state officers
+
+SECTION 1. A general election for governor, lieutenant-governor, secretary, treasurer and comptroller shall be
+held on the Tuesday after the first Monday of November, 1950, and quadrennially thereafter.
+
+*** MEND ***
+*** MSTART 091 019.00 004.00 0 CT 1818 1948 ***
+
+ 1. Elections of state officers
+
+SECTION 1. A general election for governor, lieutenant-governor, secretary, treasurer and comptroller shall be
+held on the Tuesday after the first Monday of November, 1950, and quadrennially thereafter.
+
+*** MEND ***
+*** MSTART 092 014.00 9099.0 0 CT 1818 1948 ***
+
+ 2. Term of office
+
+SEC. 2. Said officers shall hold their respective offices from the Wednesday following the first Monday of the
+January next succeeding their election until the Wednesday following the first Monday of the fifth January
+succeeding their election and until their successors are duly qualified.
+
+*** MEND ***
+*** MSTART 093 003.00 006.00 0 CT 1818 1948 ***
+
+                              ARTICLE XLVI
+                                    
+PRIVILEGES OF AN ELECTOR; REPEAL OF ART. 6,  3, OF THE CONSTITUTION AND ART. 17 OF
+                             THE AMENDMENTS
+
+ 1. Privileges of an elector
+
+SECTION 1. The general assembly shall by law prescribe the offenses on conviction of which the privileges of
+an elector shall be forfeited and the conditions on which and methods by which such rights may be restored.
+
+*** MEND ***
+*** MSTART 094 003.00 006.00 0 CT 1818 1948 ***
+
+SEC. 2. Section three of article sixth of the constitution and article XVII of amendments to the constitution are
+repealed.
+
+*** MEND ***
+*** MSTART 095 003.00 005.00 0 CT 1818 1948 ***
+
+                              ARTICLE XLVII
+                                    
+             MINOR COURT JUDGES, NOMINATION AND APPOINTMENT
+
+The judges of minor courts, including town, city, borough and police courts, shall, upon nomination by the
+governor, be appointed by the general assembly for such term and in such manner as shall be by law prescribed.
+
+*** MEND ***
+*** ASTART 9016.1 CT 1818 ***
+
+CERTIFICATE
+
+STATE OF CONNECTICUT
+ss. HARTFORD.
+OFFICE OF THE SECRETARY)
+
+I hereby certify that the foregoing is a true copy of record in this office.
+Attention, however, is directed to the following:
+(a) The inserted word "and" in Art. 3, Sec. 8, of the original Constitution, though recorded, does not appear in the
+engrossed copy nor in the General Assembly act directing submission to the electorate.
+(b) In Art. 4, Sec. 12, of the original Constitution, the bracketed word "houses" though not recorded, appears in
+both the engrossed copy and General Assembly act.
+(c) In Art. 1 of the amendments, the bracketed words "of May" though not recorded, appear in the General
+Assembly act.
+(d) In Art. 13 of the amendments, the last clause as now printed, though not recorded, appears in the General
+Assembly act but not as a separate paragraph.
+
+*** AEND ***
+*** CEND ***

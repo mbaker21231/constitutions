@@ -1,0 +1,1672 @@
+This is ready to go.
+
+JW 1.3.02
+
+
+*** CSTART FL 01/11/1839 04/27/1861 ***
+                                        
+CONSTITUTION OF FLORIDA--1838
+
+[Note: The Constitutional Convention assembled December 3, 1838.  This Constitution was
+adopted on January 11, 1839.]
+
+*** ASTART 9001.0 FL 1838 ***
+*** SSTART 001.0 9001.0 0 FL 1838 ***
+
+We, the people of the Territory of Florida, by our delegates in convention, assembled at the city
+of Saint Joseph, on Monday, the 3d day of December, A. D. 1838, and of the Independence of the
+United States the sixty-third year, having and claiming the right of admission into the Union as
+one of the United States of America, consistent with the principles of the Federal Constitution,
+and by virtue of the treaty of amity, settlement, and limits between the United States of America
+and the King of Spain, ceding the provinces of East and West Florida to the United States , in
+order to secure to ourselves and our posterity the enjoyment of all the rights of life, liberty, and
+property, and the pursuit of happiness, do mutually agree, each with the other, to form ourselves
+into a free and independent State, by the name of the State of Florida.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 001.0 FL 1838 ***
+
+ARTICLE I
+
+DECLARATION OF RIGHTS
+
+That the great and essential principles of liberty and free government may be recognized and
+established, we declare:
+
+*** SSTART 001.0 001.0 0 FL 1838 *** 
+
+SECTION 1. That all freemen, when they form a social compact, are equal, and have certain
+inherent and indefeasible rights, among which are those of enjoying and defending life and liberty;
+of acquiring, possessing, and protecting property and reputation, and of pursuing their own
+happiness.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 FL 1838 *** 
+
+SEC. 2. That all political power is inherent in the people, and all free governments are founded on
+their authority, and established for their benefit; and, therefore, they have at all times an
+inalienable and indefeasible right to alter or abolish their form of government in such manner as
+they may deem expedient.
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 FL 1838 *** 
+
+SEC. 3. That all men have a natural and inalienable right to worship Almighty God according to
+the dictates of their own conscience; any that no preference shall ever be given by law to any
+religious establishment or mode of worship in this State.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 FL 1838 ***
+
+SEC. 4. That all elections shall be free and equal, and that no property qualification for eligibility-
+to office, or for the right of suffrage, shall ever be required in this State.
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 FL 1838 ***
+
+SEC. 5. That every citizen may freely speak, write, and publish his sentiments, on all subjects,
+being responsible for the abuse of that liberty; and no law shall ever be passed to curtail, abridge,
+or restrain the liberty of speech or of the press.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 FL 1838 ***
+
+SEC. 6. That the right of trial by jury shall forever remain inviolate.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 FL 1838 ***
+
+SEC. 7. That the people shall be secure in their persons, houses, papers, and possessions from
+unreasonable seizures and searches;  and that no warrant to search any place, or to seize any
+person or thing, shall issue without describing the place to be searched, and the person or thing to
+be seized, as near y as may be, nor without probable cause, supported by oath or affirmation.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 FL 1838 ***
+
+SEC. 8. That no freeman shall be taken, imprisoned, disseized of his freehold, liberties, or
+outlawed, or exiled, or in any manner destroyed, or deprived of his life, liberty, or property, but
+by the law of the and.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 FL 1838 ***
+
+SEC. 9. That all courts shall be open, and every person, for an injury done him, in his lands,
+goods, person, or reputation, shall have remedy by due course of law, and right and justice
+administered, without sale, denial, or delay.
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 FL 1838 ***
+
+SEC. 10. That in all criminal prosecutions the accused hath a right to be heard, by himself or
+counsel, or both; to demand the nature and cause of the accusation; to be confronted with the
+witnesses against him; to have compulsory process for obtaining witnesses in his favor; and in all
+prosecutions by indictment or presentment, a speedy and public trial by an impartial jury of the
+county or district where the offence was committed, and shall not be compelled to give evidence
+against himself.
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 FL 1838 ***
+
+SEC. 11. That all persons shall be bailable, by sufficient securities, unless in capital offences,
+where the proof is evident or the presumption strong; and the privilege of habeas corpus shall not
+be suspended unless when, in case of rebellion or invasion, the public safety may require it.
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 FL 1838 ***
+
+SEC. 12. That excessive bail shall in no case be required; nor shall excessive fines be imposed; nor
+shall cruel or unusual punishments be inflicted.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 FL 1838 ***
+
+SEC. 13. That no person shall, for the same offence, be twice put in jeopardy of life or limb.
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 FL 1838 ***
+
+SEC. 14. That private property shall not be taken or applied to public use unless just
+compensation be made therefor.
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 FL 1838 ***
+
+SEC. 15. That in all prosecutions and indictments for libel the truth may be given in evidence; and
+if it shall appear to the jury that the libel is true, and published with good motives, and for
+justifiable ends, the truth shall be a justification; and the jury shall be the judges of the law and
+facts.
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 FL 1838 ***
+
+SEC. 16. That no person shall be put to answer any criminal charge--but by presentment,
+indictment, or impeachment.
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 FL 1838 ***
+
+SEC. 17. That no conviction shall work corruption of blood or forfeiture of estate.
+
+*** SEND ***
+*** SSTART 018.0 001.0 0 FL 1838 ***
+
+SEC. 18. That retrospective laws, punishing acts committed before the existence of such laws,
+and by them only declared penal or criminal, are oppressive, unjust, and incompatible with liberty;
+wherefore, no ex post facto law shall ever be made.
+
+*** SEND ***
+*** SSTART 019.0 001.0 0 FL 1838 ***
+
+SEC. 19. That no law impairing the obligation of contracts shall ever be passed.
+
+*** SEND ***
+*** SSTART 020.0 001.0 0 FL 1838 ***
+
+SEC. 20. That the people have a right, in a peaceable manner, to assemble together to consult for
+the common good, and to apply to those invested with the powers of government for redress of
+grievances, or other proper purposes, by petition, address, or remonstrance.
+
+*** SEND ***
+*** SSTART 021.0 001.0 0 FL 1838 ***
+
+SEC. 21. That the free white men of this State shall have a right to keep and to bear arms for their
+common defence.
+
+*** SEND ***
+*** SSTART 022.0 001.0 0 FL 1838 ***
+
+SEC. 22. That no soldier, in time of peace, shall be quartered in any house, without the consent of
+the owner; nor in time of war, but in a manner prescribed by law.
+
+*** SEND ***
+*** SSTART 023.0 001.0 0 FL 1838 ***
+
+SEC. 23. That no standing army shall be kept up without the consent of the legislature; and the
+military shall in all cases and at all times be in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 024.0 001.0 0 FL 1838 ***
+
+SEC. 24. That perpetuities and monopolies are contrary to the genius of It free State, and ought
+not to be allowed.
+
+*** SEND ***
+*** SSTART 025.0 001.0 0 FL 1838 ***
+
+SEC. 25. That no hereditary emoluments, privileges, or honors, shall ever be granted or conferred
+in this State.
+
+*** SEND ***
+*** SSTART 026.0 001.0 0 FL 1838 ***
+
+SEC. 26. That frequent recurrence to fundamental principles is absolutely necessary to preserve
+the blessings of liberty.
+
+*** SEND ***
+*** SSTART 027.0 001.0 0 FL 1838 ***
+
+SEC. 27. That, to guard against transgressions upon the rights of the people, we declare that
+everything in this article is excepted out of the general powers of government, and shall forever
+remain inviolate; and that all laws contrary thereto, or to the following provisions, shall be void.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 FL1838 ***
+
+ARTICLE II
+
+DISTRIBUTION OF THE POWERS OF GOVERNMENT
+
+*** SSTART 001.0 002.0 0 FL 1838 ***
+
+SECTION 1. The powers of the government of the State of Florida, shall be divided into three
+distinct departments, and each of them confided to a separate body of magistracy, to wit: Those
+which are legislative to one; those which are executive to another; and those which are judicial to
+another.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 FL 1838 ***
+
+SEC. 2. No person, or collection of persons, being of one of those departments, shall exercise any
+power properly belonging to either of the others, except in the instances expressly provided in this
+constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 FL 1838 ***
+
+ARTICLE III
+
+EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 003.0 0 FL 1838 ***
+
+SECTION 1. The supreme executive power shall be vested in a chief magistrate, who shall be
+styled the governor of the State of Florida.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 FL 1838 ***
+
+SEC. 2. The governor shall be elected for four years, by the qualified electors, at the time and
+place where they shall vote for representatives, and shall remain in office until a successor be
+chosen and qualified; and shall not be eligible to re0ection until the expiration of four years
+thereafter.
+
+*** SEND ***
+*** SSTART 003.0 003.0 0 FL 1838 ***
+
+SEC. 3. No person shall be eligible to the office of governor unless lie. shall have attained the age
+of thirty years, shall have been a citizen of the United States ten years, or an inhabitant of Florida
+at the time of the adoption of this constitution, (being a citizen of the United States,) and shall
+have been a resident of Florida at least five years next preceding the day of election.
+
+*** SEND ***
+*** SSTART 004.0 003.0 0 FL 1838 ***
+ 
+SEC. 4. The returns of every election for governor shall be sealed up and transmitted to the seat
+of government, directed to the speaker of the house of representatives, who shall, during the first
+week of the session, open and publish them in the presence of both houses of the general
+assembly; and the person having the highest number of votes shall be governor; but if two or more
+shall be equal, and highest in Votes, one of them shall be chosen governor by the joint vote of the
+two houses; and contested elections for governor shall be determined by both houses of the
+general assembly, in such manner as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 005.0 003.0 0 FL 1838 ***
+
+SEC. 5. He shall, at stated times, receive a compensation for his services, which shall not be
+increased or diminished during the term for which he shall have been elected.
+
+*** SEND ***
+*** SSTART 006.0 003.0 0 FL 1838 ***
+
+SEC. 6. He shall be commander-in-chief of the army and navy of this State, and of the militia
+thereof.
+
+*** SEND ***
+*** SSTART 007.0 003.0 0 FL 1838 ***
+
+SEC. 7. He may require information, in writing, from the officers of the executive department, on
+any subject relating to the duties of their respective offices.
+
+*** SEND ***
+*** SSTART 008.0 003.0 0 FL 1838 ***
+
+SEC. 8. He may, by proclamation, on extraordinary occasions, convene the general assembly at
+the seat of government, or at a different lace if that shall have become dangerous from an enemy
+or from disease; and in case of disagreement between the two houses with respect to the time of
+adjournment, he may adjourn them to such time as he shall think proper, not beyond the day of
+the next meeting designated by this constitution.
+
+*** SEND ***
+*** SSTART 009.0 003.0 0 FL 1838 ***
+
+SEC. 9. He shall, from time to time, give to the general assembly information of the state of the
+government, and recommend to their consideration such measures as be may deem expedient.
+
+*** SEND ***
+*** SSTART 010.0 003.0 0 FL 1838 ***
+
+SEC. 10. He shall take care that the laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 011.0 003.0 0 FL 1838 ***
+
+ SEC. 11. In all criminal and penal cases, (except of treason and impeachment,) after conviction,
+he shall have power to grant reprieves and pardons, and remit fines and forfeitures, under such
+rules and regulations as shall be prescribed by law; and in cases of treason, be shall have power,
+by and with the advice and consent of the senate, to grant reprieves and pardons; and he may, in
+the recess of the senate, respite the sentence until the end of the next session of the general
+assembly.
+
+*** SEND ***
+*** SSTART 012.0 003.0 0 FL 1838 ***
+
+SEC. 12. There shall be a seal of the State, which shall be kept by the governor, and used by him
+officially, with such device as the governor first elected may direct; and the present seal of the
+Territory shall be the seal of the State until otherwise directed by the general assembly.
+
+*** SEND ***
+*** SSTART 013.0 003.0 0 FL 1838 ***
+
+SEC. 13. All commissions shall be in the name and by the authority of the State of Florida, be
+sealed with the State seal, and signed by the governor, and attested by the secretary of state.
+
+*** SEND ***
+*** SSTART 014.0 003.0 0 FL 1838 ***
+
+SEC. 14. There shall be a secretary of state appointed by a joint vote of both houses of the
+general assembly, who shall continue in office during the term of four years; and he shall keep a
+fair register of the official acts and proceedings of the governor, and shall, when required, lay the
+same, and all papers, minutes, and vouchers relative thereto, before the general assembly, and
+shall perform such other duties as may be required of him by law.
+
+*** SEND ***
+*** SSTART 015.0 003.0 0 FL 1838 ***
+
+SEC. 15. Vacancies that happen in offices, the appointment to which is vested n the general
+assembly, or given to the governor, with the advice and consent of the senate, shall be filled by the
+governor during the recess of the general assembly, by granting commissions which shall expire at
+the end of the next session.
+
+*** SEND ***
+*** SSTART 016.0 003.0 0 FL 1838 ***
+
+SEC. 16. Every bill, which shall have passed both houses of the general assembly, shall be
+presented to the governor; if lie approve, he shall sign it; but if not, he shall return it with his
+objections to the house in which it shall have originated, who shall enter the objections at large
+upon the journals and proceed to reconsider it; and if. after such reconsideration, a majority of the
+whole number elected to that house shall agree to pass the bill, it shall be sent, with the
+objections, to the other house, by which it shall likewise be reconsidered ; and if approved by a
+majority of the whole number elected to that house, it shall become a law. but in such cases the
+votes of both houses shall be by yeas and nays, and the names of the members voting for or
+against the bill shall be entered oil the journals of each house, respectively;  and if any bill shall not
+be returned by the governor within five days (Sundays excepted) after it shall have been presented
+to him, the same shall be a law, in like manner as if be had signed it; unless the general assembly,
+by their adjournment, prevent its return, in which case it shall not be a law.
+
+*** SEND ***
+*** SSTART 017.0 003.0 0 FL 1838 ***
+
+SEC. 17. Every order, resolution, or vote, to which the concurrence of both houses may be
+necessary, except on questions of adjournment, shall be presented to the governor, and, before it,
+shall take effect, be approved by him, or, being disapproved, be repassed by both houses,
+according to the rules all limitations prescribed in case of a bill.
+
+*** SEND ***
+*** SSTART 018.0 003.0 0 FL 1838 ***
+
+SEC. 18. In case of the impeachment of the governor) his removal from office, death, refusal to
+qualify, resignation, or absence from the State, the president of the senate' shall exercise all the
+power and authority appertaining to the office of governor, during the term for which the
+governor was elected; unless the general assembly shall provide by law for the election of a
+governor to fill such vacancy. or until the governor absent or impeached shall return or be
+acquitted.
+
+*** SEND ***
+*** SSTART 019.0 003.0 0 FL 1838 ***
+
+SEC. 19. If, during the vacancy of the office of governor, the president of the senate shall be
+impeached, removed from office, refuse to qualify, resign, die, or be absent from the State, the
+speaker of the house of representatives shall, in like manner, administer the government.
+
+*** SEND ***
+*** SSTART 020.0 003.0 0 FL 1838 ***
+
+SEC. 20. The president of the senate, or speaker of the house of representatives, during the time
+lie administers the government, shall receive the same compensation which the governor would
+have received.
+
+*** SEND ***
+*** SSTART 021.0 003.0 0 FL 1838 ***
+
+SEC. 21. The governor shall always reside, during the sessions of the general assembly, at the
+place where their sessions are held; and, at other times, wherever in their opinion the public good
+may require.
+
+*** SEND ***
+*** SSTART 022.0 003.0 0 FL 1838 ***
+
+SEC. 22. No person shall hold the office of governor, and any other office or commission, civil or
+military, either in this State, or under any State, or the United States or any other power, at one
+and the same time, except the president of the senate or the speaker of the house of
+representatives, when he shall hold the office, as aforesaid.
+
+*** SEND ***
+*** SSTART 023.0 003.0 0 FL 1838 ***
+
+SEC. 23. A State treasurer, and comptroller of public accounts, shall be elected by joint vote of
+both houses of the general assembly, at each regular session thereof.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 FL 1838 ***
+
+ARTICLE IV
+
+LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.0 004.0 0 FL 1838 ***
+
+SECTION 1. The legislative power of this State shall be vested in two distinct branches, the one
+to be styled the senate, the other the house of representatives, and both together " the general
+assembly of the State of Florida - " and the style of the laws shall be, " Be it enacted by the senate
+and house of representatives of the State of Florida in general assembly convened."
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 FL 1838 ***
+
+SEC. 2. The members of the house of representatives shall be chosen by the qualified voters, and
+shall serve for the term of one year, from the day of the commencement of the general election,
+and no longer; and the sessions of the general assembly shall be annual, and commence on the
+fourth Monday in November in each year, or at such other time as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 FL 1838 ***
+
+SEC. 3. The representatives shall be chosen every year, on the first Monday in the month of
+October, until otherwise directed by law.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 FL 1838 ***
+
+SEC. 4. No person shall be a representative unless he be a white man, a citizen of the United
+States, and shall have been an inhabitant of the State two years next preceding his election, and
+the last year thereof a resident of the county for which lie shall be chosen, and shall have attained
+the age of twenty-one years.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 FL 1838 ***
+
+SEC. 5. The senators stall be chosen by the qualified electors, for the term of two years, at the
+same time, in the same manner, and in the same places where they vote for members of the house
+of representatives; and no man shall be a senator unless he be a white man, a citizen of the United
+States, and shall have been an inhabitant of this State two years next preceding his election, and
+the last ear thereof a resident of the district or county for which he shall be chosen, and shall have
+attained the age of twenty-five years.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 FL 1838 ***
+
+SEC. 6. The senators, after their first election, shall be divided by lot into two classes; and the
+seats of the senators of the first class shall be vacated at the expiration of the first ear, and of the
+second class at the expiration of the second year; so that one-half thereof, as near as possible, may
+be chosen forever thereafter, annually, for the term of two years.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 FL 1838 ***
+
+SEC. 7. The house of representatives, when assembled, shall choose a speaker, and its other
+officers; and the senate a president, and its other officers; and each house shall be judge of the
+qualifications, elections, and returns of its members; but a contested election shall be determined
+in such manner as shall be directed by law.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 FL 1838 ***
+
+SEC. 8. A majority of each house shall constitute a quorum to do business, but a smaller number
+may adjourn from day to day, and may compel the attendance of absent members, in such manner
+and under such penalties as each house may prescribe.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 FL 1838 ***
+
+SEC. 9. Each house may determine the rules of its own proceedings, punish its members for
+disorderly behavior, and, with the consent of two-thirds, expel a member, but not a second time
+for the same cause.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 FL 1838 ***
+
+SEC. 10. Each house, during the session, may punish, by imprisonment, any person not a member
+for disrespectful or disorderly behavior in its presence, or for obstructing any of its proceedings.
+provided such imprisonment shall not extend beyond the end of the session.
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 FL 1838 ***
+
+SEC. 11. Each house shall keep a journal of its proceedings, and cause the same to be published
+immediately after its adjournment; and the yeas and nays of the members of each house shall be
+taken and entered upon the journals, upon the final passage of every bill, and may, by any two
+members, be required upon any other question; and any member of either house shall have liberty
+to dissent from or protest against any act or resolution which he may think injurious to the public
+or an individual, and have the reasons of his dissent entered on the journal.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 FL 1838 ***
+
+SEC. 12. Senators and representatives shall in all cases, except treason, felony, or breach of
+peace, be privileged from arrest during the session of the general assembly, and in going to or
+returning from the same, allowing one day for every twenty miles such member may reside from
+the place at which the general assembly is convened; and for any speech or debate in either house
+they shall not be questioned in any other place.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 FL 1838 ***
+
+SEC. 13. The general assembly shall make provision by law for filling vacancies that may occur in
+either house, by the death, resignation, or otherwise, of any of its members.
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 FL 1838 ***
+
+SEC. 14. The doors of each house shall be open, except on such occasions as, in the opinion of
+the house, the public safety may imperiously require secrecy.
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 FL 1838 ***
+
+SEC. 15. Neither house shall, without the consent of the other adjourn for more than three days,
+nor to any other place than that in which they may be sitting. 
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 FL 1838 ***
+
+SEC. 16. Bills may originate in either house of the general assembly, and all bills passed by one
+house may be discussed, amended, or rejected by the other; but no bill shall have the force of law
+until, on three several days, it be read in each house, and free discussion be allowed thereon,
+unless in cases of urgency four-fifths of the house in which the same shall be depending may deem
+it expedient to dispense with the rule; and every bill having passed both houses shall be signed by
+the speaker and president of their respective houses.
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 FL 1838 ***
+
+SEC. 17 . Each member of the general assembly shall receive from the public treasury such
+compensation for his services as may be fixed by law. but no increase of compensation shall take
+effect during the term for which the representatives were elected when such law passed.
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 FL 1838 ***
+
+SEC. 18. The number of members of the house of representatives shall never exceed sixty.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 FL 1838 ***
+
+ARTICLE V
+
+JUDICIAL DEPARTMENT
+
+*** SSTART 001.0 005.0 0 FL 1838 ***
+
+SECTION 1. The judicial power of this State, both as to matters of law and equity, shall be
+vested in a supreme court, courts of chancery, circuit courts, and justices of the peace: Provided
+The general assembly may also vest such criminal jurisdiction as, may be deemed necessary in
+corporation courts; but such jurisdiction shall not extend to capital offences.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 FL 1838 ***
+
+SEC. 2.  The supreme court, except in cases otherwise directed in this constitution, shall have
+appellate jurisdiction only, which shall be coextensive with the State, under such restrictions and
+regulations, not repugnant to this constitution, as may from time to time be prescribed by law: 
+Provided, That the said courts shall always have power to issue writs of injunction, mandamus,
+quo warranto, habeas corpus, and such other remedial and original writs as may be necessary to
+give it a general superintendence and control over all other courts.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 FL 1838 ***
+
+SEC. 3.  For the term of five years from the election of the judges of the circuit courts, and
+thereafter until the general assembly shall otherwise provide, the powers of the supreme court
+shall be vested in, and its duties performed by, the judges of the several circuit courts within this
+State;  and they, or a majority of them, shall hold such sessions of the supreme court, and at such
+times, as may be directed by law.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 FL 1838 ***
+
+SEC. 4.  The supreme court, when organized, shall be holden at such times and places as may be
+provided by law.  
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 FL 1838 ***
+
+SEC. 5.  The State shall be divided into at least four convenient circuits, and until other circuits
+shall be provided for by the general assembly, the arrangements of the circuits shall be the
+western, middle, eastern, and southern circuits;  and for each circuit there shall be appointed a
+judge, who shall, after his appointment, reside in the circuit for which he has been appointed, and
+shall, at stated times, receive for his services a salary of not less than two thousand dollars per
+annum, which shall not be diminished during the continuance of such judge in office;  but the
+judges shall receive no fees or perquisites of office, nor hold any other office of profit under the
+State, the United States, or any other power.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 FL 1838 ***
+
+SEC. 6.  The circuit court shall have original jurisdiction in all matters, civil and criminal, within
+this State, not otherwise excepted in this constitution.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 FL 1838 ***
+
+SEC. 7.  A circuit court shall be held in such counties, and at such times and places therein, as
+may be prescribed by law;  and the judges of the several circuit courts may hold courts for each
+other, and shall do so when directed by law.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 FL 1838 ***
+
+SEC. 8.  The general assembly shall have power to establish and organize separate court or courts
+of original equity jurisdiction;  but, until such court or courts shall be established and organized,
+the circuit courts shall exercise such jurisdiction.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 FL 1838 ***
+
+SEC. 9.  The general assembly shall provide by law for the appointment, in each county, of an
+officer to take probate of wills, to grant letters testamentary, of administration, and guardianship; 
+to attend to the settlement of the estates of decedents and of minors, and to discharge the duties
+usually pertaining to courts of ordinary, subject to the direction and supervision of the courts of
+chancery, as may be provided by law.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 FL 1838 ***
+
+SEC. 10.  A competent number of justices of the peace shall be, from time to time, appointed or
+elected, in and for each county, in such mode and for such term of office as the general assembly
+may direct, and shall possess the jurisdiction as may be prescribed by law;  and, in cases tried
+before a justice of the peace, the right of appeal shall be secured, under such rules and regulations
+as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 FL 1838 ***
+
+SEC. 11. Justices of the supreme court, chancellors, and judges of the circuit courts shall be
+elected by the concurrent vote of a majority of both houses of the general assembly.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 FL 1838 ***
+
+SEC. 12. The judges of the circuit courts shall, at the. first session of the general assembly to be
+holden under this constitution, be elected for the term of five years, and shall hold their offices for
+that term, unless sooner removed under the provisions made in this constitution for the removal of
+judges by address or impeachment; and at the expiration of five years, the justices of the supreme
+court and the judges of the circuit courts shall be elected for the term of and during their good
+behavior; and for wilful neglect of duty, or other reasonable cause, which shall not be sufficient
+ground for impeachment, the governor shall remove any of them, on the address of two-thirds of
+each house of the general assembly: Provided, however, That the cause or causes shall be stated
+at length in such address, and entered on the journals of each house: And provided further, That
+the cause or causes shall be notified to the judge so intended to be removed, and he shall be
+admitted to a hearing in his own defence before any vote for such address shall pass; and in such
+cases the vote shall betaken by yeas and nays, and entered on the journals of each house
+respectively.
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 FL 1838 ***
+
+SEC. 13. The clerk of the supreme court and the clerks of the courts of chancery. shall be elected
+by the general assembly; and the clerks of the circuit courts shall be elected by the qualified
+electors, in such mode as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 FL 1838 ***
+
+SEC. 14. The justices of the supreme court chancellors, and judges of the circuit courts, shall, by
+virtue of their offices, be conservators of the peace throughout the State, and justices of the peace
+in their respective counties.
+
+*** SEND ***
+*** SSTART 015.0 005.0 0 FL 1838 ***
+
+SEC. 15. The style of all process shall be, " The State of Florida and all criminal prosecutions
+shall be carried on in the name of the State of Florida, and all indictments shall conclude, against
+the peace and dignity of the same."
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 FL 1838 ***
+
+SEC. 16. There shall be an attorney-general for the State, who shall reside at the seat of
+government. it shall be his duty to attend all sessions of the general assembly, and, upon the
+passage of any act, to draft, and submit to the general assembly, at the same session, all necessary
+forms of proceedings under such laws, which, when approved, shall be published therewith; and
+he shall perform such other duties as may be prescribed by law. He shall be elected by joint vote
+of the two houses of the general assembly, and shall hold his office for four years; but may be
+removed by the governor, on the address of two-thirds of the two houses of general assembly;
+and shall receive for his services a compensation to be fixed by law.
+
+*** SEND ***
+*** SSTART 017.0 005.0 0 FL 1838 ***
+
+SEC. 17. There shall be one solicitor for each circuit who shall reside therein, to be elected by the
+joint vote of the general assembly, who shall hold his office for the term of four years, and shall
+receive for his services a compensation to be fixed by law.
+
+*** SEND ***
+*** SSTART 018.0 005.0 0 FL 1838 ***
+
+SEC. 18. No justice of the supreme court shall sit as judge, or take part in the appellate court, on
+the trial or hearing of any case which shall have been decided by him in the court below.
+
+*** SEND ***
+*** SSTART 019.0 005.0 0 FL 1838 ***
+
+SEC. 19. The general assembly shall have power to establish in each county a board of
+commissioners for the regulation of the county business therein.
+
+*** SEND ***
+*** SSTART 020.0 005.0 0 FL 1838 ***
+
+SEC. 20. No duty not judicial shall be imposed by law upon the justices of the supreme court,
+chancellors, or the judges of the circuit courts of this State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 FL 1838 ***
+
+ARTICLE VI
+
+THE RIGHT OF SUFFRAGE-CIVIL OFFICERS
+
+*** SSTART 001.0 006.0 0 FL 1838 ***
+
+SECTION 1. Every free white male person of the age of twenty-one years and upwards, and who
+shall be, at the time of offering to vote, a citizen of the United States, and who shall have resided
+and had his habitation, domicile, home, and place of permanent abode in Florida, for two years
+next preceding the election at which he shall offer to vote, and who shall have at such time, and
+for six months immediately preceding said time shall have had, his habitation, domicile, home, and
+place of permanent abode in the county in which he may offer to vote, and who shall be enrolled
+in the militia thereof, (unless by law exempted from serving in the militia,) shall be deemed a
+qualified elector, at all elections under this constitution, and none others except in elections by
+general ticket in the State or district prescribed by law; in which cases the elector must have been
+a resident of the State two years next preceding the election, and six months within the election
+district in which he offers to vote: Provided, That no soldier, seaman, or marine, in the regular
+Army or Navy of the United States, unless he be a qualified elector of the State previous to his
+enlistment as such soldier, seaman, or marine, in the regular Army or Navy of the United States,
+or of the revenue service, shall considered a resident of the State, in consequence of being
+stationed within the same.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 FL 1838 ***
+
+SEC. 2. The general assembly shall, at its first session, provide for the registration of all the
+qualified electors in each county; and thereafter, from time to time, of all who may become such
+qualified electors.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 FL 1838 ***
+
+SEC. 3. No president, director, cashier, or other officer, of any banking company in this State,
+shall be eligible to the office of governor, senator, or representative to the general assembly of this
+State, so long as he shall be such president, director, cashier, or other officer, nor until the lapse
+of twelve months from the time at which he shall have ceased to be such president, director,
+cashier, or other officer.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 FL 1838 ***
+
+SEC. 4. The general assembly shall have power to exclude from every office of honor, trust, or
+profit, within the State, and from the right of suffrage, all persons convicted of bribery, perjury, or
+other infamous crime.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 FL 1838 ***
+
+SEC. 5. No person shall be capable of holding or of being elected to any post of honor, profit,
+trust, or emolument, civil or military, legislative, executive, or judicial, under the government of
+this State, who shall hereafter fight a duel, or send or accept a challenge to fight a duel, the
+probable issue of which may be the death of the challenger or challenged, or who shall be a
+second to either party, or who shall in any manner aid or assist in such duel, or shall be knowingly
+the bearer of such challenge or acceptance whether the same occur or be committed in or out of-
+the State.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 FL 1838 ***
+
+SEC. 6. No person who may hereafter be a collector or holder of public moneys shall have a seat
+in either house of the general assembly, or be eligible to any office of trust Or profit under this
+State, until lie shall have accounted for, and paid into the treasury, all sums for which lie may be
+accountable.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 FL 1838 ***
+
+SEC. 7. No governor, member of Congress, or of the general assembly of this State, shall receive
+a fee, be engaged as counsel, agent, or attorney, in . any civil case or claim against this State, or
+to which this State shall be a party, during the time he shall remain in office.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 FL 1838 ***
+
+SEC. 8. No governor, justice of the supreme court chancellor, or judge, in this State, shall be
+eligible to election or appointment to any other and different station, or office, or post of honor or
+emolument, tinder this State, or to the station of Senator or Representative in the Congress of the
+United States from this State, until one year after he shall have ceased to be such governor,
+justice, chancellor, or judge.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 FL 1838 ***
+
+SEC. 9. No senator or representative shall, during the term for which he shall have been elected,
+be appointed to any civil office of profit under this State, which shall have been created, or the
+emoluments of which shall have been increased, during such term, except such offices as may be
+filled by elections by the people.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 FL 1838 ***
+
+SEC. 10. No minister of the gospel shall be eligible to the office of governor, senator, or member
+of the house of representatives of this State.
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 FL 1838 ***
+
+SEC. 11. Members of the general assembly, and all officers, civil and military, before they enter
+upon the execution of their respective offices, shall take the following oath or affirmation: " I,
+_______ _______, do swear (or affirm) that I am duly qualified  according to the constitution of
+this State, to exercise the office to which I have been elected, (or appointed,) and will, to the best
+of in abilities, discharge the duties thereof, and preserve' protect, and de7end the constitution of
+this State, and of the United States."
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 FL 1838 ***
+
+SEC. 12. Every person shall be disqualified from serving as governor, senator, representative, or
+from holding any other office of honor or profit in this State, for the term for which he shall have
+been elected, who shall have been convicted of having given or offered any bribe to procure his
+election.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 FL 1838 ***
+
+SEC. 13. Laws shall be made by the general assembly to exclude from office, and from suffrage,
+those who shall have been, or may thereafter be, convicted of bribery, perjury, forgery, or other
+high crime or misdemeanor; and the privilege of suffrage shall be supported by laws regulating
+elections, and prohibiting, under adequate penalties, all undue influence thereon, from power,
+bribery, tumult, or other improper practices.
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 FL 1838 ***
+
+SEC. 14. All civil officers of the State at large shall reside within the State, and all district or
+county officers within their respective districts or counties, and shall keep their respective offices
+at such places therein as may be required bylaw.
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 FL 1838 ***
+
+SEC. 15. It shall be the duty of the general assembly to regulate by law in what cases and what
+deduction from the salaries of public officers shall be made for neglect of duty in their official
+capacity.
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 FL 1838 ***
+
+SEC. 16. Returns of elections for members of Congress and the general assembly shall be made to
+the secretary of state, in manner to be prescribed by law.
+
+*** SEND ***
+*** SSTART 017.0 006.0 0 FL 1838 ***
+
+SEC. 17. In all elections by the general assembly, the vote shall be viva voce; and in all elections
+by the people the vote shall be by ballot.
+
+*** SEND ***
+*** SSTART 018.0 006.0 0 FL 1838 ***
+
+SEC. 18. No member of Congress, or person holding or exercising any office of profit under the
+United States, or under any foreign power, shall be eligible as a member of the general assembly
+of this State, or hold or exercise any office of profit under the State; and no person in this State
+shall ever bold two offices of profit. at the same time, except the office of justice of the peace,
+notary public, constable, and militia offices.
+
+*** SEND ***
+*** SSTART 019.0 006.0 0 FL 1838 ***
+
+SEC. 19. The general assembly shall by law provide for the appointment or election, and the
+removal from office, of all officers, civil and military, in this State, not provided for in this
+constitution.
+
+*** SEND ***
+*** SSTART 020.0 006.0 0 FL 1838 ***
+
+SEC. 20. The power of impeachment shall be vested in the house of representatives.
+
+*** SEND ***
+*** SSTART 021.0 006.0 0 FL 1838 ***
+
+SEC. 21. All impeachments shall be tried by the senate; and, when sitting for that purpose, the
+senators shall be upon oath or affirmation; and no person shall be convicted without the
+concurrence of two-thirds of the members present.
+
+*** SEND ***
+*** SSTART 022.0 006.0 0 FL 1838 ***
+
+SEC. 22. The governor and all civil officers shall be liable to impeachment for any misdemeanor in
+office; but judgment, in such cases, shall not extend further than to removal from office, and
+disqualification to hold any office of honor, trust, or profit under this ate; but the parties shall,
+nevertheless, be liable to indictment, trial, and punishment according to law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 FL 1838 ***
+
+ARTICLE VII
+
+MILITIA
+
+*** SSTART 001.0 007.0 0 FL 1838 ***
+
+SECTION 1. All militia officers shall be elected by the persons subject to military duty within the
+bounds of their several companies, battalions, regiments, brigades, and divisions, under such rules
+and regulations as the general assembly may, from time to time, direct and establish.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 FL 1838 ***
+
+SEC. 2. The governor shall appoint all the officers of the executive staff, except the adjutant-
+general and paymaster-general, who shall be appointed by the governor, by and with the advice
+and consent of the senate. The major-generals and brigadier-generals, and commanding officers of
+regiments, shall appoint such staff officers as may be prescribed by law: Provided, No person shall
+be eligible to any staff appointment unless he bold a commission in the line.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 FL 1838 ***
+
+ARTICLE VIII
+
+TAXATION AND REVENUE
+
+*** SSTART 001.0 008.0 0 FL 1838 ***
+
+SECTION 1. The general assembly shall devise and adopt a system of revenue, having regard to
+an equal and uniform mode of taxation, to be general throughout the State.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 FL 1838 ***
+
+SEC. 2. No other or greater amount of tax or revenue shall at any time be levied than may be required
+for the necessary expenses of government.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 FL 1838 ***
+
+SEC. 3. No money shall be drawn from the treasury but in consequence of an appropriation by law;
+and a regular statement of the receipts and the expenditures of all public moneys shall be published
+and promulgated annually with the laws of the general assembly.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 FL 1838 ***
+
+SEC. 4. The general assembly shall have power to authorize the several counties and incorporated
+towns in this State to impose taxes for county and corporation purposes respectively; and all property
+shall be taxed upon the principles established in regard to State taxation.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 FL 1838 ***
+
+ARTICLE IX
+
+CENSUS AND APPORTIONMENT OF REPRESENTATION
+
+*** SSTART 001.0 009.0 0 FL 1838 ***
+
+SECTION 1. The general assembly shall, in the year 1845, and every tenth year thereafter, cause an
+enumeration to be made of all the inhabitants of the State, and to the whole number of free white
+inhabitants shall be added three-fifths of the number of slaves; and they shall then proceed to
+apportion the representation equally among the different counties, according to such enumeration,
+giving, however, one representative to every county, and increasing the number of representatives,
+on a uniform ratio of population, according to the foregoing basis; and which ratio shall not be
+changed until a new census shall have been taken.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 FL 1838 ***
+
+SEC. 2. The general assembly shall also, after every such enumeration, proceed to fix by law the
+number of senators which shall constitute the senate of the State of Florida, and which shall never be
+less than one-fourth nor more than one-half of the whole number of the house of representatives; and
+they shall lay off the State into the same number of senatorial districts, as nearly equal in the number
+of inhabitants as may be, according to the ratio of representation established in the preceding section;
+each of which districts shall be entitled to one senator.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 FL 1838 ***
+
+SEC. 3. When any senatorial district shall be composed of two or more counties, the counties of
+which such district consists shall not be entirely separated by any county belonging to another district,
+and no county shall be divide in forming a district.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 FL 1838 ***
+
+SEC. 4. No new county shall be entitled to separate representation until its population equal the ratio
+of representation then existing; nor shall any county be reduced in population, by division, below the
+existing ratio.
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 FL 1838 ***
+
+SEC. 5. Until the apportionment of representation by the general assembly, as directed in the
+foregoing section, the several counties shall be entitled to the following representatives, viz:
+Escambia, three; Walton, one; Washington, one; Jackson, three; Franklin, two; Calhoun, two;
+Gadsden, four; Leon, six; Jefferson, three; Madison, one; Hamilton, one; Columbia, two; Alachua,
+two; Duval, two; Nassau, one; Saint John's, three; Mosquito, one; Dade, one; Monroe, one;
+Hillsborough, one; and, until the apportionment of senators under the census as aforesaid, there shall
+be sixteen senatorial districts in this State, which shall be as follows:
+The county of Escambia shall compose the first district.
+The counties of Walton and Washington shall compose the second district.
+The county of Jackson shall compose the third district.
+The county of Calhoun shall compose the fourth district.
+The county of Franklin shall compose the fifth district.
+The county of Gadsden shall compose the sixth district.
+The county of Leon shall compose the seventh district.
+The county of Jefferson shall compose the eighth district.
+The county of Madison shall compose the ninth district.
+The county of Hamilton shall compose the tenth district.
+The county of Columbia shall compose the eleventh district.
+The county of Alachua shall compose the twelfth district.
+The county of Duval shall compose the thirteenth district.
+The county of Nassau shall compose the fourteenth district.
+The counties of Saint John's and Mosquito shall compose the fifteenth district.
+The counties of Dade, Monroe, and Hillsborough shall compose the sixteenth district.
+And each senatorial district shall elect one senator, and the seventh district shall be entitled to two.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 FL 1838 ***
+
+ARTICLE X
+
+EDUCATION
+
+*** SSTART 001.0 010.0 0 FL 1838 ***
+
+SECTION 1. The proceeds of all lands that have been, or may hereafter be, granted by the United
+States for the use of schools and a seminary or seminaries of learning, shall be and remain a perpetual
+fund, the interest of which, together with all moneys derived from any other source applicable to the
+same object, shall be inviolably appropriated to the use of schools and seminaries of learning,
+respectively, and to no other purpose.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 FL 1838 ***
+
+SEC. 2. The general assembly shall take such measures as may be necessary to preserve from waste
+or damage all land so granted and appropriated to the purposes of education.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 FL 1838 ***
+
+ARTICLE XI
+
+PUBLIC DOMAIN AND INTERNAL IMPROVEMENTS
+
+*** SSTART 001.0 011.0 0 FL 1838 ***
+
+SECTION 1. It shall be the duty of the general assembly to provide for the prevention of waste
+and damage of the public lands now possessed, or that may hereafter be ceded to the Territory or
+State of Florida; and it may pass laws for the sale of any part or portion thereof, and, in such case,
+provide for the safety, security, and appropriation of the proceeds.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 FL 1838 ***
+
+SEC. 2. A liberal system of internal improvements, being essential to the development of the
+resources of the country, shall be encouraged by the government of this State; and it shall be the
+duty of the general assembly, as soon as practicable, to ascertain, by law, proper objects of
+improvement, in relation to roads, canals, and navigable streams, and to provide for a suitable
+application such funds as may be appropriated for such improvements.
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 FL 1838 ***
+
+ARTICLE XII
+
+BOUNDARIES
+
+*** SSTART 001.0 012.0 0 FL 1838 ***
+
+SECTION 1. The jurisdiction of the State of Florida shall extend over the Territories of East and
+West Florida. which, by the treaty of amity, settlement, and limits, between the United States and
+His Catholic Majesty, on the 22d day of February, A.D. 1819, were ceded to the United States.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 FL 1838 ***
+
+ARTICLE XIII
+
+BANKS AND OTHER CORPORATIONS
+
+*** SSTART 001.0 013.0 0 FL 1838 ***
+
+SECTION 1. The general assembly shall pass a general law for the incorporation of all such
+churches, and religious or other societies as may accept thereof; but no special act of
+incorporation thereof shall be passed.
+
+*** SEND ***
+*** SSTART 002.0 013.0 0 FL 1838 ***
+
+SEC. 2. The general assembly shall pass no act of incorporation, or make any alteration therein,
+unless with the assent of at least two thirds of each house, and unless public notice in one or more
+newspapers in the State shall have been given for at least three months immediately preceding the
+session at which the same may be applied for.
+
+*** SEND ***
+*** SSTART 003.0 013.0 0 FL 1838 ***
+
+SEC. 3. No banking corporation shall be created, or continue, which is composed of a less
+number than twenty individuals, I majority of whom, at least, shall be residents of the State; and
+no other corporation shall be created, or continue, composed of a less number than ten, of whom
+at least five shall be residents of this State.
+
+*** SEND ***
+*** SSTART 004.0 013.0 0 FL 1838 ***
+
+SEC. 4. No bank-charter, or any act of incorporation granting exclusive privileges, shall be
+granted for a longer period than twenty years; and no bank-charter shall ever be extended or
+renewed.
+
+*** SEND ***
+*** SSTART 005.0 013.0 0 FL 1838 ***
+
+SEC. 5. The charters of banks granted by the general assembly shall restrict such banks to the
+business of exchange, discount, and deposit; and they shall not speculate or deal in real estate, or
+the stock of other corporations or associations, or in merchandise or chattels, or be concerned in
+insurance, manufacturing, exportation, or importation, except of bullion or specie; shall Dot act as
+trustee in any wise, nor shall they own real estate or chattels, except such as shall be necessary for
+their actual use in the transaction of business, or which may be pledged as further security, or
+received towards or in satisfaction of previously-contracted debts, or purchased at legal sales to
+satisfy such debts; of which they shall be required to make sale within two years after the
+acquisition thereof.
+
+*** SEND ***
+*** SSTART 006.0 013.0 0 FL 1838 ***
+
+SEC. 6. The capital stock of any bank shall not be less than one hundred thousand dollars, and
+shall be created only by the actual payment of specie therein; and no bank shall borrow money to
+create or add to its capital or to conduct its business, and no loans shall be made on stock.
+
+*** SEND ***
+*** SSTART 007.0 013.0 0 FL 1838 ***
+
+SEC. 7. All liabilities of such banks shall be payable in specie, and the aggregate of the liabilities
+and issues of a bank shall at no time exceed double the amount of its capital stock paid in.
+
+*** SEND ***
+*** SSTART 008.0 013.0 0 FL 1838 ***
+
+SEC. 8. No bank shall make a note or security of any kind for a smaller sum than five dollars; and
+the general assembly may increase such restriction to twenty dollars.
+
+*** SEND ***
+*** SSTART 009.0 013.0 0 FL 1838 ***
+
+SEC. 9. No dividends or profits exceeding ten per centum per annum on the capital stock paid in
+shall be made; but all profits over ten per centum per annum shall be set apart and retained as a
+safety fund.
+
+*** SEND ***
+*** SSTART 010.0 013.0 0 FL 1838 ***
+
+SEC. 10. Stockholders in a bank, when an act of forfeiture of its charter is committed, or when it
+is dissolved or expires, shall be individually and severally liable for the payment of all its debts, in
+proportion to the stock owned by each.
+
+*** SEND ***
+*** SSTART 011.0 013.0 0 FL 1838 ***
+
+SEC. 11. Banks shall be open to inspection, under such regulations as may be prescribed by law;
+and it shall be the duty of the governor to appoint a person or persons, not connected in any
+manner with any bank in the State, to examine at least once a year into their state and condition;
+and the officers of every bank shall make quarterly returns to the governor of its state and
+condition, and the names of the stockholders, and shares held by each.
+
+*** SEND ***
+*** SSTART 012.0 013.0 0 FL 1838 ***
+
+SEC. 12. Non-user for the space of one year, or any act of a corporation, or those having the
+control and management thereof, or intrusted therewith, inconsistent with or in violation of the
+provisions of this constitution, or of its charter, shall cause its forfeiture, and the general assembly
+shall, by general law, provide a summary process for the sequestration of its effects and assets, the
+appointment of officers to settle its affairs; and no forfeited charter shall be restored. The
+foregoing provisions shall not be construed to prevent the general assembly from imposing other
+restrictions and provisions in the creation of corporations.
+
+*** SEND ***
+*** SSTART 013.0 013.0 0 FL 1838 ***
+
+SEC. 13. The general assembly shall not pledge the faith and credit of the State to raise funds in
+aid of any corporation whatsoever.
+
+*** SEND ***
+*** SSTART 014.0 013.0 0 FL 1838 ***
+
+SEC. 14. The general assembly shall, at its first session, have power to regulate, restrain, and
+control all associations claiming to exercise corporate privileges in the State, so as to guard,
+protect, and secure the interests of the people of the State, not violating vested rights or impairing
+the obligation of contracts.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 FL 1838 ***
+
+ARTICLE XIV
+
+AMENDMENTS AND REVISION TO THE CONSTITUTION
+      
+*** SSTART 001.0 014.0 0 FL 1838 ***
+
+SECTION 1. No convention of the people shall be called unless by the concurrence of two-thirds of
+each house of the general assembly.
+
+*** SEND ***
+*** SSTART 002.0 014.0 0 FL 1838 ***
+
+SEC. 2. No part of this constitution shall be altered unless a bill to alter the same shall have been read
+three times in the house of representatives and three times in the senate, and agreed to by two-thirds
+of each house of the general assembly; neither shall any alteration take place until the bill so agreed
+to be published six months previous to a new election for members to the house of representatives;
+and if the alteration proposed by the general assembly shall be agreed to, at their first session, by two-
+thirds of each house of the general assembly, after the same shall have been read three times on three
+several days in each house, then, and not otherwise, the same shall become a part of the constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 015.0 FL 1838 ***
+
+ARTICLE XV
+
+THE SEAT OF GOVERNMENT
+
+*** SSTART 001.0 015.0 0 FL 1838 ***
+
+SECTION 1. The seat of government of the State of Florida shall be and remain permanent at the
+city of Tallahassee, for the term and time of five years from and after the end. of the first session
+of the general assembly to be holden under this constitution; and, after the expiration of the said
+five years, the general assembly shall have power to remove the seat of government from
+Tallahassee, and fix the same at any other point: Provided, That the general assembly shall.
+immediately after the expiration of ten years from the end- of the said first session thereof, fix
+permanently the seat of government.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 016.0 FL 1838 ***
+
+ARTICLE XVI
+
+GENERAL PROVISIONS
+
+*** SSTART 001.0 016.0 0 FL 1838 ***
+
+SECTION 1. The general assembly shall have no power to pass laws for the emancipation of
+slaves.
+
+*** SEND ***
+*** SSTART 002.0 016.0 0 FL 1838 ***
+
+SEC. 2. They shall have no power to prevent emigrants to this State from bringing with them such
+persons as may be deemed slaves by the laws of any one of the United States: Provided, They
+shall have power to enact laws to prevent the introduction of any slaves who may have committed
+crimes in other States.
+
+*** SEND ***
+*** SSTART 003.0 016.0 0 FL 1838 ***
+
+SEC. 3. The general assembly shall have power to pass laws to prevent free negroes, mulattoes,
+and other persons of color, from immigrating to this State, or from being discharged from on
+board any vessel in any of the ports of Florida.
+
+*** SEND ***
+*** SSTART 004.0 016.0 0 FL 1838 ***
+
+SEC. 4. Treason against the State shall consist only in levying war against it, or in adhering to its
+enemies, giving them aid and comfort.  No person shall be convicted of treason unless on the
+testimony of two witnesses to the same overt act, or his confession in open court.
+
+*** SEND ***
+*** SSTART 005.0 016.0 0 FL 1838 ***
+
+SEC. 5. Divorces from the bonds of matrimony shall not be allowed but by the judgment of a
+court, as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 006.0 016.0 0 FL 1838 ***
+
+SEC. 6. The general assembly shall declare by law what parts of the common law and what parts
+of the civil law, not inconsistent with this constitution, shall be in force in this State.
+
+*** SEND ***
+*** SSTART 007.0 016.0 0 FL 1838 ***
+
+SEC. 7. The oaths of officers, directed to be taken under this constitution, may be administered by
+any judge or justice of the peace of the Territory or State of Florida, until otherwise prescribed by
+law.
+
+*** SEND ***
+*** AEND ***                            
+*** ASTART 017.0 FL 1838 ***
+
+ARTICLE XVII
+
+SCHEDULE AND ORDINANCE
+
+In order that no inconvenience may arise from the organization and establishment of the State
+government, it is declared:
+
+*** SSTART 001.0 017.0 0 FL 1838 ***
+
+SECTION 1. That all laws or parts of laws now in force, or which may be hereafter passed by the
+governor and legislative council of the Territory of Florida, not repugnant to the provisions of this
+constitution, shall continue in force until, by operation of their provisions or limitations, the same
+shall cease to be in force, or until the general assembly of this State shall alter or repeal the same;
+and all writs, actions, prosecutions, judgments, and contracts shall be and continue unimpaired;
+and all process which has heretofore issued, or which may be issued prior to the last day of the
+first session of the general assembly of this State, shall be as valid as if issued in the name of the
+State; and nothing in this constitution shall impair the obligation of contracts, or violate vested
+rights, either of individuals, or of associations claiming to exercise corporate privileges in this
+State.
+
+*** SEND ***
+*** SSTART 002.0 017.0 0 FL 1838 ***
+
+SEC. 2. All fines, penalties, forfeitures, obligations, and escheats accruing to the Territory of
+Florida shall accrue to the use of the State of Florida.
+
+*** SEND ***
+*** SSTART 003.0 017.0 0 FL 1838 ***
+
+SEC. 3. All recognizances heretofore taken, or which may be taken before the organization of the
+judicial department under this constitution, shall remain valid, and shall pass over to, and may be
+prosecuted in the name of the State; and all bonds executed to the governor of the Territory of
+Florida or to any other officer, in his official capacity, shall pass over to the governor or other
+proper State authority, and to their successors in office, for the uses therein respectively
+expressed, and may be sued for and recovered accordingly; and all criminal prosecutions and
+penal actions which have arisen, or which may arise before the organization of the judicial depart-
+
+ment under this constitution, and which shall then be depending, may be prosecuted to judgment
+and execution in the name of the State.
+
+*** SEND ***
+*** SSTART 004.0 017.0 0 FL 1838 ***
+
+SEC. 4. All officers, civil and military, now holding their offices and appointments in the Territory
+under the authority of the United States, or under the authority of the Territory, shall continue to
+hold and exercise their respective offices and appointments until superseded under this
+constitution; and all actions at law or suits in chancery, or any proceeding pending, or which may
+be pending, in any court of the Territory of Florida, may be commenced in or transferred to such
+court of the State as may have jurisdiction of the subject-matter thereof.
+
+*** SEND ***
+*** SSTART 005.0 017.0 0 FL 1838 ***
+
+SEC. 5. This constitution shall be submitted to the people for ratification at the election for
+delegate on the first Monday of May next. Each qualified voter shall express his assent or dissent
+to the constitution by directing the managers of said election to write opposite to his name on the
+poll-book either the word "Constitution" or "No constitution."  And in case the time of election
+for delegate be changed to any other day than the first Monday of May next, then the judges or
+clerks of the county courts respectively shall appoint managers to hold an election on the said first
+Monday of May, for ratification of the constitution; and said managers shall conduct said election
+in the manner provided by the laws of the Territory respecting elections, and make return of the
+result of such vote forthwith, by depositing the original poll-book in the clerk's office of their
+counties, respectively, and by transmitting a certificate of the result to the president of the
+convention, who shall forthwith make proclamation of the same; and in case the constitution be
+ratified by the people, and immediately after official information shall have been received that
+Congress have approved the constitution, and provided for the admission of Florida, the president
+of this convention shall issue writs of election to the proper officers, in the different counties,
+enjoining them to cause an election to be held for governor, Representative in Congress, and
+members of the general assembly in each of their respective counties.  The election shall be held
+on the first Monday after the lapse of sixty-days following the day of the date of the President's
+proclamation, and shall take place on the same day throughout the State. The said election shall
+be conducted according to the then existing election laws of the Territory of Florida: Provided,
+however, That in case of the absence or disability of the president of the convention to cause the
+said election to be carried into effect, the secretary of this convention shall discharge the duties
+hereby imposed upon the president; and, in case of his absence or disability of the secretary, a
+committee consisting of five, to wit, Leigh Read, George T. Ward, James D. Westcott, jr.,
+Thomas Brown, and Leslie A. Thompson, or a majority of them, shall discharge the duties herein
+imposed on the secretary of the convention and the members of the general assembly so elected
+shall assemble on the fourth Monday thereafter at the seat of government.  The governor,
+Representative in Congress, and members of the general assembly shall enter upon the duties of
+their respective offices immediately after their election under the provisions of this constitution,
+and shall continue in office in the same manner, and during the same period, they would have
+done had they been elected on the first Monday in October.
+
+*** SEND ***
+*** SSTART 006.0 017.0 0 FL 1838 ***
+
+SEC. 6. The general assembly shall have power, by the votes of two thirds of both houses, to
+accede to such propositions as may be made by the Congress of the United States upon the
+admission of the State of Florida into the national confederacy and Union, if they shall be deemed
+reasonable and just, and to make declaration of such assent by law; and such declaration when
+made, shall be binding upon the people and the State of Florida as a compact; and the governor of
+the State of Florida shall notify the President of the United States of the acts of the general
+assembly relating hereto; and in case of declining to accede to such propositions, or any part
+thereof, the general assembly shall instruct the Senators and Representatives of the State of
+Florida in Congress to procure such modification or alteration thereof as may be deemed
+reasonable and just, and assent thereto, subject to the ratification of the general assembly by law
+as aforesaid.
+
+*** SEND ***
+*** SSTART 007.0 017.0 0 FL 1838 ***
+
+SEC. 7. The courts of this State shall never entertain Jurisdiction of any grants of land in the
+Floridas made by the King of Spain, or by his authority, subsequent to the twenty-fourth day of
+January, eighteen hundred and eighteen, nor shall the said courts receive as evidence in any case,
+certain grants said to have been made by the said King of Spain in favor of the Duke of Alagon,
+the Count Punon Rostro, and Don Pedro de Vargas or any title derived from either of said grants,
+unless with the express assent of the Congress of the United States.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9016.0 FL 1838 ***
+
+Done in convention, held in pursuance of all act of the governor and legislative council of the
+Territory of Florida, entitled "An act to call a convention for the purpose of organizing a State
+government," passed 30th day of January, 1838, and approved 2nd February, eighteen hundred
+and thirty-eight.
+ROBERT RAYMOND REID,
+President of the Convention.
+JOSHTTA KNOWLES, Secretary.
+
+*** AEND ***
+
+
+*** MSTART 001 002.0 004.0 0 FL 1838 1847 ***
+
+Ratified December 23, 1847
+
+SECTION 2.  The members of the House of Representatives shall be chosen by the qualified
+voters, and shall serve for the term of two years from and after the day of the first election under
+the amended Constitution, and no longer; and the sessions of the General Assembly shall be
+biennial, and commence on the fourth Monday in November in each and every second year, or at
+such other times as may be prescribed by law.
+
+[Note:  This was Section 1 of an Act to amend Article IV of the Constitution]
+
+*** MEND ***
+*** MSTART 002 003.0 004.0 0 FL 1838 1847 ***
+
+Ratified December 23, 1847
+
+SECTION 3.  The Representatives shall be chosen on the first Monday in the month of October in
+each and every second year, from and after the first election under this amended Constitution, or
+on such other day as may be directed by law.
+
+[Note:  This was Section 2 of an Act to amend Article IV of the Constitution]
+
+*** MEND ***
+*** MSTART 003 005.0 004.0 0 FL 1838 1847 ***
+
+Ratified December 23, 1847
+
+SECTION 5.  The Senators shall be chosen by the qualified electors for the term of four years, at
+the same time, in the same manner, and in the same place where they vote for members of the
+House of Representatives, and no person shall be a Senator unless he be a white man, a citizen of
+the United States, and shall have been an inhabitant of this State for two years next preceding his
+election, and the last year a resident of the District or County for which he shall be chosen, and
+shall have attained the age of twenty-five years.
+
+[Note:  This was Section 3 of an Act to amend Article IV of the Constitution]
+
+*** MEND ***
+*** MSTART 004 006.0 004.0 0 FL 1838 1847 ***
+
+Ratified December 23, 1847
+
+SECTION 6.  The classification of Senators, as made at the first session of the General Assembly
+held in the year 1845, shall continue unchanged; one-half of whom, as nearly as possible, shall be
+chosen forever hereafter biennially for the term of four years:  Provided, however, and it is hereby
+declared, that the term of office of that class of Senators unexpired at the first election under the
+amended Constitution, shall extend to, and expire on the first Monday in October, eighteen
+hundred and fifty.
+
+[Note:  This was Section 4 of an Act to amend Article IV of the Constitution]
+
+*** MEND ***
+*** MSTART 005 019.0 004.0 0 FL 1838 1847 ***
+
+Ratified December 23, 1847
+
+Be it further enacted, That the first election for Assemblymen, under this amended Constitution,
+shall take place on the first Monday in October, eighteen hundred and forty-eight; and the first
+session of the General Assembly, under this amended Constitution, shall commence on the fourth
+Monday in November, in the year eighteen hundred and forty-eight.
+
+[Note:  This was Section 5 of an Act to amend Article IV of the Constitution.  Since this section
+of the Act does not indicate a specific section of Article IV, it has been assigned the next
+consecutive section number, as if an addition to Article IV.]
+
+*** MEND ***
+*** MSTART 006 001.0 006.0 0 FL 1838 1847 ***
+
+Ratified December 23, 1847
+
+SECTION 1.  Every free white male person of the age of twenty-one years and upwards, and who
+shall be at the time of offering to vote, a citizen of the United States, and who shall have resided
+and had his habitation, domicile, home, and place of permanent abode in Florida for one year next
+preceding the election at which he shall offer to vote, and who shall, at such time, and for six
+months immediately preceding said time, have had his habitation, domicile, home and place of
+permanent abode in the county in which he may offer to vote, shall be deemed a qualified voter at
+all elections under this Constitution, and none others, except in elections by general ticket in the
+State or District prescribed law, in which cases the elector must have been a resident of the State
+one year next preceding the election, and six months within the election district in which he offers
+to vote:  Provided, That no soldier, seaman or marine in the Regular Army or Navy of the United
+States, unless he were a qualified elector of this State previous to his enlistment as such soldier,
+seaman or marine in the Regular Army or Navy of the United States, or of the revenue service,
+shall be considered a resident of the State in consequence of being stationed within the same.
+
+[Note:  This was Section 1 of an Act to amend Article VI of the Constitution]
+
+*** MEND ***
+*** MSTART 007 012.0 005.0 0 FL 1838 1848 ***
+
+Ratified December 12, 1848
+
+SECTION 12.  At the expiration of the present term of office of the Judges of the Circuit Courts,
+with the exceptions hereinafter mentioned, the Justices of the Supreme Courts and the Judges of
+the Circuit Courts shall be elected for a term of eight years, and shall hold their offices for that
+term, unless sooner removed under the provisions made in this Constitution for the removal of
+Judges, by address or impeachment:  and for wilful neglect of duty, or other reasonable cause,
+which shall not be sufficient ground for impeachment, the Governor shall remove any of them on
+the address of two-thirds of the General Assembly:  Provided, however, That the cause or causes
+shall be stated at length in such address, and entered on the journals of each house:  And
+provided, further, That the cause or causes shall be notified to the judge so intended to be
+removed, and he shall be admitted to a hearing in his own defence, before any vote for such
+removal shall pass; and in such cases, the vote shall be taken by yeas and nays, and entered on the
+journals of each house respectively.
+
+[Note:  This was Section 1 of an Act to amend Article V of the Constitution]
+
+*** MEND ***
+*** MSTART 008 021.0 005.0 0 FL 1838 1848 ***
+
+Ratified December 12, 1848
+
+Be it further enacted, That the Judges first appointed under this amended Constitution shall be
+divided by lot into four classes,--the first class shall hold his or their office or offices for the term
+of two years, the second for the term of four years, the third for the term of six years, the fourth
+for the term of eight years.
+
+[Note:  This was Section 2 of an Act to amend Article V of the Constitution.  Since this section of
+the Act did not indicate a specific section of Article V, it has been assigned the next consecutive
+section number, as if an addition to Article V.]
+
+*** MEND ***
+*** MSTART 009 011.0 005.0 0 FL 1838 1853 ***
+
+Ratified January 1, 1853
+
+SECTION 11.  On the first Monday in October, in the year one thousand eight hundred and fifty-
+three, and on the first Monday in October, every six years thereafter, there shall be elected by the
+qualified electors of each of the respective Judicial Circuits of this State, one Judge of the Circuit
+Court, who shall reside in the Circuit for which he may be elected, and continue in office for the
+term of six years from and after the first day of January next succeeding his election, unless
+sooner removed under the provisions made in this Constitution for the removal of Judges by
+address or impeachment:  And for wilful neglect of duty or other reasonable cause, which shall
+not be sufficient ground for impeachment, the Governor shall remove any of them on the address
+of two-thirds of the General Assembly:  Provided, however, That the cause, or causes, shall be
+stated at length in such address, and entered on the Journals of each House:  And provided,
+further, That the cause, or causes, shall be notified to the Judge so intended to be removed; and
+he shall be admitted to a hearing in his own defence, before any vote for such removal shall pass;
+and in such cases, the vote shall be taken by yeas and nays, and entered on the Journals of each
+House, respectively.
+
+Be it further enacted, That said election shall be conducted, and the returns thereof made, in the
+manner now prescribed or which may here after be prescribed by law, for the election of member
+to Congress; and it shall be the duty of the Governor to issue a commission, under the seal of the
+State, to the person receiving the highest number of votes in the Judicial District in which the
+election is had.
+
+[Note:  This was Sections 1 and 2 of an Act to amend Article V of the Constitution]
+
+*** MEND ***
+*** MSTART  010 022.0 005.0 0 FL 1838 1853 ***
+
+Ratified January 1, 1853
+
+Be it further enacted, That whenever the General Assembly shall create a separate Supreme
+Court, or Chancery Court, under the provisions of this Constitution, the Judges thereof shall be
+elected in the manner provided in the first section of this act [refer to the amended Article V,
+section 11], and shall hold their offices for the same term, and be subject to all the provisions of
+said first section:  Provided, however, That the Judges of the Supreme shall be elected by general
+ticket; and the Judges of the Chancery Court shall be elected by general ticket, or by Districts, as
+the Legislature may direct.
+
+[Note:  This was Section 3 of an Act to amend Article V of the Constitution.  Since this section of
+the Act did not identify a specific section of Article V, it has been assigned the next consecutive
+section number, as if an addition to Article V.]
+
+*** MEND ***
+*** MSTART 011 023.0 005.0 0 FL 1838 1853 ***
+
+Ratified January 1, 1853
+
+Be it further enacted, That should a vacancy occur in either the Supreme, Chancery, or Circuit
+Court, by death, resignation, removal, or otherwise, it shall be the duty of the Governor to issue a
+writ of election to fill such vacancy, and he shall give at least sixty days notice thereof by
+proclamation, and the Judge so elected to fill such vacancy shall continue in office from the time
+he qualifies under his commission, which shall be issued immediately after the final canvass of the
+votes by which his election is determined:  Provided, however, That should it become necessary
+to fill any such vacancy before an election can be held under the provisions of this Constitution,
+the Governor shall have the power to fill such vacancy by appointment, and the person so
+appointed shall hold his office from the date of his commission until his successor shall, be duly
+elected and qualified.
+
+[Note:  This was Section 4 of an Act to amend Article V of the Constitution.  Since this section
+did not identify a specific section of Article V, it has been assigned the next consecutive section
+number, as if an addition to Article V.]
+
+*** MEND ***
+*** MSTART 012 021.0 005.0 0 FL 1838 1853 ***
+
+Ratified January 1, 1853
+
+Be it further enacted, That the second section of said act to amend the twelfth clause of the
+Constitution of this State, and adopted by the third and fourth General Assemblies as aforesaid, be
+and the same is hereby abolished; but it is hereby provided that the General Assembly shall, by the
+concurrent vote of the two Houses thereof, at its next regular session, elect some person to fill the
+vacancy which will occur by expiration of the term of office of that Judge who may draw the two-
+year term, under the provisions of said second section, which is hereinabove declared to be
+abolished.
+
+[Note:  This was Section 5 of an Act to amend Article V of the Constitution.  It amends an Act to
+amend Article V passed in 1848.  The section this amendment specifies has been designated as
+Section 21 of Article V.]
+
+*** MEND ***
+*** MSTART 013 017.0 005.0 0 FL 1838 1853 ***
+
+Ratified January 1, 1953
+
+SECTION 17.  There shall be one Solicitor for each Circuit, who shall reside therein, and shall be
+elected by the qualified voters of such Circuit, on the first Monday in October in the year one
+thousand eight hundred and fifty-three, and every fours years thereafter, or at such times as the
+General Assembly may by law prescribe, and shall receive for his services a compensation to be
+fixed by law.
+
+Be it further enacted, That such elections shall be held and conducted, and the returns thereof
+made, in the same manner as is now prescribed by law, or may hereafter be prescribed by law, for
+the election of member to Congress from this State.
+
+[Note:  This was Sections 1 and 2 of an Act to amend Article V of the Constitution]
+
+*** MEND ***
+
+*** CEND ***

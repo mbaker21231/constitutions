@@ -1,0 +1,296 @@
+This needs dates
+               
+JW 1/2/02
+
+
+*** CSTART NJ ?/?/1776 ?/?/1844 *** 
+
+        CONSTITUTION OF NEW JERSEY-1776 
+        
+*** ASTART 9001.0 NJ 1776 ***
+
+WHEREAS all the constitutional authority ever possessed by the kings of Great Britain over these
+colonies, or their other dominions, was, by compact, derived from the people, and held of them, for
+the common interest of the whole society; allegiance and protection are, in the nature of things,
+reciprocal ties, each equally depending on the other, and liable to be dissolved by the others being
+refused or withdrawn. And whereas George the Third, king of Great Britain, has refused protection
+to the good people of these colonies; and, by assenting to sundry acts of the British parliament,
+attempted to subject them to the absolute dominion of that body; and has also made war upon them,
+in the most cruel and unnatural manner, for no other cause, than asserting their just rights all civil
+authority under him is necessarily at an end, and a dissolution of government in each colony has
+consequently, taken place.
+And whereas, in the present deplorable situation of these colonies, exposed to the fury of a cruel
+and relentless enemy, some form of government is absolutely necessary, not only for the preservation
+of good order, but also the more effectually to unite the people, and enable them to exert their whole
+force in their own necessary defence: and as the honorable the continental congress, the supreme
+council of the American colonies, has advised such of the colonies as have not yet gone into
+measures, to adopt for themselves, respectively, such government as shall best conduce to their own
+happiness and safety, and the well-being of America in general:
+ We, the representatives of the Colony of New Jersey, having been elected by all the counties, in
+the freest manner, and in congress assembled, have, after mature deliberations, agreed upon a set of
+charter rights and the form of a Constitution, in manner following, viz.
+
+*** AEND ***
+
+*** ASTART 001.0 NJ 1776 ***
+
+I. That the government of this Province shall be vested in a Governor, Legislative Council, and
+General Assembly.
+
+*** AEND ***
+
+*** ASTART 002.0 NJ 1776 ***
+
+II. That the Legislative Council, and General Assembly, shall be chosen, for the first time on the
+second Tuesday in August next; the members whereof shall be the same in number and qualifications
+as are herein after mentioned; and shall be and remain vested with all the powers and authority to be
+held by any future Legislative Council and Assembly of this Colony, until the second Tuesday in
+October, which shall be in the year of our Lord one thousand seven hundred and seventy-seven.
+
+*** AEND ***
+
+*** ASTART 003.0 NJ 1776 ***
+
+                                   III. That on the second Tuesday in October yearly, and every year forever (with the privilege of
+adjourning from day to day as occasion may require) the counties shall severally choose one
+person, to be a member of the Legislative Council of this Colony, who shall be, and have been, for
+one whole year next before the election, an inhabitant and freeholder in the county in which he is
+chosen, and worth at least one thousand pounds proclamation money, of real and personal estate,
+within the same county; that, at the same time, each county shall also choose three members of
+Assembly; provided that no person shall be entitled to a seat in the said Assembly unless he be,
+and have been, for one whole year next before the election, an inhabitant of the county he is to
+represent, and worth five hundred pounds proclamation money, in real and personal estate, in the
+same county: that on the second Tuesday next after the day of election, the Council and Assembly
+shall separately meet; and that the consent of both Houses shall be necessary to every law;
+provided, that seven shall be a quorum of the Council, for doing business, and that no law shall
+pass, unless there be a majority of all the Representatives of each body personally present, and
+agreeing thereto. Provided always, that if a majority of the representatives of this Province, in
+Council and General Assembly convened, shall, at any time or times hereafter, judge it equitable
+and proper, to add to or diminish the number or proportion of the members of Assembly for any
+county or counties in this Colony, then, and in such case, the same may, on the principles of more,
+equal representation, be lawfully done; anything in this Charter to the contrary not withstanding:
+so that the whole number of Representatives in Assembly shall not, at any time, be less than
+thirty-nine.
+
+*** AEND ***
+
+*** ASTART 004.0 NJ 1776 ***
+
+IV. That all inhabitants of this Colony, of full age, who are worth fifty pounds proclamation money,
+clear estate in the same, and have resided within the county in which they claim a vote for twelve
+months immediately preceding the election, shall be entitled to vote for Representatives in Council
+and Assembly; and also for all other public officers, that shall be elected by the people of the county
+at large.
+
+*** AEND ***
+
+*** ASTART 005.0 NJ 1776 ***
+
+V. That the Assembly, when met, shall have power to choose a Speaker, and other their officers;
+to be judges of the qualifications and elections of their own members; sit upon their own
+adjournments; prepare bills, to be passed into laws; and to empower their Speaker to convene them,
+whenever any extraordinary occurrence shall render it necessary.
+
+*** AEND ***
+
+*** ASTART 006.0 NJ 1776 ***
+
+                                  VI. That the Council shall also have power to prepare bills to pass into laws, and have other like
+powers as the Assembly, and in all respects be a free and independent branch of the Legislature of
+this Colony; save only, that they shall not prepare or alter any money bill which shall be the
+privilege of the Assembly; that the Council shall, from time to time, be convened by the Governor
+or Vice-President, but must be convened, at all times, when the Assembly sits; for which purpose
+the Speaker of the House of Assembly shall always, immediately after an adjournment, give notice
+to the Governor, or Vice-President, of the time, and place to which the House is adjourned.
+
+*** AEND ***
+
+*** ASTART 007.0 NJ 1776 ***
+
+VII. That the Council and Assembly jointly, at their first meeting after each annual election, shall
+by a majority of votes, elect some fit person within the Colony, to be Governor for one year, who
+shall be constant President of the Council, and have a casting vote in their proceedings; and that the
+Council themselves shall choose a Vice President who shall act as such in the absence of the
+Governor.
+
+*** AEND ***
+
+*** ASTART 008.0 NJ 1776 ***
+
+VIII. That the Governor, or, in his absence, the Vice-President of the Council, shall have the
+supreme executive power, be Chancellor of the Colony, and act as captain-general and commander
+in chief of all the militia, and other military force in this Colony; and that any three or more of the
+Council shall, at all times, be a privy-council, to consult them; and that the Governor be ordinary or
+surrogate-general.
+
+*** AEND ***
+
+*** ASTART 009.0 NJ 1776 ***
+
+IX. That the Governor and Council, (seven whereof shall be a quorum) be the Court of Appeals,
+in the last resort, in all clauses of law, as heretofore; and that they possess the power of granting par-
+
+dons to criminals, after condemnation, in all cases of treason, felony, or other offences.
+
+*** AEND ***
+
+*** ASTART 010.0 NJ 1776 ***
+
+X. That captains, and all other inferior officers of the militia, shall be chosen by the companies, in
+the respective counties; but field and general officers, by the Council and Assembly.
+
+*** AEND ***
+
+*** ASART 011 NJ 1776 ***
+
+XI. That the Council and Assembly shall have power to make the Great Seal of this Colony, which
+shall be kept by the Governor, or, in his absence, by the Vice-President of the Council, to be used by
+them as occasion may require: and it shall be called, The Great Seal of the Colony of New-Jersey.
+
+*** AEND ***
+
+*** ASTART 012.0 NJ 1776 ***
+
+XII. That the Judges of the Supreme Court shall continue in office for seven years: the Judges of
+the Inferior Court of Common Pleas in the several counties, Justices of the Peace, Clerks of the
+Supreme Court, Clerks of the Inferior Court of Common Pleas and Quarter Sessions, the Attorney-
+General, and Provincial Secretary, shall continue in office for five years: and the Provincial Treasurer
+shall continue in office for one year; and that they shall be severally appointed by the Council and
+Assembly in manner aforesaid, and commissioned by the Governor, or, in big absence, the Vice-
+President of the Council. Provided always, that the said officers, severally, shall be capable of being
+re-appointed, at the end of the terms severally before limited; and that any of the said officers shall
+be liable to be dismissed, when adjudged guilty of misbehaviour, by the Council, on an impeachment
+of the Assembly.
+
+*** AEND ***
+
+*** ASTART 013.0 NJ 1776 ***
+
+XIII. That the inhabitants of each county, qualified to vote as aforesaid, shall at the time and
+place of electing their Representatives, annually elect one Sheriff, and one or more Coroners; and
+that they may re-elect the same person to such offices, until he shall have served three years, but
+no longer; after which, three years must elapse before the same person is capable of being elected
+again.  When the election is certified to the Governor, or Vice-President, under the hands of six
+freeholders of the county for which they were elected, they shall be immediately commissioned to
+serve in their respective offices.
+
+*** AEND ***
+
+*** ASTART 014.0 NJ 1776 ***
+
+   XIV. That the townships, at their annual town meetings for electing other officers, shall choose
+constables for the districts respectively; and also three or more judicious freeholders of good
+character, to hear and finally determine all appeals, relative to unjust assessments, in cases of
+public taxation; which commissioners of appeal shall, for that purpose, sit at some suitable time or
+times, to be by them appointed, and made known to the people by advertisements.
+
+    *** AEND ***
+
+    *** ASTART 015.0 NJ 1776 ***
+
+XV. That the laws of the Colony shall begin in the following style, viz. " Be it enacted by the
+Council and General Assembly of this Colony, and it is hereby enacted by authority of the same:"
+that all commissions, granted by the Governor or Vice-President, shall run thus " The Colony of
+New-Jersey to A. B. &c. greeting:" and that all writs shall likewise run in the name of the Colony:
+and that all indictments shall conclude in the following manner, viz. "Against the peace of this
+Colony, the government and dignity of the same."
+
+*** AEND ***
+
+*** ASTART 016.0 NJ 1776 ***
+
+XVI. That all criminals shall be admitted to the same privileges of witnesses and counsel, as their
+prosecutors are or shall be entitled to.
+
+*** AEND ***
+
+*** ASTART 017.0 NJ 1776 ***
+
+XVII. That the estates of such persons as shall destroy their own lives, shall not, for that offence,
+be forfeited; but shall descend in the same in manner, as they would have done, had such persons died
+in the natural way; nor shall any article, which may occasion accidentally the death of any one, be
+henceforth deemed a deodand, or in anywise forfeited, on account of such misfortune.
+
+*** AEND ***
+
+*** ASTART 018.0 NJ 1776 ***
+
+XVIII. That no person shall ever, within this Colony, be deprived of the inestimable privilege of
+worshipping Almighty God in a manner agreeable to the dictates of his own conscience; nor, tinder
+any pretence whatever, be compelled to attend any place of worship, contrary to his own faith and
+judgment; nor shall any person, within this Colony, ever be obliged to pay tithes, taxes, or any other
+rates, for the purpose of building or repairing any other church or churches, place or places of
+worship, or for the maintenance of any minister or ministry, contrary to what he believes to be right,
+or has deliberated or voluntarily engaged himself to perform.
+
+*** AEND ***
+
+*** ASTART 019.0 NJ 1776 ***
+
+XIX. That there shall be no establishment, of any one religious sect in this Province, in preference
+to another; and that no Protestant inhabitant of this Colony shall be denied the enjoyment of any civil
+right, merely on account of his religious principles; but that all persons, professing a belief in the faith
+of any Protestant sect, who shall demean themselves peaceably tinder the government, as hereby
+established, shall be capable of being elected into any office of profit or trust, or being a member of
+either branch of the Legislature, and shall fully and freely enjoy every privilege and immunity, enjoyed
+by others their fellow subjects.
+
+*** AEND ***
+
+*** ASTART 020.0 NJ 1776 ***
+
+XX. That the legislative department of this government may, as much as possible, be, preserved
+from all suspicion of corruption, none of the Judges of the Supreme or other Courts, Sheriffs, or any
+other person or persons possessed of any post of profit under the government, other than Justices of
+the Peace, shall be entitled to a seat in the Assembly: but that, on his being elected, and taking his
+seat, his office or post shall be considered as vacant.
+
+*** AEND ***
+
+*** ASTART 021.0 NJ 1776 ***
+
+XXI. That all the laws of this Province, contained in the edition lately published by Mr. Allinson,
+shall be and remain in full force, until altered by the Legislature of this Colony (such only excepted,
+as are incompatible with this Charter) and shall be, according as heretofore, regarded in all respects
+by all civil officers, and others, the good people of this Province.
+
+*** AEND ***
+
+*** ASTART 022.0 NJ 1776 ***
+
+XXII. That the common law of England, as well as so much of the statute law, as have been
+heretofore practised in this Colony, shall still remain in force, until they shall be altered by a future
+law of the Legislature; such parts only excepted, as are repugnant to the rights and privileges
+contained in this Charter; and that the inestimable right of trial by jury shall remain confirmed as a part
+of the law of this Colony, without repeal, forever.
+
+*** AEND ***
+
+*** ASTART 023.0 NJ 1776 ***
+
+XXIII. That every person, who shall be elected as aforesaid to be a member of the Legislative
+Council, or House of Assembly, shall, previous to his taking his seat in Council or Assembly, take the
+following oath or affirmation, viz:
+" I, A. B., do solemnly declare, that, as a member of the Legislative Council, [or Assembly, as the
+case may be,] of the Colony of New Jersey, I will not assent to any law, vote or proceeding, which
+shall appear to me injurious to the public welfare of said Colony, nor that shall annul or repeal that
+part of the third section in the Charter of this Colony, which establishes, that the elections of members
+of the Legislative Council and Assembly shall be annual; nor that part of the twenty-second section
+in said Charter, respecting the trial by jury, nor that shall annul, repeal, or alter any part or parts of
+the eighteenth or nineteenth sections of the same."
+And any person or persons, who shall be elected as aforesaid, is hereby empowered to administer
+to the said members the said oath or affirmation.
+Provided always, and it is the true intent and meaning of this Congress, that if a reconciliation
+between Great-Britain and these Colonies should take place, and the latter be taken again under the
+protection and government of the crown of Britain, this Charter shall be null and void otherwise to
+remain firm and inviolable.
+
+*** AEND ***
+
+ In Provincial Congress, New Jersey,
+ Burlington, July 2, 1776.
+ By order of Congress.
+                                                                         SAMUEL TUCKER, Pres.
+ WILLIAM PATTERSON, Secretary.     
+
+*** CEND ***

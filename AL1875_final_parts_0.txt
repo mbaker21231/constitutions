@@ -1,0 +1,2336 @@
+This constitution is ready to go.
+JW 12.29.01
+
+
+                      CONSTITUTION OF 1875
+                           WHOLE TEXT
+                                
+                                        
+*** CSTART AL 1/1/1875 11/28/1901 ***
+*** ASTART  9001.0 AL 1875 ***
+
+                                
+                            PREAMBLE
+
+We, the people of the State of Alabama, in order to establish justice, insure domestic tranquillity,
+provide for the common defense, promote the general welfare, and secure to ourselves and to our
+posterity life, liberty, and property; profoundly grateful to Almighty God for this inestimable right,
+and invoking His favor and guidance, do ordain and establish the following Constitution and form
+of government for the State of Alabama:
+
+*** AEND ***
+*** ASTART 001.0 AL 1875 ***
+
+                           ARTICLE I.
+
+                     DECLARATION OF RIGHTS.
+
+That the great, general, and essential principles of liberty and free government may be recognized
+and established, we declare:
+
+*** SSTART 001.0 001.0 0 AL 1875 *** 
+
+Section 1. That all men are equally free and independent; that they are endowed by their Creator
+with certain inalienable rights; that among these are life, liberty, and the pursuit of happiness.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 AL 1875 *** 
+
+Sec. 2. That all persons resident in this state, born in the United States, or naturalized, or who
+shall have legally declared their intention to become citizens of the United States, are hereby
+declared citizens of the State of Alabama, possessing equal civil and political rights.
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 AL 1875 *** 
+
+Sec. 3. That all political power is inherent in the people, and all free governments are founded on
+their authority, and instituted for their benefit; and that therefore they have, at all times, an
+inalienable and indefeasible right to change their form of government, in such manner as they may
+deem expedient.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 AL 1875 *** 
+
+Sec. 4. That no religion shall be established by law; that no preference shall be given by law to any
+religious sect, society, denomination, or mode of worship; that no one shall be compelled by law
+to attend any place of worship, nor to pay any tithes, taxes, or other rate, for building or repairing
+any place of worship, or for maintaining any minister or ministry; that no religious test shall be
+required as a qualification to any office or public trust under this state; and that the civil rights,
+privileges, and capacities of any citizen shall not be in any manner affected by his religious
+principles.
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 AL 1875 *** 
+
+Sec. 5. That any citizen may speak, write, and publish his sentiments on all subjects, being
+responsible for the abuse of that liberty.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 AL 1875 *** 
+
+Sec. 6. That the people shall be secure in their persons, houses, papers, and possessions from
+unreasonable seizure or searches, and that no warrant shall issue to search any place, or to seize
+any person or thing, without probable cause, supported by oath or affirmation.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 AL 1875 *** 
+
+Sec. 7. That in all criminal prosecutions the accused has a right to be heard by himself and
+counsel, or either; to demand the nature and cause of the accusation; to have a copy thereof; to be
+confronted by the witnesses against him; to have compulsory process for obtaining witnesses in
+his favor; and, in all prosecutions by indictment, a speedy public trial by an impartial jury of the
+county or district in which the offense was committed; and that he shall not be compelled to give
+evidence against himself, nor be deprived of his life, liberty, or property, but by due process of
+law.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 AL 1875 *** 
+
+Sec. 8. That no person shall be accused, or arrested, or detained, except in cases ascertained by
+law, and according to the forms which the same has prescribed; and no person shall be punished,
+but by virtue of a law established and promulgated prior to the offense, and legally applied.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 AL 1875 *** 
+
+Sec. 9. That no person shall, for any indictable offense, be proceeded against criminally by
+information, except in cases arising in the militia and volunteer forces when in actual service, or,
+by leave of the court, for misfeasance, misdemeanor, extortion, and oppression in office,
+otherwise than is provided in this Constitution. Provided, that in cases of petit larceny, assault,
+assault and battery, affray, unlawful assemblies, vagrancy, and other misdemeanors, the general
+assembly may, by law, dispense with a grand jury, and authorize such prosecutions and
+proceedings before justices of the peace, or such other inferior courts as may be by law
+established.
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 AL 1875 *** 
+
+Sec. 10. That no person shall, for the same offense, be twice put in jeopardy of life or limb.
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 AL 1875 *** 
+
+Sec. 11. That no person shall be debarred from prosecuting or defending, before any tribunal in
+this state, by himself or counsel, any civil cause to which he is a party.
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 AL 1875 *** 
+
+Sec. 12. That the right of trial by jury shall remain inviolate.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 AL 1875 *** 
+
+Sec. 13. That in prosecutions for the publication of papers investigating the official conduct of
+officers or men in public capacity, or when the matter published is proper for public information,
+the truth thereof may be given in evidence; and that in all indictments for libel, the jury shall have
+the right to determine the law and facts, under the direction of the court.
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 AL 1875 *** 
+
+Sec. 14. That all courts shall be open, and that every person, for any injury done him in his lands,
+goods, person, or reputation, shall have a remedy by due process of law; and right and justice
+shall be administered without sale, denial, or delay.
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 AL 1875 *** 
+
+Sec. 15. That the State of Alabama shall never be made defendant in any court of law or equity.
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 AL 1875 *** 
+
+Sec. 16. That excessive fines shall not be imposed, nor cruel or unusual punishments be inflicted.
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 AL 1875 *** 
+
+Sec. 17. That all persons shall, before conviction, be bailable by sufficient sureties, except for
+capital offenses when the proof is evident, or the presumption great; and that excessive bail shall
+not, in any case, be required.
+
+*** SEND ***
+*** SSTART 018.0 001.0 0 AL 1875 *** 
+
+Sec. 18. That the privilege of the writ of habeas corpus shall not be suspended by the authorities
+of this state.
+
+*** SEND ***
+*** SSTART 019.0 001.0 0 AL 1875 *** 
+
+Sec. 19. That treason against the state shall consist only in levying war against it, or adhering to
+its enemies, giving them aid and comfort; and that no person shall be convicted of treason, except
+on the testimony of two witnesses to the same overt act or his own confession in open court.
+
+*** SEND ***
+*** SSTART 020.0 001.0 0 AL 1875 *** 
+
+Sec. 20. That no person shall be attainted of treason by the general assembly; and that no
+conviction shall work corruption of blood, or forfeiture of estate.
+
+*** SEND ***
+*** SSTART 021.0 001.0 0 AL 1875 *** 
+
+Sec. 21. That no person shall be imprisoned for debt.
+
+*** SEND ***
+*** SSTART 022.0 001.0 0 AL 1875 *** 
+
+Sec. 22. That no power of suspending laws shall be exercised, except by the general assembly.
+
+*** SEND ***
+*** SSTART 023.0 001.0 0 AL 1875 *** 
+
+Sec. 23. That no ex post facto law, or any law impairing the obligation of contracts, or making
+any irrevocable grants of special privileges or immunities, shall be passed by the general assembly.
+
+*** SEND ***
+*** SSTART 024.0 001.0 0 AL 1875 *** 
+
+Sec. 24. That the exercise of the right of eminent domain shall never be abridged, nor so
+construed as to prevent the general assembly from taking the property and franchises of
+incorporated companies, and subjecting them to public use the same as individuals; but private
+property shall not be taken or applied for public use, unless just compensation be first made
+therefor; nor shall private property be taken for private use, or for the use of corporations other
+than municipal, without the consent of the owner; provided, however, that the general assembly
+may, by law, secure to persons or corporations the right of way over the lands of other
+corporations, and by general laws provide for and regulate the exercise by persons and
+corporations of the rights herein reserved; but just compensation shall, in all cases, be first made
+to the owner. And provided, that the right of eminent domain shall not be so construed as to allow
+taxation, or forced subscription, for the benefit of railroads, or any other kind of corporations
+other than municipal, or for the benefit of any individual or association.
+
+*** SEND ***
+*** SSTART 025.0 001.0 0 AL 1875 *** 
+
+Sec. 25. That all navigable waters shall remain forever public highways, free to the citizens of the
+state and of the United States, without tax, impost, or toll; and that no tax, toll, impost, or
+wharfage shall be demanded or received from the owner of any merchandise or commodity, for
+the use of the shores, or any wharf erected on the shores, or in or over the waters of any
+navigable stream, unless the same be expressly authorized by law.
+
+*** SEND ***
+*** SSTART 026.0 001.0 0 AL 1875 *** 
+
+Sec. 26. That the citizens have a right in a peaceable manner to assemble together for the common
+good, and to apply to those invested with the power of government, for redress of grievances, or
+other purposes, by petition, address, or remonstrance.
+
+*** SEND ***
+*** SSTART 027.0 001.0 0 AL 1875 *** 
+
+Sec. 27. That every citizen has a right to bear arms in defense of himself and the state.
+
+*** SEND ***
+*** SSTART 028.0 001.0 0 AL 1875 *** 
+
+Sec. 28. That no standing army shall be kept up without the consent of the general assembly; and,
+in that case, no appropriation for its support shall be made for a longer term than one year; and
+the military shall, in all cases, and at all times, be in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 029.0 001.0 0 AL 1875 *** 
+
+Sec. 29. That no soldier shall, in time of peace, be quartered in any house, without the consent of
+the owner; nor in time of war, but in a manner to be prescribed by law.
+
+*** SEND ***
+*** SSTART 030.0 001.0 0 AL 1875 *** 
+
+Sec. 30. That no title of nobility, or hereditary distinction, privilege, honor, or emolument, shall
+ever be granted or conferred in this state; and that no office shall be created, the appointment to
+which shall be for a longer time than during good behavior.
+
+*** SEND ***
+*** SSTART 031.0 001.0 0 AL 1875 *** 
+
+Sec. 31. That immigration shall be encouraged, emigration shall not be prohibited, and that no
+citizen shall be exiled.
+
+*** SEND ***
+*** SSTART 032.0 001.0 0 AL 1875 *** 
+
+Sec. 32. That temporary absence from the state shall not cause a forfeiture of residence once
+obtained.
+
+*** SEND ***
+*** SSTART 033.0 001.0 0 AL 1875 *** 
+
+Sec. 33. That no form of slavery shall exist in this state; and there shall be no involuntary
+servitude, otherwise than for the punishment of crime, of which the party shall have been duly
+convicted.
+
+*** SEND ***
+*** SSTART 034.0 001.0 0 AL 1875 *** 
+
+Sec. 34. The right of suffrage shall be protected by laws regulating elections, and prohibiting,
+under adequate penalties, all undue influences from power, bribery, tumult, or other improper
+conduct.
+
+*** SEND ***
+*** SSTART 035.0 001.0 0 AL 1875 *** 
+
+
+Sec. 35. The people of this state accept as final the established fact that from the federal Union
+there can be no secession of any state.
+
+*** SEND ***
+*** SSTART 036.0 001.0 0 AL 1875 *** 
+
+Sec. 36. Foreigners who are, or may hereafter become, bona fide residents of this state, shall
+enjoy the same right in respect to the possession, enjoyment, and inheritance of property, as
+native-born citizens.
+
+*** SEND ***
+*** SSTART 037.0 001.0 0 AL 1875 *** 
+
+Sec. 37. That the sole object and only legitimate end of government is to protect the citizen in the
+enjoyment of life, liberty, and property; and when the government assumes other functions, it is
+usurpation and oppression.
+
+*** SEND ***
+*** SSTART 038.0 001.0 0 AL 1875 *** 
+
+Sec. 38. No educational or property qualification for suffrage or office, nor any restraint upon the
+same on account of race, color, or previous condition of servitude, shall be made by law.
+
+*** SEND ***
+*** SSTART 039.0 001.0 0 AL 1875 *** 
+
+Sec. 39. That this enumeration of certain rights shall not impair or deny others retained by the
+people.
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 AL 1875 ***
+
+                          ARTICLE II.
+                                
+                  STATE AND COUNTY BOUNDARIES.
+
+*** SSTART 001.0 002.0 0 AL 1875 *** 
+
+Section 1. The boundaries of this state are established and declared to be as follows, that is to
+say: Beginning at the point where the thirty-first degree of north latitude crosses the Perdido river;
+thence east, to the western boundary line of the State of Georgia; thence along said line to the
+southern boundary line of the State of Tennessee; thence west, along the southern boundary line
+of the State of Tennessee, crossing the Tennessee river, and on to the second intersection of said
+river by said line; thence up said river to the mouth of Big Bear creek; thence by a direct line to
+the northwest corner of Washington county, in this state, as originally formed; thence southerly,
+along the line of the State of Mississippi, to the Gulf of Mexico; thence eastwardly, including all
+islands within six leagues of the shore, to the Perdido river; thence up the said river to the
+beginning.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 AL 1875 *** 
+
+Sec. 2. The boundaries of the several counties of this state, as heretofore established by law, are
+hereby ratified and confirmed. The general assembly may, by a vote of two-thirds of both houses
+thereof, arrange and designate boundaries for the several counties of this state, which boundaries
+shall not be altered, except by a like vote; but no new counties shall be hereafter formed of less
+extent than six hundred square miles; and no existing county shall be reduced to less extent than
+six hundred square miles, and no new county shall be formed which does not contain a sufficient
+number of inhabitants to entitle it to one representative, under the ratio of representation existing
+at the time of its formation, and leave the county or counties from which it is taken with the
+required number of inhabitants entitling such county or counties to separate representation.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 AL 1875 ***
+
+                          ARTICLE III.
+                                
+             DISTRIBUTION OF POWERS OF GOVERNMENT.
+
+
+*** SSTART 001.0 003.0 0 AL 1875 *** 
+
+Section 1. The powers of the government of the State of Alabama shall be divided into three
+distinct departments, each of which shall be confided to a separate body of magistracy, to wit:
+Those which are legislative, to one; those which are executive, to another; and those which are
+judicial, to another.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 AL 1875 *** 
+
+Sec. 2. No person, or collection of persons, being of one of those departments, shall exercise any
+power properly belonging to either of the others, except in the instances hereinafter expressly
+directed or permitted.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 AL 1875 ***
+
+                          ARTICLE IV.
+
+                    LEGISLATIVE DEPARTMENT.
+
+
+*** SSTART 001.0 004.0 0 AL 1875 *** 
+
+Section 1. The legislative power of this state shall be vested in a general assembly, which shall
+consist of a senate and house of representatives.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 AL 1875 *** 
+
+Sec. 2. The style of the laws of this state shall be: "Be it enacted by the general assembly of
+Alabama." Each law shall contain but one subject, which shall be clearly expressed in its title,
+except general appropriation bills, general revenue bills, and bills adopting a Code, digest, or
+revision of statutes; and no law shall be revived, amended, or the provisions thereof extended or
+conferred, by reference to its title only; but so much thereof as is revived, amended, extended, or
+conferred shall be reenacted and published at length.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 AL 1875 *** 
+
+Sec. 3. Senators and representatives shall be elected by the qualified electors, on the first Monday
+in August, eighteen hundred and seventy-six; and one-half of the senators and all the
+representatives shall be elected every two years thereafter, unless the general assembly shall
+change the time of holding elections. The terms of office of the senators shall be four years, and
+that of the representatives two years, commencing on the day after the general election, except as
+otherwise provided in this Constitution.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 AL 1875 *** 
+
+Sec. 4. Senators shall be at least twenty-seven years of age, and representatives twenty-one years
+of age; they shall have been citizens and inhabitants of this state for three years, and inhabitants of
+their respective counties or districts one year next before their election, if such county or district
+shall have been so long established; but if not, then of the county or district from which the same
+shall have been taken; and they shall reside in their respective counties or districts during their
+terms of service.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 AL 1875 *** 
+
+Sec. 5. The general assembly shall meet biennially, at the capitol, in the senate chamber and in the
+hall of the house of representatives (except in cases of destruction of the capitol, or epidemics,
+when the governor may convene them at such place in the state as he may deem best) on the day
+specified in this Constitution, or on such other day as may be prescribed by law; and shall not
+remain in session longer than sixty days at the first session held under this Constitution, nor longer
+than fifty days at any subsequent session.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 AL 1875 *** 
+
+Sec. 6. The pay of the members of the general assembly shall be four dollars per day, and ten
+cents per mile in going to and returning from the seat of government, to be computed by the
+nearest usual route traveled.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 AL 1875 *** 
+
+Sec. 7. The general assembly shall consist of not more than thirty-three senators, and not more
+than one hundred members of the house of representatives; to be apportioned among the several
+districts and counties as prescribed in this Constitution.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 AL 1875 *** 
+
+Sec. 8. The senate, at the beginning of each regular session, and at such other times as may be
+necessary, shall elect one of its members president thereof; and the house of representatives, at the
+beginning of each regular session, shall elect one of its members as speaker; and the president of
+the senate and the speaker of the house of representatives shall hold their offices respectively until
+their successors are elected and qualified. Each house shall choose its own officers, and shall
+judge of the election, returns, and qualifications of its members.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 AL 1875 *** 
+
+Sec. 9. At the general election in the year eighteen hundred and seventy-six, senators shall be
+elected in the even numbered districts to serve for two years, and in the odd numbered districts to
+serve for four years, so that thereafter one-half the senators may be chosen biennially. Members of
+the house of representatives shall be elected at the general election every second year. The time of
+service of senators and representatives shall begin on the day after their election, except the terms
+of those elected in the year eighteen hundred and seventy-six, which shall not begin until the term
+of the present members shall have expired. Whenever a vacancy shall occur in either house, the
+governor for the time being shall issue a writ of election to fill such vacancy for the remainder of
+the term.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 AL 1875 *** 
+
+Sec. 10. A majority of each house shall constitute a quorum to do business; but a smaller number
+may adjourn from day to day, and may compel the attendance of absent members, in such manner,
+and under such penalties, as each house may provide.
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 AL 1875 *** 
+
+Sec. 11. Each house shall have power to determine the rules of its proceedings, and to punish its
+members, or other persons, for contempt or disorderly behavior in its presence; to enforce
+obedience to its process; to protect its members against violence, or offers of bribes or corrupt
+solicitation; and, with the concurrence of two-thirds of either house, to expel a member, but not a
+second time for the same cause; and shall have all the powers necessary for the legislature of a
+free state.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 AL 1875 *** 
+
+Sec. 12. A member of either house expelled for corruption shall not thereafter be eligible to either
+house, and punishment for contempt or disorderly behavior shall not bar an indictment for the
+same offense.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 AL 1875 *** 
+
+Sec. 13. Each house shall keep a journal of its proceedings, and cause the same to be published
+immediately after its adjournment, excepting such parts as, in its judgment, may require secrecy;
+and the yeas and nays of the members of either house on any question shall, at the desire of
+one-tenth of the members present, be entered on the journals. Any member of either house shall
+have liberty to dissent from, or protest against, any act or resolution which he may think injurious
+to the public or an individual, and have the reasons for his dissent entered on the journals.
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 AL 1875 *** 
+
+Sec. 14. Members of the general assembly shall, in all cases, except treason, felony, violation of
+their oath of office, and breach of the peace, be privileged from arrest during their attendance at
+the session of their respective houses, and in going to and returning from the same; and for any
+speech or debate in either house, they shall not be questioned in any other place.
+
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 AL 1875 *** 
+
+Sec. 15. The doors of each house shall be open, except on such occasions as, in the opinion of the
+house, may require secrecy.
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 AL 1875 *** 
+
+Sec. 16. Neither house shall, without the consent of the other, adjourn for more than three days,
+nor to any other place than that in which they may be sitting.
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 AL 1875 *** 
+
+Sec. 17. No senator or representative shall, during the term for which he shall have been elected,
+be appointed to any civil office of profit under this state, which shall have been created, or the
+emoluments of which shall have been increased during such term, except such offices as may be
+filled by election by the people.
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 AL 1875 *** 
+
+Sec. 18. No person hereafter convicted of embezzlement of the public money, bribery, perjury, or
+other infamous crime, shall be eligible to the general assembly or capable of holding any office of
+trust or profit in this state.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 AL 1875 *** 
+
+Sec. 19. No law shall be passed except by bill, and no bill shall be so altered or amended on its
+passage through either house as to change its original purpose.
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 AL 1875 *** 
+
+Sec. 20. No bill shall become a law until it shall have been referred to a committee of each house
+and returned therefrom.
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 AL 1875 *** 
+
+
+Sec. 21. Every bill shall be read on three different days in each house; and no bill shall become a
+law unless, on its final passage, it be read at length, and the vote be taken by yeas and nays, the
+names of the members voting for and against the same be entered on the journals, and a majority
+of each house be recorded thereon as voting in its favor, except as otherwise provided in this
+Constitution.
+
+*** SEND ***
+*** SSTART 022.0 004.0 0 AL 1875 *** 
+
+Sec. 22. No amendment to bills by one house shall be concurred in by the other, except by a vote
+of a majority thereof, taken by yeas and nays, and the names of those voting for and against
+recorded upon the journals; and reports of committees of conference shall in like manner be
+adopted in each house.
+
+*** SEND ***
+*** SSTART 023.0 004.0 0 AL 1875 *** 
+
+Sec. 23. No special or local law shall be enacted for the benefit of individuals or corporations, in
+cases which are or can be provided for by a general law, or where the relief sought can be given
+by any court of this state; nor shall the operation of any general law be suspended by the general
+assembly for the benefit of any individual, corporation, or association.
+
+*** SEND ***
+*** SSTART 024.0 004.0 0 AL 1875 *** 
+
+Sec. 24. No local or special law shall be passed on a subject which can not be provided for by a
+general law, unless notice of the intention to apply therefor shall have been published in the
+locality where the matter or thing to be affected may be situated; which notice shall be at least
+twenty days prior to the introduction into the general assembly of such bill, and the evidence of
+such notice having been given shall be exhibited to the general assembly before such bill shall be
+passed; provided, that the provisions of this Constitution, as to special or local laws, shall not
+apply to public or educational institutions of or in this State, nor to industrial, mining,
+immigration, or manufacturing corporations or interests or corporations for constructing canals or
+improving navigable rivers or harbors of this state.
+
+*** SEND ***
+*** SSTART 025.0 004.0 0 AL 1875 *** 
+
+Sec. 25. The general assembly shall pass general laws, under which local and private interests shall
+be provided for and protected.
+
+*** SEND ***
+*** SSTART 026.0 004.0 0 AL 1875 *** 
+
+Sec. 26. The general assembly shall have no power to authorize lotteries or gift enterprises for any
+purpose, and shall pass laws to prohibit the sale of lottery or gift enterprise tickets, or tickets in
+any scheme in the nature of a lottery, in this state; and all acts, or parts of acts, heretofore passed
+by the general assembly of this state, authorizing a lottery or lotteries, and all acts amendatory
+thereof, or supplemental thereto, are hereby avoided.
+
+*** SEND ***
+*** SSTART 027.0 004.0 0 AL 1875 *** 
+
+Sec. 27. The presiding officer of each house shall, in the presence of the house over which he
+presides, sign all bills and joint resolutions passed by the general assembly, after the titles have
+been publicly read immediately before signing, and the fact of signing shall be entered on the
+journal.
+
+*** SEND ***
+*** SSTART 028.0 004.0 0 AL 1875 *** 
+
+Sec. 28. The general assembly shall prescribe by law the number, duties, and compensation of the
+officers and employes of each house; and no payment shall be made from the state treasury, or be
+in any way authorized to any person, except to an acting officer or employe, elected or appointed
+in pursuance of law.
+
+*** SEND ***
+*** SSTART 029.0 004.0 0 AL 1875 *** 
+
+Sec. 29. No bill shall be passed giving any extra compensation to any public officer, servant, or
+employe, agent, or contractor, after the service shall have been rendered, or contract made; nor
+shall any officer of the state bind the state to the payment of any sum of money but by authority of
+law.
+
+*** SEND ***
+*** SSTART 030.0 004.0 0 AL 1875 *** 
+
+Sec. 30. All stationery, printing, paper, and fuel used in the legislative and other departments of
+government, shall be furnished, and the printing, binding, and distribution of laws, journals,
+department reports, and all other printing and binding, and repairing and furnishing the halls and
+rooms used for the meetings of the general assembly and its committees, shall be performed under
+contract, to be given to the lowest responsible bidder below a maximum price, and under such
+regulations as shall be prescribed by law; no member or officer of any department of the
+government shall be in any way interested in such contracts, and all such contracts shall be subject
+to the approval of the governor, state auditor, and state treasurer.
+
+*** SEND ***
+*** SSTART 031.0 004.0 0 AL 1875 *** 
+
+Sec. 31. All bills for raising revenue shall originate in the house of representatives; but the senate
+may propose amendments, as in other bills.
+
+*** SEND ***
+*** SSTART 032.0 004.0 0 AL 1875 *** 
+
+
+Sec. 32. The general appropriation bill shall embrace nothing but appropriations for the ordinary
+expenses of the executive, legislative, and judicial departments of the state, interest on the public
+debt, and for the public schools; all other appropriations shall be made by separate bills, each
+embracing but one subject.
+
+*** SEND ***
+*** SSTART 033.0 004.0 0 AL 1875 *** 
+
+Sec. 33. No money shall be paid out of the treasury, except upon appropriations made by law, and
+on warrants drawn by the proper officer in pursuance thereof; and a regular statement and
+account of receipts and expenditures of all public moneys shall be published annually, in such
+manner as may be by law directed.
+
+*** SEND ***
+*** SSTART 034.0 004.0 0 AL 1875 *** 
+
+Sec. 34. No appropriation shall be made to any charitable or educational institution not under the
+absolute control of the state, other than normal schools, established by law for the professional
+training of teachers for the public schools of the state, except by a vote of two-thirds of all the
+members elected to each house.
+
+*** SEND ***
+*** SSTART 035.0 004.0 0 AL 1875 *** 
+
+Sec. 35. No act of the general assembly shall authorize the investment of any trust fund by
+executors, administrators, guardians, and other trustees, in the bonds or stock of any private
+corporation; and any such acts now existing are avoided, saving investments heretofore made.
+
+*** SEND ***
+*** SSTART 036.0 004.0 0 AL 1875 *** 
+
+Sec. 36. The power to change the venue, in civil and criminal causes, is vested in the courts, to be
+exercised in such manner as shall be provided by law.
+
+*** SEND ***
+*** SSTART 037.0 004.0 0 AL 1875 *** 
+
+Sec. 37. When the general assembly shall be convened in special session, there shall be no
+legislation upon subjects other than those designated in the proclamation of the governor calling
+such session.
+
+*** SEND ***
+*** SSTART 038.0 004.0 0 AL 1875 *** 
+
+Sec. 38. No state office shall be continued or created for the inspection or measuring of any
+merchandise, manufacture, or commodity; but any county or municipality may appoint such
+officers, when authorized by law.
+
+*** SEND ***
+*** SSTART 039.0 004.0 0 AL 1875 *** 
+
+Sec. 39. No act of the general assembly changing the seat of government of the state shall become
+a law until the same shall have been submitted to the qualified electors of the state at a general
+election, and approved by a majority of such electors voting on the same; and such act shall
+specify the proposed new location.
+
+*** SEND ***
+*** SSTART 040.0 004.0 0 AL 1875 *** 
+
+Sec. 40. A member of the general assembly who shall corruptly solicit, demand, or receive, or
+consent to receive, directly or indirectly, for himself, for another, from any company, corporation,
+or person, any money, office, appointment, employment, reward, thing of value or enjoyment, or
+of personal advantage, or promise thereof, for his vote or official influence, or for withholding the
+same; or with an understanding, expressed or implied, that his vote or official action shall be in
+any way influenced thereby; or who shall solicit or demand any such money or other advantage,
+matter, or thing aforesaid, for another, as the consideration of his vote or official influence, or for
+withholding the same; or shall give or withhold his vote or influence, in consideration of the
+payment or promise of such money, advantage, matter, or thing, to another shall be guilty of
+bribery within the meaning of this Constitution, and shall incur the disabilities provided thereby for
+such offense, and such additional punishment as is, or shall be, provided by law.
+
+*** SEND ***
+*** SSTART 041.0 004.0 0 AL 1875 *** 
+
+Sec. 41. Any person who shall, directly or indirectly, offer, give, or promise any money or thing of
+value, testimonial, privilege, or personal advantage, to any executive or judicial officer, or
+member of the general assembly, to influence him in the performance of any of his public or
+official duties, shall be guilty of bribery, and be punished in such manner as shall be provided by
+law.
+
+*** SEND ***
+*** SSTART 042.0 004.0 0 AL 1875 *** 
+
+Sec. 42. The offense of corrupt solicitation of members of the general assembly, or of public
+officers of this state, or of any municipal division thereof, and any occupation or practice of
+solicitation of such members, or officers, to influence their official action, shall be defined by law,
+and shall be punished by fine and imprisonment.
+
+*** SEND ***
+*** SSTART 043.0 004.0 0 AL 1875 *** 
+
+Sec. 43. A member of the general assembly, who has a personal or private interest in any measure
+or bill, proposed or pending before the general assembly, shall disclose the fact to the house of
+which he is a member, and shall not vote thereon.
+
+*** SEND ***
+*** SSTART 044.0 004.0 0 AL 1875 *** 
+
+Sec. 44. In all elections by the general assembly, the members shall vote viva voce, and the votes
+shall be entered on the journals.
+
+*** SEND ***
+*** SSTART 045.0 004.0 0 AL 1875 *** 
+
+Sec. 45. It shall be the duty of the general assembly to pass such laws as may be necessary and
+proper to decide differences by arbitrators, to be appointed by the parties who may choose that
+mode of adjustment.
+
+*** SEND ***
+*** SSTART 046.0 004.0 0 AL 1875 *** 
+
+Sec. 46. It shall be the duty of the general assembly, at its first session after the ratification of this
+Constitution, and within every subsequent period of ten years, to make provision by law for the
+revision, digesting, and promulgation of the public statutes of this state of a general nature, both
+civil and criminal.
+
+*** SEND ***
+*** SSTART 047.0 004.0 0 AL 1875 *** 
+
+Sec. 47. The general assembly shall pass such penal laws as they may deem expedient to suppress
+the evil practice of dueling.
+
+*** SEND ***
+*** SSTART 048.0 004.0 0 AL 1875 *** 
+
+Sec. 48. It shall be the duty of the general assembly to regulate by law the cases in which
+deductions shall be made from the salaries of public officers, for neglect of duty in their official
+capacities, and the amount of such deductions.
+
+*** SEND ***
+*** SSTART 049.0 004.0 0 AL 1875 *** 
+
+Sec. 49. It shall be the duty of the general assembly to require the several counties of this state to
+make adequate provision for the maintenance of the poor.
+
+*** SEND ***
+*** SSTART 050.0 004.0 0 AL 1875 *** 
+
+Sec. 50. The general assembly shall not have power to authorize any municipal corporation to
+pass any laws inconsistent with the general laws of this state.
+
+*** SEND ***
+*** SSTART 051.0 004.0 0 AL 1875 *** 
+
+Sec. 51. In the event of annexation of any foreign territory to this state, the general assembly shall
+enact laws extending to the inhabitants of the acquired territory all the rights and privileges which
+may be required by the terms of the acquisition, anything in this Constitution to the contrary
+notwithstanding.
+
+*** SEND ***
+*** SSTART 052.0 004.0 0 AL 1875 *** 
+
+Sec. 52. The general assembly shall not tax the property, real and personal, of the state, counties,
+or other municipal corporations, or cemeteries; nor lots in incorporated cities or towns, or within
+one mile of any city or town, to the extent of one acre, nor lots one mile or more distant from
+such cities or towns, to the extent of five acres, with the buildings thereon, when the same are
+used exclusively for religious worship, for schools, or for purposes purely charitable; nor such
+property, real or personal, to an extent not exceeding twenty-five thousand dollars in value, as
+may be used exclusively for agricultural or horticultural associations of a public character.
+
+*** SEND ***
+*** SSTART 053.0 004.0 0 AL 1875 *** 
+
+Sec. 53. The general assembly shall by law prescribe such rules and regulations as may be
+necessary to ascertain the value of personal and real property exempted from sale under legal
+process by this Constitution, and to secure the same to the claimant thereof as selected.
+
+*** SEND ***
+*** SSTART 054.0 004.0 0 AL 1875 *** 
+
+Sec. 54. The state shall not engage in works of internal improvement, nor lend money or its credit
+in aid of such; nor shall the state be interested in any private or corporate enterprise, or lend
+money or its credit to any individual, association, or corporation.
+
+*** SEND ***
+*** SSTART 055.0 004.0 0 AL 1875 *** 
+
+Sec. 55. The general assembly shall have no power to authorize any county, city, town, or other
+subdivision of this state, to lend its credit, or to grant public money or thing of value, in aid of, or
+to any individual, association, or corporation whatsoever, or to become a stockholder in any such
+corporation, association, or company, by issuing bonds, or otherwise.
+
+*** SEND ***
+*** SSTART 056.0 004.0 0 AL 1875 *** 
+
+Sec. 56. There can be no law of this state impairing the obligation of contracts by destroying or
+impairing the remedy for their enforcement; and the general assembly shall have no power to
+revive any right or remedy which may have become barred by lapse of time, or by any statute of
+this state.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 AL 1875 ***
+
+                           ARTICLE V.
+                                
+                     EXECUTIVE DEPARTMENT.
+
+*** SSTART 001.0 005.0 0 AL 1875 *** 
+
+Section 1. The executive department shall consist of a governor, secretary of state, state
+treasurer, state auditor, attorney-general, and superintendent of education, and a sheriff for each
+county.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 AL 1875 *** 
+
+Sec. 2. The supreme executive power of this state shall be vested in a chief magistrate, who shall
+be styled "the governor of the State of Alabama."
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 AL 1875 *** 
+
+Sec. 3. The governor, secretary of state, state treasurer, state auditor, and attorney-general shall
+be elected by the qualified electors of this state, at the same time and places appointed for the
+election of members of the general assembly.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 AL 1875 *** 
+
+Sec. 4. The returns of every election for governor, secretary of state, state auditor, state treasurer,
+and attorney-general shall be sealed up and transmitted by the returning officers to the seat of
+government, directed to the speaker of the house of representatives, who shall, during the first
+week of the session to which said returns shall be made, open and publish them in the presence of
+both houses of the general assembly in joint convention. The person having the highest number of
+votes for either of said offices shall be declared duly elected; but if two or more shall have an
+equal and the highest number of votes for the same office, the general assembly, by joint vote,
+without delay, shall choose one of said persons for said office. Contested elections for governor,
+secretary of state, state auditor, state treasurer, and attorney-general, shall be determined by both
+houses of the general assembly, in such manner as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 AL 1875 *** 
+
+Sec. 5. The governor, secretary of state, state treasurer, state auditor, and attorney-general shall
+hold their respective offices for the term of two years from the time of their installation in office,
+and until their successors shall be elected and qualified.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 AL 1875 *** 
+
+Sec. 6. The governor shall be at least thirty years of age when elected, and shall have been a
+citizen of the United States ten years, and a resident citizen of this state at least seven years next
+before the day of his election.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 AL 1875 *** 
+
+Sec. 7. The governor, secretary of state, state treasurer, state auditor, and attorney-general shall
+reside at the seat of government of this state during the time they continue in office, except in case
+of epidemics; and they shall receive compensation for their services, which shall be fixed by law,
+and which shall not be increased or diminished during the term for which they shall have been
+elected.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 AL 1875 *** 
+
+Sec. 8. The governor shall take care that the laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 AL 1875 *** 
+
+Sec. 9. The governor may require information in writing, under oath, from the officers of the
+executive department on any subject relating to the duties of their respective offices; and he may,
+at any time, require information in writing, under oath, from all officers and managers of state
+institutions, upon any subject relating to the condition, management, and expenses of their
+respective offices and institutions; and any such officer or manager who makes a false report, shall
+be guilty of perjury, and punished accordingly.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 AL 1875 *** 
+
+Sec. 10. The governor may, by proclamation, on extraordinary occasions, convene the general
+assembly at the seat of government, or at a different place, if, since their last adjournment, that
+shall have become dangerous from an enemy, or from infectious or contagious diseases; and he
+shall state specifically in such proclamation each matter concerning which the action of that body
+is deemed necessary.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 AL 1875 *** 
+
+Sec. 11. The governor shall, from time to time, give to the general assembly information of the
+state of the government, and recommend to their consideration such measures as he may deem
+expedient; and, at the commencement of each session of the general assembly, and at the close of
+his term of office, give information, by written message, of the condition of the state; and he shall
+account to the general assembly, as may be prescribed by law, for all moneys received and paid
+out by him, from any funds subject to his order, with the vouchers therefor; and he shall, at the
+commencement of each regular session, present to the general assembly estimates of the amount
+of money required to be raised by taxation for all purposes.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 AL 1875 *** 
+
+Sec. 12. The governor shall have power to remit fines and forfeitures, under such rules and
+regulations as may be prescribed by law, and after conviction, to grant reprieves, commutation of
+sentence, and pardons, except in cases of treason and impeachment; but pardons, in cases of
+murder, arson, burglary, rape, assault with intent to commit rape, perjury, forgery, bribery, and
+larceny, shall not relieve from civil and political disability, unless specifically expressed in the
+pardon. Upon conviction of treason, the governor may suspend the execution of the sentence, and
+report the same to the general assembly at the next regular session, when the general assembly
+shall either pardon, commute the sentence, direct its execution, or grant further reprieve. He shall
+communicate to the general assembly, at each regular session, each case of reprieve,
+commutation, or pardon granted, with his reasons therefor, stating the name and crime of the
+convict, the sentence, its date, and the date of the reprieve, commutation or pardon.
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 AL 1875 *** 
+
+Sec. 13. Every bill which shall have passed both houses of the general assembly, shall be
+presented to the governor; if he approve, he shall sign it; but, if not, he shall return it with his
+objections to that house in which it shall have originated, who shall enter the objections at large
+upon the journals; and the house to which such bill shall be returned shall proceed to reconsider it;
+if, after such reconsideration, a majority of the whole number elected to that house shall vote for
+the passage of such bill, it shall be sent, with the objections, to the other house, by which it shall
+likewise be reconsidered; if approved by a majority of the whole number elected to that house, it
+shall become a law; but in such case the votes of both houses shall be determined by yeas and
+nays; and the names of the members voting for or against the bill shall be entered upon the
+journals of each house respectively. If any bill shall not be returned by the governor within five
+days (Sundays excepted), after it shall have been presented to him, the same shall be a law, in like
+manner as if he had signed it, unless the general assembly, by their adjournment, prevent its return,
+in which case it shall not be a law. And every vote, order, or resolution, to which the concurrence
+of both houses may be necessary (except questions of adjournment, and of bringing on elections
+by the two houses, and of amending this Constitution), shall be presented to the governor, and,
+before the same shall take effect, be approved by him, or, being disapproved, shall be repassed by
+both houses according to the rules and limitations prescribed in the case of a bill.
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 AL 1875 *** 
+
+Sec. 14. The governor shall have power to disapprove of any item or items of any bill making
+appropriations of money, embracing distinct items; and the part or parts of the bill approved shall
+be the law, and the item or items disapproved shall be void, unless repassed according to the rules
+and limitations prescribed for the passage of other bills over the executive veto; and he shall, in
+writing, state specifically the item or items he disapproves.
+
+*** SEND ***
+*** SSTART 015.0 005.0 0 AL 1875 *** 
+
+Sec. 15. In case of the impeachment of the governor, his removal from office, death, refusal to
+qualify, resignation, absence from the state, or other disability, the president of the senate shall
+exercise all the power and authority appertaining to the office of governor, until the time
+appointed for the election of governor shall arrive, or until the governor who is absent or
+impeached, shall return or be acquitted, or other disability be removed; and if during such vacancy
+in the office of governor the president of the senate shall be impeached, removed from office,
+refuse to qualify, die, resign, be absent from the state, or be under any other disability, the speaker
+of the house of representatives shall, in like manner, administer the government. If the governor
+shall be absent from the state over twenty days, the secretary of state shall notify the president of
+the senate, who shall enter upon the duties of governor; and if the governor and president of the
+senate shall both be absent from the state over twenty days, the secretary of state shall notify the
+speaker of the house of representatives; and in such case he shall enter upon and discharge the
+duties of governor, until the return of the governor or president of the senate.
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 AL 1875 *** 
+
+Sec. 16. The president of the senate and speaker of the house of representatives shall, during the
+time they respectively administer the government, receive the same compensation which the
+governor would have received if he had been employed in the duties of his office; provided, that if
+the general assembly shall be in session during such absence, they, or either of them, shall receive
+no compensation as members of the general assembly while acting as governor.
+
+*** SEND ***
+*** SSTART 017.0 005.0 0 AL 1875 *** 
+
+Sec. 17. No person shall, at one and the same time, hold the office of governor of this state and
+any other office, civil or military, either under this state, the United States, or any other state or
+government, except as otherwise provided in this Constitution.
+
+*** SEND ***
+*** SSTART 018.0 005.0 0 AL 1875 *** 
+
+Sec. 18. The governor shall be commander-in-chief of the militia and volunteer forces of this
+state, except when they shall be called into the service of the United States, and he may call out
+the same to execute the laws, suppress insurrection, and repel invasion; but he need not command
+in person unless directed to do so by a resolution of the general assembly; and when acting in the
+service of the United States he shall appoint his staff, and the general assembly shall fix his rank.
+
+*** SEND ***
+*** SSTART 019.0 005.0 0 AL 1875 *** 
+
+Sec. 19. No person shall be eligible to the office of secretary of state, state treasurer, state
+auditor, or attorney-general, unless he shall have been a citizen of the United States at least seven
+years, and shall have resided in this state at least five years next preceding his election, and shall
+be at least twenty-five years old when elected.
+
+*** SEND ***
+*** SSTART 020.0 005.0 0 AL 1875 *** 
+
+Sec. 20. There shall be a great seal of the state, which shall be used officially by the governor; and
+the seal now in use shall continue to be used until another shall have been adopted by the general
+assembly. The said seal shall be called the "Great Seal of the State of Alabama."
+
+*** SEND ***
+*** SSTART 021.0 005.0 0 AL 1875 *** 
+
+Sec. 21. The secretary of state shall be the custodian of the seal of the state, and shall authenticate
+therewith all official acts of the governor, his approval of laws and resolutions excepted. He shall
+keep a register of the official acts of the governor, and, when necessary, shall attest them, and lay
+copies of the same, together with copies of all papers relative thereto, before either house of the
+general assembly, when required to do so, and shall perform such other duties as may be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 022.0 005.0 0 AL 1875 *** 
+
+Sec. 22. All grants and commissions shall be issued in the name and by the authority of the State
+of Alabama, sealed with the great seal, and signed by the governor, and countersigned by the
+secretary of state.
+
+*** SEND ***
+*** SSTART 023.0 005.0 0 AL 1875 *** 
+
+Sec. 23. Should the office of secretary of state, state treasurer, state auditor, attorney-general, or
+superintendent of education become vacant for any cause specified in section fifteen of this article,
+the governor shall fill the vacancy, until the disability is removed, or a successor elected and
+qualified.
+
+*** SEND ***
+*** SSTART 024.0 005.0 0 AL 1875 *** 
+
+Sec. 24. The state treasurer, state auditor, and attorney-general shall perform such duties as may
+be prescribed by law. The state treasurer and state auditor shall, every year, at a time the general
+assembly may fix, make a full and complete report to the governor, showing all receipts and
+disbursements of revenue of every character, all claims audited and paid by the state, by items,
+and all taxes and revenue collected and paid into the treasury, and from what sources; and they
+shall make reports oftener on any matter pertaining to their office, if required to do so by the
+governor or the general assembly.
+
+*** SEND ***
+*** SSTART 025.0 005.0 0 AL 1875 *** 
+
+Sec. 25. The state auditor, state treasurer, and secretary of state, shall not, after the expiration of
+the terms of those now in office, receive to their use any fees, costs, perquisites of office, or
+compensation other than their salaries as prescribed by law; and all fees that may be payable by
+law, for any services performed by either of such officers, shall be paid in advance into the state
+treasury.
+
+*** SEND ***
+*** SSTART 026.0 005.0 0 AL 1875 *** 
+
+Sec. 26. A sheriff shall be elected in each county, by the qualified electors thereof, who shall hold
+his office for the term of four years, unless sooner removed, and shall be ineligible to such office
+as his own successor. Provided, that sheriffs elected on the first Monday in August, 1877, or at
+such other time as may be prescribed by law for the election in that year, shall hold their offices
+for the term of three years, and until their successors shall be elected and qualified. In the year
+1880, at the general election for members to the general assembly, sheriffs shall be elected for four
+years as herein provided. Vacancies in the office of sheriff shall be filled by the governor, as in
+other cases; and the person appointed shall continue in office until the next general election in the
+county for sheriff, as provided by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 AL 1875 ***
+
+                          ARTICLE VI.
+                                
+                      JUDICIAL DEPARTMENT.
+
+*** SSTART 001.0 006.0 0 AL 1875 *** 
+
+Section 1. The judicial power of the state shall be vested in the senate sitting as a court of
+impeachment, a supreme court, circuit courts, chancery courts, courts of probate, such inferior
+courts of law and equity, to consist of not more than five members, as the general assembly may
+from time to time establish, and such persons as may be by law invested with powers of a judicial
+nature.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 AL 1875 *** 
+
+Sec. 2. Except in cases otherwise directed in the Constitution, the supreme court shall have
+appellate jurisdiction only, which shall be coextensive with the state, under such restrictions and
+regulations, not repugnant to this Constitution, as may from time to time be prescribed by law;
+provided, that said court shall have power to issue writs of injunction, habeas corpus, quo
+warranto, and such other remedial and original writs as may be necessary to give it a
+superintendence and control of inferior jurisdictions.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 AL 1875 *** 
+
+Sec. 3. The supreme court shall be held at the seat of government, but if that shall become
+dangerous from any cause, it may adjourn to a different place.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 AL 1875 *** 
+
+Sec. 4. The state shall be divided by the general assembly into convenient circuits, not to exceed
+eight in number, unless increased by a vote of two-thirds of the members of each house of the
+general assembly, and no circuit shall contain less than three nor more than twelve counties; and
+for each circuit there shall be chosen a judge, who shall, for one year next preceding his election,
+and during his continuance in office, reside in the circuit for which he is elected.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 AL 1875 *** 
+
+Sec. 5. The circuit court shall have original jurisdiction in all matters, civil and criminal, within the
+state, not otherwise excepted in this Constitution; but in civil cases only when the matter or sum
+in controversy exceeds fifty dollars.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 AL 1875 *** 
+
+Sec. 6. A circuit court shall be held in each county in the state at least twice in every year, and the
+judges of the several circuits may hold courts for each other, when they deem it expedient, and
+shall do so when directed by law; provided, that the judges of the several circuit courts shall have
+power to issue writs of injunction returnable into courts of chancery.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 AL 1875 *** 
+
+Sec. 7. The general assembly shall have power to establish a court or courts of chancery, with
+original and appellate jurisdiction. The state shall be divided by the general assembly into
+convenient chancery divisions, not exceeding three in number, unless an increase shall be made by
+a vote of two-thirds of each house of the general assembly, taken by yeas and nays and entered
+upon the journals, and the divisions shall be divided into districts; and for each division there shall
+be a chancellor, who shall, at the time of his election or appointment, and during his continuance
+in office, reside in the division for which he shall have been elected or appointed.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 AL 1875 *** 
+
+Sec. 8. A chancery court shall be held in each district, at a place to be fixed by law, at least once
+in each year; and the chancellors may hold courts for each other, when they deem it necessary.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 AL 1875 *** 
+
+Sec. 9. The general assembly shall have power to establish in each county within the state a court
+of probate, with general jurisdiction for the granting of letters testamentary and of administration,
+and for orphans' business.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 AL 1875 *** 
+
+Sec. 10. The judges of the supreme court, circuit courts, and chancellors shall, at stated times,
+receive for their services a compensation which shall not be diminished during their official terms;
+but they shall receive no fees or perquisites, nor hold any office (except judicial offices) of profit
+or trust under this state or the United States, or any other power, during the term for which they
+have been elected.
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 AL 1875 *** 
+
+Sec. 11. The supreme court shall consist of one chief justice and such number of associate justices
+as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 AL 1875 *** 
+
+Sec. 12. The chief justice and associate justices of the supreme court, judges of the circuit courts,
+and chancellors shall be elected by the qualified electors of the state, circuits, counties, and
+chancery divisions, for which such courts may be established, at such times as may be prescribed
+by law.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 AL 1875 *** 
+
+Sec. 13. The judges of such inferior courts of law and equity as may be by law established, shall
+be elected or appointed in such mode as the general assembly may prescribe.
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 AL 1875 *** 
+
+Sec. 14. The judges of the supreme court, circuit courts, and chancellors, and the judges of city
+courts, shall have been citizens of the United States and of this state for five years next preceding
+their election or appointment, and shall be not less than twenty-five years of age, and learned in
+law.
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 AL 1875 *** 
+
+Sec. 15. The chief justice and associate justices of the supreme court, circuit judges, chancellors,
+and probate judges, shall hold office for the term of six years, and until their successors are
+elected or appointed and qualified; and the right of such judges and chancellors to hold their
+offices for the full term hereby prescribed shall not be affected by any change hereafter made by
+law in any circuit, division, or county, or in the mode or time of election.
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 AL 1875 *** 
+
+Sec. 16. The judges of the supreme court shall, by virtue of their offices, be conservators of the
+peace throughout the state; the judges of the circuit courts, within their respective circuits, and
+the judges of the inferior courts, within their respective jurisdictions, shall, in like manner, be
+conservators of the peace.
+
+*** SEND ***
+*** SSTART 017.0 006.0 0 AL 1875 *** 
+
+Sec. 17. Vacancies in the office of any of the judges or chancellors of this state shall be filled by
+appointment by the governor; and such appointee shall hold his office for the unexpired term, and
+until his successor is elected or appointed and qualified.
+
+*** SEND ***
+*** SSTART 018.0 006.0 0 AL 1875 *** 
+
+
+Sec. 18. If in any case, civil or criminal, pending in any circuit, chancery, or city court in this state,
+the presiding judge or chancellor shall, for any legal cause, be incompetent to try, hear, or render
+judgment in such cause, the parties or their attorneys of record, if it be a civil case, or the solicitor
+or other prosecuting officer, and the defendant or defendants, if it be a criminal case, may agree
+upon some disinterested person practicing in the court and learned in the law, to act as special
+judge or chancellor, to sit as a court, and to hear, decide, and render judgment in the same manner
+and to the same effect as a judge of the circuit or city court, or chancellor sitting as a court might
+do in such case. If the case be a civil one, and the parties or their attorneys of record do not agree,
+or if the case be a criminal one, and the prosecuting officer and the defendant or defendants do
+not agree upon a special judge or chancellor, or if either party in a civil cause is not represented in
+court, the clerk of the circuit or city court, or register in chancery, of the court in which said cause
+is pending, shall appoint the special judge or chancellor, who shall preside, try, and render
+judgment as in this section provided.
+
+*** SEND ***
+*** SSTART 019.0 006.0 0 AL 1875 *** 
+
+Sec. 19. The general assembly shall have power to provide for the holding of circuit and chancery
+courts in this state, when the judges or chancellors thereof fail to attend regular terms.
+
+*** SEND ***
+*** SSTART 020.0 006.0 0 AL 1875 *** 
+
+Sec. 20. No judge of any court of record in this state shall practice law in any of the courts of this
+state or of the United States.
+
+*** SEND ***
+*** SSTART 021.0 006.0 0 AL 1875 *** 
+
+Sec. 21. Registers in chancery shall be appointed by the chancellors of the divisions, and shall hold
+office during the term of the chancellor making such appointment; and such registers shall receive
+as compensation for their services only such fees and commissions as may be specifically
+prescribed by law.
+
+*** SEND ***
+*** SSTART 022.0 006.0 0 AL 1875 *** 
+
+Sec. 22. A clerk of the supreme court shall be appointed by the judges thereof, and shall hold
+office during the term of the judges making the appointment; and clerks of such inferior courts as
+may be established by law shall be appointed by the judges thereof, and shall hold office during
+the term of the judge making such appointment.
+
+*** SEND ***
+*** SSTART 023.0 006.0 0 AL 1875 *** 
+
+Sec. 23. Clerks of the circuit court shall be elected by the qualified electors in each county for the
+term of six years. Vacancies in such office shall be filled by the governor for the unexpired term.
+
+*** SEND ***
+*** SSTART 024.0 006.0 0 AL 1875 *** 
+
+Sec. 24. The clerk of the supreme court and registers in chancery may be removed from office by
+the judges of the supreme court and chancellors, respectively, for cause, to be entered at length
+upon the records of the court.
+
+*** SEND ***
+*** SSTART 025.0 006.0 0 AL 1875 *** 
+
+Sec. 25. A solicitor for each judicial circuit shall be elected by joint ballot of the general assembly,
+who shall be learned in the law, and who shall, at the time of his election, and during his
+continuance in office, reside in the circuit for which he is chosen, and whose term of office shall
+be for six years; provided, that the general assembly, at the first session thereof after the
+ratification of this Constitution, shall, by joint ballot, elect a solicitor for each judicial circuit of the
+state, whose term of office shall begin on Tuesday after the first Monday in November, eighteen
+hundred and seventy-six, and continue for four years; and provided, that the general assembly
+may, when necessary, provide for the election or appointment of county solicitors.
+
+*** SEND ***
+*** SSTART 026.0 006.0 0 AL 1875 *** 
+
+Sec. 26. There shall be elected by the qualified electors of each precinct of the counties not
+exceeding two justices of the peace and one constable. Such justices shall have jurisdiction in all
+civil cases wherein the amount in controversy does not exceed one hundred dollars, except in
+cases of libel, slander, assault and battery, and ejectment. In all cases tried before such justices the
+right of appeal, without prepayment of costs, shall be secured by law; provided, that the governor
+may appoint one notary public for each election precinct in counties, and one for each ward in
+cities of over five thousand inhabitants, who, in addition to the powers of notary, shall have and
+exercise the same jurisdiction as justices of the peace within the precincts and wards for which
+they are respectively appointed; and provided, that notaries public without jurisdiction may be
+appointed. The term of office of such justices and notaries public shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 027.0 006.0 0 AL 1875 *** 
+
+Sec. 27. An attorney-general shall be elected by the qualified electors of the state at the same time
+and places of election of members of the general assembly, whose term of office shall be for two
+years, and until his successor is elected and qualified. After his election he shall reside at the seat
+of government, and shall be the law officer of the state, and shall perform such duties as may be
+required of him by law. Sec. 28. The style of all process shall be "The State of Alabama," and all
+prosecutions shall be carried on in the name and by the authority of the same, and shall conclude,
+"Against the peace and dignity of the state."
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 AL 1875 ***
+
+                          ARTICLE VII.
+                                
+                         IMPEACHMENTS.
+
+*** SSTART 001.0 007.0 0 AL 1875 *** 
+
+
+Section 1. The governor, secretary of state, auditor, treasurer, attorney-general, superintendent of
+education, and judges of the supreme court may be removed from office for willful neglect of
+duty, corruption in office, habitual drunkenness, incompetency, or any offense involving moral
+turpitude while in office, or committed under color thereof, or connected therewith, by the senate,
+sitting as a court for that purpose, under oath or affirmation, on articles or charges preferred by
+the house of representatives.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 AL 1875 *** 
+
+Sec. 2. The chancellors, judges of the circuit courts, judges of the probate courts, solicitors of the
+circuits, and judges of inferior courts from which an appeal may be taken directly to the supreme
+court, may be removed from office for any of the causes specified in the preceding section, by the
+supreme court, under such regulations as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 AL 1875 *** 
+
+
+Sec. 3. The sheriffs, clerks of the circuit, city, or criminal courts, tax collectors, tax assessors,
+county treasurers, coroners, justices of the peace, notaries public, constables, and all other county
+officers, mayors, and intendants of incorporated cities and towns in this state, may be removed
+from office for any of the causes specified in section one of this article, by the circuit, city, or
+criminal court of the county in which such officers hold their office, under such regulations as may
+be prescribed by law. Provided, that the right of trial by jury and appeal in such cases be secured.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 AL 1875 *** 
+
+Sec. 4. The penalties in cases arising under the three preceding sections shall not extend beyond
+removal from office, and disqualification from holding office under the authority of this state, for
+the term for which he was elected or appointed; but the accused shall be liable to indictment, trial,
+and punishment, as prescribed by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 AL 1875 ***
+
+                         ARTICLE VIII.
+                                
+                    SUFFRAGE AND ELECTIONS.
+
+
+*** SSTART 001.0 008.0 0 AL 1875 *** 
+
+Section 1. Every male citizen of the United States, and every male person of foreign birth, who
+may have legally declared his intention to become a citizen of the United States before he offers to
+vote, who is twenty-one years old or upwards, possessing the following qualifications, shall be an
+elector, and shall be entitled to vote at any election by the people, except as hereinafter provided:
+First.--He shall have resided in the state at least one year immediately preceding the election at
+which he offers to vote.
+Second.--He shall have resided in the county for three months, and in the precinct or ward for
+thirty days immediately preceding the election at which he offers to vote; provided, that the
+general assembly may prescribe a longer or shorter residence in any precinct in any county or in
+any ward in any incorporated city or town having a population of more than five thousand
+inhabitants, but in no case to exceed three months; and provided, that no soldier, sailor, or marine
+in the military or naval service of the United States, shall acquire a residence by being stationed in
+this state.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 AL 1875 *** 
+
+
+Sec. 2. All elections by the people shall be by ballot, and all elections by persons in a
+representative capacity shall be viva voce.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 AL 1875 *** 
+
+Sec. 3. The following classes shall not be permitted to register, vote, or hold office:
+First.--Those who shall have been convicted of treason, embezzlement of public funds,
+malfeasance in office, larceny, bribery, or other crime punishable by imprisonment in the
+penitentiary.
+Second. -Those who are idiots or insane.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 AL 1875 *** 
+
+Sec. 4. Electors shall in all cases, except treason, felony, or breach of the peace, be privileged
+from arrest during their attendance at elections, or while going to or returning therefrom.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 AL 1875 *** 
+
+Sec. 5. The general assembly shall pass laws, not inconsistent with this Constitution, to regulate
+and govern elections in this state, and all such laws shall be uniform throughout the state. The
+general assembly may, when necessary, provide by law for the registration of electors throughout
+the state, or in any incorporated city or town thereof, and when it is so provided, no person shall
+vote at any election unless he shall have registered as required by law.
+
+*** SEND ***
+*** SSTART 006.0 008.0 0 AL 1875 *** 
+
+Sec. 6. It shall be the duty of the general assembly to pass adequate laws giving protection against
+the evils arising from the use of intoxicating liquors at all elections.
+
+*** SEND ***
+*** SSTART 007.0 008.0 0 AL 1875 *** 
+
+
+Sec. 7. Returns of elections for all civil officers who are to be commissioned by the governor,
+except secretary of state, state auditor, state treasurer, and attorney-general, and for members of
+the general assembly, shall be made to the secretary of state.
+
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 AL 1875 ***
+
+                          ARTICLE IX.
+                                
+                        REPRESENTATION.
+
+
+*** SSTART 001.0 009.0 0 AL 1875 *** 
+
+Section 1. The whole number of senators shall be not less than one-fourth or more than one-third
+the whole number of representatives.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 AL 1875 *** 
+
+Sec. 2. The house of representatives shall consist of not more than one hundred members, who
+shall be apportioned by the general assembly among the several counties of the state, according to
+the number of inhabitants in them, respectively, as ascertained by the decennial census of the
+United States for the year eighteen hundred and eighty; which apportionment, when made, shall
+not be subject to alteration until the first session of the general assembly after the next decennial
+census of the United States shall have been taken.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 AL 1875 *** 
+
+Sec. 3. It shall be the duty of the general assembly, at its first session after the taking of the
+decennial census of the United States in the year eighteen hundred and eighty, and after each
+subsequent decennial census, to fix by law the number of representatives, and apportion them
+among the several counties of the state; provided, that each county shall be entitled to at least one
+representative.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 AL 1875 *** 
+
+Sec. 4. It shall be the duty of the general assembly, at its first session after the taking of the
+decennial census of the United States in the year eighteen hundred and eighty, and after each
+subsequent decennial census, to fix by law the number of senators, and to divide the state into as
+many senatorial districts as there are senators, which districts shall be as nearly equal to each
+other in the number of inhabitants as may be, and each shall be entitled to one senator, and no
+more; and which districts, when formed, shall not be changed until the next apportioning session
+of the general assembly after the next decennial census of the United States shall have been taken. 
+No county shall be divided between two districts, and no district shall be made of two or more
+counties not contiguous to each other.
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 AL 1875 *** 
+
+Sec. 5. Should the decennial census of the United States, from any cause, not be taken, or if,
+when taken, the same as to this state is not full and satisfactory, the general assembly shall have
+power, at its first session after the time shall have elapsed for the taking of said census, to provide
+for an enumeration of all the inhabitants of this state, and once in each ten years thereafter, upon
+which it shall be the duty of the general assembly to make the apportionment of representatives
+and senators, as provided in this article.
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 AL 1875 *** 
+
+Sec. 6. Until the general assembly shall make an apportionment of representatives among the
+several counties, after the first decennial census of the United States, as herein provided, the
+counties of Autauga, Baldwin, Bibb, Blount, Calhoun, Chilton, Cherokee, Choctaw, Clarke, Clay,
+Cleburne, Coffee, Colbert, Conecuh, Coosa, Covington, Crenshaw, Dale, DeKalb, Elmore,
+Etowah, Escambia, Fayette, Franklin, Geneva, Henry, Lauderdale, Marion, Morgan, Monroe,
+Marshall, Randolph, Sanford, Shelby, St. Clair, Walker, Washington, and Winston shall each have
+one representative; the counties of Barbour, Bullock, Butler, Chambers, Greene, Hale, Jackson,
+Jefferson, Limestone, Lawrence, Lowndes, Lee, Macon, Marengo, Ferry, Pickens, Pike, Russell,
+Sumter, Talladega, Tallapoosa, Tuscaloosa, and Wilcox shall have each two representatives; the
+county of Madison shall have three representatives; the counties of Dallas and Montgomery shall
+have each four representatives; and the county of Mobile shall have five representatives.
+
+*** SEND ***
+*** SSTART 007.0 009.0 0 AL 1875 *** 
+
+Sec. 7. Until the general assembly shall divide the state into senatorial districts, as herein
+provided, the senatorial districts shall be as follows:
+First district, Lauderdale and Limestone; second district, Colbert and Lawrence; third district,
+Morgan, Winston, and Blount; fourth district, Madison; fifth district, Marshall, Jackson, and
+DeKalb; sixth district, Cherokee, Etowah, and St. Clair; seventh district, Calhoun and Cleburne;
+eighth district, Talladega and Clay; ninth district, Randolph and Chambers; tenth district, Macon
+and Tallapoosa; eleventh district, Bibb and Tuscaloosa; twelfth district, Franklin, Marion, Fayette,
+and Sanford; thirteenth district, Walker, Jefferson, and Shelby; fourteenth district, Greene and
+Pickens; fifteenth district, Coosa, Elmore, and Chilton; sixteenth district, Lowndes and Autauga;
+seventeenth district, Butler and Conecuh; eighteenth district, Ferry; nineteenth district, Choctaw,
+Clarke, and Washington; twentieth district, Marengo; twenty-first district, Monroe, Escambia, and
+Baldwin; twenty-second district, Wilcox; twenty-third district, Henry, Coffee, Dale, Geneva;
+twenty-fourth district, Barbour; twenty-fifth district, Pike, Crenshaw, and Covington; twenty-sixth
+district, Bullock; twenty-seventh district, Lee; twenty-eighth district, Montgomery; twenty-ninth
+district, Russell; thirtieth district, Dallas; thirty-first district, Sumter; thirty-second district, Hale;
+thirty-third district, Mobile.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 AL 1875 ***
+
+                           ARTICLE X.
+                                
+                       EXEMPTED PROPERTY.
+
+*** SSTART 001.0 010.0 0 AL 1875 *** 
+
+Section 1. The personal property of any resident of this state, to the value of one thousand
+dollars, to be selected by such resident, shall be exempted from sale on execution, or other
+process of any court, issued for the collection of any debt contracted since the thirteenth day of
+July, eighteen hundred and sixty-eight, or after the ratification of this Constitution.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 AL 1875 *** 
+
+
+Sec. 2. Every homestead, not exceeding eighty acres, and the dwelling and appurtenances
+thereon, to be selected by the owner thereof, and not in any city, town, or village, or in lieu
+thereof, at the option of the owner, any lot in the city, town, or village, with the dwelling and
+appurtenances thereon, owned and occupied by any resident of this state, and not exceeding the
+value of two thousand dollars, shall be exempted from sale on execution, or any other process
+from a court, for any debt contracted since the thirteenth day of July, eighteen hundred and
+sixty-eight, or after the ratification of this Constitution. Such exemption, however, shall not
+extend to any mortgage lawfully obtained, but such mortgage or other alienation of such
+homestead, by the owner thereof, if a married man, shall not be valid without the voluntary
+signature and assent of the wife to the same.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 AL 1875 *** 
+
+Sec. 3. The homestead of the family, after the death of the owner thereof shall be exempt from the
+payment of any debts contracted since the thirteenth day of July, one thousand eight hundred and
+sixty-eight, or after the ratification of this Constitution, in all cases, during the minority of the
+children.
+
+*** SEND ***
+*** SSTART 004.0 010.0 0 AL 1875 *** 
+
+Sec. 4. The provisions of sections one and two of this article shall not be so construed as to
+prevent a laborer's lien for work done and performed for the person claiming such exemption, or a
+mechanic's lien for work done on the premises.
+
+*** SEND ***
+*** SSTART 005.0 010.0 0 AL 1875 *** 
+
+Sec. 5. If the owner of a homestead die, leaving a widow, but no children, such homestead shall
+be exempt, and the rents and profits thereof shall inure to her benefit.
+
+*** SEND ***
+*** SSTART 006.0 010.0 0 AL 1875 *** 
+
+Sec. 6. The real and personal property of any female in this state, acquired before marriage, and
+all property, real and personal, to which she may afterwards be entitled by gift, grant, inheritance,
+or devise, shall be and remain the separate estate and property of such female, and shall not be
+liable for any debts, obligations, and engagements of her husband, and may be devised or
+bequeathed by her, the same as if she were a femme sole.
+
+*** SEND ***
+*** SSTART 007.0 010.0 0 AL 1875 *** 
+
+Sec. 7. The right of exemptions hereinbefore secured may be waived by an instrument in writing,
+and when such waiver relates to realty, the instrument must be signed by both the husband and the
+wife, and attested by one witness.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 AL 1875 ***
+
+                          ARTICLE XI.
+                                
+                           TAXATION.
+
+*** SSTART 001.0 011.0 0 AL 1875 *** 
+
+Section 1. All taxes levied on property in this state shall be assessed in exact proportion to the
+value of such property; provided, however, the general assembly may levy a poll-tax, not to
+exceed one dollar and fifty cents on each poll, which shall be applied exclusively in aid of the
+public school fund in the county so paying the same.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 AL 1875 *** 
+
+Sec. 2. No power to levy taxes shall be delegated to individuals or private corporations.
+
+
+*** SEND ***
+*** SSTART 003.0 011.0 0 AL 1875 *** 
+
+Sec. 3. After the ratification of this Constitution, no new debt shall be created against, or incurred
+by, this state, or its authority, except to repel invasion or suppress insurrection, and then only by a
+concurrence of two-thirds of the members of each house of the general assembly, and the vote
+shall be taken by yeas and nays and entered on the journals; and any act creating or incurring any
+new debt against this state, except as herein provided for, shall be absolutely void; provided, the
+governor may be authorized to negotiate temporary loans, never to exceed one hundred thousand
+dollars, to meet deficiencies in the treasury; and until the same is paid, no new loan shall be
+negotiated; provided, further, that this section shall not be so construed as to prevent the issuance
+of bonds in adjustment of existing state indebtedness.
+
+*** SEND ***
+*** SSTART 004.0 011.0 0 AL 1875 *** 
+
+Sec. 4. The general assembly shall not have the power to levy, in any one year, a greater rate of
+taxation than three-fourths of one per centum on the value of the taxable property within this
+state.
+
+*** SEND ***
+*** SSTART 005.0 011.0 0 AL 1875 *** 
+
+Sec. 5. No county in this state shall be authorized to levy a larger rate of taxation, in any one year,
+on the value of the taxable property therein, than one-half of one per centum; provided, that to
+pay debts existing at the ratification of this Constitution, an additional rate of one-fourth of one
+per centum may be levied and collected which shall be exclusively appropriated to the payment of
+such debts or the interest thereon; provided, further, that to pay any debt or liability now existing
+against any county, incurred for the erection of the necessary public buildings or other ordinary
+county purposes, or that may hereafter be created for the erection of necessary public buildings or
+bridges, any county may levy and collect such special taxes as may have been or may hereafter be
+authorized by law, which taxes so levied and collected shall be applied exclusively to the purposes
+for which the same were so levied and collected.
+
+*** SEND ***
+*** SSTART 006.0 011.0 0 AL 1875 *** 
+
+Sec. 6. The property of private corporations, associations, and individuals of this state, shall
+forever be taxed at the same rate; provided, this section shall not apply to institutions or
+enterprises devoted exclusively to religious, educational, or charitable purposes.
+
+*** SEND ***
+*** SSTART 007.0 011.0 0 AL 1875 *** 
+
+Sec. 7. No city, town, or other municipal corporation other than provided for in this article, shall
+levy or collect a larger rate of taxation, in any one year, on the property thereof, than one-half of
+one per centum of the value of such property, as assessed for state taxation during the preceding
+year; provided, that for the payment of debts existing at the time of the ratification of this
+Constitution and the interest thereon, an additional rate of one per centum may be collected, to be
+applied exclusively to such indebtedness; and provided, this section shall not apply to the city of
+Mobile, which city may, until the first day of January, one thousand eight hundred and
+seventy-nine, levy a tax not to exceed the rate of one per centum, and from and after that time a
+tax not to exceed the rate of three-fourths of one per centum, to pay expenses of the city
+government, and may also, until the first day of January, one thousand eight hundred and
+seventy-nine, levy a tax not to exceed the rate of one per centum, and from and after that time, a
+tax not to exceed the rate of three-fourths one per centum, to pay existing indebtedness of said
+city, and the interest thereon.
+
+*** SEND ***
+*** SSTART 008.0 011.0 0 AL 1875 *** 
+
+Sec. 8. At the first session of the general assembly after the ratification of this Constitution, the
+salaries of the following officers shall be reduced at least twenty-five per centum, viz.: governor,
+secretary of state, state auditor, state treasurer, attorney-general, superintendent of education,
+judges of the supreme and circuit courts, and chancellors; and after said reduction, the general
+assembly shall not have the power to increase the same, except by a vote of a majority of all the
+members elected to each house, taken by yeas and nays, and entered on the journals; provided,
+this section shall not apply to any of said officers now in office.
+
+*** SEND ***
+*** SSTART 009.0 011.0 0 AL 1875 *** 
+
+Sec. 9. The general assembly shall not have the power to require the counties or other municipal
+corporations to pay any charges which are now payable out of the state treasury.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 AL 1875 ***
+
+                          ARTICLE XII.
+                                
+                            MILITIA.
+
+
+*** SSTART 001.0 012.0 0 AL 1875 *** 
+
+Section 1. All able-bodied male inhabitants of this state, between the ages of eighteen years and
+forty-five years, who are citizens of the United States, or have declared their intention to become
+such citizens, shall be liable to military duty in the militia of the state.
+
+*** SEND ***
+*** SSTART 002.0 012.0 0 AL 1875 *** 
+
+Sec. 2. The general assembly, in providing for the organization, equipment, and discipline of the
+militia, shall conform as nearly as practicable to the regulations for the government of the armies
+of the United States.
+
+*** SEND ***
+*** SSTART 003.0 012.0 0 AL 1875 *** 
+
+Sec. 3. Each company and regiment shall elect its own company and regimental officers; but if any
+company or regiment shall neglect to elect such officers within the time prescribed by law, they
+may be appointed by the governor.
+
+*** SEND ***
+*** SSTART 004.0 012.0 0 AL 1875 *** 
+
+Sec. 4. Volunteer organizations of infantry, cavalry, and artillery may be formed in such manner,
+and under such restrictions, and with such privileges, as may be provided by law.
+
+*** SEND ***
+*** SSTART 005.0 012.0 0 AL 1875 *** 
+
+Sec. 5. The militia and volunteer forces shall, in all cases, except treason, felony, and breach of the
+peace, be privileged from arrest during their attendance at musters, parades, and elections, and in
+going to and returning from the same.
+
+*** SEND ***
+*** SSTART 006.0 012.0 0 AL 1875 *** 
+
+Sec. 6. The governor shall, except as otherwise provided herein, be commander-in-chief of the
+militia and volunteer forces of the state, except when in the service of the United States, and shall,
+with the advice and consent of the senate, appoint all general officers, whose terms of office shall
+be for four years. The governor, the generals, and regimental and battalion commanders shall
+appoint their own staffs, as may be provided by law.
+
+*** SEND ***
+*** SSTART 007.0 012.0 0 AL 1875 *** 
+
+
+Sec. 7. The general assembly shall provide for the safe keeping of the arms, ammunition, and
+accoutrements, military records, banners, and relics of the state.
+
+*** SEND ***
+*** SSTART 008.0 012.0 0 AL 1875 *** 
+
+Sec. 8. The officers and men of the militia and volunteer forces shall not be entitled to, or receive
+any pay, rations, or emoluments, when not in active service.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 AL 1875 ***
+
+                         ARTICLE XIII.
+                                
+                           EDUCATION.
+
+*** SSTART 001.0 013.0 0 AL 1875 *** 
+
+Section 1. The general assembly shall establish, organize, and maintain a system of public schools
+throughout the state, for the equal benefit of the children thereof between the ages of seven and
+twenty-one years; but separate schools shall be provided for the children of citizens of African
+descent.
+
+*** SEND ***
+*** SSTART 002.0 013.0 0 AL 1875 *** 
+
+Sec. 2. The principal of all funds arising from the sale or other disposition of lands or other
+property, which has been or may hereafter be granted or intrusted to this state, or given by the
+United States, for educational purposes, shall be preserved inviolate and undiminished; and the
+income arising therefrom shall be faithfully applied to the specific objects of the original grants or
+appropriations.
+
+*** SEND ***
+*** SSTART 003.0 013.0 0 AL 1875 *** 
+
+Sec. 3. All lands or other property given by individuals, or appropriated by the state for
+educational purposes, and all estates of deceased persons who die without leaving a will or heir,
+shall be faithfully applied to the maintenance of the public schools.
+
+*** SEND ***
+*** SSTART 004.0 013.0 0 AL 1875 *** 
+
+Sec. 4. The general assembly shall also provide for the levying and collection of an annual poll
+tax, not to exceed one dollar and fifty cents on each poll, which shall be applied to the support of
+the public schools in the counties in which it is levied and collected.
+
+*** SEND ***
+*** SSTART 005.0 013.0 0 AL 1875 *** 
+
+Sec. 5. The income arising from the sixteenth section trust fund, the surplus revenue fund, until it
+is called for by the United States government, and the funds enumerated in sections three and four
+of this article, with such other moneys, to be not less than one hundred thousand dollars per
+annum, as the general assembly shall provide by taxation or otherwise, shall be applied to the
+support and maintenance of the public schools; and it shall be the duty of the general assembly to
+increase, from time to time, the public school fund, as the condition of the treasury and the
+resources of the state will admit.
+
+*** SEND ***
+*** SSTART 006.0 013.0 0 AL 1875 *** 
+
+Sec. 6. Not more than four per cent of all moneys raised, or which may hereafter be appropriated
+for the support of public schools, shall be used or expended otherwise than for the payment of
+teachers employed in such schools; provided, that the general assembly may, by a vote of
+two-thirds of each house, suspend the operation of this section.
+
+*** SEND ***
+*** SSTART 007.0 013.0 0 AL 1875 *** 
+
+
+Sec. 7. The supervision of the public schools shall be vested in a superintendent of education,
+whose powers, duties, term of office, and compensation shall be fixed by law. The superintendent
+of education shall be elected by the qualified voters of the state in such manner, and at such time,
+as shall be provided by law.
+
+*** SEND ***
+*** SSTART 008.0 013.0 0 AL 1875 *** 
+
+Sec. 8. No money raised for the support of the public schools of the state shall be appropriated to,
+or used for, the support of any sectarian or denominational school.
+
+*** SEND ***
+*** SSTART 009.0 013.0 0 AL 1875 *** 
+
+
+Sec. 9. The State University and the Agricultural and Mechanical College shall each be under the
+management and control of a board of trustees. The board for the university shall consist of two
+members from the congressional district in which the university is located, and one from each of
+the other congressional districts in the state. The board for the Agricultural and Mechanical
+College shall consist of two members from the congressional district in which the college is
+located, and one from each of the other congressional districts in the state. Said trustees shall be
+appointed by the governor, by and with the advice and consent of the senate, and shall hold office
+for a term of six years, and until their successors shall be appointed and qualified. After the first
+appointment each board shall be divided into three classes, as nearly equal as may be. The seats of
+the first class shall be vacated at the expiration of two years, and those of the second class in four
+years, and those of the third class at the end of six years, from the date of appointment, so that
+one-third may be chosen biennially. No trustee shall receive any pay or emolument, other than his
+actual expenses incurred in the discharge of his duties as such. The governor shall be ex officio
+president, and the superintendent of education ex officio a member of each of said boards of
+trustees.
+
+*** SEND ***
+*** SSTART 010.0 013.0 0 AL 1875 *** 
+
+Sec. 10. The general assembly shall have no power to change the location of the State University,
+or the Agricultural and Mechanical College, as now established by law, except upon a vote of
+two-thirds of the members of the general assembly, taken by yeas and nays, and entered upon the
+journals.
+
+*** SEND ***
+*** SSTART 011.0 013.0 0 AL 1875 *** 
+
+Sec. 11. The provisions of this article, and of any act of the general assembly, passed in pursuance
+thereof, to establish, organize, and maintain a system of public schools throughout the state, shall
+apply to Mobile county only so far as to authorize and require the authorities designated by law to
+draw the portion of the funds to which said county will be entitled for school purposes, and to
+make reports to the superintendent of education, as may be prescribed by law. And all special
+incomes and powers of taxation, as now authorized by law for the benefit of public schools in said
+county, shall remain undisturbed until otherwise provided by the general assembly; provided, that
+separate schools for each race shall always be maintained by said school authorities.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 AL 1875 ***
+
+                          ARTICLE XIV.
+                                
+                         CORPORATIONS.
+
+
+*** SSTART 001.0 014.0 0 AL 1875 *** 
+
+                     Private Corporations.
+
+
+Section 1. Corporations may be formed under general laws, but shall not be created by special
+act, except for municipal, manufacturing, mining, immigration, industrial, and educational
+purposes, or for constructing canals, or improving navigable rivers and harbors of this state, and
+in cases where, in the judgment of the general assembly, the objects of the corporation can not be
+attained under general laws. All general laws and special acts passed pursuant to this section may
+be altered, amended, or repealed.
+
+*** SEND ***
+*** SSTART 002.0 014.0 0 AL 1875 *** 
+
+Sec. 2. All existing charters or grants of special or exclusive privileges, under which a bona fide
+organization shall not have taken place and business been commenced in good faith, at the time of
+the ratification of this Constitution, shall thereafter have no validity.
+
+*** SEND ***
+*** SSTART 003.0 014.0 0 AL 1875 *** 
+
+Sec. 3. The general assembly shall not remit the forfeiture of the charter of any corporation now
+existing, or alter or amend the same, or pass, any general or special law for the benefit of such
+corporation, other than in execution of a trust created by law or by contract, except upon the
+condition that such corporation shall thereafter hold its charter subject to the provisions of this
+Constitution.
+
+*** SEND ***
+*** SSTART 004.0 014.0 0 AL 1875 *** 
+
+Sec. 4. No foreign corporation shall do any business in this state without having at least one
+known place of business and an authorized agent or agents therein; and such corporation may be
+sued in any county where it does business by service of process upon an agent anywhere in this
+state.
+
+*** SEND ***
+*** SSTART 005.0 014.0 0 AL 1875 *** 
+
+Sec. 5. No corporation shall engage in any business other than that expressly authorized in its
+charter.
+
+*** SEND ***
+*** SSTART 006.0 014.0 0 AL 1875 *** 
+
+Sec. 6. No corporation shall issue stock or bonds except for money, labor done, or money or
+property actually received; and all fictitious increase of stock or indebtedness shall be void. The
+stock and bonded indebtedness of corporations shall not be increased, except in pursuance of
+general laws, nor without the consent of the persons holding the larger amount in value of stock,
+first obtained at a meeting to be held after thirty days' notice given in pursuance of law.
+
+*** SEND ***
+*** SSTART 007.0 014.0 0 AL 1875 *** 
+
+
+Sec. 7. Municipal and other corporations and individuals invested with the privilege of taking
+private property for public use, shall make just compensation for the property taken, injured, or
+destroyed by the construction or enlargement of its works, highways, or improvements, which
+compensation shall be paid before such taking, injury, or destruction. The general assembly is
+hereby prohibited from depriving any person of an appeal from any preliminary assessment of
+damages against any such corporations or individuals made by viewers, or otherwise; and the
+amount of such damages in all cases of appeal shall, on the demand of either party, be determined
+by a jury according to law.
+
+*** SEND ***
+*** SSTART 008.0 014.0 0 AL 1875 *** 
+
+Sec. 8. Dues from private corporations shall be secured by such means as may be prescribed by
+law; but in no case shall any stockholder be individually liable otherwise than for the unpaid stock
+owned by him or her.
+
+*** SEND ***
+*** SSTART 009.0 014.0 0 AL 1875 *** 
+
+Sec. 9. No corporation shall issue preferred stock without the consent of the owners of two-thirds
+of the stock of said corporation.
+
+*** SEND ***
+*** SSTART 010.0 014.0 0 AL 1875 *** 
+
+Sec. 10. The general assembly shall have the power to alter, revoke, or amend any charter of
+incorporation now existing, and revocable at the ratification of this Constitution, or any that may
+hereafter be created, whenever, in their opinion, it may be injurious to the citizens of the state; in
+such manner, however, that no injustice shall be done to the corporators. No law hereafter
+enacted shall create, renew, or extend the charter of more than one corporation.
+
+*** SEND ***
+*** SSTART 011.0 014.0 0 AL 1875 *** 
+
+Sec. 11. Any association or corporation organized for the purpose, or any individual, shall have
+the right to construct and maintain lines of telegraph within this state, and connect the same with
+other lines; and the general assembly shall, by general law of uniform operation, provide
+reasonable regulations to give full effect to this section. No telegraph company shall consolidate
+with or hold a controlling interest in the stock or bonds of any other telegraph company owning a
+competing line, or acquire, by purchase or otherwise, any other competing line of telegraph.
+
+*** SEND ***
+*** SSTART 012.0 014.0 0 AL 1875 *** 
+
+Sec. 12. All corporations shall have the right to sue, and shall be subject to be sued in all courts,
+in like cases as natural persons.
+
+*** SEND ***
+*** SSTART 013.0 014.0 0 AL 1875 *** 
+
+Sec. 13. The term "corporation," as used in this article, shall be construed to include all joint stock
+companies, or any associations having any of the powers or privileges of corporations, not
+possessed by individuals or partnerships.
+
+
+*** SEND ***
+*** SSTART 014.0 014.0 0 AL 1875 *** 
+                       Banks and Banking.
+
+Sec. 14. The general assembly shall not have the power to establish or incorporate any bank or
+banking company, or moneyed institution, for the purpose of issuing bills of credit, or bills payable
+to order or bearer, except under the conditions prescribed in this Constitution.
+
+*** SEND ***
+*** SSTART 015.0 014.0 0 AL 1875 *** 
+
+Sec. 15. No banks shall be established otherwise than under a general banking law, nor otherwise
+than upon a specie basis.
+
+*** SEND ***
+*** SSTART 016.0 014.0 0 AL 1875 *** 
+
+Sec. 16. All bills or notes issued as money shall be at all times redeemable in gold or silver, and no
+law shall be passed sanctioning, directly or indirectly, the suspension by any bank or banking
+company of specie payment.
+
+*** SEND ***
+*** SSTART 017.0 014.0 0 AL 1875 *** 
+
+Sec. 17. Holders of bank notes, and depositors who have not stipulated for interest, shall, for such
+notes and deposits, be entitled, in case of insolvency, to the preference of payment over all other
+creditors.
+
+*** SEND ***
+*** SSTART 018.0 014.0 0 AL 1875 *** 
+
+Sec. 18. Every bank or banking company shall be required to cease all banking operations within
+twenty years from the time of its organization (unless the general assembly shall extend the time),
+and promptly thereafter close its business; but shall have corporate capacity to sue and shall be
+liable to suit, until its affairs and liabilities are fully closed.
+
+*** SEND ***
+*** SSTART 019.0 014.0 0 AL 1875 *** 
+
+Sec. 19. No bank shall receive, directly or indirectly, a greater rate of interest than shall be
+allowed by law to individuals for lending money.
+
+*** SEND ***
+*** SSTART 020.0 014.0 0 AL 1875 *** 
+
+Sec. 20. The state shall not be a stockholder in any bank, nor shall the credit of the state ever be
+given or loaned to any banking company, association, or corporation.
+
+*** SEND ***
+*** SSTART 021.0 014.0 0 AL 1875 *** 
+
+                     Railroads and Canals.
+
+
+Sec. 21. All railroads and canals shall be public highways, and all railroad and canal companies
+shall be common carriers. Any association or corporation organized for the purpose shall have the
+right to construct and operate a railroad between any points in this state, and to connect, at the
+state line, with railroads of other states. Every railroad company shall have the right with its road
+to intersect, connect with, or cross any other railroad, and shall receive and transport, each, the
+other's freight, passengers, and cars, loaded or empty, without delay or discrimination.
+
+*** SEND ***
+*** SSTART 022.0 014.0 0 AL 1875 *** 
+
+Sec. 22. The general assembly shall pass laws to correct abuses and prevent unjust discrimination
+and extortion in the rates of freights and passenger tariffs on railroads, canals, and rivers in this
+state.
+
+*** SEND ***
+*** SSTART 023.0 014.0 0 AL 1875 *** 
+
+Sec. 23. No railroad or other transportation company shall grant free passes, or sell tickets or
+passes at a discount other than as sold to the public generally, to any member of the general
+assembly, or to any person holding office under this state or the United States.
+
+*** SEND ***
+*** SSTART 024.0 014.0 0 AL 1875 *** 
+
+Sec. 24. No street passenger railway shall be constructed within the limits of any city or town
+without the consent of its local authorities.
+
+*** SEND ***
+*** SSTART 025.0 014.0 0 AL 1875 *** 
+
+Sec. 25. No railroad, canal, or other transportation company, in existence at the time of the
+ratification of this Constitution, shall have the benefit of any future legislation by general or
+special laws, other than in execution of a trust created by law, or by contract, except on the
+condition of complete acceptance of ail the provisions of this article.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 015.0 AL 1875 ***
+
+                          ARTICLE XV.
+                                
+                        OATH OF OFFICE.
+
+*** SSTART 001.0 015.0 0 AL 1875 *** 
+
+Section 1. All members of the general assembly, and all officers, executive and judicial, before
+they enter upon the execution of the duties of their respective offices, shall take the following oath
+or affirmation, to wit:
+
+"I,.........., solemnly swear (or affirm, as the case may be) that I will support the Constitution of
+the United States, and the Constitution of the State of Alabama, so long as I continue a citizen
+thereof; and that I will faithfully and honestly discharge the duties of the office upon which I am
+about to enter, to the best of my ability. So help me God."
+
+Which oath may be administered by the presiding officer of either house of the general assembly,
+or by any officer authorized by law to administer an oath.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 016.0 AL 1875 ***
+
+                          ARTICLE XVI.
+
+                   MISCELLANEOUS PROVISIONS.
+
+
+*** SSTART 001.0 016.0 0 AL 1875 *** 
+
+Section 1. No person holding an office of profit under the United States, except postmasters
+whose annual salary does not exceed two hundred dollars, shall, during his continuance in such
+office, hold any office of profit under this state; nor shall any person hold two offices of profit at
+one and the same time under this state, except justices of the peace, constables, notaries public,
+and commissioners of deeds.
+
+*** SEND ***
+*** SSTART 002.0 016.0 0 AL 1875 *** 
+
+Sec. 2. It is made the duty of the general assembly to enact all laws necessary to give effect to the
+provisions of this Constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 017.0 AL 1875 ***
+
+                         ARTICLE XVII.
+                                
+               MODE OF AMENDING THE CONSTITUTION.
+
+
+*** SSTART 001.0 017.0 0 AL 1875 *** 
+
+Section 1. The general assembly may, whenever two-thirds of each house shall deem it necessary,
+propose amendments to this Constitution, which, having been read on three several days in each
+house, shall be duly published in such manner as the general assembly may direct, at least three
+months before the next general election for representatives, for the consideration of the people;
+and it shall be the duty of the several returning officers, at the next general election which shall be
+held for representatives, to open a poll for the vote of the qualified electors on the proposed
+amendments, and to make return of said vote to the secretary of state; and, if it shall thereupon
+appear that a majority of all qualified electors of the state, who voted at said election, voted in
+favor of the proposed amendments, said amendments shall be valid, to all intents and purposes, as
+parts of this Constitution; and the result of such election shall be made known by proclamation of
+the governor.
+
+*** SEND ***
+*** SSTART 002.0 017.0 0 AL 1875 *** 
+
+Sec. 2. No convention shall hereafter be held for the purpose of altering or amending the
+Constitution of this state, unless the question of convention or no convention shall first be
+submitted to a vote of all the electors of the state, and approved by a majority of those voting at
+said election.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9003.0 AL 1875 ***
+
+                            SCHEDULE
+
+In order that no injury or inconvenience may arise from the alterations and amendments made by
+this Constitution to the existing Constitution of this state, and to carry this Constitution into
+effect, it is hereby ordained and declared-
+
+*** SSTART 001.0 9003.0 0 AL 1875 *** 
+
+1.  That all laws in force at the ratification of this Constitution, and not inconsistent therewith,
+shall remain in full force, until altered or repealed by the general assembly; and all rights, actions,
+prosecutions, claims, and contracts of this state, counties, individuals, or bodies       corporate, not
+inconsistent with this Constitution, shall continue to be as valid as if this                Constitution
+had not been ratified.
+
+*** SEND ***
+*** SSTART 002.0 9003.0 0 AL 1875 ***                    
+
+2.  That all bonds executed by or to any officer of this state, all recognizances, obligations, and all
+other instruments executed to this state, or any subdivision or municipality thereof, before the
+ratification of this Constitution, and all fines, taxes, penalties, and forfeitures due and owing to
+this state, or any subdivision, or to any municipality thereof; and all writs, suits, prosecutions,
+claims and causes of action, except as herein otherwise provided, shall continue and remain
+unaffected by the ratification of this Constitution. All indictments which may have been found, or
+which may hereafter be found, for any crime or offense committed before the ratification of this
+Constitution, shall be proceeded upon in the same manner as if this Constitution had not been
+ratified.
+
+*** SEND ***
+*** SSTART 003.0 9003.0 0 AL 1875 ***                    
+
+3.  That all the executive and judicial officers, and all other officers in this state, who shall have
+been elected at the election held in this state, on third day of November, eighteen hundred and
+seventy-four, or who may have been appointed since that time, and all members of the present
+general assembly, and all that may hereafter be elected members of the present general assembly,
+and all other officers holding office at the time of the ratification of this Constitution,      except
+such as hold office under any act of the general assembly, shall continue in office and          
+exercise the duties thereof until their respective terms shall expire, as provided by the present        
+Constitution and laws of this state.
+
+*** SEND ***
+*** SSTART 004.0 9003.0 0 AL 1875 *** 
+
+
+4.  This Constitution shall be submitted to the qualified electors of this state for ratification or
+rejection, as authorized and required by an act of the general assembly of this state, entitled "An
+act to provide for the calling of a convention to revise and amend the Constitution of this state,"
+approved nineteenth day of March, anno domini eighteen hundred and seventy-five.
+
+*** SEND ***
+*** SSTART 005.0 9003.0 0 AL 1875 *** 
+
+
+5.  If at said election the said Constitution shall be found to have been ratified by a majority of all
+the qualified electors voting at said election, the said new Constitution, so ratified, shall go into
+effect as the new Constitution of the State of Alabama within the time stated in the     
+proclamation of the governor, and shall thereafter be binding and obligatory as such upon all          
+the people of this state, according to the provisions of said act, approved nineteenth day of           
+March, anno domini eighteen hundred and seventy-five.
+
+*** SEND ***
+*** SSTART 006.0 9003.0 0 AL 1875 *** 
+
+6.  That instead of the publication as required by section twelve of said act, the governor of the
+state is hereby authorized to take such steps as will give general publicity and circulation to this
+Constitution in as economical manner as practicable.
+
+*** SEND ***
+*** SSTART 007.0 9003.0 0 AL 1875 *** 
+
+                   
+7.  That all laws requiring an enumeration of the inhabitants of this state during the year eighteen
+hundred and seventy-five are hereby avoided.
+
+*** SEND ***
+*** SSTART 008.0 9003.0 0 AL 1875 *** 
+
+                   
+8.  That the board of education of this state is hereby abolished.
+                   
+*** SEND ***
+*** SSTART 009.0 9003.0 0 AL 1875 *** 
+
+9.  The salaries of the executive and judicial, and all other officers of this state who may be
+holding office at the time of the ratification of this Constitution, and the pay of the present         
+members of the general assembly, shall not be affected by the provisions of this Constitution.
+                   
+*** SEND ***
+***AEND ***
+
+
+LEROY POPE WALKER, President.
+JOHN F. BURNS,
+J. H. WHITE,
+SUMPTER LEA,
+WM. A. SMITH,
+R. A. MCCLELLAN,
+E. D. WILLETT,
+RUFUS W. COBB,
+JOHN W. INZER,
+WM. G. LITTLE, JR.,
+W. GARRETT,
+JOHN MANASCO,
+LEWIS M. STONE,
+WILEY COLEMAN,
+ANDREW C. HARGROVE,
+EVAN G. RICHARDS,
+HENRY W. LAIRD,
+WM. J. O'BANNON,
+GEO. S. GULLETT,
+GEO. W. DELBRIDGE,
+ANDREW J. INGLE,
+FRANK A. NISBET,
+JOHN GAMBLE,
+ISAAC H. PARKS,
+HENRY C. LEA,
+JOEL D. MURPHREE,
+J.B.KELLY,
+J. N. SWAN,
+F. W. SYKES,
+E. H. MOREN
+WM. C. OATES,
+STEPHEN C. ALLGOOD,
+SAMUEL J. BOLLING,
+LEROY BREWER,
+JOHN T. HEFLIN,
+JULIUS G. ROBINSON,
+SAMUEL FORWOOD,
+JOHN GREEN,
+ROBERT A. LONG,
+CHARLES C. LANGDON,
+F. S. LYON,
+HENRY A. WOOLF,
+WM. M. HAMES,
+THOS. J. BURTON,
+B. F. JOHNSON,
+ALBURTO MARTIN,
+R. C. TORREY,
+M. T. AKERS,
+ALBERT W. PLOWMAN,
+WM. A. MUSGROVE,
+JAMES D. MEADOWS,
+W. J. SAMFORD,
+GEO. P. HARRISON, JR.,
+JOHN D. RATHER,
+CEPHAS B. TAYLOR,
+BENJ. F. WEATHERS,
+MICAJAH L. DAVIS,
+J. W. JONES,
+JOHN S. DICKINSON,
+WM. BURGESS,
+P. M. CALLOWAY,
+JOHN P. RALLS, M. D.,
+WM. S. MUDD,
+JOHN A. FOSTER,
+JAMES L. PUGH,
+JOS. E. P. FLOURNOY,
+JOHN D. HUDSON,
+R. O. PICKETT,
+RICHARD H. POWELL,
+E. A. O'NEAL,
+THOMAS B. NESMITH,
+WM. GREEN,
+JAMES AIKEN,
+E. A. POWELL,
+A. C. GORDON,
+CULLEN A. BATTLE,
+JONATHAN BLISS,
+D. B. BOOTH,
+S. T. PRINCE,
+A. A. STERRITT,
+H. J. LIVINGSTON,
+WM. M. LOWE,
+S. S. SCOTT,
+CHARLES GIBSON,
+THOMAS H. HERNDON,
+JESSE E. BROWN,
+DAVID S. NOWLIN,
+JOHN H. NORWOOD
+MONTGOMERY GILBREATH,
+Attest: BENJ. H. SCREWS, Secy.
+
+     
+** CEND ***

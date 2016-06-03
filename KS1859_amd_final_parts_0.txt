@@ -1,0 +1,2749 @@
+  This is feady to go.
+  
+  JW 8/26/02
+  
+  
+    
+   *** CSTART KS 10/04/1859 99/99/9999 ***
+    
+                 
+  *** MSTART 001 007.0 013.0 0 KS 1859 1861 ***
+  
+  Ratified November, 1861 
+  
+  SEC. 7. No banking institution shall issue circulating notes of a less denomination than one
+  dollar.
+  
+  *** MEND ***
+  *** MSTART 002 012.0 002.0 0 KS 1859 1864 ***
+  
+  Ratified  November 8, 1864
+  
+  SEC. 12. Bills may originate in either house, but may be amended or rejected by 
+  either.
+   
+  *** MEND ****
+  *** MSTART 003 003.0 005.0 0 KS 1859 1864 ***
+  
+  Ratified November 8, 1864
+  
+  SEC. 3. For the purpose of voting, no person shall be deemed to have gained or lost a
+  residence by reason of his presence or absence while employed in the service of the United
+  States, nor while engaged in the navigation of the waters of this State or of the United
+  States, or of the high seas; nor while a student of any seminary of learning; nor while kept
+  at any almshouse, or other asylum, at public expense; nor while confined in any public
+  prison: and the Legislature may make provision for taking the votes of electors who may be
+  absent from their townships or wards, in the volunteer military service of the United States,
+  or the militia service of this State: but nothing herein contained shall be deemed to allow
+  any soldier, seaman or marine in the regular army or navy of the United States the right to
+  vote.
+  
+  *** MEND ***
+  *** MSTART 004 002.0 005.0 0 KS 1859 1867 ***
+  
+  Ratified November 5, 1867
+  
+  SEC. 2. No person under guardianship, non compos mentis, or insane; no person convicted
+  of felony, unless restored to civil rights; no person who has been dishonorably discharged
+  from the service of the United States, or any of the States thereof; no person guilty of
+  receiving a bribe, or offering to give or receive a bribe; and no person who has ever
+  voluntarily borne arms against the Government of the United States, or in any manner
+  voluntarily aided or abetted in the attempted overthrow of said Government, except all
+  persons who have been honorably discharged from the military service of the United States
+  since the first day of April, A.D., 1861, provided that they have served one year or 
+  more therein, shall be qualified to vote or hold office in this State, until such disability
+  shall be removed by a law passed by a vote of two-thirds of all the members of both
+  branches of the Legislature.
+  
+  *** MEND ***
+  *** MSTART 005 004.0 015.0 0 KS 1859 1868 ***
+  
+  Ratified November 3, 1868
+  
+  SEC. 4.  All public printing shall be done by a State Printer, who shall be elected by the
+  Legislature in joint session, and shall hold his office for two years, and until his successor
+  shall be elected and qualified. The joint session of the Legislature for the election of a State
+  Printer shall be on the third Tuesday of January, A.D., 1869, and every two years
+  thereafter. All public printing shall be done at the capital, and the prices for the same 
+  shall be regulated by law.
+  
+  *** MEND *** 
+  *** MSTART 006 002.0 002.0 0 KS 1859 1873 ***
+  
+  Ratified November 4, 1873 
+  
+  SEC. 2. The number of Representatives and Senators shall be regulated by law but shall
+  never exceed one hundred and twenty-five Representatives and forty Senators. From and
+  after the adoption of this amendment, the House of Representatives shall admit one
+  member from each county in which at least two hundred and fifty legal votes were cast at
+  the next preceding general election; and each organized county in which less than two
+  hundred legal votes were cast at the next preceding general election shall be attached to,
+  and constitute a part of, the Representative District of the county lying next adjacent to it
+  on the east.
+  
+  *** MEND ***
+  *** MSTART 007 025.0 002.0 0 KS 1859 1875 ***
+  
+  Ratified November 2, 1875
+  
+  SEC. 25. All sessions of the Legislature shall be held at the State capital, and beginning
+  with the session of eighteen hundred and seventy-seven, all regular sessions shall be held
+  once in two years, commencing on the second Tuesday of January of each alternate year 
+  thereafter.
+  
+  *** MEND ***
+  *** MSTART 008 029.0 002.0 0 KS 1859 1875 ***
+  
+  Ratified November 2, 1875
+  
+  SEC. 29. At the general election held in eighteen hundred and seventy-six, and thereafter,
+  members of the House of Representatives shall be elected for two years, and members of
+  the Senate shall be elected for four years. 
+  
+  *** MEND ***
+  *** MSTART 009 003.0 011.0 0 KS 1859 1875 ***
+  
+  Ratified November 2, 1875 
+  
+  SEC. 3. The Legislature shall provide, at each regular session, for raising sufficient revenue
+  to defray the current expenses of the State for two years.
+  
+  *** MEND ***
+  *** MSTART 010 003.0 009.0 0 KS 1859 1876 ***
+  
+  Ratified November 7, 1876 
+  
+  SEC. 3. All county officers shall hold their offices for the term of two years, and until their
+  successors shall be qualified, except County Commissioners, who shall hold their offices
+  for term of three years. Provided, That in the general election in year eighteen hundred and 
+  seventy-seven, the Commissioner elected from district number two in each county shall
+  hold his office for the terms of three yeas; but no person shall hold the office of Sheriff or
+  County Treasurer for more than two consecutive terms.
+  
+  *** MEND *** 
+  *** MSTART 011 024.0 002.0 0 KS 1859 1876 **
+  
+  Ratified November 7, 1876 
+  
+  SEC. 24. No money shall be drawn from the treasury, except in pursuance of a specific
+  appropriation made by law, and no appropriation shall be for a longer term than two years.
+  
+  *** MEND ***
+  *** MSTART 012 010.0 015.0 0 KS 1859 1880 ***
+  
+  Ratified November 2, 1880 
+  
+  SEC. 10. The manufacture and sale of intoxicating liquors shall be forever prohibited in
+  this State, except for medical, scientific, and mechanical purposes. 
+  
+  *** MEND ***
+  *** MSTART 013 001.0 008.0 0 KS 1859 1888 ***         
+  
+  Ratified November 6, 1888
+  
+  SEC. 1.  Composition; exemption. The militia shall be composed of all able-bodied male
+  citizens between the ages of twenty-one and forty-five years, except such as are exempted    
+  by the laws of the United States or of this state; but all citizens of any religious
+  denomination whatever who from scruples of conscience may be adverse to bearing arms
+  shall be exempted therefrom, upon such conditions as may be prescribed by law.
+   
+  *** MEND ***
+  *** MSTART 014 017.0 9002.0 0 KS 1859 1888 ***
+  
+  Ratified November 6, 1888
+  
+  SEC. 17.  Property rights of citizens and aliens.  No distinction shall ever be made between
+  citizens of the state of Kansas and the citizens of other states and territories of the United
+  States in reference to the purchase, enjoyment or descent of property.  The rights of aliens
+  in reference to the purchase, enjoyment or descent of property may be regulated by law.
+  
+  *** MEND ***
+  *** MSTART 015 002.0 003.0 0 KS 1859 1900 ***
+  
+  Ratified November 6, 1900
+  
+  SEC. 2.  Supreme court. The supreme court shall consist of seven justices, who shall be
+  chosen by the electors of the state. They may sit separately in two divisions, with full
+  power in each division to determine the cases assigned to be heard by such division. Three
+  justices shall constitute a quorum in each division, and the concurrence of three shall be
+  necessary to a decision. Such cases only as may be ordered to be heard by the whole court
+  shall, be considered by all the justices, and the concurrence of four justices shall be
+  necessary to a decision in cases so heard. The justice who is senior in continuous term of
+  service shall be chief justice, and in case two or more have continuously served during the
+  same period the senior in years of these shall be chief justice, and the presiding justice of
+  each division shall be selected from the judges assigned to that division in like manner.
+  The term of office of the justices shall be six years, except as hereinafter provided. The
+  justices in office at the time this amendment takes effect shall hold their offices for the
+  terms for which they were severally elected, and until their successors are elected and
+  qualified. As soon as practicable after the second Monday in January, 1901, the governor
+  shall appoint four justices, to hold their offices until the second Monday in January, 1903.
+  At the general election in 1902 there shall be elected five justices, one of whom shall hold
+  his office for two years, one for four years, and three for six years. At the general election
+  in 1904 and every six years thereafter, two justices shall be elected. At the general election
+  in 1906 and every six years thereafter, two justices shall be elected. At the general election
+  in 1908 and every six years thereafter, three justices shall be elected.
+  
+  *** MEND ***
+  *** MSTART 016 002.0 004.0 0 KS 1859 1902 ***
+  
+  Ratified November 4, 1902
+  
+  SEC. 2. General elections; county and township officers. General elections and township
+  elections shall be held biennially on the Tuesday succeeding the first Monday in November
+  in the years bearing even numbers. All county and township officers shall hold their offices
+  for a term of two years and until their successors are qualified: Provided, One county
+  commissioner shall be elected from each of three districts, numbered 1, 2, and 3, by the
+  voters of the district, and the legislature shall fix the time of election and the term of office
+  of such commissioners; such election to be at a general election, and no term of office to
+  exceed six years. All officers whose successors would, under the law as it existed. at the
+  time of their election, be elected in an odd-numbered year shall hold office for an
+  additional year and until their successors are qualified. No person shall hold the office of
+  sheriff or county treasurer for more than two consecutive terms.
+  
+  *** MEND ***
+  *** MSTART 017 003.0 009.0 0 KS 1859 1902 ***         
+  
+  Ratified November 4, 1902
+  
+  SEC. 3.  REPEALED
+  
+  [Note:  This section related to terms of office of county officers.  In 1902, Article 4,
+  Section 2 was amended to include this matter, which eliminated Article 9, Section 3.]
+  
+  *** MEND ***
+  *** MSTART 018 004.0 009.0 0 KS 1859 1902 ***         
+  
+  Ratified November 4, 1902
+  
+  SEC. 4.  REPEALED
+  
+  [Note:  This section related to terms of office of township officers.  In 1902, Article 4,
+  Section 2 was amended to include this matter, which eliminated Article 9, Section 4.]
+  
+  *** MEND ***
+  *** MSTART 019 004.0 015.0 0 KS 1859 1904 ***
+  
+  Ratified November 8, 1904
+  
+  SEC. 4. State printer; election; term. All public printing shall be done by the state printer,
+  who shall be elected by the people at the election held for state officers in November, 1906,
+  and every two years thereafter, at the elections held for state officers, and shall hold his
+  office for two years and until his successor shall be elected and qualified.
+  
+  *** MEND ***
+  
+  *** MSTART 020 014.0 002.0 0 KS 1859 1904 ***
+  
+  Ratified November 8, 1904
+  
+  SEC. 14.  Signing of bill; veto. Every bill and joint resolution passed by the house of
+  representatives and senate shall, within two days thereafter, be signed by the presiding
+  officers, and presented to the governor; if he approves, he shall sign it; but if not, he shall
+  return it to the house of representatives, which shall enter the objections at large upon its
+  journal and proceed to reconsider the same. If, after such reconsideration, two-thirds of the
+  members elected shall agree to pass the bill or resolution, it shall be sent, with the
+  objections, to the senate, by which it shall likewise be reconsidered, and if approved by       
+  two-thirds of all the members elected, it shall become a law; but in all such cases the vote
+  shall be taken by yeas and nays, and entered upon the journals of each house. If any bill
+  shall not be returned within three days (Sundays excepted) after it shall have been
+  presented to the governor, it shall become a law in like manner as if he had signed it, unless
+  the legislature, by its adjournment, prevent its return, in which case it shall not become a
+  law. If any bill presented to the governor contains several items of appropriation of money,
+  he may object to one or more of such items, while approving the other portion of the bill;
+  in such case he shall append to the bill, at the time of signing it, a statement of the item or
+  items to which he objects, and the reasons therefore, and shall transmit such statement, or a
+  copy thereof, to the house of representatives, and any appropriations so objected to shall
+  not take effect unless reconsidered and approved by two-thirds of the members elected to
+  each house, and, if so reconsidered and approved, shall take effect and become a part of the
+  bill, in which case the presiding officers of each house shall certify on such bill such fact of
+  reconsideration and approval.
+  
+  *** MEND ***
+  *** MSTART 021 017.0 002.0 0 KS 1859 1906 ***
+  
+  Ratified November 6, 1906
+  
+  SEC. 17.  Uniform operation; general and special law. All laws of a general nature shall
+  have a uniform operation throughout the state; and in all cases where a general law can be
+  made applicable, no special law shall be enacted; and whether or not a law enacted is
+  repugnant to this provision of the constitution shall be construed and determined by the
+  courts of the state.
+  
+  *** MEND ***
+  *** MSTART 022 008.0 003.0 0 KS 1859 1906 ***
+  
+  Ratified November 6, 1906
+  
+  SEC. 8. Probate court; fees or salary of judge; judge pro tern. There shall be a probate court
+  in each county, which shall be a court of record, and have such probate jurisdiction and
+  care of estates of deceased persons, minors, and persons of unsound minds, as may be
+  prescribed by law, and shall have jurisdiction in cases of habeas corpus. The court shall
+  consist of one judge, who shall be elected by the qualified voters of the county, and hold
+  his office two years. He shall hold court at such times and receive for compensation such
+  fees or salary as may be prescribed by law. The legislature may provide for the
+  appointment or selection of a probate judge pro tern when the probate judge is unavoidably
+  absent or otherwise unable or disqualified to sit in any case.
+  
+  *** MEND ***
+  *** MSTART 023 002.0 012.0 0 KS 1859 1906 ***         
+  
+  Ratified November 6, 1906
+  
+  SEC.  2. Liability of stockholders. Dues from corporations shall be secured by the
+  individual liability of the stockholders to the amount of stock owned by each stockholder,
+  and such other means as shall be provided by law; but such individual liability shall not
+  apply to railroad corporations nor corporations for religious or charitable purposes.
+  
+  *** MEND ***
+  *** MSTART 024 008.0 005.0 0 KS 1859 1912 ***
+  
+  Ratified November 5, 1912
+  
+  SEC. 8.  Woman suffrage. The rights of citizens of the state of KSnsas to vote and hold
+  office shall not be denied or abridged on account of sex.
+  
+  *** MEND ***
+  *** MSTART 025 003.0 004.0 0 KS 1859 1914 ***
+  
+  Ratified November 3, 1914  
+  
+  SEC. 3. Recall of officers. Every public officer holding either by election or appointment is
+  subject to recall from office by a majority of the electors of the state or lesser electoral
+  division for which elected or appointed, voting on the subject at any general or special
+  election, but the provisions hereof shall not be deemed exclusive of other remedies for
+  removal from office.
+  
+  *** MEND ***
+  *** MSTART 026 004.0 004.0 0 KS 1859 1914 ***
+  
+  Ratified November 3, 1914
+  
+  SEC. 4.  Same; petitions; proclamation of election; election; reasons for recall.  An election
+  for recall shall be upon petitions signed by at least ten percent (10%) of the electors of the
+  state, qualified to sign, for the recall of any state officer; by fifteen percent (15%) of the
+  electors for the recall of an officer elected 1oy a district less than a state and greater than a
+  county; or, from an officer who was appointed by him; and by twenty-five percent (25%) of
+  the electors qualified to sign; for the recall of an officer elected in a county; district or
+  municipality within the county, or an officer who was appointed by any such officer
+  elected. Any petition for recall shall certify that the signers thereto are citizens of the
+  United States of America and voted for the officer to be recalled, if elected; or, for the
+  officer who appointed him if appointed, at the last preceding election at which such officer
+  was elected. The petition shall be filed with the authority for calling elections in the state or
+  other electoral divisions, at least ninety days before the date of election, and the election
+  held thereon shall be called within thirty days after filing petition, and be proclaimed at
+  least sixty days before the date of holding. The petition and proclamation of election shall
+  state in not more than two hundred words the reasons for the recall.
+  
+  *** MEND ***
+  *** MSTART 027 005.0 004.0 0 KS 1859 1914 ***
+  
+  Ratified November 3, 1914
+  
+  SEC. 5. Same; recall ballot; canvassing returns; filling of vacancy. The recall ballot shall
+  be, Shall the named officer holding the named office be recalled, and the provisions of law
+  for holding, canvassing and certifying returns of general elections shall apply to recall
+  elections, and if the vote be in favor of the recall a vacancy in the office shall exist, to be
+  filled as authorized by law.
+  
+  *** MEND ***
+  *** MSTART 028 001.0 005.0 0 KS 1859 1918 ***
+  
+  Ratified November 5, 1918
+                                              
+  SEC. 1. Qualifications of elector. Every citizen of the United States of the age of twenty-
+  one years and upwards who shall have resided in Kansas six months next preceding any
+  election, and in the township or ward in which he or she offers to vote, at least thirty days
+  next preceding such election shall be deemed a qualified elector.
+  
+  *** MEND ***
+  *** MSTART 029 010.0 006.0 0 KS 1859 1918 ***
+  
+  Ratified November 5, 1918
+  
+  SEC. 10. Tax levy for state educational institutions. The legislature may levy a permanent
+  tax for the use and benefit of the state educational institutions and apportion among and
+  appropriate the same to the several institutions, which levy, apportionment and
+  appropriation shall continue until changed by statute. Nothing herein contained shall
+  prevent such further appropriation by the legislature as may be deemed necessary from
+  time to time for the needs of said state educational institutions.
+  
+  *** MEND ***
+  *** MSTART 030 008.0 011.0 0 KS 1859 1920 ***
+  
+  Ratified November 2, 1920
+  
+  SEC.  8.  The state shall never be a party in carrying on any works of internal
+  improvements except to aid in the construction of roads and highways and the
+  reimbursement for the cost of permanent improvements of roads and highways, constructed
+  after March 1, 1919; but such aid and reimbursement shall not be granted in any county for
+  more than 25 percent of the cost of such road or highway, nor for more than ten thousand
+  dollars per mile, nor for more than one hundred miles in any one county; except, that in
+  counties having an assessed valuation of more than one hundred million dollars such aid
+  and reimbursement may be granted for not more than one hundred fifty miles of road or
+  highway; and the restrictions and limitations of sections 5 and 6 of article XI of the
+  constitution, relating to debts and internal improvements, shall not be construed to limit the
+  authority retained or conferred by this amendment.
+  
+  *** MEND ***
+  *** MSTART 031 011.0 015.0 0 KS 1859 1920 ***
+  
+  Ratified November 2, 1920
+  
+  SEC. 11. State aid in purchase of farm homes. To encourage the purchase, improvements
+  and ownership of agricultural lands and the occupancy and cultivation thereof, provision
+  may be made by law for the creation and maintenance of a fund, in such manner and
+  amount as the legislature may determine, to be used in the purchase; improvement and sale
+  of lands for agricultural purposes.
+  The legislature may provide reasonable preferences for those persons who served in
+  the army and navy of the United States in the World War and holding an honorable
+  discharge therefrom.
+  
+  *** MEND ***
+  *** MSTART 032 001.0 011.0 0 KS 1859 1924 ***
+  
+  Ratified November 4, 1924
+  
+  SEC. 1. System of taxation; classification; exemption. The legislature shall provide for a
+  uniform and equal rate of assessment and taxation, except that mineral products, money,
+  mortgages, notes and other evidence of debt may be classified and taxed uniformly as to
+  class as the legislature shall provide.  All property used exclusively for state, county,
+  municipal, literary, educational, scientific, religious, benevolent and charitable purposes,
+  and personal property to the amount of at least two hundred dollars for each family, shall   
+  be exempted from taxation.
+  
+  *** MEND ***
+  *** MSTART 033 002.0 011.0 0 KS 1859 1924 ***
+  
+  Ratified November 4, 1924
+  
+  SEC. 2.  Repealed
+  
+  [Note:  This sections originally provided for raising revenue for expenses.  Article 11,
+  Section 1 was amended in 1924 to include this matter, which eliminated Article 11, Section
+  2.]
+  
+  *** MEND ***
+  *** MSTART 034 008.0 011.0 0 KS 1859 1928 ***
+  
+  Ratified November 6, 1928
+  
+  SEC. 8.  The state shall never be a party in carrying on any work of internal improvement
+  except that it may adopt, construct, reconstruct and maintain a state system of highways,
+  but no general property tax shall ever be laid nor bonds issued by the state for such
+  highways.
+  
+  *** MEND ***
+  *** MSTART 035 009.0 011.0 0 KS 1859 1928 ***         
+  
+  Ratified November 6, 1928
+           
+  SEC. 9. Special taxes for highway purposes. The state shall have power to levy special       
+  taxes, for road and highway purposes, on motor vehicles and on motor fuels.
+  
+  *** MEND ***
+  *** MSTART 036 002.0 011.0 0 KS 1859 1932 ***         
+  
+  Ratified November 8, 1932
+  
+  SEC.  2.  Taxation of incomes.  The state shall have power to levy and collect taxes on
+  incomes from whatever source derived, which taxes may be graduated and progressive.
+  
+  [Note:  The original Article 11, Section 2 was eliminated in 1924.  This is a new section
+  that was added in 1932 and numbered as Section 2.  The rest of Article 11 was
+  subsequently renumbered to accommodate this addition.]
+   
+  *** MEND ***
+  *** MSTART 037 003.0 011.0 0 KS 1859 1932 ***         
+  
+  Ratified November 8, 1932
+  
+  SEC. 3.  REPEALED
+  
+  [Note:  This was originally Article 11, Section 2.  It was eliminated in 1924, but
+  renumbered in 1932 due to the insertion of a new Section 2.]
+  
+  *** MEND ***
+  *** MSTART 038 004.0 011.0 0 KS 1859 1932 ***         
+  
+  Ratified November 8, 1932
+  
+  SEC. 4.  Revenue for current expenses.  The legislature shall provide, at each regular
+  session, for raising sufficient revenue to defray the current expenses of the state for two
+  years.
+  
+  [Note:  Originally adopted as Article 11, Section 3.  It was renumbered in 1932 due to the
+  insertion of a new Section 2, but the text was not altered.]
+  
+  *** MEND ***
+  *** MSTART 039 005.0 011.0 0 KS 1859 1932 ***         
+  
+  Ratified November 8, 1932
+  
+  SEC. 5.  Object of tax.  No tax shall be levied except in pursuance of a law, which shall
+  distinctly state the object of the same; to which object only such tax shall be applied.
+  
+  [Note:  Originally adopted as Article 11, Section 4.  It was renumbered in 1932 due to the
+  insertion of a new Section 2, but the text was not altered.]
+  
+  *** MEND ***
+  *** MSTART 040 006.0 011.0 0 KS 1859 1932 ***         
+  
+  Ratified November 8, 1932
+  
+  SEC. 6. State debts; annual tax; proceeds. For the purpose of defraying extraordinary
+  expenses and making public improvements, the state may contract public debts; but such
+  debts shall never, in the aggregate, exceed one million dollars, except as hereinafter
+  provided. Every such debt shall be authorized by law for some purpose specified therein,
+  and the vote of a majority of all the members elected to each house, to be taken by the yeas
+  and nays, shall be necessary to the passage of such law; and every such law shall provide
+  for levying an annual tax sufficient to pay the annual interest of such debt, and the principal
+  thereof, when it shall become due; and shall specifically appropriate the proceeds of such
+  taxes to the payment of such principal and interest; and such appropriation shall not be
+  repealed nor the taxes postponed or diminished, until the interest and principal of such debt
+  shall have been wholly paid.
+  
+  [Note:  Originally adopted as Article 11, Section 5.  It was renumbered in 1932 due to the
+  insertion of a new Section 2, but the text was not altered.]
+  
+  *** MEND ***
+  *** MSTART 041 007.0 011.0 0 KS 1859 1932 ***         
+  
+  Ratified November 8, 1932
+  
+  SEC. 7.  Election on indebtedness. No debt shall be contracted by the state except as herein
+  provided, unless the proposed law for creating such debt shall first be submitted to a direct
+  vote of the electors of the state at some general election; and if such proposed    law shall
+  be ratified by a majority of all the votes cast at such general election, then it shall      be the
+  duty of the legislature next after such election to enact such law and create such debt,
+  subject to all the provisions and restrictions provided in the preceding section of this      
+  article.
+  
+  [Note:  Originally adopted as Article 11, Section 6.  It was renumbered in 1932 due to the
+  insertion of a new Section 2, but the text was not altered.]
+  
+  *** MEND ***
+  *** MSTART 042 008.0 011.0 0 KS 1859 1932 ***         
+  
+  Ratified November 8, 1932
+  
+  SEC. 8.  Borrowing money by state. The state may borrow money to repel invasion,
+  suppress insurrection, or defend the state in time of war; but the money thus raised, shall be
+  applied exclusively to the object for which the loan was authorized, or to the repayment of
+  the debt thereby created.
+  
+  [Note:  Originally adopted as Article 11, Section 7.  It was renumbered in 1932 due to the
+  insertion of a new Section 2, but the text was not altered.]
+  
+  *** MEND ***
+  *** MSTART 043 009.0 011.0 0 KS 1859 1932 ***
+  
+  Ratified November 8, 1932
+  
+  SEC. 9.  The state shall never be a party in carrying on any work of internal improvement
+  except that it may adopt, construct, reconstruct and maintain a state system of highways,
+  but no general property tax shall ever be laid nor bonds issued by the state for such
+  highways.
+  
+  [Note:  Originally adopted as Article 11, Section 8, which was amended in 1920 and 1928. 
+  It was renumbered in 1932 due to the insertion of a new Section 2, but the text was not
+  altered from the 1928 revision.]
+  
+  *** MEND ***
+  *** MSTART 044 010.0 011.0 0 KS 1859 1932 ***
+  
+  Ratified November 8, 1932
+  
+  SEC. 10. Special taxes for highway purposes. The state shall have power to levy special       
+  taxes, for road and highway purposes, on motor vehicles and on motor fuels.
+  
+  [Note:  Originally adopted as Article 11, Section 9 in 1928.  It was renumbered in 1932 due
+  to the insertion of a new Section 2, but the text was not altered.]
+  
+  *** MEND ***
+  *** MSTART 045 004.0 007.0 0 KS 1859 1936 ***
+  
+  Ratified November 3, 1936
+  
+  SEC. 4. Aged and infirm persons; state participation. The respective counties of the state
+  shall provide, as may be prescribed by law, for those inhabitants who, by reason of age,
+  infirmity or other misfortune, may have claims upon the sympathy and aid of society:
+  Provided, however, The state may participate financially in such aid and supervise and
+  control the administration thereof.
+  
+  *** MEND ***
+  *** MSTART 046 005.0 007.0 0 KS 1859 1936 ***
+  
+  Ratified November 3, 1936
+  
+  SEC. 5. Unemployment compensation; old-age benefits; taxation. The state may provide by
+  law for unemployment compensation and contributory old-age benefits and may tax
+  employers and employees therefor; and the restrictions and limitations of section 24 of
+  article 2, and section 1 of article 11 of the constitution shall not be construed to limit the
+  authority conferred by this amendment. No direct ad valorem tax shall be laid on real or
+  personal property for such purposes.
+  
+  *** MEND ***
+  *** MSTART 047 002.0 015.0 0 KS 1859 1940 ***         
+  
+  Ratified November 5, 1940
+  
+  SEC. 2.  Tenure of office; merit system in civil service. The tenure of any office not herein
+  provided for may be declared by law; when not so declared, such office shall be held
+  during the pleasure of the authority making appointment, but the legislature shall not create
+  any office the tenure of which shall be longer than four years, except that appointments
+  under a merit system in civil service shall not be subject to such limitation. The legislature
+  may make provisions for a merit system under which appointments and promotions in the
+  civil service of this state and all civil divisions thereof, shall be made according to merit
+  and fitness, to be determined, so far as practicable, by examination, which, so far as
+  practicable, shall be competitive.
+  
+  *** MEND ***
+  *** MSTART 048 009.0 015.0 0 KS 1859 1944 ***         
+  
+  Ratified November 7, 1944
+  
+  SEC. 9. Homestead exemption. A homestead to the extent of one hundred and sixty acres    
+  of farming land, or of one acre within the limits of an incorporated town or city, occupied
+  as a residence by the family of the owner, together with all the improvements on the same,
+  shall be exempted from forced sale under any process of law, and shall not be alienated
+  without the joint consent of husband and wife, when that relation exists; but no property
+  shall be exempt from sale for taxes, or for the payment of obligations contracted for the
+  purchase of said premises, or for the erection of improvements thereon: Provided, That
+  provisions of this section shall not apply to any process of law obtained by virtue of a lien
+  given by the consent of both husband and wife: And provided further, That the legislature
+  by an appropriate act or acts, clearly framed to avoid abuses, may provide that when it is
+  shown the husband or wife while occupying a homestead is adjudged to be insane, the duly
+  appointed guardian of the insane spouse may be authorized to join with the sane spouse in
+  executing a mortgage upon the homestead, renewing or refinancing an encumbrance
+  thereon which is likely to cause its loss, or in executing a lease thereon authorizing the
+  lessee to explore and produce therefrom oil, gas, coal, lead, zinc, or other minerals.
+  
+  *** MEND ***
+  *** MSTART 049 009.0 002.0 0 KS 1859 1946 ***
+  
+  Ratified November 5, 1946
+  
+  SEC. 9. Vacancies in legislature. All vacancies occurring in either house shall be filled in
+  such manner as the legislature shall provide.
+  
+  *** MEND ***
+  *** MSTART 050 010.0 015.0 0 KS 1859 1948 ***
+  
+  Ratified November 2, 1948
+  
+  SEC. 10. Intoxicating liquors. The legislature may provide for the prohibition of
+  intoxicating liquors in certain areas. Subject to the foregoing, the legislature may regulate,
+  license and tax the manufacture and sale of intoxicating liquors, and may regulate the
+  possession and transportation of intoxicating liquors. The open saloon shall be and is
+  hereby forever prohibited.
+  
+  *** MEND ***
+  *** MSTART 051 013.0 003.0 0 KS 1859 1948 ***
+  
+  Ratified November 2, 1948
+  
+  SEC. 13.  Compensation of supreme court justices and district court judges. The justices of
+  the supreme court and judges of the district courts shall receive for their services such
+  compensation as may be provided by law, which law shall become effective on the second
+  Monday in January of the next odd-numbered year after its enactment, and such justices or
+  judges shall receive no fees or perquisites nor hold any other office of profit or trust under
+  the authority of the state, or the United States, nor practice law in any of the courts in the
+  state during their continuance in office.
+  
+  *** MEND ***
+  *** MSTART 052 003.0 002.0 0 KS 1859 1948 ***
+  
+  Ratified November 2, 1948 
+  
+  SEC. 3. Compensation of members. The members of the legislature shall receive as
+  compensation for their services and as reimbursement for their expenses as follows: (a)
+  The sum of five dollars for each day's actual service at any regular or special session; not
+  to exceed the total sum of $300 for any regular session, or $150 for any special session; (b)
+  a sum for expenses, to be fixed by law, of not to exceed seven dollars per calendar day; and
+  (c) fifteen cents for each mile traveled by the usual route in going to and returning from the
+  place of meeting.
+  
+  *** MEND ***
+  *** MSTART 053 006.0 007.0 0 KS 1859 1952 ***
+  
+  Ratified November 4, 1952
+  
+  SEC.  6. Tax levy for certain benevolent and charitable institutions. The legislature may
+  levy a permanent tax for the creation of a building fund for institutions caring for the
+  insane, blind, and deaf and dumb, and the legislature shall apportion among and
+  appropriate the same to the several institutions, which levy, apportionment and
+  appropriation shall continue until changed by statute. Nothing herein contained shall
+  prevent such further appropriation by the legislature as may be deemed necessary from
+  time to time for the needs of said charitable and benevolent institutions.
+  
+  *** MEND ***
+  *** MSTART 054 017.0 002.0 0 KS 1859 1954 ***
+  
+  Ratified November 2, 1954
+  
+  SEC. 17. Uniform operation of laws of a general nature; special laws; urban areas. All laws
+  of a general nature shall have a uniform operation throughout the state; and in all cases
+  where a general law can be made applicable, no special law shall be enacted; and whether
+  or not a law enacted is repugnant to this provision of the constitution shall be construed
+  and determined by the courts of the state: Provided, The legislature may designate areas in
+  counties that have become urban in character as "urban areas" and enact special laws
+  giving to such counties or urban areas such powers of local government and consolidation
+  of local government as the legislature may deem proper.
+  
+  *** MEND ***
+  *** MSTART 055 025.0 002.0 0 KS 1859 1954 ***
+  
+  Ratified November 2, 1954
+  
+  SEC. 25.  Sessions at capital; convening dates; duration and scope of budget sessions. All
+  sessions of the legislature shall be held at the state capital, and beginning with the session
+  of eighteen hundred and seventy-seven, all regular sessions shall be held once in two years,
+  commencing on the second Tuesday of January of each alternate year thereafter. Beginning
+  with the year 1956, budget sessions of not to exceed thirty calendar days in duration shall
+  be held, commencing on the second Tuesday in January, and each even-numbered year
+  thereafter, at which the legislature shall consider only the governor's budget report,
+  appropriation bills for the succeeding fiscal year, revenue bills necessary therefor, and such
+  bills, resolutions or motions as may be necessary to provide for the expenses and conduct
+  of the budget session.
+  
+  *** MEND ***
+  *** MSTART 056 002.0 003.0 0 KS 1859 1958 ***
+  
+  Ratified November 4, 1958
+  
+  SEC. 2. (a) Supreme court. The supreme court shall consist of seven justices who shall be
+  selected as provided by this section. All cases shall be heard by the whole court with not
+  fewer than four justices sitting, and the concurrence of four justices shall be necessary to a
+  decision. The term of office of the justices shall be six years, except as hereinafter
+  provided. The justice who is senior in continuous term of service shall be chief justice, and
+  in case two or  more have continuously served during the same period the senior in age of    
+      these shall be chief justice.
+  (b)  District courts. The state shall be divided into judicial districts as provided by
+  law. Each judicial district shall have at least one district judge. The term of office of each
+  judge of the district court shall be four years.  District court shall be held at such times and
+  places as may be provided by law. The district judges shall be elected by the electors of the
+  respective  judicial districts. Whenever a vacancy shall occur in the office of district judge,
+  it shall be filled by appointment by the governor until the next general election that shall
+  occur more than thirty days after such vacancy.
+  (c)  Residence requirements. All judicial officers provided for by article 3 of the
+  constitution shall reside in their respective townships, counties or districts at the time of
+  their, nomination, selection or election and during their respective terms of office.
+  (d)  Filling of vacancies in, and appointments to, supreme court. (1) Any vacancy
+  occurring in the office of any justice of the supreme court, and any position to be open in
+  the supreme court as the result of retirement, or failure of the incumbent to file his
+  declaration of candidacy to succeed himself as hereinafter required, or failure of a justice to
+  be elected to succeed himself, shall be filled by appointment by the governor of one of
+  three persons possessing the qualifications of office, who shall be nominated and whose
+  names shall be submitted to the governor by the supreme court nominating commission      
+  established as hereinafter provided.
+  (2)  In the event of the failure of the governor to make the appointment within sixty
+  days from the time the names of the nominees are submitted to him, the chief justice of the
+  supreme court shall make the appointment from such nominees.
+  (e)  Tenure of supreme court justices; declaration of candidacy; form of ballot;
+  rejection and retention. Each justice of the supreme court appointed pursuant to the
+  provisions of subsection (d) (1) of this section shall hold office for an initial term ending
+  on the second Monday in January following the next general election after the expiration of
+  twelve months in office. Any justice holding office at the time the provisions of this section
+  become applicable to his office, shall, unless removed for cause, remain in office for the
+  term or unexpired term to which he was elected or appointed. Not less than sixty days prior
+  to the holding of the general election next preceding the expiration of his term of office,
+  any justice of the supreme court may file in the office of the secretary of state a declaration
+  of candidacy for election to succeed himself.  If a declaration is not so filed the position
+  held by such justice shall be open from the expiration of his term of office. If such
+  declaration is filed his name shall be submitted at the next election to the electors of the
+  state on a separate judicial ballot, without party designation, reading substantially as
+  follows:  
+  Shall    (Here insert name of justice.)  (Here insert the title of the court.)  be retained
+  in office?
+  If a majority of those voting on the question vote against retaining him in office, the
+  position or office which he holds shall be open upon the expiration of his term of office;
+  otherwise he shall, unless removed for cause, remain in office for the regular term of six
+  years, from the second Monday in January following such election. At the expiration of
+  each term, he shall, unless by law he is compelled to retire, be eligible for retention in
+  office by election in the manner prescribed in this section.
+  (f)  Supreme court nominating commission. (1) A nonpartisan nominating
+  commission whose duty it shall be to nominate and submit to the governor names of
+  persons for appointment to fill vacancies in the office of any justice of the supreme court is
+  hereby established, and shall be known as the "supreme court nominating commission."
+  Said commission shall be organized as hereinafter provided.
+  (2)  The supreme court nominating commission shall be composed as follows: One
+  member, who shall be chairman, chosen from among their number by the members of the
+  bar who are residents of and licensed in Kansas; one member from each congressional
+  district chosen from among their number by the resident members of the bar in the district;
+  and one member, who is not a lawyer, from each congressional district, appointed by the
+  governor from among the residents of the district.
+  (3)  The terms of office, the procedure for selection and certification of the
+  members of the commissions and provision for their compensation or expenses shall be as
+  provided by the legislature.
+              (4)  No member of the supreme court nominating commission shall, while he is a
+  member, hold any other public office by appointment or any official position in a political
+  party or for six months thereafter be eligible for nomination for the office of justice of the
+  supreme court. The commission may act only by the concurrence of a majority of its
+  members.
+              (g)  Implementing legislation. The legislature shall, at the next regular session after
+  the election at which this amendment is adopted by the electors of the state, enact such
+  laws as may be appropriate to make all the provisions of this section effective in operation.
+              (h)  Qualifications of justices and judges. Justices of the supreme court and judges
+  of the district courts shall be at least thirty years of age and shall be duly authorized by the
+  supreme court of Kansas to practice law in the courts of this state, and shall possess such
+  other qualifications as may be prescribed by law.
+              (i)  Prohibition of political activity by justices of the supreme court. No justice of
+  the supreme court who is appointed or retained under the procedure of paragraphs (1) and
+  (2) of subsection (d) and subsections (e) and (f) of this section shall directly or indirectly
+  make any contribution to or hold any office in a political party or organization or take part
+  in any political campaign.
+  (1)  Effective dates. Except for subsection (g) of this section, this amendment shall
+  become effective July 1, 1959. Subsection (g) of this section shall become effective
+  immediately upon the adoption of this amendment by the electors of the state.
+  
+  *** MEND ***
+  *** MSTART 057 005.0 003.0 0 KS 1859 1958 ***
+  
+  Ratified November 4, 1958
+  
+  SEC. 5.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 058 011.0 003.0 0 KS 1859 1958 ***
+  
+  Ratified November 4, 1958
+  
+  SEC. 11. REPEALED
+  
+  *** MEND ***
+  *** MSTART 059 018.0 003.0 0 KS 1859 1958 ***
+  
+  Ratified November 4, 1958
+  
+  SEC. 18. REPEALED
+  
+  *** MEND ***
+  *** MSTART 060 009.0 011.0 0 KS 1859 1958 ***
+  
+  Ratified November 4, 1958
+  
+  SEC. 9.  Internal improvements; state highway system; flood control, conservation and
+  development of water resources. The state shall never be a party in carrying on any work of
+  internal improvement except that: (1) It may adopt, construct, reconstruct and maintain a
+  state system of highways, but no general property tax shall ever be laid nor general
+  obligation bonds issued by the state for such highways; (2) it may be a party to flood
+  control works and works for the conservation or development of water resources.
+  
+  *** MEND ***
+  *** MSTART 061 012.0 015.0 0 KS 1859 1958 ***         
+  
+  Ratified November 4, 1958
+  
+  SEC. 12.  Membership or nonmembership in labor organizations. No person shall be
+  denied the opportunity to obtain or retain employment because of membership or
+  nonmembership in any labor organization, nor shall the state or any subdivision thereof, or
+  any individual, corporation, or any kind of association enter into any agreement, written or
+  oral, which excludes any person from employment or continuation of employment because
+  of membership or nonmembership in any labor organization.
+  
+  *** MEND ***
+  *** MSTART 062 005.0 012.0 0 KS 1859 1960 ***         
+  
+  Ratified November 8, 1960
+  
+  SEC. 5. Cities' powers of home rule. (a) The legislature shall provide by general law,
+  applicable to all cities, for the incorporation of cities and the methods by which city
+  boundaries may be altered, cities may be merged or consolidated and cities may be
+  dissolved: Provided, That existing laws on such subjects not applicable to all cities on the
+  effective date of this amendment shall remain in effect until superseded by general law and
+  such existing laws shall not be subject to charter ordinance.
+  (b) Cities are hereby empowered to determine their local affairs and government
+  including the levying of taxes, excises, fees, charges and other exactions except when and    
+    as the levying of any tax, excise, fee, charge or other exaction is limited or prohibited by    
+      enactment of the legislature applicable uniformly to all cities of the same class:
+  Provided, That the legislature may establish not to exceed four classes of cities for the
+  purpose of imposing all such limitations or prohibitions. Cities shall exercise such
+  determination by ordinance passed by the governing body with referendums only in such
+  cases as prescribed by the legislature, subject only to enactments of the legislature of
+  statewide concern applicable uniformly to all cities, to other enactments of the legislature
+  applicable uniformly to all cities, to enactments of the legislature applicable uniformly to
+  all cities of the same class limiting or prohibiting the levying of any tax, excise, fee, charge
+  or other exaction and to enactments of the legislature prescribing limits of indebtedness.
+  All enactments relating to cities now in effect or hereafter enacted and as later amended
+  and until repealed shall govern cities except as cities shall exempt themselves by charter
+  ordinances as herein provided for in subsection (c).
+  (c)  (1) Any city may by charter ordinance elect in the manner prescribed in this
+  section that the whole or any part of any enactment of the legislature applying to such city,
+  other than enactments of statewide concern applicable uniformly to all cities, other
+  enactments applicable uniformly to all cities, and enactments prescribing limits of
+  indebtedness, shall not apply to such city.
+              (2)   A charter ordinance is an ordinance which exempts a city from the whole or
+  any part of any enactment of the legislature as referred to in this section and which may
+  provide substitute and additional provisions on the same subject. Such charter ordinance
+  shall be so titled, shall designate specifically the enactment of the legislature or part thereof
+  made inapplicable to such city by the adoption of such ordinance and contain the substitute
+  and additional provisions, if any, and shall require a two-thirds vote of the members-elect
+  of the governing body of such city. Every charter ordinance shall be published once each
+  week for two consecutive weeks in the official city newspaper or, if there is none, in a
+  newspaper of general circulation in the city.
+              (3)   No charter ordinance shall take effect until sixty days after its final publication.
+  If within sixty days of its final publication a petition signed by a number of electors of the
+  city equal to not less than ten percent of the number of electors who voted at the last
+  preceding regular city election shall be filed in the office of the clerk of such city
+  demanding that such ordinance be submitted to a vote of the electors, it shall not take effect
+  until submitted to a referendum and approved by a majority of the electors voting thereon.
+  An election, if called, shall be called within thirty days and held within ninety days after
+  the filing of the petition. The governing body shall pass an ordinance calling the election
+  and fixing the date, which ordinance shall be published once each week for three
+  consecutive weeks in the official city newspaper or, if there be none, in a newspaper of
+  general circulation in the city, and the election shall be conducted as elections for officers
+  and by the officers handling such elections. The proposition shall be: "Shall charter
+  ordinance No._____ , entitled (title of ordinance) take effect?" The governing body may
+  submit any charter ordinance to a referendum without petition by the same publication of
+  the charter ordinance and the same publication of the ordinance calling the election as for
+  ordinances upon petition and such charter ordinance shall then become effective when
+  approved by a majority of the electors voting thereon. Each charter ordinance becoming
+  effective shall be recorded by the clerk in a book maintained for that purpose with a
+  statement of the manner of adoption and a certified copy shall be filed with the secretary of
+  state, who shall keep an index of the same.
+              (4) Each charter ordinance enacted shall control and prevail over any prior or
+  subsequent act of the governing body of the city and may be repealed or amended only by    
+     charter ordinance or by enactments of the legislature applicable to all cities.
+  (d) Powers and authority granted cities pursuant to this section shall be liberally
+  construed for the purpose of giving to cities the largest measure of self-government.
+              (e) This amendment shall be effective on and after July 1, 1961.
+  
+  *** MEND ***
+  *** MSTART 063 013.0 015.0 0 KS 1859 1960 ***         
+  
+  Ratified November 8, 1960
+  
+  SEC.  13. Continuity of state and local governmental operations. Notwithstanding any      
+  general or special provision of this constitution, the legislature, in order to insure continuity
+  of state and local governmental operations in periods of emergency resulting from disasters
+  caused by enemy attack, shall have the power and the immediate duty (1) to provide for
+  prompt and temporary succession to the powers and duties of public offices, of whatever
+  nature and whether filled by election or appointment, the incumbents of which may become
+  unavailable for carrying on the powers and duties of such offices, and (2) to adopt such
+  other measures as may be necessary and proper for insuring the continuity of governmental
+  operations including, but not limited to, the financing thereof.  In the exercise of the
+  powers hereby conferred the legislature shall in all respects conform to the requirements of
+  this constitution except to the extent that in the judgment of the legislature so to do would
+  be impracticable or would admit of undue delay.
+  
+  *** MEND ***
+  *** MSTART 064 003.0 002.0 0 KS 1859 1962 ***
+  
+  Ratified November 6, 1962
+  
+  SEC. 3. Compensation of members. The members of the legislature shall receive such
+  compensation as may be provided by law.
+  
+  *** MEND ***
+  *** MSTART 065 001.0 005.0 0 KS 1859 1962 ***
+  
+  Ratified November 6, 1962
+  
+  SEC. 1.  Qualifications of elector. Every citizen of the United States of the age of twenty-
+  one (21) years and upwards who shall have resided in Kansas six (6) months next
+  preceding any election, and in the township or ward in which he or she offers to vote, at
+  least thirty (30) days next preceding such election shall be deemed a qualified elector:
+  Provided, The legislature may provide that a citizen of the United States of the age of
+  twenty-one (21) years and upwards, who shall have resided in Kansas in the township or
+  ward in which he or she offers to vote, at least forty-five (45) days next preceding any
+  general election, may vote for presidential electors and candidates for the offices of
+  president and vice-president of the United States.
+  
+  *** MEND ***
+  *** MSTART 066 002.0 004.0 0 KS 1859 1964 ***
+  
+  Ratified November 3, 1964
+  
+  SEC. 2. General elections; county and township officers. General elections and     
+  township elections shall be held biennially on the Tuesday succeeding the first Monday in
+  November in the years bearing even numbers. All county and township officers shall hold
+  their offices for a term of two years and until their successors are qualified: Provided, One
+  county commissioner shall be elected from each of three districts, numbered 1, 2, and 3, by
+  the voters of the district, and the legislature shall fix the time of election and the term of
+  office of such commissioners; such election to be at a general election, and no term of
+  office to exceed six years. All officers whose successors would, under the law as it existed
+  at the time of their election, be elected in an odd-numbered year shall hold office for an
+  additional year and until their successors are qualified. No person shall hold the office of
+  county treasurer for more than two consecutive terms.
+  
+  *** MEND ***
+  *** MSTART 067 001.0 011.0 0 KS 1859 1964 ***
+  
+  Ratified November 3, 1964
+  
+  SEC. 1.  System of taxation; classification; exemption. The legislature shall provide for a
+  uniform and equal rate of assessment and taxation, except that mineral products, money,
+  mortgages, notes and other evidence of debt may be classified and taxed uniformly as to
+  class as the legislature shall provide.  All property used exclusively for state, county,
+  municipal, literary, educational, scientific, religious, benevolent and charitable purposes,
+  and all household goods and personal effects not used for the production of income, be   
+  exempted from taxation.
+  
+  *** MEND ***
+  *** MSTART 068 025.0 002.0 0 KS 1859 1966 ***
+  
+  Ratified November 8, 1966
+  
+  SEC.  25. Sessions at capital; convening dates. All sessions of the legislature shall be held
+  at the state capital, and beginning with the year 1967, regular sessions shall be held
+  annually, commencing on the second Tuesday of January of each year.
+  The duration of regular sessions held in even-numbered years shall not exceed sixty
+  calendar days. Such sessions may be extended beyond sixty calendar days by an affirmative
+  vote of two-thirds of the members elected to each house. Bills, joint and concurrent
+  resolutions under consideration by the legislature upon adjournment of a regular session
+  held in an odd-numbered year may be considered at the next succeeding regular session
+  held in an even-numbered year, as if there had been no such adjournment.
+  
+  *** MEND ***
+  *** MSTART 069 001.0 006.0 0 KS 1859 1966 ***
+  
+  Ratified November 8, 1966
+  
+  SEC. 1.  Schools and related institutions and activities. The legislature shall provide for
+  intellectual, educational, vocational and scientific improvement by establishing and
+  maintaining public schools, educational institutions and related activities which may be
+  organized and changed in such manner as may be provided by law.
+  
+  *** MEND ***
+  *** MSTART 070 002.0 006.0 0 KS 1859 1966 ***
+  
+  Ratified November 8, 1966
+  
+  SEC. 2.  State board of education and state board of regents. (a) The legislature shall
+  provide for a state board of education which shall have general supervision of public
+  schools, educational institutions and all the educational interests of the state, except
+  educational functions delegated by law to the state board of regents. The state board of
+  education shall perform such other duties as may be provided by law.
+  (b) The legislature shall provide for a state board of regents and for its control and
+  supervision of public institutions of higher education. Public institutions of higher
+  education shall include universities and colleges granting baccalaureate or
+  postbaccalaureate degrees and such other institutions and educational interests as may be
+  provided by law. The state board of regents shall perform such other duties as may be
+  prescribed by law.
+  (c) Any municipal university shall be operated, supervised and controlled as
+  provided by law.
+  
+  *** MEND ***
+  *** MSTART 071 003.0 006.0 0 KS 1859 1966 ***
+  
+  Ratified November 8, 1966
+            
+  SEC. 3. Members of state board of education and state board of regents. (a) There shall be
+  ten members of the state board of education with overlapping terms as the legislature may
+  prescribe. The legislature shall make provision for ten member districts, each comprised of
+  four contiguous senatorial districts. The electors of each member district shall elect one
+  person residing in the district as a member of the board. The legislature shall prescribe the
+  manner in which vacancies occurring on the board shall be filled.
+  (b) The state board of regents shall have nine members with overlapping terms as
+  the legislature may prescribe. Members shall be appointed by the governor, subject to
+  confirmation by the senate. One member shall be appointed from each congressional
+  district with the remaining members appointed at large, however, no two members shall
+  reside in the same county at the time of their appointment. Vacancies occurring on the
+  board shall be filled by appointment by the governor as provided by law.
+  (c) Subsequent redistricting shall not disqualify any member of either board from
+  service for the remainder of his term. Any member of either board may be removed from
+  office for cause as may be provided by law.
+   
+  *** MEND ***
+  *** MSTART 072 004.0 006.0 0 KS 1859 1966 ***
+  
+  Ratified November 8, 1966
+  
+  SEC. 4. Commissioner of education. The state board of education shall appoint a
+  commissioner of education who shall serve at the pleasure of the board as its executive
+  officer.
+  
+  *** MEND ***
+  *** MSTART 073 005.0 006.0 0 KS 1859 1966 ***
+  
+  Ratified November 8, 1966
+           
+  SEC. 5. Local public schools. Local public schools under the general supervision of the
+  state board of education shall be maintained, developed and operated by locally elected      
+  boards. When authorized by law, such boards may make and carry out agreements for
+  cooperative operation and administration of educational programs under the general      
+  supervision of the state board of education, but such agreements shall be subject to
+  limitation, change or termination by the legislature.
+  
+  *** MEND ***
+  *** MSTART 074 006.0 006.0 0 KS 1859 1966 ***
+  
+  Ratified November 8, 1966
+          
+  SEC. 6. Finance. (a) The legislature may levy a permanent tax for the use and benefit of
+  state institutions of higher education and apportion among and appropriate the same to the
+  several institutions, which levy, apportionment and appropriation shall continue until
+  changed by statute. Further appropriation and other provision for finance of institutions of
+  higher education may be made by the legislature.
+  (b) The legislature shall make suitable provision for finance of the educational
+  interests of the state. No tuition shall be charged for attendance at any public school to
+  pupils required by law to attend such school, except such fees or supplemental charges as
+  may be authorized by law. The legislature may authorize the state board of regents to
+  establish tuition, fees and charges at institutions under its supervision.
+  (c) No religious sect or sects shall control any part of the public educational funds.
+  
+  *** MEND ***
+  *** MSTART 075 007.0 006.0 0 KS 1859 1966 ***
+  
+  Ratified November 8, 1966
+  
+  SEC.  7.  Savings clause. (a) All laws in force at the time of the adoption of this
+  amendment and consistent therewith shall remain in full force and effect until amended or
+  repealed by the legislature. All laws inconsistent with this amendment, unless sooner
+  repealed or amended to conform with this amendment, shall remain in full force and effect
+  until July 1, 1969.
+  (b) Notwithstanding any other provision of the constitution to the contrary, no state
+  superintendent of public instruction or county superintendent of public instruction shall be
+  elected after January 1, 1967.
+  (c) The state perpetual school fund or any part thereof may be managed and
+  invested as provided by law or all or any part thereof may be appropriated, both as to
+  principal and income, to the support of the public schools supervised by the state board of
+  education.
+  
+  *** MEND ***
+  *** MSTART 076 008.0 006.0 0 KS 1859 1966 ***
+  
+  Ratified November 8, 1966
+             
+  SEC. 8. REPEALED
+  
+  *** MEND ***
+  *** MSTART 077 009.0 006.0 0 KS 1859 1966 ***
+  
+  Ratified November 8, 1966
+             
+  SEC. 9. REPEALED
+  
+  *** MEND ***
+  *** MSTART 078 010.0 006.0 0 KS 1859 1966 ***
+  
+  Ratified November 8, 1966
+             
+  SEC. 10. REPEALED
+  
+  *** MEND ***
+  *** MSTART 079 011.0 011.0 0 KS 1859 1966 ***         
+  
+  Ratified November 8, 1966
+  
+  SEC. 11. Taxation of incomes; adoption of federal laws by reference. In enacting any law    
+     under section 2 of this article 11, the legislature may at any regular, budget or special
+  session define income by reference to or otherwise adopt by reference all or any part of the
+  laws of the United States as they then exist, and, prospectively, as they may thereafter be
+  amended or enacted, with such exceptions, additions or modifications as the legislature
+  may determine then or thereafter at any such legislative sessions.
+  
+  *** MEND ***
+  *** MSTART 080 002.0 004.0 0 KS 1859 1968 ***
+  
+  Ratified November 5, 1968
+  
+  SEC.  2. General elections; county and township officers. General elections and        
+  township elections shall be held biennially on the Tuesday succeeding the first Monday in
+  November in the years bearing even numbers. All county and township officers shall hold
+  their offices for a term of two years and until their successors are qualified: Provided, One
+  county commissioner shall be elected from each of three districts, numbered 1, 2, and 3, by
+  the voters of the district, and the legislature shall fix the time of election and the term of
+  office of such commissioners; such election to be at a general election, and no term of
+  office to exceed six years. All officers whose successors would, under the law as it existed
+  at the time of their election, be elected in an odd-numbered year shall hold office for an
+  additional year and until their successors are qualified.
+  
+  *** MEND ***
+  *** MSTART 081 002.0 014.0 0 KS 1859 1970 ***         
+  
+  Ratified November 3, 1970                  
+  
+  SEC.  2. Constitutional conventions; approval by electors. The legislature, by the
+  affirmative vote of two-thirds of all the members elected to each house, may submit the
+  question "Shall there be a convention to amend or revise the constitution of the state of
+  Kansas?" or the question "Shall there be a convention limited to revision of article(s)
+  ________ of the constitution of the state of Kansas?", to the electors at the next election
+  for representatives, and the concurrent resolution providing for such question shall specify
+  in such blank appropriate words and figures to identify the article or articles to be
+  considered by the convention. If a majority of all electors voting on the question shall vote
+  in the affirmative, delegates to such convention shall be elected at the next election for
+  representatives thereafter, unless the legislature shall have provided by law for the election
+  of such delegates at a special election. The electors of each representative district as
+  organized at the time of such election of delegates shall elect as many delegates to the
+  convention as there are representatives from such district. Such delegates shall have the
+  same qualifications as provided by the constitution for members of the legislature and
+  members of the legislature and candidates for membership in the legislature shall be
+  eligible for election as delegates to the convention. The delegates so elected shall convene
+  at the state capital on the first Tuesday in May next following such election or at an earlier   
+     date if provided by law.  The convention shall have power to choose its own officers,
+  appoint and remove its employees and fix their compensation, determine its rules, judge
+  the qualifications of its members, and carry on the business of the convention in an orderly
+  manner. Each delegate shall receive such compensation as provided by law. A vacancy in
+  the office of any delegate shall be filled as provided by law.
+  The convention shall have power to amend or revise all or that part of the
+  constitution indicated by the question voted upon to call the convention, subject to
+  ratification by the electors. No proposed constitution, or amendment or revision of an
+  existing constitution, shall be submitted by the convention to the electors unless it has been
+  available to the delegates in final form at least three days on which the convention is in
+  session, prior to final passage, and receives the assent of a majority of all the delegates. The
+  yeas and nays upon final passage of any proposal, and upon any question upon request of
+  one-tenth of the delegates present, shall be entered in the journal of the convention.
+  Proposals of the convention shall be submitted to the electors at the first general or   
+      special statewide election occurring not less than two months after final action thereon
+  by the convention, and shall take effect in accordance with the provisions thereof in such   
+  form and with such notice as is directed by the convention' upon receiving the approval of
+  a majority of the qualified electors voting thereon.
+  
+  *** MEND ***
+  *** MSTART 082 001.0 014.0 0 KS 1859 1970 ***
+  
+  Ratified November 3, 1970
+  
+  SEC. 1. Proposals by legislature; approval by electors. Propositions for the amendment of
+  this constitution may be made by concurrent resolution originating in either house of the
+  legislature, and if two-thirds of all the members elected to each house shall approve such
+  resolution, the same, with the yeas and nays thereon, shall be entered on the journal of each
+  house. The secretary of state shall cause such resolution to be published in one newspaper
+  in each county of the state where a newspaper is published, once each week for five (5)
+  consecutive weeks immediately preceding the next election for representatives, or
+  preceding a special election called by concurrent resolution of the legislature for the
+  purpose of submitting constitutional propositions. At such election, such proposition to
+  amend the constitution shall be submitted either by title generally descriptive of the
+  contents thereof, or by the amendment as a whole, to the electors for their approval or
+  rejection. If such proposition is submitted by title, such title shall be specified in the
+  concurrent resolution making the proposition. If a majority of the electors voting on any
+  such amendment shall vote for the amendment, the same shall become a part of the
+  constitution. When more than one amendment shall be submitted at the same election, such
+  amendments shall be so submitted as to enable the electors to vote on each amendment
+  separately. One amendment of the constitution may revise any entire article, except the
+  article on general provisions, and in revising any article, the article may be renumbered and
+  all or parts of other articles may be amended, or amended and transferred to the article
+  being revised. Not more than five amendments shall be submitted at the same election.
+  
+  *** MEND ***
+  *** MSTART 083 001.0 005.0 0 KS 1859 1971 ***
+  
+  Ratified April 6, 1971
+  
+  SEC. 1.  Every citizen of the United States who has attained the age of eighteen years
+  and who shall have resided in Kansas six months next preceding any election and in the    
+    precinct in which he or she seeks to vote at least thirty days next preceding such
+  election shall be deemed a qualified elector. A citizen of the United States who has
+  attained the age of eighteen years and who shall have resided in Kansas in the precinct in
+  which he or she seeks to vote at least thirty days next preceding any general election, may
+  vote for presidential electors and candidates for the offices of p resident and vice-president
+  of the United States. A citizen of the United States, who is otherwise qualified to vote in
+  Kansas for presidential electors and candidates for the offices of president and vice-
+  president of the United States may vote for such officers either in person or by absentee
+  ballot notwithstanding the fact that such person may have become a nonresident this state if
+  his or her removal from this stale occurs during the thirty days next preceding such
+  election. A person who is otherwise a qualified elector may vote in the precinct of his
+  former residence either in person or by absentee ballot notwithstanding the fact that such
+  person may have become a nonresident of such precinct during the thirty days next
+  preceding such election if his new residence is in another precinct in the state of Kansas.
+  
+  *** MEND ***
+  *** MSTART 084 012.0 9002.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+           
+  SEC. 12.    No forfeiture of estate for crimes. No conviction within the state shall work a
+  forfeiture of estate.
+  
+  *** MEND ***
+  *** MSTART 085 001.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 1.    Executive officers; selection; terms.  The constitutional officers of the executive
+  department shall be the governor, lieutenant governor, secretary of state, and attorney
+  general, who shall have such qualifications as are provided by law. Such officers shall be
+  chosen by the electors of this state at the time of voting for members of the legislature in
+  the year 1974 and every four years thereafter, and such officers elected in 1974 and
+  thereafter shall have terms of four years which shall begin on the second Monday of
+  January next after their election, and until their successors are elected and qualified. In the
+  year 1974 and thereafter, at all elections of governor and lieutenant governor the candidates
+  for such offices shall be nominated and elected jointly in such manner as is prescribed by
+  law so that a single vote shall be cast for a candidate for governor and a candidate for
+  lieutenant governor running together, and if such candidates are nominated by petition or
+  convention each petition signature and each convention vote shall be made for a candidate
+  for governor and a candidate for lieutenant governor running together. No        person may
+  be elected to more than two successive terms as governor nor to more than two successive
+  terms as lieutenant governor.
+  
+  *** MEND ***
+  *** MSTART 086 002.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 2.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 087 003.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 3.  Executive power of governor. The supreme executive power of this state shall be 
+  vested in a governor, who shall be responsible for the enforcement of the laws of this state.
+  
+  *** MEND ***
+  *** MSTART 088 004.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+           
+  SEC. 4. Reports to governor. The governor may require information in writing from the
+  officers, of the executive department, upon any subject relating to their respective duties.
+  The officers of the executive department, and of all public state institutions, shall, at least
+  ten days preceding each regular session of the legislature, severally report to the governor,
+  who shall transmit such reports to the legislature.
+  
+  *** MEND ***
+  *** MSTART 089 005.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+           
+  SEC. 5. Governor's duties for legislature; messages; special sessions; adjournment. The    
+  governor may, on extraordinary occasions, call the legislature into special session by
+  proclamation; and shall call the legislature into special session, upon petition signed by at
+  least  two-thirds of the members elected to each house. At every session of the legislature
+  the governor shall communicate in writing information in reference to the condition of the
+  state, and recommend such measures as he deems expedient. In case of disagreement
+  between the two houses in respect of the time of adjournment, the governor may adjourn
+  the legislature to such time as he deems proper, not beyond its next regular session.
+  
+  *** MEND ***
+  *** MSTART 090 006.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 6.  Reorganization of state agencies of executive branch. (a) For the purpose of
+  transferring, abolishing, consolidating or coordinating the whole or any part of any state
+  agency, or the functions thereof, within the executive branch of state government, when the
+  governor considers the same necessary for efficient administration, he may issue one or
+  more executive reorganization orders, each bearing an identifying number, and transmit the
+  same to the legislature within the first thirty calendar days of any regular session. Agencies
+  and functions of the legislative and judicial branches, and constitutionally delegated
+  functions of state officers and state boards shall be exempt from executive reorganization
+  orders.
+  (b) The governor shall transmit each executive reorganization order to both houses
+  of the legislature on the same day, and each such order shall be accompanied by a
+  governor's message which shall specify with respect to each abolition of a function
+  included in the order the statutory authority for the exercise of the function. Every
+  executive reorganization order shall provide for the transfer or other disposition of the
+  records, property and personnel affected by the order. Every executive reorganization order
+  shall provide for all necessary transfers of unexpended balances of appropriations of
+  agencies affected by such order, and such changes in responsibility for and handling of
+  special funds as may be necessary to accomplish the purpose of such order. Transferred
+  balances of appropriations may be used only for the purposes for which the appropriation
+  was originally made.
+  (c) Each executive reorganization order transmitted to the legislature as provided in
+  this section shall take effect and have the force of general law on the July 1 following its
+  transmittal to the legislature, unless within sixty calendar days and before the adjournment
+  of the legislative session either the senate or the house of representatives adopts by a
+  majority vote of the members elected thereto a resolution disapproving such executive
+  reorganization order. Under the provisions of an executive reorganization order a portion
+  of the order may be effective at a time later than the date on which the order is otherwise
+  effective.
+                 (d) An executive reorganization order which is effective shall be published as and
+  with the acts of the legislature and the statutes of the state. Any executive reorganization
+  order   which is or is to become effective may be amended or repealed as statutes of the
+  state are amended or repealed.
+  
+  *** MEND ***
+  *** MSTART 091 007.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+           
+  SEC. 7. Pardons. The pardoning power shall be vested in the governor, under regulations
+  and restrictions prescribed by law.
+  
+  *** MEND ***
+  *** MSTART 092 008.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+           
+  SEC. 8. REPEALED
+  
+  *** MEND ***
+  *** MSTART 093 009.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+                    
+  SEC. 9. State seal and commissions. There shall be a seal of the state, which shall be kept
+  by the governor, and used by him officially, and which shall be the great seal of Kansas. 
+  All commissions shall be issued in the name of the state of Kansas; and shall be signed by
+  the governor, countersigned by the secretary of state, and sealed with the great seal.
+           
+  *** MEND ***
+  *** MSTART 094 010.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 10. REPEALED
+  
+  *** MEND ***
+  *** MSTART 095 011.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 11. Vacancies in executive offices. When the office of governor is vacant, the
+  lieutenant governor shall become governor. In the event of the disability of the governor,
+  the lieutenant governor shall assume the powers and duties of governor until the disability
+  is removed. The legislature shall provide by law for the succession to the office of governor
+  should the offices of governor and lieutenant governor be vacant, and for the assumption of
+  the powers and duties of governor during the disability of the governor, should the office of
+  lieutenant governor be vacant or the lieutenant governor be disabled. When the office of
+  secretary of state or attorney general is vacant, the governor shall fill the vacancy by
+  appointment for the remainder of the term. If the secretary of state or attorney general is
+  disabled, the governor shall name a person to assume the powers and duties of the office
+  until the disability is removed. The procedure for determining disability and the removal
+  thereof shall be provided by law.
+  
+  *** MEND ***
+  *** MSTART 096 012.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 12.  Lieutenant governor. The lieutenant governor shall assist the governor and have  
+  such other powers and duties as are prescribed by law.
+   
+  *** MEND ***
+  *** MSTART 097 013.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 13.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 098 014.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 14. REPEALED
+  
+  *** MEND ***
+  *** MSTART 099 015.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+                    
+  SEC. 15. Compensation of officers. The officers mentioned in this article shall at stated
+  times receive for their services a such compensation as is established by law, which shall
+  not be diminished during their terms of office, unless by general law applicable to all
+  salaried officers of the state. Any person exercising the powers and duties of an office
+  mentioned in this article shall receive the compensation established by law for that office.
+  
+  *** MEND ***
+  *** MSTART 100 016.0 001.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 16. REPEALED
+  
+  *** MEND ***
+  *** MSTART 101 026.0 002.0 0 KS 1859 1972 ***
+  
+  Ratified August 1, 1972
+           
+  SEC. 26.  REPEALED 
+  
+  *** MEND ***
+  *** MSTART 102 001.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 1. Judicial power; seals; rules. The judicial power of this state shall be vested
+  exclusively in one court of justice, which shall be divided into one supreme court, district    
+  courts, and such other courts as are provided by law; and all courts of record shall have a    
+  seal. The supreme court shall have general administrative authority over all courts in this     
+     state.
+  
+  *** MEND ***
+  *** MSTART 103 002.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 2. Supreme court. The supreme court shall consist of not less than seven justices who
+  shall be selected as provided by this article.  All cases shall be heard with not fewer than
+  four justices sitting and the concurrence of a majority of the justices sitting and of not
+  fewer than four justices shall be necessary for a decision. The term of office of the justices
+  shall be six years except as hereinafter provided.  The justice who is senior in continuous
+  term of service shall be chief justice, and in case two or more have continuously served
+  during the same period the senior in age of these shall be chief justice. A justice may
+  decline or resign from the office of chief .justice without resigning from the court. Upon
+  such declination or resignation, the justice who is next senior in continuous term of service
+  shall become chief justice. During incapacity of a chief justice, the duties, powers and
+  emoluments of the office shall devolve upon the justice who is next senior in continuous
+  service.
+  
+  *** MEND ***
+  *** MSTART 104 003.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+           
+  SEC. 3.  Jurisdiction and terms. The supreme court shall have original jurisdiction in
+  proceedings in quo warranto, mandamus, and habeas corpus; and such appellate
+  jurisdiction as may be provided by law. It shall hold one term each year at the seat of
+  government and such other terms at such places as may be provided by law, and its
+  jurisdiction shall be co-extensive with the state.
+  
+  *** MEND ***
+  *** MSTART 105 004.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 4. Reporter; clerk. There shall be appointed, by the justices of the supreme court, a
+  reporter and clerk of said court, who shall hold their offices two years, and whose duties     
+  shall be prescribed by law.
+  
+  *** MEND ***
+  *** MSTART 106 005.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 5. Selection of justices of the supreme court. (a) Any vacancy occurring in the office
+  of any justice of the supreme court and any position to be open thereon as a result of
+  enlargement of the court, or the retirement or failure of an incumbent to file his declaration  
+     of candidacy to succeed himself as hereinafter required, or failure of a justice to be
+  elected to succeed himself, shall be filled by appointment by the governor of one of three
+  persons        possessing the qualifications of office who shall be nominated and whose
+  names shall be submitted to the governor by the supreme court nominating commission
+  established as hereinafter provided.
+             (b) In event of the failure of the governor to make the appointment within sixty days
+  from the time the names of the nominees are submitted to him, the chief justice of the
+  supreme court shall make the appointment from such nominees.
+       (c) Each justice of the supreme court appointed pursuant to provisions of subsection
+  (a) of this section shall hold office for an initial term ending on the second Monday in
+  January following the first general election that occurs after the expiration of twelve
+  months in office. Not less than sixty days prior to the holding of the general election next
+  preceding the expiration of his term of office, any justice of the supreme court may file in
+  the office of the secretary of state a declaration of candidacy for election to succeed
+  himself. If a declaration is not so filed, the position held by such justice shall be open from
+  the expiration of his term of office. If such declaration is filed, his name shall be submitted
+  at the next general election to the electors of the state on a separate judicial ballot, without
+  party designation, reading substantially as follows:
+           "Shall  (Here insert name of justice.) (Here insert the title of the court.) be retained in
+  office?"
+  If a majority of those voting on the question vote against retaining him in office, the
+  position or office which he holds shall be open upon the expiration of his term of office;
+  otherwise he shall, unless removed for cause, remain in office for the regular term of six
+  years from the second Monday in January following such election. At the expiration of
+  each term he shall, unless by law he is compelled to retire, be eligible for retention in office
+  by election in the manner prescribed in this section.
+  (d) A nonpartisan nominating commission whose duty it shall be to nominate and
+  submit to the governor the names of persons for appointment to fill vacancies in the office
+  of any justice of the supreme court is hereby established, and shall be known as the
+  "supreme court nominating commission." Said commission shall be organized as
+  hereinafter provided.
+              (e) The supreme court nominating commission shall be composed as follows: One   
+     member, who shall be chairman, chosen from among their number by the members of the 
+   bar who are residents of and licensed in Kansas; one member from each congressional
+  district chosen from among their number by the resident members of the bar in each such
+  district; and one member, who is not a lawyer, from each congressional district, appointed
+  by the governor from among the residents of each such district.
+  (f) The terms of office, the procedure for selection and certification of the members
+  of the commission and provision for their compensation or expenses shall be as provided
+  by the legislature.
+              (g) No member of the supreme court nominating commission shall, while he is a
+  member, hold any other public office by appointment or any official position in a political
+  party or for six months thereafter be eligible for nomination for the office of justice of the
+  supreme court. The commission may act only by the concurrence of a majority of its
+  members.
+  
+  *** MEND ***
+  *** MSTART 107 006.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 6. District courts. (a) The state shall be divided into judicial districts as provided by 
+  law. Each judicial district shall have at least one district judge. The term of office of each  
+  judge of the district court shall be four years.  District court shall be held at such times and  
+  places as may be provided by law. The district judges shall be elected by the electors of the 
+  respective judicial districts unless the electors of a judicial district have adopted and not
+  subsequently rejected a method of nonpartisan selection. The legislature shall provide a
+  method of nonpartisan selection of district judges and for the manner of submission and
+  resubmission thereof to the electors of a judicial district. A nonpartisan method of selection
+  of district judges may be adopted, and once adopted may be rejected, only by a majority of
+  electors of a judicial district voting on the question at an election in which the proposition
+  is submitted.  Whenever a vacancy occurs in the office of district judge, it shall be filled by
+  appointment by the governor until the next general election that occurs more than thirty
+  days after such vacancy, or as may be provided by such non-partisan method of. selection.
+  (b) The district courts shall have such jurisdiction in their respective districts as
+  may be provided by law.
+              (c) The legislature shall provide for clerks of the district courts.
+              (d)  Provision may be made by law for judges pro tern of the district court.
+              (e)  The supreme court or any, justice thereof shall have the power to assign judges
+  of district courts temporarily to other districts.
+              (f)  The supreme court may assign a district judge to serve temporarily on the
+  supreme court.
+  
+  *** MEND ***
+  *** MSTART 108 007.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+             
+  SEC. 7. Qualifications of justices and judges. Justices of the supreme court and judges of
+  the district courts shall be at least thirty years of age and shall be duly authorized by the
+  supreme court of Kansas to practice law in the courts of this state and shall possess such
+  other qualifications as may be prescribed by law.
+  
+  *** MEND ***
+  *** MSTART 109 008.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 8. Prohibition of political activity by justices and certain judges. No justice of the
+  supreme court who is appointed or retained under the procedure of section 5 of this article,
+  nor any judge of the district court holding office under a nonpartisan method authorized in
+  subsection (a) of section 6 of this article, shall directly or indirectly make any contribution
+  to or hold any office in a political party or organization or take part in any political
+  campaign.
+  
+  *** MEND ***
+  *** MSTART 110 009.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+           
+  SEC. 9. REPEALED
+  
+  *** MEND ***
+  *** MSTART 111 010.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 10.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 112 012.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 12. Extension of terms until successor qualified. All judicial officers shall hold their   
+   offices until their successors shall have qualified.
+  
+  *** MEND ***
+  *** MSTART 113 013.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 13. Compensation of justices and judges; certain limitation. The justices of the
+  supreme court and judges of the district courts shall receive for their services such
+  compensation as may be provided by law, which shall not be diminished during their terms
+  of office, unless by general law applicable to all salaried officers of. the state. Such justices
+  or judges shall receive no fees or perquisites nor hold any other office of profit or trust
+  under the authority of the state, or the United States except as may be provided by law, or
+  practice law during their continuance in office.
+  
+  *** MEND ***
+  *** MSTART 114 014.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+   
+  SEC. 14. REPEALED
+  
+  *** MEND ***
+  *** MSTART 115 015.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 15. Removal of justices and judges. Justices of the supreme court may be removed     
+  from office by impeachment and conviction as prescribed in article 2 of this constitution. In
+  addition to removal by impeachment and conviction, justices may be retired after
+  appropriate hearing, upon certification to the governor, by the supreme court nominating      
+  commission that such justice is so incapacitated as to be unable to perform adequately his
+  duties. Other judges shall be subject to retirement for incapacity, and to discipline,     
+  suspension and removal for cause by the supreme court after appropriate hearing.
+   
+  *** MEND ***
+  *** MSTART 116 016.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 16. Savings clause. Nothing contained in this amendment to the constitution shall: (a)
+  Shorten the term of office or abolish the office of any justice of the supreme court, any
+  judge of the district court, or any other judge of any other court who is holding office at the
+  time this amendment becomes effective, or who is holding office at the time of adoption,
+  rejection, or resubmission of a nonpartisan method of selection of district judges as
+  provided in subsection (a) of section 6 hereof, and all such justices and judges shall hold
+  their respective offices for the terms for which elected or appointed unless sooner removed
+  in the manner provided by law; (b) repeal any statute of this state relating to the supreme
+  court, the supreme court nominating commission, district courts, or any other court, or
+  relating to the justices or judges of such courts, and such statutes shall remain in force and
+  effect until amended or repealed by the legislature.
+  
+  *** MEND ***
+  *** MSTART 117 017.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 17.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 118 019.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 19. REPEALED
+  
+  *** MEND ***
+  *** MSTART 119 020.0 003.0 0 KS 1859 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 20.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 120 005.0 005.0 0 KS 1859 1972 ***
+  
+  Ratified August 1, 1972
+   
+  SEC. 5.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 121 001.0 007.0 0 KS 1859 1972 ***         
+  
+  Ratified August 1, 1972
+  
+  SEC. 1. Benevolent institutions. Institutions for the benefit of mentally or physically
+  incapacitated or handicapped persons, and such other benevolent institutions as the public
+  good may require, shall be fostered and supported by the state, subject to such regulations    
+   as may be prescribed by law.
+  
+  *** MEND ***
+  *** MSTART 122 002.0 007.0 0 KS 1859 1972 ***         
+  
+  Ratified August 1, 1972
+  
+  SEC. 2. REPEALED
+  
+  *** MEND ***
+  *** MSTART 123 003.0 007.0 0 KS 1859 1972 ***         
+  
+  Ratified August 1, 1972
+           
+  SEC. 3.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 124 004.0 007.0 0 KS 1859 1972 ***         
+  
+  Ratified August 1, 1972
+  
+  SEC. 4. Aged and infirm persons; financial aid; state participation. The respective counties
+  of the state shall provide; as may be prescribed by law, for those inhabitants who, by      
+  reason of age, infirmity or other misfortune, may have claims upon the aid of society. The   
+  state may participate financially in such aid and supervise and control the administration     
+  thereof.
+  
+  *** MEND ***
+  *** MSTART 125 005.0 007.0 0 KS 1859 1972 ***         
+  
+  Ratified August 1, 1972
+  
+  SEC. 5. Unemployment compensation; old-age benefits; taxation. The state may provide     
+   by law for unemployment compensation and contributory old-age benefits and may tax
+  employers and employees therefor; and the restrictions and limitations of section 24 of
+  article 2, and section 1 of article 11 of the constitution shall not be construed to limit the
+  authority conferred by this amendment. No direct ad valorem tax shall be laid on real or
+  personal property for such purposes.
+  
+  *** MEND ***
+  *** MSTART 126 006.0 007.0 0 KS 1859 1972 ***         
+  
+  Ratified August 1, 1972
+  
+  SEC. 6.  Tax levy for certain institutions. The legislature may levy a permanent tax for the  
+  creation of a building fund for institutions caring for those who are mentally ill, retarded,
+  visually handicapped, with a handicapping hearing loss, tubercular or for children who are
+  dependent, neglected or delinquent and in need of residential institutional care or treatment
+  and for institutions primarily designed to provide vocational rehabilitation for handicapped
+  persons, and the legislature shall apportion among and appropriate the same to the several
+  institutions, which levy, apportionment and appropriation shall continue until changed by
+  statute. Nothing herein contained shall prevent such further appropriation by the legislature
+  as may be deemed necessary from time to time for the needs of said charitable and
+  benevolent institutions. Nothing in this amendment shall repeal any statute of this state
+  enacted prior to this amendment, and any levy, apportionment or appropriation made under
+  authority of this section before its amendment, and any statute making the same, shall
+  remain in full force and effect until amended or repealed by the legislature.
+  
+  *** MEND ***
+  *** MSTART 127 003.0 010.0 0 KS 1859 1972 ***         
+  
+  Ratified August 1, 1972
+  
+  SEC.  3.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 128 011.0 015.0 0 KS 1859 1972 ***         
+  
+  Ratified August 1, 1972
+  
+  SEC. 11.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 129 001.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+           
+  SEC. 1. Legislative power. The legislative power of this state shall be vested in a house of
+  representatives and senate.
+  
+  *** MEND ***
+  *** MSTART 130 002.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 2. Senators and representatives. The number of representatives and senators shall be
+  regulated by law, but shall not exceed one hundred twenty-five representatives and forty      
+   senators. Representatives and senators shall be elected from single-member districts
+  prescribed by law. Representatives shall be elected for two year terms. Senators shall be
+  elected for four year terms. The terms of representatives and senators shall commence on
+  the second Monday of January of the year following election.
+  
+  *** MEND ***
+  *** MSTART 131 003.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 3. Compensation of members of legislature. The members of the legislature shall
+  receive such compensation as may be provided by law or such compensation as is
+  determined according to law.
+  
+  *** MEND ***
+  *** MSTART 132 004.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 4. Qualifications of members. During the time that any person is a candidate for
+  nomination or election to the legislature and during the term of each legislator, such
+  candidate or legislator shall be and remain a qualified elector who resides in his or her
+  district.
+  
+  *** MEND ***
+  *** MSTART 133 005.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 5. Eligibility and disqualification of members. No member of congress and no civil
+  officer or employee of the United States or of any department, agency, or instrumentality
+  thereof shall be eligible to be a member of the legislature. Any member of the legislature
+  who accepts any appointment or election contrary to the foregoing shall be disqualified as a
+  member of the legislature.
+  
+  *** MEND ***
+  *** MSTART 134 006.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 6. REPEALED
+  
+  *** MEND ***
+  *** MSTART 135 007.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 7. REPEALED
+  
+  *** MEND ***
+  *** MSTART 136 008.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 8. Organization and sessions. The legislature shall meet in regular session annually     
+  commencing on the second Monday in January, and all sessions shall be held at the state    
+  capital. The duration of regular sessions held in even-numbered years shall not exceed
+  ninety calendar days. Such sessions may be extended beyond ninety calendar days by an
+  affirmative vote of two-thirds of the members elected to each house. Bills and concurrent
+  resolutions under consideration by the legislature upon adjournment of a regular session
+  held in an odd-numbered year may be considered at the next succeeding regular session
+  held in an even-numbered year, as if there had been no such adjournment.
+  The legislature shall be organized concurrently with the terms of representatives
+  except that the senate shall remain organized during the terms of senators. The president of
+  the senate shall preside over the senate, and the speaker of the house of representatives
+  shall preside over the house of representatives. A majority of the members then elected (or
+  appointed) and qualified of the house of representatives or the senate shall constitute a
+  quorum of that house. Neither house, without the consent of the other, shall adjourn for
+  more than two days, Sundays excepted. Each house shall elect its presiding officer and
+  determine the rules of its proceedings, except that the two houses may adopt joint rules on
+  certain matters and provide for the manner of change thereof. Each house shall provide for
+  the expulsion or censure of members in appropriate cases. Each house shall be the judge of
+  elections, returns and qualifications of its own members.
+  
+  *** MEND ***
+  *** MSTART 137 009.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974         
+                    
+  SEC. 9. Vacancies in legislature. All vacancies occurring in either house shall be filled as
+  provided by law.
+  
+  *** MEND ***
+  *** MSTART 138 010.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974         
+           
+  SEC. 10. Journals. Each house shall publish a journal of its proceedings. The affirmative
+  and negative votes upon the final passage of every bill and every concurrent resolution for   
+   amendment of this constitution or ratification of an amendment to the Constitution of the
+  United States shall be entered in the journal.  Any member of either house may make
+  written protest against any act or resolution, and the same shall be entered in the journal
+  without delay or alteration.
+  
+  *** MEND ***
+  *** MSTART 139 011.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+                    
+  SEC. 11.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 140 012.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 12. Origination by either house. Bills and concurrent resolutions may originate in
+  either house, but may be amended or rejected by the other.
+  
+  *** MEND ***
+  *** MSTART 141 013.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974         
+  
+  SEC. 13.  Majority for passage of bills. A majority of the members then elected (or
+  appointed) and qualified of each house, voting in the affirmative, shall be necessary to pass
+  any bill. Two-thirds (2/3) of the members then elected (or appointed) and qualified in each
+  house, voting in the affirmative, shall be necessary to ratify any amendment to the
+  Constitution of the United States or to make any application for congress to call a
+  convention for proposing amendments to the Constitution of the United States.
+  
+  *** MEND ***
+  *** MSTART 142 014.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974         
+                    
+  SEC. 14.  Approval of bills; vetoes. (a) Within ten days after passage, every bill shall be
+  signed by the presiding officers and presented to the governor. If the governor approves a
+  bill, he shall sign it. If the governor does not approve a bill, the governor shall veto it by
+  returning the bill, with a veto message of the objections, to the house of origin of the bill.
+  Whenever a veto message is so received, the message shall be entered in the journal and in
+  not more than thirty calendar days (excluding the day received), the house of origin shall
+  reconsider the bill. If two-thirds of the members then elected (or appointed) and qualified
+  shall vote to pass the bill, it shall be sent, with the veto message, to the other house, which
+  shall in not more than thirty calendar days (excluding the day received) also reconsider the
+  bill, and if approved by two-thirds of the members then elected (or appointed) and
+  qualified, it shall become a law, notwithstanding the governor's veto.
+  If any bill shall not be returned within ten calendar days (excluding the day
+  presented) after it shall have been presented to the governor, it shall become a law in like
+  manner as if it had been signed by the governor.
+  (b) If any bill presented to the governor contains several items of appropriation of
+  money, one or more of such items may be disapproved by the governor while the other
+  portion of the bill is approved by the governor. In case the governor does so disapprove, a
+  veto message of the governor stating the item or items disapproved, and the reasons
+  therefor, shall be appended to the bill at the time it is signed, and the bill shall be returned
+  with the veto message to the house of origin of the bill. Whenever a veto message is so
+  received, the message shall be entered in the journal and, in not more than thirty calendar
+  days, the house of origin shall reconsider the items of the bill which have been
+  disapproved. If two-thirds of the members then elected (or appointed) and qualified shall
+  vote to approve any item disapproved by the governor, the bill, with the veto message, shall
+  be sent to the other house, which shall in not more than thirty calendar days also reconsider
+  each such item so approved by the house of origin, and if approved by two-thirds of all the
+  members then elected (or appointed) and qualified, any such item shall take effect and
+  become a part of the bill.
+  
+  *** MEND ***
+  *** MSTART 143 015.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974         
+                    
+  SEC. 15.  Requirements before bill passed.  No bill shall be passed on the day that it is        
+  introduced, unless in case of emergency declared by two-thirds of the members present in
+  the house where a bill is pending.
+  
+  *** MEND ***
+  *** MSTART 144 016.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974         
+  
+  SEC. 16.  Subject and title of bills; amendment or revival of statutes. No bill shall contain
+  more than one subject, except appropriation bills and bills for revision or codification of
+  statutes. The subject of each bill shall be expressed in its title. No law shall be revived or
+  amended, unless the new act contain the entire act revived or the section or sections
+  amended, and the section or sections so amended shall be repealed. The provisions of this
+  section shall be liberally construed to effectuate the acts of the legislature.
+  
+  *** MEND ***
+  *** MSTART 145 017.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 17. Uniform operation of laws of a general nature. All laws of a general nature shall
+  have a uniform operation throughout the state: Provided, The legislature may designate
+  areas in counties that have become urban in character as "urban areas" and enact special
+  laws giving to any one or more of such counties or urban areas such powers of local
+  government and consolidation of local government as the legislature may deem proper.
+  
+  *** MEND ***
+  *** MSTART 146 018.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974 
+  
+  SEC. 18.    Election or appointment of officers; filling vacancies. The legislature may
+  provide for the election or appointment of all officers and the filling of all vacancies not
+  otherwise provided for in this constitution.
+  
+  *** MEND ***
+  *** MSTART 147 019.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 19. Publication of acts. No act shall take effect until the enacting bill is published as   
+  provided by law.
+  
+  *** MEND ***
+  *** MSTART 148 020.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974         
+                    
+  SEC. 20. Enacting clause of bills; laws enacted only by bill. The enacting clause of all bills
+  shall be "Be it enacted by the Legislature of the State of Kansas:". No law shall be enacted
+  except by bill.
+  
+  *** MEND ***
+  *** MSTART 149 021.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 21. Delegation of powers of local legislation and administration. The legislature may
+  confer powers of local legislation and administration upon political subdivisions.
+                    
+  *** MEND ***
+  *** MSTART 150 022.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 22. Legislative immunity. For any speech, written document or debate in either
+  house, the members shall not be questioned elsewhere. No member of the legislature shall
+  be subject to arrest   except for treason, felony or breach of the peace   in going to, or
+  returning from, the place of meeting, or during the continuance of the session; neither shall
+  he be subject to the service of any civil process during the session, nor for fifteen days
+  previous to its commencement.
+  
+  *** MEND ***
+  *** MSTART 151 023.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974         
+                    
+  SEC. 23.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 152 024.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 24. Appropriations. No money shall be drawn from the treasury except in pursuance   
+  of a specific appropriation made by law.
+  
+  *** MEND ***
+  *** MSTART 153 025.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 25.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 154 027.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 27. Impeachment. The house of representatives shall have the sole power to impeach.
+  All impeachments shall be tried by the senate; and when sitting for that purpose, the
+  senators shall take an oath to do justice according to the law and the evidence. No person
+  shall be convicted without the concurrence of two-thirds of the senators then elected (or
+  appointed) and qualified.
+   
+  *** MEND ***
+  *** MSTART 155 028.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 28. Officers impeachable; grounds; punishment. The governor and all other officers
+  under this constitution, shall be removed from office on impeachment for, and conviction
+  of treason, bribery, or other high crimes and misdemeanors.
+  
+  *** MEND ***
+  *** MSTART 156 029.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974          
+                    
+  SEC. 29.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 157 030.0 002.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 30. Delegation of powers to interstate bodies. The legislature may confer legislative
+  powers upon interstate bodies, comprised of officers of this state or its political
+  subdivisions acting in conjunction with officers of other jurisdictions, relating to the
+  functions thereof. Any such delegation, and any agreement made thereunder shah be
+  subject to limitation, change or termination by the legislature, unless contained in a
+  compact approved by the congress.
+  
+  *** MEND ***
+  *** MSTART 158 001.0 004.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974 
+  
+  SEC. 1. Mode of voting. All elections by the people shall be by ballot or voting device, or   
+   both, as the legislature shall by law provide.
+  
+  *** MEND ***
+  *** MSTART 159 002.0 004.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 2. General elections. General elections shall be held biennially on the Tuesday
+  succeeding the first Monday in November in even-numbered years. Not less than three       
+  county commissioners shall be elected in each organized county in the state, as provided by
+  law.
+  
+  *** MEND ***
+  *** MSTART 160 003.0 004.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 3. Recall of elected officials. All elected public officials in the state, except judicial
+  officers, shall be subject to recall by voters of the state or political subdivision from which   
+   elected. Procedures and grounds for recall shall be prescribed by law.
+   
+  *** MEND ***
+  *** MSTART 161 004.0 004.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 4.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 162 005.0 004.0 0 KS 1859 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 5. REPEALED
+  
+  *** MEND ***
+  *** MSTART 163 001.0 005.0 0 KS 1859 1974 ***
+  
+  Ratified August 6, 1974
+  
+  SEC. 1. Qualifications of electors. Every citizen of the United States who has attained the  
+  age of eighteen years and who resides in the voting area in which he or she seeks to vote  
+  shall be deemed a qualified elector. Laws of this state relating, to voting for presidential    
+  electors and candidates for the office of president and vice-president of the United States    
+  shall comply with the laws of the United States relating thereto. A citizen of the United
+  States, who is otherwise qualified to vote in Kansas for presidential electors and candidates
+  for the offices of president and vice-president of the United States may vote for such
+  officers either in person or by absentee ballot notwithstanding the fact that such person may
+  have become a nonresident of this state if his or her removal from this state occurs during a
+  period in accordance with federal law next preceding such election. A person who is
+  otherwise a qualified elector may vote in the voting area of his or her former residence
+  either in person or by absentee ballot notwithstanding the fact that such person may have
+  become a nonresident of such voting area during a period prescribed by law next preceding
+  the election at which he or she seeks to vote, if his new residence is in another voting area
+  in the state of Kansas. 
+  
+  *** MEND ***
+  *** MSTART 164 002.0 005.0 0 KS 1859 1974 ***
+  
+  Ratified August 6, 1974
+  
+  SEC. 2. Disqualification to vote. The legislature may, by law, exclude persons from voting  
+      because of mental illness or commitment to a jail or penal institution. No person
+  convicted     of a felony under the laws of any state or of the United States, unless pardoned
+  or restored      to his civil rights, shall be qualified to vote.
+          
+  *** MEND ***
+  *** MSTART 165 003.0 005.0 0 KS 1859 1974 ***
+  
+  Ratified August 6, 1974
+  
+  SEC. 3.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 166 004.0 005.0 0 KS 1859 1974 ***
+  
+  Ratified August 6, 1974
+  
+  SEC. 4.  Proof of right to vote.  The legislature shall provide by law for proper proofs of
+  the right of suffrage.
+  
+  *** MEND ***
+  *** MSTART 167 006.0 005.0 0 KS 1859 1974 ***
+  
+  Ratified August 6, 1974
+  
+  SEC. 6.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 168 007.0 005.0 0 KS 1859 1974 ***
+  
+  Ratified August 6, 1974
+  
+  SEC. 7.  Privileges of electors.  Electors, during their attendance at elections, and in going
+  to and returning therefrom, shall be privileged from arrest in all cases except felony or
+  breach of the peace.
+  
+  *** MEND ***
+  *** MSTART 169 008.0 005.0 0 KS 1859 1974 ***
+  
+  Ratified August 6, 1974
+    
+  SEC. 8.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 170 001.0 010.0 0 KS 1859 1974 ***
+  
+  Ratified August 6, 1974
+  
+  SEC. 1.  (a) At its regular session in 1979, and at its regular session every tenth year
+  thereafter, the legislature shall enact a statute reapportioning the state senatorial districts
+  and representative districts. Bills reapportioning legislative districts shall be published in
+  the official state paper immediately upon final passage and shall be effective for the next
+  following election of legislators and thereafter until again reapportioned.
+  (b) Within fifteen days after the publication of an act reapportioning the legislative
+  districts within the time specified in (a), the attorney general shall petition the supreme
+  court of the state to determine the validity thereof. The supreme court, within thirty days
+  from the filing of the petition, shall enter its judgment.  Should the supreme court
+  determine that the reapportionment statute is invalid, the legislature shall enact a statute of
+  reapportionment conforming to the judgment of the supreme court within fifteen days.
+  (c) Upon enactment of a reapportionment to conform with a judgment under (b), the
+  attorney general shall a p ply to the supreme court of the state to determine the validity
+  thereof.  The supreme court, within ten (10) days from the filing of such application, shall
+  enter its judgment. Should the supreme court determine that the reapportionment statute is
+  invalid, the legislature shall again enact a statute reapportioning the legislative districts in
+  compliance with the direction of and conforming to the mandate of the supreme court
+  within fifteen (15) days after entry thereof.
+  (d) Whenever a petition or application is filed under this section, the supreme court,
+  in accordance with its rules, shall permit interested persons to present their views.
+  (e) A judgment of the supreme court of the state determining a reapportionment to
+  be valid shall be final until the legislative districts are again reapportioned in accordance
+  herewith.
+  
+  *** MEND ***
+  *** MSTART 171 002.0 010.0 0 KS 1859 1974 ***         
+  
+  Ratified August 6, 1974
+  
+  SEC.  2.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 172 003.0 010.0 0 KS 1859 1974 ***         
+  
+  Ratified August 6, 1974
+  
+  SEC.  3.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 173 001.0 011.0 0 KS 1859 1974 ***
+  
+  Ratified August 6, 1974
+  
+  SEC. 1.  System of taxation; classification; exemption. The legislature shall provide for a
+  uniform and equal rate of assessment and taxation, except that the legislature may provide
+  for the classification and the taxation uniformly as to class of motor vehicles, mineral
+  products, money, mortgages, notes and other evidence of debt or may exempt any of such
+  classes of property from property taxation and impose taxes upon another basis in lieu
+  thereof. All property used exclusively for state, county, municipal, literary, educational,
+  scientific, religious, benevolent and charitable purposes, and all household goods and
+  personal effects not used for the production of income, shall be exempted from property
+  taxation.
+  
+  *** MEND ***
+  *** MSTART 174 003.0 012.0 0 KS 1859 1974 ***         
+  
+  Ratified August 6, 1974         
+  
+  SEC. 3.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 175 003.A 015.0 0 KS 1859 1974 ***         
+  
+  Ratified November 5, 1974             
+  
+  SEC. 3A.  Regulation, licensing and taxation of "bingo" games authorized.
+  Notwithstanding the provisions of section 3 of article 15 of the constitution of the state of
+  Kansas the legislature may regulate, license and tax the operation or conduct of games of
+  "bingo, as defined by law, by bona fide nonprofit religious, charitable, fraternal,
+  educational and veterans organizations.
+  
+  *** MEND ***
+  *** MSTART 176 004.0 015.0 0 KS 1859 1974 ***         
+  
+  Ratified November 5, 1974
+  
+  SEC. 4. REPEALED
+  
+  *** MEND ***
+  *** MSTART 177 014.0 015.0 0 KS 1859 1974 ***         
+  
+  Ratified November 5, 1974           
+  
+  SEC 14. Oaths of state officers. All state officers before entering upon their respective
+  duties shall take and subscribe an oath or affirmation to support the constitution of the     
+  United States and the constitution of this state, and faithfully to discharge the duties of their
+  respective offices.
+  
+  *** MEND ***          
+  *** MSTART 178 012.0 011.0 0 KS 1859 1976 ***         
+  
+  Ratified November 2, 1976          
+   
+  SEC. 12. Assessment and taxation of land devoted to agricultural use. Land devoted to
+  agricultural use may be defined by law and valued for ad valorem tax purposes upon the     
+  basis of its agricultural income or agricultural productivity, actual or potential, and when so
+  valued such land shall be assessed at the same percent of value and taxed at the same rate
+  as real property subject to the provisions of section 1 of this article. The legislature may, if
+  land devoted to agricultural use changes from such use, provide for the recoupment of a
+  part or all of the difference between the amount of the ad valorem taxes levied upon such
+  land during a part or all of the period in which it was valued in accordance with the
+  provisions of this section and the amount of ad valorem taxes which would have been
+  levied upon such land during such period had it not been in agricultural use and had it been
+  valued, assessed and taxed in accordance with section 1 of this article.
+  
+  *** MEND ***
+  *** MSTART 179 009.0 011.0 0 KS 1859 1980 ***
+  
+  Ratified November 4, 1980
+  
+  SEC.  9.  Internal improvements; state highway system; flood control; conservation or
+  development of water resources. The state shall never be a party in carrying on any work of
+  internal improvement except that: (1) It may adopt, construct, reconstruct and maintain a
+  state system of highways, but no general property tax shall ever be laid nor general
+  obligation bonds issued by the state for such highways; (2) It may be a party to flood
+  control works and works for the conservation or development of water resources; (3) it
+  may, whenever any work of internal improvement not authorized by (1) or (2) is once   
+  authorized by a separate bill passed by the affirmative vote of not less than two-thirds of all
+  members then elected (or appointed) and qualified to each house, expend or distribute    
+  funds received from the federal government therefor and may participate with the federal  
+  government therein by contributing any state funds appropriated in accordance with law for
+  such purpose in any amount not exceeding the amount received from the federal
+  government for such improvement, but no general property tax shall ever be laid nor
+  general obligation bonds be issued by the state therefor; and (4) it may expend funds 
+  received from die federal government for any public purpose in accordance with the federal
+  law authorizing the same.
+  
+  *** MEND ***
+  *** MSTART 180 001.0 013.0 0 KS 1859 1980 ***         
+  
+  Ratified November 4, 1980        
+  
+  SEC. 1. Banking laws. No bank shall be established otherwise than under a general
+  banking law, nor be operated otherwise than by a duly organized corporation.
+   
+  *** MEND ***
+  *** MSTART 181 002.0 013.0 0 KS 1859 1980 ***         
+  
+  Ratified November 4, 1980
+  
+  SEC. 2. State not to be stockholder. The state shall not be a stockholder in any banking       
+  institution.
+  
+  [Note:  Originally adopted at Article 13, Section 5.  Revision in 1980 renumbered it as
+  Section 2.]
+  
+  *** MEND ***
+  *** MSTART 182 003.0 013.0 0 KS 1859 1980 ***         
+  
+  Ratified November 4, 1980                   
+  
+  SEC. 3.  REPEALED 
+  
+  *** MEND ***
+  *** MSTART 183 004.0 013.0 0 KS 1859 1980 ***         
+  
+  Ratified November 4, 1980
+  
+  SEC. 4.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 184 005.0 013.0 0 KS 1859 1980 ***         
+  
+  Ratified November 4, 1980
+  
+  SEC. 5. REPEALED
+  
+  [Note:  Section prohibited state from become a stockholder in a bank.  It was transferred
+  and renumbered as Article 13, Section 2 in 1980.]
+  
+  *** MEND ***
+  *** MSTART 185 006.0 013.0 0 KS 1859 1980 ***         
+  
+  Ratified November 4, 1980          
+  
+  SEC. 6.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 186 007.0 013.0 0 KS 1859 1980 ***         
+  
+  Ratified November 4, 1980          
+  
+  SEC. 7.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 187 008.0 013.0 0 KS 1859 1980 ***         
+  
+  Ratified November 4, 1980          
+  
+  SEC. 8.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 188 009.0 013.0 0 KS 1859 1980 ***         
+  
+  Ratified November 4, 1980          
+  
+  SEC. 9.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 189 001.0 014.0 0 KS 1859 1980 ***         
+  
+  Ratified November 4, 1980
+  
+  SEC. 1.  Proposals by legislature; approval by electors. Propositions for the amendment of  
+  this constitution may be made by concurrent resolution originating in either house of the     
+  legislature, and if two-thirds of all the members elected (or appointed) and qualified of
+  each house shall approve such resolution, the secretary of state shall cause such resolution
+  to be published in the manner provided by law.  At the next election for representatives or   
+  special election called by concurrent resolution of the legislature for the purpose of
+  submitting constitutional propositions, such proposition to amend the constitution shall be
+  submitted, both by title and by the amendment as a whole, to the electors for their approval
+  or rejection. The title by which a proposition is submitted shall be specified in the
+  concurrent resolution making the proposition and shall be a brief nontechnical statement
+  expressing the intent or purpose of the proposition and the effect of a vote for and a vote
+  against the proposition. If a majority of the electors voting on any such amendment shall
+  vote for the amendment, the same shall become a part of the constitution. When more than
+  one amendment shall be submitted at the same election, such amendments shall be so
+  submitted as to enable the electors to vote on each amendment separately. One amendment
+  of the constitution may revise any entire article, except the article on general provisions,
+  and in revising any article, the article may be. renumbered and all or parts of other articles
+  may be amended, or amended and transferred to the article being revised. Not more than
+  five amendments shall be submitted at the same election.
+  
+  *** MEND ***
+  *** MSTART 190 001.0 011.0 0 KS 1859 1986 ***         
+  
+  Ratified November 4, 1986 
+  
+  SEC.  1. (a) System of taxation; classification; exemption. The provisions of this
+  subsection (a) shall govern the assessment and taxation of property until the provisions of
+  subsection (b)of this section are implemented and become effective, whereupon subsection
+  (a) shall expire. The legislature shall provide for a uniform and equal rate of assessment
+  and taxation, except that the legislature may provide for the classification and the taxation
+  uniformly as to class of motor vehicles, mineral products, money, mortgages, notes and
+  other evidence of debt or may exempt any of such classes of property from property
+  taxation and impose taxes upon another basis in lieu thereof. All property used exclusively
+  for state, county, municipal, literary, educational, scientific, religious, benevolent and
+  charitable purposes, and all household goods and personal effects not used for the
+  production of income, shall be exempted from property taxation.
+  (b) System of taxation; classification; exemption. (1) The provisions of this
+  subsection (b) shall govern the assessment and taxation of property on and after January 1,
+  1989, and each year thereafter. Except as otherwise hereinafter specifically provided, the
+  legislature shall provide for a uniform and equal basis of valuation and rate of taxation of
+  all property subject to taxation. The provisions of this subsection (b) shall not be applicable
+  to the taxation of motor vehicles, except as otherwise hereinafter specifically provided,
+  mineral products, money, mortgages, notes and other evidence of debt and grain. Property
+  shall be classified into the following classes for the purpose of assessment and assessed at
+  the percentage of value prescribed therefor:
+            Class 1 shall consist of real property. Real property shall be further classified into
+  four subclasses. Such property shall be defined by law for the purpose of subclassification
+  and assessed uniformly as to subclass at the following percentages of value:
+  (A) Real property used for residential purposes including multi-family residential real
+  property             ..              12%
+  (B) Land devoted to agricultural use which shall be valued upon the basis of its agricultural
+  income or agricultural productivity pursuant to section 12 of article 11 of the
+  constitution  .                     . .. 30%
+  (C) Vacant lots     .             .       ..12%
+  (D) All other urban and rural real property not otherwise specifically      
+  subclassified            ..      .        30%
+  Class 2 shall consist of tangible personal property. Such tangible personal property
+  shall be further classified into six subclasses, shall be defined by law for the purpose of
+  subclassification and assessed uniformly as to subclass at the following percentages of
+  value:
+  (A) Mobile homes used for residential purposes           ...12%
+  (B) Mineral leasehold interests                 . .30%
+  (C) Public utility tangible personal property            . .30%
+  (D) All categories of motor vehicles not defined and specifically valued and taxed   
+  pursuant to law enacted prior to January 1, 1985          . .30%
+  (E) Commercial and industrial machinery and equipment which, if its economic life is
+  seven years or more, shall be valued at its retail cost when new  less seven-year straight-
+  line depreciation, or which, if its economic life is less than seven years, shall be valued at
+  its retail cost when new less straight-line depreciation over its economic life, except that,
+  the value so obtained for such property, notwithstanding its economic life and as long as
+  such property is being used, shall not be less than 20% of the retail cost when new of such
+  property                           .. 20%
+  (F)All other tangible personal property not otherwise specifically classified.. .30%
+  (2)All property used exclusively for state, county, municipal, literary, educational,
+  scientific, religious, benevolent and charitable purposes, farm machinery and equipment,     
+   merchant's and manufacturer's inventories and livestock and all household goods and
+  personal effects not used for the production of income, shall, be exempted from property
+  taxation.
+  
+  *** MEND ***
+  *** MSTART 191 009.0 011.0 0 KS 1859 1986 ***         
+  
+  Ratified August 5, 1986
+  
+  SEC. 9. Internal improvements; state highway system; flood control; conservation or
+  development of water resources. The state shall never be a party in carrying on any work of
+  internal improvement except that: (1) It may adopt, construct, reconstruct and maintain a
+  state system of highways, but no general property tax shall ever be laid nor general
+  obligation bonds issued by the state for such highways; (2) it may be a party to flood
+  control works and works for the conservation or development of water resources; (3) it
+  may, for the purpose of stimulating economic development and private sector job creation
+  in all areas of the state, participate in the development of a capital formation system and
+  have a limited role in such system through investment of state funds authorized in
+  accordance with law; (4) it may be a party to any work of internal improvement, whenever
+  any work of internal improvement not authorized by (1), (2) or (3) is once authorized by a
+  separate bill passed by the affirmative vote of not less than two-thirds of all members then
+  elected (or appointed) and qualified to each house, but no general property tax shall ever be
+  laid nor general obligation bonds be issued by the state therefor; and (5) it may expend
+  funds received from the federal government for any public purpose in accordance with the
+  federal law authorizing the same.
+  
+  [Note:  Originally adopted as Article 11, Section 8.  It was renumbered in 1932 due to the
+  insertion of a new Section 2.]
+  
+  *** MEND ***
+  *** MSTART 192 013.0 011.0 0 KS 1859 1986 ***         
+  
+  Ratified August 5, 1986
+  
+  SEC. 13. Exemption of property for economic development purposes; procedure;
+  limitations. (a)  The board of county commissioners of any county or the governing body of
+  any city may, by resolution or ordinance, as the case requires, exempt from all ad valorem
+  taxation all or any portion of the appraised valuation of: (1)  All buildings, together with
+  the land upon which such buildings are located, and all tangible personal property
+  associated therewith used exclusively by a business for the purpose of: (A) Manufacturing
+  articles of commerce; (B) conducting research and development; or (C) storing goods or
+  commodities which are sold or traded in interstate commerce, which commences
+  operations after the date on which this amendment is approved by the electors of this state;
+  or (2) all buildings, or added improvements to buildings constructed after the date on
+  which this amendment is approved by the electors of this state, together with the land upon
+  which such buildings or added improvements are located, and all tangible personal
+  property purchased after such date and associated therewith, used exclusively for the
+  purpose of: (A) Manufacturing articles of commerce; (B) conducting research and
+  development; or (C) storing goods or commodities which are sold or traded in interstate
+  commerce, which is necessary to facilitate the expansion of any such existing business if,
+  as a result of such expansion, new employment is created.
+  (b) Any ad valorem tax exemption granted pursuant to subsection (a) shall be in
+  effect for not more than 10 calendar years after the calendar year in which the business
+  commences its operations or the calendar year in which expansion of an existing business
+  is completed, as the case requires.
+  (c) The legislature may limit or prohibit the application of this section by enactment
+  uniformly applicable to all cities or counties.
+  (d) The provisions of this section shall not be construed to affect exemptions of
+  property from ad valorem taxation granted by this constitution or by enactment of the
+  legislature, or to affect the authority of the legislature to enact additional exemptions of
+  property from ad valorem taxation found to have a public purpose and promote the general
+  welfare.
+  
+  *** MEND ***
+  *** MSTART 193 003.B 015.0 0 KS 1859 1986 ***         
+  
+  Ratified November 4, 1986
+  
+  SEC. 3B. Regulation, licensing and taxation of horse and dog racing and parimutuel
+  wagering thereon. Notwithstanding the provisions of section 3 of article 15 of the
+  constitution of the state of Kansas, the legislature may permit, regulate, license and tax, at a
+  rate not less than 3% nor more than 6% of all money wagered, the operation or conduct, by
+  bona fide non-profit organizations, of horse and dog racing and parimutuel wagering
+  thereon in any county in which: (a) A majority of the qualified electors of the county voting
+  thereon approve this proposed amendment; or (b) the qualified electors of the county
+  approve a proposition, by a majority vote of those voting thereon at an election held within
+  the county, to permit such racing and wagering within the boundaries of the county. No off-
+  track betting shall be permitted in connection with horse and dog racing       permitted
+  pursuant to this section.
+  
+  *** MEND ***
+  *** MSTART 194 003.C 015.0 0 KS 1859 1986 ***         
+  
+  Ratified November 4, 1986
+  
+  SEC. 3C.  State-owned and operated lottery.  Notwithstanding the provisions of section 3
+  of article 15 of the constitution of the state of Kansas, the legislature may provide for a
+  state-owned and operated lottery, except that such state-owned lottery shall not be operated
+  after June 30, 1990, unless authorized to be operated after such date by a concurrent
+  resolution approved by a majority of all of the members elected (or appointed) and
+  qualified of each house and adopted in the 1990 regular session of the legislature. The state
+  shall whenever possible provide the public information on the odds of winning a prize or
+  prizes in a lottery game.
+  
+  *** MEND ***
+  *** MSTART 195 010.0 015.0 0 KS 1859 1986 ***         
+  
+  Ratified November 4, 1986
+  
+  SEC. 10. Intoxicating liquors. (a) The legislature may provide for the prohibition of
+  intoxicating liquors in certain areas.
+  (b) The legislature may regulate, license and tax the manufacture and sale of
+  intoxicating liquors, and may regulate the possession and transportation of intoxicating
+  liquors.
+              (c) The sale of intoxicating liquor by the individual drink in public places is
+  prohibited, except that the legislature may permit, regulate, license and tax the sale of
+  intoxicating liquor by the drink in public places in a county where the qualified electors of
+  the county approve, by a majority vote of those voting on this proposition, to adopt this
+  proposition, but such sales shall be limited to: (1) Public places where gross receipts from
+  sales of food for consumption on the premises constitute not less than 30% of the gross
+  receipts from all sales of food and beverages on such premises; or (2) public places for
+  which a temporary permit has been issued as authorized by law.  At any subsequent general
+  election, the legislature may provide by law for the submission of propositions to qualified
+  electors of counties for: (1) The prohibition of sales of intoxicating liquor by the individual
+  drink in public places within the county; (2) the regulation, licensing, taxing and sale of
+  intoxicating liquor by the drink in public places within the county without a requirement
+  that any portion of their gross receipts be derived from the sale of food; or (3) the
+  regulation, licensing, taxing and sale of intoxicating liquor by the drink in public places
+  within the county which derive not less than 30% of their gross receipts from the sale of
+  food for consumption on the premises. Temporary permits for the sale of intoxicating
+  liquor may be issued in any county in which the regulation, licensing, taxation and sale of
+  intoxicating liquor by the drink in public places is approved pursuant to this section, but no
+  temporary permit shall be issued for the sale of intoxicating liquor by the drink within any
+  county in which the regulation, licensing, taxation and sale of intoxicating liquor by the
+  drink in public places is prohibited.
+  
+  *** MEND ***
+  *** MSTART 196 001.0 010.0 0 KS 1859 1988 ***         
+  
+  Ratified November 8, 1988
+  
+  SEC. 1. Reapportionment of senatorial and representative districts. (a) At its regular
+  session in 1989, the legislature shall by law reapportion the state representative districts,
+  the state senatorial districts or both the state representative and senatorial districts upon the
+  basis of the latest census of the inhabitants of the state taken by authority of chapter 61 of
+  the 1987 Session Laws of KSnsas. At its regular session in 1992, and at its regular session
+  every tenth year thereafter, the legislature shall by law reapportion the state senatorial
+  districts and representative districts on the basis of the population of the state as established
+  by the most recent census of population taken and published by the United States bureau of
+  the census. Senatorial and representative districts shall be reapportioned upon the basis of
+  the population of the state adjusted: (1) To exclude nonresident military personnel
+  stationed within the state and nonresident students attending colleges and universities
+  within the state; and (2) to include military personnel stationed within the state who are
+  residents of the state and students attending colleges and universities within the state who
+  are residents of the state in the district of their permanent residence. Bills reapportioning
+  legislative districts shall be published in the Kansas register immediately upon final
+  passage and shall be effective for the next following election of legislators and thereafter
+  until again reapportioned.
+  (b) Within 15 days after the publication of an act reapportioning the legislative
+  districts within the time specified in (a), the attorney general shall petition the supreme
+  court of the state to determine the validity thereof. The supreme court, within 30 days from
+  the filing of the petition, shall enter its judgment. Should the supreme court determine that
+  the reapportionment statute is invalid, the legislature shall enact a statute of
+  reapportionment conforming to the judgment of the supreme court within 15 days.
+  (c) Upon enactment of a reapportionment to conform with a judgment under (b), the
+  attorney general shall apply to the supreme court of the state to determine the validity      
+  thereof. The supreme court, within 10 days from the filing of such application, shall enter
+  its judgment. Should the supreme court determine that the reapportionment statute is
+  invalid, the legislature shall again enact a statute reapportioning the legislative districts in
+  compliance with the direction of and conforming to the mandate of the supreme court
+  within 15 days after entry thereof.
+  (d) Whenever a petition or application is filed under this section, the supreme court,
+  in accordance with its rules, shall permit interested persons to present their views.
+  (e) A judgment of the supreme court of the state determining a reapportionment to
+  be valid shall be final until the legislative districts are again reapportioned in accordance      
+  herewith.
+  
+  *** MEND ***
+  *** MSTART 197 001.0 011.0 0 KS 1859 1992 ***
+  
+  Ratified November 3, 1992
+  
+  SEC. 1. System of taxation; classification; exemption. (a) The provisions of this subsection 
+  shall govern the assessment and taxation of property on and after January 1, 1993, and each
+  year thereafter. Except as otherwise hereinafter specifically provided, the legislature shall
+  provide for a uniform and equal basis of valuation and rate of taxation of all property
+  subject to taxation. The legislature may provide for the classification and the taxation
+  uniformly as to class of recreational vehicles, as defined by the legislature, or may exempt
+  such class from property taxation and impose taxes upon another basis in lieu thereof. The  
+  provisions of this subsection shall not be applicable to the taxation of motor vehicles,
+  except as otherwise hereinafter specifically provided, mineral products, money, mortgages,
+  notes and other evidence of debt and grain. Property shall be classified into the following
+  classes for the purpose of assessment and assessed at the percentage of value prescribed
+  therefor:
+  Class 1 shall consist of real property. Real property shall be further classified into
+  seven subclasses. Such property shall be defined by law for the purpose of subclassification
+  and assessed uniformly as to subclass at the following percentages of value:
+  (1) Real property used for residential purposes including multi-family residential real
+  property and real property necessary to accommodate a residential community of        
+  mobile or manufactured homes including the real property upon which such homes are
+  located                             ..11«%
+  (2) Land devoted to agricultural use which shall be valued upon the basis of its agricultural
+  income or agricultural productivity pursuant to section 12 of article 11 of the
+  constitution                            30%
+  (3) Vacant lots                          ..12%
+  (4) Real property which is owned and operated by a not-for-profit organization not subject
+  to federal income taxation pursuant to section 501 of the federal internal revenue code, and
+  which is included in this subclass by law ..            12%
+  (5) Public utility real property, except railroad real property which shall be assessed at the
+  average rate that all other commercial and industrial property is assessed     33%
+  (6) Real property used for commercial and industrial purposes and buildings and other
+  improvements located upon land devoted to agricultural use          25%
+  (7) All other urban and rural real property not otherwise specifically
+  subclassified                            .30%
+           Class 2 shall consist of tangible personal property. Such tangible personal property
+  shall be further classified into six subclasses, shall be defined by law for the purpose of
+  subclassification and assessed uniformly as to subclass at the following percentages of
+  value:
+  (1) Mobile homes used for residential purposes              ..11«% 
+  (2) Mineral leasehold interests except oil leasehold interests the average daily production
+  from which is five barrels or less, and natural gas leasehold interests the average daily
+  production from which is 100 mcf or less, which shall be assessed at 25%    .30%
+  (3) Public utility tangible personal property including inventories thereof, except railroad
+  personal property including inventories thereof, which shall be assessed at the average rate
+  all other commercial and industrial property is assessed            33%
+  (4) All categories of motor vehicles not defined and specifically valued and taxed pursuant
+  to law enacted prior to January 1, 1985                   30%
+  (5) Commercial and industrial machinery and equipment which, if its economic life is
+  seven years or more, shall be valued at its retail cost when new less seven-year straight-line
+  depreciation, or which, if its economic life is less than seven years, shall be valued at its
+  retail cost when new less straight-line depreciation over its economic life, except that, the
+  value so obtained for such property, notwithstanding its economic life and as long as such
+  property is being used, shall not be less than 20% of the retail cost when new of such
+  property                              .25%
+  (6) All other tangible personal property not otherwise specifically classified    30%
+       (b) All property used exclusively for state, county, municipal, literary, educational,
+  scientific, religious, benevolent and charitable purposes, farm machinery and equipment,
+  merchants' and manufacturers' inventories, other than public utility inventories included in
+  subclass (3) of class 2 livestock, and all household goods and personal effects not used for
+  the production of income shall be exempted from property taxation.
+  
+  *** MEND ***
+  *** MSTART 198 015.0 015.0 0 KS 1859 1992 ***
+  
+  Ratified November 3, 1992
+  
+  SEC. 15.  Victims' rights (a) Victims of crime, as defined by law, shall be entitled to
+  certain basic rights, including the right to be informed of and to be present at public
+  hearings, as defined by law, of the criminal justice process, and to be heard at sentencing or
+  at any other time deemed appropriate by the court, to the extent that these rights do not
+  interfere with the constitutional or statutory rights of the accused.
+  (b)  Nothing in this section shall be construed as creating a cause of action for
+  money damages against the state, a county, a municipality, or any of the agencies,
+  instrumentalities, or employees thereof. The legislature may provide for other remedies to
+  ensure adequate enforcement of this section.
+              (c) Nothing in this section shall be construed to authorize a court to set aside or to
+  void a finding of guilty or not guilty or an acceptance of a plea of guilty or to set aside any
+  sentence imposed or any other final disposition in any criminal case.
+          
+  *** MEND ***
+  *** MSTART 199 003.A 015.0 0 KS 1859 1995 ***
+  
+  Ratified April 4, 1995
+  
+  SEC. 3A. Regulation, licensing and taxation of "bingo" games authorized.
+  Notwithstanding the provisions of section 3 of article 15 of the constitution of the state of
+  Kansas the legislature may regulate, license and tax the operation or conduct of games of
+  bingo and instant bingo, as defined by law, by bona fide nonprofit religious, charitable,
+  fraternal, educational and veterans organizations.
+  
+  *** MEND ***
+  *** MSTART 200 002.0 013.0 0 KS 1859 2000 ***
+  
+  Ratified November 7, 2000
+  
+  SEC. 2. State not to be stockholder. The state shall not be a stockholder in any banking       
+  institution, except that any retirement or pension plan authorized pursuant to the laws of
+  this state may be a stockholder in any banking institution.
+  
+  *** MEND ***
+  *** CEND ***

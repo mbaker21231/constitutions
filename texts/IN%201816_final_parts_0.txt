@@ -1,0 +1,1282 @@
+  This is ready to go.
+  
+  JW 1.4.02
+  
+  
+  *** CSTART IN 06/29/1816 11/1/1851 ***
+  
+  CONSTITUTION OF INDIANA 1816
+  
+  *** ASTART 9001.0 IN 1816 ***
+  *** SSTART 001.0 9001.0 0 IN 1816 ***
+  
+  
+  We the Representatives of the people of the Territory of Indiana, in Convention met, at
+  Corydon, on Monday the tenth day of June in the year of our Lord eighteen hundred and
+  sixteen, and of the Independence of the United States the Fortieth, having the right of
+  admission into the General Government, as a member of the Union, consistent with the
+  constitution of the United States, the ordinance of Congress of one thousand seven hundred
+  and eighty seven, and the law of  Congress, entitled "An act to enable the people of the
+  Indiana Territory to form a Constitution and State Government, and for the admission of
+  such State into the Union, on an equal footing with the original States" in order to establish
+  Justice, promote the welfare, and secure the blessings of liberty to ourselves and our
+  posterity; do ordain and establish the following constitution or form of Government, and do
+  mutually agree with each other to form ourselves into a free and Independent State, by the
+  name of the State of Indiana.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 001.0 IN 1816 ***
+  
+  ARTICLE I
+  
+  *** SSTART 001.0 001.0 0 IN 1816 ***
+  
+  SECTION 1. That the general, great and essential principles of liberty and free Government
+  may be recognized and unalterably established; we declare, that all men are born equally
+  free and independent, and have certain natural inherent, and unalienable rights; among
+  which are the enjoying and defending life and liberty, and of acquiring, possessing and
+  protecting property and pursuing and obtaining happiness and safety.
+  
+  *** SEND ***
+  *** SSTART 002.0 001.0 0 IN 1816 ***
+  
+  SEC. 2. That all power is inherent in the people; and all free Governments are founded on
+  their authority, and instituted for their peace, safety and happiness. For the advancement of
+  these ends, they have at all times an unalienable and indefeasible right to alter or reform
+  their Government in such manner as they may think proper.
+  
+  *** SEND ***
+  *** SSTART 003.0 001.0 0 IN 1816 ***
+  
+  SEC. 3. That all men have a natural and indefeasible right to worship Almighty God,
+  according to the dictates of their own consciences: That no man shall be compelled to
+  attend, enact, or support any place of worship or to maintain any ministry against his
+  consent. That no human authority can, in any case whatever, control or interfere with the
+  rights of conscience: and that no preference shall ever be given by law to any religious
+  Societies, or modes of worship; and no religious test shall be required as a qualification to
+  any office of trust or profit.
+  
+  *** SEND ***
+  *** SSTART 004.0 001.0 0 IN 1816 ***
+  
+  SEC. 4. That elections shall be free and equal.
+  
+  *** SEND ***
+  *** SSTART 005.0 001.0 0 IN 1816 ***
+  
+  SEC. 5. That in all civil cases, when the value in controversy shall exceed the sum of twenty
+  dollars, and in all criminal cases, except in petit misdemeanors which shall be punished by
+  fine only, not exceeding three dollars, in such manner as the Legislature may prescribe by
+  law; the right of trial by jury shall remain inviolate.
+  
+  *** SEND ***
+  *** SSTART 006.0 001.0 0 IN 1816 ***
+  
+  SEC. 6. That no power of suspending the operation of the laws, shall be exercised, except
+  by the Legislature, or its authority.
+  
+  *** SEND ***
+  *** SSTART 007.0 001.0 0 IN 1816 ***
+  
+  SEC. 7. That no man's particular services shall be demanded, or property taken, or applied
+  to public use, without the consent of his representatives, or without a just compensation
+  being, made therefore.
+  
+  *** SEND ***
+  *** SSTART 008.0 001.0 0 IN 1816 ***
+  
+  SEC. 8. The rights of the people, to be secure in their persons, houses, papers, and effects,
+  against unreasonable searches, and seizures, shall not be violated: and no warrant shall
+  issue, but upon probable cause, supported by oath, or affirmation, and particularly
+  describing the place to be searched, and the persons or things to be seized.
+  
+  *** SEND ***
+  *** SSTART 009.0 001.0 0 IN 1816 ***
+  
+  SEC. 9. That the print presses shall be free to every person, who undertakes to examine the
+  proceedings of the Legislature, or any branch of Government; and no law shall ever be
+  made to restrain the right thereof. The free communication of thoughts, and opinions, is one
+  of the invaluable rights of man; and every citizen may freely speak, write, and print on any
+  subject, being responsible for the abuse of that liberty.
+  
+  *** SEND ***
+  *** SSTART 010.0 001.0 0 IN 1816 ***
+  
+  SEC. 10. In prosecutions for the publication of papers investigating the official conduct of
+  officers, or men in a public capacity, or where the matter published is proper for the public
+  information, the truth thereof may be given in evidence; and in all indictments for libels, the
+  Jury shall have a right to determine the law and the facts, under the direction of the Court,
+  as in other cases.
+  
+  *** SEND ***
+  *** SSTART 011.0 001.0 0 IN 1816 ***
+  
+  SEC. 11. That all Courts shall be open, and every person, for an injury done him, in his
+  lands, goods, person, or reputation shall have remedy by the due course of law; and right
+  and justice administered without denial or delay. 
+  
+  *** SEND ***
+  *** SSTART 012.0 001.0 0 IN 1816 ***
+  
+  SEC. 12. That no person arrested, or confined in jail, shall be treated with unnecessary
+  rigor, or be put to answer any criminal charge, but by presentment, indictment or
+  impeachment.
+  
+  *** SEND ***
+  *** SSTART 013.0 001.0 0 IN 1816 ***
+  
+  SEC. 13. That in all criminal prosecutions, the accused hath a right to be heard by himself
+  and counsel, to demand the nature and cause of the accusation against him, and to have a
+  copy thereof; to meet the witnesses face to face, to have compulsory process for obtaining
+  witnesses in his favor, and in prosecution by indictment or presentment a speedy public trial
+  by all impartial Jury of the county or district in which the offense shall have been
+  committed; and shall not be compelled to give evidence against himself nor shall be twice
+  put in jeopardy for the same offense.
+  
+  *** SEND ***
+  *** SSTART 014.0 001.0 0 IN 1816 ***
+  
+  SEC. 14. That all persons shall be bailable by sufficient sureties, unless for capital offenses,
+  when the proof is evident, or the presumption great; and the privilege of the writ of habeas
+  corpus shall not be suspended, unless, in case of rebellion or invasion, the public safety may
+  require it.
+  
+  *** SEND ***
+  *** SSTART 015.0 001.0 0 IN 1816 ***
+  
+  SEC. 15. Excessive bail shall not be required, excessive fines shall not be imposed, nor cruel
+  and unusual punishments inflicted.
+  
+  *** SEND ***
+  *** SSTART 016.0 001.0 0 IN 1816 ***
+  
+  SEC. 16. All penalties shall be proportioned to the nature of the offense.
+  
+  *** SEND ***
+  *** SSTART 017.0 001.0 0 IN 1816 ***
+  
+  SEC. 17. The person of a debtor, where there is not strong presumption of fraud, shall not
+  be continued in prison, after delivering up his estate for the benefit of his creditor or
+  creditors, in such manner as shall be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 018.0 001.0 0 IN 1816 ***
+  
+  SEC. 18. No ex post facto law, nor any law impairing the validity of contracts, shall ever be
+  made, and no conviction shall work corruption of blood, nor forfeiture of estate.
+  
+  *** SEND ***
+  *** SSTART 019.0 001.0 0 IN 1816 ***
+  
+  SEC. 19. That the people have a right to assemble together in a peaceable manner, to
+  consult for their common good, to instruct, their representatives, and to apply to the
+  Legislature for redress of grievances.
+  
+  *** SEND ***
+  *** SSTART 020.0 001.0 0 IN 1816 ***
+  
+  SEC. 20. That the people have a right to bear arms for the defense of themselves and the
+  State, and that the military shall be kept in strict subordination to the civil power:
+  
+  *** SEND ***
+  *** SSTART 021.0 001.0 0 IN 1816 ***
+  
+  SEC. 21. That no soldier shall, in time of peace, be quartered in any house without the
+  consent of the owner, nor in time of war, but in a manner to be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 022.0 001.0 0 IN 1816 ***
+  
+  SEC. 22. That the Legislature shall not grant any title of nobility, or heredity distinctions,
+  nor create any office, the appointment to which shall be for a longer time than good
+  behavior.
+  
+  *** SEND ***
+  *** SSTART 023.0 001.0 0 IN 1816 ***
+  
+  SEC. 23. That emigration from the State shall not be prohibited.
+  
+  *** SEND ***
+  *** SSTART 024.0 001.0 0 IN 1816 ***
+  
+  SEC. 24. To guard against, any encroachments on the rights herein retained, we declare,
+  that everything in this article, is excepted out of the general powers of Government, and
+  shall forever remain inviolable.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 002.0 IN 1816 ***
+  
+  ARTICLE II
+  
+  *** SSTART 001.0 002.0 0 IN 1816 ***
+  
+  The powers of the Government of Indiana shall be divided into three distinct departments,
+  and each of them be confided to a separate body of magistracy, to-wit; Those which are
+  Legislative to one, those which are Executive to another, and those which are Judiciary to
+  another; and no person or collection of persons, being of one of those departments, shall
+  exercise any power properly attached to either of the other, except in the instances herein
+  expressly permitted.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 003.0 IN 1816 ***
+  
+  ARTICLE III
+  
+  *** SSTART 001.0 003.0 0 IN 1816 ***
+  
+  SECTION 1. The Legislative authority of this State, shall be vested in a General Assembly,
+  which shall consist of a Senate, and House of Representatives, both to be elected by the
+  people.
+  
+  *** SEND ***
+  *** SSTART 002.0 003.0 0 IN 1816 ***
+  
+  SEC. 2. The General Assembly may, within two years after their first meeting, and shall, in
+  the year eighteen hundred and twenty, and ever subsequent term of five years, cause an
+  enumeration to be made, of all the white male inhabitants above the age, of twenty-one
+  years. The number of Representatives shall, at the several periods of making such
+  enumeration, be fixed by the General Assembly, and apportioned among the several
+  counties according to the number of white male inhabitants above twenty-one years of age
+  in each; and shall never be less than twenty-five, nor greater than thirty-six, until the number
+  of white male inhabitants above twenty-one years of age shall be twenty-two thousand; and
+  after that event, at such ratio, that the whole number of Representatives shall never be less
+  than thirty-six, nor exceed one hundred.
+  
+  *** SEND ***
+  *** SSTART 003.0 003.0 0 IN 1816 ***
+  
+  SEC. 3. The Representatives shall be chosen annually, by the qualified electors of each
+  county respectively, on the first Monday of August.
+  
+  *** SEND ***
+  *** SSTART 004.0 003.0 0 IN 1816 ***
+  
+  SEC. 4. No person shall be a Representative, unless he shall have attained the age of
+  twenty-one years, and shall be a citizen of the United States, and an inhabitant of this State,
+  and shall also have resided within the limits of the county, in which he shall be chosen one
+  year next preceding his election, if the county shall have been so long erected, but if not,
+  then within the limits of the County or counties out of which it shall have been taken, unless
+  he shall have been absent on the public business of the United States, or of this State, and
+  shall have paid a State or county tax.
+  
+  *** SEND ***
+  *** SSTART 005.0 003.0 0 IN 1816 ***
+  
+  SEC. 5. The Senators shall be chosen for three years, on the first Monday in August, the
+  qualified votes for Representatives; and on this being convened, in consequence of the first
+  election, they shall be divided by lot, from their respective counties, or districts, as near
+  as can be, into three classes; the seats of the Senators of the first class shall be vacated at
+  the expiration of the first year; and the second class, at the expiration of the second year;
+  and of the third class, at the expiration of the third year; so that one-third thereof, as near as
+  possible, may be annually chosen forever thereafter.
+  
+  *** SEND ***
+  *** SSTART 006.0 003.0 0 IN 1816 ***
+  
+  SEC. 6. The number of Senators shall, at the several periods of making the enumeration
+  before mentioned, be fixed by the General Assembly, and apportioned among the several
+  counties or districts, to be established by law, according to the number of white male
+  inhabitants of the age of twenty-one years in each, and shall never be less than one-third,
+  nor more than one-half of the number of Representatives.
+  
+  *** SEND ***
+  *** SSTART 007.0 003.0 0 IN 1816 ***
+  
+  SEC. 7. No person shall be a Senator, unless he shall have attained the age of twenty-five
+  years, and shall be a citizen of the United States, and shall, next preceding the election, have
+  resided two years in the State, the last twelve months of which in the county or district in
+  which he may be elected, if the county or district shall have been so long erected, but if not,
+  then within the limits of the county or counties, district or districts, out of which the same
+  shall have been taken; unless he shall have been absent on the public business of the United
+  States, or of this State, and shall moreover have paid a State or county tax. 
+  
+  *** SEND ***
+  *** SSTART 008.0 003.0 0 IN 1816 ***
+  
+  SEC. 8. The House of Representatives, when assembled, choose a Speaker, and its other
+  officers, and the Senate shall choose its officers, except the President, and each shall be
+  judges of the qualifications and elections of its members, and sit upon its own adjournments.
+  Two-thirds of each House shall constitute a quorum to do business, but a smaller number
+  may adjourn from day to day, and compel the attendance of absent members.
+  
+  *** SEND ***
+  *** SSTART 009.0 003.0 0 IN 1816 ***
+  
+  SEC. 9. Each House shall keep a Journal of its proceedings, and publish them. The yeas and
+  nays of the members, on any question, shall, at the request of any two of them, be entered
+  on the Journals. 
+  
+  *** SEND ***
+  *** SSTART 010.0 003.0 0 IN 1816 ***
+  
+  SEC. 10. Any one member of either House shall have liberty to dissent from, and protest
+  against, any act or resolution which he may think injurious to the public, or any individual or
+  individuals, and have the reasons of his dissent entered on the Journals.
+  
+  *** SEND ***
+  *** SSTART 011.0 003.0 0 IN 1816 ***
+  
+  SEC. 11. Each House may determine the rules of its proceedings, punish its members for
+  disorderly behavior, and, with the concurrence of two-thirds, expel a member, but not a
+  second time for the same cause; and shall have all other powers necessary for a branch of
+  the Legislature of a free and independent State.
+  
+  *** SEND ***
+  *** SSTART 012.0 003.0 0 IN 1816 ***
+  
+  SEC. 12. When vacancies happen in either branch of the General Assembly, the Governor,
+  or person exercising the power of Governor, shall issue writs of election to fill such
+  vacancies.
+  
+  *** SEND ***
+  *** SSTART 013.0 003.0 0 IN 1816 ***
+  
+  SEC. 13. Senators and Representatives shall, in all cases except treason, felony, or breach
+  of the peace, be privileged from arrest, during the session of the General Assembly, and in
+  going to and returning from the same; and for any speech or debate in either House, they
+  shall not be questioned in any other place.
+  
+  *** SEND ***
+  *** SSTART 014.0 003.0 0 IN 1816 ***
+  
+  SEC. 14. Each House may punish, by imprisonment, during their session, any person, not a
+  member, who shall be guilty of any disrespect to the House, by any disorderly, or
+  contemptuous behavior in their presence; Provided, Such imprisonment shall not, at any one
+  time, exceed twenty-four hours.
+  
+  *** SEND ***
+  *** SSTART 015.0 003.0 0 IN 1816 ***
+  
+  SEC. 15. The doors of each House, and of committees of the whole, shall be kept open,
+  except in such cases as, in the opinion of the House, may require secrecy. Neither House
+  shall, without the consent of the other, adjourn for more than two days, nor to any other
+  place than that in which the two Houses shall be sitting.
+  
+  *** SEND ***
+  *** SSTART 016.0 003.0 0 IN 1816 ***
+  
+  SEC. 16. Bills may originate in either House, but may be altered, amended, or rejected by
+  the other.
+  
+  *** SEND ***
+  *** SSTART 017.0 003.0 0 IN 1816 ***
+  
+  SEC. 17. Every bill shall be read on three different days in each House, unless, in case of
+  urgency, two-thirds of the House, where such bill may be depending, shall deem it
+  expedient to dispense with this rule, and every bill, having passed both Houses, shall be
+  signed by the President and Speaker of their respective Houses.
+  
+  *** SEND ***
+  *** SSTART 018.0 003.0 0 IN 1816 ***
+  
+  SEC. 18 The style of the laws of this State shall be, "Be it enacted by the General Assembly
+  of the State of Indiana."
+  
+  *** SEND ***
+  *** SSTART 019.0 003.0 0 IN 1816 ***
+  
+  SEC. 19. All bills for raising revenue shall originate in the House of Representatives; but the
+  Senate may amend or reject, as in other bills.
+  
+  *** SEND ***
+  *** SSTART 020.0 003.0 0 IN 1816 ***
+  
+  SEC. 20. No person, holding any office under the authority of the President of the United
+  States, or of this State, military offices excepted, shall be eligible to a seat in either branch
+  of the General Assembly, unless he resign his office previous to his election, nor shall any
+  member of either branch of the General Assembly, during the time for which he is elected,
+  be eligible to any office, the appointment of which is vested in the General Assembly:
+  Provided, That nothing, in this Constitution, shall be so construed, as to prevent any
+  member of the first session of the first General Assembly from accepting any office that is
+  created by this Constitution, or the Constitution of the United States, and the salaries of
+  which are established.
+  
+  *** SEND ***
+  *** SSTART 021.0 003.0 0 IN 1816 ***
+  
+  SEC. 21. No money shall be drawn from the Treasury, but in consequence of appropriations
+  made by law.
+  
+  *** SEND ***
+  *** SSTART 022.0 003.0 0 IN 1816 ***
+  
+  SEC. 22. An accurate statement of the receipts and expenditures of the public moneys shall
+  be attached to and published with the laws, at every annual session of the General
+  Assembly.
+  
+  *** SEND ***
+  *** SSTART 023.0 003.0 0 IN 1816 ***
+  
+  SEC. 23. The House of Representatives shall have the sole power of impeaching; but a
+  majority of all the members elected must concur in such impeachment. All impeachments
+  shall be tried by the Senate, and when sitting for that purpose, the Senators shall be upon
+  oath or affirmation to do justice according to law and evidence. No person shall be
+  convicted without the concurrence of a majority of all the Senators elected.
+  
+  *** SEND ***
+  *** SSTART 024.0 003.0 0 IN 1816 ***
+  
+  SEC. 24. The Governor, and all civil officers of the State, shall be removed from office, on
+  impeachment for and conviction of treason, bribery, or other high crimes and
+  misdemeanors; but judgment in such cases shall not extend further than removal from office,
+  and disqualification to hold any office of honor, profit, or trust, under this State. The party,
+  whether convicted or acquitted shall, nevertheless, be liable to indictment, trial, judgment
+  and punishment according to law.
+  
+  *** SEND ***
+  *** SSTART 025.0 003.0 0 IN 1816 ***
+  
+  SEC. 25. The first session of the General Assembly shall commence on the first Monday of
+  November next, and forever after the General Assembly shall meet on the first Monday in
+  December in every year, and at no other period, unless directed by law, or provided for by
+  this Constitution.
+  
+  *** SEND ***
+  *** SSTART 026.0 003.0 0 IN 1816 ***
+  
+  SEC. 26. No person, who hereafter may be a collector, or holder of public money, shall
+  have a seat in either house of the General Assembly, until such person shall have accounted
+  for, and paid into the Treasury all sums for which be may be accountable.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 004.0 IN 1816 ***
+  
+  ARTICLE IV
+  
+  *** SSTART 001.0 004.0 0 IN 1816 ***
+  
+  SECTION 1. The Supreme Executive power of this State shall be vested in a Governor,
+  who shall be styled, the Governor of the State of Indiana.
+  
+  *** SEND ***
+  *** SSTART 002.0 004.0 0 IN 1816 ***
+  
+  SEC. 2. The Governor shall be chosen by the qualified electors on the first Monday in
+  August, at the places where they shall respectively vote for Representatives. The returns of
+  every election for Governor shall be sealed up and transmitted to the seat of Government,
+  directed to the Speaker of the House of Representatives, who shall open and publish them
+  in the presence of both Houses of the General Assembly.  The person having the highest
+  number of votes shall be Governor, but if two or more shall be equal, and highest in votes,
+  one of them shall be chosen Governor by the joint vote of the members of both Houses.
+  Contested elections shall be determined by a committee, to be selected from both Houses of
+  the General Assembly, and formed and regulated in such manner as shall be directed by law.
+  
+  *** SEND ***
+  *** SSTART 003.0 004.0 0 IN 1816 ***
+  
+  SEC. 3. The Governor shall hold his office during three years, from and after the third day
+  of the First Session of the General Assembly next ensuing his election, and until a successor
+  shall be chosen and qualified, and shall not be capable of holding it longer than six years in
+  any term of nine years.
+  
+  *** SEND ***
+  *** SSTART 004.0 004.0 0 IN 1816 ***
+  
+  SEC. 4. He shall be at least thirty years of age, and shall have been a citizen of the United
+  States ten years, and have resided in the State five years next preceding his election; unless
+  he shall have been absent on the business of the State, or of the United States: Provided,
+  That this shall not disqualify any person from the office of Governor, who shall be a citizen
+  of the United States, and shall have resided in the Indiana Territory two years next
+  preceding the adoption of this Constitution.
+  
+  *** SEND ***
+  *** SSTART 005.0 004.0 0 IN 1816 ***
+  
+  SEC. 5. No member of Congress or person holding any office under the United States, or
+  this State, shall exercise the office of Governor, or Lieutenant-Governor,
+  
+  *** SEND ***
+  *** SSTART 006.0 004.0 0 IN 1816 ***
+  
+  SEC. 6. The Governor shall, at stated times, receive for his services a compensation, which
+  shall neither be increased nor diminished during the term for which he shall have been
+  elected.
+  
+  *** SEND ***
+  *** SSTART 007.0 004.0 0 IN 1816 ***
+  
+  SEC. 7. He shall be Commander-in-Chief of the Army and Navy of this State and of the
+  Militia thereof except when they shall be called into the service of the United States, but he
+  shall not command personally in the field, unless he shall be advised so to do, by a
+  resolution of the General Assembly.
+  
+  *** SEND ***
+  *** SSTART 008.0 004.0 0 IN 1816 ***
+  
+  SEC. 8. He shall nominate, and, by and with the advice and consent of the Senate, appoint
+  and commission all officers, the appointment of which is not otherwise directed by this
+  Constitution, and all offices which may be created by the General Assembly shall be filled in
+  such manner as may be directed by law.
+  
+  *** SEND ***
+  *** SSTART 009.0 004.0 0 IN 1816 ***
+  
+  SEC. 9. Vacancies that may happen in offices, the appointment of which is vested in the
+  Governor and Senate, or in the General Assembly, shall be filled by the Governor, during
+  the recess of the General Assembly, by granting commissions that shall expire at the end of
+  the next session.
+  
+  *** SEND ***
+  *** SSTART 010.0 004.0 0 IN 1816 ***
+  
+  SEC. 10. He shall have power to remit fines and forfeitures, grant reprieves and pardons,
+  except in cases of impeachments.
+  
+  *** SEND ***
+  *** SSTART 011.0 004.0 0 IN 1816 ***
+  
+  SEC. 11. He may require information in writing from the officers in the executive
+  departments, upon any subject relating to the duties, of their respective offices. 
+  
+  *** SEND ***
+  *** SSTART 012.0 004.0 0 IN 1816 ***
+  
+  SEC. 12. He shall, from time to time, give to the General Assembly information of the
+  affairs of the State, and recommend to their consideration such measures as he shall deem
+  expedient.
+  
+  *** SEND ***
+  *** SSTART 013.0 004.0 0 IN 1816 ***
+  
+  SEC. 13. He may, in extraordinary occasions, convene the General Assembly at the seat of
+  government; or at a different place, if that shall have become, since their last adjournment,
+  dangerous from an enemy or from contagious disorders, and in case, of a disagreement,
+  between the two Houses with respect to the time of adjournment, adjourn them to such
+  time as he shall think proper not beyond the time of their next annual session.
+  
+  *** SEND ***
+  *** SSTART 014.0 004.0 0 IN 1816 ***
+  
+  SEC. 14. He shall take care that the laws be faithfully executed.
+  
+  *** SEND ***
+  *** SSTART 015.0 004.0 0 IN 1816 ***
+  
+  SEC. 15. A Lieutenant-Governor shall be chosen at every election for Governor, in the
+  same manner, continue in office for the same time, and possess the same qualifications. In
+  voting for Governor and Lieutenant-Governor the electors shall distinguish whom they vote
+  for as Governor and whom as Lieutenant-Governor.
+  
+  *** SEND ***
+  *** SSTART 016.0 004.0 0 IN 1816 ***
+  
+  SEC. 16. He shall, by virtue of his office, be President of the Senate, have a right, when in
+  Committee of the Whole, to debate and vote on all subjects, and, when the Senate are
+  equally divided, to give the casting vote.
+  
+  *** SEND ***
+  *** SSTART 017.0 004.0 0 IN 1816 ***
+  
+  SEC. 17. In case of impeachment of the Governor, his removal from office, death, refusal to
+  qualify, resignation, or absence from the State, the Lieutenant-Governor shall exercise all
+  the powers and authority appertaining to the office of Governor until another be duly
+  qualified, or the Governor absent or impeached shall return or be acquitted.
+  
+  *** SEND ***
+  *** SSTART 018.0 004.0 0 IN 1816 ***
+  
+  SEC. 18. Whenever the Government shall be administered by the Lieutenant-Governor, or
+  he shall be unable to attend as President of the Senate, the Senate shall elect one of their
+  own members as President for that occasion. And if, during the vacancy of the office of
+  Governor, the Lieutenant-Governor shall be impeached, removed from office, refuse to
+  qualify, resign, die, or be absent from the State, the President of the Senate pro tem. shall in
+  like manner administer the Government until he shall be superseded by a Governor or
+  Lieutenant-Governor. The Lieutenant-Governor, while he acts as President of the Senate,
+  shall receive for his services the same compensation which shall for the same period be
+  allowed to the Speaker of the House of Representatives, and no more; and during the time
+  he administers the Government, as Governor, shall receive the same compensation which
+  the Governor would have received and been entitled to had he been employed in the duties
+  of his office, and no more.
+  
+  *** SEND ***
+  *** SSTART 019.0 004.0 0 IN 1816 ***
+  
+  SEC. 19. The President pro tempore of the Senate, during the time he administers the
+  Government, shall receive in like manner the same compensation which the Governor would
+  have received had he been employed in the duties of his office, and no more.
+  
+  *** SEND ***
+  *** SSTART 020.0 004.0 0 IN 1816 ***
+  
+  SEC. 20. If the Lieutenant-Governor shall be called upon to administer the Government,
+  and shall, while in such administration, resign, die, or be absent from the State during the
+  recess of the General Assembly, it shall be the duty of the Secretary of State for the time
+  being to convene the Senate for the purpose of choosing a President pro tempore.
+  
+  *** SEND ***
+  *** SSTART 021.0 004.0 0 IN 1816 ***
+  
+  SEC. 21. A Secretary of State shall be chosen by the joint ballot of both houses of the
+  General Assembly, and be commissioned by the Governor for four years, or until a new
+  Secretary be chosen and qualified. He shall keep a fair register, and attest all the official acts
+  and proceedings of the Governor, and shall, when required, lay the same and all papers,
+  minutes and vouchers relative thereto before either House of the General Assembly, and
+  shall perform such other duties as may be enjoined him by law.
+  
+  *** SEND ***
+  *** SSTART 022.0 004.0 0 IN 1816 ***
+  
+  SEC. 22. Every bill, which shall have passed both Houses of the General Assembly, shall be
+  presented to the Governor; if he approves, he shall sign it; but if not, he shall return it, with
+  his objections, to the House in which it [may] have originated, who shall enter the
+  objections at large upon their Journals and proceed to reconsider it; if after such
+  reconsiderations, a majority of all the members elected to that House shall agree to pass the
+  bill, it shall be sent, with the objections, to the other House, by which it shall likewise be
+  reconsidered, and if approved by a majority of all the members elected to that House, it
+  shall be a law; but, in such cases, the votes of both Houses shall be determined by yeas and
+  nays, and the names of the persons voting for, and against the bill, shall be entered on the
+  Journals of each House respectively. If any bill shall not be returned by the Governor within
+  five days (Sundays excepted) after it shall have been presented to him, it shall be a law, in
+  like manner as if he had signed it; unless the general adjournment prevents its return, in
+  which case it shall be a law, unless sent back within three days after their next meeting.
+  
+  *** SEND ***
+  *** SSTART 023.0 004.0 0 IN 1816 ***
+  
+  SEC. 23. Every resolution, to which the convenience of both Houses may be necessary,
+  shall be presented to the Governor, and before it shall take effect, be approved by him, or
+  being disapproved, shall be repassed by a majority of all the members elected to both
+  Houses, according to the rules and limitations prescribed in case of a bill.
+  
+  *** SEND ***
+  *** SSTART 024.0 004.0 0 IN 1816 ***
+  
+  SEC 24. There shall be elected, by joint ballot of both Houses the General Assembly, a
+  Treasurer and Auditor, whose powers and duties shall be prescribed by law, and who shall
+  hold their offices three years, and until their successors be appointed and qualified.
+  
+  *** SEND ***
+  *** SSTART 025.0 004.0 0 IN 1816 ***
+  
+  SEC 25. There shall be elected in each county by the qualified electors thereof, one Sheriff,
+  and one Coroner, at the times and places of holding elections for members of the General
+  Assembly. Then shall continue in office two years, and until successors shall be chosen and
+  duly qualified: Provided, That no person shall be eligible to the office of Sheriff more than
+  four years in any term of six years.
+  
+  *** SEND ***
+  *** SSTART 026.0 004.0 0 IN 1816 ***
+  
+  SEC. 26. There shall be a seal of this State, which shall be kept, by the Governor and used 
+  by him officially, and shall be called the Seal of the State of Indiana.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 005.0 IN 1816 ***
+  
+  ARTICLE V
+  
+  *** SSTART 001.0 005.0 0 IN 1816 ***
+  
+  SECTION 1. The judiciary power of this State, both as to matters of law and equity shall be
+  vested in one Supreme Court, in Circuit Courts, and in such other inferior Courts, as the
+  General Assembly may, from time to time, direct and establish.
+  
+  *** SEND ***
+  *** SSTART 002.0 005.0 0 IN 1816 ***
+  
+  SEC. 2. The Supreme Court shall consist of three Judges, any two of whom shall form a
+  quorum, and shall have appellate jurisdiction only, which shall be co-extensive with the
+  limits of the State, under such restrictions and regulations not repugnant to this
+  Constitution, as may from time to time be prescribed by law: Provided, Nothing in this
+  article shall be so construed, as to prevent the General Assembly from giving the Supreme
+  Court original jurisdiction in capital cases, and cases in chancery, where the President of the
+  Circuit Court may be interested or prejudiced.
+  
+  *** SEND ***
+  *** SSTART 003.0 005.0 0 IN 1816 ***
+  
+  SEC. 3. The Circuit Courts shall each consist of a President and two Associate Judges. The
+  State shall be divided, by law, into three circuits, for each of which a President shall be
+  appointed, who, during his continuance in office, shall reside therein. The President and
+  Associate Judges, in their respective counties, shall have common law and chancery
+  jurisdiction, as also complete criminal jurisdiction in all such cases and in such manner as
+  may be prescribed by law. The President alone, in the absence of the Associate Judges, or
+  the President and one of the Associate Judges, in the absence of the other, shall be
+  competent to hold a Court, as also the two Associate Judges in the absence of the
+  President, shall be competent to hold a Court, except in capital cases and cases in chancery:
+  Provided, That nothing herein contained shall prevent the General Assembly from
+  increasing the number of circuits and Presidents as the exigencies of the State may from
+  time to time require.
+  
+  *** SEND ***
+  *** SSTART 004.0 005.0 0 IN 1816 ***
+  
+  SEC. 4. The Judges of the Supreme Court, the Circuit, and other inferior courts shall hold
+  their offices during the term of seven years, if they shall so long behave well, and shall at
+  stated times receive for their services a compensation which shall not be diminished during
+  their continuance in office.
+  
+  *** SEND ***
+  *** SSTART 005.0 005.0 0 IN 1816 ***
+  
+  SEC. 5. The Judges of the Supreme Court shall, by virtue of their offices, be conservators
+  of the peace throughout the 8tate, as also the Presidents of the Circuit Courts in their
+  respective circuits, and the Associate Judges in their respective counties.
+  
+  *** SEND ***
+  *** SSTART 006.0 005.0 0 IN 1816 ***
+  
+  SEC. 6. The Supreme Court shall hold its sessions at the seat of government, at such times
+  as shall be prescribed by law; and the Circuit Courts shall be held in the respective counties
+  as may be directed by law.
+  
+  *** SEND ***
+  *** SSTART 007.0 005.0 0 IN 1816 ***
+  
+  SEC. 7. The Judges of f the Supreme Court shall be appointed by the Governor, by and
+  with the advice and consent of the Senate. The Presidents of the Circuit Courts shall be
+  appointed by joint ballot of both branches of the General Assembly, and the Associate
+  Judges of the Circuit Courts shall be elected by the qualified electors in the respective
+  counties.
+  
+  *** SEND ***
+  *** SSTART 008.0 005.0 0 IN 1816 ***
+  
+  SEC. 8. The Supreme Court shall appoint its own Clerk, and the Clerks of the Circuit Court
+  in the several counties shall be elected by the qualified electors in the several counties, but
+  no person shall be eligible to the office of Clerk of the Circuit Court in any county unless he
+  shall first have obtained, from one or more of the Judges of the Supreme Court, or from one
+  or more of the Presidents of the Circuit Courts, a certificate that he is qualified to execute
+  the duties of the office of Clerk of the Circuit Court: Provided, That nothing herein
+  contained shall prevent, the Circuit Courts in each county from appointing a Clerk pro tem.
+  until a qualified Clerk may be duly elected: and Provided, also, That the said Clerks,
+  respectively, when qualified and elected, shall hold their offices seven years, and no longer,
+  unless reappointed.
+  
+  *** SEND ***
+  *** SSTART 009.0 005.0 0 IN 1816 ***
+  
+  SEC. 9. All Clerks shall be removable by impeachment as in other cases.
+  
+  *** SEND ***
+  *** SSTART 010.0 005.0 0 IN 1816 ***
+  
+  SEC. 10. When any vacancies happen in any of the Courts, occasioned by the death,
+  resignation or removal from office of any Judge of the Supreme or Circuit Courts, or any of
+  the Clerks of the said Courts, a successor shall be appointed in the same manner as herein
+  before prescribed, who shall hold his office for the period which his predecessor had to
+  serve, and no longer, unless reappointed.
+  
+  *** SEND ***
+  *** SSTART 011.0 005.0 0 IN 1816 ***
+  
+  SEC. 11. The style of all process shall be "The State of Indiana;" all prosecutions shall be
+  carried on in the name and by the authority of the State of Indiana; and all indictments shall
+  coincide against the peace and dignity of the same.
+  
+  *** SEND ***
+  *** SSTART 012.0 005.0 0 IN 1816 ***
+  
+  SEC. 12. A competent number of Justices of the Peace shall be elected by the qualified
+  electors in each township in the several counties, and shall continue in office five years, if
+  they shall so long behave well, whose powers and duties shall from time to time be
+  regulated and defined by law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 006.0 IN 1816 ***
+  
+  ARTICLE VI
+  
+  *** SSTART 001.0 006.0 0 IN 1816 ***
+  
+  SECTION 1. In all elections, not otherwise provided for by this Constitution, every white
+  male citizen of the United States, of the age of twenty-one years and upwards, who has
+  resided in the State one year immediately preceding such election shall be entitled to vote in
+  the county where he resides; except such as shall be enlisted in the armies of the United
+  States or their allies.
+  
+  *** SEND ***
+  *** SSTART 002.0 006.0 0 IN 1816 ***
+  
+  SEC. 2. All elections shall be by ballot: Provided, That the General Assembly may, if they
+  deem it more expedient, at their session in eighteen hundred and twenty-one change the
+  mode so as to vote viva voce, after which time it shall remain unalterable.
+  
+  *** SEND ***
+  *** SSTART 003.0 006.0 0 IN 1816 ***
+  
+  SEC. 3. Electors shall in all cases, except treason, felony, or breach of the peace, be free
+  from arrest in going to, during their attendance at, and in returning home from elections.
+  
+  *** SEND ***
+  *** SSTART 004.0 006.0 0 IN 1816 ***
+  
+  SEC. 4. The General Assembly shall have full power to exclude from electing, or being
+  elected, any person convicted of any infamous crime.
+  
+  *** SEND ***
+  *** SSTART 005.0 006.0 0 IN 1816 ***
+  
+  SEC. 5. Nothing in this article shall be so construed as to prevent citizens of the United
+  States who were actual residents at the time of adopting this Constitution, and who, by the
+  existing laws of this Territory, are entitled to vote, or persons who have been absent from
+  home on a visit or necessary business, from the privilege of electors.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 007.0 IN 1816 ***
+  
+  ARTICLE VII
+  
+  *** SSTART 001.0 007.0 0 IN 1816 ***
+  
+  SECTION 1. The militia of the State of Indiana shall consist of all free, able-bodied male
+  persons; negroes, mulattoes and Indians excepted, resident in the said State, between the
+  ages of eighteen and forty-five years, except such persons as now are or hereafter may be
+  exempted by the laws of the United States or of this State; and shall be armed, equipped and
+  trained as the General Assembly may provide by law.
+  
+  *** SEND ***
+  *** SSTART 002.0 007.0 0 IN 1816 ***
+  
+  SEC. 2. No person or persons conscientiously scrupulous of bearing arms shall be
+  compelled to do militia duty: Provided, Such person or persons shall pay an equivalent for
+  such exemption; which equivalent shall be collected annually by a civil officer, and be
+  hereafter fixed by law, and shall be equal, as near as may be, to the lowest fines assessed on
+  those privates in the militia who may neglect or refuse to perform militia duty.
+  
+  *** SEND ***
+  *** SSTART 003.0 007.0 0 IN 1816 ***
+  
+  SEC. 3. Captains and subalterns shall be elected by those persons in their respective
+  company districts who are subject to perform militia duty, and the Captain of each company
+  shall appoint the non-commissioned officers to said company.
+  
+  *** SEND ***
+  *** SSTART 004.0 007.0 0 IN 1816 ***
+  
+  SEC. 4. Majors shall be elected by those persons within the bounds of their respective
+  battalion districts subject to perform militia duty; and Colonels shall be elected by those
+  persons within the bounds of their respective regimental districts subject to perform militia
+  duty.
+  
+  *** SEND ***
+  *** SSTART 005.0 007.0 0 IN 1816 ***
+  
+  SEC. 5. Brigadier-Generals shall be elected by the commissioned officers within the bounds
+  of their respective brigades, and Major-Generals shall be elected by the commissioned
+  officers within the bounds of their respective divisions.
+  
+  *** SEND ***
+  *** SSTART 006.0 007.0 0 IN 1816 ***
+  
+  SEC. 6. Troops and squadrons of cavalry and companies of artillery, riflemen, grenadiers or
+  light infantry, may be formed in the said State in such manner as shall be prescribe by law:
+  Provided, however, That every troop or squadron of cavalry, company of artillery, riflemen,
+  grenadiers or light infantry which may hereafter be formed within the said State shall elect
+  their own officers.
+  
+  *** SEND ***
+  *** SSTART 007.0 007.0 0 IN 1816 ***
+  
+  SEC. 7. The Governor shall appoint the Adjutant-General and Quartermaster-Generals, as
+  also his aides de camp.
+  
+  *** SEND ***
+  *** SSTART 008.0 007.0 0 IN 1816 ***
+  
+  SEC. 8. Major-Generals shall appoint their aides de camp and all other division staff
+  officers. Brigadier-Generals shall appoint their Brigade Majors and all other brigade staff
+  officers, and Colonels shall appoint their regimental staff officers.
+  
+  *** SEND ***
+  *** SSTART 009.0 007.0 0 IN 1816 ***
+  
+  SEC. 9. All militia officers shall be commissioned by the Governor and shall hold their
+  commissions during good behavior or until they arrive at the age of sixty years.
+  
+  *** SEND ***
+  *** SSTART 010.0 007.0 0 IN 1816 ***
+  
+  SEC. 10. The General Assembly shall, by law, fix the method of dividing the militia of the
+  said State into divisions, brigades, regiments, battalions and companies, and shall also fix
+  the rank of all staff officers.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 008.0 IN 1816 ***
+  
+  ARTICLE VIII
+  
+  *** SSTART 001.0 008.0 0 IN 1816 ***
+  
+  SECTION 1. Every twelfth year, after this Constitution shall have taken effect, at the
+  general election held for Governor there shall be a poll opened in which the qualified
+  electors of the State shall express, by vote, whether they are in favor of calling a convention
+  or not; and if there should be a majority of all the votes given at such election in favor of a
+  convention, the Governor shall inform the next General Assembly thereof, whose duty it
+  shall be to provide, by law, for the election of the members to the convention, the number
+  thereof, and the time and place of their meeting, which law shall not be passed unless agreed
+  to by a majority of all the members elected to both branches of the General Assembly, and
+  which convention, when met, shall have it in their power to raise, amend or change the
+  Constitution. But as the holding any part of the human creation in slavery or involuntary
+  servitude can only originate in usurpation and tyranny, no alteration of this Constitution
+  shall ever take place so as to introduce slavery or involuntary servitude in this State
+  otherwise than for the punishment of crimes whereof the party shall have been duly
+  convicted.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 009.0 IN 1816 ***
+  
+  ARTICLE IX
+  
+  *** SSTART 001.0 009.0 0 IN 1816 ***
+  
+  SECTION 1. Knowledge and learning, generally diffused through a community, being
+  essential to the preservation of a free government, and spreading the opportunities and
+  advantages of education through the various parts of the country being highly conducive to
+  this end, it shall be the duty of the General Assembly to provide, by law, for the
+  improvement of such lands as are or hereafter may be granted by the United States to this
+  State for the use of schools, and to apply any funds which may be raised from such lands or
+  from ally other quarter to the accomplishment of the grand object for which they are or may
+  be intended. But no lands granted for the use of schools or seminaries of learning shall be
+  sold by authority of this State prior to the year 1820; and the moneys which may be raised
+  out of the sale of any such lands, or otherwise obtained for the purposes aforesaid, shall be
+  and remain a fund for the exclusive purpose of promoting the interest of literature and the
+  sciences, and for the support of seminaries and public schools. The General Assembly shall,
+  from time to time, pass such laws as shall be calculated to encourage intellectual, scientifical
+  and agricultural improvements, by allowing rewards and immunities for the promotion and
+  improvement of arts, sciences, commerce, manufacture and natural history; and to
+  countenance and encourage the principles of humanity, honesty, industry and morality.
+  
+  *** SEND ***
+  *** SSTART 002.0 009.0 0 IN 1816 ***
+  
+  SEC. 2. It shall be the duty of the General Assembly, as soon as circumstances will permit,
+  to provide, by law, for a general system of education, ascending in a regular gradation from
+  township schools to a State University, wherein tuition shall be gratis, and equally open to
+  all.
+  
+  *** SEND ***
+  *** SSTART 003.0 009.0 0 IN 1816 ***
+  
+  SEC. 3. And for the promotion of such salutary end, the money which shall be paid, as an
+  equivalent, by persons exempt from military duty except in times of war, shall be
+  exclusively, and in equal proportion, applied to the support of County Seminaries; also, all
+  fines assessed for any breach of the penal laws, shall be applied to said seminaries in the
+  county wherein they shall be assessed.
+  
+  *** SEND ***
+  *** SSTART 004.0 009.0 0 IN 1816 ***
+  
+  SEC. 4. It shall be the duty of the General Assembly, as soon as circumstances will permit,
+  to form a penal code, founded on the principles of reformation, and not of vindictive justice.
+  And, also, to provide one or more farms to be an asylum for those persons, who by reason
+  of age, infirmity, or other misfortunes, may have a claim upon the aid and beneficence of
+  society; on such principles, that such persons may therein find employment and every
+  reasonable comfort, and lose by their usefulness, the degrading sense of dependence.
+  
+  *** SEND ***
+  *** SSTART 005.0 009.0 0 IN 1816 ***
+  
+  SEC. 5. The General Assembly, at the time they lay off a new county, shall cause at least
+  ten per cent to be reserved out of the proceeds of the sale of town lots in the seat of justice
+  of such county, for the use of a public library for such county, and at the same session they
+  shall incorporate a Library Company under such rules and regulations as will best secure its
+  permanence and extend its benefits.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 010.0 IN 1816 ***
+  
+  ARTICLE X
+  
+  *** SSTART 001.0 010.0 0 IN 1816 ***
+  
+  SECTION 1. There shall not be established or incorporated in this State, any bank or
+  banking company, or monied institution for the purpose of issuing bills of Credit, or bills
+  payable to order or bearer: Provided, That nothing herein contained shall be so construed as
+  to prevent the General Assembly from establishing a State Bank, and branches, not
+  exceeding one branch for any three counties, and be established at such place within such
+  counties as the Directors of the State Bank may select: Provided, There be subscribed, and
+  paid in specie, on the part of individuals, a sum equal to thirty thousand dollars: Provided
+  also, That the bank at Vincennes, and the Farmers' and Mechanics' Bank of Indiana, at
+  Madison, shall be considered as incorporated banks, according to the true tenor of the
+  charters granted to said banks by the legislature of the Indiana Territory: Provided, That
+  nothing herein contained shall be so construed, as to prevent the General Assembly from
+  adopting either of the aforesaid banks as the State Bank, and in case either of them shall be
+  adopted as the State Bank, the other may become a branch under the rules and regulations
+  hereinbefore prescribed.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 011.0 IN 1816 ***
+  
+  ARTICLE XI
+  
+  *** SSTART 001.0 011.0 0 IN 1816 ***
+  
+  SECTION 1. Every person who shall be chosen or appointed to any office of trust or profit,
+  under the authority of this State, shall, before entering on the duties of said office, take an
+  oath or affirmation, before any person lawfully authorized to administer oaths, to support
+  the Constitution of the United States, and the Constitution of this State, and also an oath of
+  office.
+  
+  *** SEND ***
+  *** SSTART 002.0 011.0 0 IN 1816 ***
+  
+  SEC. 2. Treason against this State shall consist only in levying war against it, in adhering to
+  its enemies, or giving them aid and comfort.
+  
+  *** SEND ***
+  *** SSTART 003.0 011.0 0 IN 1816 ***
+  
+  SEC. 3. No person shall be convicted of treason, unless on the testimony of two witnesses
+  to the same overt act, or his own confession in open court.
+  
+  *** SEND ***
+  *** SSTART 004.0 011.0 0 IN 1816 ***
+  
+  SEC. 4. The manner of administering an oath, or affirmation, shall be such as is most
+  consistent with the conscience of the deponent, and shall be esteemed the most solemn
+  appeal to God.
+  
+  *** SEND ***
+  *** SSTART 005.0 011.0 0 IN 1816 ***
+  
+  SEC. 5. Every person shall be disqualified from serving as Governor, Lieutenant Governor,
+  Senator, or Representative, for the term for which he shall have been elected, who shall
+  have been convicted of having given, or offered any bribe, treat, or reward to procure his
+  election.
+  
+  *** SEND ***
+  *** SSTART 006.0 011.0 0 IN 1816 ***
+  
+  SEC. 6. All officers shall reside within the State; and all district, county, or town officers,
+  within their respective districts, counties or towns, (the trustees of the town of Clarksville
+  excepted,) and shall keep their respective offices at such places therein, as may be directed
+  by law; and all militia officers shall reside within the bounds of the division, brigade,
+  regiment, battalion or company to which they may severally belong.
+  
+  *** SEND ***
+  *** SSTART 007.0 011.0 0 IN 1816 ***
+  
+  SEC. 7. There shall be neither slavery nor involuntary servitude in this State, otherwise than
+  for the punishment of crimes, whereof the party shall have been duly convicted, nor shall
+  any indenture of any negro or mulatto, hereafter made and executed out of the bounds of
+  this State be of any validity within the State.
+  
+  *** SEND ***
+  *** SSTART 008.0 011.0 0 IN 1816 ***
+  
+  SEC. 8. No Act of the General Assembly shall be in force until it shall have been published
+  in print, unless in cases of emergency.
+  
+  *** SEND ***
+  *** SSTART 009.0 011.0 0 IN 1816 ***
+  
+  SEC. 9. All commissions shall be in the name, and by the authority of the State of Indiana;
+  and sealed with the State seal, and signed by the Governor and attested by the Secretary of
+  State.
+  
+  *** SEND ***
+  *** SSTART 010.0 011.0 0 IN 1816 ***
+  
+  SEC. 10. There shall be elected in each county a Recorder, who shall hold his office during
+  the term of seven years, if he shall so long behave well: Provided, That nothing herein
+  contained shall prevent the clerks of the Circuit Courts from holding the office of Recorder. 
+  
+  *** SEND ***
+  *** SSTART 011.0 011.0 0 IN 1816 ***
+  
+  SEC. 11. Corydon, in Harrison County, shall be the seat of Government of the State of
+  Indiana, until the year eighteen hundred and twenty-five, and until removed by law.
+  
+  *** SEND ***
+  *** SSTART 012.0 011.0 0 IN 1816 ***
+  
+  SEC. 12. The General Assembly, when they lay off any new county, shall not reduce the old
+  county, or counties, from which the same shall be taken to a less content than four hundred
+  square miles.
+  
+  *** SEND ***
+  *** SSTART 013.0 011.0 0 IN 1816 ***
+  
+  SEC. 13. No person shall hold more than one lucrative office at the same time, except as in
+  this Constitution is expressly permitted.
+  
+  *** SEND ***
+  *** SSTART 014.0 011.0 0 IN 1816 ***
+  
+  SEC. 14. No person shall be appointed as a county officer within any county, who shall not
+  have been a citizen and an inhabitant therein one year next preceding his appointment, if the
+  county shall have been so long erected, but if the county shall not have been so long
+  erected, then within the limits of the county, or counties, out of which it shall have been
+  taken.
+  
+  *** SEND ***
+  *** SSTART 015.0 011.0 0 IN 1816 ***
+  
+  SEC. 15. All town and township officers shall be appointed in such manner as shall be
+  directed by law.
+  
+  *** SEND ***
+  *** SSTART 016.0 011.0 0 IN 1816 ***
+  
+  SEC. 16. The following officers of Government shall not be allowed greater annual salaries
+  until the year eighteen hundred and nineteen, then as follows: The Governor, one thousand
+  dollars; the Secretary of State, four hundred dollars; the Auditor of Public Accounts, four
+  hundred dollars; the Treasurer, four hundred dollars; the Judges of the Supreme Court,
+  eight hundred dollars each; the Presidents of the Circuit Courts, eight hundred dollars each:
+  and the members of the General Assembly, not exceeding two dollars per day each, during
+  their attendance on the same, and two dollars for every twenty-five miles they shall severally
+  travel on the most usual route in going to and returning from the General Assembly; after
+  which time their pay shall be regulated by law. But no law, passed to increase the pay of the
+  members of the General Assembly, shall take effect until after the close of the session at
+  which such law shall have been passed.
+  
+  *** SEND ***
+  *** SSTART 017.0 011.0 0 IN 1816 ***
+  
+  SEC. 17. In order that the boundaries of the State of Indiana may more certainly be known
+  and established, it is hereby ordained and declared that the following shall be and forever
+  remain the boundaries of the said State, to-wit: Bounded on the east by the meridian line
+  which forms the western boundary of the State of Ohio, on the South by the Ohio River,
+  from the mouth of the Great Miami River, to the mouth of the River Wabash; on the west
+  by a line drawn along the middle of the Wabash River from its mouth to a point, where a
+  due north line drawn from the town of Vincennes would last touch the northwestern shore
+  of the said Wabash River; and from thence by a due north line until the same shall intersect
+  an east and west line, drawn through a point ten miles north of the southern extreme of
+  Lake Michigan; on the north by the said east and west line, until the same shall intersect the
+  first mentioned meridian line, which forms the western boundary of the State of Ohio.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 012.0 IN 1816 ***
+  
+  ARTICLE XII
+  
+  *** SSTART 001.0 012.0 0 IN 1816 ***
+  
+  SECTION 1. That no evils or inconveniences may arise from the change of a Territorial
+  Government to a permanent State Government, it is declared by this Convention that all
+  rights, suits, actions, prosecutions, recognizances, contracts and claims, both as it respects
+  individuals and bodies corporate, shall continue as if no change had taken in this
+  Government. 
+  
+  *** SEND ***
+  *** SSTART 002.0 012.0 0 IN 1816 ***
+  
+  SEC. 2. All fines, penalties and forfeitures, due, and owing to the Territory of Indiana, or
+  any county therein, shall enure to the use of the State or county. All bonds executed to the
+  Governor, or any other officer in his official capacity in the Territory, shall pass over to the
+  Governor or other officers of the State or county, and their successors in office, for the use
+  of the State or county, or by him or them to be respectively assigned over to the use of
+  those concerned, as the case may be.
+  
+  *** SEND ***
+  *** SSTART 003.0 012.0 0 IN 1816 ***
+  
+  SEC. 3. The Governor, Secretary and Judges and all other officers, both civil and military,
+  under the Territorial Government, shall continue in the exercise of the duties of their
+  respective departments until the said officers are superseded under the authority of this
+  Constitution.
+  
+  *** SEND ***
+  *** SSTART 004.0 012.0 0 IN 1816 ***
+  
+  SEC. 4. All laws and parts of laws now in force in this Territory, not inconsistent with this
+  Constitution, shall continue and remain in full force and effect until they expire or be
+  repealed.
+  
+  *** SEND ***
+  *** SSTART 005.0 012.0 0 IN 1816 ***
+  
+  SEC. 5. The Governor shall use his private seal until a State seal be procured.
+  
+  *** SEND ***
+  *** SSTART 006.0 012.0 0 IN 1816 ***
+  
+  SEC. 6. The Governor, Secretary of State, Auditor of Public Accounts and Treasurer shall
+  severally reside and keep all the public records, books and papers in any manner relating to
+  their respective offices at the seat of government: Provided, notwithstanding, That nothing
+  herein contained shall be so construed as to affect the residence of the Governor for the
+  space of six months, and until buildings suitable for his accommodation shall be procured at
+  the expense of the State.
+                                                       
+  *** SEND ***
+  *** SSTART 007.0 012.0 0 IN 1816 ***
+  
+  SEC. 7. All suits, pleas, plaints and other proceedings now depending in any Court of
+  Record or Justice's Court shall be prosecuted to final judgment and execution, and all
+  appeals, writs of error, certiorari, injunction or other proceedings whatsoever, shall
+  progress and be carried on in the respective court or courts, in the same manner as is now
+  provided by law, and all proceedings had therein in as full and complete a manner as if this
+  Constitution were not adopted. And appeals and writs of error may be taken from the
+  Circuit Court and General Court now established in the Indiana Territory to the Supreme
+  Court in such manner as shall be provided for by law.
+  
+  *** SEND ***
+  *** SSTART 008.0 012.0 0 IN 1816 ***
+  
+  SEC. 8. The President of this convention shall issue writs of election, directed to the several
+  Sheriffs of the several counties, requiring them to cause an election to be held for a
+  Governor, Lieutenant -Governor, a Representative to the Congress of the United States,
+  Members of the General Assembly, Sheriffs and Coroners, at the respective election
+  districts in each county, on the first Monday in August next; which election shall be
+  conducted in the [manner] prescribed by the existing election laws of the Indiana Territory;
+  and the said Governor, Lieutenant-Governor, Members of the General Assembly, Sheriffs
+  and Coroners, then duly elected, shall continue to exercise the duties of their respective
+  offices for the time prescribed by this Constitution, and until their successor or successors
+  are qualified, and no longer.
+  
+  *** SEND ***
+  *** SSTART 009.0 012.0 0 IN 1816 ***
+  
+  SEC. 9. Until the first enumeration shall be made, as directed by this Constitution, the
+  county of Wayne shall be entitled to one Senator and three Representatives; the county
+  of Franklin, one Senator and three Representatives; the county of Dearborn, one
+  Senator and two Representatives; the county of Switzerland, one Representative, and
+  the counties of Jefferson and Switzerland, one Senator, and the county of Jefferson, two
+  Representatives; the county of Clark, one Senator and three Representatives, the county
+  of Harrison, one Senator and three Representatives; the Counties of Washington,
+  Orange and Jackson, one Senator, and the county of Washington, two Representatives;
+  the counties of Orange and Jackson, one Representative each; the county of Knox, one
+  Senator and three Representatives; the county of Gibson, one Senator and two
+  Representatives; the counties of Posey, Warrick and Perry, one, Senator, and each of
+  the aforesaid counties of Posey, Warrick and Perry, one Representative.
+  
+  *** SEND ***
+  *** SSTART 010.0 012.0 0 IN 1816 ***
+  
+  SEC. 10. All books, records, documents, warrants and papers appertaining and
+  belonging to the office of the Territorial Treasurer of the Indiana Territory, and all
+  moneys therein, and all papers and documents in the office of the Secretary of said
+  Territory, shall be disposed of as the General Assembly of this State may direct.
+  
+  *** SEND ***
+  *** SSTART 011.0 012.0 0 IN 1816 ***
+  
+  SEC. 11. All suits, actions, pleas; plaints, prosecutions and causes whatsoever, and all
+  records, books, papers and documents now in the General Court, may be transferred to
+  the Supreme Court established by this Constitution. And all causes, suits, actions, pleas,
+  plaints and prosecutions whatsoever now existing or pending in the Circuit Courts of
+  this Territory, or which may be therein at the change of government, and all records,
+  books, papers and documents relating to the said suits or filed in the said courts may be
+  transferred over to the Circuit Courts established by this Constitution, under such rules
+  and regulations as the General Assembly may direct.
+  
+  *** SEND ***
+  *** AEND ***
+  
+  *** ASTART 9016.0 IN 1816 ***
+  
+    Done in convention, at Corydon, on the twenty-ninth day of June, in the year of
+    our Lord eighteen hundred and sixteen, and of the Independence of the United
+    States the fortieth.
+      In witness whereof, We have hereunto subscribed our names.
+                              JONATHAN JENNINGS,
+    President of the Convention and Delegate from the County of Clark.
+      WILLIAM HENDRICIKS, Secretary.
+  
+  *** AEND ***
+  
+  
+  *** CEND ***

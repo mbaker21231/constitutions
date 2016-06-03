@@ -1,0 +1,1707 @@
+This constitution was done by 
+
+Marcy Wilson                  
+
+It is ready to go.
+
+JW 2/24/05
+
+
+
+
+*** CSTART MS 3/13/1868 11/01/1890 ***
+
+CONSTITUTION OF THE STATE OF MISSISSIPPI 1868
+
+*** ASTART 9023.0 MS 1868 ***
+
+ORDINANCE
+
+*** SSTART 001.0 9023.0 0 MS 1868 ***
+
+SEC. 1.  That no contracts shall be valid which in any manner abridge or affect the right of
+Franchise of either party; and any person or persons demanding such conditions shall, upon
+conviction thereof, before any court having competent jurisdiction, be disfranchised for the term
+of five years and pay a fine of not less than Five Hundred Dollars.
+
+*** SEND ***
+*** SSTART 002.0 9023.0 0 MS 1868 ***
+
+SEC. 2.  Whoever shall dismiss from employment any person or persons, for having exercised
+the right of Franchise, or for offering to exercise such right, shall, on conviction, be fined not less
+than Two Hundred and Fifty Dollars and be disfranchised for the term of five years.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9001.0 MS 1868 ***
+
+PREAMBLE. 
+
+To the end that Justice be established, public order maintained, and liberty perpetuated, we, the
+people of the State of Mississippi, grateful to Almighty God for the free exercise of the right to
+choose our own form of Government, do ordain this
+
+*** AEND ***
+*** ASTART 001.0 MS 1868 ***
+
+                    CONSTITUTION.
+
+                    ARTICLE I.  
+
+                    BILL OF RIGHTS. 
+
+*** SSTART 001.0 001.0 0 MS 1868 ***
+
+SEC. 1.  All persons resident in this State, citizens of the United States, are hereby declared
+citizens of the State of Mississippi.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 MS 1868 ***
+
+SEC. 2.  No person shall be deprived of life, liberty, or property, except by due process of the
+law.  
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 MS 1868 ***
+
+SEC. 3.  The privilege of the writ of habeas corpus shall not be suspended, unless when in case
+of rebellion or invasion, the public safety may require it.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 MS 1832 ***
+
+SEC. 4.  The freedom of speech and of the press shall be held sacred and in all indictments for
+libel the jury shall determine the law and the facts under the direction of the court.  
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 MS 1868 ***
+
+SEC. 5.  No person's life or liberty shall be twice placed in jeopardy for the same offence.  
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 MS 1868 ***
+
+SEC. 6.  The right of the people peaceably to assemble and petition the government on any
+subject, shall never be impaired.  
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 MS 1868 ***
+
+SEC. 7.  In all criminal prosecutions the accused shall have a right to be heard by himself, or
+counsel, or both, to demand the nature and cause of the accusation to be confronted by the
+witnesses against him, to have a compulsory process for obtaining witnesses in his favor, and in
+all prosecutions by indictment or information, a speedy and public trial by an impartial jury of the
+county where the offence was committed; and he shall not be compelled to give evidence against
+himself. 
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 MS 1868 ***
+
+SEC. 8.  Cruel or unusual punishment shall not be inflicted, nor shall excessive fines be imposed;
+excessive bail shall not be required, and all persons, shall before conviction, be bailable by
+sufficient sureties, except for capital offences, when the proof is evident, or presumption great.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 MS 1868 ***
+
+SEC. 9.  No ex post facto law, or laws impairing the obligation of contracts shall ever be passed.  
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 MS 1868 ***
+
+SEC. 10.  Private property shall not be taken for public use, except upon due compensation first
+being made to the owner, or owners thereof in a manner to be provided for by law.  
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 MS 1868 ***
+
+SEC. 11.  There shall be no imprisonment for debt. 
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 MS 1868 ***
+
+SEC. 12.  The right of trial by jury shall remain inviolate.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 MS 1868 ***
+
+SEC. 13.  No property qualification shall every be required of any person to become a juror. 
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 MS 1868 ***
+
+SEC. 14.  The people shall be secure in their persons, houses and possessions, from unreasonable
+seizure, or search, and no warrant shall be issued without probable cause supported by oath or
+affirmation specially designating the place to be searched, and the person or thing to be seized.  
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 MS 1868 ***
+
+SEC. 15.  All persons shall have a right to keep and bear arms for their defence.  
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 MS 1868 ***
+
+SEC. 16.  The rights of married women shall be protected by law, in property owned previous to
+marriage; and also, in all property acquired in good faith by purchase, gift, devise or bequest,
+after marriage; Provided, That nothing herein contained shall be so construed as to protect said
+property from being applied to the payment of their lawful debts.  
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 MS 1868 ***
+
+SEC. 17.  No property qualification for eligibility to office shall ever be required. 
+
+*** SEND ***
+*** SSTART 018.0 001.0 0 MS 1868 ***
+
+SEC. 18.  No property or educational qualification shall every be required for any person to
+become an elector.  
+
+*** SEND ***
+*** SSTART 019.0 001.0 0 MS 1868 ***
+
+SEC. 19.  There shall be neither slavery nor involuntary servitude in this State, otherwise than in
+the punishment of crime, whereof the party shall have been duly convicted.
+
+*** SEND ***
+*** SSTART 020.0 001.0 0 MS 1868 ***
+
+SEC. 20.  The right to withdraw from the Federal Union on account of any real or supposed
+grievance shall never be assumed by this State, nor shall any law be passed in derogation of the
+paramount allegiance of the citizens of this State to the Government of the United States.  
+
+*** SEND ***
+*** SSTART 021.0 001.0 0 MS 1868 ***
+
+SEC. 21.  No public money or moneys shall be appropriated for any charitable or other public
+institutions in this State making any distinction among the citizens thereof; Provided, That
+nothing herein contained, shall be so construed as to prevent the Legislature from appropriating
+the school fund in accordance with the article in this Constitution relating to public schools. 
+
+*** SEND ***
+*** SSTART 022.0 001.0 0 MS 1868 ***
+
+SEC. 22.  No distinction shall ever be made by law between citizens and alien friends in
+reference to the possession, enjoyment or descent of property. 
+
+*** SEND ***
+*** SSTART 023.0 001.0 0 MS 1868 ***
+
+SEC. 23.  No religious test as a qualification for office shall every be required, and no preference
+shall every be given by law to any religious sect or mode of worship, but the free enjoyment of
+all religious sentiments, and the different modes or worship shall ever be held sacred; Provided,
+The rights hereby secured shall not be construed to justify acts of licentiousness injurious to
+morals or dangerous to the peace and the safety of the State.  
+
+*** SEND ***
+*** SSTART 024.0 001.0 0 MS 1868 ***
+
+SEC. 24.  The right of all citizens to travel upon all public conveyances shall not be infringed
+upon, nor in any manner abridged in this State. 
+
+*** SEND ***
+*** SSTART 025.0 001.0 0 MS 1868 ***
+
+SEC. 25.  The military shall be in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 026.0 001.0 0 MS 1868 ***
+
+SEC. 26.  Treason against the State shall consist only in levying war against the same, or in
+adhering to its enemies, giving them aid and comfort.  No person shall be convicted of treason,
+unless on the testimony of two witnesses to the same overt act, or on confession in open court.
+
+*** SEND ***
+*** SSTART 027.0 001.0 0 MS 1868 ***
+SEC. 27.  No person's life shall be perilled by the practice of duelling, and any person who shall
+hereafter fight a duel, or assist in the same as a second, or send, accept, or knowingly carry a
+challenge therefor, or, to out of the State to fight a duel, shall be disqualified from holding any
+office under this Constitution, and shall forever be disfranchised in this State.  
+
+*** SEND ***
+*** SSTART 028.0 001.0 0 MS 1868 ***
+
+SEC. 28.  All courts shall be open and every person, for an injury done him in his lands, goods,
+person or reputation, shall have remedy by due course of law, and right, and justice administered
+without sale, denial, or delay.
+
+*** SEND ***
+*** SSTART 029.0 001.0 0 MS 1868 ***
+
+SEC. 29.  No person shall ever be elected or appointed to any office in this State, for life, or
+during good behavior, but the term of all offices shall be for some specified period.
+
+*** SEND ***
+*** SSTART 030.0 001.0 0 MS 1868 ***
+
+SEC. 30.  No person shall be debarred from prosecuting or defending any civil cause for or
+against him, or herself, before any tribunal in this State, by him or herself, or counsel or both.
+
+*** SEND ***
+*** SSTART 031.0 001.0 0 MS 1868 ***
+
+SEC. 31.  No person shall for any indictable offence be proceeded against criminally by
+information, except in cases arising in the land or naval forces, or the militia when in actual
+service, or by leave of the court, for misdemeanor in office; Provided, That the legislature in
+cases of petit larceny, assaults, assault and batter, affray, riot, unlawful assembly, drunkenness,
+vagrancy, and other misdemeanors of like character, may dispense with an inquest of a Grand
+Jury, and may authorize prosecutions before justices of the peace, or such other inferior court or
+courts as may be established by the legislature, and the proceedings in such cases shall be
+regulated by law.  
+
+*** SEND ***
+*** SSTART 032.0 001.0 0 MS 1868 ***
+
+SEC. 32.  The enumeration of rights in this Constitution shall not be construed to deny or impair
+others retained by and inherent in the people.  
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 MS 1868 ***
+
+                    ARTICLE II.
+
+                    BOUNDARIES OF THE STATE.
+
+The limits and boundaries of the State of Mississippi shall remain as now established by law.  
+
+*** AEND ***
+*** ASTART 003.0 MS 1868 ***
+
+                    ARTICLE III.  
+
+                    DISTRIBUTION OF POWERS.  
+
+*** SSTART 001.0 003.0 0 MS 1868 ***
+
+SEC. 1.  The powers of government of the State of Mississippi shall be divided into three distinct
+departments, and each of them confided to a separate body of magistracy, to-wit: Those which
+are Legislative to one; those which are Judicial to another; and those which are Executive to
+another.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 MS 1868 ***
+
+SEC. 2.  No person or collection of persons being of one of these departments, shall exercise any
+power properly belonging to either of the others except in the instances hereinafter expressly
+directed or permitted.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 MS 1868 ***
+
+                    ARTICLE IV. 
+
+                    Legislative Department.
+
+*** SSTART 001.0 004.0 0 MS 1868 ***
+
+SEC. 1.  The Legislative power of this State shall be vested in the Legislature, which shall
+consist of a Senate and House of Representatives.  
+
+*** SEND *** 
+*** SSTART 002.0 004.0 0 MS 1868 ***
+
+SEC. 2.  The House of Representatives shall consist of members to be chosen every second year
+by the qualified electors of the several counties.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 MS 1868 ***
+
+SEC. 3.  No person shall be a member of the House of Representative who shall not be an elector
+under this Constitution; and who shall not, at the time of his election, have an actual residence in
+the district he may be chosen to represent.  
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 MS 1868 ***
+
+SEC. 4.  The Senate shall consist of members to be chosen every four years by the qualified
+electors of the several districts.  
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 MS 1868 ***
+
+SEC. 5.  No person shall be a Senator who shall not have attained the age of twenty-five years,
+who shall not have been an inhabitant of the State one year, and who shall not have an actual
+residence in the district he may be chosen to represent.  
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 MS 1868 ***
+
+SEC. 6.  The political year shall begin on the first Monday of January, and the Legislature shall
+meet annually on the first Tuesday after first Monday in January, at the seat of government,
+unless sooner convened by the Governor, until altered by law.  
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 MS 1868 ***
+
+SEC. 7.  All general elections shall be by ballot, and shall commence and be holden every two
+years, on the first Tuesday after the first Monday in November, until altered by law; and the
+electors, in all cases except in cases of treason, felony, and breach of the peace, shall be
+privileged from arrest during their attendance on elections, and in going to and returning
+therefrom.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 MS 1868 ***
+
+SEC. 8.  Election for members of the Legislature shall be held in several counties and districts as
+shall be provided by law.  
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 MS 1868 ***
+
+SEC. 9.  The Governor shall issue writs of election to fill such vacancies as may occur in either
+House of the Legislature, and the persons thereupon chosen shall hold their seats for the
+unexpired term.  
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 MS 1868 ***
+
+SEC. 10.  Each house shall appoint its own officers, and shall judge of the qualifications, returns
+and election of its own members.  
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 MS 1868 ***
+
+SEC. 11.  The State shall choose a President pro tempore, to act in the absence or disability of the
+Lieutenant Governor. 
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 MS 1868 ***
+
+SEC. 12.  A majority of each house shall constitute a quorum to do business; but a less number
+may adjourn from day to day, and compel the attendance of absent members, in such manner and
+under such penalties as each house shall provide.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 MS 1868 ***
+
+SEC. 13.  Neither house shall, without the consent of the other, adjourn for more than three days,
+nor to any other place than that in which the two houses shall be sitting. 
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 MS 1866 ***
+
+SEC. 14.  Each house may determined rules of its own proceedings, punish its members for
+disorderly behavior; and with the concurrence of two-thirds of the members present, expel a
+member; but no member shall be expelled a second time for the same offense.  They shall each,
+from time to time, publish a journal of the proceedings, except such parts as may, in their
+opinion, require secrecy, and the yeas and nays on any question shall be entered on the journal at
+the request of one-tenth of the members present; Provided, That the yeas and nays shall always
+be entered on the journal on the passage of a bill appropriating money.   
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 MS 1868 ***
+
+SEC. 15.  The doors of each house, when in session, or in committee of the whole, shall be kept
+open, except in cases which may require secrecy; and each house may punish by fine and
+imprisonment any person not a member, who shall be guilty of disrespect to the House, by any
+disorderly or contemptuous behavior in their presence or in any way disturb their deliberations
+during the session; but such imprisonment shall not extend beyond the final adjournment of that
+session.
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 MS 1868 ***
+
+SEC. 16.  No person liable for public moneys unaccounted for shall be eligible to a seat in either
+House of the Legislature, or to any office of profit or trust until he shall have accounted for and
+paid overall sums for which he may have been liable. 
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 MS 1868 ***
+
+SEC. 17.  No person shall be eligible to any office of profit or trust, nor shall he be permitted to
+exercise the right of suffrage within this State, who shall have been convicted of bribery, perjury
+or other infamous crimes. 
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 MS 1868 ***
+
+SEC. 18.  Any person who shall have been convicted of giving or offering directly or indirectly,
+any bribe to procure his election or appointment, and any person who shall give or offer any bribe
+to procure the election or appointment of any person to office shall on conviction thereof be
+disqualified from being an elector, or holding any office of profit, or trust under the laws of this
+State.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 MS 1868 ***
+
+SEC. 19.  Senators and Representatives shall in all cases, except treason, felony or breach of the
+peace, be privileged from arrest during the session of the Legislature, and for fifteen days before
+the commencement and after the termination of each session.  
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 MS 1868 ***
+
+SEC. 20.  The members of the Legislature shall severally receive from the pulic treasury
+compensation for their services, which may be increased or diminished; but no alteration of such
+compensation of members shall take effect during the session at which it is made.  
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 MS 1868 ***
+
+SEC. 21.  The Legislature shall direct by law in what courts and in what manner suits may be
+brought against the State. 
+
+*** SEND ***
+*** SSTART 022.0 004.0 0 MS 1868 ***
+
+SEC. 22.  The Legislature shall not have power to pass any bill of divorce; but may prescribe by
+law the manner in which cases shall be investigated in the courts of justice, and divorces granted. 
+
+
+*** SEND ***
+*** SSTART 023.0 004.0 0 MS 1868 ***
+
+SEC. 23.  Bills may originate in either House, and be amended of rejected in the other; and every
+bill shall be read on three different days, in each house, unless two-thirds of the house where the
+same is pending, shall dispense with the rules; and every bill having passed both Houses, shall be
+signed by the President of the Senate and the Speaker of the House of Representatives, in open
+session. 
+
+*** SEND ***
+*** SSTART 024.0 004.0 0 MS 1868 ***
+
+SEC. 24.  Every bill which has passed both Houses, shall be presented to the Governor of the
+State.  If he approves, he shall sign it, but if he does not approve, he shall return it with his
+objections, to the House in which it originated, who shall enter the objections at large upon their
+journal, and proceed to re-consider it.  If, after such reconsideration, two-thirds of that House
+shall agree to pass the bill, it shall be sent, with the ovjections, to the other House, by which,
+likewise, it shall be reconsidered, and if approved by two-thirds of that House, it shall become a
+law; but in all such cases the vote of both Houses shall be determined by yeas and nays, and the
+names of the persons voting for or against the bill, shall be entered on the journal of each House
+respectively.  If any bill shall not be returned by the Governor within five days (Sunday excepted)
+after it has been presented to him, it shall be a law in like manner as if he had signed it, unless the
+Legislature, by adjournment, prevented its return, in which case it shall be a law, unless sent back
+within three days after its next meeting.
+
+*** SEND ***
+*** SSTART 025.0 004.0 0 MS 1868 ***
+
+SEC. 25.  Every order resolution or vote, to which the concurrence of both Houses may be
+necessary (except on questions of adjournment,) shall be presented to the Governor, and, before
+it shall take effect, be approved by him; or, being disapproved, shall be repassed by two-thirds of
+both Houses according to the rules of limitation prescribed in all cases of a bill.  
+
+*** SEND ***
+*** SSTART 026.0 004.0 0 MS 1868 ***
+
+SEC. 26.  No money shall be drawn from the treasury except on appropriation made by law.  
+
+*** SEND ***
+*** SSTART 027.0 004.0 0 MS 1868 ***
+
+SEC. 27.  The House of Representatives shall have the sole power of impeachment, but two-
+thirds of all the members present must concur therein.  All impeachments shall be tried by the
+Senate, and when sitting for that purpose, the Senators shall be upon oath or affirmation, bot do
+justice according to law and evidence.  
+
+*** SEND ***
+*** SSTART 028.0 004.0 0 MS 1868 ***
+
+SEC. 28.  The Governor and all other civil officers under this State, shall be liable to
+impeachment for treason, bribery, or any high crime or misdemeanor in office.  
+
+*** SEND ***
+*** SSTART 029.0 004.0 0 MS 1868 ***
+
+SEC. 29.  When the Governor shall be tried, the Chief Justice of the Supreme Court shall preside,
+and no person shall be convicted without he concurrence of two-thirds of all the Senators present. 
+
+
+*** SEND ***
+*** SSTART 030.0 004.0 0 MS 1868 ***
+
+SEC. 30.  Judgment in such cases shall not extend further than removal from office, and
+disqualification to hold any office of honor, trust, or profit under this State; but the party
+convicted shall nevertheless be subject to indictment, trial, judgment, and punishment according
+to law.  
+
+*** SEND ***
+*** SSTART 031.0 004.0 0 MS 1868 ***
+
+SEC. 31.  For reasonable cause, which shall not be sufficient ground of impeachment, the
+Governor shall, on the joint address of two-thirds of each branch of the Legislature, remove from
+office the Judges of the Supreme and Inferior Courts; provided the cause or causes of removal be
+spread on the journal, and the party charged be notified of the same before the vote is finally
+taken and decided, and shall have an opportunity to be heard by himself or counsel, or both.  
+
+*** SEND ***
+*** SSTART 032.0 004.0 0 MS 1868 ***
+
+SEC. 32.  The style of the laws of the State shall be: "Be it enacted by the Legislature of the State
+of Mississippi."
+
+*** SEND ***
+*** SSTART 033.0 004.0 0 MS 1868 ***
+
+SEC. 33.  The Legislature shall provide for the enumeration of the whole number of inhabitants,
+and of the qualified electors of the State, once in every ten years; and the first enumeration shall
+be ordered at the first meeting of the Legislature under this Constitution.  
+
+*** SEND ***
+*** SSTART 034.0 004.0 0 MS 1868 ***
+
+SEC. 34.  The number of representatives shall, at the several periods, of making such
+enumeration, be apportioned among the several counties or districts, according to the number of
+qualified electors in each, and shall not be less than one hundred, nor more than one hundred and
+twenty. 
+
+*** SEND ***
+*** SSTART 035.0 004.0 0 MS 1868 ***
+
+SEC. 35.  The number of Senators, shall upon each enumeration made, be apportioned according
+to the number of qualified electors in the several districts, and shall never be less than one-fourth,
+nor more than one-third the whole number of Representatives.
+
+*** SEND ***
+*** SSTART 036.0 004.0 0 MS 1868 ***
+
+SEC. 36.  The Senators on being convened after the first election, shall be divided by lot from
+their respective Congressional Districts into two classes, as nearly equal as can be, and the seats
+of the first class shall be vacated at the expiration of the second year.  
+
+*** SEND ***
+*** SSTART 037.0 004.0 0 MS 1868 ***
+
+SEC. 37.  The Legislature shall provide for the organization of new counties, locating county
+seats, and changing county lines; but no county shall be organized, nor the lines of any county
+changed so as to include an area of less than four hundred, nor more than six hundred and
+twenty-vie square miles.  
+
+*** SEND ***
+*** SSTART 038.0 004.0 0 MS 1868 ***
+
+SEC. 38.  No Senator or Representative, during the term for which he was elected, shall be
+appointed to any office of profit under this State, which shall have been created, or the
+emoluments of which have been increased during the time such Senator or Representative was in
+office except to such offices as may be filled by an election of the people.  
+*** SEND ***
+*** SSTART 039.0 004.0 0 MS 1868 *** 
+
+SEC. 39.  The Legislature shall provide by law for determining contested elections.  
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 MS 1868 ***
+
+                    ARTICLE V. 
+
+                    EXECUTIVE.  
+
+*** SSTART 001.0 005.0 0 MS 1868 ***
+
+SEC. 1.  The chief executive power of the State shall be vested in a Governor, who shall hold his
+office for four years. 
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 MS 1868 ***
+
+SEC. 2.  The Governor shall be elected by the qualified electors of the State.  The returns of
+every election for Governor shall be sealed up and transmitted to the seat of Government,
+directed to the Secretary of the State, who shall deliver them to the Speaker of the House of
+Representatives at the next ensuing session of the Legislature, during the first week of which
+session the said Speaker shall open and publishe them in presence of both Houses of the
+Legislature.  The person having the highest number of votes shall be Governor; but if two or
+more shall be equal and highest in votes then one of them shall be chosen Governor by the joint
+ballot of both Houses of the Legislature.  Contested elections for Governor shall be determined
+by both Houses of the Legislature in such manner as shall be prescribed by law.  
+ 
+*** SEND ***
+*** SSTART 003.0 005.0 0 MS 1868 ***
+
+SEC. 3.  The Governor shall be at least thirty years of age, and shall have been a citizen of the
+United States twenty years, shall have resided in this State two years next preceding the day of
+his election.  
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 MS 1868 ***
+
+SEC. 4.  He shall receive for his service such compensation as shall be provided by law.  
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 MS 1868 ***
+
+SEC. 5.  He shall be Commander-in-Chief of the Army and Navy of the State, and of the Militia,
+except when they shall be called into the service of the United States.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 MS 1868 ***
+
+SEC. 6.  He may require information, in writing, from the officers in the Executive Department,
+on any subject relating to the duties of their respective offices.  
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 MS 1868 ***
+
+SEC. 7.  He may, in cases of emergency, convene the Legislature at the seat of Government, or at
+a different place, if that shall have become dangerous from an enemy, or from disease; and in
+case of disagreement between the two Houses with respect to time of adjournment, adjourn them
+to such time as he shall think proper, not beyond the day of the next states meeting of the
+Legislature.  
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 MS 1868 ***
+
+SEC. 8.  He shall, from time to time, give the Legislature information of the state of the
+Government, and recommend to their consideration such measures as he may deem necessary
+and expedient. 
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 MS 1868 ***
+
+SEC. 9.  It shall be his duty to see that the laws are faithfully executed. 
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 MS 1868 ***
+
+SEC. 10.  In all criminal and penal cases, except in those of treason and impeachment, he shall
+have the power to grant reprieves and pardons, and remit fines, and in cases of forfeiture to stay
+the collection until the end of the next session of the Legislature, and to remit forfeitures by and
+with the consent of the Senate.  In cases of treason he shall have power to grant reprieves by and
+with the consent of the Senate, but may respite the sentence until the end of the next session of
+the Legislature.  
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 MS 1868 ***
+
+SEC. 11.  There shall be a seal of the State kept by the Governor, and used by him officially, and
+be called the Great Seal of the State, of Mississippi.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 MS 1868 ***
+
+SEC. 12.  All commissions shall be in the name and by the authority of the State of Mississippi,
+be sealed with the great seal of State, and signed by the Governor, and be attested the Secretary
+of State.  
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 MS 1868 ***
+
+SEC. 13.  All vacancies not provided for in this Constitution shall be filled in such manner as the
+Legislature may provide.  
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 MS 1868 ***
+
+SEC. 14.  There shall be a Lieutenant Governor, who shall be elected at the same time, in the
+same manner, and for the same term, and shall possess the same qualifications as the Governor.
+
+*** SEND ***
+*** SSTART 015.0 005.0 0 MS 1868 ***
+
+SEC. 15.  He shall, by virtue of his office, be President of the Senate.  In Committee of the
+Whole he may debate on all questions, and when there is an equal division by the Senate, or on a
+joint vote of both Houses, he shall give the casting vote. 
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 MS 1868 ***
+
+SEC. 16.  He shall receive for his services such compensation as may be provided by law.  
+
+*** SEND ***
+*** SSTART 017.0 005.0 0 MS 1868 ***
+
+SEC. 17.  When the office of Governor shall become vacant by death or otherwise, the
+Lieutenant Governor shall possess the powers and discharge the duties of said office, and receive
+the same compensation as the Governor, during the remainder of said term.  When the Governor
+shall be absent from the State, or unable from protracted illness, to perform the duties of his
+office, the Lieutenant Governor shall discharge the duties of said office, and receive said
+compensation, until the Governor be able to resume his duties, but if from disability or otherwise,
+the Lieutenant Governor shall be incapable of performing such duties, or if he be absent from the
+State, then the Speaker of the House of Representatives shall assume the office of Governor and
+perform said duties, and receive the same compensation as the Governor, and in case of the
+liability of the foregoing officers to discharge the duties of Governor, the Secretary of State shall
+convene the Senate to elect a President pro tempore.
+
+*** SEND ***
+*** SSTART 018.0 005.0 0 MS 1868 ***
+
+SEC. 18.  In case the election for Lieutenant Governor shall be contested, it shall be decided in
+the same manner as that of the Governor.  
+
+*** SEND ***
+*** SSTART 019.0 005.0 0 MS 1868 ***
+
+SEC. 19.  The Secretary of State shall be elected by the qualified electors of the State shall be at
+least twenty-five years of age and a citizen of the State one year next preceding the day of his
+election, and shall continue in office during the term of four years, he shall keep a correct register
+of all the official acts and proceedings of the Governor; and shall, when required, lay the same
+and all papers, minutes and vouchers relative thereto, before the Legislature, and shall perform
+such other duties as may be required by law.  
+
+*** SEND ***
+*** SSTART 020.0 005.0 0 MS 1868 ***
+
+SEC. 20.  A State Treasurer and Auditor of Public Accounts, shall be elected by the qualified
+electors of the State, who shall hold their offices for the term of four years, unless sooner
+removed, and shall possess the same qualifications as the Secretary of State; and together with
+the last named officer, shall receive such compensation as may be provided by law.  
+
+*** SEND ***
+*** SSTART 021.0 005.0 0 MS 1868 ***
+
+SEC. 21.  A Sheriff, Coroner, Treasurer, Assessor and Surveyor, shall be elected in each county
+by the qualified electors thereof, who shall hold their offices for two years unless sooner
+removed.
+
+*** SEND ***
+*** SSTART 022.0 005.0 0 MS 1868 ***
+
+SEC. 22.  All officers named in this article shall hold their offices during the term for which they
+were elected, unless removed by impeachment or otherwise, and until their successors shall be
+duly qualified to enter on the discharge of their separate duties.  
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 MS 1868 ***
+
+                    ARTICLE VI.  
+
+                    JUDICIARY. 
+
+*** SSTART 001.0 006.0 0 MS 1868 ***
+
+SEC. 1.  The Judicial power of the State shall be vested in a Supreme Court, and such other
+courts of law and equity as are hereafter provided for in the Constitution.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 MS 1868 ***
+
+SEC. 2.  The Supreme Court, shall consist of three Judges, who shall be appointed by the
+Governor, by and with the advice and consent of the Senate, any two of whom, when convened,
+shall form a quorum.  The Legislature shall divide the State into three Districts; and the
+Governor, by and with the advice and consent of the Senate, shall appoint one Judge for each
+District.  
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 MS 1868 ***
+
+SEC. 3.  The office of one of said Judges shall be vacated in three years; one in six years, and one
+in nine years, so that at the expiration of every three years, one of said Judges shall be appointed
+as aforesaid.  The term of office of the Judges of the Supreme Court shall be nine years. 
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 MS 1868 ***
+
+SEC. 4.  The Supreme Court shall have no jurisdiction but such as properly belongs to a Supreme
+Court. 
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 MS 1868 ***
+
+SEC. 5.  All vacancies which may occur in said Court, from death, resignation, or removal, shall
+be filled by appointment, as aforesaid; provided, however, that if a vacancy shall occur during the
+recess of the Legislature, the Governor shall appoint a successor, who shall hold his office until
+the next meeting of the Legislature. 
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 MS 1868 ***
+
+SEC. 6.  No person shall be eligible to the office of Judge of the Supreme Court who shall not
+have attained the age of thirty years at the time of his appointment, and who shall not have been
+for two years immediately preceding a citizen of the State.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 MS 1868 *** 
+
+SEC. 7.  The Supreme Court shall be held twice in each year, at the seat of Government, at such
+times as the Legislature may prescribe.  
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 MS 1868 ***
+
+SEC. 8.  Immediately upon the first appointment of Judges, as aforesaid, the Governor, in the
+presence of, and with the assistance of the President of the Senate and Secretary of State, shall
+determine by lot, which of said Judges, shall serve for the term of three years, and which shall
+serve for the term of six years, and which shall serve for the term of nine years; and it shall be the
+duty of the Governor to issue commission accordingly.  
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 MS 1868 ***
+
+SEC. 9.  No Judge of said Court shall sit on the trial of any cause where the parties, or either of
+them, shall be connected with him by affinity or consanguinity, or where he may be interested in
+the same, except by the consent of the Judges and of the parties, and whenever a quorum of said
+Court are situated as aforesaid, the Governor of the State shall, in such cases, especially
+commission two or more men of law knowledge, for the determination thereof.  
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 MS 1868 ***
+
+SEC. 10.  The Judges of said Court shall receive for their services a compensation to be fixed by
+law, which shall not be diminished during their continuance in office.  
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 MS 1868 ***
+
+SEC. 11.  The Judges of the Circuit Court shall be appointed by the Governor, with the advice
+and consent of the Senate, and shall hold their office for the term of six years.  
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 MS 1868 ***
+
+SEC. 12.  No person shall be eligible to the office of Judge of the Circuit Court, who shall not, at
+te time of his appointment, have attained the age of twenty-six years, and shall have been two
+years a citizen of the State. 
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 MS 1868 ***
+
+SEC. 13.  The State shall be divided into convenient Judicial Districts.  
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 MS 1868 ***
+
+SEC. 14.  Circuit Courts shall have original jurisdiction in all matters, civil and criminal, within
+this State; but in civil cases, only, when the principal of the amount in controversy exceeds one
+hundred and fifty dollars.  
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 MS 1868 ***
+
+SEC. 15.  A Circuit Court shall be held at least twice in each year, and the Judges of said Courts
+may interchange circuits with each other, in such manner as may be prescribed by law, and shall
+receive for their services a compensation to be fixed by law, which shall not be diminished
+during their continuance in office. 
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 MS 1868 *** 
+
+SEC. 16.  Chancery Courts shall be established in each county in the State, with full jurisdiction
+in all matters of equity, and of divorce and alimony; in matters testamentary, and of
+administration in minor's business, and allotment of dower, and in cases of idiocy, lunacy, and
+persons non-compotes mentis.
+
+*** SEND ***
+*** SSTART 017.0 006.0 0 MS 1868 ***
+
+SEC. 17.  The Legislature shall divide the State into a convenient number of Chancery Districts,
+to be composed of not more than four counties.  Chancellors shall be appointed in the same
+manner as the Judges of Circuit Courts.  Their qualifications shall be regulated by law, and they
+shall hold their office for the term of four years.  They shall hold a court in each county at least
+four times in each year, and shall receive such compensation as may be provided by law.  
+
+*** SEND ***
+*** SSTART 018.0 006.0 0 MS 1868 ***
+
+SEC. 18.  The style of all process shall be, "The State of Mississippi," and all prosecutions shall
+be carried on in the name and by the authority of "The State of Mississippi," and shall conclude
+"against the peace and dignity of the same."
+
+*** SEND ***
+*** SSTART 019.0 006.0 0 MS 1868 ***
+
+SEC. 19.  The Clerk of the Supreme Court shall be appointed by said Court, for the term of four
+years, and the Clerk of the Circuit Court, and the Clerk of the Chancery Court, shall be elected by
+the qualified voters of their several counties, and shall hold their office for the term of four years,
+and the Legislature shall provide by law, what duties shall be performed by the Clerks of the
+Circuit and Chancery Courts, during vacation, subject to the approval of the Court. 
+
+*** SEND ***
+*** SSTART 020.0 006.0 0 MS 1868 *** 
+
+SEC. 20.  The qualified electors of each county shall elect five persons, by districts, for the term
+of two years, who shall constitute a Board of Supervisors for each county, a majority of whom
+may transact business, which body shall have full jurisdiction over roads, ferries, and brieges,
+and shall order all county elections, to fill vacancies that may arise in the offices of their
+respective counties, and perform such other duties as shall be provided by law.  The Clerk of the
+Chancery Court of each county shall be the Clerk of such Board of Supervisors.  
+
+*** SEND ***
+*** SSTART 021.0 006.0 0 MS 1868 ***
+
+SEC. 21.  No person shall be eligible as a member of said Board who shall not have resided one
+year in the county, but this qualification shall not extend to such new counties as may hereafter
+be established until one year after their organization, and all vacancies that may occur in said
+Board shall be supplied by election as aforesaid, to the unexpired term.  
+
+*** SEND ***
+*** SSTART 022.0 006.0 0 MS 1868 ***
+
+SEC. 22.  Judges of all the Courts of this State, and all other civil officers, shall, by virtue of their
+office, be conservators of the peace, and shall be, by law, vested with ample powers in that
+respect.  
+
+*** SEND ***
+*** SSTART 023.0 006.0 0 MS 1868 ***
+
+SEC. 23.  A competent number of Justices of the Peace and Constables shall be chosen in each
+county by the qualified electors thereof by districts, who shall hold their office for the term of
+two years . The jurisdiction of Justices of the Peace shall be limited to causes in which the
+principal of the amount in controversy shall not exceed the sum of one hundred and fifty dollars. 
+In all causes tried by a Justice of the Peace, the right of appeal shall be secured, under such rules
+and regulations as shall be prescribed by law.  
+
+*** SEND ***
+*** SSTART 024.0 006.0 0 MS 1868 ***
+
+SEC. 24.  The Legislature shall from time to time, establish such other inferior Courts as may be
+necessary, and abolish the same whenever they shall deem it expedient.  
+
+*** SEND ***
+*** SSTART 025.0 006.0 0 MS 1868 ***
+
+SEC. 25.  There shall be an Attorney General elected by the qualified electors of the State, and a
+competent number of District Attorneys shall be elected by the qualified electors of the
+respective districts whose term of service shall be four years, and whose duties and compensation
+shall be prescribed by law.  
+
+*** SEND ***
+*** SSTART 026.0 006.0 0 MS 1868 ***
+
+SEC. 26.  Clerks, Sheriffs, and other county officers, for willful neglect of duty or misdemeanor
+in office, shall be liable to presentment or indictment by Grand Jury, and trial by Petit Jury, and
+upon conviction shall be removed from office.  
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 MS 1868 ***                           
+
+                    ARTICLE VII.
+
+                    FRANCHISE.
+
+*** SSTART 001.0 007.0 0 MS 1868 ***
+
+SEC. 1.  All elections by the people shall be by ballot.  
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 MS 1868 ***
+
+SEC. 2.  All male inhabitants of this State except idiots and insane persons, and Indians, not
+taxed, citizens of the United States, or naturalized, twenty-one years old and upwards, who have
+resided in this State six months, and in the county one month next preceding the day of election,
+at which said inhabitant offers to vote, and who are duly registered according to the requirements
+of section three of this article, and who are not disqualified by reason of any crime, are declared
+to be qualified electors.  
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 MS 1868 ***
+
+SEC. 3.  The Legislature shall provide, by law, for the registration of all persons entitled to vote
+at any election, and all persons entitled to register shall take and subscribe to the following oath
+or affirmation: "I ........................................ do solemnly swear (or affirm) , in the presence of
+Almighty God, that I am twenty-one years old, that I have resided in this State six months, and in
+....................................... county one month; that I will faithfully support and obey the
+Constitution and laws of the United States, and of the State of Mississippi, and will bear true
+faith and allegiance to the same; that I am not disfranchised in any of the provisions of the acts
+known as the reconstruction acts of the 39th and 40th Congress, and that I admit the political and
+civil equality of all men, so help me God;" Provided, That if Congress shall, at any time, remove
+the disabilities of any person disfranchised in the said reconstruction acts of the said 39th and 40th
+Congress, (and the Legislature of this State shall concur therein,) then so much of this oath, and
+so much only, as refers to the said reconstruction acts, shall not be required of such person, so
+pardoned, to entitle him to be registered.  
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 MS 1868 ***
+
+SEC. 4.  No person shall be eligible to any office of profit or trust, or to any office in the militia
+of this State, who is not a qualified elector.  
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 MS 1868 ***
+
+SEC. 5.  No person shall be eligible to any office of profit or trust, civil or military, in this State,
+who, as a member of the Legislature vote for the call of the Convention that passed the
+Ordinance of Secession, or who, as a delegate to any Convention voted for or signed any
+ordinance of secession, or who gave voluntary aid, countenance, counsel or encouragement to
+persons engaged in armed hostility to the United States, or who accepted or attempted to exercise
+the functions of any office, civil or military, under any authority or pretended Government
+authority, power, or Constitution, within the United States, hostile or inimical thereto, except all
+persons who aided reconstruction by voting for this Convention, or who have continuously
+advocated the assembling of this Convention and shall continuously and in good faith advocate
+the acts of the same, but the Legislature may remove such disability; Provided that nothing in this
+section except voting for or signing the ordinance of secession shall be so construed as to exclude
+from office the private soldier of the late so-called Confederate States army. 
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 MS 1868 *** 
+
+SEC. 6.  In time of war, insurrection or rebellion, the right to vote at such place, and in such
+manner as shall be prescribed by law, shall be enjoyed by all persons otherwise entitled thereto,
+who may be in the actual military or naval service of the United States or this State; Provided
+said votes be made to apply in the county or precinct wherein they reside.  
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 MS 1868 ***
+
+                    ARTICLE VIII.
+
+                    SCHOOL FUNDS, EDUCATION AND SCIENCE.
+
+*** SSTART 001.0 008.0 0 MS 1868 ***
+
+SEC. 1.  As the stability of a Republican form of government depends mainly upon the
+intelligence and virtue of the people, it shall be the duty of the Legislature to encourage by all
+suitable means the promotion of intellectual, scientific, moral and agricultural improvement, by
+establishing a uniform system of free public schools, by taxation or otherwise, for all children
+between the ages of (5) five and (21) twenty-one years, and shall, as soon as practicable, establish
+schools of higher grade.  
+
+ *** SEND ***
+*** SSTART 002.0 008.0 0 MS 1868 ***
+
+SEC. 2.  There shall be a Superintendent of Public Education elected at the same time and in the
+same manner as the Governor, who shall have the qualification of the Secretary of State, and hold
+his office for four years, and until his successor shall be elected and qualified, whose duties shall
+be the general supervision of the common schools and the educational interests of the State, and
+who shall perform such other duties pertaining to his office, and receive such compensation as
+shall be prescribed by law; he shall report to the Legislature, for its adoption, within twenty days
+after the opening of its first session under this Constitution, a uniform system of free public
+schools.  
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 MS 1868 ***
+
+SEC. 3.  There shall be a Board of Education, consisting of the Secretary of State, the Attorney
+General and the Superintendent of Public Education, for the management and investment of the
+school funds, under the general direction of the Legislature, and to perform such other duties as
+may be prescribed by law.  The Superintendent and one other of said board shall constitute a
+quorum. 
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 MS 1868 ***
+
+SEC. 4.  There shall be a Superintendent of Public Education, in each country who shall be
+appointed byy the Board of Education, by and with the advice and consent of the Senate; whose
+term of office shall be two years, and whose compensation and duties shall be prescribed by law;
+Provided, that the Legislature shall have power to make said office of County School
+Superintendent of the several counties elective, as other county officers are.  
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 MS 1868 ***
+
+SEC. 5.  A public school or schools shall be maintained in each school district at least four
+months in each year.  Any school district neglecting to maintain such school or schools shall be
+deprived for that year of its proportion of the income of the free school fund and of all funds
+arising from taxes for the support of schools.
+
+*** SEND ***
+*** SSTART 006.0 008.0 0 MS 1868 ***
+
+SEC. 6.  There shall be established a Common School Fund which shall consist of the proceeds
+of the lands now belonging to the State, heretofore granted by the United States, and of the lands
+known as "swamp lands," except the swamp lands lying and situated on Pearl river, in the
+counties of Hancock, Marion, Lawrence, Simpson and Copish, and of all the lands now or
+heretofore vested in the State by escheat or purchase, or forfeiture for taxes, and the clear
+proceeds of all fines collected in the several counties, for any breach of the penal laws, and all
+moneys received for licenses granted under the general laws of the State for the sale of
+intoxicating liquor, or keeping of dram shops; all moneys paid as an equivalent for persons
+exempt from military duty, and the funds arising from the consolidation of the Congressional
+township funds, and the lands belonging thereto, together with all moneys donated to the State
+for school purposes, which funds shall be securely invested in United States Bonds, and remain a
+perpetual fund, which may be increased but not diminished, the interest of which shall be
+inviolably appropriated for the support of free schools.  
+
+*** SEND ***
+*** SSTART 007.0 008.0 0 MS 1868 ***
+
+SEC. 7.  The Legislature may levy a poll tax not to exceed two dollars a head in aid of the school
+fund, and for no other purpose.  
+
+*** SEND ***
+
+*** SSTART 008.0 008.0 0 MS 1868 ***
+
+SEC. 8.  The Legislature shall, as soon as practicable, provide for the establishment of an
+Agricultural College or Colleges, and shall appropriate the two hundred and ten thousand acres
+of land donated to the State for the support of such a College by the act of Congress passed July
+2d, A. D. 1865, or the money or scrip, as the case may be, arising from the sale of said lands or
+any lands which may hereafter be granted or appropriated for such purpose.  
+
+*** SEND ***
+*** SSTART 009.0 008.0 0 MS 1868 ***
+
+SEC. 9.  No religious sect or sects shall ever control any part of the school or university funds of
+this State. 
+
+*** SEND ***
+*** SSTART 010.0 008.0 0 MS 1868 ***
+
+SEC. 10.  The Legislature shall from time to time, as may be necessary, provide for the levy and
+collection of such other taxes as may be required to properly support the system of free schools
+herein adopted, and all school funds shall be divided pro rata among the children of school age.  
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 MS 1868 ***
+
+                    ARTICLE IX. 
+
+                    MILITIA.
+
+*** SSTART 001.0 009.0 0 MS 1868 ***
+
+SEC. 1.  All able bodied male citizens of this State, between the ages of eighteen (18) and forty-
+five (45) years, shall be liable to military duty in the militia of this State, in such manner as the
+Legislature shall provide not incompatible with this Constitution, and the Constitution and the
+laws of the United States. 
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 MS 1868 ***
+
+SEC. 2.  The Legislature shall provide for the organizing, army , equipping, and discipline of the
+militia, and for paying the same when called into active service.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 MS 1868 ***
+
+SEC. 3.  It shall be the duty of the first Legislature to make such laws as shall be necessary to
+immediately create an effective militia in this State. 
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 MS 1868 ***
+
+SEC. 4.  All officers of militia, except non-commissioned officers, shall be appointed by the
+Governor, by and with the consent of the Senate, and shall be chosen for their military
+knowledge, their experience in arms, and their fidelity and loyalty; and no commissioned officer
+shall be removed from office except by the Senate, on recommendation of the Governor, stating
+the grounds on which such removal is recommended or by the decision of a court martial,
+pursuant to law, or at his own request.  
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 MS 1868 ***
+
+SEC. 5.  The Governor shall be Commander-in-Chief of the militia, except when it is called into
+the service of the United States, and shall have power to call forth the militia to execute the laws,
+repel invasion, and to suppress riots and insurrections.
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 MS 1868 ***
+
+SEC. 6.  The Governor shall nominate, and by and with the consent of the Senate, commission
+on Major-General for the State, who shall be a citizen thereof; and also, one Brigadier General
+for each Congressional District, who shall be a resident of the district for which he shall be
+appointed, and each district shall constitute a Militia Division.  
+
+*** SEND ***
+*** SSTART 007.0 009.0 0 MS 1868 ***
+
+SEC. 7.  The Adjutant General, and other staff officers to the Commander-in-Chief, shall be
+appointed by the Governor, and their appointment shall expires with the Governor's term of
+office.  
+
+*** SEND ***
+*** SSTART 008.0 009.0 0 MS 1868 ***
+
+SEC. 8.  The militia shall be exempt from arrest during their attendance on musters, and in going
+to and returning from the same, except in case of treason, felony, or breach of the peace.  
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 MS 1868 ***
+
+                    ARTICLE X. 
+
+                    INTERNAL IMPROVEMENTS.
+
+*** SSTART 001.0 010.0 0 MS 1868 ***
+
+SEC. 1.  The Legislature, at its first regular session after the adoption of this Constitution, shall
+provide for the organization of a Board of Public works, prescribe its duties, fix the
+compensation of its members, and all officers employed upon public works in the State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 MS 1868 ***
+
+                    ARTICLE XI. 
+
+                    APPORTIONMENT. 
+
+*** SSTART 001.0 011.0 0 MS 1868 ***
+
+SEC. 1.  Until the first enumeration and a new apportionment shall be made as provided and
+directed in this Constitution, the apportionment of Senators and Representatives among the
+several counties and districts in this State shall be as follows:  
+     1st.  The county of Warren five Representatives.
+     2d.  The counties of Hinds and Lowndes, each four Representatives.  
+     3d.  The counties of Adams, Carroll, DeSoto, Holmes, Madison, Marshall, Monroe,
+Noxubee, Washington and Yazoo, each three Representatives. 
+     4th.  The counties of Attala, Chickasaw, Choctaw, Claiborne, Copiah, Jefferson, Lafayette,
+Lauderdale, Pontotoc, Oktibbeha, Panola, Tippah, Wilkinson, Yalobusha, Tishomingo and
+Rankin, each two Representatives.
+     5th.  The counties of Amite, Bolivar, Calhoun, Clarke, Franklin, Issaquena, Itawamba,
+Jasper, Kemper, Lawrence, Leake, Lee, Pike, Sunflower, Scott, Tallahatchie, Winston, Simpson,
+Coahoma, Tunica, Newton, Neshoba, Covington, Smith, Wayne, Davis, Greene, Jackson,
+Hancock, Marion, Harrison and Perry, each one Representative.  
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 MS 1868 ***
+
+SEC. 2. SENATE.  
+     1st.  The counties of Hancock, Harrison, Jackson, Marion, Greene and Perry , shall form
+the first district, and elect one Senator.  
+     2d.  The counties of Wilkinson and Amite, the second district, and one Senator. 
+     3d.  The counties of Pike, Lawrence and Covington, the third district, and one Senator.  
+     4th . The county of Adams, the fourth district, and one Senator.
+     5th.  The counties of Franklin and Jefferson, the fifth district, and one Senator. 
+     6th.  The counties of Claiborne and Copiah, the sixth district, and one Senator.  
+     7th.  The counties of Warren and Issaquena, the seventh district, and two Senators.  
+     8th.  The counties of Hinds, Rankin, and Simpson, the eighth district, and two Senators. 
+     9th.  The counties of Davis Jasper, Clark, and Wayne, the ninth district, and one Senator. 
+     10th.  The counties of Lauderdale and Kemper, the tenth district, and one Senator. 
+     11th.  The counties of Newton, Smith, and Scott, the eleventh district, and one Senator.  
+     12th.  The county of Madison, the twelfth district, and one Senator. 
+     13th.  The county of Yazoo, the thirteenth district, and one Senator. 
+     14th.  The counties of Washington and Sunflower, the fourteenth district, and one Senator. 
+     15th.  The county of Holmes, the fifteenth district, and one Senator.
+     16th.  The counties of Attala, Leake, and Neshoba, the sixteenth district, and one Senator. 
+     17th.  The county of Noxubee, the seventeenth district, and one Senator.  
+     18th.  The counties of Lowndes and Oktibbeha, the eighteenth district, and two Senators. 
+     19th.  The counties of Choctaw and Winston, the nineteenth district, and one Senator. 
+     20th.  The county of Carroll, the twentieth district, and one Senator. 
+     21st.  The counties of Calhoun and Yalobusha, the twenty-first district, and one Senator. 
+     22d.  The counties of Chicasaw and Monroe, the twenty-second district, and two
+Senators.
+     23d.  The counties of Bolivar, Coahoma, and Tunica, the twenty-third district, and one
+Senator. 
+     24th.  The counties of Panola and Tallahatchie, the twenty-fourth district, and one Senator. 
+
+     25th.  The county of DeSoto, the twenty-fifth district, and one Senator. 
+     26th.  The county of Marshall, the twenty-sixth district, and one Senator.
+     27th.  The counties of Lafayette and Pontotoc, the twenty-seventh district, and one
+Senator. 
+     28th.  The counties of Tishomingo and Itawamba, the twenty-eighth district, and one
+Senator.
+     29th.  The counties of Tippah and Lee, the twenty-ninth district, and one Senator.  
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 MS 1868 ***
+                    ARTICLE XII.  
+               
+                    GENERAL PROVISIONS.  
+
+*** SSTART 001.0 012.0 0 MS 1868 ***
+
+SEC. 1.  The political year of the state of Mississippi shall commence on the first Monday of
+January in each year, and the general election shall be holden on the first Tuesday succeeding the
+first Monday in November, biennially. 
+
+*** SEND ***
+*** SSTART 002.0 012.0 0 MS 1868 ***
+
+SEC. 2.  The Legislature shall pass laws to exclude from office, anf from suffrage, those who
+shall hereafter be convicted of bribery, perjury, forgery, or other high crimes or misdemeanors;
+and every person shall be disqualified from holding any office, or place of honor, profit or trust,
+under the authority of this State, who shall be convicted of having given or offered any bribe to
+procure his election or appointment.  
+
+*** SEND *** 
+*** SSTART 003.0 012.0 0 MS 1868 ***
+
+SEC. 3.  No person who denies the existence of a Supreme Being shall hold any office in this
+State. 
+
+*** SEND ***
+*** SSTART 004.0 012.0 0 MS 1868 ***
+
+SEC. 4.  The Legislature shall provide by law for the indictment and trial of persons charged with
+the commission of any felony, in any country other than that in which the offence was
+committed, whenever, owing to prejudice, or any other cause, an Impartial grand or petit jury
+cannot be empannelled in the county in which the offence was committed. 
+
+*** SEND ***
+*** SSTART 005.0 012.0 0 MS 1868 ***
+
+SEC. 5.  The credit of the State shall not be pledged or loaned in aid of any person, association,
+or corporation; nor shall the State hereafter, become a stockholder in any corporation or
+association.
+
+*** SEND ***
+*** SSTART 006.0 012.0 0 MS 1868 ***
+
+SEC. 6.  The term of office of all county, township, and precinct officers, shall expire within
+thirty days after this Constitution shall have been ratified, and the Governor shall, by and with the
+advice and consent of the Senate thereafter appoint such officers, whose term of office shall
+continue until the Legislature shall provide, by law, for an election of said officers; Provided, The
+present incumbents of all county, township, district and beat offices shall hold their respective
+offices until their successors are legally appointed or elected, and duly qualified. 
+
+*** SEND ***
+*** SSTART 007.0 012.0 0 MS 1868 ***
+
+SEC. 7.  In all cases, not otherwise provided for in this Constitution, the Legislature may
+determine the mode of filling all vacancies in all offices, and shall define their respective powers,
+and provide suitable compensation for all officers. 
+
+*** SEND ***
+*** SSTART 008.0 012.0 0 MS 1868 ***
+
+SEC. 8.  The Legislature at its first session, shall provide by law for the sale of all delinquent tax
+lands.  The courts shall apply the same liberal principles in favor of such titles as in sale by
+execution.
+
+*** SEND ***
+*** SSTART 009.0 012.0 0 MS 1868 ***
+
+SEC. 9.  No laws of a general feature, unless otherwise provided for, shall be enforced until sixty
+days after the passage thereof.  
+
+*** SEND ***
+*** SSTART 010.0 012.0 0 MS 1868 ***
+
+SEC. 10.  It shall be the duty of the Legislature to regulate, by law, the cases in which deductions
+shall be made from salaries of public officers for neglect of duty in their official capacity, and the
+amount of said deduction.
+
+*** SEND ***
+*** SSTART 011.0 012.0 0 MS 1868 ***
+
+SEC. 11.  The Legislature, at its first session under this Constitution, shall have authority to
+designate by law, such loyal paper, or papers, in each Circuit Court District, as shall publish all
+legal advertising, and such official printing as shall be required by law, in such Circuit Court
+District, and fix the compensation thereof.  
+
+*** SEND ***
+*** SSTART 012.0 012.0 0 MS 1868 ***
+
+SEC. 12.  No corporate body shall, hereafter, be created, renewed, or extended, with the privilege
+of making, issuing, or putting in circulation any notes, bills, or other paper, or the paper of any
+other bank to circulate as money; and the Legislature shall prohibit, by law, individuals or
+corporations from issuing bills, checks, tickets, promissory notes, or other papers, as money.  But
+nothing herein contained shall be construed as preventing corporations aor associations from
+forming, for such purposes, under the acts of Congress for a National system of Banking.  
+
+*** SEND ***
+*** SSTART 013.0 012.0 0 MS 1868 ***
+
+SEC. 13.  The property of all corporations for pecuniary profits, shall be subject to taxation, the
+same as that of individuals.  
+
+*** SEND ***
+*** SSTART 014.0 012.0 0 MS 1868 ***
+
+SEC. 14.  The Legislature shall not authorize any county, city, or town, to become a stockholder
+in, or to loan its credit to any company, association, or corporation unless two-thirds of the
+qualified voters of such county, city, or town, at a special election, or regular election, to be held
+therein, shall assent thereto. 
+
+*** SEND ***
+*** SSTART 015.0 012.0 0 MS 1868 ***
+
+SEC. 15.  The Legislature shall never authorize any Lottery, nor shall the sale of Lottery tickets
+be allowed, nor shall any Lottery heretofore authorized, be permitted to be drawn, or tickets
+therein to be sold.  
+
+*** SEND ***
+*** SSTART 016.0 012.0 0 MS 1868 ***
+
+SEC. 16.  No county shall be denied the right to raise, by special tax, money sufficient to pay the
+building and repairing of court-houses, jails, bridges, and other necessary conveniences for the
+people of the county; and money thus collected, shall never be appropriated for any other
+purpose; Provided, the tax thus levied, shall be a certain percent on all tax levied by the State.  
+                    
+
+*** SEND ***
+*** SSTART 017.0 012.0 0 MS 1868 ***
+
+SEC. 17.  Liabilities of Banks, Associations, and other corporations shall be secured by
+Legislative enactments; but in all cases, no stockholder shall be individually liable over and
+above the stock by him or her owned, unless so specified in the articles of association or act of
+incorporation.
+
+*** SEND ***
+*** SSTART 018.0 012.0 0 MS 1868 ***
+
+SEC. 18.  All lands sold in pursuance of decree of courts or executions shall be divided into
+tracts not to exceed one hundred and sixty acres.  
+
+*** SEND ***
+*** SSTART 019.0 012.0 0 MS 1868 ***
+
+SEC. 19.  Returns of all elections by the people shall be made to the Secretary of State in such
+manner as may be prescribed by law. 
+
+*** SEND ***
+*** SSTART 020.0 012.0 0 MS 1868 ***
+
+SEC. 20.  Taxation shall be equal and uniform throughout the State.  All property shall be taxed
+in proportion to its value, to be ascertained as directed by law.  
+
+*** SEND ***
+*** SSTART 021.0 012.0 0 MS 1868 ***
+
+SEC. 21.  The State of Mississippi shall never assume nor pay any debt or obligation contracted
+in aid of the rebellion, nor shall this State ever in any manner claim from the United States or
+make any allowance or compensation for slaves emancipated or liberated in any way whatever
+since the 9th day of January, 1861.  
+
+*** SEND ***
+*** SSTART 022.0 012.0 0 MS 1868 ***
+
+SEC. 22.  All persons who have not been married but are now living together, and cohabiting as
+husband and wife, shall be taken and held for all purposes in law, as married, and their children,
+whether born before or afer the ratification of this Constitution, shall be legitimate, and the
+Legislature may, by law, punish adultery and concubinage.      
+
+*** SEND ***
+*** SSTART 023.0 012.0 0 MS 1868 ***
+
+SEC. 23.  There shall be a Commissioner of Immigration and Agriculture, who shall be elected
+by the Legislature on joint ballot, who shall hold his office for the term of four years unless
+sooner removed by law.  
+
+*** SEND ***
+*** SSTART 024.0 012.0 0 MS 1868 ***
+
+SEC. 24.  The next Legislature shall have power to repeal statutes of limitation, pass relief, stay
+injunction insolvent and homestead laws, and to pass and every act deemed necessary for the
+relief of debtors, subject only to the restrictions imposed by the Constitution of the United States. 
+
+*** SEND ***
+*** SSTART 025.0 012.0 0 MS 1868 ***
+
+SEC. 25.  Representatives in Congress to fill the existing vacancies shall be elected at the same
+time this Constitution is submitted to the electors of the State for ratification, and for the full
+term next succeeding their election, and thereafter elections for Representatives in Congress shall
+be held biennially.  The first election shall be held on the first Tuesday after the first Monday in
+November preceeding the expiration of said full term.  
+
+*** SEND ***
+*** SSTART 026.0 012.0 0 MS 1868 ***
+
+SEC. 26.  Members of the Legislature and all other officers elected or appointed to any office is
+this State shall, before entering upon the discharge of the duties thereof, take and subscribe the
+following oath of office:  
+
+                         OATH OF OFFICE.
+
+     I, _________________________, do solemnly swear (or affirm) that I will faithfully
+support and true allegiance bear the Constitution of the United States and the State of
+Mississippi, and obey the laws thereof; that I am not disqualified from holding office by the
+Constitution of the United States, or the State of Mississippi; that I have never as a member of
+any Convention voted for or signed any ordinance or secession; that I have never as a member of
+any State Legislature, voted for the call of any Convention that passed any such ordinance; that I
+will faithfully discharge the duties of the office upon which I am about to enter.  So help me God
+
+*** SEND ***
+*** SSTART 027.0 012.0 0 MS 1868 ***
+
+SEC. 27.  It shall be the duty of the Legislature to provide by law for the support of institutions
+for the Education of the Deaf, Dumb and Blind; and also, for the treatment and care of the
+Insane.
+
+*** SEND ***
+*** SSTART 028.0 012.0 0 MS 1868 ***
+
+SEC. 28.  The Legislature shall provide Houses of Refuge for the correction and reformation of
+juvenile offenders.
+
+*** SEND ***
+*** SSTART 029.0 012.0 0 MS 1868 ***
+
+SEC.  29.  The County Boards shall have power to provide farms as an Asylum for those persons,
+who by reason of age, infirmity or other misfortune may have claims upon the sympathy and aid
+of society.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 MS 1868 ***
+     
+                    ARTICLE XIII.
+
+                    ORDINANCE AND SCHEDULE.   
+
+*** SSTART 001.0 013.1 0 MS 1868 ***
+
+                    MODE OF REVISING THE CONSTITUTION.      
+
+     Whenever two-thirds of each branch of the Legislature shall deem any change, alteration,
+or amendment necessary to this Constitution, such proposed change alteration or amendment,
+shall be read and passed by a two-thirds vote of each House respectively on each day for three
+several days; public notice shall then be given to the Secretary of State at least three months
+preceeding the next general election, at which the qualified electors shall vote directly for or
+against such change, alteration or amendment; and if more than one amendment shall be
+submitted in such manner and form that the people may vote for or against each amendment
+separately; and if it shall appear that a majority of the qualified electors voting for members of
+the Legislature shall have voted for the proposed change, alteration, or amendment, then it shall
+be inserted by the next succeeding Legislature as a part of this Constitution, and not otherwise.  
+
+     Provided, That no amendment which may be made prior to the year one thousand eight
+hundred and eighty-five shall in any manner effect the eighteenth section of the Bill of Rights.  
+
+*** SEND ***
+*** SSTART 001.0 013.2 0 MS 1868 ***
+
+                    SCHEDULE.
+
+SEC. 1.  The Ordinance of Secession of the State of Mississippi, passed January 9th, 1861, is
+hereby declared to be null and void.  The present and all previous Constitutions of the State of
+Mississippi, are hereby declared to be repealed and annulled by this Constitution.
+
+*** SEND *** 
+*** SSTART 002.0 013.2 0 MS 1868 ***
+
+SEC. 2.  All laws now in force in this State, not enacted in furtherance of secession and rebellion,
+and not repugnant to this Constitution, shall continue in operation until they shall expire by their
+own limitation, or be altered or repealed by the Legislature, except the hereinafter mentioned
+laws, to-wit:
+     "An act to change the name of the county of Jones, and for other purposes," approved
+December 1, A. D. 1865.
+     "An act o establish a ferry across the Mississippi river, at Vicksburg," approved
+November 29, A. D. 1865.  
+     "An act to provide for the removal and location of the seat of Justice of Scott county,"
+approved November 8, A. D. 1865.  
+     "An act supplemental to an act entitled an act to provide for the removal and location of
+the seat of Justice of Scott county," approved Nov. 8, 1865, approved Dec. 1, A. D. 1865.
+
+*** SEND ***
+*** SSTART 003.0 013.2 0 MS 1868 ***
+
+SEC. 3.  The Legislature shall provide for the removal of causes now pending in the courts of
+this State, to courts created by or under this Constitution.
+
+*** SEND ***
+*** SSTART 004.0 013.2 0 MS 1868 ***
+
+SEC. 4.  Immediately upon the adjournment of this Convention, this Constitution shall be
+submitted for ratification to the registered voters of the State, in conformity with the acts of
+Congress, passed March 2, 1867 entitled "An act to provide for the more efficient government of
+the rebel States," and the act supplementary thereto.  
+
+*** SEND ***
+*** SSTART 005.0 013.2 0 MS 1868 ***
+
+SEC. 5.  The election for the ratification of this Constitution shall commence on the 22d day of
+June, A. D. 1868, and be held at such places, and shall continue such times as the Commanding
+General of the Fourth Military District may direct, and the polls shall be kept open from eight
+o'clock A. M., until seven o'clock P. M., each day.  At said election all those in favor of ratifying
+the Constitution shall have written or printed on their ballots, the words: "For Constitution;" and
+those opposed to the ratification of the same, shall have written or printed on their ballots, the
+words: "Against Constitution," but no person shall vote for or against this Constitution on a
+separate ballot from that cast by him for against this Constitution on a separate ballot from that
+cast by him for officers to be elected at said election under this Constitution.
+
+*** SEND ***
+*** SSTART 006.0 013.2 0 MS 1868 ***
+
+SEC. 6.  In order to establish a civil government as required by the act of Congress, approved
+March 2d, 1867, and the acts supplementary thereto, an election shall be held at the same time
+and place, at which the Constitution is submitted for ratification, for all State officers, including
+members of the Legislature and for Representatives in Congress, at which election the electors
+who are qualified under the Reconstruction Acts of Congress shall vote and none other.
+
+*** SEND ***
+*** SSTART 007.0 013.2 0 MS 1868 ***
+
+SEC. 7.  The Committee of five appointed under the authority of this Convention shall appoint
+three Commissioners of Election for each county, whose duty it shall be to attend the election for
+the ratification or rejection of the Constitution who shall also, at the same time and place, attend
+the election for all officers and representatives herein ordered, and be present at the counting of
+the votes, and torward the result of the same to the chairman of said committee within three days
+thereafter.
+
+*** SEND ***
+*** SSTART 008.0 013.2 0 MS 1868 ***
+
+SEC. 8.  The Legislature elected under this Constitution shall hold its first session in the Capitol,
+in the city of Jackson, on the second Monday after the official promulgation of the ratification of
+this Constitution, and shall proceed immediately upon its organization to vote upon the adoption
+of the fourteenth amendment of the Constitution of the United States, proposed by Congress, and
+passed June 13, 1866.  Said Legislature shall not have power to enact any laws relative to the per
+diem of members, nor on any other subject, after organization, until said Constitutional
+amendment shall have been adopted.
+
+*** SEND ***
+*** SSTART 009.0 013.2 0 MS 1868 ***
+
+SEC. 9.  The first term of all civil officers elected at the same time this Constitution is submitted
+for ratification or rejection, shall commence on the second Monday after their election shall have
+been officially promulgated, and shall continue to hold from said time until the expiration of the
+first full term succeeding said election.  
+
+*** SEND ***
+*** SSTART 010.0 013.2 0 MS 1868 ***
+
+SEC. 10.  The Commissioners of Election herein provided for shall receive the same
+compensation per day, while in attendance upon elections, and allowances for transportation
+(when actual disbursements have been made) as registrars, and shall be paid out of any funds in
+the State Treasury to the credit of the Convention fund, upon the certificate of the Chairman of
+said Committee of five.
+
+*** SEND ***
+*** SSTART 011.0 013.2 0 MS 1868 ***
+
+SEC. 11.  The committee of five appointed by this Convention is hereby authorized and
+empowered to adjust all outstanding accounts against the same, and certify to their correctness,
+and the Auditor of Public Accounts shall issue his warrant in payment thereof.
+
+*** SEND ***
+*** SSTART 012.0 013.2 0 MS 1868 ***
+
+SEC. 12.  When this Convention adjourns it shall be subject to the call of the committee of five
+appointed by this Convention; Provided, that should the Constitution be ratified, this Convention
+shall thereafter be deemed adjourned sine die, but in case the Constitution shall not be ratified,
+then the Convention may be reconvened by said committee.
+
+*** SEND ***
+*** SSTART 013.0 013.2 0 MS 1868 ***
+
+SEC. 13.  Said committee shall have authority to employ a clerk and to enforce the collection of
+the taxes levied by the several ordinances of this Convention, and to perform any and all duties
+appertaining to the same. 
+
+*** SEND ***
+*** SSTART 014.0 013.2 0 MS 1868 ***
+
+SEC. 14.  The members of the committee of five, appointed by this Convention, and the clerk
+thereof, shall receive the same compensation as the members of the Convention.
+
+*** SEND ***
+*** SSTART 015.0 013.2 0 MS 1868 ***
+
+SEC. 15.  If any candidate receiving the highest number of votes cast, cannot take the oath of
+office prescribed in this Constitution, then, and in that case, the candidate receiving the next
+highest vote shall be entitled to enter upon and perform the duties of the office upon taking and
+subscribing to said oath.  
+
+
+B. B. Eggleston, President and Delegate from Lowndes County.
+                                                  A. Alderson, Jefferson County.                    A. J. Jamison, Chickasaw County.
+                                             Robt  J. Alcorn, Yalobusha County.           A. Johnson, Warren County
+                                             Horatio N. Ballard, Desoto County.           J. H. Kerr, Calhoun County.
+                                             H. W. Barry, Holmes County.                  M. H. Lack, Scott County.
+Chas. W. Beam, Franklin County.                   W. Lawson, Lawrence County.
+                                             Peres Bonney, Pike County.                   Benj. Leas, Warren County.
+                                             N.B. Bridges, Choctaw County.                William Leonard, Yazoo County.
+                                                  Jno. C. Brinson, Rankin County.                   Henry Mayson, Hinds County.
+                                             C. Caldwell, Hinds County.                   H. Mask, Tishomingo County.
+                                             Edward J. Castello, Adams County.            H. Musgrove, Clarke County.
+                                             Carlos Chapman, Covington County.            J. Aaron Moore, Lauderdale County.
+                                                  N. J. Chappell, Noxubee County.                   A. T. Morgan, Yazoo County.
+                                                       Chas. W. Clarke, Delegate Yazoo County.                Cyrus Myers, Rankin County. 
+                                             S. C. Conly, Attala County.                  A. Mygatt, Warren County.  
+                                             W. T. Combash, Wasington County.             Geo. C. McKee, Warren County.
+                                             W. Ben Cunningham, Madison County.           W. V. McKnight, Jasper County.
+                                             A. S. Dowd, Coahoma County.                  M. T. Newson, Claiborne County.
+                                             Amos Draine, Madison County.                 W. D. Nesbit, DeSoto County.
+                                                  John Elliott, Itawamba County.                    Jason Niles, Attala County.
+                                                                      James Elliott, Monroe County                 U. Ozanne, Panola County 
+                                             John Fawn, Washington County.                Fred. Parsons, Adams County
+                                                  Charles W. Fitzhugh, Wilkinson County.            J. R. Parsons, Hinds County.  
+                                                  W. H. Gibbs, Wilkinson County.                    E. A. Peyton, Hinds County.
+                                             Emanuel Handy, Copiah County.                S. H. Powell, Noxubee County.
+                                             Jerre Hauser, Kemper County.                 D. N. Quinn, Sunflower County.
+                                                  J. Lewellen Herbert, Monroe County.               Jehiel Railsback, Bolivar County.
+                                                  G. H. Holland, Choctaw County.                    Jared Richardson, Winston County.
+                                             A. R. Howe, Panola County.                   Isham Stewart, Noxubee County.
+                                             W. A. Hutto, Neshoba County.                 Doctor Stites, Washington County. 
+                                                  Henry P. Jacobs, Adams County.                    Geo. Stovall, Carroll County
+                                             Thomas W. Stringer, Warren County.           Edward  H. Stiles, Claiborne County.
+                                                  E. R. Smith, Chickasaw County.                    H. P. Toy, Issaquena County.
+                                                  Henry W. Warren, Leake County.                    James Weir, Oktibbeha County.
+                                             D. Mc A. Williams, Holmes County.            J. B. Woodmansee, Monroe County.
+                         WM Yeoman, Wayne County. 
+
+          Attest:   
+               Thad. P. Sears, Secretary.
+
+*** SEND ***
+*** AEND ***
+*** CEND ***
+

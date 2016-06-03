@@ -1,0 +1,2939 @@
+This is ready to go
+
+JW 1.10.02
+
+
+
+*** CSTART IL 8/8/1870 12/15/1970 ***
+
+CONSTITUTION OF ILLINOIS-1870   
+
+*** ASTART 9001.0 1870 ***
+
+PREAMBLE
+
+We, the People of the State of Illinois-grateful to Almighty God for the civil, political and
+religious liberty which he hath so long permitted us to enjoy, and looking to him for a blessing
+upon our endeavors to secure and transmit the same unimpaired to succeeding generations-in
+order to form a more perfect government, establish justice, insure domestic tranquility, provide
+for the common defense, promote the general welfare, and secure the blessing of liberty to
+ourselves and our posterity, do ordain and establish this Constitution for the State of Illinois.
+
+*** AEND ***
+*** ASTART 001.0 1870 ***
+
+ARTICLE I
+
+BOUNDARIES
+
+*** SEND ***
+*** SSTART 001.0 001.0 0 IL 1870 ***
+
+The boundaries and jurisdiction of the State shall be as follows, to-wit: Beginning at the mouth of
+the Wabash river; thence up the same, and with the line of Indiana to the north west corner of said
+State; thence east, with the line of the same State, to the middle of Lake Michigan; thence north
+along the middle of said lake to north latitude forty-two degrees and thirty minutes, thence west
+to the middle of the Mississippi river, and thence down along the middle of that river to its
+confluence with the Ohio river, and thence up the latter river along its northwestern shore to the
+place of beginning: Provided, that this State shall exercise such jurisdiction upon the Ohio river as
+she is now entitled to, or such as may hereafter be agreed upon by this State and the State of
+Kentucky.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 1870 ***
+
+ARTICLE II
+
+BILL OF RIGHTS
+
+*** SEND ***
+*** SSTART 001.0 002.0 0 IL 1870 ***
+
+SECTION 1. All men are by nature free and independent, and have certain inherent and
+inalienable rights-among these are life, liberty and the pursuit of happiness. To secure these rights
+and the protection of property, governments are instituted among men, deriving their just powers
+from the consent of the governed.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 IL 1870 ***
+
+ 2. No person shall be deprived of life, liberty or property without due process of law.
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 IL 1870 ***
+
+ 3. The free exercise and enjoyment of religious profession and worship, without discrimination,
+shall forever be guaranteed; and no person shall be denied any civil or political right, privilege or
+capacity on account of his religious opinions; but the liberty of conscience hereby secured shall
+not be construed to dispense with oaths or affirmations, excuse acts of licentiousness, or justify
+practices inconsistent with the peace or safety of the State. No person shall be required to attend
+or support any ministry or place of worship against his consent, nor shall any preference be given
+by law to any religious denomination or mode of worship.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 IL 1870 ***
+
+ 4. Every person may freely speak, write and publish on all subjects, being, responsible for the
+abuse of that liberty; and in all trials for libel, both civil an criminal, the truth, when published with
+good motives and for justifiable ends, shall be a sufficient defense.
+
+*** SEND ***
+*** SSTART 005.0 002.0 0 IL 1870 ***
+
+ 5. The right of trial by jury, as heretofore enjoyed, shall remain inviolate; but the trial of civil
+cases before justices of the peace, by a jury of less than twelve men, may be authorized by law.
+
+*** SEND ***
+*** SSTART 006.0 002.0 0 IL 1870 ***
+
+ 6. The right of the people to be secure in their persons, houses, papers and effects against
+unreasonable searches and seizures, shall not be violated; and no warrant shall issue without
+probable cause, supported by affidavit, particularly describing the place to be searched, and the
+persons or things to be seized.
+
+*** SEND ***
+*** SSTART 007.0 002.0 0 IL 1870 ***
+
+ 7. All persons shall be bailable by sufficient sureties, except for capital offenses, where the proof
+is evident or the presumption great; and the privilege of the writ of habeas corpus shall not be
+suspended, unless when in cases of rebellion or invasion the public safety may require it.
+
+*** SEND ***
+*** SSTART 008.0 002.0 0 IL 1870 ***
+
+ 8. No person shall be held to answer for a criminal offense, unless on indictment of a grand jury,
+except in cases in which the punishment is by fine, or imprisonment otherwise than in the
+penitentiary, in cases of impeachment, and in cases arising in the army and navy, or in the militia,
+when in actual service in time of war or public danger: Provided, that the grand jury may be
+abolished by law in all cases.
+
+*** SEND ***
+*** SSTART 009.0 002.0 0 IL 1870 ***
+
+ 9. In all criminal prosecutions the accused shall have the right to appear and defend in person
+and by counsel; to demand the nature and cause of the accusation, and to have a copy thereof; to
+meet the witnesses face to face, find to have process to compel the attendance of witnesses in his
+behalf, and a speedy public trial by an impartial jury of the county or district in which the offense
+is alleged to have been committed.
+
+*** SEND ***
+*** SSTART 010.0 002.0 0 IL 1870 ***
+
+ 10. No person shall be, compelled in any criminal case to give evidence against himself, or be
+twice put in jeopardy for the same offense.
+
+*** SEND ***
+*** SSTART 011.0 002.0 0 IL 1870 ***
+
+ 11. All penalties shall be proportioned to the nature of the offense; and no conviction shall work
+corruption of blood or forfeiture of estate; nor shall any person be transported out of the State for
+any offense committed within the same.
+
+*** SEND ***
+*** SSTART 012.0 002.0 0 IL 1870 ***
+
+ 12. No person shall be imprisoned for debt, unless upon refusal to deliver up his estate for the
+benefit of his creditors, in such manner as shall be prescribed by law; or in cases where there is
+strong presumption of fraud.
+
+*** SEND ***
+*** SSTART 013.0 002.0 0 IL 1870 ***
+
+ 13. Private property shall not be taken or damaged for public use without just compensation.
+Such compensation, when not made by the State, shall be ascertained by a jury, as shall be
+prescribed by law. The fee of land taken for railroad tracks, without consent of the owners
+thereof, shall remain in such owners, subject to the use for which it is taken.
+
+*** SEND ***
+*** SSTART 014.0 002.0 0 IL 1870 ***
+
+ 14. No ex post facto law, or law impairing the obligation of contracts, or making any
+irrevocable grant of special privileges or immunities, shall be passed.
+
+*** SEND ***
+*** SSTART 015.0 002.0 0 IL 1870 ***
+
+ 15. The military shall be in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 016.0 002.0 0 IL 1870 ***
+
+ 16. No soldier shall, in time of peace, be quartered in any house without the consent of the
+owner; nor in time of war except in the manner prescribed by law.
+
+*** SEND ***
+*** SSTART 017.0 002.0 0 IL 1870 ***
+
+ 17. The people have the right to assemble in a peaceable manner to consult for the common
+good, to make known their opinions to their representatives, and to apply for redress of
+grievances.
+
+*** SEND ***
+*** SSTART 018.0 002.0 0 IL 1870 ***
+
+18. All elections shall be free and equal.
+
+*** SEND ***
+*** SSTART 019.0 002.0 0 IL 1870 ***
+
+19. Every person ought to find a certain remedy in the laws for all injuries and wrongs which he
+may receive in his person, property, or reputation; he ought to obtain by law, right and justice
+freely, and without being obliged to purchase it, completely and without denial, promptly and
+without delay.
+
+*** SEND ***
+*** SSTART 020.0 002.0 0 IL 1870 ***
+
+ 20. A frequent recurrence to the fundamental principles of civil government is absolutely
+necessary to preserve the blessings of liberty.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 1870 ***
+
+
+ARTICLE III
+
+DISTRIBUTION OF POWERS
+
+*** SEND ***
+*** SSTART 001.0 003.0 0 IL 1870 ***
+
+The powers of the government of this State are divided into three distinct departments-the
+Legislative, Executive and Judicial; and no person, or collection of persons, being one of these
+departments, shall exercise any power properly belonging to either of the others, except as
+hereinafter expressly directed or permitted.
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 1870 ***
+
+ARTICLE IV
+
+LEGISLATIVE DEPARTMENT
+
+*** SEND ***
+*** SSTART 001.0 004.0 0 IL 1870 ***
+
+ 1. The legislative power shall be vested in a general assembly, which shall consist of a senate
+and house of representatives, both to be elected by the people.
+
+
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 IL 1870 ***
+
+ELECTION
+ 2. An election for members of the general assembly shall be held on the Tuesday next after the
+first Monday in November, in the year of our Lord one thousand eight hundred and seventy, and
+every two years thereafter, in each county, at such places therein as may be provided by law.
+When vacancies occur in either house, the governor, or person exercising the powers of governor,
+shall issue writs of election to fill such vacancies.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 IL 1870 ***
+
+ 3. No person shall be a senator who shall not have attained the age of twenty-five years, or a
+representative who shall not have attained the age of twenty-one years. No person shall be a
+senator or a representative who shall not be a citizen of the United States and who shall not have
+been for five years a resident of this State, and for two years next preceding his election a resident
+within the territory forming the district from which he is elected. No judge or clerk of any court,
+secretary of state, attorney general, state's attorney, recorder, sheriff, or collector of public
+revenue, members of either house of congress, or persons holding any lucrative office under the
+United States or this State, or any foreign government, shall have a seat in the general assembly:
+Provided, that appointments in the militia, and the offices of notary public and justice of the
+peace, shall not be considered lucrative. Nor shall any person holding any office of honor or profit
+under any foreign government, or under the government of the United States, (except postmasters
+whose annual compensation does not exceed the sum of three hundred dollars) hold any office of
+honor or profit under the authority of this State.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 IL 1870 ***
+
+ 4. No person who has been, or hereafter shall be convicted of bribery, perjury or other infamous
+crime, nor any person who has been or may be a collector or holder of public moneys, who shall
+not have accounted for and paid over, according to law, all such moneys due from him, shall be
+eligible to the general assembly, or to any office of profit or trust in this State.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 IL 1870 ***
+
+. 5. Members of the general assembly, before they enter upon their official duties, shall take and
+subscribe the following oath or affirmation:
+" I do solemnly swear (or affirm) that I will support the constitution of the United States and the
+constitution of the State of Illinois, and will faithfully discharge the duties of senator (or
+representative) according to the best of my ability; and that I have not knowingly or intentionally
+paid or contributed anything, or made any promise in the nature of a bribe to directly or indirectly
+influence any vote at the election at which I was chosen to fill the said office, and have not
+accepted, nor will I accept or receive, directly or indirectly, any money or other valuable thing
+from any corporation, company or person for any vote or influence I may give or withhold on any
+bill, resolution or appropriation, or for any other official act."
+This oath shall be administered by a judge of the supreme or circuit court in the hall of the house
+to which the member is elected and the secretary of state shall record and file the oath subscribed
+by each member. Any member who shall refuse to take the oath herein prescribed shall forfeit his
+office, and every member who shall be convicted of having sworn falsely to, or of violating, his
+said oath, shall forfeit his office and be disqualified thereafter from holding any office of profit or
+trust in this State.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 IL 1870 ***
+
+ 6. The general assembly shall apportion the State every ten years, beginning wit the year one
+thousand eight hundred and seventy-one, by dividing the population of the State, as ascertained by
+the federal census, by the number fifty-one, and the quotient shall be the ratio of representation in
+the senate. The State shall be divided into fifty-one senatorial districts; each of which shall elect
+one senator, whose term of office shall be four years. The senators elected in the year of our Lord
+one thousand eight hundred and seventy-two, in districts bearing odd numbers, shall vacate their
+offices at the end of two years, and those elected in districts bearing even numbers at the end of
+four years, and vacancies occurring by the expiration of term shall be filled by the election of
+senators for the full term. Senatorial districts shall be formed of contiguous and compact territory,
+bounded by county lines, and contain as near as practicable an equal number of inhabitants; but no
+district shall contain less than four-fifths of the senatorial ratio. Counties containing not less than
+the ratio and three-fourths may be divided into separate districts, and shall be entitled to two
+senators, and to one additional senator for each number of inhabitants equal to the ratio contained
+by such counties in excess of twice the number of said ratio.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 IL 1870 ***
+
+ 7. The population of the State, as ascertained by the federal census, shall be divided by the
+number one hundred and fifty-three, and the quotient shall be the ratio of representation in the
+house of representatives. Every county or district shall be entitled to one representative, when its
+population is three-fifths of the ratio; if any county has less than three-fifths of the ratio, it shall be
+attached to the adjoining county having the least population, to which no other county has, for the
+same reason, been attached, and the two shall constitute a separate district. Every county or
+district having a population not less than the ratio and three-fifths, shall be entitled to two
+representatives, and for each additional number of inhabitants, equal to the ratio, one
+representative. Counties having over two hundred thousand inhabitants, may be divided into
+districts, each entitled to not less than three nor more than five representatives. After the year one
+thousand eight hundred and eighty, the whole population shall be divided by the number one
+hundred and fifty-nine, and the quotient shall be the ratio of representation in the house of
+representatives for the ensuing ten years, and six additional representatives shall be added for
+every five hundred thousand increase of population at each decennial census thereafter, and be
+apportioned in the same manner as above provided.
+
+
+[NOTE--By the adoption of minority representation.  7 and 8 of this article, above set forth,
+cease to be a part of the constitution. Under  12 of the schedule, and the vote of adoption, the
+following section relating to minority representation is substituted for said sections:
+
+
+MINORITY REPRESENTATION
+
+     7 and 8. The house of representatives shall consist of three times the number of the members
+of the senate, and the term of office shall be two years. Three representatives shall be elected in
+each senatorial district at the general election in the year of our Lord one thousand eight hundred
+and seventy-two, and every two years thereafter. In-all elections of representatives aforesaid; each
+qualified voter may cast as many votes for one candidate as there are representatives to be
+elected, or may distribute the same, or equal parts thereof, among the candidates, as he shall see
+fit; and the candidates highest in votes shall be declared elected.
+
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 IL 1870 ***
+
+ 8. When a county or district shall have a fraction of population above what shall entitle it to one
+representative, or more, according to the provisions of the foregoing section, amounting to one-
+fifth of the ratio, it shall be entitled to one additional representative in the fifth term of each
+decennial period; when such fraction is two-fifths of the ratio, it shall be entitled to an additional
+representative in the fourth and fifth terms of said period; when the fraction is three fifths of the
+ratio, it shall be entitled to an additional representative in the first, second and third terms,
+respectively; when a fraction is four-fifths of the ratio, it shall be entitled to an additional
+representative in the first, second, third and fourth terms, respectively.
+
+
+[NOTE--By the adoption of minority representation.  7 and 8 of this article, above set forth,
+cease to be a part of the constitution. Under  12 of the schedule, and the vote of adoption, the
+following section relating to minority representation is substituted for said sections:
+
+
+MINORITY REPRESENTATION
+
+  7 and 8. The house of representatives shall consist of three times the number of the members
+of the senate, and the term of office shall be two years. Three representatives shall be elected in
+each senatorial district at the general election in the year of our Lord one thousand eight hundred
+and seventy-two, and every two years thereafter. In-all elections of representatives aforesaid; each
+qualified voter may cast as many votes for one candidate as there are representatives to be
+elected, or may distribute the same, or equal parts thereof, among the candidates, as he shall see
+fit; and the candidates highest in votes shall be declared elected.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 IL 1870 ***
+
+ 9. The sessions of the general assembly shall commence at twelve o' clock noon, on the
+Wednesday next after the first Monday in January, in the year next ensuing the election of
+members thereof, and at no other time, unless as provided by this constitution. A majority of the
+members elected to each house shall constitute a quorum. Each house shall determine the rules of
+its proceedings, and be the judge of the election, returns and qualifications of its members; shall
+choose its own officers; and the senate shall choose a temporary president to preside when the
+lieutenant governor shall not attend as president, or shall act as governor. The secretary of state
+shall call the house of representatives to order at the opening of each new assembly, and preside
+over it until a temporary presiding officer thereof shall have been chosen and shall have taken his
+seat. No member shall be expelled by either house, except by a vote of two-thirds of all the
+members elected to that house, and no member shall be twice expelled for the same offense. Each
+house may punish by imprisonment any person not a member who shall be guilty of disrespect to
+the house by disorderly or contemptuous behavior in its presence. But no such imprisonment shall
+extend beyond twenty-four hours at one time, unless the person shall persist in such disorderly or
+contemptuous behavior. 
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 IL 1870 ***
+
+ 10. The doors of each house and of committees of the whole shall be kept open, except in such
+cases as, in the opinion of the house, require secrecy. Neither house shall, without the consent of
+the other, adjourn for more than two days, or to any other place than that in which the two houses
+shall be sitting. Each house shall keep a journal of its proceedings, which shall be published. In the
+senate, at the request of two members, and in the house, at the request of five members, the yeas
+and nays shall be taken on any question, and entered upon the journal. Any two members of either
+house shall have liberty to dissent from and protest, in respectful language, against any act or
+resolution which they think injurious to the public or to any individual, and have the reasons of
+their dissent entered upon the journals.
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 IL 1870 ***
+
+
+ 11. The style of the laws of this State shall be: "Be it enacted by the People of the State of
+Illinois, represented in the General Assembly."  
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 IL 1870 ***
+
+ 12. Bills may originate in either house, but may be altered, amended or rejected by the other;
+and, on the final passage of all bills, the vote shall be by yeas and nays, upon each bill separately,
+and shall be entered upon the journal; and no bill shall become a law without the concurrence of a
+majority of the members elected to each house.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 IL 1870 ***
+
+ 13. Every bill shall be read at large on three different days, in each house; and the bill and all
+amendments thereto shall be printed before the vote is taken on its final passage; and every bill,
+having passed both houses, shall be signed by the speakers thereof. No act hereafter passed shall
+embrace more than one subject, and that shall be expressed in the title. But if any subject shall be
+embraced in an act which shall not be expressed in the title, such act shall be void only as to so
+much thereof as shall not be so expressed; and no law shall be revived or amended by reference to
+its title only, but the law revived, or the section amended, shall be inserted at length in the new
+act. And no act of the general assembly shall take effect until the first day of July next after its
+passage, unless, in case of emergency (which emergency shall be expressed in the preamble or
+body of the act), the general assembly shall, by a vote of two-thirds of all the members elected to
+each house, otherwise direct.
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 IL 1870 ***
+
+ 14. Senators and representatives shall, in all cases, except treason, felony or breach of the peace,
+be privileged from arrest during the session of the general assembly, and in going to and returning
+from the same; and for any speech or debate in either house, they shall not be questioned in any
+other place.
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 IL 1870 ***
+
+ 15. No person elected to the general assembly shall receive any civil appointment within this
+State from the governor, the governor and senate, or from the general assembly, during the term
+for which he shall have been elected; and all such appointments, and all votes given for any such
+members for any such office or appointment, shall be void; nor shall any member of the general
+assembly be interested, either directly or indirectly, in any contract with the State, or any county
+thereof, authorized by any law passed during the term for which he shall have been elected, or
+within one year after the expiration thereof.
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 IL 1870 ***
+
+
+ 16. The general assembly shall make no appropriation of money out of the treasury in any
+private law. Bills making appropriations for the pay of members and officers of the general
+assembly, and for the salaries of the officers of the government shall contain no provision on any
+other subject.
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 IL 1870 ***
+
+ 17. No money shall be drawn from the treasury except in pursuance of an appropriation made
+by law, and on the presentation of a warrant issued by the auditor thereon; and no money shall be
+diverted from any appropriation made for any purpose, or taken from any fund whatever, either
+by joint or separate resolution. The auditor shall, within sixty days after the adjournment of each
+session of the general assembly, prepare and publish a full statement of all money expended at
+such session, specifying the amount of each item, and to whom and for what paid.
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 IL 1870 ***
+
+ 18. Each general assembly shall provide for all the appropriations necessary for the ordinary and
+contingent expenses of the government until the expiration of the first fiscal quarter after the
+adjournment of the next regular session, the aggregate amount of which shall not be increased
+without a vote of two-thirds of the members elected to each house, nor exceed the amount of
+revenue authorized by law to be raised in such time; and all appropriations, general or special,
+requiring money to be paid out of the State treasury, from funds belonging to the State, shall end
+with such fiscal quarter: Provided, the State may, to meet casual deficits or failures in revenues,
+contract debts, never to exceed in the aggregate two hundred and fifty thousand dollars; and
+moneys thus borrowed shall be applied to the purpose for which they were obtained, or to pay the
+debt thus created, and to no other purpose; and no other debt, except for the purpose of repelling
+invasion, suppressing insurrection, or defending the State in war (for payment of which the faith
+of the State shall be pledged), shall be contracted, unless the law authorizing the same shall, at a
+general election, have been submitted to the people and have received a majority of the votes cast
+for members of the general assembly at such election. The general assembly shall provide for the
+publication of said law for three months, at least before the vote of the people shall be taken upon
+the same; and provision shall be made, at the time, for the payment of the interest annually, as it
+shall accrue, by a tax levied for the purpose, or from other sources of revenue; which law,
+providing for the payment of such interest by such tax, shall be irrepealable until such debt be
+paid; And, provided further, that the law levying the tax shall be submitted to the people with the
+law authorizing the debt to be contracted.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 IL 1870 ***
+
+ 19. The general assembly shall never grant or authorize extra compensation, fee or allowance to
+any public officer, agent, servant or contractor, after service has been rendered or a contract
+made, nor authorize the payment of any claim, or part thereof, hereafter created against the State
+under any agreement or contract made without express authority of law; and all such
+unauthorized agreements of contracts shall be null and void: Provided, the general assembly may
+make appropriations for expenditures incurred in suppressing insurrection or repelling invasion.
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 IL 1870 ***
+
+ 20. The State shall never pay, assume or become responsible for the debts or liabilities of, or in
+any manner give, loan or extend its credit to, or in aid of, any public or other corporation,
+association or individual.
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 IL 1870 ***
+
+ 21. The members of the general assembly shall receive for their services the sum of five dollars
+per day, during the first session held under this constitution, and ten cents for each mile
+necessarily traveled in going to and returning from the seat of government, to be computed by the
+auditor of public accounts; and thereafter such compensation as shall be prescribed by law, and no
+other allowance or emolument, directly or indirectly, for any purpose whatever, except the sum of
+fifty dollars per session to each member, which shall be in full for postage, stationery, newspapers
+and all other incidental expenses and perquisites; but no change shall be made in the compensation
+of the general assembly during the term for which they may have been elected. The pay and
+mileage allowed to each member of the general assembly shall be certified by the speakers of their
+respective houses, and entered on the journals, and published at the close of each session.
+
+*** SEND ***
+*** SSTART 022.0 004.0 0 IL 1870 ***
+
+ 22. The general assembly shall not pass local or special laws in any of the following enumerated
+cases, that is to say: for-
+Granting divorces;
+Changing the names of persons or places;
+Laying out, opening, altering and working roads or highways;
+Vacating roads, town plats, streets, alleys, and public grounds;
+Locating or changing county seats;
+Regulating county and township affairs;
+Regulating the practice in courts of justice;
+Regulating the jurisdiction and duties of justices of the peace, police magistrates and constables;
+Providing for changes of venue in civil and criminal cases;
+Incorporating cities, towns or villages, or changing or amending the charter of any town, city or
+village;
+Providing for the election of members of the board of supervisors in townships, incorporated
+towns or cities;
+Summoning and impaneling grand or petit juries;
+Providing for the management of common schools;
+Regulating the rate of interest on money;
+The opening and conducting of any election, or designating the place of voting;
+The sale or mortgage of real estate belonging to minors or others under disability;
+The protection of game or fish;
+Chartering or licensing ferries or toll bridges;
+Remitting fines, penalties or forfeitures;
+Creating, increasing, or decreasing fees, percentage or allowances of public officers, during the
+term for which said officers are elected or appointed;
+Changing the law of descent;
+Granting to any corporation, association, or individual, the right to lay down railroad tracks, or
+amending existing charters for such purposes.
+Granting to any corporation, association or individual any special or exclusive privilege, immunity
+or franchise whatever;
+In all other cases where a general law can be made applicable, no special law shall be enacted.
+
+*** SEND ***
+*** SSTART 023.0 004.0 0 IL 1870 ***
+
+ 23. The general assembly shall have no power to release or extinguish, in whole or in part, the
+indebtedness, liability or obligation of any corporation or individual to this State or to any
+municipal corporation therein.
+
+*** SEND ***
+*** SSTART 024.0 004.0 0 IL 1870 ***
+
+ 24. The house of representatives shall have the sole power of impeachment; but a majority of all
+the members elected must concur therein. All impeachments shall be tried by the senate; and when
+sitting for that purpose, the senators shall be upon oath or affirmation to do justice according to
+law and evidence. When the governor of the state is tried, the chief justice shall preside. No
+person shall be convicted without the concurrence of two-thirds of the senators elected. But
+judgment, in such cases, shall not extend further than removal from office, and disqualification to
+hold any office of honor, profit or trust under the government of this State. The party, whether
+convicted or acquitted, shall, nevertheless, be liable to prosecution, trial, judgment and
+punishment according to law.
+
+*** SEND ***
+*** SSTART 025.0 004.0 0 IL 1870 ***
+
+ 25. The general assembly shall provide, by law, that the fuel, stationery and printing paper
+furnished for the use of the State; the copying, printing, binding, and distributing the laws and
+journals, and all other printing ordered by the general assembly, shall be let by contract to the
+lowest responsible bidder; but the general assembly shall fix a  maximum price; and no member
+thereof, or other officer of the State, shall be interested, directly or indirectly, in such contract.
+But all such contracts shall be subject to the approval of the governor, and if he disapproves the
+same, there shall be a re-letting of the contract, in such manner as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 026.0 004.0 0 IL 1870 ***
+
+ 26. The State of Illinois shall never be made defendant in any court of law or equity.
+
+*** SEND ***
+*** SSTART 027.0 004.0 0 IL 1870 ***
+
+ 27. The general assembly shall have no power to authorize lotteries or gift enterprises, for any
+purpose, and shall pass laws to prohibit the sale of lottery or gift enterprise tickets in this State.
+
+*** SEND ***
+*** SSTART 028.0 004.0 0 IL 1870 ***
+
+ 28. No law shall be passed which shall operate to extend the term of any public officer after his
+election or appointment.
+
+*** SEND ***
+*** SSTART 029.0 004.0 0 IL 1870 ***
+
+ 29. It shall be the duty of the general assembly to pass such laws as may be necessary for the
+protection of operative miners, by providing for ventilation, when the same may be required, and
+the construction of escapement shafts, or such other appliances as may secure safety in all coal
+mines, and to provide for the enforcement of said laws by such penalties and punishment as may
+be deemed proper.
+
+*** SEND ***
+*** SSTART 030.0 004.0 0 IL 1870 ***
+
+ 30. The general assembly may provide for establishing and opening roads and cartways,
+connected with a public road, for private and public use.
+
+*** SEND ***
+*** SSTART 031.0 004.0 0 IL 1870 ***
+
+ 31. The general assembly may pass laws permitting the owners or occupants of land to
+construct drains and ditches for agricultural and sanitary purposes across the land of others.
+
+*** SEND ***
+*** SSTART 032.0 004.0 0 IL 1870 ***
+
+ 32. The general assembly shall pass liberal homestead and exemption laws.
+
+*** SEND ***
+*** SSTART 033.0 004.0 0 IL 1870 ***
+
+ 33. The general assembly shall not appropriate out of the State treasury, or expend on account
+of the new capitol grounds, and construction, completion and furnishing of the State house, a sum
+exceeding the aggregate three and a half millions of dollars, inclusive of all appropriations
+heretofore made, without first submitting the proposition for an additional expenditure to the legal
+voters of the State at a general election; nor unless a majority of all the votes cast at such election
+shall be for the proposed additional expenditure.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 1870 ***
+
+ARTICLE V
+
+EXECUTIVE DEPARTMENT
+
+*** SEND ***
+*** SSTART 001.0 005.0 0 IL 1870 ***
+
+ 1. The executive department shall consist of a governor, lieutenant governor, secretary of state,
+auditor of public accounts, treasurer, superintendent of public instruction and attorney general,
+who shall each, with the exception of the treasurer, hold his office for the term of four years from
+the second Monday of January next after his election and until his successor is elected and
+qualified. They shall, except the lieutenant governor, reside at the seat of government during their
+term of office, and keep the public records, books and papers there, and shall perform such duties
+as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 IL 1870 ***
+
+ 2. The treasurer shall hold his office for the term of two years, and until his successor is elected
+and qualified; and shall be ineligible to said office for two years next after the end of the term for
+which he was elected. He may be required by the governor to give reasonable additional security,
+and in default of so doing his office shall be deemed vacant.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 IL 1870 ***
+
+ 3. An election for governor, lieutenant governor, secretary of state, auditor of public accounts
+and attorney general shall be held on the Tuesday next after the first Monday of November, in the
+year of our Lord one thousand eight hundred and seventy-two, and every four years thereafter;
+for superintendent of public instruction, on the Tuesday next after the first Monday of November
+in the year one thousand eight hundred and seventy, and every four years thereafter; and for
+treasurer on the day last above mentioned, and every two years thereafter, at such places and in
+such manner as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 IL 1870 ***
+
+ 4. The returns of every election for the above named officers shall be sealed up and transmitted
+by the returning officers to the secretary of state directed to the " Speaker of the house of
+representatives," who shall, immediately after the organization of the house, and before
+proceeding to other business, open and publish the same in the presence of a majority of each
+house of the general assembly, who shall, for that purpose, assemble in the hall of the house of
+representatives. The person having the highest number of votes for either of said offices shall be
+declared duly elected; but if two or more have an equal, and the highest number of votes, the
+general assembly shall, by joint ballot, choose one of such persons for said office. Contested
+elections for all of said offices shall be determined by both houses of the general assembly, by joint
+ballot, in such manner as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 IL 1870 ***
+
+ 5. No person shall be eligible to the office of governor or lieutenant governor who shall not
+have attained the age of thirty years, and been, for five years next preceding his election, a citizen
+of the United States and of this State. Neither the governor, lieutenant governor, auditor of public
+accounts, secretary of state, Superintendent of public instruction, nor attorney general shall be
+eligible to any other office during the period for which he shall have been elected.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 IL 1870 ***
+
+ 6. The supreme executive power shall be vested in the governor, who shall take care that the
+laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 IL 1870 ***
+
+ 7. The governor shall, at the commencement of each session, and at the close of his term of
+office, give to the general assembly information, by message, of the condition of the State, and
+shall recommend such measures as he shall deem expedient. He shall account to the general
+assembly, and accompany his message with a statement of all moneys received and paid out by
+him from any funds subject to his order, with vouchers, and at the commencement of each regular
+session, present estimates of the amount of money required to be raised by taxation for all
+purposes.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 IL 1870 ***
+
+ 8. The governor may, on extraordinary occasions, convene the general assembly, by
+proclamation, stating therein the purpose for which they are convened, and the general assembly
+shall enter upon no business except that for which they were called together.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 IL 1870 ***
+
+ 9. In case of a disagreement between the two houses with respect to the time of adjournment,
+the governor may, on the same being certified to him by the house first moving the adjournment,
+adjourn the general assembly to such time as he thinks proper, not beyond the first day of the next
+regular session.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 IL 1870 ***
+
+ 10. The governor shall nominate, and by and with the advice and consent of the senate (a
+majority of all the senators elected concurring by yeas and nays), appoint all officers whose offices
+are established by this constitution, or which may be created by law, and whose appointment or
+election is not otherwise provided for; and no such officer shall be appointed or elected by the
+general assembly.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 IL 1870 ***
+
+ 11. In case of a vacancy, during the recess of the senate, in any office which is not elective, the
+governor shall make a temporary appointment until the next meeting of the senate, when he shall,
+nominate some person to fill such office; and any person so nominated who is confirmed by the
+senate (a majority of all the senators elected concurring by yeas and nays), shall hold his office
+during the remainder of the term, and until his successor shall be appointed and qualified. No
+person, after being rejected by the senate, shall be again nominated for the same office at the same
+session, unless at the request of the senate, or be appointed to the same office during the recess of
+the general assembly.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 IL 1870 ***
+
+ 12. The governor shall have power to remove any officer whom he may appoint, in case of
+incompetency, neglect of duty or malfeasance in office; and he may declare his office vacant and
+fill the same as is herein provided in other cases of vacancy.
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 IL 1870 ***
+
+ 13. The governor shall have power to grant reprieves, commutations and pardons, after
+conviction, for all offenses, subject to such regulations as may be provided by law relative to the
+manner of applying therefor.
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 IL 1870 ***
+
+ 14. The governor shall be commander-in-chief of the military and naval forces of the State
+(except when they shall be called into the service of the United States), and may call out the same
+to execute the laws, suppress insurrection and repel invasion.
+
+*** SEND ***
+*** SSTART 015.0 005.0 0 IL 1870 ***
+
+ 15. The governor and all civil officers of the State shall be liable to impeachment for any
+misdemeanor in office.
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 IL 1870 ***
+
+ 16. Every bill passed by the general assembly shall, before it becomes a law, be presented to the
+governor. If he approve, he shall sign it, and thereupon it shall become a law; but if he do not
+approve, he shall return it, with his objections, to the house in which it shall have originated,
+which house shall enter the objections at large upon its journal and proceed to reconsider the bill.
+If then two-thirds of the members erected agree to pass the same, it shall be sent, together with
+the objections, to the other house, by which it shall likewise be reconsidered; and if approved by
+two-thirds of the members elected to that house, it shall become a law, notwithstanding the
+objections of the governor; but in all such cases the vote of each house shall be determined by
+yeas and nays, to be entered upon the journal.  Any bill which shall not be returned by the
+governor within ten days (Sundays excepted) after it shall have been presented to him , shall
+become a law in like manner as if he had signed it, unless the general assembly shall by their
+adjournment prevent its return, in which case it shall be filed with his objections in the office of
+the secretary of state, within ten days after such adjournment, or become a law.
+
+*** SEND ***
+*** SSTART 017.0 005.0 0 IL 1870 ***
+
+ 17. In case of the death, conviction on impeachment, failure to qualify, resignation, absence
+from the State, or other disability of the governor, the powers, duties and emoluments of the
+office for the residue of the term, or until the disability shall be removed, shall devolve upon the
+lieutenant governor.
+
+*** SEND ***
+*** SSTART 018.0 005.0 0 IL 1870 ***
+
+ 18. The lieutenant governor shall be president of the senate, and shall vote only when the senate
+is equally divided. The senate shall choose a president, pro tempore, to preside in case of the
+absence or impeachment of the lieutenant governor, or when he shall hold the office of governor.
+
+*** SEND ***
+*** SSTART 019.0 005.0 0 IL 1870 ***
+
+ 19. If there be no lieutenant governor, or if the lieutenant governor shall, for any of the causes
+specified in section seventeen of this article, become incapable of performing the duties of the
+office, the president of the senate shall act as governor until the vacancy is filled or the disability
+removed; and if the president of the senate, for any of the above named causes, shall become
+incapable of performing the duties of governor, the same shall devolve upon the speaker of the
+house of representatives.
+
+*** SEND ***
+*** SSTART 020.0 005.0 0 IL 1870 ***
+
+ 20. If the office of auditor of public accounts, treasurer, secretary of state, attorney general, or
+superintendent of public instruction shall be vacated by death, resignation or otherwise, it shall be
+the duty of the governor to fill the same by appointment, and the appointee shall hold his office
+until his successor shall be elected and qualified in such manner as may be provided by law. An
+account shall be kept by the officers of the executive department, and of all the public institutions
+of the State, of all moneys received or disbursed by them, severally, from all sources, all for every
+service performed, and a semi-annual report thereof be made to the governor, under oath; and any
+officer who makes a false report shall be guilty of perjury, and punished accordingly.
+
+*** SEND ***
+*** SSTART 021.0 005.0 0 IL 1870 ***
+
+ 21. The officers of the executive department, and of all the public institutions of the State, shall,
+at least ten days preceding each regular session of the general assembly, severally report to the
+governor, who shall transmit such reports to the general assembly, together with the reports of the
+judges of the supreme court of defects in the constitution and laws; and the governor may at any
+time require information, in writing, under oath, from the officers of the executive department,
+and all officers and managers of State institutions, upon any subject relating to the condition,
+management and expenses of their respective offices.
+
+*** SEND ***
+*** SSTART 022.0 005.0 0 IL 1870 ***
+
+ 22. There shall be a seal of the State, which shall be called the "Great Seal of the State of
+Illinois," which shall be kept by the secretary of state, and used by him, officially, as directed by
+law.
+
+*** SEND ***
+*** SSTART 023.0 005.0 0 IL 1870 ***
+
+ 23. The officers named in this article shall receive for their services a salary, to be established by
+law, which shall not be increased or diminish during their official terms, and they shall not, after
+the expiration of the terms of those in office at the adoption of this constitution, receive to their
+own use any fees, costs, perquisites of office, or other compensation. And all fees that may
+hereafter be payable by law for any services performed by any officer provided for in this article of
+the constitution. shall be paid in advance into the State treasury.
+
+*** SEND ***
+*** SSTART 024.0 005.0 0 IL 1870 ***
+
+ 24. An office is a public position created by the constitution or law, continuing during the
+pleasure of the appointing power, or for a fixed time, with a successor elected or appointed. An
+employment is an agency, for a temporary purpose, which ceases when that purpose is
+accomplished.
+
+*** SEND ***
+*** SSTART 025.0 005.0 0 IL 1870 ***
+
+ 25. All civil officers, except members of the general assembly and such inferior officers as may
+be by law exempted, shall, before they enter on the duties of their respective offices, take and
+subscribe the following oath or affirmation:
+"I do solemnly swear (or affirm, as the case may be) that I will support the Constitution of the
+United States, and the Constitution of the State of Illinois, and that I will faithfully discharge the
+duties of the office of - according to the best of my ability."
+And no other oath, declaration or test shall be required as a qualification.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 1870 ***
+
+ARTICLE VI
+
+JUDICIAL DEPARTMENT
+
+*** SEND ***
+*** SSTART 001.0 006.0 0 IL 1870 ***
+
+    1. The judicial powers, except as in this article is otherwise provided, shall be vested in one
+supreme court, circuit courts, county courts, justices of the peace, police magistrates, and in such
+courts as may be created by law in and for cities and incorporated towns.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 IL 1870 ***
+
+ 2. The supreme court shall consist of seven judges, and shall have original jurisdiction in cases
+relating to the revenue, in mandamus and habeas corpus, and appellate Jurisdiction in all other
+cases. One of said judges shall be chief justice; four shall constitute a quorum, and the
+concurrence of four shall be necessary to every decision.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 IL 1870 ***
+
+ 3. No person shall be eligible to the office of judge of the supreme court unless he shall be at
+least thirty years of age, and a citizen of the United States, nor unless he shall have resided in this
+State five years next preceding his election, and be a resident of the district in which he shall be
+elected.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 IL 1870 ***
+
+ 4. Terms of the supreme court shall continue to be held in the present grand divisions at the
+several places now provided for holding the same; and until otherwise provided by law, one or
+more terms of said court shall be held, for the northern division, in the City of Chicago each year,
+at such times as said court may appoint, whenever said city or the County of Cook shall provide
+appropriate rooms therefor, and the use of a suitable library, without expense to the State. The
+judicial divisions may be altered, increased or diminished in number, and the times and places of
+holding said court may be changed by law.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 IL 1870 ***
+
+ 5. The present grand divisions shall be preserved, and be denominated Southern, Central and
+Northern, until otherwise provided by law. The State shall be divided into seven districts for the
+election of judges, and, until otherwise provided by law, they shall be as follows:
+First District.-The counties of St. Clair, Clinton, Washington, Jefferson, Wayne, Edwards,
+Wabash, White, Hamilton, Franklin, Peru, Randolph, Monroe, Jackson, Williamson, Saline,
+Gallatin, Hardin, Pope, Union, Johnson, Alexander, Pulaski and Massac.
+Second District.-The counties of Madison, Bond, Marion, Clay, Richland, Lawrence, Crawford,
+Jasper, Effingham, Fayette, Montgomery, Macoupin, Shelby, Cumberland, Clark, Greene, Jersey,
+Calhoun and Christian.
+Third District.-The counties of Sangamon, Macon, Logan, De Witt, Piatt, Douglas, Champaign,
+Vermilion, McLean, Livingston, Ford, Iroquois, Coles, Edgar, Moultrie and Tazewell.
+Fourth District.-The counties of Fulton, McDonough, Hancock, Schuyler, Brown, Adams, Pike,
+Mason, Menard, Morgan, Cass and Scott.
+Fifth District.-The counties of Knox, Warren, Henderson, Mercer, Henry, Stark, Peoria,-
+Marshall, Putnam, Bureau, La Salle, Grundy, and Woodford. 
+Sixth District.-The counties of Whiteside, Carroll, Jo Daviess, Stephenson, Winnebago, Boone,
+McHenry, Kane, Kendall, De Kalb, Lee, Ogle, and Rock Island.
+Seventh District.-The counties of Lake, Cook, Will, Kankakee and DuPage.
+The boundaries of the districts may be changed at the session of the general assembly next
+preceding the election for judges therein, and at no other time; but whenever such alterations shall
+be made the same shall be upon the rule of equality of population, as nearly as county boundaries
+will allow, and the districts shall be composed of contiguous counties, in as nearly compact form
+as circumstances will permit. The alteration of the districts shall not affect the tenure of office of
+any judge.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 IL 1870 ***
+
+ 6. At the time of voting on the adoption of this constitution, one judge of the supreme court
+shall be elected by the electors thereof, in each of said districts numbered two, three, six and
+seven, who shall hold his office for the term of nine years from the first Monday of June, in the
+year of our Lord one thousand eight hundred and seventy. The term of office of Judges of the
+supreme court, elected after the adoption of this constitution, shall be nine years; and on the first
+Monday of June of the year in which the term of any of the judges in office at the adoption of this
+constitution, or of the judges then elected, shall expire, and every nine years thereafter, there shall
+be an election for the successor or successors of such judges in the respective districts wherein the
+term of such judges shall expire. The chief justice shall continue to act as such until the expiration
+of the term for which he was elected, after which the judges shall choose one of their number
+chief justice.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 IL 1870 ***
+
+ 7. From and after the adoption of this constitution, the judges of the supreme court shall each
+receive a salary of four thousand dollars per annum, payable quarterly, until otherwise provided
+by law. And after said salaries shall be fixed by law, the salaries of the judges in office shall not be
+increased or diminished during the terms for which said judges shall have been elected.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 IL 1870 ***
+
+ 8. Appeals and writs of error may be taken to the supreme court held in the grand division in
+which the case is decided, or, by consent of the parties, to any other grand division.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 IL 1870 ***
+
+ 9. The supreme court shall appoint one reporter of its decisions, who shall hold his office for six
+years, subject to removal by the court.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 IL 1870 ***
+
+ 10. At the time of the election of representatives in the general assembly, happening next
+preceding the expiration of the terms of office of the present clerks of said court, one clerk of said
+court for each division shall be elected, whose term of office shall be six years from said election,
+but who shall not enter upon the duties of his office until the expiration of the term of his
+predecessor, and every six years thereafter one clerk of said court for each division shall be
+elected.
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 IL 1870 ***
+
+ 11. After the year of our Lord one thousand eight hundred and seventy-four, inferior appellate
+courts, of uniform organization and jurisdiction, may be created in districts formed for that
+purpose, to which such appeals and writs of error as the general assembly may provide, may be
+prosecuted from circuit and other courts and from which appeals and writs of error shall lie to the
+supreme court, in all criminal cases, and cases in which a franchise, or freehold, or the validity of a
+statute is involved, and in such other cases as may be provided by law. Such appellate courts shall
+be held by such number of judges of the circuit courts, and at such times and places, and in such
+manner as may be provided by law; but no judge shall sit in review upon cases decided by him;
+nor shall said judges receive any additional compensation for such services.
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 IL 1870 ***
+
+ 12. The circuit courts shall have original jurisdiction of all causes in law and equity, and such
+appellate jurisdiction as is or may be provided by law, and shall hold two or more terms each year
+in every county. The terms of office of judges of circuit courts shall be six years.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 IL 1870 ***
+
+ 13. The State, exclusive of the County of Cook and other counties having a population of one
+hundred thousand, shall be divided into judicial circuits prior to the expiration of the terms of
+office of the present judges of the circuit courts. Such circuits shall be formed of contiguous
+counties, in as nearly compact form and as nearly equal as circumstances will permit, having due
+regard to business, territory and population, and shall not exceed in number one circuit for every
+one hundred thousand of population of the State. One judge shall be elected for each of said
+circuits by the electors thereof. New circuits may be formed and the boundaries of circuits
+changed by the general assembly, at its session next preceding the election for circuit judges, but
+at no other time: Provided that the circuits may be equalized or changed at the first session of the
+general assembly after the adoption of this constitution. The creation, alteration or change of any
+circuit shall not affect the tenure of office of any judge. Whenever the business of the circuit court
+of any one, or of two or more contiguous counties, containing a population exceeding fifty
+thousand, shall occupy nine months of the year, the general assembly may make of such county,
+or counties, a separate circuit. Whenever additional circuits are created, the foregoing limitations
+shall be observed.
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 IL 1870 ***
+
+ 14. The general assembly shall provide for the times of holding court in each county; which shall
+not be changed, except by the general assembly next preceding the general election for judges of
+said courts; but additional terms may be provided for in any county. The election for judges of the
+circuit courts shall be held on the first Monday in June, in the year of our Lord one thousand eight
+hundred and seventy-three, and every six years thereafter.
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 IL 1870 ***
+
+ 15. The general assembly may divide the State into judicial circuits of greater population and
+territory, in lieu of the circuits provided for in section thirteen of this article, and provide for the
+election therein, severally, by the electors thereof, by general ticket, of not exceeding four judges,
+who shall hold the circuit courts in the circuit for which they shall be elected, in such manner as
+may be provided by law.
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 IL 1870 ***
+
+ 16. From and after the adoption of this constitution, judges of the circuit courts shall receive a
+salary of three thousand dollars per annum, payable quarterly, until otherwise provided by law,
+and after their salaries shall be fixed by law they shall not be increased or diminished during the
+terms for which said judges shall be, respectively, elected; and from and after the adoption of this
+constitution, no judge of the supreme or circuit court shall receive any other compensation,
+perquisite or benefit, in any form whatsoever, nor perform any other than judicial duties to which
+may belong any emoluments.
+
+*** SEND ***
+*** SSTART 017.0 006.0 0 IL 1870 ***
+
+ 17. No person shall be eligible to the office of judge of the circuit or any inferior court, or to
+membership in the " board of county commissioners," unless he shall be at least twenty-five years
+of age and a citizen of the United States, nor unless he shall have resided in this State five years
+next preceding his election, and be a resident of the circuit, county, city, cities, or incorporated
+town in which he shall be elected.
+
+*** SEND ***
+*** SSTART 018.0 006.0 0 IL 1870 ***
+
+ 18. There shall be elected in and for each county one county judge and one clerk of the county
+court, whose terms of office shall be four years. But the general assembly may create districts of
+two or more contiguous counties, in each of which shall be elected one judge, who shall take the
+place of and exercise the powers and jurisdiction of county judges in such districts. County courts
+shall be courts of record, and shall have original jurisdiction in all matters of probate, settlement
+of estates of deceased persons, appointment of guardians and conservators and settlements of
+their accounts, in all matters relating to apprentices, and in proceedings for the collection of taxes
+and assessments, and such other jurisdiction as may be provided for by general law.
+
+*** SEND ***
+*** SSTART 019.0 006.0 0 IL 1870 ***
+
+ 19. Appeals and writs of error shall be allowed from final determinations of county courts, as
+may be provided by law.
+
+*** SEND ***
+*** SSTART 020.0 006.0 0 IL 1870 ***
+
+ 20. The general assembly may provide for the establishment of a probate court in each county
+having a population of over fifty thousand, and for the election of a judge thereof, whose term of
+office shall be the same as that of the county judge, and who shall be elected at the same time and
+in the same manner. Said courts, when established, shall have original jurisdiction of all probate
+matters, the settlement of estates of deceased persons, the appointment of guardians and
+conservators, and settlements of their accounts; in all matters relating to apprentices, and in cases
+of sales of real estate of deceased persons or the payment of debts.
+
+*** SEND ***
+*** SSTART 021.0 006.0 0 IL 1870 ***
+
+ 21. Justices of the peace, police magistrates and constables shall be elected in and for such
+districts as are, or may be, provided by law, and the jurisdiction of such justices of the peace and
+police magistrates shall be uniform.
+
+*** SEND ***
+*** SSTART 022.0 006.0 0 IL 1870 ***
+
+ 22. At the election for members of the general assembly in the year of our Lord one thousand
+eight hundred and seventy-two, and every four years thereafter, there shall be elected a State's
+attorney in and for each county, in lieu of the State's attorneys now provided by law, whose terms
+of office shall be four years.
+
+*** SEND ***
+*** SSTART 023.0 006.0 0 IL 1870 ***
+
+ 23. The County of Cook shall be one judicial circuit. The circuit court of Cook county shall
+consist of five judges, until their number shall be increased as herein provided. The present judge
+of the recorder's court of the City of Chicago, and the present judge of the circuit court of Cook
+county, shall be two of said judges, and shall remain in office for the terms for which they were
+respectively elected and until their successors shall be elected and qualified. The superior court of
+Chicago shall be continued, and called the " Superior Court of Cook County." The general
+assembly may increase the number of said judges, by adding one to either of said courts for every
+additional fifty thousand inhabitants in said county over and above a population of four hundred
+thousand. The terms of office of the judges of said courts, hereafter elected, shall be six years.
+
+*** SEND ***
+*** SSTART 024.0 006.0 0 IL 1870 ***
+
+ 24. The judge having the shortest unexpired term shall be chief justice of the court of which he
+is a judge. In case there are two or more whose terms expire at the same time, it may be
+determined by lot which shall be chief justice. Any judge of either of said courts shall have all the
+powers of a circuit judge, and may hold the court of which he is a member. Each of them may
+hold a different branch thereof at the same time.
+
+*** SEND ***
+*** SSTART 025.0 006.0 0 IL 1870 ***
+
+ 25. The judges of the superior and circuit courts, and the State's attorney, in said county, shall
+receive the same salaries, payable out of the State treasury, as is or may be paid from said treasury
+to the circuit judges and State's attorneys of the State, and such further compensation, to be paid
+by the County of Cook, as is or may be provided by law. Such compensation shall not be changed
+during their continuance in office.
+
+*** SEND ***
+*** SSTART 026.0 006.0 0 IL 1870 ***
+
+ 26. The recorder's court of the city of Chicago shall be continued, and shall be called the "
+Criminal Court of Cook County." it shall have the jurisdiction of a circuit court in all cases of
+criminal and quasi criminal nature, arising in the county of Cook, or that may be brought before
+said court pursuant to law; and all recognizances and appeals taken in said county, in criminal and
+quasi criminal cases, shall be returnable and taken to said court. It shall have no jurisdiction in
+civil cases, except in those on behalf of the people, and incident to such criminal or quasi criminal
+matters, and to dispose of unfinished business. The terms of said criminal court of Cook county
+shall be held by one or more of the judges of the circuit or superior court of Cook county, as
+nearly as may be in alternation, as may be determined by said judges, or provided by law. Said
+judges shall be ex officio judges of said court.
+
+*** SEND ***
+*** SSTART 027.0 006.0 0 IL 1870 ***
+
+ 27. The present clerk of the recorder's court of the city of Chicago shall be the clerk of the
+criminal court of Cook county during the term for which be was elected. The present clerks of the
+superior court of Chicago, and the present clerk of the circuit court of Cook county, shall
+continue in office during the terms for which they were respectively elected; and thereafter there
+shall be but one clerk of the superior court, to be elected by the qualified electors of said county,
+who shall hold his office for the term of four years, and until his successor is elected and qualified.
+
+*** SEND ***
+*** SSTART 028.0 006.0 0 IL 1870 ***
+
+ 28. All justices of the peace of the city of Chicago shall be appointed by the governor, by and
+with the advice and consent of the senate (but only upon the recommendation of a majority of the
+judges of the circuit, superior and county courts), and for such districts as are now or shall
+hereafter be provided by law. They shall hold their offices for four years, and until their successors
+have been commissioned and qualified, but they may be removed by summary proceeding in the
+circuit or superior court, for extortion or other malfeasance. Existing justices of the peace and
+police magistrates may hold their offices until the expiration of their respective terms.
+
+*** SEND ***
+*** SSTART 029.0 006.0 0 IL 1870 ***
+
+ 29. All judicial officers shall be commissioned by the governor. All laws relating to courts shall
+be general and of uniform operation; and the organization, jurisdiction, powers, proceedings and
+practice of all courts of the same class or grade, so far as regulated by law, and the force and
+effect of the process, judgments and decrees of such courts, severally, shall be uniform.
+
+*** SEND ***
+*** SSTART 030.0 006.0 0 IL 1870 ***
+
+ 30. The general assembly may, for cause entered on the journals, upon due notice and
+opportunity of defense, remove from office any judge, upon concurrence of three-fourths of all
+the members elected, of each house. All other officers in this article mentioned shall be removed
+from office on prosecution and final conviction for misdemeanor in office.
+
+*** SEND ***
+*** SSTART 031.0 006.0 0 IL 1870 ***
+
+ 31. All judges of courts of record, inferior to the supreme court, shall, on or before the first day
+of June of each year, report in writing to the judges of the supreme court such defects and
+omissions in the laws as their experience may suggest; and the judges of the supreme court shall,
+on or before the first day of January of each year, report in writing to the governor such defects
+and omissions in the constitution and flaws as they may find to exist, together with appropriate
+forms of bills to cure such defects and omissions in the laws. And the judges of the several circuit
+courts shall report to the next general assembly the number of days they have held court in the
+several counties composing their respective circuits, the preceding two years.
+
+*** SEND ***
+*** SSTART 032.0 006.0 0 IL 1870 ***
+
+ 32. All officers provided for in this article shall hold their offices until their successors shall be
+qualified, and they shall, respectively, reside in the division, circuit, county or district for which
+they may be elected or appointed. The terms of office of all such officers, where not otherwise
+prescribed in this article, shall be four years. All officers, where not otherwise provided for in this
+article, shall perform such duties and receive such compensation as is or may be provided by law.
+Vacancies in such elective offices shall be filled by election; but where the unexpired term does
+not exceed one year the vacancy shall be filled by appointment, as follows: Of judges, by the
+governor; of clerks of courts, by the court to which the office appertains, or by the judge or
+judges thereof ; and of all such other offices, by the board of supervisors, or board of county
+commissioners, in the county where the vacancy occurs.
+
+*** SEND ***
+*** SSTART 033.0 006.0 0 IL 1870 ***
+
+ 33. All process shall run: In the name of the People of the State of Illinois; and all prosecutions
+shall be carried on: In the name and by the authority of the People of the State of Illinois; and
+conclude: Against the peace and dignity of the same. " Population," wherever used in this article,
+shall be determined by the next preceding census of this State, or of the United States.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 1870 ***
+
+ARTICLE VII
+
+SUFFRAGE 
+
+*** SEND ***
+*** SSTART 001.0 007.0 0 IL 1870 ***
+
+ 1. Every person having resided in this State one year, in the county ninety days and in the
+election district thirty days next preceding any election therein, who was an elector in this State on
+the first day of April, in the year of our Lord, one thousand eight hundred and forty-eight, or
+obtained a certificate of naturalization, before any court of record in this State, prior to the first
+day of January, in the year of our Lord one thousand eight hundred and seventy, or who shall be a
+male citizen of the United States, above the age of twenty-one years, shall be entitled to vote at
+such election.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 IL 1870 ***
+
+ 2. All votes shall be by ballot.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 IL 1870 ***
+
+ 3. Electors shall, in all cases except treason, felony or breach of the peace, be privileged from
+arrest during their attendance at elections and in going to and returning from the same. And no
+elector shall be required to do military duty on the days of election, except in time of war or
+public danger.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 IL 1870 ***
+
+ 4. No elector shall be deemed to have lost his residence in this State by reason of his absence on
+business of the United States or of this State, or in the military or naval service of the United
+States.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 IL 1870 ***
+
+ 5. No soldier, seaman or marine in the army or navy of the United States shall be deemed a
+resident of this State in
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 IL 1870 ***
+
+ 6. No person shall be elected or appointed to any office in this State, civil or military, who is not
+a citizen of the United States, and who shall not have resided in this State one year next preceding
+the election or appointment.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 IL 1870 ***
+
+ 7 The general assembly shall pass laws excluding from the right of suffrage persons convicted of
+infamous crimes.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 1870 ***
+
+ARTICLE VIII
+
+EDUCATION
+
+*** SEND ***
+*** SSTART 001.0 008.0 0 IL 1870 ***
+
+ 1. The general assembly shall provide a thorough and efficient system of free schools whereby
+all children of this State may receive a good common school education.
+
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 IL 1870 ***
+
+ 2. All lands, moneys or other property, donated, granted or received for school, college,
+seminary or university purposes, and the proceeds thereof, shall be faithfully applied to the objects
+for which such gifts or grants were made.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 IL 1870 ***
+
+ 3. Neither the general assembly nor any county, city, town, township, school district or other
+public corporation shall ever make any appropriation or pay from any public fund whatever,
+anything in aid of any church or sectarian purpose, or to help support or sustain any school,
+academy, seminary, college, university or other literary or scientific institution, controlled by any
+church or sectarian denomination whatever; nor shall any grant or donation of land, money or
+other personal property ever be made by the State or any such public corporation to any church or
+for any sectarian purpose.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 IL 1870 ***
+
+ 4. No teacher, State, county, township or district school officer, shall be interested in the sale,
+proceeds or profits of any book, apparatus or furniture, used or to be used in any school in this
+State, with which such officer or teacher may be connected, under such penalties as may be
+provided by the general assembly.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 IL 1870 ***
+
+ 5. There may be a county superintendent of schools in each county, whose qualifications,
+powers, duties, compensation and time and manner of election and term of office shall be
+prescribed by law.
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 1870 ***
+
+ARTICLE IX
+
+REVENUE
+
+*** SEND ***
+*** SSTART 001.0 009.0 0 IL 1870 ***
+
+ 1. The general assembly shall provide such revenue as may be needful by levying a tax, by
+valuation, so that every person and corporation shall pay a tax in proportion to the value of his,
+her or its property-such value to be ascertained by some person or persons to be elected or
+appointed in such manner as the general assembly shall direct, and not otherwise; but the general
+assembly shall have power to tax peddlers, auctioneers, brokers, hawkers, merchants, commission
+merchants, showmen, jugglers, inn-keepers,  grocery-keepers, liquor-dealers, toll-bridges, ferries,
+insurance, telegraph and express interests or business, venders of patents and persons or
+corporations owning or using franchises and privileges, in such manner as it shall from time to
+time direct by general law, uniform as to the class upon which it operates.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 IL 1870 ***
+
+ 2. The specification of the objects and subjects of taxation shall not deprive the general
+assembly of the power to require other subjects or objects to be taxed, in such manner as may be
+consistent with the principles of taxation fixed in this constitution.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 IL 1870 ***
+
+ 3. The property of the State, counties, and other municipal corporations, both real and personal,
+and such other property as may be used exclusively for agricultural and horticultural societies, for
+school, religious, cemetery and charitable purposes, may be exempted from taxation; but such
+exemption shall be only by general law. In the assessment of real estate incumbered by public
+easement, any depreciation occasioned by such easement may be deducted in the valuation of such
+property.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 IL 1870 ***
+
+ 4. The general assembly shall provide, in all cases where it may be necessary to sell real estate
+for the non-payment of taxes or special assessments, for State, county, municipal, or other
+purposes, that a return of such unpaid taxes or assessments shall be made to some general officer
+of the county having authority to receive State and county taxes; and there shall be no sale of said
+property for any of said taxes or assessments but by said officer, upon the order or judgment of
+some court of record.
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 IL 1870 ***
+
+ 5. The right of redemption from all sales of real estate for the non-payment of taxes or special
+assessments of any character whatever, shall exist in favor of owners and persons interested in
+such real estate for a period of not less than two years from such sales thereof. And the general
+assembly shall provide, by law, for reasonable notice to be given to the owners or parties
+interested, by publication or otherwise, of the fact of the sale of the property for such taxes or
+assessments, and when the time of redemption shall expire: Provided, that occupants shall in all
+cases be served with personal notice before the time of redemption expires.
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 IL 1870 ***
+
+ 6. The general assembly shall have no power to release or discharge any county, city, township,
+town or district whatever, or the inhabitants thereof, or the property therein, from their or its
+proportionate share of taxes to be levied for State purposes, nor shall commutation for such taxes
+be authorized in any form whatsoever.
+
+*** SEND ***
+*** SSTART 007.0 009.0 0 IL 1870 ***
+
+ 7. All taxes levied for State purposes shall be paid into the State treasury.
+
+*** SEND ***
+*** SSTART 008.0 009.0 0 IL 1870 ***
+
+ 8. County authorities shall never assess taxes the aggregate of which shall exceed seventy-five
+cents per one hundred dollars valuation, except for the payment of indebtedness existing at the
+adoption of this constitution, unless authorized by a vote of the people of the county.
+
+*** SEND ***
+*** SSTART 009.0 009.0 0 IL 1870 ***
+
+ 9. The general assembly may vest the corporate authorities of cities, towns and villages with
+power to make local improvements by special assessment or by special taxation of contiguous
+property, or otherwise. For all other corporate purposes, all municipal corporations may be vested
+with authority to assess and collect taxes; but, such taxes shall be uniform in respect to persons
+and property within the jurisdiction of the body imposing the same.
+
+*** SEND ***
+*** SSTART 010.0 009.0 0 IL 1870 ***
+
+ 10. The general assembly shall not impose, taxes upon municipal corporations, or the
+inhabitants or property thereof, for corporate purposes, but shall require that all the taxable
+property within the limits of municipal corporations shall be taxed for the payment of debts
+contracted under authority of law, such taxes to be uniform in respect to persons and property
+within the jurisdiction of the body imposing the same. Private property shall not be liable to be
+taken or sold for the payment of the corporate debts of a municipal corporation.
+
+*** SEND ***
+*** SSTART 011.0 009.0 0 IL 1870 ***
+
+ 11. No person who is in default, as collector or custodian of money or property belonging to a
+municipal corporation, shall be eligible to any office in or under such corporation. The fees, salary
+or compensation of no municipal officer who is elected or appointed for a definite term of office
+shall be increased or diminished during such term.
+
+*** SEND ***
+*** SSTART 012.0 009.0 0 IL 1870 ***
+
+ 12. No county, city, township, school district, or other municipal corporation shall be allowed
+to become indebted in any manner or for any purpose to an amount, including existing
+indebtedness in the aggregate exceeding five per centum on the value of the taxable property
+therein, to be ascertained by the last assessment for State and county taxes previous to the
+incurring of such indebtedness. Any county, city, school district, or other municipal corporation
+incurring any indebtedness as aforesaid, shall before, or at the time of doing so, provide for the
+collection of a direct annual tax sufficient to pay the interest on such debt as it falls due, and also
+to pay and discharge the principal thereof within twenty years from the time of contracting the
+same. This section shall not be construed to prevent ally county, city, township, school district, or
+other municipal corporation, from issuing their bonds in compliance with any vote of the people
+which may have been had prior to the adoption of this constitution in pursuance of any law
+providing therefor.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 1870 ***
+
+ARTICLE X
+
+COUNTIES
+
+*** SSTART 001.0 010.0 0 IL 1870 ***
+
+SECTION 1. No new county shall be formed or established by the general assembly which will
+reduce the county or counties, or either of them, from which it shall be taken to less contents than
+four hundred square miles; nor shall any county be formed of less contents; nor shall any line
+thereof pass within less than ten miles of any county seat of the county or counties proposed to be
+divided.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 IL 1870 ***
+
+ 2. No county shall be divided, or have any part stricken therefrom, without submitting the
+question to a vote of the people of the county, nor unless a majority of all the legal voters of the
+county voting on the question shall vote for the same.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 IL 1870 ***
+
+ 3. There shall be no territory stricken from any county, unless a majority of the voters living in
+such territory shall petition for such division; and no territory shall be added to any county
+without the consent of the majority of the voters of the county to which it is proposed to be
+added. But the portion so stricken off and added to another county, or formed in whole or in part
+into a new county, shall be holden for, find obliged to pay its proportion of, the indebtedness of
+the county from which it has been taken.
+
+*** SEND ***
+*** SSTART 004.0 010.0 0 IL 1870 ***
+
+ 4. No county seat shall be removed until the point to which it is proposed to be removed shall
+be fixed in pursuance of law, and three-fifths of the voters of the county, to be ascertained in such
+manner as shall be provided by general law, shall have voted in favor of its removal to such point;
+and no person shall vote on such question who has not resided in the county six months, and in
+the election precinct ninety days next preceding such election. The question of the removal of a
+county seat shall not be oftener submitted than once in ten years, to a vote of the people. But
+when an attempt is made to remove a county seat to a point nearer to the center of a county, then
+a majority vote only shall be necessary.
+
+*** SEND ***
+*** SSTART 005.0 010.0 0 IL 1870 ***
+
+ 5. The general assembly shall provide, by general law, for township organization, under which
+any county may organize whenever majority of the legal voters of such county, voting at any
+general election, shall so determine; and whenever any county shall adopt township organization,
+so much of this constitution as provides for the management of the fiscal concerns of the said
+county by the board of county commissioners, may be dispensed with, and the affairs of said
+county may be transacted in such manner as the general assembly may provide. And in any county
+that shall have adopted a township organization, the question of continuing the same may be
+submitted to a vote of the electors of such county, at a general election, in the manner that now is
+or may be provided by law; and if a majority of all the votes cast upon that question shall be
+against township organization, then such organization shall cease in said county; and all laws in
+force in relation to counties, not having township organization, shall immediately take effect and
+be in force in such county. No two townships shall have the same name and the day of holding the
+annual township meeting shall be uniform throughout the State.
+
+*** SEND ***
+*** SSTART 006.0 010.0 0 IL 1870 ***
+
+ 6. At the first election of county judges under this constitution, there shall be elected in each of
+the counties in this State, not under township organization, three officers, who shall be styled, "
+The board of county commissioners," who shall hold sessions for the transaction of county
+business as shall be provided by law. One of said commissioners shall hold his office for one year,
+one for two years, and one for three years, to be determined by lot; and every year thereafter one
+such officer shall be elected in each of said counties for the term of three years.
+
+*** SEND ***
+*** SSTART 007.0 010.0 0 IL 1870 ***
+
+ 7. The county affairs of Cook county shall be managed by a board of Commissioners of fifteen
+persons, ten of whom shall be elected from the city of Chicago and five from towns outside of
+said city, in such manner as may be provided by law.
+
+*** SEND ***
+*** SSTART 008.0 010.0 0 IL 1870 ***
+
+ 8. In each county there shall be elected the following county officers: County judge, sheriff,
+county clerk. clerk of the circuit court (who may be ex officio recorder of deeds, except in
+counties having sixty thousand and more inhabitants. in which counties a recorder of deeds shall
+be elected at the general election in the year of our Lord 1872), treasurer, surveyor and coroner,
+each of whom shall enter upon the duties of his office, respectively, on the first Monday of
+December after their election; and they shall hold their respective offices for the term of four
+years, except the treasurer, sheriff and coroner, who shall hold their offices for two years, and
+until their successors shall be elected and qualified.
+
+*** SEND ***
+*** SSTART 009.0 010.0 0 IL 1870 ***
+
+
+ 9. The clerks of all courts of record, the treasurer, sheriff, coroner and recorder of deeds of
+Cook county, shall receive as their only compensation for their services, salaries to be fixed by
+law, which shall in no case be as much as the lawful compensation of a judge of the circuit court
+of said county and shall be paid, respectively, only out of the fees of the office actually collected.
+All fees, perquisites and emoluments (above the amount of said salaries) shall be paid into the
+county treasury. The number of the deputies and assistants of such officers shall be determined by
+rule of the circuit court, to be entered of record, and their compensation shall be determined by
+the county board.
+
+*** SEND ***
+*** SSTART 010.0 010.0 0 IL 1870 ***
+
+ 10. The county board, except as provided in section nine of this article, shall fix the
+compensation of all county officers, with the amount of their necessary clerk hire, stationery, fuel
+and other expenses, and in all cases where fees are provided for, said compensation shall be paid
+only out of, and shall in no instance exceed, the fees actually collected; they shall not allow either
+of them more per annum than fifteen hundred dollars, in counties not exceeding twenty thousand
+inhabitants; two thousand dollars, in counties containing twenty thousand and not exceeding thirty
+thousand inhabitants; twenty-five hundred dollars, in counties containing thirty thousand and not
+exceeding fifty thousand inhabitants; three thousand dollars, in counties containing fifty thousand
+and not exceeding seventy thousand inhabitants; thirty-five hundred dollars, in counties
+containing, seventy thousand and not exceeding one hundred thousand inhabitants; and four
+thousand dollars, in counties containing over one hundred thousand, and not exceeding two
+hundred and fifty thousand inhabitants; and not more than one thousand dollars additional
+compensation for each additional one hundred thousand inhabitants: Provided, that the
+compensation of no officer shall be increased or diminished during his term of office. All fees or
+allowances by them received, in excess of their said compensation, shall be paid into the county
+treasury.
+
+*** SEND ***
+*** SSTART 011.0 010.0 0 IL 1870 ***
+
+ 11. The fees of township officers, and of each class of county officers, shall be uniform in the
+class of counties to which they respectively belong. The compensation herein provided for shall
+apply only to officers hereafter elected, but all fees established by special law shall cease at the
+adoption of this constitution, and such officers shall receive only such fees as are provided by
+general law.
+
+*** SEND ***
+*** SSTART 012.0 010.0 0 IL 1870 ***
+
+ 12. All laws fixing the fees of State, county and township officers shall terminate with the terms
+respectively of those who may be in office at the meeting of the first general assembly after the
+adoption of this constitution; and the general assembly shall, by general law, uniform in its
+operation, provide for and regulate the fees of said officers and their successors, so as to reduce
+the same to a reasonable compensation for services actually rendered. But the general assembly
+may, by general law, classify the counties by population into not more than three classes, and
+regulate the fees according to class. This article shall not be construed as depriving the general
+assembly of the power to reduce the fees of existing officers.
+
+*** SEND ***
+*** SSTART 013.0 010.0 0 IL 1870 ***
+
+ 13. Every person who is elected or appointed to any office in this State, who shall be paid in
+whole or in part by fees, shall be required by law to make a semi-annual report, under oath, to
+some officer to be designated by law, of all his fees and emoluments.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 1870 ***
+
+
+ARTICLE XI
+
+CORPORATIONS
+
+*** SSTART 001.0 011.0 0 IL 1870 ***
+
+ 1. No corporation shall be created by special laws, or its charter extended, changed or amended,
+except those for charitable, educational, penal or reformatory purposes, which are to be and
+remain under the patronage and control of the State, but the general assembly shall provide, by
+general laws, for the organization of all corporations hereafter to be created.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 IL 1870 ***
+
+ 2. All existing charters or grants of special or exclusive privileges, under which organization
+shall not have taken place or which have been in operation within ten days from the time this
+constitution takes effect, shall thereafter have no validity or effect whatever.
+
+*** SEND ***
+*** SSTART 003.0 011.0 0 IL 1870 ***
+
+ 3. The general assembly shall provide, by law, that in all elections for directors or managers of
+incorporated companies, every stockholder shall have the right to vote, in person or by proxy, for
+the number of shares of stock owned by him, for as many persons as there are directors or
+managers to be elected, or to cumulate said shares, and give one candidate as many votes as the
+number of directors, multiplied by the number of his shares of stock shall equal, or to distribute
+them on the same principle among as many candidates as he shall think fit; and such directors or
+managers shall not be elected in any other manner.
+
+*** SEND ***
+*** SSTART 004.0 011.0 0 IL 1870 ***
+
+ 4. No law shall be passed by the general assembly granting the right to construct and operate a
+street railroad within any city, town or incorporated village, without requiring the consent of the
+local authorities having the control of the street or highway proposed to be occupied by such
+street railroad.
+
+*** SEND ***
+*** SSTART 005.0 011.0 0 IL 1870 ***
+
+ 5. No State bank shall hereafter be created, nor shall the State own or be liable for any stock in
+any corporation or joint stock company or association for banking purposes now created, or to be
+hereafter created. No act of the general assembly authorizing or creating corporations or
+associations with banking powers, whether of issue, deposit or discount, nor amendments thereto,
+shall go into effect or in any manner be in force, unless the same shall be submitted to a vote of
+the people at the general election next succeeding the passage, of the same, and be approved by a
+majority of all the votes cast at such election for or against such law.
+
+*** SEND ***
+*** SSTART 006.0 011.0 0 IL 1870 ***
+
+ 6. Every stockholder in a banking corporation or institution shall be individually responsible and
+liable to its creditors, over and above the amount of stock by him or her held, to an amount equal
+to his or her respective shares so held, for all its liabilities accruing while he or she remains such
+stockholder.
+
+*** SEND ***
+*** SSTART 007.0 011.0 0 IL 1870 ***
+
+ 7. The suspension of specie payments by banking institutions on their circulation, created by the
+laws of this State, shall never be permitted or sanctioned. Every banking association now, or
+which may hereafter be, organized under the laws of this State, shall make and publish a full and
+accurate quarterly statement of its affairs (which shall be certified to, under oath, by one or more
+of its officers) as may be provided by law.
+
+*** SEND ***
+*** SSTART 008.0 011.0 0 IL 1870 ***
+
+ 8. If a general banking law shall be enacted, it shall provide for the registry and countersigning,
+by an officer of State, of all bills or paper credit designed to circulate as money, and require
+security, to the full amount thereof, to be deposited with the state treasurer, in United States or
+Illinois State stocks, to be rated at ten per cent below their par value; and in case of a depreciation
+of said stocks to the amount of ten per cent below par, the bank or banks owning said stocks shall
+be required to make up said deficiency by depositing additional stocks. And said law shall also
+provide for the recording of the names of all stockholders in such corporations, the amount of
+stock held by each, the time of any transfer thereof, and to whom such transfer is made.
+
+*** SEND ***
+*** SSTART 009.0 011.0 0 IL 1870 ***
+
+ 9. Every railroad corporation organized or doing business in this State, under the laws or
+authority thereof, shall have and maintain a public office or place in this State for the transaction
+of its business, where transfers of stock shall be made, and in which shall be kept, for public
+inspection, books in which shall be recorded the amount of capital stock subscribed and by whom;
+the names of the owners, of its stock, and the amounts owned by them respectively; the amount of
+stock paid in, and by whom; the transfers of said stock: the amount of its assets and liabilities, and
+the names and place of residence of its officers. The directors of every railroad corporation shall
+annually make a report, under oath, to the auditor of public accounts, or some officer to be
+designated by law, of all their acts and doings, which report shall include such matters relating to
+railroads as may be prescribed by law. And the general assembly shall pass laws enforcing by
+suitable penalties the provisions of this section.
+
+*** SEND ***
+*** SSTART 010.0 011.0 0 IL 1870 ***
+
+ 10. The rolling stock, and all other movable property belonging to any railroad company or
+corporation in this State shall be considered personal property, and shall be liable to execution and
+sale in the same manner as the personal property of individuals, and the
+general assembly shall pass no law exempting any such property from execution and sale.
+
+*** SEND ***
+*** SSTART 011.0 011.0 0 IL 1870 ***
+
+ 11. No railroad corporation shall consolidate its stock, property or franchises with any other
+railroad corporation owning a parallel or competing line; and in no case shall any consolidation
+take place except upon public notice given, of at least sixty days, to all stockholders, in such
+manner as may be provided by law.  A majority of the directors of any railroad corporation now
+incorporated or hereafter to be incorporated by the laws of this State, shall be citizens and
+residents of this state.
+
+*** SEND ***
+*** SSTART 012.0 011.0 0 IL 1870 ***
+
+ 12. Railways heretofore constructed or that may hereafter be constructed in this State, are
+hereby declared public highways, and shall be free to all persons for the transportation of their
+persons and property thereon, under such regulation as may be prescribed by law. And the general
+assembly shall, from time to time, pass laws establishing reasonable maximum rates of charges for
+the transportation of passengers and freight on the different railroads in this State.
+
+*** SEND ***
+*** SSTART 013.0 011.0 0 IL 1870 ***
+
+ 13. No railroad corporation shall issue any stock or bonds, except for money, labor, or property
+actually received and applied to the purposes for which such corporation was created; and all
+stock dividends, and other fictitious increase of capital stock or indebtedness of any such
+corporation, shall be void. The capital stock of no railroad corporation shall be increased for any
+purpose, except upon giving sixty days' public notice in such manner as may be provided by law.
+
+*** SEND ***
+*** SSTART 014.0 011.0 0 IL 1870 ***
+
+ 14. The exercise of the power and the right of eminent domain shall never be so construed or
+abridged as to prevent the taking, by the general assembly, of the property and franchises of
+incorporated companies already organized, and subjecting them to the public necessity the same
+as of individuals. The right of trial by jury shall be held inviolate in all trials of claims for
+compensation, when, in the exercise of the said right of eminent domain, any incorporated
+company shall be interested either for or against the exercise of said right.
+
+*** SEND ***
+*** SSTART 015.0 011.0 0 IL 1870 ***
+
+ 15. The general assembly shall pass laws to correct abuses and prevent unjust discrimination and
+extortion in the rates of freight and passenger tariffs on the different railroads in this State, and
+enforce such laws by adequate penalties, to the extent, if necessary for that purpose, of forfeiture
+of their property and franchises.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 1870 ***
+
+ARTICLE XII
+
+MILITIA
+
+*** SEND ***
+*** SSTART 001.0 012.0 0 IL 1870 ***
+
+ 1. The militia of the State of Illinois shall consist of all able-bodied male persons, resident in the
+State, between the ages of eighteen and forty-five, except such persons as now are, or hereafter
+may be exempted by the laws of the United States or of this State
+
+*** SEND ***
+*** SSTART 002.0 012.0 0 IL 1870 ***
+
+ 2. The general assembly, in providing for the organization, equipment and discipline of the
+militia, shall conform as nearly as practicable to the regulations for the government of the armies,
+of the United States.    
+
+*** SEND ***
+*** SSTART 003.0 012.0 0 IL 1870 ***
+
+ 3. All militia officers shall be commissioned b the governor, and may hold their commissions for
+such time as the general assembly may provide.
+
+*** SEND ***
+*** SSTART 004.0 012.0 0 IL 1870 ***
+
+ 4. The militia shall, in all cases except treason, felony, or breach of the peace, be privileged from
+arrest during their attendance at musters and elections, and in going to and returning from the
+same.
+
+*** SEND ***
+*** SSTART 005.0 012.0 0 IL 1870 ***
+
+ 5. The military records, banners and relics of the State shall be preserved as all enduring
+memorial of the patriotism and valor of Illinois, and it shall be the duty of the general assembly to
+provide by law for the safe-keeping. of the same.
+
+*** SEND ***
+*** SSTART 006.0 012.0 0 IL 1870 ***
+   
+ 6. No person having conscientious scruples against bearing arms such shall be compelled to do
+militia duty in time of peace: Provided, such person shall pay an equivalent for such exemption.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 1870 ***
+
+ARTICLE XIII
+
+WAREHOUSES
+
+*** SEND ***
+*** SSTART 001.0 013.0 0 IL 1870 ***
+
+ 1. All elevators or storehouses where grain or other property is stored for a compensation,
+whether the property stored be kept separate or not, are declared to be public warehouses.
+
+*** SEND ***
+*** SSTART 002.0 013.0 0 IL 1870 ***
+
+ 2. The owner, lessee or manager of each and every public warehouse situated in any town or
+city of not less than one hundred thousand inhabitants, shall make weekly statements under oath,
+before some officer to be designated by law, and keep the same posted in some conspicuous place
+in the office of such warehouse, and shall also file a copy for public examination in such place as
+shall be designated by law, which statement shall correctly set forth the amount and grade of each
+and every kind of grain in such warehouse, together with such other property as may be stored
+therein, and what warehouse receipts have been issued, and are, at the time of making such
+statement, outstanding therefor; and shall, on the copy posted in the warehouse, note daily such
+changes as may be made in the quantity and grade of grain in such warehouse; and the different
+grades of grain shipped in separate lots shall not be mixed with inferior or superior grades without
+the consent of the owner or consignee thereof.
+
+*** SEND ***
+*** SSTART 003.0 013.0 0 IL 1870 ***
+
+ 3. The owners of property stored in any warehouse, or holder of a receipt for the same, shall
+always be at liberty to examine such property stored, and all the books and records of the
+warehouse, in regard to such property.
+
+*** SEND ***
+*** SSTART 004.0 013.0 0 IL 1870 ***
+
+ 4. All railroad companies and other common carriers on railroads shall weigh or measure grain
+at points where it is shipped and receipt for the full amount, and shall be responsible for the
+delivery of such amount to the owner or consignee thereof, at the place of destination.
+
+*** SEND ***
+*** SSTART 005.0 013.0 0 IL 1870 ***
+
+ 5. All railroad companies receiving and transporting grain in bulk or otherwise, shall deliver the
+same to any consignee thereof, or any elevator or public warehouse to which it may be consigned,
+provided such consignee or the elevator or public warehouse can be reached by any track owned,
+leased or used, or which can be used, by such railroad companies; and all railroad companies shall
+permit connections to be made with their track, so that any such consignee and any public
+warehouse, coal bank or coal yard may be reached by the cars on said railroad.
+
+*** SEND ***
+*** SSTART 006.0 013.0 0 IL 1870 ***
+
+ 6. It shall be the duty of the general assembly to pass all necessary laws to prevent the issue of
+false and fraudulent warehouse receipts and to give full effect to this article of the constitution,
+which shall be liberally construed so as to protect producers and shippers. And the enumeration of
+the remedies herein named shall not be construed to deny to the general assembly the power to
+prescribe by law such other and further remedies as may be found expedient, or to deprive any
+person of existing common law remedies.
+
+
+*** SEND ***
+*** SSTART 007.0 013.0 0 IL 1870 ***
+
+7. The general assembly shall pass laws for the inspection of grain, for the protection of
+producers, shippers and receivers of grain and produce.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 1870 ***
+
+ARTICLE XIV
+
+AMENDMENTS TO THE CONSTITUTION
+
+*** SEND ***
+*** SSTART 001.0 014.0 0 IL 1870 ***
+
+ 1. Whenever two-thirds of the member of each house of the general assembly shall, by a vote
+entered upon the journals thereof, concur that a convention is necessary to revise, alter or amend
+the constitution, the question shall be submitted to the electors at the next general election. If a
+majority voting at the election vote for a convention, the general assembly shall, at the next
+session, provide for a convention, to consist of double the number of members of the senate, to be
+elected in the same manner, at the same places, and in the same districts. The general assembly
+shall, in the act calling the convention, designate the day, hour and place of its meeting, fix the pay
+of its members and officers, and provide for the payment of the same, together with the expenses
+necessarily incurred by the convention in the performance of its duties. Before proceeding, the
+members shall take an oath to support the constitution of the United States, and of the State of
+Illinois, and to faithfully discharge their duties as members of the convention. The qualification of
+members shall be the same as that of members of the senate, and vacancies occurring shall be
+filled in the manner provided for filling vacancies in the general assembly. Said convention shall
+meet within three months after such election, and prepare such revision, alteration or amendments
+of the constitution as shall be deemed necessary, which shall be submitted to the electors for their
+ratification or rejection at an election appointed by the convention for that purpose, not less than
+two nor more than six months after the adjournment thereof; and unless so submitted, and
+approved by a majority of the electors voting at the election, no such revision, alteration or
+amendments shall take effect.
+
+*** SEND ***
+*** SSTART 002.0 014.0 0 IL 1870 ***
+
+ 2. Amendments to this constitution may be proposed in either house of the general assembly,
+and if the same shall be voted for by two-thirds of all the members elected to each of the two
+houses, such proposed amendments, together with the yeas and nays of each house thereon, shall
+be entered in full on their respective journals, and said amendments shall be submitted to the
+electors of this State for adoption or rejection, at the next election of members of the general
+assembly, in such manner as may be prescribed by law. The proposed amendments shall be
+published in full at least three months preceding the election, and if a majority of the electors
+voting at said election shall vote for the proposed amendments, they shall become a part of this
+constitution. But the general assembly shall have no power to propose amendments to more than
+one article of this constitution at the same session, nor to the same article oftener than once in
+four years.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9020.0 1870 ***
+
+SECTIONS SEPARATELY SUBMITTED 
+
+*** SSTART 001.0 9020.0 0 IL 1870 ***
+ 
+ILLINOIS CENTRAL RAILROAD
+
+No contract, obligation or liability whatever, of the Illinois Central Railroad Company to pay any
+money into the State treasury nor any lien of the State upon, or right to tax property of said
+company, in accordance with the provisions or the charter of said company, approved February
+tenth, in the year of our Lord one thousand eight hundred and fifty-one, shall ever be released,
+suspended, modified, altered, remitted, or in any manner diminished or impaired by legislative or
+other authority; and all moneys derived from said company, after the payment of the State debt,
+shall be appropriated and set apart for the payment of the ordinary expenses of the State
+government, and for no other purposes whatever.
+
+*** SEND ***
+*** SSTART 002.0 9020.0 0 IL 1870 ***
+
+MUNICIPAL SUBSCRIPTIONS TO RAILROADS OR PRIVATE CORPORATIONS
+
+No county, city, town, township, or other municipality, shall ever become subscriber to the capital
+stock of any railroad or private corporation, or make donation to or loan its credit in aid of such
+corporation: Provided, however, that the adoption of this article shall not be construed as;
+affecting the right of any such municipality to make such subscriptions where the same have been
+authorize, under existing laws, by a vote of the people of such municipalities prior to such
+adoption.
+
+*** SEND ***
+*** SSTART 003.0 9020.0 0 IL 1870 ***
+
+CANAL
+
+The Illinois and Michigan Canal shall never be sold or leased until the specific proposition for the
+sale or lease thereof shall first have been submitted to a vote of the people of the State, at a
+general election, and have been approved by a majority of all the votes polled at such election.
+The general assembly shall never loan the credit of the State, or make appropriations from the
+treasury thereof, in aid of railroads or canals: Provided, that any surplus earnings of any canal may
+be appropriated for its enlargement or extension.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9003.0 1870 ***
+
+SCHEDULE
+
+That no inconvenience may arise from the alterations and amendments made in the constitution of
+this State, and to carry the same into complete effect, it is hereby ordained and declared:
+
+*** SEND ***
+*** SSTART 001.0 9003.0 0 IL 1870 ***
+
+ 1. That all laws in force at the adoption of this constitution, not inconsistent therewith, and all
+rights, actions, prosecutions, claims and contracts of the State, individuals, or bodies corporate,
+shall continue to be as valid as if this constitution had not been adopted.
+
+*** SEND ***
+*** SSTART 002.0 9003.0 0 IL 1870 ***
+
+ 2. That all fines, taxes, penalties and forfeitures, due and owing to the State of Illinois under the
+present constitution and laws, shall inure to the use of the people of the State of Illinois, under
+this constitution.
+
+*** SEND ***
+*** SSTART 003.0 9003.0 0 IL 1870 ***
+
+ 3. Recognizances, bonds, obligations, and all other instruments entered into or executed before
+the adoption of this constitution, to the people of the State of Illinois, to any State or county
+officer, or public body, shall remain binding and valid; and rights and liabilities upon the same shall
+continue, and all crimes and misdemeanors shall be tried and punished as though no change had
+been made in the constitution of this State.
+
+*** SEND ***
+*** SSTART 004.0 9003.0 0 IL 1870 ***
+
+ 4. County courts for the transaction of county business in counties not having adopted township
+organization shall continue in existence, and exercise their present jurisdiction until the board of
+county commissioners provided in this constitution is organized in pursuance of an act of the
+general assembly; and the county courts in all other counties shall have the same power and
+jurisdiction they now possess until otherwise provided by law.
+
+*** SEND ***
+*** SSTART 005.0 9003.0 0 IL 1870 ***
+
+ 5. All existing courts which are not in this constitution specifically enumerated shall continue in
+existence and exercise their present jurisdiction until otherwise provided by law.
+
+*** SEND ***
+*** SSTART 006.0 9003.0 0 IL 1870 ***
+
+ 6. All persons now filling any office or appointment shall continue in the exercise of the duties
+thereof according to their respective commissions or appointments, unless by this constitution it is
+otherwise directed.
+
+*** SEND ***
+*** SSTART 007.0 9003.0 0 IL 1870 ***
+
+ 7. On the day this constitution is submitted to the people for ratification an election shall be held
+for judges of the supreme court in the second, third, sixth and seventh judicial election districts
+designated in this constitution, and for the election of three judges of the circuit court in the
+county of Cook, as provided for in the article of this constitution relating to the judiciary, at which
+election every person entitled to vote, according to the terms of this constitution, shall be allowed
+to vote, and the election shall be otherwise conducted, returns made, and certificates issued, in
+accordance with existing laws, except that no registry shall be required at said election: Provided,
+that at said election in the county of Cook no elector shall vote for more than two candidates for
+circuit judge. If, upon canvassing the votes for and against the adoption of this constitution, it
+shall appear that there has been polled a greater number of votes against than for it, then no
+certificates of election shall be issued for any of said supreme or circuit judges.
+
+*** SEND ***
+*** SSTART 008.0 9003.0 0 IL 1870 ***
+
+ 8. This constitution shall be submitted to the people of the State of Illinois for adoption or
+rejection at an election to be held on the first Saturday in July, in the year of our Lord one
+thousand eight hundred and seventy, and there shall be separately submitted at the same time, for
+adoption or rejection, sections nine, ten, eleven, twelve, thirteen, fourteen and fifteen relating to
+railroads, in the article     entitled "Corporations," the article entitled "Counties," the article entitlen
+"Warehouses," the question of requiring a three-fifths vote to remove a county seat, the section
+relating to the Illinois Central Railroad, the section in relation to minority representation, the
+section relating to municipal subscriptions to railroads or private corporations, and the section
+relating to the canal. Every person entitled to vote under the provisions of this constitution, as
+defined in the article in relation to suffrage, shall be entitled to vote for the adoption or rejection
+of this constitution, and for or against the articles, sections and questions aforesaid, separately
+submitted, and the said qualified electors shall vote at the usual places of voting, unless otherwise
+provided; and the said election shall be conducted, and returns thereof made, according to the
+laws now in force regulating general elections, except that no registry shall be required at said
+election: Provided, however, that the polls shall be kept open for the reception of ballots until
+sunset of said day of election.
+
+*** SEND ***
+*** SSTART 009.0 9003.0 0 IL 1870 ***
+
+ 9. The secretary of state shall, at least twenty days before said election, cause to be delivered to
+the county clerk of each county, blank poll-books, tally-sheets, and forms of return, and twice the
+number of properly prepared printed ballots for the said election that there are voters in such
+county, the expense whereof shall be audited and paid as other public printing ordered by the
+secretary of state is, by law, required to be audited and paid, and the several county clerks shall at
+least five days before said election, cause to be distributed to the board of election, in each
+election district in their respective counties, said blank poll-books, tally-lists, forms of return, and
+tickets.
+
+*** SEND ***
+*** SSTART 010.0 9003.0 0 IL 1870 ***
+
+ 10. At the said election the ballots shall be in the following form:
+
+NEW CONSTITUTION TICKET
+
+For all the propositions on this ticket which are not canceled with ink or pencil, and against all
+propositions which are so canceled.
+For the new constitution.
+For the sections relating to railroads in the article entitled " Corporations."
+For the article entitled "Counties."
+For the article entitled "Warehouses."
+For a three-fifths vote to remove county seats.
+For the section relating to the Illinois Central Railroad.
+For the section relating to minority representation.
+For the section relating to municipal subscriptions to railroads or private corporations.
+For the section relating to the canal.
+Each of said tickets shall be counted as a vote cast for each proposition thereon not canceled with
+ink or pencil, and against each proposition so canceled, and returns thereof shall be made
+accordingly by the judges of election.
+
+*** SEND ***
+*** SSTART 011.0 9003.0 0 IL 1870 ***
+
+ 11. The returns of the whole vote cast, and of the votes for the adoption or rejection of this
+constitution, and for or against the articles and sections respectively submitted, shall be made by
+the several county clerks, as is now provided by law, to the secretary of state, within twenty days
+after the election, and the returns of "said votes shall, within five days thereafter, be examined and
+canvassed by the auditor, treasurer and secretary of state, or any two of them, in the presence of
+the governor, and proclamation shall be made by the governor forthwith of the result of the
+canvass.
+
+*** SEND ***
+*** SSTART 012.0 9003.0 0 IL 1870 ***
+
+ 12. If it shall appear that a majority of the votes polled are for the new constitution, then so
+much of this constitution as was not separately submitted to be voted on by articles and sections,
+shall be the supreme law of the State of Illinois on and after Monday, the eighth of August, in the
+year of our Lord one thousand eight hundred and seventy; but if it shall appear that a majority of
+the votes polled were "against the new constitution," then so much thereof as was not separately
+submitted to be voted on by articles and sections, shall be null and void.
+If it shall appear that a majority of the votes polled are " for the sections relating to railroads in
+the article entitled  'Corporations,' " sections nine, ten, eleven, twelve, thirteen, fourteen and
+fifteen, relating to railroads in the said article, shall be a part of the constitution of this State, but if
+a majority of said votes are against such sections, they shall be null and void. If a majority of the
+votes polled are " for the article entitled ' Counties,' " such article shall be part of the constitution
+of this State, and shall be substituted for article seven, in the present constitution, entitled
+"Counties;" but if a majority of said votes are against such article the same shall be null and void.
+If a majority of the votes polled are " for the article entitled ' Warehouses,' " such article shall be
+part of the constitution of this State; but if a majority of the votes are against said article, the same
+shall be null and void. If a majority of the votes polled are for either of the sections separately
+submitted, relating respectively to the " Illinois Central Railroad," " minority representation,"
+"municipal subscriptions to railroads or private corporations," and the " canal," then such of said
+sections as shall receive such majority shall be a part of the constitution of this State; but each of
+said sections so separately submitted against which respectively there shall be a majority of the
+votes polled, shall be null and void: Provided, that the section relating to " minority representation
+" shall not be, declared adopted unless the portion of the constitution not separately submitted to
+be voted on by articles and sections shall be adopted; and in case said section relating to "
+minority representation " shall become a portion of the constitution, it shall be substituted for
+sections seven and eight of the legislative article. If a majority of the votes cast at such election
+shall be for a three-fifths vote to remove a county seat, then the words " a majority " shall be
+stricken out of section four of the article on Counties, and the words " three-fifths " shall be
+inserted in lieu thereof, and the following words shall be added to said section, to-wit: "But when
+an attempt is made to remove a county seat to a point nearer to the centre of a county, then a
+majority vote only shall be necessary." If the foregoing proposition shall not receive a majority of
+the votes, as aforesaid, then the same shall have no effect whatever.
+
+*** SEND ***
+*** SSTART 013.0 9003.0 0 IL 1870 ***
+
+ 13. Immediately after the adoption of this constitution, the governor and secretary of state shall
+proceed to ascertain and fix the apportionment of the State for members of the first house of
+representatives under this constitution. The apportionment shall be based upon the federal census
+of the year of our Lord one thousand eight hundred and seventy, of the State of Illinois, and shall
+be made strictly in accordance with the rules and principles announced in the article on the
+legislative department of this constitution:  Provided, that in case the federal census aforesaid can
+not be ascertained prior to Friday, the twenty-third day of September, in the year of our Lord one
+thousand eight hundred and seventy, then the said apportionment shall be based on the State
+census of the year of our Lord one thousand eight hundred and sixty-five, in accordance with the
+rules and principles aforesaid. The governor shall, on or before Wednesday, the twenty-eighth day
+of September, in the year of our Lord one thousand eight hundred and seventy, make official
+announcement of said apportionment, under the great seal of the State; and one hundred copies
+thereof, duly certified, shall be forthwith transmitted by the secretary of state to each county clerk
+for distribution.
+
+*** SEND ***
+*** SSTART 014.0 9003.0 0 IL 1870 ***
+
+ 14. The districts shall be regularly numbered by the secretary of state, commencing with
+Alexander county as number one, and proceeding then northwardly through the State, and
+terminating with the county of Cook, but no county shall be numbered as more than one district,
+except the county of Cook, which shall constitute three districts, each embracing the territory
+contained in the now existing representative districts of said county. And on the Tuesday after the
+first Monday in November, in the year of our Lord one thousand eight hundred and seventy, the
+members of the first house of representatives under this constitution shall be elected according to
+the apportionment fixed and announced as aforesaid, and shall hold their offices for two years,
+and until their successors shall be elected and qualified.
+
+*** SEND ***
+*** SSTART 015.0 9003.0 0 IL 1870 ***
+
+ 15. The senate, at its first session under this constitution, shall consist of fifty members, to be
+chosen as follows: At the general election held on the first Tuesday after the first Monday of
+November, in the year of our Lord one thousand eight hundred and seventy, two senators shall be
+elected in districts where the term of senators expires on the first Monday of January, in the ear of
+our Lord one thousand eight hundred and seventy-one, or where there shall be a vacancy, an in
+the remaining districts one senator shall be elected. Senators so elected shall hold their office two
+years.
+
+*** SEND ***
+*** SSTART 016.0 9003.0 0 IL 1870 ***
+
+ 16. The general assembly, at its first session held after the adoption of this constitution, shall
+proceed to apportion the State for members of the senate and house of representatives, in
+accordance with the provisions of the article on the legislative department.
+
+*** SEND ***
+*** SSTART 017.0 9003.0 0 IL 1870 ***
+
+ 17. When this constitution shall be ratified by the people, the governor shall forthwith, after
+having ascertained the fact, issue writs of election to the sheriffs of the several counties of the
+State, or in ease of vacancies, to the coroners, for the election of all the officers the time of whose
+election is fixed by this constitution or schedule, and it shall be the duty of said sheriffs or
+coroners to give such notice of the time and place of said election as is now prescribed by law.
+
+*** SEND ***
+*** SSTART 018.0 9003.0 0 IL 1870 ***
+
+ 18. All laws of the State of Illinois and all official writings, and the executive, legislative and
+judicial proceedings, shall be conducted, preserved and published in no other than the English
+language.
+
+*** SEND ***
+*** SSTART 019.0 9003.0 0 IL 1870 ***
+
+ 19. The general assembly shall pass all laws necessary to carry into effect the provisions of this
+constitution.
+
+*** SEND ***
+*** SSTART 020.0 9003.0 0 IL 1870 ***
+
+ 20. The circuit clerks of the different counties having a population over sixty thousand shall
+continue to be recorders (ex officio) for their respective counties, under this Constitution, until
+the expiration of their respective terms.
+
+*** SEND ***
+*** SSTART 021.0 9003.0 0 IL 1870 ***
+
+ 21. The judges of all courts of record in Cook county shall, in lieu of any salary provided for in
+this constitution, receive the compensation provided by law until the adjournment of the first
+session of the general assembly after the adoption of this constitution.
+
+*** SEND ***
+*** SSTART 022.0 9003.0 0 IL 1870 ***
+
+ 22. The present judge of the circuit court of Cook county shall continue to hold the circuit court
+of Lake county until otherwise provided by law.
+
+*** SEND ***
+*** SSTART 023.0 9003.0 0 IL 1870 ***
+
+ 23. When this constitution shall be adopted and take effect as the supreme law of the State of
+Illinois, the two-mill tax provided to be annually assessed and collected upon each dollar's worth
+of taxable property, in addition to all other taxes, as set forth in article fifteen of the now existing
+constitution, shall cease to be assessed after the year of our Lord one thousand eight hundred and
+seventy.
+
+*** SEND ***
+*** SSTART 024.0 9003.0 0 IL 1870 ***
+
+ 24. Nothing contained in this constitution shall be so construed as to deprive the general
+assembly of power to authorize the city of Quincy to create any indebtedness for railroad or
+municipal purposes for which the people of said city shall have voted and to which they shall have
+given, by such vote, their assent, prior to the thirteenth day of December, in the year of our Lord
+one thousand eight hundred and sixty-nine: Provided, that no such indebtedness so created shall,
+in any part thereof, be paid by the State or from any State revenue tax or fluid, but the same shall
+be paid, if at all, by the said city of Quincy alone, and by taxes to be levied upon the taxable
+property thereof:  And, provided, further, that the general assembly shall have no power in the
+premises that it could not exercise under the present constitution of the State.
+
+*** SEND ***
+*** SSTART 025.0 9003.0 0 IL 1870 ***
+
+ 25. In case this constitution, and the articles and sections submitted separately be adopted, the
+existing constitution shall cease in all its provisions; and in case this constitution be adopted, and
+any one or more of the articles or sections submitted separately be defeated, the provisions of the
+existing constitution, if any, on the same subject shall remain in force.
+
+
+*** SEND ***
+*** SSTART 026.0 9003.0 0 IL 1870 ***
+
+ 26. The provisions of this constitution required to be executed prior to the adoption or rejection
+thereof, shall take effect and be in force immediately.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9016.0 IL 1870 ***
+
+
+Done in convention at the capitol in the city of Springfield, on the thirteenth day of May, in the
+year of our Lord one thousand eight hundred and seventy, and of the independence of the United
+States of America the ninety-fourth
+
+CHARLES HITCHCOCK, President.
+JOHN Q. HARMON, Secretary.
+
+*** AEND ***
+
+*** MSTART 002 031.0 004.0 0 IL 1870 1878 ***
+
+ Ratified November 5, 1878; effective November 29, 1878
+
+The General Assembly may pass laws permitting the owners of lands to construct drains, ditches
+and levees for agricultural, sanitary or mining purposes, across the lands of others, and provide
+for the organization of drainage districts, and vest the corporate authorities thereof, with power to
+construct and maintain levees, drains and ditches, and to keep in repair all drains, ditches and
+levees heretofore constructed under the laws of this State, by special assessments upon the
+property benefitted thereby.
+
+*** MEND ***
+*** MSTART 003 008.0 010.0 0 IL 1870 1880 ***
+
+Ratified November 2, 1880; effective November 22, 1880
+
+In each county there shall be elected the following county officers, at the general election to be
+held on the Tuesday after the first Monday in November, A.D. 1882, a county judge, county
+clerk, sheriff, and treasurer, and at the election to be held on the Tuesday after the first Monday in
+November, A.D. 1884, a coroner and clerk of the circuit court (who may be ex-officio recorder of
+deeds, except in counties having 60,000 and more inhabitants, in which counties a recorder of
+deed shall be elected at the general election in 1884).  Each of said officers shall enter upon the
+duties of his office, respectively on the first Monday of December, after his election, and they shall
+hold their respective offices for the term of four years, and until their successors are elected and
+qualified.  Provided that no person having once been elected to the office of sheriff, or treasurer
+shall be eligible to re-election to said office for four years after the expiration of the term for
+which he shall have been elected.
+
+*** MEND ***
+***MSTART 004 016.0 005.0 0 IL 1870 1884 ***
+
+Ratified November 4, 1884; effective November 28, 1884
+
+Every bill passed by the General Assembly shall, before it becomes a law, be presented to the
+Governor.
+
+If he approve, he shall sign it, and thereupon it shall become a law; but if he do not approve, he
+shall return it with his objections, to the house in which it shall have originated, which house shall
+enter the objections at large upon its journal and proceed to reconsider the bill.  If then two-thirds
+of the members elected agree to pass the same, it shall be sent, together with the objections, to the
+other house, by which it shall likewise be reconsidered; and if approved by two-thirds of the
+members elected to that house, it shall become a law notwithstanding the objections of the
+Governor; but in all such cases the vote of each house shall be determined by yeas and nays, to be
+entered upon the journal.
+
+Bills making appropriations of money out of the treasury shall specify the objects and purposes
+for which the same are made, and appropriate to them respectively their several amounts in
+distinct items and sections, and if the Governor shall not approve any one or more of the items or
+sections contained in any bill, but shall approve any one or more of the items and sections, and if
+the Governor shall not approve any one or more of the items or sections contained in any bill, but
+shall approve the residue thereof, it shall become a law as to the residue in like manner as if he
+had signed it.
+
+The Governor shall then return the bill with his objections to the items or sections of the same not
+approved by him, to the house in which the bill shall have originated, which house shall enter the
+objections at large upon its journal, and proceed to reconsider so much of said bill as is not
+approved by the Governor.
+
+The same proceedings shall be had in both houses in reconsidering the same as is hereinbefore
+provided in case of an entire bill returned by the Governor with his objections; and if any item or
+section of said bill not approved by the Governor shall be passed by two-thirds of the members
+elected to each of the two houses of the General Assembly, it shall become part of said law,
+notwithstanding the objections of the Governor.
+
+Any bill which shall not be returned by the Governor within ten days (Sundays excepted) after it
+shall have been presented to him shall become a law in like manner as if he had signed it, unless
+the General Assembly shall, by their adjournment, prevent its return, in which case it shall be filed
+with his objections in the office of the Secretary of State, within ten days after such adjournment,
+or become a law.
+
+*** MEND ***
+***MSTART 005 004.0 9099.0 0 IL 1870 1886 ***
+
+[Note: It is not clear which article this amends, we have coded it article 9099]
+
+Ratified November 2, 1886; effective November 22, 1886
+
+Hereafter it shall be unlawful for the commissioners of any penitentiary or other reformatory
+institution in the State of Illinois, to let by contract to any person or persons, or corporations, the
+labor of any convict confined within said institution.
+
+*** MEND ***
+*** MSTART 006 013.0 009.0 0 IL 1870 1890 ***
+
+Ratified November 4, 1890; effective November 29, 1890
+
+The corporate authorities of the city of Chicago are hereby authorized to issue interest-bearing
+bonds of said city to an amount not exceeding five million dollars, at a rate of interest not to
+exceed five per centum per annum, the principal payable within thirty years from the date of their
+issue, and the proceeds thereof shall be paid to the treasurer of the World's Columbian
+Exposition, and used and disbursed by him under the direction and control of the directors, in aid
+of the World's Columbian Exposition, to be held in the city of Chicago in pursuance of an act of
+Congress of the United States.
+
+Provided, That if at the election for the adoption of this amendment to the constitution, a majority
+of the votes cast within the limits of the city of Chicago shall be against its adoption, then no
+bonds shall be issued under this amendment.
+
+And said corporate authorities shall be repaid as large a proportionate amount of the aid given by
+them as is repaid to the stockholders on the sums subscribed and paid by them, and the money so
+received shall be used in the redemption of the bonds issued as aforesaid, provided that said
+authorities may take in whole or in part of the sum coming to them any permanent improvements
+placed on land held or controlled by them.
+
+And provided further, That no such indebtedness so created shall in any part thereof be paid by
+the State, or from any State revenue, tax or fund, but the same shall be paid by the said city of
+Chicago alone.
+
+*** MEND ***
+*** MSTART 007 034.0 004.0 0 IL 1870 1904 ***
+
+Ratified November 8, 1904; effective December 5, 1904
+
+The General Assembly shall have power, subject to the conditions and limitations hereinafter
+contained to pass any law (local, special, or general) providing a scheme or charter of local
+municipal government for the territory now or hereafter embraced within the limits of the city of
+Chicago.  The law or laws so passed may provide for consolidating (in whole or in part) in the
+municipal government of the city of Chicago, the powers now vested in the city, board of
+education, township, park and other local governments and authorities having jurisdiction
+confined to or within said territory, or any part thereof, and for the assumption by the city of
+Chicago of the debts and liabilities (in whole or in part) of the governments or corporate
+authorities whose functions within its territory shall be vested in said city of Chicago, and may
+authorize said city, in the event of its becoming liable for the indebtedness of two or more of the
+existing municipal corporations lying wholly within said city of Chicago, to become indebted to an
+amount (including its existing indebtedness and the indebtedness of all municipal corporations
+lying wholly within the limits of said city, and said city's proportionate share of the indebtedness
+of said county and sanitary district which share shall be determined in such manner as the General
+Assembly shall prescribe) in the aggregate not exceeding five per centum of the full value of the
+taxable property within its limits, as ascertained by the last assessment either for State or
+municipal purposes previous to the incurring of such indebtedness (but no new bonded
+indebtedness, other than for refunding purposes, shall be incurred until the proposition therefor
+shall be consented to by a majority of the legal voters of said city voting on the question at any
+election, general, municipal or special); and may provide for the assessment of property and the
+levy and collection of taxes within said city for corporate purposes in accordance with the
+principles of equality and uniformity prescribed by this Constitution; and may abolish all offices,
+the functions of which shall be otherwise provided for; and may provide for the annexation of
+territory to or disconnection of territory from said city of Chicago by the consent of a majority of
+the legal voters (voting on the question at any election, general, municipal or special) of the said
+city and of a majority of the voters of such territory, voting on the question at any election,
+general, municipal or special; and in case the General Assembly shall create municipal co8urts in
+the city of Chicago it may abolish the offices of Justices of the Peace, Police Magistrates and
+Constables in and for the territory within said city, and may limit the jurisdiction of Justices of the
+Peace in the territory of said county of Cook outside of said city to that territory, and in such case
+the jurisdiction and practice of said municipal courts shall be such as the General Assembly shall
+prescribe; and the General Assembly may pass all laws which it may deem requisite to effectually
+provide a complete system of local municipal government in and for the city of Chicago.
+
+No law based upon this amendment to the Constitution, affecting the municipal government of the
+city of Chicago, shall take effect until such law shall be consented to by a majority of the legal
+voters of said city voting on the question at any election, general, municipal or special; and no
+local or special law based upon this amendment affecting specially any part of the city of Chicago
+shall take effect until consented to by a majority of the legal voters of such part of said city voting
+on the question at any election, general, municipal or special.  Nothing in this section contained
+shall be construed to repeal, amend or affect section four of Article XI of the Constitution of this
+State.
+
+*** MEND ***
+*** MSTART 008 003.0 9020.0 0 IL 1870 1908 ***
+
+Ratified November 3, 1908; effective November 24, 1908
+
+The Illinois and Michigan canal, or other canal or waterway owned by the State shall never be
+sold or leased until the specific proposition for the sale or lease thereof shall first have been
+submitted to a vote of the people of the State at a general election, and have been approved by a
+majority of all votes polled at such election.  The General Assembly shall never loan the credit of
+the State or make appropriations from the treasury thereof, in aid of railroads or canals;
+
+Provided, that any surplus earnings of any canal, waterway or water power, may be appropriated
+or pledged for its enlargement, maintenance or extensions; and 
+
+Provided further, that the General Assembly may, by suitable legislation, provide for the
+construction of a deep waterway or canal from the present water power plant of the Sanitary
+District of Chicago, at or near Lockport, in the township of Lockport, in the county of Will, to a
+point in the Illinois River at or near Utica, which may be practical for a general plan and scheme
+of deep waterway along a route, which may be deemed most advantageous for such plan of deep
+waterway; and for the erection, equipment and maintenance of power plants, locks, bridges, dams
+and appliances sufficient and suitable for the development and utilization of the waterpower
+thereof; and authorize the issue, from time to time, of bonds of this State in a total amount not to
+exceed twenty million dollars, which shall draw interest, payable semi-annually, at a rate not to
+exceed four per cent per annum, the proceeds whereof may be applied as the General Assembly
+may provide, in the construction of said waterway and in the erection, equipment and maintenance
+of said power plants, locks, bridges, dams and appliances.
+
+All power developed from said waterway may be leased in part or in whole, as the General
+Assembly may by law provide; but in the event if any lease being do executed, the rental specified
+therein for water power shall be subject to a revaluation each ten years of the term created, and
+the income therefrom shall be paid into the treasury of the State.
+
+
+*** MEND ***
+*** MSTART 009 002.0 014.0 0 IL 1870 1950 ***
+
+Ratified November 7, 1950; effective November 29, 1050
+ 
+Amendments to this Constitution may be proposed in either House of the General Assembly, and
+if the same shall be voted for by two-thirds of all the members elected to each of the two houses,
+such proposed amendments, together with the yeas and nays of each house thereon, shall be
+entered in full on their respective journals, and said amendments shall be submitted to the electors
+of this State for adoption or rejection, at the next election of members of the General Assembly, in
+such manner as may be prescribed by law.  Each proposed amendment shall be published in full at
+least three months preceding the election, and if either a majority of the electors voting at said
+election or two-thirds of the electors voting on any such proposed amendment shall vote for the
+proposed amendment, it shall become a part of this Constitution.  But the General Assembly shall
+have no power to propose amendments to more than three articles of this Constitution at the same
+session, nor to the same article oftener than once in four years.  The proposition for the adoption
+or rejection of the proposed amendment or amendments shall be printed on a separate ballot or in
+a separate column on the ballot as the General Assembly by law may provide and the votes
+thereon shall be cast by voting upon such separate ballot or in such separate column as the case
+may be.
+
+*** MEND ***
+*** MSTART 010 010.0 010.0 0 IL 1870 1952 ***
+
+Ratified November 4, 1952; effective November 24, 1952
+
+The county board, except as provided in Section 9 of this article, shall fix the compensation of all
+county officers, with the amount of their necessary clerk hire, stationery, fuel and other expenses
+in such manner and subject to such limitations as may be prescribed by law, and in all cases  where
+fees are provided for, said compensation shall be paid only out of, and shall in no instance exceed,
+the fees actually collected; Provided that the compensation of no officer shall be increased or
+diminished during his term of office.  All fees or allowances by them received, in excess of their
+said compensation, shall be paid into the County Treasury.
+
+*** MEND ***
+*** MSTART 011 006.0 011.0 0 IL 1870 1952 ***
+
+Ratified November 4, 1952; effective November 24, 1952
+
+No stockholder of a banking corporation or institution shall be individually responsible or liable to
+its creditors for the liabilities of such banking corporation or institution under any constitutional
+or statutory provisions heretofore creating or declaring such stockholder responsibility or liability,
+provided, however, that any rights of creditors existing at the date of the adoption hereof shall not
+be impaired hereby, provided that action to enforce such stockholder responsibility or liability
+with respect to any existing bank liability which is payable on demand or for which a cause of
+action has already accrued shall be commenced within one year from the date of the adoption
+hereof, and with respect to any other existing bank liability shall be commenced within one year
+from the time when the cause of action therefor first hereafter accrues against such banking
+corporation or institution, or could so accrue by demand.  No law creating or declaring any such
+stockholder responsibility or liability shall be passed.
+
+*** MEND ***
+*** MSTART 012 006.0 004.0 0 IL 1870 1954 ***
+
+Ratified November 2, 1954; effective November 19, 1954
+
+The General Assembly in 1955 shall redistrict the state for the purpose of electing state senators. 
+There shall be fifty-eight senatorial districts.  Cook county shall have twenty-four of the districts. 
+These twenty-four districts shall be located as follows:  Eighteen in the territory that is within the
+present corporate limits of the city of Chicago; and six in the territory that is in Cook county
+outside such corporate limits.  The remaining one hundred and one counties of the state shall have
+thirty-four of the senatorial districts.
+
+All senatorial districts shall be formed of contiguous and compact territory.  In their formation,
+area shall be the prime consideration.
+
+The senatorial districts shall be numbered one, two three, and so forth, including fifty-eight.  Each
+such district shall elect one senator, whose term of office shall be four years.  Senators elected in
+districts bearing even numbers shall be elected in 1956 and every four years thereafter; and
+senators elected in districts bearing odd numbers shall be elected in 1958 and every four years
+thereafter.
+
+*** MEND ***
+***MSTART 013 007.0 004.0 0 IL 1870 1954 ***
+
+Ratified November 2, 1954; effective November 19, 1954
+
+The General Assembly in 1955 and in 1963, and every ten years thereafter, shall redistrict the
+state for the purpose of electing state representatives.  There shall be fifty-nine representative
+districts.  In the 1955 redistricting Cook County shall have thirty of the districts.  These thirty
+districts shall be located as follows:  Twenty-three in the territory that is within the present
+corporate limits of the City of Chicago; and seven in the territory that is in Cook County outside
+such corporate limits.  In the 1955 redistricting, the remaining one hundred and one counties of
+the state shall have twenty-nine of the representative districts.  In redistricting subsequent to the
+1960 census, and thereafter, the fifty-nine representative districts shall be divided among (1) that
+part of Cook County that is within the present corporate limits of the City of Chicago, (2) that
+part of Cook County that is outside such corporate limits, and (3) the remaining  one hundred and
+one counties of the state, as nearly as may be, as the population of each of these three divisions
+bears to the total population of the state.
+
+Representative districts shall be formed of contiguous and compact territory, and shall contain, as
+nearly as practicable, a population equal to the representative ratio; outside of Cook County, such
+districts shall be bounded by county lines unless the population of any county entitles it to more
+than one representative district.  The representative ratio for the entire state shall be the quotient
+obtained by dividing the population of the state by fifty-nine.  Nor representative district may
+contain less population than four-fifths of the representative ratio.
+
+Three representatives shall be elected in each representative district in 1956 and every two years
+thereafter.  The term of office shall be two years.  In all elections of representatives aforesaid,
+each qualified voter may cast as many votes for one candidate as there are representatives to be
+elected, or may distribute the same, or equal parts thereof, among the candidates as he shall see
+fit; and the candidates highest in votes shall be declared elected.  
+
+*** MEND ***
+*** MSTART 014 008.0 004.0 0 IL 1870 1954 ***
+
+Ratified November 2, 1954; effective November 19, 1954
+
+In performing its duties under Sections 6 and 7 of this amendment, the General Assembly shall
+redistrict and reapportion in a single legislative enactment.  If, however, the regular session of the
+General Assembly in 1955 as to both senatorial and representative districts or in 1963, or any ten
+years thereafter as to representative districts, fails by the first day of July to redistrict the state into
+such districts, then the redistricting shall be accomplished by a commission.  Within thirty days
+after such first day of July, the state central committee of each of the two political parties, casting
+the highest votes for governor at the last preceding gubernatorial election, shall submit to the
+governor of the state a list of ten persons.  Within thirty days thereafter, the governor shall
+appoint the commission of ten members, five from each list.  If either of the state central
+committees fails to submit the list within the specified time, the governor, within the specified
+time, shall appoint five members of his own choice from the party of such committee.  Each
+member of the committee shall receive $25.00 a day, but not more than $2,000 for his service.
+
+This commission shall redistrict the state into senatorial districts and into representative districts in
+the manner specified above.  This commission shall file with the secretary of state a full statement
+of the numbers of the senatorial and representative districts and their boundaries.  No such
+statement shall be valid unless approved by seven members of such commission.
+
+After such statement is filed, senators and representatives shall be elected according to the
+statement and the districts therein determined, until a redistricting and reapportionment are
+thereafter made by the General Assembly as provided in the amendment.  If, however, the
+statement is not filed within four months after the commission is appointed it shall stand
+discharged.  Thereupon, all senators, scheduled for election at the next election for state senators,
+and all state representative shall be nominated and elected at the next election from the state at
+large.  Following such an election at large, the General Assembly at its next regular session shall
+perform the duties specified in the amendment.  But if such a General Assembly fails to perform
+these duties, then another commission, as specified in this Section 8, shall be appointed in like
+manner, with like duties, and power, and with like effect; and so forth until a valid senatorial and
+representative redistricting and reapportionment are secured in this 1950 decade and each decade
+thereafter.  But there can be only one valid senatorial and representative redistricting and
+reapportionment during a particular decade.
+
+*** MEND ***
+***MSTART 015 001.0 005.0 0 IL 1870 1954 ***
+
+Ratified November 2, 1954; effective November 19, 1954
+
+The executive department shall consist of a governor, lieutenant governor, secretary of state,
+auditor of public accounts, treasurer, superintendent of public instruction and attorney general,
+who shall each hold his office for the term of four years from the second Monday of January next
+after his election and until his successor is elected and qualified.  They shall, except the lieutenant
+governor, reside at the seat of government during their term of office, and keep the public
+records, books and papers there, and shall perform such duties as may be prescribed by law.
+
+*** MEND ***
+***MSTART 016 002.0 005.0 0 IL 1870 1954 ***
+
+Ratified November 2, 1954; effective November 19, 1954
+
+The treasurer shall hold his office for the term of four years, and until his successor is elected and
+qualified, and shall be ineligible to said office for four years next after the end of the term for
+which he was elected.  He may be required by the governor to give reasonable additional security,
+and in default of so doing his office shall be deemed vacant.
+
+*** MEND ***
+*** MSTART 017 003.0 005.0 0 IL 1870 1954 ***
+
+Ratified November 2, 1954; effective November 19, 1954
+
+An election for governor, lieutenant governor, secretary of state, auditor of public accounts, and
+attorney general, shall be held on the Tuesday next after the first Monday of November, in the
+year of our Lord 1872, and every four years thereafter; for superintendent of public instruction,
+and treasurer, on the Tuesday next after the first Monday of November, in the year 1958, and
+every four years thereafter at such places and in such manner as may be prescribed by law.
+
+*** MEND ***
+*** MSTART 018 003.0 9020.0 0 IL 1870 1954 ***
+
+Ratified November 2, 1954; effective November 19, 1954
+
+The Illinois and Michigan canal or other canal or waterway owned by the State may be sold or
+leased upon such terms as may be prescribed by law.  The General Assembly may appropriate for
+the operation and maintenance of canals and waterways owned by the State.
+
+*** MEND ***
+*** MSTART 019 001.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+The judicial power is vested in a Supreme Court, an Appellate Court and Circuit Courts.
+
+*** MEND ***
+*** MSTART 020 002.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+General administrative authority over all courts in this State including the temporary assignment
+of any judge to a court other than that for which he was selected with the consent of the Chief
+Judge of the Circuit to which such assignment is made, is vested in the Supreme Court and shall
+be exercised by the Chief Justice in accordance with its rules.  The Supreme Court shall appoint
+an administrative director and staff, who shall serve at its pleasure, to assist the Chief Justice in his
+administrative duties.
+
+*** MEND ***
+***MSTART 021 003.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+The State is divided into five Judicial Districts for the selection of judges of the Supreme and
+Appellate Courts.  The First Judicial District consists of the county of Cook.  The remainder of
+the State shall be divided by law into four Judicial Districts of substantially equal population, each
+of which shall be compact and composed of contiguous counties.
+
+*** MEND ***
+*** MSTART 022 004.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+The Supreme Court shall consist of seven judges, three of whom shall be selected form the First
+Judicial District and one each from the Second, Third, Fourth, and Fifth Judicial Districts.  Four
+judges shall constitute a quorum and the concurrence of four shall be necessary to a decision.  The
+judges of the Supreme Court shall select one of their number to serve as Chief Justice for a term
+of three years.
+
+*** MEND ***
+*** MSTART 023 005.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+The Supreme Court may exercise original jurisdiction in cases relating to the revenue, mandamus,
+prohibition and habeas corpus, such original jurisdiction as may be necessary to the complete
+determination of any cause on review, and only appellate jurisdiction in all other cases.
+
+Appeals from the final judgments of circuit courts shall lie directly to the Supreme Court as a
+matter of right only (a) in cases involving revenue, (b) in cases involving a question arising under
+the Constitution of the United States or of this State, (c) in cases of habeas corpus, and (d) by the
+defendant from the sentence in capital cases.  Subject to law hereafter enacted, the Supreme
+Court has authority to provide by rule for appeal in other cases from the circuit courts directly to
+the Supreme Court.
+
+Appeals from the Appellate Court shall lie to the Supreme Court as a matter of right only (a) in
+cases in which a question under the Constitution of the United States or of this State arises for the
+first time in and as a result of the action of the Appellate Court, and (b) upon the certification by a
+division of the Appellate Court that a case decided by it involves a question of such importance
+that it should be decided by the Supreme Court in all other cases shall be by leave of the Supreme
+Court.
+
+*** MEND ***
+*** MSTART 024 006.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+The Appellate Court shall be organized in the five Judicial Districts.  Until otherwise provided by
+law, the court shall consist of twenty-four judges, twelve of whom shall be selected from the First
+Judicial District and three each from the Second, Third, Fourth and Fifth Judicial Districts.  The
+Supreme Court shall have authority to assign additional judges to service in the Appellate Court
+from time to time as the business of the Court requires.  There shall be such number of divisions,
+of not less than three judges each, as the Supreme Court shall prescribe.  Assignments to divisions
+shall be made by the Supreme Court and a judge may be assigned to a division in a district other
+than the district in which such judge resides with the consent of a majority of the judges of the
+district to which such assignment is made.  The majority of a division shall constitute a quorum
+and the concurrence of a majority of the division shall be necessary to a decision of the Appellate
+Court.  There shall be at least one division in each Appellate District and each division shall sit at
+times and places prescribed by rules of the Supreme Court.
+
+*** MEND ***
+*** MSTART 025 007.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+In all cases, other than those appealable directly to the Supreme Court, appeals from final
+judgments of a Circuit Court lie as a matter of right to the Appellate Court in the district in which
+the Circuit Court is located, except that after a trial on the merits in a criminal case, no appeal
+shall lie from a judgment of acquittal.  The Supreme Court shall provide by rule for expeditious
+and inexpensive appeals.  The Appellate Court may exercise such original jurisdiction as may be
+necessary to the complete determination of any cause on review.  The Supreme Court may
+provide by rule for appeals to the Appellate Court from other than final judgments of the Circuit
+Court.  The Appellate Court shall have such powers of direct review of administrative action as
+may be provided by law.
+
+*** MEND ***
+*** MSTART 026 008.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+The State shall be divided into judicial circuits each consisting of one or more counties.   The
+county of Cook shall constitute a judicial circuit and the judicial circuits within the Second, Third,
+Fourth, and Fifth Appellate Districts, respectively, shall be as established from time to time by
+law.  Any judicial circuit composed of more than one county shall be compact and of contiguous
+counties.
+
+There shall be one circuit court for each judicial circuit which shall have such number of circuit
+and associate judges and magistrates as may be prescribed by law; provided, that there shall be at
+least twelve associate judges elected from the area in Cook County outside the City of Chicago
+and at least thirty-six associate judges from the City of Chicago.  In Cook County, the City of
+Chicago and the area outside the City of Chicago shall be separate units for the election or
+selection of associate judges. All associate judges from said area outside the City of Chicago shall
+run at large from said area, such area apportionment of associate judges shall continue until
+changed by law.  There shall be at least one associate judge from each county.  There shall be no
+masters in chancery or other fee officers in the judicial system.
+
+The circuit judges and associate judges in each circuit shall select one of the circuit judges to
+serve at their pleasure as Chief Judge of such circuit.  Subject to the authority of the Supreme
+Court, the Chief Judge shall have general administrative authority in the court, including authority
+to provide for divisions, general or specialized, and for appropriate times and places of holding
+court.  The General Assembly shall limit or define the matters to be assigned to magistrates.  
+
+*** MEND ***
+*** MSTART 027 009.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+The Circuit Court shall have unlimited original jurisdiction of all justiciable matters, and such
+powers of review of administrative action as may be provided by law.
+
+*** MEND ***
+*** MSTART 028 010.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+All of the judges provided for herein shall be nominated by party convention or primary and
+elected at general elections by the electors in the respective judicial districts, judicial circuits,
+counties, or units.  Provided, however, the General Assembly may provide by law for the selection
+and tenure of all judges provided herein as distinguished from nomination and election by the
+electors, but no law establishing a method of selecting judges and providing their tenure shall be
+adopted or amended except by a vote of two-thirds of the members elected to each House, nor
+shall any method of selecting judges and providing their tenure become law until the question of
+the method of selection be first submitted to the electors at the next general election.  If a majority
+of those voting upon the question shall favor the method of selection or tenure as submitted it
+shall then become law.
+
+The office of any judge shall be deemed vacant upon his death, resignation, rejection, removal or
+retirement.  Whenever a vacancy occurs in the office of judge, the vacancy shall be filled for the
+unexpired portion of the term by the voters at an election as above provided in this Section, or in
+such other manner as the General Assembly may provide by law as set out in this Section and
+approved by the electors.  Whenever an additional judge is authorized by law, the office shall be
+filled in the same manner as in the case of a vacancy.
+
+*** MEND ***
+*** MSTART 029 011.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+Not less than six months prior to the general election next preceding the expiration of his term of
+office, any judge previously elected may file in the office of the Secretary of State a declaration of
+candidacy to succeed himself, and the Secretary of State, not less than 61 days prior to the
+election, shall certify such candidacy to the proper election officials.  At the election the name of
+each judge who has filed such a declaration shall be submitted to the voters, on a special judicial
+ballot without party designation, on the sole question whether he shall be retained in office for
+another term.  The elections shall be conducted in the appropriate judicial districts, circuits,
+counties and units.  The affirmative votes of a majority of the voters voting on the question shall
+elect him to the office for another term commencing the first Monday in December following the
+election.  Any judge who does not file a declaration within the time herein specified, or, having
+filed, fails of re-election, shall vacate his office at the expiration of his term, whether or not his
+successor, who shall be selected for a full term pursuant to Section 10 of this Article, shall yet
+have qualified.
+
+Any law reducing the number of judges of the Appellate Court in any District or the number of
+Circuit or associate judges in any circuit shall be without prejudice to the right of judges in office
+at the time of its enactment to seek retention in office as herein above provided.   
+
+*** MEND ***
+*** MSTART 030 012.0 006.0 0 IL 1870 1962 *** 
+
+Ratified November 6, 1962; effective January 1, 1964
+
+Subject to law, the circuit judges in each circuit shall appoint magistrates to serve at their
+pleasure; provided, that in Cook County, until and unless changed by law, at least one-fourth of
+the magistrates shall be appointed from and reside in the area outside the corporate limits of the
+City of Chicago.
+
+*** MEND ***
+*** MSTART 031 013.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+As used in this Article, the term "general election" means the biennial election at which members
+of the General Assembly are elected.
+
+*** MEND ***
+*** MSTART 032 014.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+The term of office of judges of the Supreme Court and of the Appellate Court shall be ten years
+and of the circuit judges and associate judges of the Circuit Courts six years.
+
+*** MEND ***
+*** MSTART 033 015.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+No person shall be eligible for the office of judge unless he shall be a citizen and licensed attorney-
+at-law of this State, and a resident of the judicial district, circuit, county or unit from which
+selected.  However, any change made in the area of a district or circuit or the reapportionment of
+districts or circuits shall not affect the tenure in office of any judge incumbent at the time such
+change or reapportionment is made.
+
+*** MEND ***
+*** MSTART 034 016.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+Judges shall devote full time to their judicial duties, shall not engage in the practice of law or hold
+any other office or position of profit under the United States or this State or any municipal
+corporation or political subdivision of this State, and shall not hold office in any political party. 
+Compensation for service in the State Militia or the armed forces of the United States for such
+periods of time as may be determined by rule of the Supreme Court shall not be deemed "profit."
+
+*** MEND ***
+*** MSTART 035 017.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+Judges and magistrates shall receive for their services salaries provided by law.  The salaries of
+judges shall not be diminished during their respective terms of office.  Judicial officers may be
+paid such actual and necessary expenses as may be provided by law.  All salaries and expenses
+shall be paid by the State, except that judges of the Appellate Court for the First District and
+circuit and associate judges and magistrates of the Circuit Court of Cook County shall receive
+such additional compensation from the county as may be provided by law.
+
+*** MEND ***
+*** MSTART 036 018.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+Notwithstanding the provisions of this Article relating to terms of office, the General Assembly
+may provide by law for the retirement of judges automatically at a prescribed age; and, subject to
+rules of procedure to be established by the Supreme Court and after notice and hearing, any judge
+may be retired for disability or suspended without pay or removed for cause by a commission
+composed of one judge of the Supreme Court selected by that court, two judges of the Appellate
+Court selected by that court, and two circuit judges selected by the Supreme Court.  Such
+commission shall be convened by the Chief Justice upon order of the Supreme Court or at the
+request of the Senate.
+
+Any retired judge may, with his consent, be assigned by the Supreme Court to judicial service, and
+while so serving shall receive the compensation applicable to such service in lieu of retirement
+benefits, if any.
+
+*** MEND ***
+*** MSTART 037 019.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+The Supreme Court shall provide by rule for and shall convene an annual judicial conference to
+consider the business of the several courts and to suggest improvements in the administration of
+justice, and shall report thereon in writing to the General Assembly not later than January thirty-
+first in each legislative year.
+
+*** MEND ***
+*** MSTART 038 020.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+The General Assembly shall provide by law for the selection by the judges or election, terms of
+office, removal for cause and salaries of clerks and other non-judicial officers of the various
+courts; provided that a clerk shall be selected or elected for each Appellate Court District.
+
+*** MEND ***
+*** MSTART 039 021.0 006.0 0 IL 1870 1962 ***
+
+Ratified November 6, 1962; effective January 1, 1964
+
+There shall be a state's attorney elected in each county in the year 1964 and every fourth year
+thereafter for a term of four years.  No person shall be eligible for such office unless a citizen and
+licensed attorney-at-law of this State.  His salary shall be prescribed by law.
+
+*** MEND ***
+*** MSTART 040 001.A 009.0 0 IL 1870 1970 ***
+
+Ratified November 3, 1970; effective January 1, 1971
+
+Notwithstanding any other provision of this Constitution, the taxation of personal property by
+valuation is prohibited as to individuals.
+
+*** MEND ***
+*** CEND ***

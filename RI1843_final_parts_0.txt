@@ -1,0 +1,3251 @@
+Tom Castillo worked on this one
+
+I am not done yet, need to print out and check amendments.
+
+
+
+
+
+CONSTITUTION OF RHODE ISLAND
+
+*** CSTART RI 05/03/1843 12/04/1986 ***
+
+*** ASTART 9001.0 RI 1843 ***
+
+We, the people of the State of Rhode Island and Providence Plantations, grateful to Almighty
+God for the civil and religious liberty which He hath so long permitted us to enjoy, and looking
+to Him for a blessing upon our endeavors to secure and to transmit the same unimpaired to
+succeeding generations, do ordain and establish this constitution of government.
+*** AEND ***
+
+*** ASTART 001.0 RI 1843 ***
+
+ARTICLE I
+DECLARATION OF CERTAIN CONSTITUTIONAL RIGHTS AND PRINCIPLES
+
+In order effectually to secure the religious and political freedom established by our venerated
+ancestors, and to preserve the same for our posterity, we do declare that the essential and
+unquestionable rights and principles hereinafter mentioned shall be established, maintained and
+preserved, and shall be of paramount obligation in all legislative, judicial and executive
+proceedings.
+
+*** SSTART 001.0 001.0 0 RI 1843 ***
+SECTION 1. In the words of the Father of his Country, we declare, that "the basis of our political
+systems is the right of the people to make and alter their constitutions of government; but that the
+constitution which at any time exists, till changed by an explicit and authentic act of the whole
+people, is sacredly obligatory upon all."
+*** SEND ***
+
+*** SSTART 002.0 001.0 0 RI 1843 ***
+SEC 2. All free governments are instituted for the protection, safety and happiness of the people.
+All laws, therefore, should be made for the good of the whole; and the burdens of the state ought
+to be fairly distributed among its citizens.
+*** SEND ***
+
+*** SSTART 003.0 001.0 0 RI 1843 ***
+SEC. 3. Whereas Almighty God hath created the mind free; and all attempts to influence it by
+temporal punishments or burdens, or by civil incapacitations, tend to beget habits of hypocrisy
+and meanness; and whereas a principal object of our venerable ancestors, in their migration to
+this country and their settlement of this state, was, as they expressed it, to hold forth a lively
+experiment, that a flourishing civil state may stand and be best maintained with full liberty in
+religious concernments; we, therefore, declare that no man shall be compelled to frequent or to
+support any religious worship, place, or ministry whatever, except in fulfillment of his own
+voluntary contract; nor enforced, restrained, molested, or burdened in his body or goods; nor
+disqualified from holding any office; nor otherwise suffer on account of his religious belief; and
+that every man shall be free to worship God according to the dictates of his own conscience, and
+by argument to maintain his opinion in matters of religion and that the same shall in no wise
+diminish, enlarge, or affect his civil capacity.
+*** SEND ***
+
+*** SSTART 004.0 001.0 0 RI 1843 ***
+SEC. 4. Slavery will not be permitted in this state.
+*** SEND ***
+
+*** SSTART 005.0 001.0 0 RI 1843 ***
+SEC. 5. Every person within this state ought to find a certain remedy, by having recourse to the
+laws, for all injuries or wrongs which he may receive in his person, property, or character. He
+ought to obtain right and justice freely and without purchase, completely and without denial;
+promptly and without delay; conformably to the laws.
+*** SEND ***
+
+*** SSTART 006.0 001.0 0 RI 1843 ***
+SEC. 6. The right of the people to be secure in their persons, papers and possessions, against
+unreasonable searches and seizures, shall not be violated; and no warrant shall issue, but on
+complaint in writing, upon probable cause, supported by oath or affirmation and describing as
+nearly as may be, the place to be searched, and the persons or things to be seized.
+*** SEND ***
+
+*** SSTART 007.0 001.0 0 RI 1843 ***
+SEC. 7. No person shall be held to answer for a capital or other infamous crime, unless on
+presentment or indictment by a grand jury, except in cases of impeachment, or of such offences
+as are cognizable by a justice of the peace; or in cases arising in the land or naval forces, or in the
+militia when in actual service in time of war or public danger. No person shall, after an acquittal,
+be tried for the same offence.
+*** SEND ***
+
+*** SSTART 008.0 001.0 0 RI 1843 ***
+SEC. 8. Excessive bail shall not be required nor excessive fines imposed, nor cruel punishments
+inflicted; and all punishments ought to be proportioned to the offence.
+*** SEND ***
+
+*** SSTART 009.0 001.0 0 RI 1843 ***
+SEC. 9. All persons imprisoned ought to be bailed by sufficient surety, unless for offences
+punishable by death or by imprisonment for life, when the proof of guilt is evident or the
+presumption great. The privilege of the writ of habeas corpus shall not be suspended, unless
+when in cases of rebellion or invasion the public safety shall require it; nor ever without the
+authority of the general assembly.
+*** SEND ***
+
+*** SSTART 010.0 001.0 0 RI 1843 ***
+SEC. 10. In all criminal prosecutions, the accused shall enjoy the right to a speedy and public
+trial, by an impartial jury; to be informed of the nature and cause of the accusation, to be
+confronted with the witnesses against him, to have compulsory process for obtaining them in his
+favor, to have the assistance of counsel in his defence, and shall be at liberty to speak for himself;
+nor shall he be deprived of life, liberty, or property, unless by the judgment of his peers, or the
+law of the land.
+*** SEND ***
+
+*** SSTART 011.0 001.0 0 RI 1843 ***
+SEC. 11. The person of a debtor. when there is not strong presumption of fraud, ought not to be
+continued in prison, after he shall have delivered up his property, for the benefit of his creditors,
+in such manner as shall be prescribed by law.
+
+*** SEND ***
+
+*** SSTART 012.0 001.0 0 RI 1843 ***
+SEC. 12. No ex post facto law, or law impairing the obligation of contracts, shall be passed.
+*** SEND ***
+
+*** SSTART 013.0 001.0 0 RI 1843 ***
+SEC. 13 . No man. in a court of common law shall be compelled to give evidence criminating
+himself.
+*** SEND ***
+
+*** SSTART 014.0 001.0 0 RI 1843 ***
+SEC. 14. Every man being presumed innocent, until he is pronounced guilty by the law, no act of
+severity which is not necessary to secure in accused person shall be permitted.
+*** SEND ***
+
+*** SSTART 015.0 001.0 0 RI 1843 ***
+SEC. 15. The right of trial by jury shall remain inviolate.
+*** SEND ***
+
+*** SSTART 016.0 001.0 0 RI 1843 ***
+SEC. 16. Private property shall not be taken for public uses, without just compensation.
+*** SEND ***
+
+*** SSTART 018.0 001.0 0 RI 1843 ***
+SEC. 17. The people shall continue to enjoy and freely exercise all the rights of fishery, and the
+privileges of the shore, to which they have been heretofore entitled under the charter and usages
+of this state. But no new right is intended to be granted, nor any existing right impaired by this
+declaration.
+*** SEND ***
+
+*** SSTART 018.0 001.0 0 RI 1843 ***
+SEC. 18. The military shall be held in strict subordination to the civil authority.  And the law
+martial shall be used and exercised in such cases only as occasion shall necessarily require.
+*** SEND ***
+
+*** SSTART 019.0 001.0 0 RI 1843 ***
+SEC. 19. No soldier shall be quartered in any house, in time of peace, without the consent of the
+owner; nor, in time of war, but in a manner to be prescribed by law.
+*** SEND ***
+
+*** SSTART 020.0 001.0 0 RI 1843 ***
+SEC. 20. The liberty of the press being essential to the security of freedom in a state, any person
+may publish his sentiments on any subject, being responsible for the abuse of that liberty: and in
+all trials for libel, both civil and criminal, the truth. unless published from malicious motives,
+shall be sufficient defence to the person charged.
+*** SEND ***
+
+*** SSTART 021.0 001.0 0 RI 1843 ***
+SEC. 21. The citizens have a right, in a peaceable manner to assemble for their common good,
+and to apply to those invested with the powers of government for redress of grievances, or for
+other purposes, by petition, address, or remonstrance.
+*** SEND ***
+
+*** SSTART 022.0 001.0 0 RI 1843 ***
+SEC. 22. The right of the people to keep and bear arms shall not be infringed.
+
+*** SEND ***
+
+*** SSTART 023.0 001.0 0 RI 1843 ***
+SEC. 23. The enumeration of the foregoing rights shall not be Construed to impair or deny others
+retained by the people.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 002.0 RI 1843 ***
+ARTICLE II
+OF THE QUALIFICATIONS OF ELECTORS
+
+*** SSTART 001.0 002.0 0 RI 1843 ***
+SECTION 1. Every male citizen of the United States, of the age of twenty-one years, who has
+had his residence and home in this state for one year, and in the town or city in which he may
+claim a right to vote, six months next preceding the time of voting, and who is really and truly
+possessed in his own right of real estate in such town or city of the value of one hundred and
+thirty-four dollars over and above all incumbrances, or which shall rent for seven dollars per
+annum over and above any rent, reserved or the interest of any incumbrances thereon. being an
+estate in fee-simple, fee-tail for the life of any person, or an estate in reversion or remainder
+which, qualifies no other person to vote, the conveyance of which estate, if by deed, shall have
+been recorded at least ninety days, shall thereafter have a right to vote in the election of all civil
+officers and on all questions in all legal town or ward meetings so long as he continues so
+qualified. And if any person hereinbefore described shall own any such estate within this state
+out of the town or city in which he resides, he shall have a right to vote in the election of all
+general officers and members of the general assembly in the town or city in which he shall have
+had his residence and home for the term of six months next preceding the election, upon
+producing a certificate from the clerk of the town or city in which his estate lies, bearing date
+within ten days of the time of his voting, setting forth that such person has a sufficient estate
+therein to qualify him as a voter; and that the deed, if any, has been recorded ninety days.
+*** SEND ***
+
+*** SSTART 002.0 002.0 0 RI 1843 ***
+SEC. 2. Every male native citizen of the United States, of the age of twenty-one years, who has
+had his residence and home in this state two years, and in the town or city in which he may offer
+to vote, six months next preceding the time of voting, whose name is registered pursuant to the
+act calling the convention to frame this constitution, or shall be registered in the office of the
+clerk of such town or city at least seven days before the time he shall offer to vote, and before the
+last day of December in the present year; and who has paid or shall pay a tax or taxes assessed
+upon his estate within this state, and within a year of the time of voting, to the amount of one
+dollar, or who shall voluntarily pay, at least seven days before the time he shall offer to vote, and
+before said last day of December, to the clerk or treasurer of the town or city where he resides,
+the sum of one dollar, or such sum as with his other taxes shall amount to one dollar, for the
+support of public schools therein, and shall make proof of the same; by the certificate of the
+clerk, treasurer, or collector of any town or city where such payment is made: or who, being so
+registered, has been enrolled in any military company in this state, and done military service or
+duty therein, within the present year, pursuant to law, and shall (until other proof is required by
+law) prove by the certificate of the officer legally commanding the regiment, or chartered, or
+legally authorized volunteer company in which he may have served or done duty, that he has
+been equipped and done duty according to law, or by the certificate of the commissioners upon
+military claims, that he has performed military service, shall have a right. to vote in the election
+of all civil officers, and on all questions in all legally organized town or ward meetings, until the
+end of the first year after the adoption of this constitution, or until the end of the year eighteen
+hundred and forty-three.
+
+From and after that time, every such citizen who has had the residence herein required, and
+whose name shall be registered in the town where he resides, on or before the last day of
+December, in the year next preceding the time of his voting, and who shall show by legal proof.
+that he has for and within the year next preceding the time he shall offer to vote, paid a tax or
+taxes assessed against him in any town or city in this state, to the amount of one dollar, or that he
+has been enrolled in a military company in this state, been equipped and done duty therein
+according to law, and at least for one day during such year, shall have a right to vote in the
+election of all civil officers. and on all questions, in all legally organized town or ward meetings:
+Provided, that no person shall at any time
+be allowed to vote in the election of the city council of the city of Providence, or upon any
+proposition to impose a tax, or for the expenditure of money in any town or city, unless he shall
+within the year next preceding have paid a tax assessed upon his property therein, valued at least
+at one hundred and thirty-four dollars.
+*** SEND ***
+
+*** SSTART 003.0 002.0 0 RI 1843 ***
+SEC. 3. The assessors of each town or city shall annually assess upon every person whose name
+shall be registered a tax of one dollar, or such sum as with his other taxes shall amount to one
+dollar, which registry tax shall be paid into the treasury of such town or city, and be applied to
+the support of public schools therein; but no compulsory process shall issue for the collection of
+any registry tax: Provided, that the registry tax of every person who has performed military duty
+according to the provisions of the preceding section shall be remitted for the year he shall
+perform such duty; and the registry tax assessed upon any mariner, for any year while he is at sea,
+shall, upon his application, be remitted; and no person shall be allowed to vote whose registry tax
+for either of the two years next preceding the time of voting is not paid or remitted as herein
+provided.
+*** SEND ***
+
+*** SSTART 004.0 002.0 0 RI 1843 ***
+SEC. 4. No person in the military, naval, marine, or any other service of the United States shall
+be considered as having the required residence by reason of being employed in any garrison,
+barrack, or military or naval station in this state: and no pauper, lunatic, person non compos
+mentis, person under guardianship, or member of the Narragansett tribe of Indians, shall be
+permitted to be registered or to vote. Nor shall any person convicted of bribery, or of any crime
+deemed infamous at common law, be permitted to exercise that privilege, until he be expressly
+restored thereto by act of the general assembly.
+*** SEND ***
+
+*** SSTART 005.0 002.0 0 RI 1843 ***
+SEC. 5. Persons residing on lands ceded by this state to the United States shall not be entitled to
+exercise the privilege of electors.
+
+*** SEND ***
+
+*** SSTART 006.0 002.0 0 RI 1843 ***
+SEC. 6. The general assembly shall have full power to provide for a registry of voters, to
+prescribe the manner of conducting the elections, the form of certificates, the nature of the
+evidence to be required in case of a dispute as to the right of any person to vote, and generally to
+enact all laws necessary to carry this article into effect, and to prevent, abuse, corruption and
+fraud in voting.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 003.0 RI 1843 ***
+ARTICLE III
+
+OF THE DISTRIBUTION OF POWERS
+The powers of the government shall be distributed into three departments: the legislative,
+executive, and judicial.
+*** AEND ***
+
+*** ASTART 004.0 RI 1843 ***
+
+ARTICLE IV
+OF THE LEGISLATIVE POWER
+
+*** SSTART 001.0 004.0 0 RI 1843 ***
+SECTION 1. This constitution shall be the supreme law of the state, and any law inconsistent
+therewith shall be void. The general assembly shall pass all laws necessary to carry this
+constitution into effect.
+*** SEND ***
+
+*** SSTART 002.0 004.0 0 RI 1843 ***
+SEC. 2. The legislative power, under this constitution, shall be vested in two houses, the one to
+be called the senate, the other the house of representatives; and both together the general
+assembly The concurrence of the two houses shall be necessary to the enactment of laws. The
+style of their laws shall be, It is enacted by the general assembly as follows:
+*** SEND ***
+
+*** SSTART 003.0 004.0 0 RI 1843 ***
+SEC. 3. There shall be two sessions of the general assembly holden annually: one at Newport, on
+the first Tuesday of May, for the purposes of election and other business; the other on the last
+Monday of October, which last session shall be holden at South Kingstown once in two years,
+and the intermediate years alternately at Bristol and East Greenwich; and an adjournment from
+the October session shall beholden annually at Providence.
+*** SEND ***
+
+*** SSTART 004.0 004.0 0 RI 1843 ***
+SEC. 4. No member of the general assembly shall take any fee, or be of counsel in any case
+pending before either house of the general assembly, under penalty of his seat, upon proof thereof
+to the satisfaction of the house he is a member.
+
+*** SEND ***
+
+*** SSTART 005.0 004.0 0 RI 1843 ***
+SEC. 5. The person of every member of the general assembly shall be exempt from arrest, and
+his estate from attachment in any civil action, during the session of the general assembly, and two
+days before the commencement and two days after the termination thereof, and all process served
+contrary hereto shall be void. For any speech in debate in either house, no member shall be
+questioned in any other place.
+*** SEND ***
+
+*** SSTART 006.0 004.0 0 RI 1843 ***
+SEC. 6. Each house shall be the judge of the elections and qualifications of its members; and a
+majority shall constitute a quorum to do business; but a smaller number may adjourn from day to
+day, and may compel the attendance of absent members in such manner, and under such
+penalties, as may be prescribed by such house or by law. The organization of the two houses may
+be regulated by law, subject to the limitations contained in this constitution.
+*** SEND ***
+
+*** SSTART 007.0 004.0 0 RI 1843 ***
+SEC. 7. Each house may determine its rules of proceeding, punish contempts, punish its
+members for disorderly behavior, and, with the concurrence of two thirds, expel a member; but
+not a second time for the same cause.
+*** SEND ***
+
+*** SSTART 008.0 004.0 0 RI 1843 ***
+SEC. 8. Each house shall keep a journal of its proceedings. The yeas and nays of the members of
+either house shall, at the desire of one fifth of those present, be entered on the journal.
+*** SEND ***
+
+*** SSTART 009.0 004.0 0 RI 1843 ***
+SEC. 9. Neither house shall, during a session, without the consent of the other, adjourn for more
+than two days, nor to any other place than that in which they may be sitting.
+*** SEND ***
+
+*** SSTART 010.0 004.0 0 RI 1843 ***
+SEC. 10. The general assembly shall continue to exercise the powers they have heretofore
+exercised, unless prohibited in this constitution.
+*** SEND ***
+
+*** SSTART 011.0 004.0 0 RI 1843 ***
+SEC. 11. The senators and representatives shall receive the sum of one dollar for every day of
+attendance, and eight cents per mile for traveling expenses in going to and coming from the
+general assembly. The general assembly shall regulate the compensation of the governor, and all
+other officers, subject to the limitations contained in this constitution.
+*** SEND ***
+
+*** SSTART 012.0 004.0 0 RI 1843 ***
+SEC. 12. All lotteries shall hereafter be prohibited in this state, except those already authorized
+by the general assembly.
+*** SEND ***
+
+*** SSTART 013.0 004.0 0 RI 1843 ***
+SEC. 13. The general assembly shall have no power, hereafter, without the express consent of the
+people, to incur state debts to an amount exceeding fifty thousand dollars, except in time of war,
+or in case of insurrection or invasion; nor shall they in any case, without consent, pledge the faith
+of the state for the payment of the obligations of others. This section shall not be construed to
+refer to any money that may be deposited with this state by the government of the United States.
+*** SEND ***
+
+*** SSTART 014.0 004.0 0 RI 1843 ***
+SEC. 14. The assent of two thirds of the members elected to each house of the general assembly
+shall be required to every bill appropriating the public money or property for local or private
+purposes.
+*** SEND ***
+
+*** SSTART 015.0 004.0 0 RI 1843 ***
+SEC. 15. The general assembly shall, from time to time, provide for making new valuations of
+property, for the assessment of taxes, in such manner as they may deem best. A new estimate of
+such property shall be taken before the first direct state tax, after the adoption of this constitution,
+shall be assessed.
+*** SEND ***
+
+*** SSTART 016.0 004.0 0 RI 1843 ***
+SEC. 16. The general assembly may provide by law for the continuance in office of any officers
+of annual election or appointment, until other persons are qualified to take their places.
+*** SEND ***
+
+*** SSTART 017.0 004.0 0 RI 1843 ***
+SEC. 17. Hereafter, when any bill shall be presented to either house of the general assembly, to
+create a corporation for any other than for religious, literary, or charitable purposes, or for a
+military or fire company, it shall be continued until another election of members of the general
+assembly shall have taken place., and such public notice of the pendency thereof shall be given as
+may be required by law.
+*** SEND ***
+
+*** SSTART 018.0 004.0 0 RI 1843 ***
+SEC. 18. It shall be the duty of the two houses, upon the request of either, to join in grand
+committee for the purpose of electing senators in congress, at such times and in such manner as
+may be prescribed by law for said elections.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 005.0 RI 1843 ***
+                                 
+ARTICLE V
+OF THE HOUSE OF REPRESENTATIVES
+
+*** SSTART 001.0 005.0 0 RI 1843 ***
+SECTION 1. The house of representatives shall never exceed seventy-two members, and shall be
+constituted on the basis of population, always allowing one representative for a fraction
+exceeding half the ratio; but each town or city shall always be entitled to at least one member;
+and no town or city shall have more than one sixth of the whole number of members to which the
+house is hereby limited. The present ratio shall be one representative to every fifteen hundred and
+thirty inhabitants, and the general assembly may, after any new census taken by the authority of
+the United States or of this state, reapportion the representation by altering the ratio; but no town
+or city shall be divided into districts for the choice of representatives.
+*** SEND ***
+
+*** SSTART 002.0 005.0 0 RI 1843 ***
+SEC. 2. The house of representatives shall have authority to elect its speaker, clerks and other
+officers. The senior member from the town of Newport, if any be present, shall preside in the
+organization of the house.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 006.0 RI 1843 ***
+
+ARTICLE VI
+OF THE SENATE
+
+*** SSTART 001.0 006.0 0 RI 1843 ***
+SECTION 1. The senate shall consist of the lieutenant-governor and of one senator from each
+town or city in the state.
+*** SEND ***
+
+*** SSTART 002.0 006.0 0 RI 1843 ***
+SEC. 2. The governor, and in his absence the lieutenant-governor, shall preside in the senate and
+in grand committee. The presiding officer of the senate and grand committee shall have a right to
+vote in case of equal division, but not otherwise.
+*** SEND ***
+
+*** SSTART 003.0 006.0 0 RI 1843 ***
+SEC .3. If, by reason of death, resignation, absence, or other cause, there be no governor or
+lieutenant-governor present, to preside in the senate, the senate shall elect one of their own
+members to preside during such absence or vacancy; and until such election is made by the
+senate, the secretary of state shall preside.
+*** SEND ***
+
+*** SSTART 004.0 006.0 0 RI 1843 ***
+SEC. 4. The secretary of state shall, by virtue of his office, be secretary of the senate, unless
+otherwise provided by law, and the senate may elect such other officers as they may deem
+necessary.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 007.0 RI 1843 ***
+
+ARTICLE VII
+OF THE EXECUTIVE POWER
+
+*** SSTART 001.0 007.0 0 RI 1843 ***
+SECTION 1. The chief executive power of this state shall be vested in a governor, who, together
+with a lieutenant-governor, shall be annually elected by the people.
+*** SEND ***
+
+*** SSTART 002.0 007.0 0 RI 1843 ***
+SEC. 2. The governor shall take care that the laws be faithfully executed.
+*** SEND ***
+
+*** SSTART 003.0 007.0 0 RI 1843 ***
+SEC. 3. He shall be captain-general and commander-in-chief of the military and naval forces of
+this state, except when they shall be called into the service of the United States.
+*** SEND ***
+
+*** SSTART 004.0 007.0 0 RI 1843 ***
+SEC. 4. He shall have power to grant reprieves after conviction, in all cases except those of
+impeachment, until the end of the next session of the general assembly.
+*** SEND ***
+
+*** SSTART 005.0 007.0 0 RI 1843 ***
+SEC. 5. He may fill vacancies of office not otherwise provided for by this constitution or by law,
+until the same shall be filled by the general assembly, or by the people.
+*** SEND ***
+
+*** SSTART 006.0 007.0 0 RI 1843 ***
+SEC. 6. In case of disagreement between the two houses of the general assembly, respecting the
+time or place of adjournment, certified to him by either, he may adjourn them to such time and
+place as he shall think proper: Provided, that the time of adjournment shall not be extended
+beyond the day of the next stated session.
+*** SEND ***
+
+*** SSTART 007.0 007.0 0 RI 1843 ***
+SEC. 7. He may, on extraordinary occasions, convene the general assembly at any town or city in
+this state, at any time not provided for by law; and in case of danger from the prevalence of
+epidemic or contagious disease, in the place in which the general assembly' are by law to meet, or
+to which they may have been adjourned, or for other urgent reasons, he may by proclamation
+convene said assembly at any other place within this state.
+*** SEND ***
+
+*** SSTART 008.0 007.0 0 RI 1843 ***
+SEC. 8. All commissions shall be in the name and by authority of the State of Rhode Island and
+Providence Plantations; shall be sealed with the state seal, signed by the governor and attested by
+the secretary. 
+*** SEND ***
+
+*** SSTART 009.0 007.0 0 RI 1843 ***
+SEC. 9. In case of vacancy in the office of governor, or of his inability to serve, impeachment, or
+absence from the state, the lieutenant-governor shall fill the office of governor, and exercise the
+powers and authority appertaining thereto, until a governor is qualified to act or until the office is
+filled at the next annual election.
+*** SEND ***
+
+*** SSTART 010.0 007.0 0 RI 1843 ***
+SEC. 10. If the offices of governor and lieutenant-governor be both vacant, by reason of death,
+resignation, impeachment, absence, or otherwise, the person entitled to preside over the senate
+for the time being shall in like manner fill the office of governor during such absence or vacancy.
+*** SEND ***
+
+*** SSTART 011.0 007.0 0 RI 1843 ***
+SEC. 11. The compensation of the governor and lieutenant-governor shall be established by law,
+and shall not be diminished during the term for which they are elected.
+*** SEND ***
+
+*** SSTART 012.0 007.0 0 RI 1843 ***
+SEC. 12. The duties and powers of the secretary, attorney-general, and general treasurer, shall be
+the same under this constitution as are now established, or as from time to time may be
+prescribed by law.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 008.0 RI 1843 ***
+ARTICLE VIII
+OF ELECTIONS
+
+*** SSTART 001.0 008.0 0 RI 1843 ***
+SECTION 1. The governor, lieutenant-governor, senators, representatives, secretary of state,
+attorney-general and general treasurer, shall be elected at the town, city, or ward meetings, to be
+holden on the first Wednesday of April, annually; and shall severally hold their offices for one
+year, from the first Tuesday of May next succeeding, and until others are legally chosen, and duly
+qualified to fill their places. If elected or qualified after the said first Tuesday of May, they shall
+hold their offices for the remainder of the political year, and until their successors are qualified to
+act.
+*** SEND ***
+
+*** SSTART 002.0 008.0 0 RI 1843 ***
+SEC. 2. The voting for governor, lieutenant-governor, secretary of state, attorney-general, general
+treasurer and representative to congress, shall be by ballot; senators and representatives to the
+general assembly, and town or city officers, shall be chosen by ballot, upon demand of any seven
+persons entitled to vote for the same; and in all cases where an election is made by ballot or paper
+vote, the manner of balloting shall be the same as is now required in voting for general officers,
+until otherwise prescribed by law.
+*** SEND ***
+
+*** SSTART 003.0 008.0 0 RI 1843 ***
+SEC. 3. The names of the persons voted for as governor, lieutenant-governor, secretary of state,
+attorney-general and general treasurer shall be placed upon one ticket; and all votes for these
+officers shall, in open town or ward meetings, be sealed up by the moderators and town clerks
+and by the warden and ward clerks, who shall certify the same and deliver or send them to the
+secretary of state; whose duty it shall be securely to keep and deliver the same to the grand com-
+
+mittee, after the organization of the two houses at the annual May session; and it shall be the duty
+of the two houses at said session, after their organization, upon the request of either house, to join
+in grand committee, for the purpose of counting and declaring said votes, and of electing other
+officers.
+*** SEND ***
+
+*** SSTART 004.0 008.0 0 RI 1843 ***
+SEC. 4. The town and ward clerks shall also keep a correct list or register of all persons voting
+for general officers, and shall transmit a copy thereof to the general assembly, on or before the
+first day of said May session.
+*** SEND ***
+
+*** SSTART 005.0 008.0 0 RI 1843 ***
+SEC. 5. The ballots for senators and representatives in the several towns shall, in each case, after
+the polls are declared to be closed, be counted by the moderator, who shall announce the result
+and the clerk shall give certificates to the persons elected. If, in any case, there be no election, the
+polls may be reopened, and the like proceedings shall be had until an election shall take place:
+Provided, however, that an adjournment or adjournments of the election may be made to a time
+not exceeding seven days from the first meeting.
+*** SEND ***
+
+*** SSTART 006.0 008.0 0 RI 1843 ***
+SEC. 6. In the city of Providence, the polls for senator and representatives shall be kept open
+during the whole time of voting for the day, and the votes in the several wards shall be sealed up
+at the close of the meeting by the wardens and ward clerks in Open ward meeting, and afterwards
+delivered to the city clerk. The mayor and aldermen shall proceed to count said votes within two
+days from the day of election; and if no election of senator and representatives, or if an election
+of only a portion of the representatives shall have taken place, the mayor and aldermen shall
+order a new election, to be held not more than ten days from the day of the first election and so
+on until the election shall be completed. Certificates of election shall be furnished by the city
+clerk to the persons chosen.
+*** SEND ***
+
+*** SSTART 007.0 008.0 0 RI 1843 ***
+SEC. 7. If no person shall have a majority of votes for governor, it, shall be the duty of the grand
+committee to elect one by ballot from the two persons having the highest number of votes for the
+office. except when such a result is produced by rejecting the entire vote of any town, city, or
+ward, for informality or illegality, in which case a new election by the electors throughout the
+state shall be ordered; and in case no person shall have a majority of votes for lieutenant-
+governor, it shall be the duty of the grand committee to elect one by ballot from the two persons
+having the highest number of votes for the office.
+*** SEND ***
+
+*** SSTART 008.0 008.0 0 RI 1843 ***
+SEC. 8. In case an election of the secretary of state, attorney-general, or general treasurer, should
+fail to be made by the electors at the annual election, the vacancy or vacancies shall be filled by
+the general assembly in grand committee, from the two candidates for such office having the
+greatest number of the votes of the electors. Or, in case of a vacancy in either of said offices from
+other causes, between the sessions of the general assembly, the governor shall appoint some
+person to fill the same until a successor elected by the general assembly is qualified to act; and in
+such case, and also in all other cases of vacancies not otherwise provided for, the general
+assembly may fill the same in any manner they may deem proper.
+*** SEND ***
+
+*** SSTART 009.0 008.0 0 RI 1843 ***
+SEC. 9. Vacancies from any cause in the senate or house of representatives may be filled by a
+new election.
+*** SEND ***
+
+*** SSTART 010.0 008.0 0 RI 1843 ***
+SEC. 10. In all elections held by the people under this constitution, a majority of all the electors
+voting shall be necessary to the election of the persons voted for.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 009.0 RI 1843 ***
+
+ARTICLE IX
+OF QUALIFICATIONS FOR OFFICE
+
+*** SSTART 001.0 009.0 0 RI 1843 ***
+SECTION 1. No person shall be eligible to any civil office, (except the office of school
+committee,) unless he be a qualified elector for such office.
+*** SEND ***
+
+*** SSTART 002.0 009.0 0 RI 1843 ***
+SEC. 2. Every person shall be disqualified from holding any office to which he may have been
+elected, if he be convicted of having offered, or procured any other person to offer, any bribe to
+secure his election, or the election of any other person.
+*** SEND ***
+
+*** SSTART 003.0 009.0 0 RI 1843 ***
+SEC. 3. All general officers shall take the following engagement before they act in their
+respective offices, to wit: You ____ being by the free vote of the electors of this State of Rhode
+Island and Providence Plantations, elected unto the place of ______do solemnly swear (or affirm)
+to be true and faithful unto this state, and to support the constitution of this state and of the
+United States; that you will. faithfully and impartially discharge all the duties of your aforesaid
+office to the best of your abilities, according to law: So help you God. Or, this affirmation you
+make and give upon the peril of the penalty of perjury.
+*** SEND ***
+
+*** SSTART 004.0 009.0 0 RI 1843 ***
+SEC. 4. The members of the general assembly, the judges of all the courts, and all other officers;
+both civil and military, shall be bound by oath or affirmation to support this constitution and the
+constitution of the United States.
+*** SEND ***
+
+*** SSTART 005.0 009.0 0 RI 1843 ***
+SEC. 5. The oath or affirmation shall be administered to the governor, lieutenant-governor,
+senators and representatives, by the secretary of state, or, in his absence, by the attorney-general.
+The secretary of state, attorney-general, and general treasurer shall be engaged by the governor,
+or by a justice of the supreme court.
+*** SEND ***
+
+*** SSTART 006.0 009.0 0 RI 1843 ***
+SEC. 6. No person holding any office under the government of the United States, or of any other
+state or country, shall act as a general officer, or as a member of the general assembly, unless at
+the time of taking his engagement he shall have resigned his office under such government; and
+if any general officer, senator, representative or election and engagement, accept any appointment
+under any other government, his office under this shall be immediately  vacated; but this
+restriction shall not apply to any person appointed to take depositions or acknowledgment of
+deeds, or other legal instruments, by the authority of any other state or country.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 010.0 RI 1843 ***
+ARTICLE X 
+OF THE JUDICIAL POWER
+
+*** SSTART 001.0 010.0 0 RI 1843 ***
+SECTION 1. The judicial power of this state shall be vested in one supreme court, and in such
+inferior courts as the general assembly may, from time to time, ordain and establish.
+*** SEND ***
+
+*** SSTART 002.0 010.0 0 RI 1843 ***
+SEC. 2. The several courts shall have such jurisdiction as may from time to time be prescribed by
+law. Chancery powers may be conferred on the supreme court, but on no other court to any greater
+extent, than is now provided by law.
+*** SEND ***
+
+*** SSTART 003.0 010.0 0 RI 1843 ***
+SEC. 3. The judges of the supreme court shall, in all trials, instruct the jury in the law. They shall
+also give their written opinion upon any question of law whenever requested by the governor, or by
+either house of the general assembly.
+*** SEND ***
+
+*** SSTART 004.0 010.0 0 RI 1843 ***
+SEC. 4. The judges of the supreme court shall be elected by the two houses in grand committee.
+Each judge shall hold his office until his place be declared vacant by a resolution of the general
+assembly to that effect, which resolution shall be voted for by a majority of all the members elected
+to the house in which it may originate, and be concurred in by the same majority of the other house.
+such resolution shall not be entertained at any other than the annual session for the election of public
+officers; and in default of the passage thereof at said session, the judge shall hold his place as is
+herein provided. But a judge of any court shall he removed front office if, upon impeachment he
+shall be found guilty of any official misdemeanor.
+*** SEND ***
+
+*** SSTART 005.0 010.0 0 RI 1843 ***
+SEC. 5. In case of vacancy by death, resignation, removal from the state or from office, refusal or
+inability to serve of any judge of the supreme court, the office may be filled by the grand committee,
+until the next annual election, and the judge then elected shall hold his office as before provided. In
+cases of impeachment or temporary absence, or inability, the governor may appoint a person to
+discharge the duties of the office during the vacancy caused thereby.
+*** SEND ***
+
+*** SSTART 006.0 010.0 0 RI 1843 ***
+SEC. 6. The judges of the supreme court shall receive a compensation for their services, which shall
+not be diminished during their continuance in office.
+*** SEND ***
+
+*** SSTART 007.0 010.0 0 RI 1843 ***
+SEC. 7. The towns of New Shoreham and Jamestown may continue to elect their wardons as
+heretofore. The other towns and the city of Providence may elect such number of justices of the
+peace, resident therein, as they may deem proper. The jurisdiction of said justices and wardens shall
+be regulated by law. The justices shall be commissioned by the governor.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 011.0 RI 1843 ***
+ARTICLE XI
+OF IMPEACHMENTS
+
+*** SSTART 001.0 011.0 0 RI 1843 ***
+SECTION 1. The house of representatives shall have the sole power of impeachment. A vote of two
+thirds of all the members elected shall be required for an impeachment of the governor. Any officer
+impeached shall thereby be suspended from office, until judgment in the case shall have been
+pronounced.
+*** SEND ***
+
+*** SSTART 002.0 011.0 0 RI 1843 ***
+SEC. 2. All impeachments shall be tried by the senate; and when sitting for that purpose, they shall
+be under oath or affirmation. No person shall be convicted except by vote of two thirds of the
+members elected. When the governor is impeached, the chief or presiding justice of the supreme
+court, for the time being, shall preside, with a casting vote in all preliminary questions.
+*** SEND ***
+
+*** SSTART 003.0 011.0 0 RI 1843 ***
+SEC. 3. The governor and all other executive and judicial officers shall be liable to impeachment;
+but judgment in such cases shall not extend further than to removal from office. The person
+convicted shall, nevertheless, be liable to indictment, trial, and punishment, according to law.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 012.0 RI 1843 ***
+
+ARTICLE XII.
+OF EDUCATION
+
+*** SSTART 001.0 012.0 0 RI 1843 ***
+SECTION 1. The diffusion of knowledge, as well as of virtue, among the people, being essential
+to the preservation of their rights and liberties, it shall be the duty of the general assembly to
+promote public schools, and to adopt all means which they may deem necessary and proper to
+secure to the people the advantages and opportunities of education.
+*** SEND ***
+
+*** SSTART 002.0 012.0 0 RI 1843 ***
+SEC. 2. The money which now is or which may hereafter be appropriated by law for the
+establishment of a permanent fund for the support of public schools, shall be securely invested,
+and remain a perpetual fund for that purpose.
+*** SEND ***
+
+*** SSTART 003.0 012.0 0 RI 1843 ***
+SEC. 3. All donations for the support of public schools, or for other purposes of education which
+may be received by the general assembly, shall be applied according to the terms prescribed by
+the donors.
+*** SEND ***
+
+*** SSTART 004.0 012.0 0 RI 1843 ***
+SEC. 4. The general assembly shall make all necessary provisions by law for carrying this article
+into effect, they shall not divert said money or fund from the aforesaid uses, nor borrow,
+appropriate, or use the same, or any part thereof for any other purpose under any pretense
+whatsoever.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 013.0 RI 1843 ***
+ARTICLE XIII
+OF AMENDMENTS
+
+The general assembly may propose amendments to this constitution by the votes of a majority of
+all the members elected to each house. Such propositions for amendment shall be published in
+the newspapers, and printed copes of them shall be sent by the secretary of state, with the names
+of all the members who shall have voted thereon with the yeas and nays, to all the town and city
+clerks in the state. The said propositions shall be, by said clerks, inserted in the warrants or
+notices by them issued, for warning the next annual town and ward meetings in April; and the
+clerks shall read said propositions to the electors when thus assembled, with the names of all the
+representatives and senators who shall have voted thereon, with the yeas and nays, before the
+election of senators and representatives shall be had. If a majority of all the members elected to
+each house at said annual meeting, shall approve any proposition thus made, the same shall be
+published and submitted to the electors the mode provided in the act of approval; and if then
+approved by three fifths of the electors of the state present and voting thereon in town and ward
+meetings, it shall become a part of the constitution of the state.
+*** AEND ***
+
+*** ASTART 014.0 RI 1843 ***
+ARTICLE XIV
+OF THE ADOPTION OF THE CONSTITUTION
+
+*** SSTART 001.0 014.0 0 RI 1843 ***
+SECTION 1. This constitution, if adopted, shall go into operation on the first Tuesday of May, in
+the year one thousand eight hundred and forty -three. The first election of governor, lieutenant-
+governor, secretary of state, attorney-general and general treasurer, and of senators and
+representatives under said constitution, shall be had on the first Wednesday of April next
+preceding, by the electors qualified under said constitution. And the town and ward meetings
+therefor shall be warned and conducted as is now provided by law. All civil and military officers
+now elected, or who shall hereafter be elected, by the general assembly, or other competent
+authority before the said first Wednesday of April, shall hold their offices and may exercise their
+powers until the said first Tuesday of May, or until their successors shall be qualified to act. All
+statutes, public and private, not repugnant to this constitution, shall continue in force until they
+expire by their own limitation, or are repealed by the general assembly . All charters, contracts
+judgments, actions and rights of action shall be as valid as if this constitution had not been made.
+The present government shall exercise all the powers with which it is now clothed, until the said
+first Tuesday of May, one thousand eight hundred and forty-three, and until the government
+under this constitution is duly organized.
+*** SEND ***
+
+*** SSTART 002.0 014.0 0 RI 1843 ***
+SEC. 2. All debts contracted and engagements entered into, before the adoption of this
+constitution, shall be as valid against the state as if this constitution had not been adopted.
+*** SEND ***
+
+*** SSTART 003.0 014.0 0 RI 1843 ***
+SEC .3. The supreme court, established by this constitution, shall have the same jurisdiction as
+the supreme judicial court at present established, and shall have jurisdiction of all causes which
+may be appealed to, or pending in the same; and shall be held at the same times and places, and
+in each county, as the present supreme judicial court , until otherwise prescribed by the general
+assembly.
+*** SEND ***
+
+*** SSTART 004.0 014.0 0 RI 1843 ***
+SEC. 4. The towns of New Shoreham and Jamestown shall continue to enjoy the exemptions
+from military duty which they now enjoy, until otherwise prescribed by law.
+Done in convention, at East Greenwich, this fifth day of November, A. D., one thousand eight
+hundred and forty-two.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9016.0 RI 1843 ***
+
+JAMES FENNER, President.
+HENRY Y. CRANSTON, Vice-Pres't.
+THOMAS A. JENCKES,
+WALTER W. UPDIKE,
+Secretaries                                                      
+
+*** AEND ***
+
+
+ARTICLES OF AMENDMENT
+
+*** MSTART 001 004.0 008.0 0 RI 1843 1854 ***
+
+AMENDMENT 1
+ARTICLE 1
+
+Section 4. It shall not be necessary for the town or ward clerks to keep and transmit to the
+general assembly a list or register of all persons voting for general officers; but the general
+assembly shall have power to pass such laws on the subject as they may deem expedient.
+
+[November, 1854; Article 8, Section 4]
+
+*** MEND ***
+
+*** MSTART 002 013.0 007.0 0 RI 1843 1854 ***
+
+AMENDMENT 2
+ARTICLE 2
+
+Section 13. The governor, by and with the advice and consent of the senate, shall hereafter
+exclusively exercise the pardoning power, except in cases of impeachment, to the same extent as
+such power is now exercised by the general assembly.
+
+[November, 1854; Article 7; this amendment creates Section 13 in Article 7]
+
+*** MEND ***
+
+*** MSTART 003 003.0 004.0 0 RI 1843 1854 ***
+
+AMENDMENT 3
+ARTICLE 3
+
+Section 3. There shall be one session of the general assembly, holden annually, commencing on
+the last Tuesday in May, at Newport, and an adjournment from the same shall be holden annually
+at Providence.
+
+[November, 1854; Article 4, Section 3; annulled by Amendment XII to the 1843 RI Constitution]
+
+*** MEND ***
+
+*** MSTART 004 001.0 9099.0 0 RI 1843 1864 ***
+
+AMENDMENT 4
+ARTICLE 4
+
+Electors in this state who, in time of war, are absent from the state, in the actual military service
+of the United States , being otherwise qualified, shall have a right to vote in all elections in the
+state for electors of president and vice-president of the United States, representatives in
+Congress, and general officers of the state. The general assembly shall have full power to provide
+by law for carrying this, article into effect; and until such provision shall be made by law, every
+such absent elector on the day of such elections, may deliver a written or printed ballot, with the
+names of the persons voted for thereon, and his christian and surname and his voting residence in
+the state, written at length on the back thereof, to the officer commanding the regiment or
+company to which he belongs; and all such ballots, certified by such commanding officer to have
+been given by the elector whose name is written thereon, and returned by such commanding
+officer to the. secretary of state within the time prescribed by law for counting the votes in such
+elections, shall be received and counted with the same effect as if given by such elector in open
+town, ward, or district meeting; and the clerk of each town or city, until otherwise provided by
+law, shall, within five days after any such election, transmit to the secretary of state a certified list
+of the names of all such electors on their respective voting lists.
+
+[August 1864; Annulled November 4, 1930 by Amendment 21 of the Articles of Amendment]
+
+*** MEND ***
+
+*** MSTART 005 002.0 9099.0 0 RI 1843 1886 ***
+
+AMENDMENT 5
+ARTICLE 5
+
+The manufacture and sale of intoxicating liquors to be used as a beverage shall be prohibited.
+The general assembly shall provide by law for carrying this article into effect.
+
+[April 7, 1886; Annulled by Amendment IX of the Articles of Amendment, passed June 20,
+1892] 
+
+*** MEND ***
+
+*** MSTART 006 003.0 9099.0 0 RI 1843 1886 ***
+
+AMENDMENT 6
+ARTICLE 6
+
+All soldiers and sailors of foreign birth, citizens of the United States, who served in the army or
+navy of the United States from this state in the late civil war, and who were honorably discharged
+from such service, shall have the right to vote on all questions in all legally organized town,
+district or ward meetings, upon the same conditions and under and subject to the same
+restrictions as native born citizens.
+
+[April 7, 1886; Made obsolete by Amendment VII of the Articles of Amendment, Section 1]
+
+*** MEND ***
+
+*** MSTART 007 002.0 002.0 0 RI 1843 1888 ***
+
+AMENDMENT 7
+
+
+SECTION 2. Every male citizen of the United States of the age of twenty-one years who has had
+his residence and home in this state for two years, and in the town or city in which he may offer
+to vote six months next preceding the time of his voting, and whose name shall be registered in
+the town or city where he resides on or before the last day of December, in the year next
+preceding the time. of his voting, shall have a right to vote in the election of all civil officers and
+on all questions in all legally organized town or ward meetings: Provided, that no person shall at
+any time be allowed to vote in the election of the city council of any city, or upon any proposition
+to impose a tax, or for the expenditure of money in any town or city unless he shall within the
+year next preceding have paid a tax assessed upon his property therein, valued at least at one
+hundred and thirty-four dollars.
+
+
+
+[April 4, 1888, Article 2, Section 2]
+
+*** MEND ***
+
+*** MSTART 008 003.0 002.0 0 RI 1843 1888 ***
+
+AMENDMENT 8
+
+
+The assessors of each town and city shall annually assess upon every person who, if registered,
+would be qualified to vote, a tax of $1, or such sum as with his other taxes shall amount to $1,
+which tax shall be paid into the treasury of such town or city and be applied to the support of the
+public schools therein: Provided, that such tax assessed upon any person who has performed
+military duty shall be remitted for the year he shall perform such duty; and said tax assessed upon
+any mariner for any year while he is at sea, or upon any person who by reason of extreme poverty
+is unable to pay said tax, shall upon application of such mariner or person be remitted. The
+general assembly shall have power to provide by law for the collection and remission of said tax.
+
+
+
+[April 4, 1888; Article 2, Section 3]
+
+*** MEND ***
+                                                                 
+*** MSTART 009 002.0 9099.0 0 RI 1843 1889 ***
+
+AMENDMENT 9
+Amendment V of the amendments to the constitution of this state is hereby annulled.
+
+[Passed on June 20, 1889, Repeals Amendment 5 of the Articles of Amendment]
+
+[This is Wallis Amendment #005]
+
+*** MEND ***
+
+*** MSTART 010 017.0 004.0 0 RI 1843 1892 ***
+
+AMENDMENT 10
+
+SECTION 17. Hereafter the general assembly may provide by general law for the creation and
+control of corporations: Provided, however  that no corporation shall be created with the power
+to exercise the right of eminent domain, or to acquire franchises in the streets and highways of
+towns and cities, except by special act of the general assembly upon a petition for the same, the
+pendency whereof shall be notified as may be required by law.
+
+
+[November 8, 1892; Article 4, Section 17]
+
+*** MEND ***
+
+*** MSTART 011 010.0 008.0 0 RI 1843 1893 ***
+
+AMENDMENT 11
+
+SECTION 10. In all elections held by the people for state, city, town, ward, or district officers,
+the person or candidate receiving the largest number of votes cast shall be declared elected.
+
+Part 2. This amendment shall take in the constitution of the state the place of section 10 of article
+VIII, "Of elections," which said section is hereby annulled.
+
+[November 28, 1893; Amends Article 8, Section 10]
+                                                                 
+*** MEND ***
+
+*** MSTART 012 003.0 004.0 0 RI 1843 1900 ***
+
+AMENDMENT 12
+     
+SECTION 1. There shall be a session of the general assembly at Providence commencing on the
+first Tuesday of January in each year. The senators and representatives shall severally receive the
+sum of five dollars, and the speaker of the house of representatives ten dollars, for every day of
+actual attendance, and eight cents per mile for traveling expenses, in going to and returning from
+the general assembly: Provided, that no compensation or mileage shall be allowed any senator or
+representative for more than sixty days allowance in any calendar year.  The general assembly
+shall regulate the compensation of the governor and of all other officers, subject to the limitations
+contained in the constitution.
+
+[November 6, 1900; Article 4, Section 3; This amendment also annuls Amendment III, which
+had amended Article 4, Section 3] 
+
+*** MEND ***
+
+*** MSTART 013 000.0 008.0 0 RI 1843 1900 ***
+
+AMENDMENT 13
+
+[Article 8 was replaced by a series of amendments passed in 1900, only Article 8, section 10 was
+unamended.  We have numbered the new amended sections sequentially.  That is, section 2 of the
+Article of Amendment XI in the original Rhode Island 1843 Constitution text, is now numbered
+Article 8, section 1.]
+
+[The original text enabling the amendments read as follows: SEC. 12. This amendment shall take
+in the constitution of the state the place of sections 1, 2, 3, 4, 5, 6, 7, 8, and 9 of article VIII, "Of
+elections;" and of section 11 of article IV, " Of the legislative power;" and of article III of the
+amendments to the constitution; which said article and sections, and all other provisions of the
+constitution inconsistent herewith, are hereby annulled.]
+
+
+
+?? Do Sec 11 Art 4, and amendment III have to be repealed too?
+
+*** MEND ***
+
+*** MSTART 014 001.0 008.0 0 RI 1843 1900 ***
+
+AMENDMENT 14
+     
+SEC. 1. The governor, lieutenant-governor, secretary of state, attorney-general, general treasurer,
+and senators and representatives in the general assembly shall be elected at town, ward, and
+district meetings on the Tuesday next after the first Monday in November annually, commencing
+A. D. 1901, and shall severally hold their offices for one year from the first Tuesday of January
+next succeeding their election, and until their successors are elected and qualified.
+
+[Amended November 6, 1900; Article 8, Section 1.  See note to Article 8, Section 0]
+
+*** MEND ***
+
+*** MSTART 015 002.0 008.0 0 RI 1843 1900 ***                    
+
+AMENDMENT 15
+
+When the governor elect shall die, remove from the state, refuse to serve, become insane, or be
+otherwise incapacitated, the lieutenant-governor elect shall be qualified as governor at the begin-
+
+ning of the term for which he was elected. When both the governor and lieutenant -governor
+elect, or either the lieutenant-governor, secretary of state, attorney-general or general treasurer
+elect are so incapacitated, or when there has been a failure to elect any one or more of the officers
+mentioned in this section, the general assembly shall upon its organization meet in grand
+committee and elect some person or persons, to fill the office or offices, as the case may be, for
+which such incapacity exists or as to which such failure to elect occurred. When the general
+assembly shall elect any of said officers because of the failure of any person to receive a plurality
+of the votes cast, the election in each case shall be made from the persons who received the same
+and largest number of votes.
+
+[Amended Nov 6, 1900; Article 8, Section 2; See note to Article 8, Section 0]
+
+*** MEND ***
+
+*** MSTART 016 003.0 008.0 0 RI 1843 1900 ***
+
+AMENDMENT 16
+
+If the offices of governor and lieutenant-governor be both vacant, by reason of death or
+otherwise, they shall be filled by the general assembly in grand committee, and the acting
+governor shall, if the general assembly is not then in session, call a special session thereof for
+that purpose within twenty days after both of said offices become vacant if a stated session is not
+sooner to occur.
+
+[Amended Nov 6, 1900; Article 8, Section 3; See note to Article 8, Section 0]
+
+*** MEND ***
+
+*** MSTART 017 004.0 008.0 0 RI 1843 1900 ***
+
+AMENDMENT 17
+
+In case of a vacancy in the office of secretary of state, attorney-general, or general treasurer from
+any cause, the general assembly in grand committee shall elect some person to fill the. same:
+Provided, that if such vacancy occurs when the general assembly is not in session the governor
+shall appoint some person to fill such vacancy until a successor elected by the general assembly
+is qualified to act.
+
+[Amended Nov 6, 1900; Article 8, Section 4; See note to Article 8, Section 0]
+
+*** MEND ***
+
+*** MSTART 018 005.0 008.0 0 RI 1843 1900 ***
+
+AMENDMENT 18
+
+When a senator or representative elect shall die, remove from the state, refuse to serve, become
+insane, or be otherwise incapacitated, or when at an election for any senator or representative no
+person shall receive a plurality of the votes cast, a new election shall be held. A vacancy in the
+senate or house of representatives shall be filled at a now election. The general assembly shall
+provide by general law for the holding of such elections at such times as to insure that each town
+and city shall be fully represented in the general assembly during the whole of every session
+thereof so far as is practicable. Every person elected in accordance with this section shall hold his
+office for the remainder of the term or for the full term, as the case may be, of the office which he
+is elected to fill, and until his successor is elected and qualified.
+
+[Nov 6, 1900; Article 8, Section 5; See note to Article 8, Section 0]
+
+*** MEND ***
+
+*** MSTART 019 006.0 008.0 0 RI 1843 1900 ***
+
+AMENDMENT 19
+
+In elections by the general assembly in grand committee the person receiving a majority of the
+votes shall be elected. Every person elected by the general assembly to fill a vacancy, or pursuant
+to section 3 of this article, shall hold his office for the remainder of the term or for the full term,
+as the case may be, and until his successor is elected and qualified.
+
+[Amended Nov 6, 1900; Article 8, Section 6; See note to Article 8, Section 0]
+
+*** MEND ***
+
+*** MSTART 020 007.0 008.0 0 RI 1843 1900 ***
+
+AMENDMENT 20
+
+A quorum of the grand committee shall consist of a majority of all the members of the senate and
+a majority of all the members of the house of representatives duly assembled pursuant to an
+invitation from one of said bodies which has been accepted by the other, and the acceptance of
+which has been communicated by message to the body in which such invitation originated, and
+each house shall be attended by its secretaries and clerks. No act or business of any kind shall be
+done in grand committee other than that which is distinctly specified in the invitation by virtue of
+which such grand committee is assembled, except to take a recess or to dissolve: Provided, that
+the grand committee may appoint a sub-committee of its own members to count any ballots
+delivered to it and report the result of such count.
+
+[Amended Nov 6, 1900; Article 8, Section 7; See note to Article 8, Section 0]
+
+*** MEND ***
+
+*** MSTART 021 008.0 008.0 0 RI 1843 1900 ***
+
+AMENDMENT 21
+
+The governor, lieutenant-governor, secretary of state, attorney-general, general treasurer, and
+senators and representatives in the general assembly in office when this amendment goes into
+effect shall continue to hold their offices, with the powers and duties and subject to the
+limitations prescribed therein for like officers, until the first Tuesday in January, A. D. 1902, and
+until their successors are elected and qualified. Vacancies in their number from any cause shall
+be filled in the manner which is prescribed by law at the time of their occurrence. All officers
+who by the provisions of this amendment are continued in office beyond the states time for which
+they were elected or appointed shall receive a pro rata compensation for their increased term of
+service, based upon the compensation provided for in this amendment or by law.
+
+[Amended Nov 6, 1900; Article 8, Section 8; See note to Article 8, Section 0]
+
+*** MEND ***
+
+*** MSTART 022 009.0 008.0 0 RI 1843 1900 ***
+
+AMENDMENT 22
+
+The first election of officers named in the next preceding section under this amendment shall be
+held upon the Tuesday next after the first Monday in November, A. D. 1901. The town, ward,
+and district meetings therefor shall be warned and conducted, and the result thereof determined,
+authenticated, and declared, in the manner at, that time prescribed by law, and the persons then
+elected shall hold their offices from the said first Tuesday in January, A. D. 1902, and thereafter
+until their successors are elected and qualified.
+
+[Amended Nov 6, 1900; Article 8, Section 9; See note to Article 8, Section 0]
+
+*** MEND ***
+
+*** MSTART 023 010.0 008.0 0 RI 1843 1900 ***
+
+AMENDMENT 23
+
+The general assembly shall provide by law for the registration necessary to qualify persons to
+vote at said first election, which registration shall close on the last day of June, A. D. 1901, and
+after the adoption of this amendment no person of whom registration is or may be required by
+law shall be permitted to vote unless his name shall have been registered in the town or city
+where he resides on or before the last day of June next preceding the time of his voting. For all
+elections by the people held before said Tuesday next after the first Monday in November, A. D.
+1901, the qualifications of the electors shall be such as were required by the constitution and laws
+existing at the time of the adoption of this amendment.
+
+[Amended Nov 6, 1900; Article 8, Section 10; See note to Article 8, Section 0]
+
+*** MEND ***
+
+*** MSTART 024 002.0 010.0 0 RI 1843 1903 ***
+
+AMENDMENT 24
+
+The supreme court shall have final revisor and appellate jurisdiction upon all questions of law
+and equity. It shall have power to issue prerogative writs, and shall also have such other Juris-
+
+diction as may, from time to time, be prescribed by law. A majority of its judges shall always be
+necessary to constitute a quorum. The inferior courts shall have such jurisdiction as may, from
+time to time, be prescribed by law.
+
+The general assembly shall provide by law for carrying this amendment into effect, and until
+such, provision shall be made, the supreme court, as organized at the time of the adoption of this
+amendment, shall continue to have and exercise the same powers and jurisdictions which it shall
+then have under such organization.
+
+[Adopted Nov 6, 1903; Article 10, Section 2]
+
+*** MEND ***
+
+*** MSTART 025 003.0 010.0 0 RI 1843 1903 ***
+
+AMENDMENT 25
+
+The judges of the supreme court shall give their written opinion upon any question of law
+whenever requested by the governor or by either house of the general assembly.
+
+The general assembly shall provide by law for carrying this amendment into effect, and until
+such, provision shall be made, the supreme court, as organized at the time of the adoption of this
+amendment, shall continue to have and exercise the same powers and jurisdictions which it shall
+then have under such organization.
+
+[Adopted Nov 6, 1903; Article 10, Section 3]
+
+*** MEND ***
+
+*** MSTART 026 003.0 014.0 0 RI 1843 1903 ***
+
+AMENDMENT 26
+                                                                 
+Section 3 of article XIV of the constitution of the state, entitled "Of the adoption of this
+constitution," is hereby annulled.
+
+The general assembly shall provide by law for carrying this amendment into effect, and until
+such, provision shall be made, the supreme court, as organized at the time of the adoption of this
+amendment, shall continue to have and exercise the same powers and jurisdictions which it shall
+then have under such organization.
+
+[Adopted Nov 6, 1903; Article 14, Section 3]
+
+*** MEND ***
+
+*** MSTART 027 001.0 005.0 0 RI 1843 1909 ***
+
+AMENDMENT 27
+
+SECTION 1. The house of representatives shall never exceed one hundred members, and shall be
+constituted on the basis of population, always allowing one, representative for a fraction
+exceeding half the ratio; but each town and city shall always be entitled to at least one member;
+and no town or city shall have more than one-fourth of the whole number of members. The
+general assembly may, after any new census taken by the authority of the United States or this
+state, re-apportion the representation in conformity with the foregoing provisions. As soon as this
+amendment goes into effect, the general assembly shall divide each town and city into as many
+districts as it is entitled to representatives, and after each census, or as occasion may require, the
+general assembly may so divide each town and city, and one representative shall be elected from
+each district by the qualified electors thereof. Such districts shall be as nearly equal in population
+and as compact in territory as possible.
+.
+Sec. 2. This amendment shall take, in the constitution. of the state, the place of Section 1of
+Article V, "Of the house of representatives," which said section And all other provisions of the
+constitution inconsistent herewith are hereby annulled.
+
+Adopted Nov 2, 1909; Article 5, Section 1]
+
+*** MEND ***
+
+*** MSTART 028 002.0 006.0 0 RI 1843 1909 ***
+
+AMENDMENT 28
+
+The lieutenant-governor shall preside in the senate and in grand committee. The presiding officer
+of the senate and gad committee shall have a right to vote in case of equal division, but not
+otherwise.
+
+This amendment shall take, in the constitution of the state, the place of Section 2 of Article VI,
+"Of the senate," which said sections and all other provisions of the constitution inconsistent
+herewith are hereby annulled.
+
+[Adopted Nov 2, 1909; Article 6, Section 2]
+
+*** MEND ***
+
+*** MSTART 029 003.0 006.0 0 RI 1843 1909 ***
+
+AMENDMENT 29
+
+If, by reason of death, resignation, absence, or other cause, the lieutenant-governor is not present,
+to preside in the senate, the senate shall elect one of  their own members to preside during such
+absence-or vacancy; and until such election is made by  the senate, the secretary of state shall
+preside. The presiding officer of the senate shall preside in grand committee and in joint
+assembly.
+
+This amendment shall take, in the constitution of the state, the place of Section 3 of Article VI,
+"Of the senate," which said sections and all other provisions of the constitution inconsistent
+herewith are hereby annulled.
+
+[Adopted Nov 2, 1909; Article 6, Section 3]
+
+*** MEND ***
+
+*** MSTART 030 005.0 9099.0 0 RI 1843 1909 ***
+
+AMENDMENT 30
+
+Every bill, resolution, or vote (except such as relate to adjournment, the organization or conduct
+of either or both houses of the general assembly, and resolutions, proposing amendment to the
+constitution) which shall have passed both houses of the general assembly shall be presented to
+the governor. If he approve it he shall sign it, and thereupon it shall become - operative, but if he
+does not approve it he shall return it, accompanied by his objections in writing, to the house in
+which it originated, which shall enter his objections in full upon its journal and proceed to
+reconsider it. If, after such reconsideration, three-fifths of the members present and voting in that
+house shall vote to pass the measure, it shall be sent, with the objections, to the other house, by
+which it shall likewise be reconsidered, and if approved by three-fifths of the members present
+and voting in that house, it shall become operative in the same manner as if the governor had
+approved it, but in such cases the votes of both houses shall be determined by ayes and nays and
+the names of the members voting for and against the measure shall be entered upon the journal of
+each house, respectively. If the measure shall not be returned by the governor within six (6) days
+(Sundays excepted) after it shall have been presented to him, the sine shall become operative
+unless the general assembly, by adjournment, prevents its return, in which case it shall become
+operative unless transmitted by the governor to the secretary of state, with his disapproval in
+writing, within ten days after such adjournment.
+
+[Adopted Nov 2, 1909; Adds absent provision from 1843 RI Constitution]
+
+*** MEND ***
+
+*** MSTART 031 002.0 011.0 0 RI 1843 1911 ***
+
+AMENDMENTS 31
+
+The governor, lieutenant-governor, secretary of state, attorney-general, general treasurer, and
+senators and representatives in the general assembly, shall be sleeted-at town, ward and district
+meetings on the Tuesday next after the first Monday in November, biennially, commencing A. D.
+1912, and shall severally hold their offices for two years from the first Tuesday of January next
+succeeding their election and until their successors are elected and qualified. 
+
+This amendment shall take, in the constitution of the state, the place of section 2 of article XI of
+articles of amendment to the constitution, which said section, and all other provisions the
+constitution inconsistent herewith, are hereby annulled.
+
+[Adopted Nov 7, 1911; Article 11, Section 2]
+
+*** MEND ***
+
+*** MSTART 032 006.0 9099.0 0 RI 1843 1916 ***
+
+AMENDMENT 32
+
+The general assembly may authorize the acquiring or taking in fee by the state, or by any cities or
+towns, of more land and property than is needed for actual construction in the establishing, laying
+out, widening, extending or relocating of public highways, streets, places, parks or parkways:
+Provided, however, that the additional land and property so authorized to be acquired or taken
+shall be no more in extent than would be sufficient to form suitable building sites abutting on
+such public highway, street, place, park or parkway. After so much of the land. tend property has
+been, appropriated for such public highway, street, place, park or parkway as is needed therefor,
+the a remainder may be held and improved for any public purpose or purposes, or may be sold or
+leased for value with or without suitable restrictions, aid in case of any such sale or lease, the
+person or persons from whom such remainder was taken shall . have the first right to purchase or
+lease the same upon such terms the state or city or town is willing to sell or lease the same.
+
+[Adopted Nov 7, 1916]
+
+*** MEND ***
+
+*** MSTART 033 010.0 008.0 0 RI 1843 1928 ***
+
+AMENDMENT 33                     
+
+Section 1. The general assembly shall provide by law for the registration necessary to qualify
+persons, to vote, which registration shall. extend over a biennial period. The first registration
+period shall begin on the first day of July, A. D. 1928, and shall end on the last day of June, A..
+D. 1930. And thereafter the biennial period for registration shall begin and end in like manner.
+After the adoption of this amendment no person of whom registration is or may be required shall
+be permitted to vote unless he shall have been registered in the town or city where he resides on
+or before the last day of June in the biennial period next preceding the time of his voting.
+
+At all town and city elections, or special state, and congressional district elections, or elections to
+fill vacancies, held after the general state election in November, A. D. 1928, and before the
+general state election in November, A. D. 1930, the registration qualifications and period shall be
+the same as before the adoption of this amendment.
+
+SEC. 2. This amendment shall take in the constitution of the state the place of section 11, of
+Article XI of Amendments to the Constitution, which said section and all other provisions of the
+constitution inconsistent herewith are hereby annulled.
+                                 
+[Adopted Nov 6, 1928; Article 8, section 10; See note to Article 8, section 0 coded as
+Amendment 13 in the database]
+
+*** MEND ***
+
+*** MSTART 034 001.0 006.0 0 RI 1843 1928 ***
+
+AMENDMENT 34
+                                 
+SECTION 1. The senate shall consist of the lieutenant governor and of one senator from each
+town or city in the state; provided, however, that any town or city having more than twenty-five
+thousand qualified electors, shall be entitled to an additional senator for each additional
+twenty-five thousand qualified electors, always allowing one additional senator for a fraction
+exceeding half the ratio; but no town or city shall be entitled to more than six senators. Any town
+or city entitled to more than one senator shall be divided into senatorial districts. The general
+assembly may after any presidential election reapportion the senate in accordance with the
+.foregoing provisions. As soon as this amendment goes into effect, the general assembly shall
+divide any town or city into as many districts as it is entitled to senators, and one senator shall be
+elected from each district by the qualified electors thereof. Such districts shall be as nearly equal
+in number of qualified electors and as compact in territory as possible
+Sec. 2. This amendment shall take, in the constitution of the state, the place of section 1 of
+Article VI, "Of the Senate," which said section and all other provisions of the constitution
+inconsistent herewith are hereby annulled.
+
+[Adopted Nov 6, 1928; Article 6, Section 1]
+
+*** MEND ***
+
+*** MSTART 035 002.0 002.0 0 RI 1843 1928 ***
+                                 
+AMENDMENT 35
+
+SECTION 1. Every citizen of the United States of the age of twenty-one years, who has had his
+residence and, home in this state for two years, and in the town or city in which he may offer to
+vote six months next preceding the time of his voting, and whose name shall be registered in the
+town or city where he resides on or before the last day of June in the registration period next
+preceding the time of his voting shall have a right to vote in the election of all civil officers and
+on all questions in all legally organized town, ward, or district meetings;
+
+PROVIDED, That no person shall at any time be allowed to vote upon any proposition to impose
+a tax or for the expenditure of money in any town, as distinguished from a city, unless he shall be
+qualified under section 1 of article II of this constitution, or unless he shall within the year next
+preceding have paid a tax assessed upon his personal property in said town, of the value of at
+least one hundred and thirty-four dollars; and
+
+PROVIDED, That if the general assembly shall at any time vest the authority to impose taxes and
+for the expenditure of money in any town or city in a budget commission, such commission shall
+consist of not less than five nor more than fifteen electors, of such qualifications and with such
+powers as the general assembly may prescribe, to be elected by the qualified electors of such
+town or city; and
+
+PROVIDED, That no such budget commission shall be created for a town, as distinguished from
+a city, unless the electors thereof in a financial town meeting regularly called, due notice of such
+proposition appearing in the call for such meeting, shall by a majority vote of those present and
+voting, vote to submit such proposition to the electors of such town qualified to vote upon any
+proposition to impose a tax or for the expenditure of money, at the next regular election of town
+officers, and unless such electors at such election shall by a majority vote of those present and
+voting approve such proposition; and
+
+PROVIDED, That any elector, being otherwise qualified, whose name is on the real estate or the
+personal property voting list of any town or city on the date of the adoption of this article -of'
+amendment by the electors of the state, and any elector, being otherwise qualified, whose name
+shall thereafter be placed upon such list as a real estate or personal property voter, shall have a
+right to vote in the election of all civil officers and on all questions in all legally organized town,
+ward, or district meetings, and to have his name retained on said list without further registration,
+so long as he continues so qualified; and in the event that an elector whose name is on the real
+estate voting list of any town or city at the end of any registration period for voters shall
+thereafter during the next succeeding registration period for voters transfer all his real estate in
+said town or city, as shown by record, his name shall forthwith be transferred to the list of
+registry voters, unless qualified as a personal voter, and such elector shall be entitled to vote as a
+registry voter during the remainder of the then current registration period for voters; and in the
+event that an elector whose name is on the personal property voting list of any town or city at the
+end of any registration period for voters thereafter during the next succeeding registration period
+for voters fails to pay the personal property tax assessed against him, his name shall be
+transferred to the list of registry voters, and such elector shall be entitled to vote as a registry
+voter during the remainder of the then current registration period for voters; and 
+
+PROVIDED, That  the registration period for voters shall include the two years ending June 30th
+next preceding the election of general officers of the state.
+
+SEC. 2. This amendment shall take in the constitution of the state, the place of section 1 of article
+VII of the articles of amendment, adopted April, 1888, which said section and all other
+provisions of the constitution inconsistent herewith are hereby annulled.
+
+[Adopted Nov 6, 1928; Article 2, Section 2]
+[This amendment repeals section 1 of amendment 7 from the Articles of Amendments passed
+April 4, 1888 from the 1843 RI constitution. It had replaced Article 2, section 2.]
+
+*** MEND ***
+
+*** MSTART 036 001.0 9099.0 0 RI 1843 1930 ***
+
+AMENDMENT 36
+
+Article 21
+
+SECTION 1. The electors of this state, who are absent from the state, being otherwise qualified
+to vote at the general election held biennially on the Tuesday next after the first Monday in
+November, shall have the right to vote in all elections in the state for electors of president and
+vice-president of the United States, senators in congress, representatives. in congress, general
+officers of the state, senator and representative in the general assembly from the respective city,
+town, or district in which the elector is duly qualified to vote, and for any other officers whose
+names appear on the state ballot, and also to approve or reject any proposition of amendment to
+the constitution, or other proposition appearing on the state ballot. The general assembly shall
+have full power to provide by law for carrying this article into Effect and any ballot cast under
+the provisions of such. law shall be received and counted with the same effect as if given by such
+elector in open town, ward or district meeting. The general assembly may also provide special
+regulations and manner of voting for those persons who are absent from the state in the actual
+military service of the United States.
+
+SEC. 2. This amendment shall take in the constitution of the state, the place of Article IV of
+articles of amendment to the constitution, which said article and all other provisions of the
+constitution, inconsistent herewith are hereby annulled.
+
+[Adopted Nov 4, 1930; This Replaces Amendment 4 of the Articles of Amendment, passed
+August, 1864]
+[This amendment is later repealed by Article 23 of the Articles of Amendment, passed on Nov 2,
+1948  Amendment 38 in the database]
+
+*** MEND ***
+
+*** MSTART 037 007.0 9099.0 0 RI 1843 1944 ***
+
+AMENDMENT 37
+
+Article 22
+
+SECTION 1. The general assembly is hereby authorized and empowered to enact legislation to
+exempt from the registration requirements of Article XX of the amendments "to the constitution
+members of the armed forces and the merchant marine of the United States in active service
+during the period of such service and for two years thereafter, and also to exempt from such
+requirements during a like period persons absent from the state in the performance of services so
+intimately. connected with military operations as to warrant, in the opinion of the general
+assembly, their being classified in the same category as members of the armed forces; and the
+general assembly is also authorized and empowered to enact legislation prescribing the time,
+place, manner and extent of voting by such members of the armed forces and the merchant
+marine and such other persons during the period of such service and for two years thereafter.
+SEC. 2. This amendment shall supersede all other provisions of the constitution inconsistent
+herewith in their application to the persons described in Section I of this amendment.
+Sec. 3. This amendment shall take effect whenever a majority of electors voting at the special
+election, to, which this amendment is submitted, after adoption stay the constitutional
+convention, shall approve the same.
+
+[Adopted April 11, 1944; Article 2, section 2]
+[This is Article 22 of the Articles of Amendment; it adds to provisions in Article 20 of the
+Articles of Amendment, adopted Nov 5, 1928, which replaced Article 7, section 1 of the Articles
+of Amendment amending Article 2, section 2 of the RI constitution  Amendment 35 in the
+database]
+
+*** MEND ***
+
+*** MSTART 038 001.0 9099.0 0 RI 1843 1948 ***
+
+AMENDMENT 38
+
+Article 23
+
+SECTION 1 . The electors of this state who are absent from the state, or who by reason of  old
+age, physical disability, illness or for other physical infirmities, are unable to vote in person,
+being otherwise qualified to vote at the general election held bi-annually on the Tuesday next
+after the first Monday in November, shall have the right to vote in all elections in the state for
+electors of president and vice president of the United States, United States senators in congress,
+representatives in congress, general officers of the state, senators and representatives in the
+general assembly for the respective city, town or district, in which the elector is duly qualified to
+vote, and for any other officers whose names appear on the state ballot and for any city, town,
+water district officers whose names appear on the respective city or town ballots in the ward or
+district of the city or town in which the elector is duly qualified to vote and also to approve or
+reject any proposition of amendment to the constitution or other propositions appearing on the
+state, city or town ballot. The general assembly shall have full power to provide by law for
+carrying this article into effect and any ballot cast under the provisions of such law
+shall be received and counted with the same effect as if given by such elector in open town: ward
+or district meeting.
+
+SEC. 2 This amendment shall take in the constitution of the state the place of article XXI of
+articles of amendment to the constitution, which said article and all other provisions of the
+constitution inconsistent herewith are hereby annulled: provided however, that the provisions of
+this article shall not construed to amend or repeal article XXII of the article, of amendment to the
+constitution.
+
+[Adopted November 2, 1948; Replaces Article 21 of the Articles of Amendment, passed on Nov
+4, 1930  Amendment 36 in the database which has replaced Article 4 of the Articles of
+Amendment, passed August, 1864.   It is later replaced by Article 34 of the Articles of
+Amendment, passed on Feb 27, 1958]
+
+*** MEND ***
+
+*** MSTART 039 004.0 002.0 0 RI 1843 1950 ***
+
+AMENDMENT 39
+
+SECTION 1. Section -4 of article II Of the constitution of the a state is hereby amended to read
+as follows:
+
+"SEC. 4. No person in the military, naval, marine, or any other service of the United States shall
+he considered as having the required residence by reason of being employed in any garrison,
+barrack, or military naval station in this state: and no pauper. lunatic, person non compos mentis, 
+or person under guardianship shall be permitted to be registered or to vote. Nor shall any person
+convicted of bribery, or of any crime deemed infamous at common law, be permitted to exercise
+that privilege, until he be expressly restored thereto by act of the general assembly." 
+SEC. 2. This amendment shall take in the constitution of the state the place of section 4 of article
+II, "Of the  qualifications of electors," which said section and all other provisions of the
+constitution inconsistent herewith are hereby annulled. 
+
+[ADOPTED NOVEMBER 7, 1950; Article 2, section 4]
+
+*** MEND ***
+
+*** MSTART 040 001.0 002.0 0 RI 1843 1950 ***
+
+AMENDMENT 40
+
+Repealed 
+
+[Repealed Nov 7, 1950; Article 2, section 1 annulled and subsequent Articles of Amendment,
+numbers 18 and 20, and are also hereby annulled by this amendment; see subsequent
+amendments in database, numbers 41 and 42]
+
+*** MEND ***
+
+*** MSTART 041 002.0 002.0 0 RI 1843 1950 ***
+
+AMENDMENT 41
+
+Repealed
+[Repealed Nov 7, 1950; Article 2, section 2 annulled; Article 20 of the Articles of the
+Amendment (Nov 6, 1928) is therefore annulled as well  Amendment 35 in the database.  This
+latter amendment had replaced section 1 of Article 7 of the Articles of Amendment (April 4,
+1888), which had replaced section 2 of Article 2 of the RI Constitution]
+
+*** MEND *** 
+
+*** MSTART 042 010.0 008.0 0 RI 1843 1950 ***
+
+AMENDMENT 42
+
+Repealed
+[Repealed Nov 7, 1950; Article 8, section 10; See note to Article 8, section 0 (Amendment 13 in
+the database)]
+
+[Article 18 of the Articles of Amendment (Nov 6, 1928; Amendment 33 in the database)
+amended Section 11 of Article 11 of the Articles of Amendment (Nov 6, 1900).  This latter
+Amendment rewrote Article 8.  See note to Article 8, section 0 (Amendment 13 in the database)]
+
+*** MEND ***
+
+*** MSTART 043 001.0 002.0 0 RI 1843 1950 ***
+
+AMENDMENT 43
+
+Section 1. Every citizen of the United States, of the age of twenty-one years or over, who has had
+his residence and home in this state for one year and in the town or city in which he may offer to
+vote, six months next preceding the time of voting, and whose name shall be registered in
+accordance with this article and the statutes adopted under its authority in the town or city where
+he resides at least sixty days next preceding the time of his voting shall, except as provided in
+section 2 hereof, have a right to vote in the election of all civil officers and on all questions in all
+legally organized town, ward, or district meeting so long as he continues so qualified. A person
+who has so registered shall not be required to register again so long as he continues to have his
+residence and home in said town or city and continues to be otherwise qualified, provided,
+however, that if a registered voter has not voted at least once at an election, primary, caucus or
+meeting within the five preceding calendar years his registration shall be cancelled, except that
+the registration of no person shall be so cancelled during his service in the armed forces of the
+United States. A voter whose registration has been so cancelled shall not thereafter be eligible to
+vote unless he shall again register in accordance with this article and the statutes adopted under
+its authority.
+
+Sec 2. No person shall, except as provided in section 3 hereof, at any time be allowed to vote
+upon any proposition to impose a tax or for the expenditure of money in any town, as
+distinguished from a city, unless he shall either (1) be really and truly possessed in his own right
+of real estate in such town of the value of one hundred thirty-four dollars over and above all
+incumbrances, or which shall rent for seven dollars per annum over and above any rent reserved
+or the interest of any incumbrances thereon, being an estate in fee-simple, fee-tail, for the life of
+any person, or an estate in reversion or remainder, which qualifies no other person to vote, the
+conveyance of which estate, if by deed, shall have been recorded at least ninety days prior to the
+time of voting or (2) shall within the year next preceding have paid a tax assessed upon his
+personal property in said town of the value of at least one hundred thirty-four dollars.
+
+Sec. 3. If the general assembly shall at any time vest the authority to impose taxes and for the
+expenditure of money in any town or city in a budget commission, such commission shall consist
+of not less than five nor more than fifteen electors, of such qualifications and with such powers
+as the general assembly may prescribe, to be elected by the qualified electors of such town or
+city. No such budget commission shall be created for a town, as distinguished from a city, unless
+the electors thereof in a financial town meeting regularly called, due notice of such proposition
+appearing in the call for such meeting, shall by a majority vote of those present and voting, vote
+to "submit such proposition to the electors of such town qualified to vote upon any proposition to
+impose a tax or for the expenditure of money, at the next regular election of town officers, and
+unless such electors at such election shall by a majority vote of those present and voting approve
+such proposition.
+
+SEC. 4. The general assembly shall provide by law for a uniform registration of voters who
+possess the qualifications prescribed in this article and shall include in such provisions suitable
+methods of identification, of such voters, by signature or otherwise.
+
+SEC. 5. Until the general assembly shall otherwise prescribe: Whenever any person eligible to
+vote shall register to vote in any town or city he shall be required to sign his name on three
+separate and distinct cards, or in three separate and distinct books or on one or more cards and in
+one or more books making a total of three cards or books in all, and at the time he shall so
+register he shall be given by the official or clerk so registering him an identification card upon
+which such qualified elector shall sign his name in the presence of such official or clerk. The
+general assembly may provide by law that in case any person shall be unable to sign his name
+because of physical incapacity or otherwise he may be exempted from the foregoing provisions in
+regard to signing his name and the general assembly shall provide that in such cases such person
+shall comply with other requirements which shall assist in providing identification of such voter.
+One of said registration calls or books shall at all times be retained in the custody of the town car
+city official or board in whom or in which is vested authority to register voters, one of said
+registration cards or books shall be sent by said town or city official or board to the state official
+or board in whom or in which is vested authority to supervise elections throughout the state and
+one of such registration cards or books shall be sent by said town or city official or board to the
+polling place or meeting at which any votes are to be taken or election, primary or caucus is to be
+held and shall be delivered by said official or board to the moderator of said polling place or
+meeting and shall at all times during the conduct of such election, primary, caucus, or meeting be
+kept in the custody of said moderator, and following the conclusion of such election, primary,
+caucus, or meeting shall be redelivered by the moderator to said town or city official or board.
+
+Sec. 6. In all elections, primaries, caucuses, or meetings held before the first day of July
+occurring next after six, months following the adoption of this amendment, the qualification to
+vote, including the registration qualifications, requirements and periods, shall be the same as
+before the adoption of this amendment. No person shall, however, be qualified to vote in any
+election, primary, caucus or meeting held on or after said first day of July, unless he shall be
+registered under the authority of this article and all voters, whether they have theretofore been
+real estate, personal property or registry voters shall be required to register under the authority of
+this article in order to continue to be qualified to vote after said date.
+
+Sec. 7. This amendment shall take in the constitution of the state the place of section 1 of  article
+II and of articles XVIII and XX of the amendments to said constitution, which said section and
+articles and all other provisions of the constitution inconsistent herewith are hereby annulled;
+provided, however, that nothing contained in this article shall in any way be deemed to modify or
+affect the provisions of article XXII of the amendments to the constitution except that the
+reference therein to article XX of the amendments to the constitution shall be deemed to refer to
+this article.
+
+[Nov 7, 1950; Article 2, section 1 annulled and subsequent Articles of Amendment, numbers 18
+and 20, and are also hereby annulled by this amendment]
+
+[See notes in Amendments 40-42 in the database]
+
+*** MEND ***
+
+*** MSTART 044 002.0 002.0 0 RI 1843 1950 ***
+
+AMENDMENT 44
+
+Section 1. Every citizen of the United States, of the age of twenty-one years or over, who has had
+his residence and home in this state for one year and in the town or city in which he may offer to
+vote, six months next preceding the time of voting, and whose name shall be registered in
+accordance with this article and the statutes adopted under its authority in the town or city where
+he resides at least sixty days next preceding the time of his voting shall, except as provided in
+section 2 hereof, have a right to vote in the election of all civil officers and on all questions in all
+legally organized town, ward, or district meeting so long as he continues so qualified. A person
+who has so registered shall not be required to register again so long as he continues to have his
+residence and home in said town or city and continues to be otherwise qualified, provided,
+however, that if a registered voter has not voted at least once at an election, primary, caucus or
+meeting within the five preceding calendar years his registration shall be cancelled, except that
+the registration of no person shall be so cancelled during his service in the armed forces of the
+United States. A voter whose registration has been so cancelled shall not thereafter be eligible to
+vote unless he shall again register in accordance with this article and the statutes adopted under
+its authority.
+
+Sec 2. No person shall, except as provided in section 3 hereof, at any time be allowed to vote
+upon any proposition to impose a tax or for the expenditure of money in any town, as
+distinguished from a city, unless he shall either (1) be really and truly possessed in his own right
+of real estate in such town of the value of one hundred thirty-four dollars over and above all
+incumbrances, or which shall rent for seven dollars per annum over and above any rent reserved
+or the interest of any incumbrances thereon, being an estate in fee-simple, fee-tail, for the life of
+any person, or an estate in reversion or remainder, which qualifies no other person to vote, the
+conveyance of which estate, if by deed, shall have been recorded at least ninety days prior to the
+time of voting or (2) shall within the year next preceding have paid a tax assessed upon his
+personal property in said town of the value of at least one hundred thirty-four dollars.
+
+Sec. 3. If the general assembly shall at any time vest the authority to impose taxes and for the
+expenditure of money in any town or city in a budget commission, such commission shall consist
+of not less than five nor more than fifteen electors, of such qualifications and with such powers
+as the general assembly may prescribe, to be elected by the qualified electors of such town or
+city. No such budget commission shall be created for a town, as distinguished from a city, unless
+the electors thereof in a financial town meeting regularly called, due notice of such proposition
+appearing in the call for such meeting, shall by a majority vote of those present and voting, vote
+to "submit such proposition to the electors of such town qualified to vote upon any proposition to
+impose a tax or for the expenditure of money, at the next regular election of town officers, and
+unless such electors at such election shall by a majority vote of those present and voting approve
+such proposition.
+
+SEC. 4. The general assembly shall provide by law for a uniform registration of voters who
+possess the qualifications prescribed in this article and shall include in such provisions suitable
+methods of identification, of such voters, by signature or otherwise.
+
+SEC. 5. Until the general assembly shall otherwise prescribe: Whenever any person eligible to
+vote shall register to vote in any town or city he shall be required to sign his name on three
+separate and distinct cards, or in three separate and distinct books or on one or more cards and in
+one or more books making a total of three cards or books in all, and at the time he shall so
+register he shall be given by the official or clerk so registering him an identification card upon
+which such qualified elector shall sign his name in the presence of such official or clerk. The
+general assembly may provide by law that in case any person shall be unable to sign his name
+because of physical incapacity or otherwise he may be exempted from the foregoing provisions in
+regard to signing his name and the general assembly shall provide that in such cases such person
+shall comply with other requirements which shall assist in providing identification of such voter.
+One of said registration calls or books shall at all times be retained in the custody of the town car
+city official or board in whom or in which is vested authority to register voters, one of said
+registration cards or books shall be sent by said town or city official or board to the state official
+or board in whom or in which is vested authority to supervise elections throughout the state and
+one of such registration cards or books shall be sent by said town or city official or board to the
+polling place or meeting at which any votes are to be taken or election, primary or caucus is to be
+held and shall be delivered by said official or board to the moderator of said polling place or
+meeting and shall at all times during the conduct of such election, primary, caucus, or meeting be
+kept in the custody of said moderator, and following the conclusion of such election, primary,
+caucus, or meeting shall be redelivered by the moderator to said town or city official or board.
+
+Sec. 6. In all elections, primaries, caucuses, or meetings held before the first day of July
+occurring next after six, months following the adoption of this amendment, the qualification to
+vote, including the registration qualifications, requirements and periods, shall be the same as
+before the adoption of this amendment. No person shall, however, be qualified to vote in any
+election, primary, caucus or meeting held on or after said first day of July, unless he shall be
+registered under the authority of this article and all voters, whether they have theretofore been
+real estate, personal property or registry voters shall be required to register under the authority of
+this article in order to continue to be qualified to vote after said date.
+
+Sec. 7. This amendment shall take in the constitution of the state the place of section 1 of  article
+II and of articles XVIII and XX of the amendments to said constitution, which said section and
+articles and all other provisions of the constitution inconsistent herewith are hereby annulled;
+provided, however, that nothing contained in this article shall in any way be deemed to modify or
+affect the provisions of article XXII of the amendments to the constitution except that the
+reference therein to article XX of the amendments to the constitution shall be deemed to refer to
+this article.
+
+[Nov 7, 1950; Article 2, section 1 annulled and subsequent Articles of Amendment, numbers 18
+and 20, and are also hereby annulled by this amendment]
+
+[See notes in Amendments 40-42 in the database]
+
+*** MEND ***
+
+
+*** MSTART 045 010.0 008.0 0 RI 1843 1950 ***
+
+AMENDMENT 45
+
+Section 1. Every citizen of the United States, of the age of twenty-one years or over, who has had
+his residence and home in this state for one year and in the town or city in which he may offer to
+vote, six months next preceding the time of voting, and whose name shall be registered in
+accordance with this article and the statutes adopted under its authority in the town or city where
+he resides at least sixty days next preceding the time of his voting shall, except as provided in
+section 2 hereof, have a right to vote in the election of all civil officers and on all questions in all
+legally organized town, ward, or district meeting so long as he continues so qualified. A person
+who has so registered shall not be required to register again so long as he continues to have his
+residence and home in said town or city and continues to be otherwise qualified, provided,
+however, that if a registered voter has not voted at least once at an election, primary, caucus or
+meeting within the five preceding calendar years his registration shall be cancelled, except that
+the registration of no person shall be so cancelled during his service in the armed forces of the
+United States. A voter whose registration has been so cancelled shall not thereafter be eligible to
+vote unless he shall again register in accordance with this article and the statutes adopted under
+its authority.
+
+Sec 2. No person shall, except as provided in section 3 hereof, at any time be allowed to vote
+upon any proposition to impose a tax or for the expenditure of money in any town, as
+distinguished from a city, unless he shall either (1) be really and truly possessed in his own right
+of real estate in such town of the value of one hundred thirty-four dollars over and above all
+incumbrances, or which shall rent for seven dollars per annum over and above any rent reserved
+or the interest of any incumbrances thereon, being an estate in fee-simple, fee-tail, for the life of
+any person, or an estate in reversion or remainder, which qualifies no other person to vote, the
+conveyance of which estate, if by deed, shall have been recorded at least ninety days prior to the
+time of voting or (2) shall within the year next preceding have paid a tax assessed upon his
+personal property in said town of the value of at least one hundred thirty-four dollars.
+
+Sec. 3. If the general assembly shall at any time vest the authority to impose taxes and for the
+expenditure of money in any town or city in a budget commission, such commission shall consist
+of not less than five nor more than fifteen electors, of such qualifications and with such powers
+as the general assembly may prescribe, to be elected by the qualified electors of such town or
+city. No such budget commission shall be created for a town, as distinguished from a city, unless
+the electors thereof in a financial town meeting regularly called, due notice of such proposition
+appearing in the call for such meeting, shall by a majority vote of those present and voting, vote
+to "submit such proposition to the electors of such town qualified to vote upon any proposition to
+impose a tax or for the expenditure of money, at the next regular election of town officers, and
+unless such electors at such election shall by a majority vote of those present and voting approve
+such proposition.
+
+SEC. 4. The general assembly shall provide by law for a uniform registration of voters who
+possess the qualifications prescribed in this article and shall include in such provisions suitable
+methods of identification, of such voters, by signature or otherwise.
+
+SEC. 5. Until the general assembly shall otherwise prescribe: Whenever any person eligible to
+vote shall register to vote in any town or city he shall be required to sign his name on three
+separate and distinct cards, or in three separate and distinct books or on one or more cards and in
+one or more books making a total of three cards or books in all, and at the time he shall so
+register he shall be given by the official or clerk so registering him an identification card upon
+which such qualified elector shall sign his name in the presence of such official or clerk. The
+general assembly may provide by law that in case any person shall be unable to sign his name
+because of physical incapacity or otherwise he may be exempted from the foregoing provisions in
+regard to signing his name and the general assembly shall provide that in such cases such person
+shall comply with other requirements which shall assist in providing identification of such voter.
+One of said registration calls or books shall at all times be retained in the custody of the town car
+city official or board in whom or in which is vested authority to register voters, one of said
+registration cards or books shall be sent by said town or city official or board to the state official
+or board in whom or in which is vested authority to supervise elections throughout the state and
+one of such registration cards or books shall be sent by said town or city official or board to the
+polling place or meeting at which any votes are to be taken or election, primary or caucus is to be
+held and shall be delivered by said official or board to the moderator of said polling place or
+meeting and shall at all times during the conduct of such election, primary, caucus, or meeting be
+kept in the custody of said moderator, and following the conclusion of such election, primary,
+caucus, or meeting shall be redelivered by the moderator to said town or city official or board.
+
+Sec. 6. In all elections, primaries, caucuses, or meetings held before the first day of July
+occurring next after six, months following the adoption of this amendment, the qualification to
+vote, including the registration qualifications, requirements and periods, shall be the same as
+before the adoption of this amendment. No person shall, however, be qualified to vote in any
+election, primary, caucus or meeting held on or after said first day of July, unless he shall be
+registered under the authority of this article and all voters, whether they have theretofore been
+real estate, personal property or registry voters shall be required to register under the authority of
+this article in order to continue to be qualified to vote after said date.
+
+Sec. 7. This amendment shall take in the constitution of the state the place of section 1 of  article
+II and of articles XVIII and XX of the amendments to said constitution, which said section and
+articles and all other provisions of the constitution inconsistent herewith are hereby annulled;
+provided, however, that nothing contained in this article shall in any way be deemed to modify or
+affect the provisions of article XXII of the amendments to the constitution except that the
+reference therein to article XX of the amendments to the constitution shall be deemed to refer to
+this article.
+
+[Nov 7, 1950; Article 2, section 1 annulled and subsequent Articles of Amendment, numbers 18
+and 20, and are also hereby annulled by this amendment]
+
+[See notes in Amendments 40-42 in the database]
+
+*** MEND ***
+
+*** MSTART 046 002.0 002.0 0 RI 1843 1950 ***
+
+AMENDMENT 46
+
+Section 1. Every citizen of the United States of the age of twenty-one years, who has had his
+residence and home in this state for two years, and in the town or city in which he may offer to
+vote six months next to preceding the time of his voting, and whose name shall be registered in
+the town or city where he resides on or before the last day of June in registration period next
+preceding the time of his voting shall have a right to vote in the election of all civil officers and
+on all questions in all legally organized town, and ward or district meetings; 
+
+Provided that no person shall at any time be allowed to vote upon any proposition to impose a tax
+or expenditure of money in any town, as distinguished from a city, unless he shall be qualified
+under section I of article II of this constitution, or unless he shall within the year next preceding
+have paid a tax assessed upon his personal property in said town, of the value of at least one
+hundred and thirty-four dollars, or unless he shall be exempted from-the payment of a tax upon
+personal property of the value of at least one hundred and thirty- four -dollars owned by him, by
+reason of his having served in the armed forces of  the United States of America; and 
+
+Provided, That if the general assembly shall at any time vest the authority to impose taxes and for
+the expenditure of money in any town or city in a budget commission, such commission shall
+consist of not less than five nor more than fifteen electors, of such qualifications and with such
+powers as the general assembly may prescribe, to be elected by the qualified electors of such
+town or city; and
+
+Provided, That no such budget. commission shall be created for a town, as distinguished from a
+city, unless the electors thereof in a financial town meeting regularly called, due notice of such
+proposition appearing in the call for such meeting, shall by a majority vote of those present and
+voting, vote to submit such proposition to the electors of such town qualified to vote upon any
+proposition to impose a tax or for the expenditure of money, at the next regular election of town
+officers, and unless such electors at such election shall by a majority vote of those present and
+voting approve such proposition; and
+
+Provided, That any elector, being otherwise qualified, whose name is on the real estate or the
+personal property voting list of any town or city on the date of the adoption of this article of
+amendment by the electors of the state, and any elector, being otherwise qualified, whose name
+shall thereafter be placed upon such  list as a real estate or personal property voter, shall have a
+right to vote in the election of all civil officers and on all questions in all legally organized town,
+ward, or district meetings, and to have his name retained on said list without further registration,
+so long as he continues so qualified; and in the event that an elector whose name is on the real
+estate voting list of any town or city at the end of any registration period for voters shall
+thereafter during the next succeeding registration period for voters transfer all his real estate in
+said town or city, as shown by record, his name shall forthwith be transferred to the list of
+registry voters, unless qualified as a personal voter, and such elector shall be entitled to vote as a
+registry voter during the remainder of the then current registration period for voters; and in the
+event that an elector whose name is on the personal property voting list of any town or city at the
+end of any registration period for voters thereafter during the next succeeding registration period
+for voters fails to pay the personal property tax assessed against him, his name shall be
+transferred to the list of registry voters, and such elector shall be entitled to vote as a registry
+voter during the remainder of the then current registration period for voters; and
+
+Provided, That the registration period for voters shall include the two years ending June 30th
+next preceding the election of general officers of the state.
+
+Sec. 2. This amendment shall take in the constitution of the state, the place of section 1 of article
+XX of the articles of amendment, adopted November 6,1928, which said section and all other
+provisions of the constitution inconsistent herewith are hereby annulled.
+
+[ADOPTED NOVEMBER 7, 1950; Article 2, section 2; see amendment 41 and 44 in the
+database]
+
+*** MEND ***
+
+*** MSTART 047 002.0 007.0 0 RI 1843 1951 ***
+
+AMENDMENT 47
+
+ARTICLE 27
+
+SECTION 1. Sec. 2 of Article VII of the articles of amendment to the constitution of this state is
+hereby annulled.
+
+Sec. 2. Sec. 3 of Article II of the constitution of this state shall remain annulled.
+
+Sec. 3. All other provisions of the Constitution inconsistent herewith are hereby annulled.
+
+Sec. 4: This amendment shall take effect-whenever a majority of electors voting at a special
+election, to which this amendment is submitted after adoption by the Constitutional Convention,
+shall approve the same.
+
+[Adopted June 28, 1951; Said sections annulled by previous amendments  amendments 44, 46,
+and 8 of the database]
+
+*** MEND ***
+
+*** MSTART 048 009.0 9099.0 0 RI 1843 1951 ***
+
+AMENDMENT 48
+
+ARTICLE 28
+
+SECTION 1. It is the intention of this article to grant and confirm to the people of every city and
+town in this; state the right of self government in all local matters.  
+
+Sec. 2. Every city and town shall have the power at any time to adopt a charter, amend its charter,
+enact and amend local laws relating to its property, affairs and government not inconsistent with
+this constitution and laws enacted by the General Assembly in conformity with the powers
+reserved to the General Assembly.
+
+Sec. 3. Notwithstanding anything contained in this article, every city and town shall have a
+legislative body composed. of one or two branches elected by vote of its qualified electors.
+
+Sec. 4. The General Assembly shall have the power to act in relation to the property, affairs and
+government of any city or town by general laws which shall apply alike to all cities and towns,
+but which shall not affect the form of government of any city or town. The General Assembly
+shall also have the power to act in relation to the property, affairs and government of a particular
+city or town provided that such legislative action shall become effective only upon approval by a
+majority of the qualified electors of the said city or town voting at a general or special election,
+except that in the case of acts involving the imposition of a tax or the expenditure of money by a
+town the same shall provide for the submission thereof to those  electors in said town qualified to
+vote upon a proposition to impose a tax or for the expenditure of money.
+
+Sec. 5. Nothing contained in this article shall be deemed to grant to any city, or town the power
+to levy, assess and collect taxes or to borrow money, except as authorized by the General
+Assembly.
+
+Sec. 6. Every city and town shall have the power to adopt a charter in the following manner:
+Whenever a petition for the adoption of a charter signed by fifteen per centum of the qualified
+electors o a city, or in a town by fifteen per centum, but not less than one hundred in number, of
+those persons qualified to vote on any proposition to impose a tax or for the expenditure of
+money shall be filed with the legislative body of any city or town the same shall be referred
+forthwith to the canvassing authority which shall within ten days after its receipt determine the
+sufficiency thereof and certify the results to the legislative body of said city or town. Within sixty
+days thereafter the legislative body of a city shall submit to its qualified electors and the
+legislative body of a town shall submit to the electors of said town qualified to vote upon a
+proposition to impose a tax or for the expenditure of money the following question: "Shall a
+commission be appointed to frame a charter?" and the legislative body of any city or town shall
+provide by ordinance or resolution a method for the nomination and election of a charter
+commission to frame a charter consisting in a city of nine qualified electors and in a town of nine
+electors of said town qualified to vote upon a proposition to impose a tax or for the expenditure
+of money who shall be elected at large without party or political designation and who shall be
+listed alphabetically on the ballot used for said election. Such ordinance or resolution shall
+provide for the submission of the question and the election of the charter commission at the same
+time. Upon approval of the question submitted the nine candidates who individually receive the
+greater numbers of .votes shall be declared elected and shall constitute the charter commission.
+
+Sec. 7. Within one year from the date of the election of the charter commission the charter
+framed by the commission shall be submitted to the legislative body of the city or town which
+body shall provide for publication of said charter and shall provide for the submission of said
+charter to the electors of a city or town qualified to vote for general state officers at the general
+election next succeeding thirty days from the date of the submission of the charter by the charter
+commission. If said charter is approved by a majority of said electors voting thereon, it shall
+become effective upon the date fixed therein.
+
+Sec. 8. The legislative body of any city or town may propose amendments to a charter which
+amendments shall be submitted for approval in the same manner as provided in this article for the
+adoption of a charter except that the same may be submitted at a special election, and provided
+further that in the case of a town, amendments concerning a proposition to impose a tax or for the
+expenditure of money, shall he submitted at a special or regular financial town meeting.
+
+Sec. 9. Whenever the legislative body of any city or town consists of more than one branch, a
+petition for the adoption of a charter as provided in this article may be filed with either branch of
+said legislative body.
+
+Sec. 10. Duplicate certificates shall be made setting forth the charter adopted and any
+amendments approved and the same shall be signed by a majority of the canvassing authority ;
+one of such certified copies shall be deposited in the office of the Secretary of State and the other
+after having been recorded in the records of the city or town shall be deposited among the
+archives of the said city or town and all courts shall take judicial notice thereof.
+
+Sec. 11. The judicial powers of the state shall not be diminished by the provisions of this article.
+
+Sec. 12. This amendment shall take effect whenever a majority of electors voting at a special
+election, to which this amendment is submitted after adoption by the Constitutional Convention,
+shall approve the same.
+
+[Adopted June 28, 1951]
+
+*** MEND ***
+     
+*** MSTART 049 001.0 002.0 0 RI 1843 1951 ***
+
+AMENDMENT 49
+
+ARTICLE 29
+
+SECTION 1. Every citizen of the United States, of the age of twenty-one years or over, who has
+had his residence and home in this state for one, year and in the town or city in which he may
+offer to vote six months next preceding the time of voting, and whose name shall be registered in
+accordance with this article and the statutes adopted under its authority in the town or city where
+he resides at least sixty days next preceding the time of his voting shall, except as provided in
+section 2 hereof, have a right to vote in the election of all civil officers and on all questions in all
+legally organized town, ward, or district meetings so long as he continues so qualified. A person
+who has so registered shall not be required to register again so long as he continues to have his
+residence and home in said town or city and continues to be otherwise qualified; provided,
+however, that if a registered voter does not vote at least once at an election, primary or caucus
+within the five calendar years succeeding his registration, his said registration shall be cancelled,
+except that the registration of no person shall be so cancelled during his service in the armed
+forces of the United States and during two years thereafter. A voter whose registration has been
+so cancelled shall not thereafter be eligible to vote unless he shall again register in accordance
+with this article and the statutes adopted under its authority.
+
+SEC. 2. No person shall, except as provided in section 3 hereof, at any time be allowed to vote
+upon an proposition to impose a tax or for the expenditure of money in any town, as
+distinguished from city, unless he shall be qualified under the provisions of section 1 hereof and
+shall either (1) be really and truly possessed in his own right of real estate in such town of the
+value of one hundred thirty-four dollars over and above all incumbrances, or which shall rent for
+seven dollar per annum over and- above any rent reserved or the interest of any incumbrances
+thereon, being an estate in fee-simple, fee-tail, for the life of any person, or an estate in reversion
+or remainder, which qualifies no other person to vote, the conveyance of  which estate, if by
+deed, shall have been recorded at least ninety days prior to the time of voting or (2) shall within
+the year next preceding have paid a tax assessed upon his personal property in said town of the
+value of at least one hundred and thirty-four dollars.
+
+SEC. 3. If the general assembly shall at any time vest the authority to impose taxes and for the
+expenditure of money in any town or city in a budget commission, such commission shall consist
+of not less than five nor more than fifteen electors, of such qualifications and with such powers
+as the general assembly may prescribe, to be elected by the qualified electors of such town or
+city. No such budget, commission shall be created for a town, as distinguished from a city, unless
+the electors thereof in a financial town meeting regularly called, due notice of such proposition
+appearing in the call for such meeting, shall by a majority vote of those present and, voting, vote
+to submit such proposition to the electors of such town qualified to vote upon any proposition to
+impose a tax or for the expenditure of money, at the next regular election of town officers, and
+unless such electors at such election shall by a majority vote of those present and voting approve
+such proposition. Budget commissions heretofore created pursuant to the provisions of Section 1
+of Article XX of the amendments to the constitution shall be deemed to have been created
+pursuant to the provisions of this section.
+
+SEC. 4. The General Assembly shall provide by law for a uniform registration of voters who
+possess the qualifications prescribed by this Article. In each city and town the registration,
+canvassing of the rights and correcting the list of voters shall be administered by a canvassing
+authority. Beginning in January of each year in which a general election is to be held a census of
+registered voters at their addresses appearing in the registration records shall be jointly made in
+each voting district of each city and town by two persons appointed by said authority, one of
+whom shall represent one of the two political parties, and the other of whom shall represent the
+other of the two political parties whose candidates for Governor shall have received the larger
+numbers of votes in the general election then next receding. Said persons, having conducted the
+census, shall deliver their report of said census to the canvassing authority. The canvassing
+authority shall forthwith notify every person reported as not residing at the address on said
+records of voters to appear before said canvassing authority, within a certain time thereafter to
+show cause, if any, why his name should not he stricken from said records of voters. If such
+person so notified fails to appear as aforesaid, or appearing fails to show such cause, the
+canvassing authority shall strike the name of such person from said records of voters.
+
+The warden, or moderator, as the case may be, or the clerk, supervisor or party watcher, may
+challenge, in the polling place, the identity of any person who offers to vote under a name
+appearing upon the voting list. The person so challenged may thereupon present evidence of his
+identity, and if such evidence is satisfactory to the warden or moderator, as the case may be, and
+to the clerk, he shall he permitted to vote. If he fails to present such evidence, or if the evidence
+presented is not satisfactory to the warden or moderator, as the case may be, and to the clerk, the
+person who offers to vote and whose identity is challenged shall be required to make an affidavit
+under penalty setting forth that he is the same person whose name appears upon the list and that
+the name under which he offers to vote is his own name. Upon executing said affidavit, he shall
+be permitted to vote.
+
+SEC. 5. Until the first day of July, 1952, the qualifications and right to vote shall be governed by
+the laws of this state as they existed on November l, 1950.
+
+No person shall, however, be qualified to vote in any election, primary caucus or meeting held on
+or after said first day of July 1952, unless he shall be registered under the authority of this article
+and all voters, whether they have theretofore been real estate, personal property or registry voters
+shall be required to register under the authority of this article in order to continue to be qualified
+to vote after said date.
+
+SEC. 6. Upon the approval of this Article of Amendment by the people, and upon the enactment
+of legislation pursuant to section 4 hereof, the proper officers are hereby authorized, empowered
+and, directed to accept registrations of voters pursuant to the provisions hereof, which
+registrations shall become effective on the first day of July, 1952.
+
+SEC. 7. The general assembly shall have full power to prescribe the manner of conducting the
+elections, the form of certificates, the nature of the evidence to be required in case of a dispute as
+to the right of any person to vote, and generally to enact all laws necessary to carry this article
+into effect, and to prevent abuse, corruption and fraud in voting.
+
+SEC. 8. This amendment shall take in the constitution of the state the places of  Sections 1, 2, 3
+and 6 of Article II ; and in the Articles of Amendment to said constitution, of Article VII, Sec. 11
+of Article XI and of Articles XVIII and XX, and those two certain Articles of Amendment
+providing respectively for Permanent registration and for Qualification of Electors approved the
+seventh day of November, 1950, upon submission pursuant to Chapters 2294 and 2305, of the
+Public Laws, of 1949, which said Sections and Articles and all other provisions of the
+constitution inconsistent herewith are hereby annulled;  provided, however, that nothing
+contained in this Article shall in any way be deemed to modify or affect the provisions of Article
+XXII of the amendments to the constitution except that the reference therein to Article XX of the
+amendments to the constitution shall be deemed to refer to this Article.
+                                                                 
+SEC. 9. This amendment shall take effect whenever a majority of electors voting at a special
+election, to which this amendment is submitted after adoption by the Constitutional Convention,
+shall approve the same.
+
+[Adopted June 28, 1951]
+[This amendment changed and adjusted voting provisions in Article 2, sections 1, 2, 3, and 6, and
+Article 8, section 10 (see note to Article 8, section 0 amendment 13 and 23 in the database)
+which had been changed and adjusted with the following Articles of Amendment: Article 7
+(1888), Article 11, section 11 (1900), Article 18 (1928), Article 20 (1928).  For clarity, the entire
+text of this amendment has been repeated in the database for each change.]
+
+*** MEND ***
+
+*** MSTART 050 002.0 002.0 0 RI 1843 1951 ***
+
+AMENDMENT 50
+
+
+ARTICLE 29
+
+SECTION 1. Every citizen of the United States, of the age of twenty-one years or over, who has
+had his residence and home in this state for one, year and in the town or city in which he may
+offer to vote six months next preceding the time of voting, and whose name shall be registered in
+accordance with this article and the statutes adopted under its authority in the town or city where
+he resides at least sixty days next preceding the time of his voting shall, except as provided in
+section 2 hereof, have a right to vote in the election of all civil officers and on all questions in all
+legally organized town, ward, or district meetings so long as he continues so qualified. A person
+who has so registered shall not be required to register again so long as he continues to have his
+residence and home in said town or city and continues to be otherwise qualified; provided,
+however, that if a registered voter does not vote at least once at an election, primary or caucus
+within the five calendar years succeeding his registration, his said registration shall be cancelled,
+except that the registration of no person shall be so cancelled during his service in the armed
+forces of the United States and during two years thereafter. A voter whose registration has been
+so cancelled shall not thereafter be eligible to vote unless he shall again register in accordance
+with this article and the statutes adopted under its authority.
+
+SEC. 2. No person shall, except as provided in section 3 hereof, at any time be allowed to vote
+upon an proposition to impose a tax or for the expenditure of money in any town, as
+distinguished from city, unless he shall be qualified under the provisions of section 1 hereof and
+shall either (1) be really and truly possessed in his own right of real estate in such town of the
+value of one hundred thirty-four dollars over and above all incumbrances, or which shall rent for
+seven dollar per annum over and- above any rent reserved or the interest of any incumbrances
+thereon, being an estate in fee-simple, fee-tail, for the life of any person, or an estate in reversion
+or remainder, which qualifies no other person to vote, the conveyance of  which estate, if by
+deed, shall have been recorded at least ninety days prior to the time of voting or (2) shall within
+the year next preceding have paid a tax assessed upon his personal property in said town of the
+value of at least one hundred and thirty-four dollars.
+
+SEC. 3. If the general assembly shall at any time vest the authority to impose taxes and for the
+expenditure of money in any town or city in a budget commission, such commission shall consist
+of not less than five nor more than fifteen electors, of such qualifications and with such powers
+as the general assembly may prescribe, to be elected by the qualified electors of such town or
+city. No such budget, commission shall be created for a town, as distinguished from a city, unless
+the electors thereof in a financial town meeting regularly called, due notice of such proposition
+appearing in the call for such meeting, shall by a majority vote of those present and, voting, vote
+to submit such proposition to the electors of such town qualified to vote upon any proposition to
+impose a tax or for the expenditure of money, at the next regular election of town officers, and
+unless such electors at such election shall by a majority vote of those present and voting approve
+such proposition. Budget commissions heretofore created pursuant to the provisions of Section 1
+of Article XX of the amendments to the constitution shall be deemed to have been created
+pursuant to the provisions of this section.
+
+SEC. 4. The General Assembly shall provide by law for a uniform registration of voters who
+possess the qualifications prescribed by this Article. In each city and town the registration,
+canvassing of the rights and correcting the list of voters shall be administered by a canvassing
+authority. Beginning in January of each year in which a general election is to be held a census of
+registered voters at their addresses appearing in the registration records shall be jointly made in
+each voting district of each city and town by two persons appointed by said authority, one of
+whom shall represent one of the two political parties, and the other of whom shall represent the
+other of the two political parties whose candidates for Governor shall have received the larger
+numbers of votes in the general election then next receding. Said persons, having conducted the
+census, shall deliver their report of said census to the canvassing authority. The canvassing
+authority shall forthwith notify every person reported as not residing at the address on said
+records of voters to appear before said canvassing authority, within a certain time thereafter to
+show cause, if any, why his name should not he stricken from said records of voters. If such
+person so notified fails to appear as aforesaid, or appearing fails to show such cause, the
+canvassing authority shall strike the name of such person from said records of voters.
+
+The warden, or moderator, as the case may be, or the clerk, supervisor or party watcher, may
+challenge, in the polling place, the identity of any person who offers to vote under a name
+appearing upon the voting list. The person so challenged may thereupon present evidence of his
+identity, and if such evidence is satisfactory to the warden or moderator, as the case may be, and
+to the clerk, he shall he permitted to vote. If he fails to present such evidence, or if the evidence
+presented is not satisfactory to the warden or moderator, as the case may be, and to the clerk, the
+person who offers to vote and whose identity is challenged shall be required to make an affidavit
+under penalty setting forth that he is the same person whose name appears upon the list and that
+the name under which he offers to vote is his own name. Upon executing said affidavit, he shall
+be permitted to vote.
+
+SEC. 5. Until the first day of July, 1952, the qualifications and right to vote shall be governed by
+the laws of this state as they existed on November l, 1950.
+
+No person shall, however, be qualified to vote in any election, primary caucus or meeting held on
+or after said first day of July 1952, unless he shall be registered under the authority of this article
+and all voters, whether they have theretofore been real estate, personal property or registry voters
+shall be required to register under the authority of this article in order to continue to be qualified
+to vote after said date.
+
+SEC. 6. Upon the approval of this Article of Amendment by the people, and upon the enactment
+of legislation pursuant to section 4 hereof, the proper officers are hereby authorized, empowered
+and, directed to accept registrations of voters pursuant to the provisions hereof, which
+registrations shall become effective on the first day of July, 1952.
+
+SEC. 7. The general assembly shall have full power to prescribe the manner of conducting the
+elections, the form of certificates, the nature of the evidence to be required in case of a dispute as
+to the right of any person to vote, and generally to enact all laws necessary to carry this article
+into effect, and to prevent abuse, corruption and fraud in voting.
+
+SEC. 8. This amendment shall take in the constitution of the state the places of` Sections 1, 2, 3
+and 6 of Article II ; and in the Articles of Amendment to said constitution, of Article VII, Sec. 11
+of Article XI and of Articles XVIII and XX, and those two certain Articles of Amendment
+providing respectively for Permanent registration and for Qualification of Electors approved the
+seventh day of November, 1950, upon submission pursuant to Chapters 2294 and 2305, of the
+Public Laws, of 1949, which said Sections and Articles and all other provisions of the
+constitution inconsistent herewith are hereby annulled;  provided, however, that nothing
+contained in this Article shall in any way be deemed to modify or affect the provisions of Article
+XXII of the amendments to the constitution except that the reference therein to Article XX of the
+amendments to the constitution shall be deemed to refer to this Article.
+                                                                 
+SEC. 9. This amendment shall take effect whenever a majority of electors voting at a special
+election, to which this amendment is submitted after adoption by the Constitutional Convention,
+shall approve the same.
+
+[Adopted June 28, 1951]
+[This amendment changed and adjusted voting provisions in Article 2, sections 1, 2, 3, and 6, and
+Article 8, section 10 (see note to Article 8, section 0 amendment 13 and 23 in the database)
+which had been changed and adjusted with the following Articles of Amendment: Article 7
+(1888), Article 11, section 11 (1900), Article 18 (1928), Article 20 (1928).  For clarity, the entire
+text of this amendment has been repeated in the database for each change.]
+
+*** MEND ***
+
+
+*** MSTART 051 003.0 002.0 0 RI 1843 1951 ***
+
+AMENDMENT 51
+
+ARTICLE 29
+
+SECTION 1. Every citizen of the United States, of the age of twenty-one years or over, who has
+had his residence and home in this state for one, year and in the town or city in which he may
+offer to vote six months next preceding the time of voting, and whose name shall be registered in
+accordance with this article and the statutes adopted under its authority in the town or city where
+he resides at least sixty days next preceding the time of his voting shall, except as provided in
+section 2 hereof, have a right to vote in the election of all civil officers and on all questions in all
+legally organized town, ward, or district meetings so long as he continues so qualified. A person
+who has so registered shall not be required to register again so long as he continues to have his
+residence and home in said town or city and continues to be otherwise qualified; provided,
+however, that if a registered voter does not vote at least once at an election, primary or caucus
+within the five calendar years succeeding his registration, his said registration shall be cancelled,
+except that the registration of no person shall be so cancelled during his service in the armed
+forces of the United States and during two years thereafter. A voter whose registration has been
+so cancelled shall not thereafter be eligible to vote unless he shall again register in accordance
+with this article and the statutes adopted under its authority.
+
+SEC. 2. No person shall, except as provided in section 3 hereof, at any time be allowed to vote
+upon an proposition to impose a tax or for the expenditure of money in any town, as
+distinguished from city, unless he shall be qualified under the provisions of section 1 hereof and
+shall either (1) be really and truly possessed in his own right of real estate in such town of the
+value of one hundred thirty-four dollars over and above all incumbrances, or which shall rent for
+seven dollar per annum over and- above any rent reserved or the interest of any incumbrances
+thereon, being an estate in fee-simple, fee-tail, for the life of any person, or an estate in reversion
+or remainder, which qualifies no other person to vote, the conveyance of  which estate, if by
+deed, shall have been recorded at least ninety days prior to the time of voting or (2) shall within
+the year next preceding have paid a tax assessed upon his personal property in said town of the
+value of at least one hundred and thirty-four dollars.
+
+SEC. 3. If the general assembly shall at any time vest the authority to impose taxes and for the
+expenditure of money in any town or city in a budget commission, such commission shall consist
+of not less than five nor more than fifteen electors, of such qualifications and with such powers
+as the general assembly may prescribe, to be elected by the qualified electors of such town or
+city. No such budget, commission shall be created for a town, as distinguished from a city, unless
+the electors thereof in a financial town meeting regularly called, due notice of such proposition
+appearing in the call for such meeting, shall by a majority vote of those present and, voting, vote
+to submit such proposition to the electors of such town qualified to vote upon any proposition to
+impose a tax or for the expenditure of money, at the next regular election of town officers, and
+unless such electors at such election shall by a majority vote of those present and voting approve
+such proposition. Budget commissions heretofore created pursuant to the provisions of Section 1
+of Article XX of the amendments to the constitution shall be deemed to have been created
+pursuant to the provisions of this section.
+
+SEC. 4. The General Assembly shall provide by law for a uniform registration of voters who
+possess the qualifications prescribed by this Article. In each city and town the registration,
+canvassing of the rights and correcting the list of voters shall be administered by a canvassing
+authority. Beginning in January of each year in which a general election is to be held a census of
+registered voters at their addresses appearing in the registration records shall be jointly made in
+each voting district of each city and town by two persons appointed by said authority, one of
+whom shall represent one of the two political parties, and the other of whom shall represent the
+other of the two political parties whose candidates for Governor shall have received the larger
+numbers of votes in the general election then next receding. Said persons, having conducted the
+census, shall deliver their report of said census to the canvassing authority. The canvassing
+authority shall forthwith notify every person reported as not residing at the address on said
+records of voters to appear before said canvassing authority, within a certain time thereafter to
+show cause, if any, why his name should not he stricken from said records of voters. If such
+person so notified fails to appear as aforesaid, or appearing fails to show such cause, the
+canvassing authority shall strike the name of such person from said records of voters.
+
+The warden, or moderator, as the case may be, or the clerk, supervisor or party watcher, may
+challenge, in the polling place, the identity of any person who offers to vote under a name
+appearing upon the voting list. The person so challenged may thereupon present evidence of his
+identity, and if such evidence is satisfactory to the warden or moderator, as the case may be, and
+to the clerk, he shall he permitted to vote. If he fails to present such evidence, or if the evidence
+presented is not satisfactory to the warden or moderator, as the case may be, and to the clerk, the
+person who offers to vote and whose identity is challenged shall be required to make an affidavit
+under penalty setting forth that he is the same person whose name appears upon the list and that
+the name under which he offers to vote is his own name. Upon executing said affidavit, he shall
+be permitted to vote.
+
+SEC. 5. Until the first day of July, 1952, the qualifications and right to vote shall be governed by
+the laws of this state as they existed on November l, 1950.
+
+No person shall, however, be qualified to vote in any election, primary caucus or meeting held on
+or after said first day of July 1952, unless he shall be registered under the authority of this article
+and all voters, whether they have theretofore been real estate, personal property or registry voters
+shall be required to register under the authority of this article in order to continue to be qualified
+to vote after said date.
+
+SEC. 6. Upon the approval of this Article of Amendment by the people, and upon the enactment
+of legislation pursuant to section 4 hereof, the proper officers are hereby authorized, empowered
+and, directed to accept registrations of voters pursuant to the provisions hereof, which
+registrations shall become effective on the first day of July, 1952.
+
+SEC. 7. The general assembly shall have full power to prescribe the manner of conducting the
+elections, the form of certificates, the nature of the evidence to be required in case of a dispute as
+to the right of any person to vote, and generally to enact all laws necessary to carry this article
+into effect, and to prevent abuse, corruption and fraud in voting.
+
+SEC. 8. This amendment shall take in the constitution of the state the places of` Sections 1, 2, 3
+and 6 of Article II ; and in the Articles of Amendment to said constitution, of Article VII, Sec. 11
+of Article XI and of Articles XVIII and XX, and those two certain Articles of Amendment
+providing respectively for Permanent registration and for Qualification of Electors approved the
+seventh day of November, 1950, upon submission pursuant to Chapters 2294 and 2305, of the
+Public Laws, of 1949, which said Sections and Articles and all other provisions of the
+constitution inconsistent herewith are hereby annulled;  provided, however, that nothing
+contained in this Article shall in any way be deemed to modify or affect the provisions of Article
+XXII of the amendments to the constitution except that the reference therein to Article XX of the
+amendments to the constitution shall be deemed to refer to this Article.
+                                                                 
+SEC. 9. This amendment shall take effect whenever a majority of electors voting at a special
+election, to which this amendment is submitted after adoption by the Constitutional Convention,
+shall approve the same.
+
+[Adopted June 28, 1951]
+[This amendment changed and adjusted voting provisions in Article 2, sections 1, 2, 3, and 6, and
+Article 8, section 10 (see note to Article 8, section 0 amendment 13 and 23 in the database)
+which had been changed and adjusted with the following Articles of Amendment: Article 7
+(1888), Article 11, section 11 (1900), Article 18 (1928), Article 20 (1928).  For clarity, the entire
+text of this amendment has been repeated in the database for each change.]
+
+*** MEND ***
+
+*** MSTART 052 006.0 002.0 0 RI 1843 1951 ***
+
+AMENDMENT 52
+
+ARTICLE 29
+
+SECTION 1. Every citizen of the United States, of the age of twenty-one years or over, who has
+had his residence and home in this state for one, year and in the town or city in which he may
+offer to vote six months next preceding the time of voting, and whose name shall be registered in
+accordance with this article and the statutes adopted under its authority in the town or city where
+he resides at least sixty days next preceding the time of his voting shall, except as provided in
+section 2 hereof, have a right to vote in the election of all civil officers and on all questions in all
+legally organized town, ward, or district meetings so long as he continues so qualified. A person
+who has so registered shall not be required to register again so long as he continues to have his
+residence and home in said town or city and continues to be otherwise qualified; provided,
+however, that if a registered voter does not vote at least once at an election, primary or caucus
+within the five calendar years succeeding his registration, his said registration shall be cancelled,
+except that the registration of no person shall be so cancelled during his service in the armed
+forces of the United States and during two years thereafter. A voter whose registration has been
+so cancelled shall not thereafter be eligible to vote unless he shall again register in accordance
+with this article and the statutes adopted under its authority.
+
+SEC. 2. No person shall, except as provided in section 3 hereof, at any time be allowed to vote
+upon an proposition to impose a tax or for the expenditure of money in any town, as
+distinguished from city, unless he shall be qualified under the provisions of section 1 hereof and
+shall either (1) be really and truly possessed in his own right of real estate in such town of the
+value of one hundred thirty-four dollars over and above all incumbrances, or which shall rent for
+seven dollar per annum over and- above any rent reserved or the interest of any incumbrances
+thereon, being an estate in fee-simple, fee-tail, for the life of any person, or an estate in reversion
+or remainder, which qualifies no other person to vote, the conveyance of  which estate, if by
+deed, shall have been recorded at least ninety days prior to the time of voting or (2) shall within
+the year next preceding have paid a tax assessed upon his personal property in said town of the
+value of at least one hundred and thirty-four dollars.
+
+SEC. 3. If the general assembly shall at any time vest the authority to impose taxes and for the
+expenditure of money in any town or city in a budget commission, such commission shall consist
+of not less than five nor more than fifteen electors, of such qualifications and with such powers
+as the general assembly may prescribe, to be elected by the qualified electors of such town or
+city. No such budget, commission shall be created for a town, as distinguished from a city, unless
+the electors thereof in a financial town meeting regularly called, due notice of such proposition
+appearing in the call for such meeting, shall by a majority vote of those present and, voting, vote
+to submit such proposition to the electors of such town qualified to vote upon any proposition to
+impose a tax or for the expenditure of money, at the next regular election of town officers, and
+unless such electors at such election shall by a majority vote of those present and voting approve
+such proposition. Budget commissions heretofore created pursuant to the provisions of Section 1
+of Article XX of the amendments to the constitution shall be deemed to have been created
+pursuant to the provisions of this section.
+
+SEC. 4. The General Assembly shall provide by law for a uniform registration of voters who
+possess the qualifications prescribed by this Article. In each city and town the registration,
+canvassing of the rights and correcting the list of voters shall be administered by a canvassing
+authority. Beginning in January of each year in which a general election is to be held a census of
+registered voters at their addresses appearing in the registration records shall be jointly made in
+each voting district of each city and town by two persons appointed by said authority, one of
+whom shall represent one of the two political parties, and the other of whom shall represent the
+other of the two political parties whose candidates for Governor shall have received the larger
+numbers of votes in the general election then next receding. Said persons, having conducted the
+census, shall deliver their report of said census to the canvassing authority. The canvassing
+authority shall forthwith notify every person reported as not residing at the address on said
+records of voters to appear before said canvassing authority, within a certain time thereafter to
+show cause, if any, why his name should not he stricken from said records of voters. If such
+person so notified fails to appear as aforesaid, or appearing fails to show such cause, the
+canvassing authority shall strike the name of such person from said records of voters.
+
+The warden, or moderator, as the case may be, or the clerk, supervisor or party watcher, may
+challenge, in the polling place, the identity of any person who offers to vote under a name
+appearing upon the voting list. The person so challenged may thereupon present evidence of his
+identity, and if such evidence is satisfactory to the warden or moderator, as the case may be, and
+to the clerk, he shall he permitted to vote. If he fails to present such evidence, or if the evidence
+presented is not satisfactory to the warden or moderator, as the case may be, and to the clerk, the
+person who offers to vote and whose identity is challenged shall be required to make an affidavit
+under penalty setting forth that he is the same person whose name appears upon the list and that
+the name under which he offers to vote is his own name. Upon executing said affidavit, he shall
+be permitted to vote.
+
+SEC. 5. Until the first day of July, 1952, the qualifications and right to vote shall be governed by
+the laws of this state as they existed on November l, 1950.
+
+No person shall, however, be qualified to vote in any election, primary caucus or meeting held on
+or after said first day of July 1952, unless he shall be registered under the authority of this article
+and all voters, whether they have theretofore been real estate, personal property or registry voters
+shall be required to register under the authority of this article in order to continue to be qualified
+to vote after said date.
+
+SEC. 6. Upon the approval of this Article of Amendment by the people, and upon the enactment
+of legislation pursuant to section 4 hereof, the proper officers are hereby authorized, empowered
+and, directed to accept registrations of voters pursuant to the provisions hereof, which
+registrations shall become effective on the first day of July, 1952.
+
+SEC. 7. The general assembly shall have full power to prescribe the manner of conducting the
+elections, the form of certificates, the nature of the evidence to be required in case of a dispute as
+to the right of any person to vote, and generally to enact all laws necessary to carry this article
+into effect, and to prevent abuse, corruption and fraud in voting.
+
+SEC. 8. This amendment shall take in the constitution of the state the places of` Sections 1, 2, 3
+and 6 of Article II ; and in the Articles of Amendment to said constitution, of Article VII, Sec. 11
+of Article XI and of Articles XVIII and XX, and those two certain Articles of Amendment
+providing respectively for Permanent registration and for Qualification of Electors approved the
+seventh day of November, 1950, upon submission pursuant to Chapters 2294 and 2305, of the
+Public Laws, of 1949, which said Sections and Articles and all other provisions of the
+constitution inconsistent herewith are hereby annulled;  provided, however, that nothing
+contained in this Article shall in any way be deemed to modify or affect the provisions of Article
+XXII of the amendments to the constitution except that the reference therein to Article XX of the
+amendments to the constitution shall be deemed to refer to this Article.
+                                                                 
+SEC. 9. This amendment shall take effect whenever a majority of electors voting at a special
+election, to which this amendment is submitted after adoption by the Constitutional Convention,
+shall approve the same.
+
+[Adopted June 28, 1951]
+[This amendment changed and adjusted voting provisions in Article 2, sections 1, 2, 3, and 6, and
+Article 8, section 10 (see note to Article 8, section 0 amendment 13 and 23 in the database)
+which had been changed and adjusted with the following Articles of Amendment: Article 7
+(1888), Article 11, section 11 (1900), Article 18 (1928), Article 20 (1928).  For clarity, the entire
+text of this amendment has been repeated in the database for each change.]
+
+*** MEND ***
+
+*** MSTART 053 010.0 008.0 0 RI 1843 1951 ***
+
+AMENDMENT 53
+
+ARTICLE 29
+
+SECTION 1. Every citizen of the United States, of the age of twenty-one years or over, who has
+had his residence and home in this state for one, year and in the town or city in which he may
+offer to vote six months next preceding the time of voting, and whose name shall be registered in
+accordance with this article and the statutes adopted under its authority in the town or city where
+he resides at least sixty days next preceding the time of his voting shall, except as provided in
+section 2 hereof, have a right to vote in the election of all civil officers and on all questions in all
+legally organized town, ward, or district meetings so long as he continues so qualified. A person
+who has so registered shall not be required to register again so long as he continues to have his
+residence and home in said town or city and continues to be otherwise qualified; provided,
+however, that if a registered voter does not vote at least once at an election, primary or caucus
+within the five calendar years succeeding his registration, his said registration shall be cancelled,
+except that the registration of no person shall be so cancelled during his service in the armed
+forces of the United States and during two years thereafter. A voter whose registration has been
+so cancelled shall not thereafter be eligible to vote unless he shall again register in accordance
+with this article and the statutes adopted under its authority.
+
+SEC. 2. No person shall, except as provided in section 3 hereof, at any time be allowed to vote
+upon an proposition to impose a tax or for the expenditure of money in any town, as
+distinguished from city, unless he shall be qualified under the provisions of section 1 hereof and
+shall either (1) be really and truly possessed in his own right of real estate in such town of the
+value of one hundred thirty-four dollars over and above all incumbrances, or which shall rent for
+seven dollar per annum over and- above any rent reserved or the interest of any incumbrances
+thereon, being an estate in fee-simple, fee-tail, for the life of any person, or an estate in reversion
+or remainder, which qualifies no other person to vote, the conveyance of  which estate, if by
+deed, shall have been recorded at least ninety days prior to the time of voting or (2) shall within
+the year next preceding have paid a tax assessed upon his personal property in said town of the
+value of at least one hundred and thirty-four dollars.
+
+SEC. 3. If the general assembly shall at any time vest the authority to impose taxes and for the
+expenditure of money in any town or city in a budget commission, such commission shall consist
+of not less than five nor more than fifteen electors, of such qualifications and with such powers
+as the general assembly may prescribe, to be elected by the qualified electors of such town or
+city. No such budget, commission shall be created for a town, as distinguished from a city, unless
+the electors thereof in a financial town meeting regularly called, due notice of such proposition
+appearing in the call for such meeting, shall by a majority vote of those present and, voting, vote
+to submit such proposition to the electors of such town qualified to vote upon any proposition to
+impose a tax or for the expenditure of money, at the next regular election of town officers, and
+unless such electors at such election shall by a majority vote of those present and voting approve
+such proposition. Budget commissions heretofore created pursuant to the provisions of Section 1
+of Article XX of the amendments to the constitution shall be deemed to have been created
+pursuant to the provisions of this section.
+
+SEC. 4. The General Assembly shall provide by law for a uniform registration of voters who
+possess the qualifications prescribed by this Article. In each city and town the registration,
+canvassing of the rights and correcting the list of voters shall be administered by a canvassing
+authority. Beginning in January of each year in which a general election is to be held a census of
+registered voters at their addresses appearing in the registration records shall be jointly made in
+each voting district of each city and town by two persons appointed by said authority, one of
+whom shall represent one of the two political parties, and the other of whom shall represent the
+other of the two political parties whose candidates for Governor shall have received the larger
+numbers of votes in the general election then next receding. Said persons, having conducted the
+census, shall deliver their report of said census to the canvassing authority. The canvassing
+authority shall forthwith notify every person reported as not residing at the address on said
+records of voters to appear before said canvassing authority, within a certain time thereafter to
+show cause, if any, why his name should not he stricken from said records of voters. If such
+person so notified fails to appear as aforesaid, or appearing fails to show such cause, the
+canvassing authority shall strike the name of such person from said records of voters.
+
+The warden, or moderator, as the case may be, or the clerk, supervisor or party watcher, may
+challenge, in the polling place, the identity of any person who offers to vote under a name
+appearing upon the voting list. The person so challenged may thereupon present evidence of his
+identity, and if such evidence is satisfactory to the warden or moderator, as the case may be, and
+to the clerk, he shall he permitted to vote. If he fails to present such evidence, or if the evidence
+presented is not satisfactory to the warden or moderator, as the case may be, and to the clerk, the
+person who offers to vote and whose identity is challenged shall be required to make an affidavit
+under penalty setting forth that he is the same person whose name appears upon the list and that
+the name under which he offers to vote is his own name. Upon executing said affidavit, he shall
+be permitted to vote.
+
+SEC. 5. Until the first day of July, 1952, the qualifications and right to vote shall be governed by
+the laws of this state as they existed on November l, 1950.
+
+No person shall, however, be qualified to vote in any election, primary caucus or meeting held on
+or after said first day of July 1952, unless he shall be registered under the authority of this article
+and all voters, whether they have theretofore been real estate, personal property or registry voters
+shall be required to register under the authority of this article in order to continue to be qualified
+to vote after said date.
+
+SEC. 6. Upon the approval of this Article of Amendment by the people, and upon the enactment
+of legislation pursuant to section 4 hereof, the proper officers are hereby authorized, empowered
+and, directed to accept registrations of voters pursuant to the provisions hereof, which
+registrations shall become effective on the first day of July, 1952.
+
+SEC. 7. The general assembly shall have full power to prescribe the manner of conducting the
+elections, the form of certificates, the nature of the evidence to be required in case of a dispute as
+to the right of any person to vote, and generally to enact all laws necessary to carry this article
+into effect, and to prevent abuse, corruption and fraud in voting.
+
+SEC. 8. This amendment shall take in the constitution of the state the places of` Sections 1, 2, 3
+and 6 of Article II ; and in the Articles of Amendment to said constitution, of Article VII, Sec. 11
+of Article XI and of Articles XVIII and XX, and those two certain Articles of Amendment
+providing respectively for Permanent registration and for Qualification of Electors approved the
+seventh day of November, 1950, upon submission pursuant to Chapters 2294 and 2305, of the
+Public Laws, of 1949, which said Sections and Articles and all other provisions of the
+constitution inconsistent herewith are hereby annulled;  provided, however, that nothing
+contained in this Article shall in any way be deemed to modify or affect the provisions of Article
+XXII of the amendments to the constitution except that the reference therein to Article XX of the
+amendments to the constitution shall be deemed to refer to this Article.
+                                                                 
+SEC. 9. This amendment shall take effect whenever a majority of electors voting at a special
+election, to which this amendment is submitted after adoption by the Constitutional Convention,
+shall approve the same.
+
+[Adopted June 28, 1951]
+[This amendment changed and adjusted voting provisions in Article 2, sections 1, 2, 3, and 6, and
+Article 8, section 10 (see note to Article 8, section 0 amendment 13 and 23 in the database)
+which had been changed and adjusted with the following Articles of Amendment: Article 7
+(1888), Article 11, section 11 (1900), Article 18 (1928), Article 20 (1928).  For clarity, the entire
+text of this amendment has been repeated in the database for each change.]
+
+*** MEND ***
+
+*** MSTART 054 010.0 9099.0 0 RI 1843 1951 ***
+
+AMENDMENT 54
+
+ARTICLE 30
+
+SEC. 1. For the purpose of determining the qualification of persons to vote upon any proposition
+to impose a tax or for the expenditure of money in a town, as distinguished from a city,
+exemption
+from taxation granted to, any person by reason of his or her having served in the armed forces of
+the United States of America, or by reason of being the un-remarried widow of such person or by
+reason of being the parent of such person, which such person shall have lost his or her life as a
+casualty in any war in which the United States of America shall have been engaged, shall be
+considered payment in the mount exempted.
+
+SEC. 2. This amendment shall take effect whenever a majority of  electors voting at a special
+election, to which this amendment is submitted after adoption by the Constitutional Convention,
+shall approve the same.
+
+[Adopted June 28, 1951]
+
+*** MEND ***
+
+
+*** MSTART 055 013.0 004.0 0 RI 1843 1951 ***
+
+AMENDMENT 55
+ 
+ARTICLE 31
+
+SECTION 1. The general assembly shall have no powers, hereafter, without the express consent
+of the people, to incur state debts to an mount exceeding fifty thousand dollars, except in time of
+war, or in case of insurrection or invasion; nor shall they in any case, without such consent,
+pledge the faith of the state for the payment of the obligations of others. This section shall not be
+construed to refer to any money that may be deposited with this state by the government the
+United States.
+
+SEC. 2. Notwithstanding the provisions of section I of this article general assembly may provide
+by law for the state, to borrow in any fiscal year, in anticipation of receipts from taxes; sums of
+money not exceeding twenty percent of the receipts from taxes during the next prior fiscal year,
+and, in anticipation of receipts from other uses, additional sums of money, not exceeding ten
+percent of the receipts from such other sources during the said next prior fiscal year ; provided,
+that the aggregate of all such borrowings shall not exceed a sum equal to thirty percent of the
+actual receipts from taxes during the said next prior fiscal year. Any money so borrowed in
+anticipation of such receipts shall be repaid within the fiscal year of the state in which such
+borrowings take place. No money shall be so borrowed in anticipation of such receipts in any
+fiscal year until all money borrowed in all previous fiscal years shall have been repaid.
+
+SEC. 3. This amendment shall take in the constitution of the state the place of Sec. 13 of Article
+IV, which section is hereby annulled.
+
+SEC. 4. This amendment shall take effect whenever a majority of electors voting at a special
+election, to which this amendment is submitted after adoption by the Constitutional Convention,
+shall approve the same.
+
+[Adopted June 28, 1951; Article 4, Section 13]
+
+*** MEND ***
+
+
+*** MSTART 056 011.0 9099.0 0 RI 1843 1951 ***
+
+AMENDMENT 56
+
+ARTICLE 32
+
+SECTION 1. The General Assembly may authorize cities and towns to acquire property by
+eminent domain, or otherwise, for the establishment and construction of off-street parking
+facilities and to maintain and operate or lease the same.
+
+SEC. 2. Without limiting the generalities of the foregoing any of the powers or authorities
+consistent with the provisions of this Article for the provision of off-street parking now vested in
+public bodies by law, shall continue in existence and may be exercised by said public bodies,
+except as such powers and authorities may be modified, or repealed by the General Assembly.
+
+SEC. 3. This amendment shall take effect whenever a majority of electors voting at a special
+election, to which this amendment is submitted after adoption by the Constitutional Convention,
+shall approve the same.
+
+[Adopted June 28, 1951]
+
+*** MEND ***
+
+*** MSTART 057 012.0 9099.0 0 RI 1843 1955 ***
+
+AMENDMENT 57
+
+ARTICLE 33
+
+SECTION 1. The clearance, replanning, redevelopment, rehabilitation and improvement of
+blighted and substandard areas shall be a public use and purpose for which the power of eminent
+domain may be exercised, tax monies and other public funds expended and public credit pledged.
+The General Assembly may authorize cities, towns, or local redevelopment agencies to undertake
+and carry out projects approved by the local legislative body for such uses and purposes
+including (a) the acquisition in such areas of such properties as the local legislative body may
+deem necessary or proper to effectuate any of the purposes of this article, although temporarily
+not required for such purposes, and (b) the sale or other disposition of any such properties to
+private persons for private uses or to public bodies for public uses.
+
+SEC. 2. This amendment shall take effect whenever a majority of electors voting at a special
+election, to which this amendment is submitted after adoption by the Constitutional
+Convention.shall approve the same.
+
+[Adopted July 12, 1955]
+
+*** MEND ***
+
+*** MSTART 058 001.0 9099.0 0 RI 1843 1958 ***
+
+AMENDMENT 58
+
+ARTICLE 34
+
+SECTION 1. The general assembly is authorized and empowered to enact legislation prescribing
+the time, place, manner and extent of voting by electors of this state who are absent from the
+state, or who, by reason of old age, physical disability, illness or other physical infirmities, are
+unable to vote in person.
+
+SEC. 2. All laws of the state in effect on the date of the adoption hereof relating to the time,
+place, manner and extent of voting by the electors of the state referred to in section 1 hereof shall
+remain in full force and effect until amended or repealed by the General Assembly.
+
+SEC. 3. This amendment shall supersede all other provisions of the constitution inconsistent
+herewith and shall take in the constitution of the state the place of Article XXIII of articles of
+amendment to the constitution, which said article is hereby annulled.
+
+SEC. 4. This amendment shall take effect whenever a majority of electors voting at a special
+election, to which this amendment is submitted, after adoption by the constitutional convention,
+shall approve the same.
+
+[Adopted February 27, 1958; Annuls Article 23 (1948) of the Articles of Amendment 
+amendment 38 in the database  which had replaced Article 21 (1930; amendment 36 in the
+database) which had replaced Article 4 (1864; amendment 4 in the database)]
+
+*** MEND ***
+
+*** MSTART 059 013.0 9099.0 0 RI 1843 1958 ***
+
+AMENDMENT 59
+
+ARTICLE 35
+
+SECTION 1. That portion of the fourth Section of the twenty-ninth Article of Amendment to the
+Constitution of the state reading as follows:
+"Beginning in January of each year in which a general election is to be held a census of registered
+voters at their addresses appearing in the registration records shall be jointly made in each voting
+district of each city and town by two persons appointed by said authority, one of whom shall
+represent one of the two political parties; and the other of whom shall represent the other of the
+two political parties whose candidates for Governor shall have received the larger numbers of
+votes in the general election then next preceding. Said persons, having conducted the census,
+shall deliver their report of said census to the canvassing authority. The canvassing authority
+shall forthwith notify every person reported as not residing at the address on said records of
+voters to appear before said canvassing authority within a certain time thereafter to show cause, if
+any, why his name should not be stricken from said records of vote. If such person so notified
+fails to appear as aforesaid, or appearing fails to show such cause, the canvassing authority shall,
+strike the name a of such person from said records of voters."
+is hereby annulled.
+
+SEC. 2. The General Assembly is authorized and empowered to provide by law for a method of
+canvassing the lists of qualified electors.
+
+SEC. 3. If a majority of electors voting at a special election, to which this amendment is
+submitted after adoption by the Constitutional Convention, shall approve the same this
+amendment shall become effective on December 31, 1958 unless the General Assembly prior
+thereto shall enact provisions for a method of canvassing said lists in which case this amendment
+shall take effect upon such enactment.
+
+[Adopted Feb 27, 1958; Amends portion of section 4 of Article 23 of Articles of Amendment. 
+See note in any of the database amendments between 49-53 which reads as follows:
+"This amendment changed and adjusted voting provisions in Article 2, sections 1, 2, 3, and 6,
+and Article 8, section 10 (see note to Article 8, section 0 amendment 13 and 23 in the database)
+which had been changed and adjusted with the following Articles of Amendment: Article 7
+(1888), Article 11, section 11 (1900), Article 18 (1928), Article 20 (1928).  For clarity, the entire
+text of this amendment has been repeated in the database for each change."]
+
+*** MEND ***
+
+*** MSTART 060 013.0 004.0 0 RI 1843 1962 ***
+
+AMENDMENT 60
+
+ARTICLE 36
+
+SECTION 1. The general assembly, in order to insure continuity of state and local governmental
+operations, including the judicial function, in. periods of emergency resulting from disasters
+caused by enemy attack, shall have the power and the immediate duty (1) to provide for prompt
+and temporary succession to the powers and duties of public offices, of whatever nature and
+whether filled by election or appointment, the incumbents of which may become unavailable for
+carrying on the powers and duties of such offices, (2) to enact legislation permitting the
+convening of the general assembly of any place within or without the state of Rhode Island, and
+(3) to adopt such other measures as may be necessary and proper for insuring the continuity of
+governmental operations during the period of said emergency.
+
+SEC. 2. Any law enacted under this amendment shall apply to all cities and town regardless of
+their form of charter.
+
+SEC. 3. During said period of emergency the general assembly shall have the power to incur state
+debts exceeding the limitation set forth in article of amendment XXXI.
+
+Sec. 4. The powers granted and the laws enacted under this amendment shall not lie effective
+after two (2) years following the inception of an enemy attack.
+
+[Adopted Nov 6, 1962; Article 4, section 13; annuls Article 31 of the Articles of the
+Amendment amendment 35 in the database]
+
+*** MEND ***
+
+*** MSTART 061 017.0 001.0 0 RI 1843 1970 ***
+
+AMENDMENT 61
+
+ARTICLE 37
+
+SECTION I. Article I section 17 of the state constitution is hereby amended by striking out this
+said section as it now appears and inserting in place thereof the following new section: Section
+17. The people shall continue to enjoy and freely exercise all the rights of fishery, and the
+privileges of the shore, to which they have been heretofore entitled under the charter and usages
+of this state; and they shall be secure in their rights to the use and enjoyment of the natural
+resources of the state with due regard for the preservation of their values; and it shall be the duty
+of the general assembly to provide for the conservation of the air, land, water, plant, animal,
+mineral and other natural resources of the state, and to adopt all means necessary and proper by
+law to protect the natural environment of the people of the state by providing adequate resources
+planning for the control and regulation of the use of the natural resources of the state and for the
+preservation, regeneration and restoration of the natural environment of the state.
+
+SEC. 2. This amendment shall take in the constitution of the state, the place of section 17 of
+article I of the constitution; which said section and all other provisions of the constitution
+inconsistent herewith are hereby annulled.
+
+[Adopted Nov 3, 1970; Article 1, section 17]
+
+*** MEND ***
+
+*** MSTART 062 000.0 002.0 0 RI 1843 1973 ***
+
+AMENDMENT 62
+Article 2 Repealed
+
+[Repealed Nov 6, 1973]
+
+[Article 2 had been amended by several amendments over the course of the twentieth century. 
+Amendments  20 (1928) 22 (1944), 24 (1950), 25 (1950), 26 (1950), 29 (1951), and 35 (1958). 
+Article 38 to the Articles of Amendment in effect replaces all these amendments, and therefore
+Article 2 and it various parts.  Since the article had been completely rewritten with this
+amendment, the new sections will be numbered sequentially in the database sections 1 through 3
+and the entire text of the amendment will be repeated in each entry for clarity.]
+
+[This amendment also amends Article 8, section 10 (see note in Article 8, sec 0), Amendments
+30, 34, and 35 of the Articles of Amendment, all which pertained to the Suffrage.]
+
+*** MEND ***
+
+*** MSTART 063 001.0 002.0 0 RI 1843 1973 ***
+
+AMENDMENT 63
+
+OF SUFFRAGE 
+
+SECTION 1. Every citizen of the United States of the age of eighteen years or over who has had
+his residence and home in this State for thirty days next preceding the time of voting, who has
+resided thirty days in the town or city from which he desires to vote, and whose name shall be
+registered at least thirty days next preceding the time of voting as provided by law, shall have the
+right to vote for all officers to be elected and on all questions submitted to the electors, except
+that no person who has been lawfully adjudicated to be non compos menus shall be permitted to
+vote. Nor shall any person otherwise qualified to vote as provided in this Article be permitted to
+vote while serving a prison sentence on final conviction of a felony nor subsequent to such
+imprisonment until the franchise shall have been restored by an Act of the General Assembly.
+The General Assembly may provide by law for shorter state and local residence requirements to
+vote for electors for President and Vice President of the United States.
+
+
+[Adopted Nov 6, 1973; See note in Article 2, section 0]
+
+*** MEND ***
+
+*** MSTART 064 002.0 002.0 0 RI 1843 1973 ***
+
+AMENDMENT 64
+
+
+Sec. 2. The General Assembly shall provide by law for the nomination of candidates; for a
+uniform system of permanent registration of voters; for the exemption from such registration of
+persons in the active service of the nation and their families absent from the state because of such
+service, and, in time of war, members of the Merchant Marine; for absentee and shut in voting;
+for the time, manner and place of conducting elections; for the prevention of abuse, corruption
+and fraud in voting; and may define by law residence for voting purposes, but no person shall
+acquire such residence merely by being stationed or assigned in this State in the active service of
+the United States.
+
+The General Assembly shall require each candidate for general office in any primary, general or
+special election to report to the Secretary of State all contributions and expenditures made by any
+person to or on behalf of such candidate, provided however, that the General Assembly may limit
+such disclosure to contributions or expenditures in excess of such an amount as the General
+Assembly shall specify.
+
+
+[Adopted Nov 6, 1973; See note in Article 2, section 0]
+
+*** MEND ***
+
+*** MSTART 065 003.0 002.0 0 RI 1843 1973 ***
+
+AMENDMENT 65
+
+SEC. 3. All laws of the State in effect on the date of the adoption hereof relating to qualifications
+of electors, time, place, manner and extent of voting by electors, and not inconsistent herewith,
+shall remain in full force and effect until amended or repealed by the General Assembly.
+
+
+[Adopted Nov 6, 1973; See note in Article 2, section 0]
+
+*** MEND ***
+
+*** MSTART 066 001.0 9099.0 0 RI 1843 1973 ***
+
+AMENDMENT 66
+
+This Article of Amendment is annulled.
+
+SEC. 4. This amendment shall take in the Constitution of the State the places of Article II
+Section 5, and of Articles XXII XXIV, XXIX, XXX, XXXIV, and XXXV of the Articles of
+Amendment to the Constitution, which said articles, and all provisions of the Constitution
+inconsistent herewith are hereby annulled.
+
+[Adopted Nov 6, 1973; Replaces Article 34 of the Articles of Amendment. Also see note in
+Article 2, section 0]
+
+*** MEND ***
+
+
+*** MSTART 067 010.0 008.0 0 RI 1843 1973 ***
+
+AMENDMENT 67
+
+This section is annulled. 
+
+SEC. 4. This amendment shall take in the Constitution of the State the places of Article II
+Section 5, and of Articles XXII XXIV, XXIX, XXX, XXXIV, and XXXV of the Articles of
+Amendment to the Constitution, which said articles, and all provisions of the Constitution
+inconsistent herewith are hereby annulled.
+
+[Adopted Nov 6, 1973; Article 8, section 10 see note to Article 8, section 0; also see note in
+Article 2, section 0]
+
+*** MEND ***
+
+
+*** MSTART 068 011.0 9099.0 0 RI 1843 1973 ***
+
+AMENDMENT 68
+
+This Article of Amendment is annulled. 
+
+SEC. 4. This amendment shall take in the Constitution of the State the places of Article II
+Section 5, and of Articles XXII XXIV, XXIX, XXX, XXXIV, and XXXV of the Articles of
+Amendment to the Constitution, which said articles, and all provisions of the Constitution
+inconsistent herewith are hereby annulled.
+
+[Adopted Nov 6, 1973; Amended Article 30 of the Articles of Amendment; also see note in
+Article 2, section 0]
+
+*** MEND ***
+
+
+*** MSTART 069 013.0 9099.0 0 RI 1843 1973 ***
+
+AMENDMENT 69
+
+This Article of Amendment is annulled.
+
+SEC. 4. This amendment shall take in the Constitution of the State the places of Article II
+Section 5, and of Articles XXII XXIV, XXIX, XXX, XXXIV, and XXXV of the Articles of
+Amendment to the Constitution, which said articles, and all provisions of the Constitution
+inconsistent herewith are hereby annulled.
+
+[Adopted Nov 6, 1973; Amended Article 35 of the Articles of Amendment; also see note in
+Article 2, section 0]
+
+*** MEND ***
+
+*** MSTART 070 001.0 009.0 0 RI 1843 1973 ***
+
+Amendment 70
+
+ARTICLE 39
+QUALIFICATIONS FOR OFFICE
+
+SECTION 1. No person shall hold any civil office unless he be a qualified elector for such office.
+
+SEC. 2. This amendment shall take in the Constitution of the State, the place of Section 1 of
+Article IX, which said section and all other provisions of the Constitution inconsistent herewith
+are hereby annulled.
+
+
+[Adopted Nov 6, 1973; Article 9, section 1]
+
+*** MEND ***
+
+*** MSTART 071 007.0 001.0 0 RI 1843 1973 ***
+
+AMENDMENT 71
+
+ARTICLE 40
+GRAND JURY
+
+SECTION 1. Except in cases of impeachment, or in cases arising in the land or naval forces, or in
+the militia when in actual service in time of war or public danger, no person shall be held to
+answer for any offense which is punishable by death or by imprisonment for life unless on
+presentment or indictment by a grand jury, and no person shall be held to answer for any other
+felony unless on presentment or indictment by a grand jury or on information in writing signed
+by the Attorney General or one of his designated assistants, as the General Assembly may
+provide and in accordance with procedures to be enacted by the General Assembly, provided
+however, that until such procedures are adopted, prosecution of all felonies shall be as presently
+provided. The General Assembly may authorize the impaneling of grand juries with authority to
+indict for offenses committed any place within the State and it may provide that more than one
+grand jury may, sit simultaneously within a county. No person shall be subject for the same
+offense to be twice put in jeopardy. Nothing contained in this article shall be construed as in
+anywise impairing the inherent Common Law powers of the grand jury.
+
+SEC. 2. This article shall take in the constitution of the State the place of Article I Section 7,
+which said Section and all provisions of the constitution inconsistent herewith are hereby
+annulled.
+
+[Adopted Nov 6, 1973; Article 1, section 7]
+
+*** MEND ***
+
+*** MSTART 072 012.0 004.0 0 RI 1843 1973 ***
+
+AMENDMENT 72
+
+ARTICLE 41
+LOTTERIES
+
+SECTION 1. All lotteries shall hereafter be prohibited in the State except lotteries operated by
+the State and except those previously permitted by the General Assembly prior to the adoption of
+this amendment, and all shall hereafter be subject to the prescription and regulation of the
+General Assembly; provided that before the adoption of this amendment no other lotteries shall
+be permitted or authorized.
+
+SEC.  6. This article shall take in the constitution of the State the place of Article IV, Section 12,
+which said Section is hereby annulled.
+
+[Adopted Nov 6, 1973; Article 4, section 12]
+
+*** MEND *** 
+
+*** MSTART 073 000.0 013.0 0 RI 1843 1973 ***
+
+AMENDMENT 73
+
+Article 13 REPEALED
+
+[Repealed Nov 6, 1973]
+
+*** MEND ***
+
+*** MSTART 069 001.0 013.0 0 RI 1843 1973 ***
+
+AMENDMENT 74
+
+ARTICLE 42
+CONSTITUTIONAL AMENDMENTS AND REVISIONS
+
+SECTION 1. The General Assembly may propose amendments to the Constitution of the State by
+a roll call vote of a majority of the members elected to each house. Any amendment thus
+proposed shall be published in such manner as the General Assembly shall direct, and submitted
+to the electors at the next general election as provided in tile resolution of approval; and, if then
+approved by a majority of the electors voting thereon, it shall become a part of the Constitution.
+
+SEC. 2. The General Assembly, by a vote of a majority of the members elected to each house,
+may at any general election submit the question, "Shall there be a convention to amend or revise
+the constitution?" to the qualified electors of the State. If the question be not submitted to the
+people at some time during any period of ten years, the Secretary of State shall submit it at the
+next general election following said period Prior to a vote by the qualified electors on the holding
+of. a convention, the General Assembly, or the Governor if the General Assembly fails to act,
+shall provide for a bipartisan preparatory commission to assemble information, on constitutional
+questions for the electors.
+
+If a majority of the electors voting at such election on paid question shall vote to hold a
+convention, the General Assembly at its next session shall provide by law for the election of
+delegates to such convention. The number of delegates shall be equal to the number of members
+of the House of Representatives and shall be apportioned in the same manner as the members of
+the House of Representatives. No revision or amendment of this Constitution agreed upon by
+such convention shall take effect until the same has been submitted to the electors and approved
+by a majority of those voting thereon.
+
+Sec. 3. This article shall take in the constitution the place of Article XIII, which said article is
+hereby annulled.
+
+[Adopted Nov 6, 1973; Replaces Article 13, which only contained 1 section]
+
+*** MEND ***
+
+*** MSTART 075 015.0 001.0 0 RI 1843 1976 ***
+
+AMENDMENT 75
+
+Article 43
+Petit Jury
+
+Added as second sentence to section 15, Article 1.
+"In civil cases the general assembly may fix the size of the petit jury at less than twelve but not
+less than six."
+
+[November 2, 1976; Article I Section 15]
+
+*** MEND ***
+
+
+*** MSTART 076 009.0 001.0 0 RI 1843 1973 ***
+
+AMENDMENT 76
+
+Article 44
+
+All persons imprisoned ought to be bailed by sufficient surety, unless for offenses punishable by
+imprisonment for life, or for offenses involving the use or threat of use of a dangerous weapon by
+one already convicted of such offense or already convicted of an offense punishable by
+imprisonment for life, when the proof of guilt is evident or the presumption great. Nothing in this
+section shall be construed to confer a right to bail, pending appeal of a conviction. 
+
+The privilege of the writ of habeas corpus shall not be suspended, unless when in cases of
+rebellion or invasion, the public safety shall require it; nor ever without the authority of the
+general assembly.
+
+[Adopted November 5, 1984; Article I Section 9]
+
+*** MEND ***
+
+*** CEND ***

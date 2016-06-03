@@ -1,0 +1,2909 @@
+Heather Jacobsen worked on this constitution.
+
+I worked on it June 17, 2004
+
+
+It is ready to go.
+
+
+
+
+                                 
+*** CSTART SD 10/01/1889 01/01/2004 ***
+
+CONSTITUTION OF SOUTH DAKOTA 1889 
+
+*** ASTART 9001.0 SD 1889 ***
+
+PREAMBLE
+
+*** SSTART 001.0 9001.0 0 SD 1889 ***
+
+We, the people of South Dakota, grateful to Almighty God for our civil and religious liberties,
+in order to form a more perfect and independent government, establish justice, insure tranquility,
+provide for the common defense, promote the general welfare and preserve to ourselves and to
+our posterity the blessings of liberty, do ordain and establish this constitution for the State of
+South Dakota.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 001.0 SD 1889 ***
+
+ARTICLE I
+
+NAME AND BOUNDARY
+
+*** SSTART 001.0 001.0 0 SD 1889 ***
+
+SEC. 1. The name of the State shall be South Dakota.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 SD 1889 ***
+
+SEC. 2. The boundaries of the State of South Dakota shall be as follows: Beginning at the point
+of intersection of the western boundary line of the State of Minnesota with the northern boundary
+line of the State of Iowa, and running thence northerly along the western boundary line of the
+State of Minnesota to its intersection with the 7th standard parallel; thence west on the line of the
+7th standard parallel produced due west to its intersection with the 27th meridian of longitude
+west from Washington, thence south on the 27th meridian of longitude west from Washington to
+its intersection with the northern boundary line of the State of Nebraska; thence easterly along the
+northern boundary line of the State of Nebraska to its intersection with the western boundary line
+of the State of Iowa; thence northerly along the western boundary line of the State of Iowa to its
+intersection with the northern boundary line of the State of Iowa; thence east along the northern
+boundary line of the State of Iowa to the place of beginning.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 SD 1889 ***
+
+ARTICLE II
+
+DIVISION OF THE POWERS OF GOVERNMENT
+
+*** SSTART 001.0 002.0 0 SD 1889 ***
+
+SEC. 1. The powers of the government of the state are divided into three distinct departments-the
+legislative, executive and judicial; and the powers and duties of each are prescribed by this
+constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 SD 1889 ***
+
+ARTICLE III
+
+LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.0 003.0 0 SD 1889 ***
+
+SEC. 1. The legislative power shall be vested in a legislature, which shall consist of a Senate and
+House of Representatives.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 SD 1889 ***
+
+SEC. 2. The number of members of the house of representatives shall not be less than seventy-
+five nor more than one hundred and thirty-five. The number of members of the Senate shall not
+be less than twenty-five nor more than forty-five.
+The sessions of the legislature shall be biennial except as otherwise provided in this
+constitution.
+
+*** SEND ***
+*** SSTART 003.0 003.0 0 SD 1889 ***
+
+SEC. 3. No person shall be eligible to the office of senator who is not a qualified elector in the
+district from which he may be chosen, and a citizen of the United States, and who shall not have
+attained the age of twenty-five years, and who shall not have been a resident of the state or
+territory for two years next preceding his election.
+       No person shall be eligible to the office of representative who is not a qualified elector in the
+district from which he may be chosen, and a citizen of the United States, and who shall not have
+been a resident of the state or territory for two years next preceding his election, and who shall
+not have attained the age of twenty-five years.
+       No judge or clerk of any court, secretary of state, attorney general, state's attorney, recorder,
+sheriff or collector of public moneys, member of either house of congress, or person holding any
+lucrative office under the United States or this state, or any foreign government, shall be a
+member of the legislature; Provided, that appointments in the militia, the offices of notary public
+and justice of the peace shall not be considered lucrative; nor shall any person holding any office
+of honor or profit under any foreign government or under the government of the United States,
+except postmasters whose annual compensation does not exceed the sum of three hundred
+dollars, hold any office in either branch of the legislature or become a member thereof.
+
+*** SEND ***
+*** SSTART 004.0 003.0 0 SD 1889 ***
+
+SEC. 4. No person who has been, or hereafter shall be, convicted of bribery, perjury or other
+infamous crime, nor any person who has been, or may be collector or holder of public moneys
+who shall not have accounted for and paid over, according to law, all such moneys due from him,
+shall be eligible to the legislature or to any office in either branch thereof.
+
+*** SEND ***
+*** SSTART 005.0 003.0 0 SD 1889 ***
+
+SEC. 5. The legislature shall provide by law for the enumeration of the inhabitants of the state in
+the year one thousand eight hundred and ninety-five and every ten years thereafter, and at its first
+regular session after each enumeration, and also after each enumeration made by authority of the
+United States, but at no other time, the legislature shall apportion the senators and representatives
+according to the number of inhabitants, excluding Indians not taxed and soldiers and officers of
+the United States army and navy; Provided, that the legislature may make an apportionment at its
+first session after the a mission of South Dakota as a State.
+
+*** SEND ***
+*** SSTART 006.0 003.0 0 SD 1889 ***
+
+SEC. 6. The terms of the office of the members of the legislature shall be two years; they shall
+receive for their services the sum of five dollars for each day's attendance during the session of
+the legislature, and ten cents for every mile of necessary travel in going to and returning from the
+place of meeting of the legislature on the most usual route.
+Each regular session of the legislature shall not exceed sixty days, except in cases of
+impeachment, and members of the legislature shall receive no other pay or perquisites except per
+diem and mileage.
+
+*** SEND ***
+*** SSTART 007.0 003.0 0 SD 1889 ***
+
+SEC. 7. The legislature shall meet at the seat of government on the first Tuesday after the first
+Monday of January at 12 o'clock m., in the year next ensuing the election of members thereof,
+and at no other time except as provided by this constitution.
+
+*** SEND ***
+*** SSTART 008.0 003.0 0 SD 1889 ***
+
+SEC. 8. Members of the legislature and officers thereof, before they enter upon their official
+duties, shall take and subscribe the following oath or affirmation: I do solemnly swear (or affirm)
+that I will support the constitution of the United States and the constitution of the State of South
+Dakota, and will faithfully discharge the duties of (senator, representative or officer) according to
+the best of my abilities, and that I have not knowingly or intentionally paid or contributed
+anything, or made any promise in the nature of a bribe, to directly or indirectly influence any vote
+at the election at which I was chosen to fill said office, and have not accepted, nor will I accept or
+receive, directly or indirectly, any money, pass, or any other valuable thing, from any
+corporation, company or person, for any vote or influence I may give or withhold on any bill or
+resolution, or appropriation, or for any other official act.
+     The oath shall be administered by a judge of the supreme or circuit, court, or the presiding
+officer of either house, in the hall of the house to which the member or officer is elected, and the
+secretary of state shall record and file the oath subscribed by each member and officer.
+ Any member or officer of the legislature who shall refuse to take the oath herein prescribed
+shall forfeit his office.
+ Any member or officer of the legislature who shall be convicted of having sworn falsely to or
+violated his said oath, shall forfeit, his office and be disqualified thereafter from holding the
+office of senator or member of the house of representatives or any office within the gift of the
+legislature.
+
+*** SEND ***
+*** SSTART 009.0 003.0 0 SD 1889 ***
+
+SEC. 9. Each house shall be the judge of the election returns and qualifications of its own
+members.
+A majority of the members of each house shall constitute a quorum, but a smaller number may
+adjourn from day to day, and may compel the attendance of absent members in such a manner
+and under such penalty as each house may provide.
+Each house shall determine the rules of its proceedings, shall choose its own officers and
+employees and fix the pay thereof, except as otherwise provided in this constitution.
+
+*** SEND ***
+*** SSTART 010.0 003.0 0 SD 1889 ***
+
+SEC. 10. The governor shall issue writs of election to fill such vacancies as may occur in either
+house of the legislature.
+
+*** SEND ***
+*** SSTART 011.0 003.0 0 SD 1889 ***
+
+SEC. 11. Senators and representatives shall, in all cases except treason, felony or breach of the
+peace, be privileged from arrest during the session of the legislature, and in going to and
+returning from the same; and for words used in any speech or debate in either house, they shall
+not be questioned in any other place.
+
+*** SEND ***
+*** SSTART 012.0 003.0 0 SD 1889 ***
+
+SEC. 12. No member of the legislature shall, during the term for which he was elected, be
+appointed or elected to any civil office in the State which shall have been created, or the
+emoluments of which shall have been increased during the term for which he was elected, nor
+shall any member receive any civil appointment from the governor, the governor and senate, or
+from the legislature during the term for which he shall have been elected, and all such
+appointments and all votes given for any such members for any such office or appointment shall
+be void; nor shall any member of the legislature during the term for which he shall have been
+elected, or within one year thereafter, be interested, directly or indirectly, in any contract with the
+State or any county thereof, authorized by any law passed during the term for which he shall have
+been elected.
+
+*** SEND ***
+*** SSTART 013.0 003.0 0 SD 1889 ***
+
+SEC. 13. Each house shall keep a journal of its proceedings and publish the same from time to
+time, except such parts as require secrecy and the yeas and nays of members on any question
+shall be taken at the desire of one-sixth of those present and entered upon the journal.
+
+*** SEND ***
+*** SSTART 014.0 003.0 0 SD 1889 ***
+
+SEC. 14. In all elections to be made by the legislature the members thereof shall vote viva voce
+and their votes shall be entered in the journal.
+
+*** SEND ***
+*** SSTART 015.0 003.0 0 SD 1889 ***
+
+SEC. 15. The sessions of each house and of the committee of the whole shall be open, unless
+when the business is such as ought to be kept secret.
+
+*** SEND ***
+*** SSTART 016.0 003.0 0 SD 1889 ***
+
+SEC. 16. Neither house shall, without the consent of the other adjourn for more than three days,
+nor to any other place than that in which the two houses shall be sitting.
+
+*** SEND ***
+*** SSTART 017.0 003.0 0 SD 1889 ***
+
+SEC. 17. Every bill shall be read three several times, but the first and second reading may be on
+the same day, and the second reading may be by the title of the bill, unless the reading at length
+be demanded. The first and third readings shall be at length.
+
+*** SEND ***
+*** SSTART 018.0 003.0 0 SD 1889 ***
+
+SEC. 18. The enacting clause of a law shall be: "Be it enacted by the Legislature of the State of
+South Dakota" and no law shall be passed unless by assent of a majority of all the members
+elected to each house of the legislature. And the question upon the final passage shall be taken
+upon its last reading, and the yeas and nays shall be entered upon the journal.
+
+*** SEND ***
+*** SSTART 019.0 003.0 0 SD 1889 ***
+
+SEC. 19. The presiding officer of each house shall, in the presence of the house over which he
+presides, sign all bills and joint resolutions passed by the legislature, after their titles have been
+publicly read immediately before signing, and the fact of signing shall be entered upon the
+journal.
+
+*** SEND ***
+*** SSTART 020.0 003.0 0 SD 1889 ***
+
+SEC. 20. Any bill may originate in either house of the legislature, and a bill passed by one house
+may be amended in the other.
+
+*** SEND ***
+*** SSTART 021.0 003.0 0 SD 1889 ***
+
+SEC. 21. No law shall embrace more than one subject, which shall be expressed in its title.
+
+*** SEND ***
+*** SSTART 022.0 003.0 0 SD 1889 ***
+
+SEC. 22. No act shall take effect until ninety days after the adjournment of the session at which it
+passed, unless in case of emergency (to be expressed in the preamble or body of the act) the
+legislature shall, by a vote of two-thirds of all the members elected of each house, otherwise
+direct.
+
+*** SEND ***
+*** SSTART 023.0 003.0 0 SD 1889 ***
+
+SEC. 23. The legislature is prohibited from enacting any private or special laws in the following
+cases:
+1. Granting divorces.
+2. Changing the names of persons or places, or constituting one person the heir-at-law of
+another.
+ 3. Locating or changing county-seats.
+ 4. Regulating county and township affairs.
+5. Incorporating cities, towns and villages or changing or amending the charter of any town,
+city or village, or laying out, opening, vacating or altering town plats, streets, wards, alleys and
+public ground.
+6. Providing for sale or mortgage of real estate belonging to minor or others under disability.
+7. Authorizing persons to keep ferries across streams wholly within the State.
+ 8. Remitting fines, penalties or forfeitures.
+9. Granting to an individual, association or corporation any special or exclusive privilege,
+immunity or franchise whatever.
+ 10. Providing for the management of common schools.
+11. Creating, increasing or decreasing fees, percentages or allowances of public officers during
+the term for which said. officers are elected or appointed.
+ But the legislature may repeal any existing special law relating to the foregoing subdivisions.
+In all other cases where a general law can be applicable, no special law shall be enacted.
+
+*** SEND ***
+*** SSTART 024.0 003.0 0 SD 1889 ***
+
+SEC. 24. The legislature shall have no power to release or extinguish, in whole or in part, the
+indebtedness, liability or obligation of any corporation or individual to this State or to any
+municipal corporation therein.
+
+*** SEND ***
+*** SSTART 025.0 003.0 0 SD 1889 ***
+
+SEC. 25. The legislature shall not authorize any game of chance, lottery or gift enterprise, under
+any pretense, or for any purpose whatever.
+
+*** SEND ***
+*** SSTART 026.0 003.0 0 SD 1889 ***
+
+SEC. 26. The legislature shall not delegate to any special commission, private corporation or
+association any power to make, supervise or interfere with any municipal improvement, money,
+property, effects, whether held in trust or otherwise, or levy taxes or to select a capital site or to
+perform any municipal functions whatever.
+
+*** SEND ***
+*** SSTART 027.0 003.0 0 SD 1889 ***
+
+SEC. 27. The legislature shall direct by law in what manner and in what court, suits may brought
+against the State.
+
+*** SEND ***
+*** SSTART 028.0 003.0 0 SD 1889 ***
+
+SEC. 28. Any person who shall give, demand, offer, directly or indirectly, any money,
+testimonial, privilege or personal advantage, anything of value to an executive or judicial officer
+or member of the legislature, to influence him in the performance of any of his official or public
+duties shall be guilty of bribery and shall be punished in such manner as shall be provided by
+law. 
+The offense of corrupt solicitation of members of the legislature, or of public officers of the
+State, or any municipal division thereof, and any effort toward solicitation of said members of the
+legislature or officers to influence their official action shall be defined by law, and shall be
+punishable by fine, and imprisonment.
+Any person may, be compelled to testify in investigation or judicial proceedings against any
+person charged with having committed any offense of bribery or corrupt solicitation, and shall
+not be permitted to withhold his testimony upon the ground that it may criminate himself, but
+said testimony shall not afterward be used against him in any judicial proceeding except for
+bribery in giving such testimony, and any person convicted of either of the offenses aforesaid
+shall be disqualified from holding any office or position or office of trust or profit in this State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 SD 1889 ***
+
+ARTICLE IV
+
+EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 004.0 0 SD 1889 ***
+
+SEC. 1. The executive power shall be vested in a governor who shall hold his office for two
+years. A lieutenant governor shall be elected at the same time and for the same term.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 SD 1889 ***
+
+SEC. 2. No person shall be eligible to the office of governor or lieutenant governor except a
+citizen of the United States and a qualified elector of the State, who shall have attained the age of
+30 years, and who shall have resided two years next preceding the election within the State or
+territory; nor shall he be eligible to any other office during the term for which he shall have been
+elected.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 SD 1889 ***
+
+SEC. 3.The governor and lieutenant governor shall be elected by the qualified electors of the
+State at the time and places of choosing members of the legislature. The persons respectively
+having the highest number of votes for governor and lieutenant governor shall be elected; but if
+two or more shall have an equal and highest number of votes for governor or lieutenant governor,
+the two houses of the legislature at its next regular session shall forthwith, by joint ballot, choose
+one of such persons for said office. The returns of the election for governor and lieutenant
+governor shall be made in such manner as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 SD 1889 ***
+
+SEC. 4. The governor shall be commander-in-chief of the military and naval forces of the State,
+except when then shall be called into the service of the United States, and may call out the same
+to execute laws, suppress insurrection and repel invasion. He shall have power to convene the
+legislature on extraordinary occasions. He shall, at the commencement of each session,
+communicate to the legislature by message, information of the condition of the State, and shall
+recommend such measures as he shall deem expedient. He shall transact all necessary business
+with the officers of the government, civil and military. He shall expedite all such measures as
+may be resolved upon by the legislature and shall take care that the laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 SD 1889 ***
+
+SEC. 5. The governor shall have power to remit fines and forfeitures, to grant reprieves,
+commutations and pardons after conviction for all offences except treason and cases of
+impeachment; provided, that in all cases where the sentence of the court is capital punishment,
+imprisonment for life or a longer term than two years, or a fine exceeding $200, no pardon shall
+be granted, sentence commuted or fine remitted except. upon the recommendation in writing of a
+board of pardons, consisting of the presiding judge, secretary of state and attorney general, after
+full hearing in open session, and such recommendation, with the reasons therefor, shall be filed
+in the office of the secretary of state; but the legislature may by law in all cases regulate the
+manner in which the remission of fines, pardons, commutations and reprieves may be applied for.
+Upon conviction for treason he shall have the power to suspend the execution of the sentence
+until the case shall be reported to the legislature at its next regular session, when the legislature
+shall either pardon or commute the sentence, direct the execution of the sentence or grant a
+further reprieve. He shall communicate to the legislature at each regular session, each case of
+remission of fine, reprieve, commutation or pardon granted by him in the cases in which he is
+authorized to act without the recommendation of the said board of pardons, stating the name of
+the convict, the crime of which he is convicted, the sentence and its date, and the date of the
+remission, commutation, pardon or reprieve, with his reasons for granting the same.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 SD 1889 ***
+
+SEC. 6. In case of death, impeachment, resignation, failure to qualify, absence from the State,
+removal from office, or other disability of the governor, the powers and duties of the office for
+the residue of the term or until he shall be acquitted, or the disability removed, shall devolve
+upon the lieutenant governor.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 SD 1889 ***
+
+SEC. 7 . The lieutenant governor shall be president of the senate, but shall have only a casting
+vote therein. If during a vacancy of the office of governor the lieutenant governor shall be
+impeached, displaced, resign or die, or from mental or physical disease or otherwise, become
+incapable of performing the duties of his office the secretary of state shall act as governor until
+the vacancy shall be filled or the disability removed.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 SD 1889 ***
+
+SEC. 8. When any office shall from any cause become vacant and no mode is provided by the
+constitution or law for filling such vacancy, the governor shall have the power to fill such
+vacancy by appointment.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 SD 1889 ***
+
+SEC. 9. Every bill which shall have passed the legislature shall, before it becomes a law, be
+presented to the governor. If lie approve, he shall sign it; but if not, he shall return it with his
+objection to the house in which it originated, which shall enter the objection at large upon the
+journal and proceed to reconsider it. If after such reconsideration, two-thirds of the members
+present shall agree to pass the bill, it shall be sent together with the objection, to the other house,
+by which it shall likewise be reconsidered, and if it be approved by two-thirds of the members
+present, it shall become a law; but in all such cases the vote of both houses shall be determined
+by the yeas and nays, and the names of the members voting for and against the bill shall be
+entered upon the journal of each house respectively. If any bill shall [not] be returned by the
+governor within three days (Sundays excepted) after it shall have been presented to him, the same
+shall be a law, unless the legislature shall by its adjournment prevent its return, in which case it
+shall be filed, with his objection, in the office of the secretary of state within ten days after such
+adjournment, or become a law.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 SD 1889 ***
+
+SEC. 10. The governor shall have power to disapprove of any item or items of any bill making
+appropriations of money embracing distinct items, and the part or parts of the bill approved shall
+be law, and the item or items disapproved shall be void unless enacted in the following manner:
+If the legislature be in session he shall transmit to the house in which the bill originated, a copy
+of the item or items thereof disapproved, together with his objections thereto, and the items
+objected to shall be separately reconsidered, and each item shall then take the same course as is
+prescribed for the passage of bills over the executive veto.
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 SD 1889 ***
+
+SEC. 11. Any governor of this State who asks, receives, or agrees to receive any bribe upon any
+understanding that his official opinion, judgment or action shall be influenced thereby, or who
+gives or offers, or promises his official influence in consideration that any member of the
+legislature shall give his official vote or influence on any particular of any question or matter
+upon which he may be required to act in his official capacity, or who menaces any member by the
+threatened use of his veto power or who offers or promises any member that he, the said
+governor, will appoint, any particular person or persons to any office created or thereafter to be
+created in consideration that any member shall give his official vote or influence on any matter
+pending or thereafter to be introduced into either house of said legislature or who threatens any
+member that he, the said governor, will remove any person or persons from any office or position
+with intent to in an manner influence the official action of said member shall be punished in the
+manner now, or that may hereafter be, provided by law, and upon conviction thereon shall forfeit
+all right to hold or exercise any office of trust or honor in this State.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 SD 1889 ***
+
+SEC. 12. There shall be chosen by the qualified electors of the, State at the times and places of
+choosing members of the legislature a secretary of state, auditor, treasurer, superintendent of
+public instruction, commissioner of school and public lands, and attorney general, who shall
+severally hold their offices for the term of two years, but no person shall be eligible to the office
+of treasurer for more than two terms consecutively. They shall respectively keep their offices at
+the seat of government.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 SD 1889 ***
+
+SEC. 13. The powers and duties of the secretary of state, auditor, treasurer, superintendent of
+public instruction, commissioner of school and public lands and attorney general shall be as
+prescribed by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 SD 1889 ***
+
+ARTICLE V
+
+JUDICIAL DEPARTMENT
+
+*** SSTART 001.0 005.0 0 SD 1889 ***
+
+SEC. 1. The judicial powers of the State, except as in this constitution otherwise provided, shall
+be vested in a supreme court, circuit courts, county courts and justices of the peace, and such
+other courts as may be created by law or cities and incorporated towns.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 SD 1889 ***
+
+SUPREME COURT
+
+SEC. 2. The supreme court, except as otherwise provided in this constitution, shall have
+appellate jurisdiction only, which shall be coextensive with the State, and shall have a general
+superintending control over all inferior courts, under such regulations and limitations as may be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 SD 1889 ***
+
+SEC. 3. The supreme court and the judges thereof shall have power to issue writs of habeas
+corpus. The supreme court shall have power to issue writs of mandamus, quo warranto,
+certiorari, injunction and other original and remedial writs, with authority to hear and determine
+the same in such cases and under such regulations as may be prescribed by law, provided,
+however, that no jury trials shall be allowed in said supreme court, but, in proper cases, questions
+of fact may be sent by said court to a circuit court for a trial before a jury.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 SD 1889 ***
+
+SEC. 4. At least two terms of the supreme court shall be held each year at the seat of government.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 SD 1889 ***
+
+SEC. 5. The supreme court shall consist of three judges, to be chosen from districts by qualified
+electors of the State at large, as hereinafter provided.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 SD 1889 ***
+
+SEC. 6. The number of said judges and districts may, after five years from the admission of this
+State under this constitution, be increased by law to not exceeding five.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 SD 1889 ***
+
+SEC. 7. A majority of the judges of the supreme court shall be necessary to form a quorum or to
+pronounce a decision, but one or more of said judges may adjourn the court from day to day or to
+a day certain.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 SD 1889 ***
+
+SEC. 8. The term of the judges of the supreme court who shall be elected at the first election
+under this constitution shall be four years. At all subsequent elections the term of said judges
+shall be six years.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 SD 1889 ***
+
+SEC. 9. The judges of the supreme court shall by rule select from their number a presiding judge,
+who shall act as such for the term prescribed by such rule.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 SD 1889 ***
+
+SEC. 10. No person shall be eligible to the office of judge of the supreme court unless he be
+learned in the law, be at least thirty years of age, a citizen of the United States, nor unless he shall
+have resided in this State or territory at least, two years next preceding his election and at the
+time of his election be a resident of the district from which he is elected; but for the purpose of
+re-election, no such judge shall be deemed to have lost his residence in the district by reason of
+his removal to the seat of government in the discharge of his official duties.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 SD 1889 ***
+
+SEC. 11. Until otherwise provided by law, the districts from which the said judges of the
+supreme court, shall be elected shall be constituted as follows:
+First District - All that portion of the State lying west of the Missouri river.
+Second District - All that portion of the State lying east of the Missouri river and south of the
+second standard parallel.
+Third District - All that portion of the State lying east of the Missouri river and north of the
+second standard parallel.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 SD 1889 ***
+
+SEC. 12. There shall be a clerk and also a reporter of the supreme court, who shall be appointed
+by the judges thereof and who Shall hold office during the pleasure of said judges, and whose
+duties and emoluments shall be prescribed by law, and by the rules of the supreme court not
+inconsistent with law. The legislature shall make provisions for the publication and distribution
+of the decisions of the supreme court, and for the sale of the published volumes thereof. No
+private person or corporation shall be allowed to secure any copyright to such decisions, but if
+any copyrights are secured they shall inure wholly to the benefit of the State.
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 SD 1889 ***
+
+SEC. 13. The governor shall have authority to require the opinions of the judges of the supreme
+court upon important questions of law involved in the exercise of his executive powers and upon
+solemn occasions.
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 SD 1889 ***
+
+CIRCUIT COURTS
+
+SEC. 14. The circuit courts shall have original jurisdiction of all actions and causes, both at law
+and in equity, and such appellate jurisdiction as may be conferred by law and consistent with this
+constitution; such jurisdiction as to value and amount and grade of offense, may be limited by
+law. They and the judges thereof shall also have jurisdiction and power to issue writs of habeas
+corpus mandamus, quo warranto, certiorari, injunction and other original and remedial writs,
+with authority to hear and determine the same.
+
+*** SEND ***
+*** SSTART 015.0 005.0 0 SD 1889 ***
+
+SEC. 15. The state shall be divided into judicial circuits in each of which there shall be elected
+by the electors thereof one judge of the circuit court therein, whose term of office shall be four
+years.
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 SD 1889 ***
+
+SEC. 16. Until otherwise ordered by law, said circuits shall be eight in number and constituted as
+follows, viz.
+First Circuit - The counties of Union, Clay, Yankton, Turner, Bon Homme, Hutchinson,
+Charles Mix, Douglas, Todd, Gregory, Tripp and Meyer.
+Second Circuit - The counties of- Lincoln, Minnehalia, McCook, Moody and Lake.
+ Third Circuit - The counties of Brookings, Kingsbury, Deuel, Hamlin, Codington, Clark,
+ Grant, Roberts, Day, and the Wahpeton and Sisseton reservation, except such portion of such
+ reservation as lies in Marshall county.
+Fourth Circuit - The counties of Sanborn, Davison, Aurora, Brule, Buffalo, Jerauld, Hanson,
+Miner, Lyman, Presho and Pratt.
+ Fifth Circuit - The counties of Beadle, Spink, Brown and Marshall.
+Sixth Circuit - The counties of Hand, Hyde, Hughes, Sully, Stanley, Potter, Faulk, Edmunds,
+Walworth, Campbell and McPherson and all that portion of said state lying east of the Missouri
+river and not included in any other judicial circuit.
+Seventh Circuit - The counties of Pennington, Custer, Fall River, Shannon, Washington,
+Ziebach, Sterling, Nowlin, Jackson, Washabaugh and Lugenbeel.
+Eighth Circuit - The counties of Lawrence, Meade, Scobey, Butte, Delano, Pyatt, Dewey,
+Boreman, Schnasse, Rinehart, Martin, Choteau, Ewing and Harding and all that portion of said
+state west of the Missouri river and north of the Big Cheyenne river and the north fork of the
+Cheyenne river not included in any other judicial circuit.
+
+*** SEND ***
+*** SSTART 017.0 005.0 0 SD 1889 ***
+
+SEC. 17. The legislature may, whenever two-thirds of the members of each house shall concur
+therein, increase the number of judicial circuits and the judges thereof, and divide the State into
+judicial circuits accordingly, taking care that they be formed of compact territory and be bounded
+by county lines, but such increase of number or change in the boundaries of districts shall not
+work the removal of any judge from his office during the term for which he shall have been
+elected or appointed.
+
+*** SEND ***
+*** SSTART 018.0 005.0 0 SD 1889 ***
+
+SEC. 18. Writs of error and appeals may be allowed from the decisions of the circuit courts to the
+supreme court under such regulations as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 019.0 005.0 0 SD 1889 ***
+
+COUNTY COURTS
+
+SEC. 19. There shall be elected in each organized county a county judge who shall be judge of
+the county court of said county, whose term of office shall be two years until otherwise provided
+by law.
+
+*** SEND ***
+*** SSTART 020.0 005.0 0 SD 1889 ***
+
+SEC. 20. County courts shall be courts of record and shall have original jurisdiction in all matters
+of probate guardianship and settlement of estates of deceased persons, and such other civil and
+criminal jurisdiction as may be conferred by law; Provided, that such courts shall not have
+jurisdiction in any case where the debt, damage, claim or value of property involved shall exceed
+one thousand dollars, except in matters of probate, guardianship and the estates of deceased
+persons. Writs of error and appeal may be allowed from county to circuit courts, or to the
+supreme court, in such cases and in such manner as may be prescribed by law; Provided, that no
+appeal or writ of error shall be allowed to the circuit court from any judgment rendered upon an
+appeal from a justice of the peace or police magistrate for cities or towns.
+
+*** SEND ***
+*** SSTART 021.0 005.0 0 SD 1889 ***
+
+SEC. 21. The county court shall not have jurisdiction in cases of felony, nor shall criminal cases
+therein be prosecuted by indictment; but they may have such jurisdiction in criminal matters, not
+of the grade of felony, as the legislature may prescribe, and the prosecutions therein may be by
+information or otherwise as the legislature may provide.
+
+*** SEND ***
+*** SSTART 022.0 005.0 0 SD 1889 ***
+
+JUSTICE OF THE PEACE
+
+SEC. 22. Justices of the peace shall have such jurisdiction as may be conferred by law, but they
+shall not have jurisdiction of any cause wherein the value of the property or the amount in
+controversy exceeds the sum of one hundred dollars, or where the boundaries or title to real
+property shall be called in question.
+
+*** SEND ***
+*** SSTART 023.0 005.0 0 SD 1889 ***
+
+POLICE MAGISTRATE
+
+SEC. 23. The legislature shall have power to provide for creating such police magistrate for cities
+and towns as may be deemed from time to time necessary, who shall have jurisdiction of all cases
+arising under the ordinances of such cities and towns respectively, and such police magistrates
+may also be constituted ex-officio justices of the peace for their respective counties.
+
+*** SEND ***
+*** SSTART 024.0 005.0 0 SD 1889 ***
+
+STATE'S ATTORNEY
+
+SEC. 24. The legislature shall have power to provide for State's attorneys and to prescribe their
+duties and fix their compensation; but no person shall be eligible to the office of attorney general
+or State's attorney who shall not at the time of his election be at least 25 years of age and possess
+all the other qualifications for judges of circuit courts as prescribed in this article.
+
+*** SEND ***
+*** SSTART 025.0 005.0 0 SD 1889 ***
+
+MISCELLANEOUS
+
+SEC. 25. No person shall be eligible to the office of judge of the circuit or county courts unless
+he be learned in the law, be at least 25 years of age, and a citizen of the United States; nor unless
+he shall have resided in this state or territory at least one year next preceding his election, and at
+the time of his election be a resident of the county or circuit, as the case may be, for which he is
+elected.
+
+*** SEND ***
+*** SSTART 026.0 005.0 0 SD 1889 ***
+
+SEC. 26. The judges of the supreme court, circuit courts and county courts shall be chosen at the
+first election held under the provisions of this constitution, and thereafter as provided by law, and
+the legislature may provide for the election of such officers on a different day from that on which
+an election is held for any other purpose and may, for the purpose of making such provision,
+extend or abridge the term of office for any such judges, then holding, but not in any case more
+than six months. The term of office of all judges of circuit courts, elected in the several judicial
+circuits throughout the state, shall expire on the same day.
+
+*** SEND ***
+*** SSTART 027.0 005.0 0 SD 1889 ***
+
+SEC. 27. The time of holding courts within said judicial circuits and counties shall be as
+provided by law; but at least one term of the circuit court shall be held annually in each organized
+county, and the legislature shall make provision for attaching unorganized counties or territory to
+original counties for judicial purposes.
+
+*** SEND ***
+*** SSTART 028.0 005.0 0 SD 1889 ***
+
+SEC. 28. Special terms of said courts may be held under such regulations as may be provided by
+law.
+
+*** SEND ***
+*** SSTART 029.0 005.0 0 SD 1889 ***
+
+SEC. 29. The judges of the circuit courts may hold courts in other circuits than their own under
+such regulations as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 030.0 005.0 0 SD 1889 ***
+
+SEC. 30. The judges of the supreme court, circuit courts and county courts shall each receive
+such salary as may be provided by law, consistent with this constitution, and no such judge shall
+receive any compensation, perquisite or emoluments for or on account of his office in any form
+whatever except such salary; provided that county judges may accept and receive such fees as
+may be allowed under the land laws of the United States.
+
+*** SEND ***
+*** SSTART 031.0 005.0 0 SD 1889 ***
+
+SEC. 31. No judge of the supreme court or circuit court shall act as attorney or counselor at law,
+nor shall any county judge act as an attorney or counselor at law in any case which is or may be
+brought into his court, or which may be appealed therefrom.
+
+*** SEND ***
+*** SSTART 032.0 005.0 0 SD 1889 ***
+
+SEC. 32. There shall be a clerk of the circuit court in each organized county who shall also be
+clerk of the county court, and who shall be elected by the qualified electors of such county. The
+duties and compensation of said clerk shall be as provided by law and regulated by the rules of
+the court consistent with the provisions of law.
+
+*** SEND ***
+*** SSTART 033.0 005.0 0 SD 1889 ***
+
+SEC. 33. Until the legislature shall provide by law for fixing the terms of courts, the judges of the
+supreme, circuit and county courts respectively shall fix the terms thereof.
+
+*** SEND ***
+*** SSTART 034.0 005.0 0 SD 1889 ***
+
+SEC. 34. All laws relating to courts shall be general and of uniform operation throughout the
+state, and the organization, jurisdiction, power, proceedings and practice of all the courts of the
+same class or grade, so far as regulated by law, and the force and effect of the proceedings,
+judgments and decrees of such courts severally shall be uniform; Provided, however, that the
+legislature may classify the county courts according to the population of the respective counties
+and fix the jurisdiction and salary of the judges thereof, accordingly.
+
+*** SEND ***
+*** SSTART 035.0 005.0 0 SD 1889 ***
+
+SEC. 35. No judge of the supreme or circuit courts shall be elected to any other than a judicial
+office or be eligible thereto, during the term for which he was elected such judge. All votes for
+either of them during such term for any elective office, except that of judge of the supreme court,
+circuit court or county court, given by the legislature or the people, shall be void.
+
+*** SEND ***
+*** SSTART 036.0 005.0 0 SD 1889 ***
+
+SEC. 36. All judges or other officers of the supreme, circuit or county courts provided for in this
+article shall hold their offices until their successors respectively are elected or appointed and
+qualified.
+
+*** SEND ***
+*** SSTART 037.0 005.0 0 SD 1889 ***
+
+SEC. 37. All officers provided for in this article shall respectively reside in the district, county,
+precinct, city or town for which they may be elected or appointed. Vacancies in the elective
+offices provided for in this article shall be filled by appointment until the next general election as
+follows: All judges of the supreme, circuit and county courts by the governor. All other judicial
+and other officers by the county board of the counties where the vacancy occurs; in cases of
+police magistrates, by the municipality.
+
+*** SEND ***
+*** SSTART 038.0 005.0 0 SD 1889 ***
+
+SEC. 38. All process shall run in the name of the "State of South Dakota." All prosecutions shall
+be carried on in the name of and by authority of the "State of South Dakota."
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 SD 1889 ***
+
+ARTICLE VI
+
+BILL OF RIGHTS
+
+*** SSTART 001.0 006.0 0 SD 1889 ***
+
+SEC. 1. All men are born equally free and independent, and have certain inherent rights, among
+which are those of enjoying and defending life and liberty, of acquiring and protecting property
+and the pursuit of happiness. To secure these rights governments are instituted among men,
+deriving their just powers from the consent of the governed.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 SD 1889 ***
+
+SEC. 2. No person shall be deprived of life, liberty or property without due process of law.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 SD 1889 ***
+
+SEC. 3. The right to worship God according to the dictates of conscience shall never be
+infringed. No person shall be denied any civil or political right, privilege or position on account
+of his religious opinions; but the liberty of conscience hereby secured shall not be so construed as
+to excuse licentiousness, the invasion of the rights of others, or justify practices inconsistent with
+the peace or safety of the State. No person shall be compelled to attend or support any ministry or
+place of worship against his consent, nor shall any preference be given by law to any religious
+establishment or mode of worship. No money or property of the state shall be given or
+appropriated for the benefit of any sectarian or religious society or institution.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 SD 1889 ***
+
+SEC. 4. The right of petition, and of the people peaceably to assemble to consult for the common
+good and make known their opinions, shall never be abridged.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 SD 1889 ***
+
+SEC. 5. Every person may freely speak, write and publish on all subjects, being responsible for
+the abuse of that right. In all trials for libel, both civil and criminal, the truth, when published,
+with good motives and for justifiable ends, shall be a sufficient defense. The jury shall have the
+right to determine the facts and the law under the direction of the court.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 SD 1889 ***
+
+SEC. 6. The right of trial by jury shall remain inviolate, and shall extend to all cases at law
+without regard to the amount in controversy, but the legislature may provide for a jury of less
+than twelve in any court not a court of record, and for the decision of civil cases by three-fourths
+of the jury in any court.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 SD 1889 ***
+
+SEC. 7. In all criminal prosecutions the accused shall have the right to defend in person and by
+counsel; to demand the nature and cause of the accusation against him; to have a copy thereof ; to
+meet the witnesses against him face to face; to have compulsory process served for obtaining
+witnesses in his behalf, and to a speedy public trial by an impartial jury of the county or district
+in which the offense is alleged to have been committed.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 SD 1889 ***
+
+SEC. 8. All persons shall be bailable by sufficient sureties, except for capital offenses when
+proof is evident or presumption great. The privilege of the writ of habeas corpus shall not be
+suspended, unless when in case of rebellion or invasion the public safety may require it.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 SD 1889 ***
+
+SEC. 9. No person shall be compelled in any criminal case to give evidence against himself or be
+twice put in jeopardy for the same offense.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 SD 1889 ***
+
+SEC. 10. No person shall be held for a criminal offense unless on the presentment or indictment
+of the grand jury, or information of the public prosecutor, except in cases of impeachment, in
+cases cognizable by county courts, by justices of the peace, and in cases arising in the army and
+navy, or in the militia when in actual service in time of war or public danger. Provided, that the
+grand jury may be modified or abolished by law.
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 SD 1889 ***
+
+SEC. 11. The right of the people to be secure in their persons, houses, papers and effects, against
+unreasonable searches any seizures, shall not be violated, and no warrant shall issued but upon
+probable cause supported by affidavit, particularly describing the place to be searched and the
+person or thing to be seized.
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 SD 1889 ***
+
+SEC. 12. No ex post facto law, or law impairing the obligation of contracts or making any
+irrevocable grant or privilege, franchise or immunity shall be passed.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 SD 1889 ***
+
+SEC. 13. Private property shall not be taken for public use, or damaged, without just
+compensation as determined by a jury, which shall be paid as soon as it can be ascertained and
+before possession is taken. No benefit which may accrue to the owner as a result of an
+improvement made by any private corporation may considered in fixing the compensation for
+property taken or damaged. The fee of land taken for railroad tracks or other highways shall
+remain in such owners, subject to the use for which it was taken.
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 SD 1889 ***
+
+SEC. 14.  No distinction shall ever be made by law between resident aliens and citizens in
+reference to the possession, enjoyment, or descent of property.
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 SD 1889 ***
+
+SEC. 15. No person shall be imprisoned for debt arising out of or founded upon a contract.
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 SD 1889 ***
+
+SEC. 16. The military shall be in strict subordination to the civil power. No soldier in time of
+peace shall be quartered in any house without consent of the owner, nor in time of war except in
+the manner prescribed by law.
+
+*** SEND ***
+*** SSTART 017.0 006.0 0 SD 1889 ***
+
+SEC. 17. No tax or duty shall be imposed without the consent of the people or their
+representatives in the legislature, and all taxation shall be equal and uniform.
+
+*** SEND ***
+*** SSTART 018.0 006.0 0 SD 1889 ***
+
+SEC. 18. No law shall be passed granting to any citizen, class of citizens or corporation,
+privileges or immunities which upon the same terms shall not equally belong to all citizens or
+corporations.
+
+*** SEND ***
+*** SSTART 019.0 006.0 0 SD 1889 ***
+
+SEC. 19. Elections shall be free and equal, and no power, civil or military, shall at any time
+interfere to prevent the tree exercise of the right of suffrage. Soldiers in time of war may vote at
+their post of duty in or out of the state, under regulations to be prescribed by the legislature.
+
+*** SEND ***
+*** SSTART 020.0 006.0 0 SD 1889 ***
+
+SEC. 20. All courts shall be open, and every man for an injury done him in his property, person
+or reputation, shall have remedy by due course of law, and right and justice administered without
+denial or delay.
+
+*** SEND ***
+*** SSTART 021.0 006.0 0 SD 1889 ***
+
+SEC. 21. No power of suspending law shall be exercised, unless by the legislature or its
+authority.
+
+*** SEND ***
+*** SSTART 022.0 006.0 0 SD 1889 ***
+
+SEC. 22. No person shall be attainted of treason or felony by the legislature.
+
+*** SEND ***
+*** SSTART 023.0 006.0 0 SD 1889 ***
+
+SEC. 23. Excessive bail shall not be required, excessive fines imposed, nor cruel punishments
+inflicted.
+
+*** SEND ***
+*** SSTART 024.0 006.0 0 SD 1889 ***
+
+SEC. 24. The right of the citizens to bear arms in defense of themselves and the state shall not be
+denied.
+
+*** SEND ***
+*** SSTART 025.0 006.0 0 SD 1889 ***
+
+SEC. 25. Treason against the state shall consist only in levying war against it, or in adhering to
+its enemies, or in giving them aid and comfort.  No person shall be convicted of treason unless on
+the testimony of two witnesses to the same overt act or confession in open court.
+
+*** SEND ***
+*** SSTART 026.0 006.0 0 SD 1889 ***
+
+SEC. 26. All political power is inherent in the people and all free government is founded on their
+authority, and is instituted for their equal protection and benefit, and they have the right in lawful
+and constituted methods to alter or reform their forms of government in such manner as they may
+think proper. And the state of South Dakota is an inseparable part of the American Union, and
+the constitution of the United States is the supreme law of the land.
+
+*** SEND ***
+*** SSTART 027.0 006.0 0 SD 1889 ***  
+
+SEC. 27. The blessings of a free government can only be maintained by a firm adherence to
+justice, moderation, temperance, frugality and virtue, and by frequent recurrence to fundamental
+principles.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 SD 1889 ***
+
+ARTICLE VII
+
+ELECTIONS AND RIGHT OF SUFFRAGE
+
+*** SSTART 001.0 007.0 0 SD 1889 ***
+
+SEC. 1. Every male person resident of this State who shall be of the age of 21 years and upwards,
+not otherwise disqualified, belonging to either of the following classes, who shall be a qualified
+elector under the laws of the territory of Dakota at the date of the ratification of this constitution
+by the people, or who shall have resided in the United States one year, in this state six months, in
+the county thirty days and in the election precinct where he offers his vote ten days next
+preceding any election. shall be deemed a qualified elector at such election.
+ First. Citizens of the United States.
+Second. Persons of foreign birth who shall have declared their intention to become citizens
+conformably to the laws of the United States upon the subject of naturalization.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 SD 1889 ***
+
+SEC. 2. The legislature shall at its first session after the admission of the state into the Union,
+subject to a vote of the electors of the state the following question to be voted upon at the next
+general election held thereafter, namely: "Shall the word 'male' be stricken from the article of the
+constitution relating to elections and the right of suffrage." If a majority of the votes cast upon
+that question are in favor of striking out said word "male," it shall be stricken out and there shall
+thereafter be no distinction between males and females in the exercise of the right of suffrage at
+any election in this state.
+
+[Note: This question was submitted to the people at the election held in November, 1890, and
+was rejected by the following vote: For, 22,072; against, 45,682.]
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 SD 1889 ***
+
+SEC. 3. All votes shall be by ballot, but the legislature may provide for numbering ballots for the
+purpose of preventing and detecting fraud.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 SD 1889 ***
+
+SEC. 4. All general elections shall be biennial.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 SD 1889 ***
+
+SEC. 5. Electors shall in all cases except treason, felony or breach of the peace, be privileged
+from arrest during their attendance at elections and in going to and returning from the same. And
+no elector shall be obliged to do military duty on the days of election except in time of war or
+public danger.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 SD 1889 ***
+
+SEC. 6. No elector shall be deemed to have lost his residence in this state by reason of his
+absence on business of the United States or of this state, or in the military or naval service of the
+United States.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 SD 1889 ***
+
+SEC. 7. No soldier, seaman or marine in the army or navy of the United States shall be deemed a
+resident of this state in consequence of being stationed therein.
+
+*** SEND ***
+*** SSTART 008.0 007.0 0 SD 1889 ***
+
+SEC. 8. No person under guardianship, non compos mentis or insane, shall be qualified to vote at
+any election, nor shall any person convicted of treason or felony be qualified to vote at any
+election unless restored to civil rights.
+
+*** SEND ***
+*** SSTART 009.0 007.0 0 SD 1889 ***
+
+SEC. 9. Any woman having the qualifications enumerated in Section 1, of this article, as to age,
+residence and citizenship, and including those now qualified by the laws of the territory, may
+vote at any election held solely for school purposes, and may hold any office in this state except
+as otherwise provided in this constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 SD 1889 ***
+
+ARTICLE VIII
+
+EDUCATION AND SCHOOL LANDS
+
+*** SSTART 001.0 008.0 0 SD 1889 ***
+
+SEC. 1. The stability of a republican form of government depending on the morality and
+intelligence of the people, it shall be the duty of the legislature to establish and maintain a general
+and uniform system of public schools wherein tuition shall be without charge, and equally open
+to all; and to adopt all suitable means to secure to the people the advantages and opportunities of
+education.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 SD 1889 ***
+
+SEC. 2. All proceeds of the sale of public lands that have heretofore been or may hereafter be
+given by the United States for the use of public schools in the State; all such per centum as may
+be granted by the United States on the sales of public lands; the proceeds of all property that shall
+fall to the State by escheat; the proceeds of all gifts or donations to the State for Public schools or
+not otherwise appropriated by the terms of the gift; and all property otherwise acquired for public
+schools, shall be and remain a perpetual fund for the maintenance of public schools in the State.
+It shall be deemed a trust fund held by the State. The principal shall forever remain inviolate, and
+may be increased, but shall never be diminished, and the State shall make good all losses thereof
+which may in any manner occur.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 SD 1889 ***
+
+SEC. 3. The interest and income of this fund, together with the net proceeds of all fines for
+violation of State laws and all other sums which may be added thereto by law, shall be faithfully
+used and applied each year for the benefit of the public schools of the State and shall be for this
+purpose apportioned among and between all the several public school corporations of the State in
+proportion to the number of children in each of school age, as may be fixed by law; and no part
+of the fund, either principal or interest, shall ever be diverted, even temporarily, from this
+purpose or used for any other purpose whatever than the maintenance of public schools for the
+equal benefit of all the people of the State.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 SD 1889 ***
+
+SEC. 4. After one year from the assembling of the first legislature, the lands granted to the State
+by the United States for the use of public schools may be sold upon the following conditions and
+no other: Not more than one-third of all such lands shall be sold within the first five years, and no
+more than two-thirds within the first fifteen years after the title thereto is vested in the State and
+the legislature shall, subject to the provisions of this article, provide for the sale of the same.
+The commissioner of school and public lands, the State auditor and the county superintendent
+of schools of the counties severally, shall constitute boards of appraisal and shall appraise all
+school lands within the several counties which they may from time to time select and designate
+for sale, at their actual value under the terms of sale. They shall take care to first select and
+designate for sale the most valuable lands; and they shall ascertain all such lands as may be of
+special and peculiar value, other than agricultural, and cause the proper sub-division of the same
+in order that the largest price may be obtained therefor.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 SD 1889 ***
+
+SEC. 5. No lands shall be sold for less than the appraised value, and in no case for less than ten
+dollars an acre. The purchaser shall pay one-fourth of the price in cash, and the remaining three-
+fourths as follows: One-fourth in five years, one-fourth in ten years, and one-fourth in fifteen
+years; with interest thereon at the rate of not less than six per centum per annum, payable
+annually in advance, but all such subdivided lands may be sold for cash, provided that upon
+payment of the interest, for one full year in advance, the balance of the purchase price may be
+paid at any time. All sales shall be at public auction to the highest bidder, after sixty days
+advertisement of the same in a newspaper of general circulation in the vicinity of the lands to be
+sold, and one at the seat of government. Such lands as shall not have been specially subdivided
+shall be offered in tracts of not more than eighty acres, and those so subdivided in the smallest
+subdivisions. All lands designated for sale and not sold within four years after appraisal, shall be
+re-appraised by the board of appraisal as hereinbefore provided before they are sold.
+
+*** SEND ***
+*** SSTART 006.0 008.0 0 SD 1889 ***
+
+SEC. 6. All sales shall be conducted through the office of the commissioner of school and public
+lands as may be prescribed by law, and returns of all appraisals and sales shall be made to said
+office. No sale shall operate to convey any right or title to any lands for sixty days after the date
+thereof, nor until the same shall have the approval of the governor in such form as may be
+provided by law. No grant or patent for any such lands shall issue until final payment be made.
+
+*** SEND ***
+*** SSTART 007.0 008.0 0 SD 1889 ***
+
+SEC. 7. All lands, money or other property donated, granted, or received from the United States
+or any other source for a university, agricultural college, normal schools or other educational or
+charitable institution or purpose, and the proceeds of all such lands and other property so
+received from any source, shall be and remain perpetual funds, the interest and income of which,
+together with the rents of all such lands as may remain unsold, shall be inviolably appropriated
+and applied to the specific objects of the original grants or gifts. The principal of every such fund
+may be increased, but shall never be diminished, and the interest and income only shall be used.
+Every such fund shall be deemed a trust fund held by the state, and the state shall make good all
+losses therefrom that shall in any manner occur.
+
+*** SEND ***
+*** SSTART 008.0 008.0 0 SD 1889 ***
+
+SEC. 8. All lands mentioned in the preceding section shall be appraised and sold in the same
+manner and by the same officers and boards under the same limitations and subject to all the
+conditions as to price, sale and approval provided above for the appraisal and sale of lands for the
+benefit of public schools, but a distinct and separate account shall be kept by the proper officers
+of each of such funds.
+
+*** SEND ***
+*** SSTART 009.0 008.0 0 SD 1889 ***
+
+SEC. 9. No lands mentioned in this article shall be leased except for pasturage and meadow
+purposes and at public auction after notice as hereinbefore provided in ease of sale and shall be
+offered in tracts not greater than one section. All rents shall be payable annually in advance, and
+no term of lease shall exceed five years, nor shall any lease be valid until it receives the approval
+of the governor.
+
+*** SEND ***
+*** SSTART 010.0 008.0 0 SD 1889 ***
+
+SEC. 10. No claim to any public lands by any trespasser thereon by reason of occupancy,
+cultivation or improvement thereof, shall ever be recognized; nor shall compensation ever be
+made on account of any improvements made by such trespasser.
+
+*** SEND ***
+*** SSTART 011.0 008.0 0 SD 1889 ***
+
+SEC. 11. The moneys of the permanent school and other educational funds shall be invested only
+in first mortgages upon good improved farm land within this State as hereinafter provided, or in
+bonds of school corporations within the State, or in bonds of the United States, or of the State of
+South Dakota. The legislature shall provide by law the method of determining the amounts of
+said funds which shall be invested from time to time in such classes of securities respectively,
+taking care to secure continuous investments as far as possible.
+All moneys of said funds which may from time to time be designated for investment in farm
+mortgages and in the bonds of school corporations shall for such purpose be divided among the
+organized counties of the State in proportion to population as nearly as provisions by law to
+secure continuous investments may permit. The several counties shall hold and manage the same
+as trust funds, and the shall be and remain responsible and accountable for the principal and
+interest of all such moneys received by them from the date of receipt until returned because not
+loaned; and in case of loss to any money so apportioned to any county, such county shall make
+the same good out of its common revenue. Counties shall invest said money in bonds of school
+corporations, or in first mortgages upon good improved farm lands within their limits
+respectively; but no farm. loan shall exceed $500 to any one person, nor shall it exceed one-half
+the valuation of the lands as assessed for taxation, and the rate of interest shall not be less than 6
+per centum per annum, and shall be such other and higher rate as the legislature may provide, and
+shall be payable semi-annually on the first days of January and July; provided, that whenever
+there are moneys of said funds in any county amounting to $1,000 that cannot be loaned
+according to the provisions of this section and any law pursuant thereto, the said sum may be
+returned to the state treasurer to be entrusted to some other county or counties, or otherwise
+invested under the provisions of this section.
+Each county shall semi-annually, on the first day of January and July render an account of the
+condition of the funds intrusted to it to the auditor of state, and at the same time pay to or account
+to the state treasurer for the interest due on all funds intrusted to it.
+The legislature may provide by general law that counties may retain from interest collected in
+excess of six per centum. per annum upon all said funds intrusted to them, not to exceed one per
+centum per annum. But no county shall be exempted from the obligation to make semi-annual
+payments to the state treasury of interest at the rate provided by law for such loans, except only
+said one per centum, and in no case shall the interest so to be paid be less than six per centum per
+annum.
+The legislature shall provide by law for the safe investment of the permanent school and other
+educational funds, and for the prompt collection of interest and income thereof, and to carry out
+the objects and provisions of this section.
+
+*** SEND ***
+*** SSTART 012.0 008.0 0 SD 1889 ***
+
+SEC. 12. The governor may disapprove any sale, lease or investment other than such as are
+intrusted to the counties.
+
+*** SEND ***
+*** SSTART 013.0 008.0 0 SD 1889 ***
+
+SEC. 13. All losses to the permanent school or other educational funds of this state which shall
+have been occasioned by the defalcation, negligence, mismanagement or fraud of the agents or
+officers controlling and managing the same, shall be audited by the proper authorities of the state.
+The amount so audited shall be a permanent funded debt against the state in favor of the fund
+sustaining the loss upon which not less than six per centum of annual interest shall be paid. The
+amount of indebtedness so created shall not be counted as a part of the indebtedness mentioned
+in Article XIII, Sec. 2.
+
+*** SEND ***
+*** SSTART 014.0 008.0 0 SD 1889 ***
+
+SEC. 14. The legislature shall provide by law for the protection of the school lands from trespass
+or unlawful appropriation, and for their defense against all unauthorized claims or efforts to
+divert them from the school fund.
+
+*** SEND ***
+*** SSTART 015.0 008.0 0 SD 1889 ***
+
+SEC. 15. The legislature shall make such provisions by general taxation, and by authorizing the
+school corporations to levy such additional taxes, as with the income from the permanent school
+fund shall secure a thorough and efficient system of common schools throughout the state.
+
+*** SEND ***
+*** SSTART 016.0 008.0 0 SD 1889 ***
+
+SEC. 16. No appropriation of lands, money or other property or credits to aid any sectarian
+school shall ever be made by the state, or any county or municipality within the state, nor shall
+the state or any county or municipality within the state accept any grant, conveyance, gift or
+bequest of lands, money or other property to be used for sectarian purposes, and no sectarian
+instruction shall be allowed in any school or institution aided or supported by the state.
+
+*** SEND ***
+*** SSTART 017.0 008.0 0 SD 1889 ***
+
+SEC. 17. No teacher, State, county, township or district school officer shall be interested in the
+sale, proceeds or profits of any book, apparatus or furniture used or to be used in any school in
+this state, under such penalties as shall be provided by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 SD 1889 ***
+
+ARTICLE IX
+
+COUNTY AND TOWNSHIP ORGANIZATION
+
+*** SSTART 001.0 009.0 0 SD 1889 ***
+
+SEC. 1. The legislature shall provide by general law for organizing new counties, locating the
+county seats thereof and changing county lines; but no new county shall be organized so as to
+include all area of less than twenty-four congressional. townships, as near as may be without
+dividing a township or fractional township, nor shall the boundaries of any organized county be
+changed so as to reduce the same to a less area than above specified. All changes in county
+boundaries in counties already organized, before taking effect, shall be submitted to the electors
+of the county or counties to be affected thereby, at the next general election thereafter and be
+adopted by a majority of the votes cast in each county at such election. Counties now organized
+shall remain as they are unless changed according to the above provisions.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 SD 1889 ***
+
+SEC. 2. In counties already organized where the county seat has not been located by a majority
+vote. it shall be the duty of the county board to submit the location of the county seat to the
+electors of said county at a general election. The place receiving the majority of all votes cast at
+said election shall be the county seat of said county.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 SD 1889 ***
+
+SEC. 3. Whenever a majority of the legal voters of any organized county shall petition the county
+board to change the location of the county seat which has once been located by a majority vote,
+specifying the place to which it is to be changed, said county board shall submit the same to the
+people of said county at the next general election, and if the proposition to change the county seat
+be ratified by two-thirds of the votes cast at said election, then the county seat shall be changed,
+otherwise not. A proposition to change the location of the county seat of any organized county
+shall not again be submitted before the expiration of four years.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 SD 1889 ***
+
+SEC. 4. The legislature shall provide by general law for organizing the counties into townships,
+having due regard for congressional township lines and natural boundaries, and whenever the
+population is sufficient and the natural boundaries will permit, the civil townships shall be co-
+extensive with the congressional townships.
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 SD 1889 ***
+
+SEC. 5. In each organized county at the first general election held after the admission of the State
+of South Dakota into the Union, and every two years thereafter, there shall be elected a clerk of
+the court, sheriff, county auditor, register of deeds, treasurer, state's attorney, surveyor, coroner,
+and superintendent of schools, whose terms of office respectively shall be two years, and except
+the clerk of the court, no person shall be eligible for more than four years in succession to any of
+the above named offices.
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 SD 1889 ***
+
+SEC. 6. The legislature shall provide by general law for such county, township and district
+officers as may be deemed necessary, and shall prescribe the duties and compensation of all
+county, township and district officers.
+
+*** SEND ***
+*** SSTART 007.0 009.0 0 SD 1889 ***
+
+SEC. 7. All county, township and district officers shall be electors in the county, township or
+district in which they are elected, provided that nothing in this section shall prevent the holding
+of school offices by any person as provided in Section 9, Article VII.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 SD 1889 ***
+
+ARTICLE X
+
+MUNICIPAL CORPORATIONS
+
+*** SSTART 001.0 010.0 0 SD 1889 ***
+
+SEC. 1. The legislature shall provide by general laws for the organization and classification of
+municipal corporations. The number of such classes shall not exceed four, and the powers of
+each class shall be defined by general laws, so that no such corporations shall have any powers,
+or be subject to any restrictions other than those of all corporations of the same class. The
+legislature shall restrict the power of such corporations to levy taxes and assessments, borrow
+money and contract debts, so as to prevent the abuse of such power.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 SD 1889 ***
+
+SEC. 2. Except as otherwise provided in this constitution, no tax or assessment shall be levied or
+collected, or debts contracted by municipal corporations, except in pursuance of law, for public
+purposes specified by law; nor shall money raised by taxation, loan or assessment for one
+purpose ever be diverted to any other.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 SD 1889 ***
+
+SEC. 3. No street passenger railway or telegraph or telephone lines shall be constructed within
+the limits of any village, town or city without the consent of its local authorities.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 SD 1889 ***
+
+ARTICLE XI
+
+REVENUE AND FINANCE
+
+*** SSTART 001.0 011.0 0 SD 1889 ***
+
+SEC. 1. The legislature shall provide for an annual tax sufficient to defray the estimated ordinary
+expenses of the state, for each year, not to exceed in any one year two mills on each dollar of the
+assessed valuation of all taxable property in the state, to be ascertained by the last assessment
+made for state and county purposes.
+And whenever it shall appear that such ordinary expenses shall exceed the income of the state
+for such year, the legislature shall provide for levying a tax for the ensuing year, sufficient with
+other sources of income, to pay the deficiency of the preceding year, together with the estimated
+expenses of such ensuing year. And for the purpose of paying the public debt, the legislature
+shall provide for levying a tax annually, sufficient, to pay the annual interest and the principal of
+such debt within ten years from the final passage of the law creating the debt, provided that the
+annual tax for the payment of the interest and principal of the public debt shall not exceed in any
+one year two mills on each dollar of the assessed valuation of all taxable property in the state as
+ascertained by the last assessment made for the state and county purposes.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 SD 1889 ***
+
+SEC. 2. All taxes to be raised in this state shall be uniform on all real and personal property,
+according to its value in money, to be ascertained by such rules of appraisement and assessment
+as may be prescribed by the legislature by general law, so that every person and corporation shall
+pay a tax in proportion to the value of his her or its property. And the legislature shall provide by
+general law for the assessing and levying of taxes on all corporation property as near as may be
+by the same methods as are provided for assessing and levying of taxes on individual property.
+
+*** SEND ***
+*** SSTART 003.0 011.0 0 SD 1889 ***
+
+SEC. 3. The power to tax corporations and corporate property shall not be surrendered or
+suspended by any contract or grant to which the state shall be a party.
+
+*** SEND ***
+*** SSTART 004.0 011.0 0 SD 1889 ***
+
+SEC. 4. The legislature shall provide for taxing all moneys, credits, investments in bonds, stocks,
+joint stock companies, or otherwise; and also for taxing the notes and bills discounted or
+purchased, moneys loaned and all other property, effects or dues of every description, of all
+banks and of all bankers, so that all property employed in banking shall always be subject to a
+taxation equal to that imposed on the property of individuals.
+
+*** SEND ***
+*** SSTART 005.0 011.0 0 SD 1889 ***
+
+SEC. 5. The property of the United States and of the state, county, and municipal corporations,
+both real and personal, shall be exempt from taxation.
+
+*** SEND ***
+*** SSTART 006.0 011.0 0 SD 1889 ***
+
+SEC. 6. The legislature shall, by general law, exempt from taxation, property used exclusively for
+agricultural and horticultural societies, for school, religious, cemetery and charitable purposes,
+and personal property to any amount not exceeding in value two hundred dollars, for each
+individual liable to taxation.
+
+*** SEND ***
+*** SSTART 007.0 011.0 0 SD 1889 ***
+
+SEC. 7. All laws exempting property from taxation, other than that enumerated in Sections 5 and
+6 of this article, shall be void.
+
+*** SEND ***
+*** SSTART 008.0 011.0 0 SD 1889 ***
+
+SEC. 8. No tax shall be levied except in pursuance of a law, which shall distinctly state the object
+of the same, to which the tax only shall be applied.
+
+*** SEND ***
+*** SSTART 009.0 011.0 0 SD 1889 ***
+
+SEC. 9. All taxes levied and collected for state purposes shall be paid into the state treasury. No
+indebtedness shall be incurred or money expended by the state, and no warrant shall be drawn
+upon the state treasurer except in pursuance of an appropriation for the specific purpose first
+made. The legislature shall provide by suitable enactment for carrying this section into effect.
+
+*** SEND ***
+*** SSTART 010.0 011.0 0 SD 1889 ***
+
+SEC. 10. The legislature may vest the corporate authority of cities, towns and villages with
+power to make local improvements by special taxation of contiguous property or otherwise. For
+all corporate purposes, all municipal corporations may be vested with authority to assess and
+collect taxes; but such tax shall be uniform in respect to persons and property within the
+jurisdiction of the body levying the same.
+
+*** SEND ***
+*** SSTART 011.0 011.0 0 SD 1889 ***
+
+SEC. 11. The making of profit, directly or indirectly, out of state, county, city, town or school
+district money, or using the same for any purpose not authorized by law, shall be deemed a
+felony and shall be punished as provided by law.
+
+*** SEND ***
+*** SSTART 012.0 011.0 0 SD 1889 ***
+
+SEC. 12. An accurate statement of the receipts and expenditures of the public moneys shall be
+published annually in such manner as the legislature may provide.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 SD 1889 ***
+
+ARTICLE XII
+
+PUBLIC ACCOUNTS AND EXPENDITURES
+
+*** SSTART 001.0 012.0 0 SD 1889 ***
+
+SEC. 1. No money shall be paid out of the treasury except upon appropriation by law and on
+warrant drawn by the proper officer.
+
+*** SEND ***
+*** SSTART 002.0 012.0 0 SD 1889 ***
+
+SEC. 2. The general appropriation bill shall embrace nothing but appropriations for ordinary
+expenses of the executive, legislative and judicial departments of the state, the current expenses
+of state institutions, interest on the public debt, and for common schools. All other appropriations
+shall be made by separate bills, each embracing but one object, and shall require a two-thirds
+vote of all the members of each branch of the legislature.
+
+*** SEND ***
+*** SSTART 003.0 012.0 0 SD 1889 ***
+
+SEC. 3. The legislature shall never grant any extra compensation to any public officer, employee,
+agent or contractor after the services shall have been rendered or the contract entered into, nor
+authorize the payment of any claims or part thereof created against the state, under any agreement
+or contract made without express authority of law, and such unauthorized agreements or
+contracts shall be null and void; nor shall the compensation of any public officer be increased or
+diminished during his term of office; Provided, however, that the legislature may make
+appropriations for expenditures incurred in suppressing or repelling invasion.
+
+*** SEND ***
+*** SSTART 004.0 012.0 0 SD 1889 ***
+
+SEC. 4. An itemized statement of all receipts and expenditures of the public moneys shall be
+published annually in such manner as the legislature shall provide, and such statements shall be
+submitted to the legislature at the beginning of each regular session by the governor with his
+message.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 SD 1889 ***
+
+ARTICLE XIII
+
+PUBLIC INDEBTEDNESS
+
+*** SSTART 001.0 013.0 0 SD 1889 ***
+
+SEC. 1. Neither the state nor any county, township or municipality shall loan or give its credit or
+make donations to or in aid of any individual, association or corporation except for the necessary
+support of the poor, nor subscribe to or become the owner of the capital stock of any association
+or corporation, nor pay or become responsible for the debt or liability of any individual,
+association or corporation; Provided, that, the state may assume or pay such debt or liability
+when incurred in time of war for the defense of the state. Nor shall the state engage in any work
+of internal improvement.
+
+*** SEND ***
+*** SSTART 002.0 013.0 0 SD 1889 ***
+
+SEC. 2. For the purpose of defraying extraordinary expenses and making public improvements,
+or to meet casual deficits or failure in revenue, the state may contract debts never to exceed, with
+previous debts, in the aggregate $100,000, and no greater indebtedness shall be incurred except
+for the purpose of repelling invasion, suppressing insurrection, or defending the state or the
+United States in war, and provision shall be made by law for the payment of the interest,
+annually, and the principal when due, by tax levied for the purpose, or from other sources of
+revenue; which law providing for the payment of such interest and principal by such tax or
+otherwise shall be irrepealable until such debt is paid; Provided, however, the State of South
+Dakota shall have the power to refund the territorial debt assumed by the State of South Dakota,
+by bonds of the State of South Dakota.
+
+*** SEND ***
+*** SSTART 003.0 013.0 0 SD 1889 ***
+
+SEC. 3. That the indebtedness of the State of South Dakota, limited by Sec. 2 of this article shall
+be in addition to the debt of the Territory of Dakota assumed by and agreed to be paid by South
+Dakota.
+
+*** SEND ***
+*** SSTART 004.0 013.0 0 SD 1889 ***
+
+SEC. 4. The debt of any county, city, town, school district or other subdivision, shall never
+exceed five per centum upon the assessed value of the taxable property therein.
+In estimating the amount of indebtedness which a municipality or subdivision may incur, the
+amount of indebtedness contracted prior to the adoption of this constitution shall be included.
+
+*** SEND ***
+*** SSTART 005.0 013.0 0 SD 1889 ***
+
+SEC. 5. Any city, county, town, school district or any Other subdivision incurring indebtedness
+shall, at or before the time of so doing, provide for the collection of an annual tax sufficient to
+pay the interest and also the principal thereof when due, and all laws or ordinances providing for
+the payment of the interest or principal of any debt shall be irrepealable until such debt, be paid.
+
+*** SEND ***
+*** SSTART 006.0 013.0 0 SD 1889 ***
+
+SEC. 6. In order that the payment of the debts and liabilities contracted or incurred by and in
+behalf of the Territory of Dakota may be justly and equitably provided for and made, an in
+pursuance of the requirements of an act of congress approved Feb. 22, 1889, entitled, "An Act to
+provide for the division of Dakota into two states and to enable the people of North Dakota,
+South Dakota, Montana and Washington to form constitutions and state governments and to be
+admitted into the Union on an equal footing with the original states, and to make donations of
+public lands to such states, the states of North Dakota and South Dakota, by proceedings of a
+joint commission, duly appointed under said act, the sessions whereof were held in Bismarck in
+said State of North Dakota from July 16, 1889, to July 31, 1889, inclusive, have agreed to the
+following adjustment of the amounts of the debts and liabilities of the Territory of Dakota which
+shall be assumed and paid by each of the States of North Dakota and South Dakota respectively,
+to wit:
+1. This agreement shall take effect and be in force from and after the admission into the Union,
+as one of the United States of America, of either the State of North Dakota or the State of South
+Dakota.
+2. The words "State of North Dakota" wherever used in this agreement, shall be taken to mean
+the Territory of North Dakota, in case the State of South Dakota shall be admitted into the Union
+prior to the admission into the Union of the State of North Dakota; and the words "State of South
+Dakota" wherever used in this agreement, shall be taken to mean the Territory of South Dakota in
+case the State of North Dakota shall be admitted into the Union prior to the admission into the
+Union of the State of South Dakota.
+3. The said State of North Dakota shall assume and pay all bonds issued by the Territory of
+Dakota to provide funds for the purchase, construction, repairs or maintenance of such public
+institutions, grounds or buildings as are located within the boundaries of North Dakota, and shall
+pay all warrants issued under and by virtue of that certain act of the legislative assembly of the
+Territory of Dakota, approved March 3, 1889, entitled, "An Act to provide for the refunding of
+outstanding warrants drawn on the capitol building fund."
+4. The said State of South Dakota shall assume and pay all bonds issued by the Territory of
+Dakota to provide funds for the purchase, construction, repairs or maintenance of such public
+institutions, grounds or buildings as are located within the boundaries of South Dakota.
+5. That is to say: The State of North Dakota shall assume and pay the following bonds and
+indebtedness, to-wit: Bonds issued on account of the hospital for insane at Jamestown, North
+Dakota, the face aggregate of which is two hundred and sixty-six thousand dollars; also, bonds
+issued on account of the North Dakota University at Grand Forks, North Dakota, the face
+aggregate of which is ninety-six thousand seven hundred dollars; also, bonds issued on account
+of the penitentiary at Bismarck, North Dakota, the face aggregate of which is ninety-three
+thousand six hundred dollars; also, refunding capitol building warrants dated April 1, 1889,
+eighty-three thousand five hundred and seven dollars and forty-six cents.
+And the State of South Dakota shall assume and pay the following bonds and indebtedness, to
+wit: Bonds issued on account of the Hospital for the Insane at Yankton, South Dakota, the face
+aggregate of which is two hundred and ten thousand dollars; also, bonds issued on account of the
+school for deaf mutes at Sioux Falls, South Dakota, the face aggregate of which is fifty-one
+thousand dollars; also, bonds issued on account of the university at Vermillion, South Dakota,
+the face aggregate of which is seventy-five thousand dollars; also, bonds issued on account of the
+penitentiary at Sioux Falls, South Dakota, the face aggregate of which is ninety-four thousand
+three hundred dollars; also, bonds issued on account of agricultural college at Brookings, South
+Dakota, the face aggregate of which is ninety-seven thousand five hundred dollars, also, bonds
+issued on account of the normal school at Madison, South Dakota, the face aggregate of which is
+forty-nine thousand four hundred dollars; also, bonds issued on account of [the] school of mines
+at Rapid City, South Dakota, the face aggregate of which is thirty-three thousand dollars; also,
+bonds issued on account of the reform school at Plankinton, South Dakota, the face aggregate of
+which is thirty thousand dollars also, bonds issued on account of the normal school at Spear Fish,
+South Dakota, the face aggregate of which is seventy-five thousand dollars; also, bonds issued on
+account of the soldier's home at Hot Springs, South Dakota, the face aggregate of which is forty-
+five thousand dollars.
+6. The states of North Dakota, and South Dakota shall pay one-half each of all liabilities now
+existing or hereafter and prior to the taking effect of this agreement incurred, except those
+heretofore and hereafter incurred on account of public institutions, grounds or buildings, except
+as otherwise herein specifically provided.
+7. The State of South Dakota shall pay to the State of North Dakota forty-six thousand five
+hundred dollars on account of the excess of territorial appropriations for the permanent
+improvement of territorial institutions which under this agreement will go to South Dakota, and
+in full of the undivided one-half interest of North Dakota in the territorial library, and in full
+settlement of unbalanced accounts, and of all claims against the territory of whatever nature,
+legal or equitable, arising out of the alleged erroneous or unlawful taxation of the Northern
+Pacific, railroad lands, and the payment of said amount shall discharge and exempt the State of
+South Dakota from all liability for or on account of the several matters hereinbefore referred to;
+nor shall either state be called upon to pay or answer to any portion of liability hereafter arising
+or accruing on account of transactions heretofore had, which liability would be a liability of the
+territory of Dakota had such territory remained in existence, and which liability shall grow out of
+matters connected with any public institution, grounds or buildings of the territory situated or
+located within the boundaries of the other state.
+8. A final adjustment of accounts shall be made upon the following basis: North Dakota shall
+be charged with all sums paid on account of the public institutions, grounds or buildings located
+within its boundaries on account of the current appropriations since March 8, 1889; and South
+Dakota shall be charged with all sums paid on account of public institutions, grounds or
+buildings located within its boundaries on the same account and during the same time. Each state
+shall be charged with one-half of all other expenses of the territorial government during the same
+time. All moneys paid into the treasury during the period from March 8, 1889 to the time of
+taking effect of this agreement by any county, municipality or person within the limits of the
+proposed State of North Dakota, shall be credited to the State of North Dakota; and all sums paid
+into said treasury within the same time by any county, municipality or person within the limits of
+the proposed State of South Dakota shall be credited to the State of South Dakota; except that
+any and all taxes on gross earnings paid into said treasury by railroad corporations since the
+eighth day of March, 1889, based upon earnings of years prior to 1888, under and by virtue of the
+act of the legislative assembly of the Territory of Dakota, approved March 7, 1889, and entitled
+"An Act providing for the levy and collection of taxes upon property of railroad companies in
+this territory," being Chapter 107 of the Session Laws of 1889, (that is, the part of such sum
+going to the territory) shall be equally divided between the States of North Dakota and South
+Dakota, and all taxes heretofore or hereafter paid into the said treasury under and by virtue of the
+act last mentioned, based on the gross earnings of the year 1888, shall be distributed as already
+provided by law, except that so much thereof as goes to the territorial treasury shall be divided as
+follows: North Dakota shall have so [much] thereof as shall be or has been paid by railroads
+within the limits of the proposed State of North Dakota and South Dakota so much thereof as
+shall be or has been paid by railroads within the limits of the proposed State of South Dakota.
+Each state shall be credited also with all balances of appropriations made by the seventeenth
+legislative assembly of the Territory of Dakota for the account of public institutions, grounds or
+buildings situated within its limits, remaining unexpended on March 8, 1889. If there be any
+indebtedness except the indebtedness represented by the bonds and refunding warrants
+hereinbefore mentioned, each state shall at the time of such final adjustments of accounts,
+assume its share of said indebtedness as determined by the amount paid on account of the public
+institutions, grounds or buildings of such state in excess of the receipts from counties,
+municipalities, railroad corporations or persons within the limits of said state as provided in this
+article; and if there should be a surplus at the time of such final adjustment, each state shall be
+entitled to the amounts received from counties, municipalities, railroad corporations or persons
+within its limits over and above the amount charged to it.
+
+*** SEND ***
+*** SSTART 007.0 013.0 0 SD 1889 ***
+
+SEC. 7. And the State of South Dakota hereby obligates itself to pay such part of the debts and
+liabilities of the Territory of Dakota as is declared by the foregoing agreement to be its
+proportion thereof, the same as if such proportion had been originally created by said State of
+South Dakota as its own debt or liability.
+
+*** SEND ***
+*** SSTART 008.0 013.0 0 SD 1889 ***
+
+SEC. 8. The territorial treasurer is hereby authorized and empowered to issue refunding bonds to
+the amount of $107,000, bearing interest not to exceed the rate of four per cent per annum, for the
+purpose of refunding the following described indebtedness of the Territory of Dakota, to wit:
+Seventy-seven thousand five hundred dollars 5 per cent bonds, dated May 1, 1883, issued for
+the construction of the west wing of the insane hospital at Yankton, and $30,000 6 per cent bonds,
+dated May 1, 1883, issued for permanent improvements [of the] Dakota penitentiary at Sioux
+Falls, such refunding bonds, if issued, to run for not more than twenty years, and shall be executed
+by the governor and treasurer of the territory, and shall be attested by the secretary under the great
+seal of the territory.
+In case such bonds are issued by the territorial treasurer as hereinbefore set forth, before the first
+day of October, 1889, then upon the admission of South Dakota as a state it shall assume and pay
+said bonds in lieu of the aforesaid territorial indebtedness.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 SD 1889 ***
+
+ARTICLE XIV
+
+STATE INSTITUTIONS
+
+*** SSTART 001.0 014.0 0 SD 1889 ***
+
+SEC. 1. The charitable and penal institutions of the State of South Dakota shall consist of a
+penitentiary, insane hospital, a school for the deaf and dumb, a school for the blind and a reform
+school.
+
+*** SEND ***
+*** SSTART 002.0 014.0 0 SD 1889 ***
+
+SEC. 2. The state institutions provided for in the preceding section shall be under the control of a
+state board of charities and corrections, under such rules and restrictions as the legislature shall
+provide; such board to consist of not to exceed five members, to be appointed by the governor and
+confirmed by the senate, and whose compensation shall be fixed by law.
+
+*** SEND ***
+*** SSTART 003.0 014.0 0 SD 1889 ***
+
+SEC. 3. The state university, the agricultural college, the normal schools and all other educational
+institutions that may be sustained either wholly or in part by the state shall be under the control of
+a board of nine members, appointed by the governor and confirmed by the senate, to be designated
+the regents of education. They shall hold their office for six years, three retiring every second year. 
+The regents in connection with the faculty of each institution shall fix the course of study in the
+same.  The compensation of the regents shall be fixed by the legislature.
+
+*** SEND ***
+*** SSTART 004.0 014.0 0 SD 1889 ***
+
+SEC. 4. The regents shall appoint a board of five members for each institution under their control,
+to be designated the board of trustees. They shall hold office for five years, one member retiring
+annually. The trustees of each institution shall appoint the faculty of the same, and shall provide
+for the current management of the institution, but ail appointments and removals must have the
+approval of the regents to be valid. The trustees of the several institutions shall receive no
+compensation for their services, but they shall be reimbursed for all expenses incurred in the
+discharge of their duties, upon presenting an itemized account of the same to the proper officer.
+Each board of trustees at its first meeting shall decide by lot the order in which its members shall
+retire from office.
+
+*** SEND ***
+*** SSTART 005.0 014.0 0 SD 1889 ***
+
+SEC. 5. The legislature shall provide that the science of mining and metallurgy be taught in at
+least one institution of learning under the patronage of the state.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 015.0 SD 1889 ***
+
+ARTICLE XV
+
+MILITIA
+
+*** SSTART 001.0 015.0 0 SD 1889 ***
+
+SEC. 1. The militia of the State of South Dakota shall consist of all able-bodied male persons
+residing in the state, between the ages of eighteen and forty-five years, except such persons as
+now are, or hereafter may be, exempted by the laws of the United States or of this state.
+
+*** SEND ***
+*** SSTART 002.0 015.0 0 SD 1889 ***
+
+SEC. 2. The legislature shall provide by law for the enrollment, uniforming, equipment and
+discipline of the militia, and the establishment of volunteer and such other organizations or both,
+as may be deemed necessary for the protection of the state, the preservation of order and the
+efficiency and good of the service.
+
+*** SEND ***
+*** SSTART 003.0 015.0 0 SD 1889 ***
+
+SEC. 3. The legislature in providing for the organization of the militia shall conform, as nearly as
+practicable, to the regulations for the government of the armies of the United States.
+
+*** SEND ***
+*** SSTART 004.0 015.0 0 SD 1889 ***
+
+SEC. 4. All militia officers shall be commissioned by the governor and may hold their
+commissions for such period of time as the legislature may provide, subject to removal by the
+governor for cause, to be first ascertained by a court-martial pursuant to law.
+
+*** SEND ***
+*** SSTART 005.0 015.0 0 SD 1889 ***
+
+SEC. 5. The militia shall in [all] cases except treason, felony or breach of the peace be privileged
+from arrest during their attendance at muster and elections and in going to and returning from the
+same.
+
+*** SEND ***
+*** SSTART 006.0 015.0 0 SD 1889 ***
+
+SEC. 6. All military records, banners and relics of the state, except when in lawful use, shall be
+preserved in the office of the adjutant general as an enduring memorial of the patriotism and valor
+of South Dakota; and it shall be the duty of the legislature to provide by law for the safe keeping
+of the same.
+
+*** SEND ***
+*** SSTART 007.0 015.0 0 SD 1889 ***
+
+SEC. 7. No person having conscientious scruples against bearing arms shall be compelled to do
+military duty in time of peace.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 016.0 SD 1889 ***
+
+ARTICLE XVI
+
+IMPEACHMENT AND REMOVAL FROM OFFICE
+
+*** SSTART 001.0 016.0 0 SD 1889 ***
+
+SEC. 1. The house of representatives shall have the sole power of impeachment.  The concurrence
+of a majority of all members elected shall be necessary to an impeachment.
+
+*** SEND ***
+*** SSTART 002.0 016.0 0 SD 1889 ***
+
+SEC. 2. All impeachments shall be tried by the senate. When sitting for that purpose the senator
+shall be upon oath or affirmation to do justice according to law and evidence. No person shall be
+convicted without the concurrence of two-thirds of the members elected. When the governor or
+lieutenant governor is on trial the presiding judge of the supreme court shall preside.
+
+*** SEND ***
+*** SSTART 003.0 016.0 0 SD 1889 ***
+
+SEC. 3. The governor and other state and judicial officers except county judges, justices of the
+peace and police magistrates shall be liable to impeachment for drunkenness, crimes, corrupt
+conduct, or malfeasance or misdemeanor in office, but judgment in such cases shall not extend
+further than to removal from office and disqualification to hold any office of trust or profit under
+the state. The person accused whether convicted or acquitted, shall nevertheless be liable to
+indictment, trial, judgment and punishment according to law.
+
+*** SEND ***
+*** SSTART 004.0 016.0 0 SD 1889 ***
+
+SEC. 4. All officers not liable to impeachment shall be subject to removal for misconduct or
+malfeasance or crime or misdemeanor in office or for drunkenness or gross incompetency, in such
+manner as may be provided by law.
+
+*** SEND ***
+*** SSTART 005.0 016.0 0 SD 1889 ***
+
+SEC. 5. No officer shall exercise the duties of his office after he shall have been impeached and
+before his acquittal.
+
+*** SEND ***
+*** SSTART 006.0 016.0 0 SD 1889 ***
+
+SEC. 6. On trial of an impeachment against the governor the lieutenant governor shall not act as a
+member of the court.
+
+*** SEND ***
+*** SSTART 007.0 016.0 0 SD 1889 ***
+
+SEC. 7. No person shall be tried on impeachment before he shall have been served with a copy
+thereof at least twenty days previous to the day set for trial.
+
+*** SEND ***
+*** SSTART 008.0 016.0 0 SD 1889 ***
+
+SEC. 8. No person shall be liable to impeachment twice for the same offense.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 017.0 SD 1889 ***
+
+ARTICLE XVII
+
+CORPORATIONS
+
+*** SSTART 001.0 017.0 0 SD 1889 ***
+
+SEC. 1. No corporation shall be created or have its charter extended, changed or amended by
+special laws except those for charitable, educational, penal or reformatory purposes, which are to
+be and remain under the patronage and control of the state; but the legislature shall provide by
+general laws for the organization of all corporations hereafter to be created.
+
+*** SEND ***
+*** SSTART 002.0 017.0 0 SD 1889 ***
+
+SEC. 2. All existing charters, or grants of special or exclusive privileges, under which a bona fide
+organization shall not have taken place and business been commenced in good faith at the time
+this constitution takes effect, shall thereafter have no validity.
+
+*** SEND ***
+*** SSTART 003.0 017.0 0 SD 1889 ***
+
+SEC. 3. The legislature shall not remit the forfeiture of the charter of any corporation now existing
+nor alter or amend the same nor pass any other general or special law for the benefit of such
+corporation, except upon the condition that such corporation shall hereafter hold its charter
+subject to the provisions of this constitution.
+
+*** SEND ***
+*** SSTART 004.0 017.0 0 SD 1889 ***
+
+SEC. 4. The exercise of the right of eminent domain shall never be, abridged or so construed as to
+prevent the legislature from taking the property and franchises of incorporated companies and
+subjecting them to public use, the same as the property of individuals, and the exercise of the
+police power of the state shall never be abridged or so construed as to permit corporations to
+conduct their business in such manner as to infringe the equal rights of individuals or the general
+well being of the state.
+
+*** SEND ***
+*** SSTART 005.0 017.0 0 SD 1889 ***
+
+SEC. 5. In all elections for directors or managers of a corporation each member or shareholder
+may cast the whole number of his votes for one candidate, or distribute them upon two or more
+candidates as he may prefer.
+
+*** SEND ***
+*** SSTART 006.0 017.0 0 SD 1889 ***
+
+SEC. 6. No foreign corporation shall do any business in this state without having one or more
+known places of business and all authorized agent or agents in the same upon whom process may
+be served.
+
+*** SEND ***
+*** SSTART 007.0 017.0 0 SD 1889 ***
+
+SEC. 7. No corporation shall engage in any business other than that expressly authorized in its
+charter, nor shall it take or hold any real estate except such as may be necessary and proper for its
+legitimate business.
+
+*** SEND ***
+*** SSTART 008.0 017.0 0 SD 1889 ***
+
+SEC. 8. No corporation shall issue stocks or bonds except for money, labor done, or money or
+property actually received; and all fictitious increase of stock or indebtedness shall be void. The
+stock and indebtedness of corporations shall not be increased except in pursuance of general law
+nor without the consent of the persons holding the larger amount in value of the stock first
+obtained, at a meeting to be held after sixty days' notice given in pursuance of law.
+
+*** SEND ***
+*** SSTART 009.0 017.0 0 SD 1889 ***
+
+SEC. 9. The legislature shall have the power to alter, revise or annul any charter of any
+corporation now existing and revocable at the taking effect of this constitution, or any that may be
+created, whenever in their opinion it may be injurious to the citizens of this state, in such a
+manner, however, that no injustice shall be done to the incorporators. No law hereafter enacted
+shall create, renew or extend the charter of more than one corporation.
+
+*** SEND ***
+*** SSTART 010.0 017.0 0 SD 1889 ***
+
+SEC. 10. No law shall be passed by the legislature granting the right to construct and operate a
+street railroad within any city, town or incorporated village without requiring the consent of the
+local authorities having the control of the street or highway proposed to be occupied by said such
+street railroad.
+
+*** SEND ***
+*** SSTART 011.0 017.0 0 SD 1889 ***
+
+SEC. 11. Any association or corporation organized for the purpose, or any individual, shall have
+the right to construct and maintain lines of telegraph in this state, and to connect the same with
+other lines; and the legislature shall by general law of uniform operation provide reasonable
+regulations to give full effect to this section. No telegraph company shall consolidate with or hold
+a controlling interest in the stock or bonds of any other telegraph company owning a competing
+line or acquire by purchase or otherwise any other competing line of telegraph.
+
+*** SEND ***
+*** SSTART 012.0 017.0 0 SD 1889 ***
+
+SEC. 12. Every railroad corporation organized or doing business in this state under the laws or
+authority thereof shall have and maintain a public office or place in this state for the transaction of
+its business, where transfers of its stocks shall be made and in which shall be kept for public
+inspection books in which shall be recorded the amount of capital stock subscribed, and by whom;
+the names of the owners of its stock, and the amount owned by them respectively; the amount of
+stock paid in, and by whom; the transfers of said stock; amount of its assets and liabilities, and the
+names and places of residence of its officers. The directors of every railroad corporation shall
+annually make a report, under oath, to the auditor of public accounts or some officer or officers to
+be designated by law, of all their acts and doings, which report shall include such matters relating,
+to railroads as may be prescribed by law, and the legislature shall pass laws enforcing by suitable
+penalties the provisions of this section.
+
+*** SEND ***
+*** SSTART 013.0 017.0 0 SD 1889 ***
+
+SEC. 13. The rolling stock and all other movable property belonging to any railroad company or
+corporation in this state shall be considered personal property, and shall be liable to execution and
+sale in the same manner as the personal property of individuals, and the legislature shall pass no
+laws exempting such property from execution and sale.
+
+*** SEND ***
+*** SSTART 014.0 017.0 0 SD 1889 ***
+
+SEC. 14. No railroad corporation shall consolidate its stock, property or franchises with any other
+railroad corporation owning a parallel or competing line; and in no case shall any consolidation
+take place except upon public notice given out, at least sixty days to all stockholders in such
+manner as may be provided by law. Any attempt to evade the provisions of this section, by any
+railroad corporation, by lease or otherwise, shall work a forfeiture of its charter.
+
+*** SEND ***
+*** SSTART 015.0 017.0 0 SD 1889 ***
+
+SEC. 15. Railways heretofore constructed or that may hereafter be constructed, in this state, are
+hereby declared public highways, and all railroads and transportation companies are declared to be
+common carriers and subject to legislative control; and the legislature shall have power to enact
+laws regulating and controlling the rates of charges for the transportation of passengers and freight
+as such common carrier from one point to another in this state.
+
+*** SEND ***
+*** SSTART 016.0 017.0 0 SD 1889 ***
+
+SEC. 16. Any association or corporation organized for the purpose shall have the right to
+construct and operate a railroad between any points within this state, and to connect at the state
+line with railroads of other states. Every railroad company shall have the right with its road to
+intersect, connect with, or cross any other railroad, and shall receive and transport each the other's
+passengers, tonnage and cars, loaded or empty, without delay or discrimination.
+
+*** SEND ***
+*** SSTART 017.0 017.0 0 SD 1889 ***
+
+SEC. 17. The legislature shall pass laws to correct abuses and prevent discrimination and
+extortion in the rates of freight and passenger tariffs on the different railroads in this state, and
+enforce such laws by adequate penalties, to the extent, if necessary for that purpose, of forfeiture
+of their property and franchises.
+
+*** SEND ***
+*** SSTART 018.0 017.0 0 SD 1889 ***
+
+SEC. 18. Municipal and other corporations and individuals invested with the privilege of taking
+private property for public use shall make just compensation for property taken, injured or
+destroyed, by the construction or enlargement of their works, highways or improvements, which
+compensation shall be paid or secured before such taking, injury or destruction. The legislature is
+hereby prohibited from depriving any person of an appeal front any preliminary assessment of
+damages against any such corporation or individuals made otherwise, and the amount of such
+damages in all cases of appeal shall, on the demand of either party, be determined by a jury as in
+other civil cases.
+
+*** SEND ***
+*** SSTART 019.0 017.0 0 SD 1889 ***
+
+SEC. 19. The term "corporations" as used in this article shall be construed to include all joint
+stock companies or associations having any of the powers or privileges of corporations not
+possessed by individuals or partnerships.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 018.0 SD 1889 ***
+
+ARTICLE XVIII
+
+BANKING AND CURRENCY
+
+*** SSTART 001.0 018.0 0 SD 1889 ***
+
+SEC. 1. If a general banking law shall be enacted it shall provide for the registry and
+countersigning by an officer of this State of all bills or paper credit designed to circulate as
+money, and require security to the full amount thereof, to be deposited with the state treasurer, in
+the approved securities of the state or of the United States, to be rated at ten per centum below
+their par value, and in case of their depreciation the deficiency shall be made good by depositing
+additional securities.
+
+*** SEND ***
+*** SSTART 002.0 018.0 0 SD 1889 ***
+
+SEC. 2. Every bank, banking company or corporation shall be required to cease all banking
+operation within twenty years from the time of its organization, a promptly thereafter close its
+business, but shall have corporate capacity to sue or be sued until its business is fully closed, but
+the legislature may provide by general law for the reorganization of such banks.
+
+*** SEND ***
+*** SSTART 003.0 018.0 0 SD 1889 ***
+
+SEC. 3. The shareholders or stockholders of any banking corporation shall be held individually
+responsible and liable for all contracts, debts and engagements of such corporation to the extent of
+the amount of their stock therein, at the par value thereof, in addition to the amount invested in
+such shares or stock; and such individual liabilities shall continue for one year after any transfer or
+sale of stock by any stockholder or stockholders.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 019.0 SD 1889 ***
+
+ARTICLE XIX
+
+CONGRESSIONAL AND LEGISLATIVE APPORTIONMENT
+
+*** SSTART 001.0 019.0 0 SD 1889 ***
+
+SEC. 1. Until otherwise provided by law, the members of the house of representatives of the
+United States, apportioned to this state, shall be elected by the state at large.
+
+*** SEND ***
+*** SSTART 002.0 019.0 0 SD 1889 ***
+
+SEC. 2. Until otherwise provided by law, the senatorial and representative districts shall be
+formed, and the senators and representatives shall be apportioned, as follows:
+
+                SENATORIAL DISTRICTS
+
+District No. 1 shall consist of the county of Union and be entitled to one senator.
+District No. 2 shall consist of the county of Clay, and be entitled to one senator.
+District No. 3 shall consist of the county of Yankton, and be entitled to one senator.
+District No. 4 shall consist of the county of Bon Homme, and be entitled to one senator.
+District No. 5 shall consist of the county of Lincoln, and be entitled to one senator.
+District No. 6 shall consist of the county of Turner, and be entitled to one senator.
+District No. 7 shall consist of the county of Hutchinson, and be entitled to one senator.
+District No. 8 shall consist of the counties of Charles Mix and Douglas, and be entitled to one
+senator.
+District No. 9 shall consist of the county of Minnehaha, and be entitled to two senators.
+District No. 10 shall consist of the county of McCook, and be entitled to one senator.
+District No. 11 shall consist of the county of Hanson, and be entitled to one senator.
+District No. 12 shall consist of the county of Davison, and be entitled to one senator.
+ District No. 13 shall consist of the county of Aurora, and be entitled to one senator.
+District No. 14 shall consist of the county of Brule, and be entitled to one senator.
+District No. 15 shall consist of the county of Moody, and be entitled to one senator.
+District No. 16 shall consist of the county of Lake, and be entitled to one senator.
+District No. 17 shall consist of the county of Miner, and be entitled to one senator.
+District No. 18 shall consist of the county of Sanborn, and be entitled to one senator.
+District No. 19 shall consist of the counties of Jerauld and Buffalo, and be entitled to one
+senator.
+District No. 20 shall consist of the county of Brookings, and be entitled to one senator.
+District No. 21 shall consist of the county of Kingsbury, and be entitled to one senator.
+District No. 22 shall consist of the county of Beadle, and be entitled to one senator.
+District No. 23 shall consist of the county of Hand, and be entitled to one senator.
+District No. 24 shall consist of the counties of Hughes and Stanley, and be entitled to one
+senator.
+District No. 25 shall consist of the counties of Sully and Hyde, and be entitled to one senator.
+District No. 26 shall consist of the county of Deuel, and be entitled to one senator.
+District No. 27 shall consist of the county of Hamlin, and be entitled to one senator.
+District No. 28 shall consist of the county of Codington, and be entitled to one senator,
+District No. 29 shall consist of the county of Clark, and be entitled to one senator.
+District No. 30 shall consist of the county of Spink, and be entitled to one senator.
+District No. 31 shall consist of the county of Grant, and be entitled to one senator.
+District No. 32 shall consist of the county of Day, and be entitled to one senator.
+District No. 33 shall consist of the county of Brown, and be entitled to two senators.
+District No. 34 shall consist of the counties of Marshall and Roberts, and be entitled to one
+senator.
+District No. 35 shall consist of the counties of Faulk and Potter, and be entitled to one senator.
+District No. 36 shall consist of the counties of Edmunds and Walworth, and be entitled to one
+senator.
+District No. 37 shall consist of the counties of McPherson and Campbell, and be entitled to one
+senator.
+District No. 38 shall consist of the county of Lawrence, and be entitled to one senator.
+District No. 39 shall consist of the county of Pennington, and be entitled to one senator.
+District No. 40 shall consist of the counties of Meade and Butte, and be entitled to one senator.
+District No. 41 shall consist of the counties of Custer and Fall River, and be entitled to one
+senator.
+
+               REPRESENTATIVE DISTRICTS
+
+District No. 1 shall consist of the county of Union, and be entitled to two representatives.
+District No. 2 shall consist of the county of Clay, and be entitled to two representatives.
+District No. 3 shall consist of the county of Yankton, and be entitled to three representatives.
+District No. 4 shall consist of the county of Bon Homme, and be entitled to two representatives.
+District No. 5 shall consist of the county of Lincoln and be entitled to two representatives.
+District No. 6 shall consist of the county of Turner, and be entitled to three representatives.
+District No. 7 shall consist of the county of Hutchinson, and be entitled to three representatives.
+District No. 8 shall consist of the county of Douglas, and be entitled to one representative.
+District No. 9 shall consist of the county of Charles Mix, and be entitled to one representative.
+District No. 10 shall consist of the county of Minnehaha, and be entitled to five representatives.
+District No. 11 shall consist of the county of McCook, and be entitled to two representatives.
+District No. 12 shall consist of the county of Hanson, and be entitled to one representative.
+District No. 13 shall consist of the county of Davison, and be entitled to one representative.
+District No. 14 shall consist of the county of Aurora, and be entitled to two representatives.
+District No. 15 shall consist of the county of Brule, and be entitled to three representatives.
+District No. 16 shall consist of the counties of Moody, and be entitled to two representatives.
+District No. 17 shall consist of the county of Lake, and be entitled to three representatives.
+District No. 18 shall consist of the county of Miner, and be entitled to two representatives.
+District No. 19 shall consist of the county of Sanborn, and be entitled to two representatives.
+District No. 20 shall consist of the county of Jerauld, and be entitled to one representative.
+District No. 21 shall consist of the county of Buffalo, and be entitled to one representative.
+District No. 22 shall consist of the county of Brookings, and be entitled to three representatives.
+District No. 23 shall consist of the county of Kingsbury, and be entitled to three representatives.
+District No. 24 shall consist of the county of Beadle, and be entitled to five representatives.
+District No. 25 shall consist of the county of Hand, and be entitled to three representatives.
+District No. 26 shall consist of the county of Hyde, and be entitled to one representative.
+District No. 27 shall consist of the county of Hughes, and be entitled to one representative.
+District No. 28 shall consist of the county of Sully, and be entitled to one representative.
+District No. 29 shall consist of the county of Deuel, and be entitled to two representatives.
+District No. 30 shall consist of the county of Hamlin, and be entitled to two representatives.
+District No. 31 shall consist of the county of Codington, and be entitled to three representatives.
+District No. 32 shall consist of the county of Clark, and be entitled to three representatives.
+District No. 33 shall consist of the county of Spink, and be entitled to five representatives.
+District No. 34 shall consist of the county of Faulk, and be entitled to two representatives.
+District No. 35 shall consist of the county of Potter, and be entitled to one representative.
+District No. 36 shall consist of the county of Grant, and be entitled to two representatives.
+District No. 37 shall consist of the county of Roberts, and be entitled to one representative.
+District No. 38 shall consist of the county of Day, and be entitled to three representatives.
+District No. 39 shall consist of the county of Marshall and be entitled to two representatives.
+District No. 40 shall consist of the county of Brown, and be entitled to eight representatives.
+District No. 41 shall consist of the county of Edmunds, and be entitled to two representatives.
+District No. 42 shall consist of the county of Walworth, and be entitled to one representative.
+District No. 43 shall consist of the county of McPherson, and be entitled to two representatives.
+District No. 44 shall consist of the county of Campbell, and be entitled to one representative.
+District No. 45 shall consist of the county of Fall River, and be entitled to two representatives.
+District No. 46 shall consist of the county of Custer, and be entitled to two representatives.
+District No. 47 shall consist of the county of Pennington, and be entitled to two representatives.
+District No. 48 shall consist of the county of Meade, and be entitled to two representatives.
+District No. 49 shall consist of the county of Lawrence and be entitled to six representatives.
+District No. 50 shall consist of the county of Butte and be entitled to one representative.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 020.0 SD 1889 ***
+
+ARTICLE XX
+
+SEAT OF GOVERNMENT
+
+*** SSTART 001.0 020.0 0 SD 1889 ***
+
+SEC. 1. The question of the location of the temporary seat of government shall be submitted to a
+vote of the electors of the proposed State of South Dakota, in the same manner and at the same
+election. at which this constitution shall be submitted, and the place receiving the highest number
+of votes shall be the temporary seat of government until a permanent seat of government shall be
+established as hereinafter provided.
+
+*** SEND ***
+*** SSTART 002.0 020.0 0 SD 1889 ***
+
+SEC. 2. The legislature, at its first session after the admission of this state, shall provide for the
+submission of the question of a place for a permanent seat of government to the qualified voters of
+the state at the next general election thereafter, and that place which receives a majority of all the
+votes cast upon that question shall be the permanent seat of government.
+
+*** SEND ***
+*** SSTART 003.0 020.0 0 SD 1889 ***
+
+SEC. 3. Should no place voted for at said election have a majority of all votes cast upon this
+question, the governor shall issue his proclamation for an election to be held in the same manner
+at the next general election to choose between the two places having received the highest number
+of votes cast at the first election on this question. This election shall be conducted in the same
+manner as the first election for the permanent seat of government, and the place receiving a
+majority of all the votes cast upon this question shall be the permanent seat of government.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 021.0 SD 1889 ***
+
+ARTICLE XXI
+
+MISCELLANEOUS
+
+*** SSTART 001.0 021.0 0 SD 1889 ***
+
+SEC. 1. Seal and coat of arms. The design of the great seal of South Dakota shall be as follows: A
+circle within which shall appear in the left foreground a smelting furnace and other features of
+mining work. In the left background a range of hills. In the right foreground a farmer at his plow.
+In the right background a herd of cattle and a field of corn. Between the two parts thus described
+shall appear a river bearing a steamboat. Properly divided between the upper and lower edges of
+the circle shall appear the legend "Under God the People Rule," which shall be the motto of the
+State of South Dakota. Exterior to this circle and within a circumscribed circle shall appear, in the
+upper part, the words "State of South Dakota." In the lower part the words "Great Seal," and the
+date in Arabic numerals of the year in which the state shall be admitted to the Union.
+
+*** SEND ***
+*** SSTART 002.0 021.0 0 SD 1889 ***
+
+COMPENSATION OF PUBLIC OFFICERS
+
+SEC. 2. The governor shall receive an annual salary of two thousand five hundred dollars, the
+judges of the supreme court shall each receive an annual salary of two thousand five hundred
+dollars; the judges of the circuit courts shall each receive an annual salary of two thousand dollars;
+Provided, that the legislature may, after the year one thousand eight hundred and ninety, increase
+the annual salary of the governor and each of the judges of the supreme court to three thousand
+dollars, and the annual salary of each of the circuit court judges to two thousand five hundred
+dollars.
+The secretary of state, state treasurer and state auditor shall each receive an annual salary of one
+thousand eight hundred dollars; the commissioner of school and public lands shall receive an
+annual salary of one thousand eight hundred dollars; the superintendent of public instruction shall
+receive an annual salary of one thousand eight hundred dollars; the attorney general shall receive
+an annual salary of one thousand dollars; the compensation of the lieutenant governor shall be
+double the compensation of a state senator.
+They shall receive no fees or perquisites whatever for the performance of any duties connected
+with their offices. It shall not be competent for the legislature to increase the salaries of the
+officers named in this article except as herein provided.
+
+*** SEND ***
+*** SSTART 003.0 021.0 0 SD 1889 ***
+
+SEC. 3. Oath of office. Every person elected or appointed to any office in this state, except such
+inferior offices as may be by law exempted, shall, before entering upon the duties thereof, take an
+oath or affirmation to support the constitution of the United States and of this state, and faithfully
+to discharge the duties of his office.
+
+*** SEND ***
+*** SSTART 004.0 021.0 0 SD 1889 ***
+
+SEC. 4. Exemptions. The right of the debtor to enjoy the comforts and necessaries of life shall be
+recognized by wholesome laws; exempting from forced sale a homestead, the value of which shall
+be limited and defined by law, to all heads of families, and a reasonable amount of personal
+property, the kind and value of which to be fixed by general law.
+
+*** SEND ***
+*** SSTART 005.0 021.0 0 SD 1889 ***
+
+SEC. 5. Rights of married women. The real and personal property of any women in this state
+acquired before marriage, and all property to which she may after marriage become in any manner
+rightfully entitled, shall be her separate property, and shall not be liable for the debts of her
+husband.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 022.0 SD 1889 ***
+
+ARTICLE XXII
+
+COMPACT WITH THE UNITED STATES
+
+*** SSTART 001.0 022.0 0 SD 1889 ***
+
+SEC. 1. The following articles shall be irrevocable without the consent of the United States and
+the people of the State of South Dakota expressed by their legislative assembly:
+First, That perfect toleration of religious sentiment shall be secured, and that no inhabitant of
+this state shall ever be molested in person or property on account of his or her mode of religious
+worship.
+Second, That we, the people inhabiting the State of South Dakota, do agree and declare that we
+forever disclaim all right and title to the unappropriated public lands lying within the boundary of
+South Dakota, and to all lands lying within said limits owned or held by any Indian or Indian
+tribes, and that until the title thereto shall have been extinguished by the United States, the same
+shall be and remain subject to the disposition of the United States; and said Indian lands shall
+remain under the absolute jurisdiction and control of the Congress of the United States; that the
+lands belonging to citizens of the United States residing without the said state shall .never be
+taxed at a higher rate than the lands belonging to residents of this state; that no taxes shall be
+imposed by the State of South Dakota on lands or property therein belonging to or which may
+hereafter be purchased by the United States, or reserved for its use. But nothing herein shall
+preclude the State of South Dakota from taxing as other lands are taxed any lands owned or held
+by any Indian who has severed his tribal relation and has obtained from the United States, or from
+any person, a title thereto by patent or other grant, save and except such lands as have been or may
+be granted to any Indian or Indians under any act of Congress containing a provision exempting
+the lands thus granted from taxation. All such lands which may have been exempted by any grant
+or law of the United States shall remain exempt to the extent and as prescribed by such act of
+Congress.
+Third, That the State of South Dakota shall assume and pay that portion of the debts and
+liabilities of the Territory of Dakota as provided by this constitution.
+Fourth, That provision shall be made for the establishment and maintenance of systems of
+public schools, which shall be opened to all the children of this state, and free from sectarian
+control.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 023.0 SD 1889 ***
+
+ARTICLE XXIII
+
+AMENDMENTS AND REVISIONS OF THIS CONSTITUTION
+
+*** SSTART 001.0 023.0 0 SD 1889 ***
+
+SEC. 1. Any amendment or amendments to this constitution may be proposed in either house of
+the legislature, and if the same shall be agreed to by a majority of the members elected to each of
+the two houses, such proposed amendment or amendments shall be entered on their journals, with
+the yeas and nays taken thereon, and it shall be the duty of the legislature to submit such proposed
+amendment or amendments to the vote of the people at the next general election. And if the
+people shall approve and ratify such amendment or amendments by a majority of the electors
+voting thereon, such amendment or amendments shall become a part of this constitution;
+Provided, that the amendment or amendments so proposed shall be published for a period of
+twelve weeks previous to the date of said election, in such manner as the legislature may provide;
+and Provided further, that if more than one amendment be submitted, they shall be submitted in
+such manner that the people may vote for or against such amendment separately.
+
+*** SEND ***
+*** SSTART 002.0 023.0 0 SD 1889 ***
+
+SEC. 2. Whenever two-thirds of the members elected to each branch of the legislature shall think
+it necessary to call a convention to revise this constitution they shall recommend to the electors to
+vote at the next election for members of the legislature, for or against a convention; and if a
+majority of all the electors voting at said election shall have voted for a convention, the legislature
+shall, at their next session, provide by law for calling the same. The convention shall consist of as
+many members as the house of representatives of the legislature, and shall be chosen in the same
+manner, and shall meet within three months after their election for the purpose aforesaid.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 024.0 SD 1889 ***
+
+ARTICLE XXIV
+
+PROHIBITION
+
+*** SSTART 001.0 024.0 0 SD 1889 ***
+
+SEC. 1. No person or corporation shall manufacture, or aid in the manufacture for sale, any
+intoxicating liquor; no person shall sell or keep for sale, as a beverage any intoxicating liquor. The
+legislature shall by law prescribe regulations for the enforcement of the provisions of this section
+and provide suitable and adequate penalties for the violation thereof. 
+
+[Note:  Submitted to a separate vote as provided by the schedule and ordinance. Adopted October
+1, 1889, by the following vote: For prohibition, 40,234; against prohibition, 34,510.]
+
+*** SEND ***
+*** AEND ***
+*** ASTART 025.0 SD 1889 ***
+
+ARTICLE XXV
+
+MINORITY REPRESENTATION
+
+*** SSTART 001.0 025.0 0 SD 1889 ***
+
+SEC. 1. [Submitted to a separate vote as provided by the schedule and ordinance. Rejected
+October 1, 1889 Never part of the adopted constitution.]
+
+*** SEND ***
+*** SSTART 002.0 025.0 0 SD 1889 ***
+
+SEC. 2. [Submitted to a separate vote as provided by the schedule and ordinance. Rejected
+October 1, 1889 Never part of the adopted constitution.]
+
+*** SEND ***
+*** AEND ***
+*** ASTART 026.0 SD 1889 ***
+
+ARTICLE XXVI
+
+SCHEDULE AND ORDINANCE
+
+*** SSTART 001.0 026.0 0 SD 1889 ***
+
+SEC. 1. That no inconvenience may arise from the change of the territorial government to the
+permanent state government it is hereby declared that all writs, actions, prosecutions, claims and
+rights of individuals, and all bodies corporate, shall continue as if no change, had taken place in
+this government; and all process which may be before the organization of the judicial department
+tinder this constitution issued under the authority of the Territory of Dakota, within the boundary
+of this state, shall be as valid as if issued in the name of the State of South Dakota.
+
+*** SEND ***
+*** SSTART 002.0 026.0 0 SD 1889 ***
+
+SEC. 2. That all fines, penalties, forfeitures and escheats accruing to the Territory of Dakota,
+within the boundary of the State of South Dakota, shall accrue to the use of said state.
+
+*** SEND ***
+*** SSTART 003.0 026.0 0 SD 1889 ***
+
+SEC. 3. That all recognizances, bonds, obligations or other undertakings, heretofore taken, or
+which may be taken before the organization of the judicial department under this constitution shall
+remain valid, and shall pass over to, and may be prosecuted in the, name of the State of South
+Dakota; and all bonds, obligations or undertakings executed to this territory, within the boundaries
+of the State of South Dakota, or to any officer in his official capacity, shall pass over to the proper
+state authority, and to their successors in office, for the uses therein respectively expressed, and
+may be sued for and recovered accordingly.
+All criminal prosecutions and penal actions, which have arisen, or which may arise before the
+organization of the judicial department under this constitution, and which shall then be pending,
+may be prosecuted to judgment and executed in the name of the state.
+
+*** SEND ***
+*** SSTART 004.0 026.0 0 SD 1889 ***
+
+SEC. 4. All officers, civil and military, now holding their offices and appointments in this
+territory under the authority of the United States, or under the authority of the Territory of Dakota,
+shall continue to hold and exercise their respective offices and appointments until superseded
+under this constitution; Provided, that the provisions of the above sections shall be subject to the
+provisions of the act of congress providing for the admission of the State of South Dakota,
+approved by the president of the United States on February 22, 1889.
+
+*** SEND ***
+*** SSTART 006.0 026.0 0 SD 1889 ***
+
+SEC. 5. This constitution shall be submitted for adoption or rejection to a vote of the electors
+qualified by the laws of this territory to vote at all elections, at the election to be held on Tuesday,
+Oct. 1, 1889.
+ At the said election the ballots shall be in the following form:
+ For the constitution: Yes. No.
+ For prohibition: Yes. No.
+ For minority representation: Yes. No.
+As a heading to each of said ballots shall be printed on each ballot the following instructions to
+voters:
+All persons desiring to vote for the constitution, or for any of the articles submitted to a
+separate vote, must erase the word "No."
+All person who desire to vote against the constitution, or against any article submitted
+separately, must erase the word "Yes."
+Any  person may have printed or written on his ballot only the words "For the Constitution," or
+"Against the Constitution," and such ballots shall be counted for, or against the constitution
+accordingly. The same provision shall apply to articles submitted separately.
+In addition to the foregoing election for the constitution and for the article submitted by this
+convention for a separate vote thereon, an election shall be held at the same time and places, by
+the said qualified electors, for the following state officers, to be voted for on the same ballot as
+above provided for votes on the constitution and separate articles, to wit:
+A governor, lieutenant governor, secretary of state auditor, treasurer, attorney general,
+superintendent of public instruction, commissioner of school and public lands, judges of the
+supreme, circuit and county courts, representatives in congress, state senators, and representatives
+in the legislature.
+All the elections above provided for shall be held in the same manner and form as provided for
+the election for the adoption or rejection of the constitution. And the names of all the officers
+above specified to be voted for at such election shall be written or printed upon the same ballots
+as the vote for or against the constitution.
+The judges of election in counting the ballots voted at such election shall count all the
+affirmative ballots upon the constitution as votes for the constitution; and they shall count all the
+negative ballots voted at said election upon the constitution as votes against the constitution; and
+ballots voted at said election upon which neither of said words "Yes" or "No" following the words
+"For the Constitution" are erased, shall not be counted upon such proposition. And they shall
+count all affirmative ballots so voted upon the article on prohibition, separately submitted, as
+votes for such article, and they shall count all negative ballots so voted upon such article, as votes
+against such article; and ballots upon which neither the words "Yes" or "No" following the words
+"Prohibition" are erased, shall not be counted upon such proposition; and they shall count all the
+affirmative ballots so voted upon the article on minority representation, separately submitted, as
+votes for such article. And they shall count all negative ballots so voted upon such article as votes
+against such article; and ballots upon which neither of said words "Yes" or "No" following the
+words "For Minority Representation" are erased, shall not be counted upon such proposition.
+If it shall appear in accordance with the returns hereinafter provided for, that a. majority of the
+votes polled at such election, for and against the constitution, are for the constitution, then this
+constitution shall be the constitution of the State of South Dakota. If it shall appear, according to
+the returns hereinafter provided for, that a majority of all votes cast at said election for and against
+"Prohibition" are for prohibition, then said Article XXIV shall be and form a part of this
+constitution, and be in full force and effect as such from date of said election, but if a majority of
+said votes shall appear, according to said returns to be against prohibition then Article XXIV be
+null and void and shall not be a part of this constitution. And if it appears, according to the returns
+hereinafter provided for, that a majority of all votes cast at said election for and against "Minority
+Representation" are for minority representation, then Article XXV shall be and form a part of said
+constitution, and be in full force and effect as such from the date of said election; but if a majority
+of said votes shall appear, according to said returns, to be against minority representation, then
+said Article XXV shall be null and void and shall not be a part of this constitution.
+At such election the person voted for, for any one of the offices to be filled at such election,
+who shall receive the highest number of votes cast at said election, shall be declared elected to
+said office.
+
+*** SEND ***
+*** SSTART 006.0 026.0 0 SD 1889 ***
+
+SEC. 6. At the same time and places of election there shall be held by said qualified electors all
+election for the place of the temporary seat of government.
+On each ballot, and on the same ballot on which are the matters voted for or against, as
+hereinbefore provided, shall be written or printed the words "For Temporary Seat of
+Government," (Here insert the name of the city, town or place, to be voted for.)
+And upon the canvass and return of the vote, made as hereinafter provided for, the name of the
+city, town or place, which shall have received the largest number of votes for said temporary seat
+of government shall be declared by the governor, chief justice and the secretary of the Territory of
+Dakota, or any two of them, at the same time that they shall canvass the vote for or against the
+constitution, together with the whole number of votes cast for each city, town or place, and the
+officers above named, shall immediately after the result of said election shall have been
+ascertained, issue a proclamation directing the legislature elected. at said election to assemble at
+said city, town or place so selected, on the day fixed by this schedule and ordinance.
+
+*** SEND ***
+*** SSTART 007.0 026.0 0 SD 1889 ***
+
+SEC. 7. The election provided for herein shall be under the provisions of the constitution herewith
+submitted, and shall be conducted in all respects as elections are conducted under the general laws
+of the Territory of Dakota, except as herein provided. No mere technicalities or informalities in
+the manner or form of election, or neglect of any officer to perform his duty with regard thereto,
+shall be deemed to vitiate or a void the same, it being the true intent and object of this ordinance
+to ascertain and give effect to the true will of the people of the State of South Dakota, as
+expressed by their votes at the polls.
+
+*** SEND ***
+*** SSTART 008.0 026.0 0 SD 1889 ***
+
+SEC. 8. Immediately after the election herein provided for, the judges of election at each voting
+place shall make a true and complete count of all the votes duly cast at such election, and shall
+certify and return the result of the same, with the names of all the candidates and the number of
+votes cast for each candidate, and the number of votes cast for and against the constitution, and
+the number of votes cast for and against prohibition, and the number of votes cast for and against
+minority representation, and the number of votes cast for each city, town or place for the
+"temporary seat of government," to the county clerk, or auditor of the respective counties, together
+with one of the poll lists and election books used in said election.
+
+*** SEND ***
+*** SSTART 009.0 026.0 0 SD 1889 ***
+
+SEC. 9. Within five days after said election the several boards of county canvassers provided by
+law for the canvassing of the results of the election, shall make and certify to the secretary of the
+Territory of Dakota the true and correct return of the total number of votes cast for the
+constitution, and against the constitution, of the number of votes cast for and against
+"prohibition," and the number of votes cast for and against minority representation," and the
+number of votes cast for each city, town or place as the "temporary seat of government," and of
+the number of votes cast for each person voted for at such election, except county officers and
+members of the legislature, and shall transmit the game to the secretary of the Territory of Dakota,
+by mail, and shall file with the county clerk or auditor of each of said counties a duplicate and
+certified copy of said return.
+Said board of county canvassers shall issue certificates of election to the persons who shall have
+received the highest number of votes cast for the respective offices of judge of the county court
+and representatives in the legislature, and for state senator or senators.
+
+*** SEND ***
+*** SSTART 010.0 026.0 0 SD 1889 ***
+
+SEC. 10. When two or more counties are connected in one senatorial or representative district, it
+shall be the duty of the clerks and auditors of the respective counties to attend at the office of the
+county clerk of the senior county in the date of organization within twenty days after the date of
+election, and they shall compare the votes given in the several counties comprising such senatorial
+and representative district and such clerks or auditors shall immediately make out a certificate of
+election to the person having the highest number of votes in such district for state senator or
+representative or both; which certificate shall be delivered to the person entitled thereto on his
+application to the clerk of the senior county of such district.
+
+*** SEND ***
+*** SSTART 011.0 026.0 0 SD 1889 ***
+
+SEC. 11. The secretary of the territory shall receive all returns of election transmitted to him as
+above provided, and shall preserve the same, and after they have been canvassed as hereinafter
+provided, and after the admission of the State of South Dakota into the Union, he shall deliver
+said returns to the proper state officer of said State of South Dakota.
+Within fifteen days after said election the secretary of the territory, with the governor and chief
+justice thereof, or any two of them, shall canvass such returns and certify the same to the president
+of the United States, as provided in the enabling act.
+They shall also ascertain the total number of votes cast at such election for the constitution and
+against the constitution; the total number of votes cast for and against prohibition; and the total
+number of votes cast for and against minority representation; and the total number of votes cast
+for each city, town, or place as the "temporary seat of government;" and the total number of votes
+cast for each person voted for, for any office at said election, excepting county judges and
+members of the legislature, and shall declare the result of said election in conformity with such
+vote, and the governor of the territory shall thereupon issue a proclamation at once thereof.
+They shall also make and transmit to the state legislature, immediately upon its organization, a
+list of all the state and judicial officers who shall thus be ascertained to be duly elected.
+The various county and district canvassing boards shall make and transmit to the secretary of
+the territory the names of all persons declared by them to be elected members of the senate and
+house of representatives of the state of South Dakota; he shall make separate lists of the senators
+and representatives so elected, which lists shall constitute the rolls under which the senate and
+house of representatives shall be organized.
+The governor of the territory shall make and issue certificates of election to the persons who are
+shown by the canvass to have received the highest number of votes for governor, lieutenant
+governor, secretary of state, auditor, treasurer, attorney-general, superintendent of public
+instruction, commissioner of schools and public lands, and judges of the supreme and circuit
+courts. Such certificates to be attested by the secretary of the territory.
+
+*** SEND ***
+*** SSTART 012.0 026.0 0 SD 1889 ***
+
+SEC. 12. The apportionment made in this constitution shall govern the elections above provided
+for members of the state legislature, until otherwise provided by law.
+At the first election held under this ordinance for senators and representatives of the legislature,
+there shall be elected forty-five senators and one hundred and twenty-four representatives in the
+state legislature respectively.
+
+*** SEND ***
+*** SSTART 013.0 026.0 0 SD 1889 ***
+
+SEC. 13. The legislature elected under the provisions of this ordinance and constitution shall
+assemble at the temporary seat of government on the third Tuesday in October, in the year A. D.
+1889, at 12 o'clock noon, and on the first day of their assemblage the governor and other state
+officers shall take the oath of office in the presence of the legislature. The oath of office shall be
+administered to the members of the legislature and to the state officers by the chief justice of the
+territory, or by any other officer duly authorized by the laws of the territory of Dakota to
+administer oaths.
+
+*** SEND ***
+*** SSTART 014.0 026.0 0 SD 1889 ***
+
+SEC. 14. Immediately after the organization of the legislature and taking the oath of office by the
+state officers, the legislature shall then and there proceed to the election of two senators of the
+United States for the State of South Dakota, in the mode and manner provided by the laws of
+congress for the election of United States senators. And the governor and the secretary of the State
+of South Dakota shall certify the election of the said senators and two representatives in congress,
+in the manner required by law.
+
+*** SEND ***
+*** SSTART 015.0 026.0 0 SD 1889 ***
+
+SEC. 15. Immediately after the election of the United States senators as above provided for, said
+legislature shall adjourn to meet at the temporary seat of government on the first Tuesday after the
+first Monday of January, 1890, at 12 o'clock M.; Provided, however, that if the State of South
+Dakota has not been admitted by proclamation or otherwise at said date, then said legislature shall
+convene within ten days after the date of the admission of the state into the Union.
+
+*** SEND ***
+*** SSTART 016.0 026.0 0 SD 1889 ***
+
+SEC. 16. Nothing in this constitution or schedule contained shall be construed to authorize the
+legislature to exercise any powers except such as are necessary to its first organization, and to
+elect United States senators, and to adjourn as above provided. Nor to authorize an officer of the
+executive, administrative or judiciary departments to exercise any duties of his office until the
+State of South Dakota shall have been regularly admitted into the Union, excepting such as may
+be authorized by the congress of the United States.
+
+*** SEND ***
+*** SSTART 017.0 026.0 0 SD 1889 ***
+
+SEC. 17. The ordinances and schedules enacted by this convention shall be held to be valid for all
+the purposes thereof.
+
+*** SEND ***
+*** SSTART 018.0 026.0 0 SD 1889 ***
+
+SEC. 18. That we, the people of the State of South Dakota, do ordain:
+First - That perfect toleration of religious sentiment shall be secured, and that no inhabitant of
+this state shall ever be molested in, person or property on account of his or her mode of religious
+worship.
+Second - That we, the people inhabiting the State of South Dakota, do agree and declare that we
+forever disclaim all right and title to the unappropriated public lands lying within the boundaries
+of South Dakota; and to all lands lying within said limits owned or held by any Indian or Indian
+tribes, and that until the title thereto shall have been extinguished by the United States the same
+shall be and remain subject to the disposition of the United States, and said Indian lands shall
+remain under the absolute jurisdiction and control of the congress of the United States; that the
+lands belonging to citizens of the United States residing without the said state shall never be taxed
+at a higher rate than the lands belonging to residents of this state.
+That no taxes shall be imposed by the State of South Dakota on lands or property therein
+belonging to or which may hereafter be purchased by the United States, or reserved for its use. But
+nothing herein shall preclude the State of South Dakota from taxing as other lands are taxed, any
+lands owned or held by any Indian who has severed his tribal relation and has obtained from the
+United States or from any person a title thereto by patent or other grant, save and except such
+lands as have been or may be granted to any Indian or Indians under any act of Congress
+containing a provision exempting the lands thus granted from taxation; all such lands which may
+have been exempted by any grant or law of the United States shall remain exempt to the extent
+and as prescribed by such act of Congress.
+Third - That the State of South Dakota shall assume and pay that portion of the debts and
+liabilities of the Territory of Dakota as provided in this constitution.
+Fourth - That provision shall be made for the establishment and maintenance cf systems of
+public schools which shall be opened to all the children of this state and free from sectarian
+control.
+Fifth - That jurisdiction is ceded to the United States over the military reservations of Fort
+Mead, Fort Randall and Fort Sully, heretofore declared by the president of the United States;
+Provided, legal process, civil and criminal, of this state shall extend over such reservations in all
+cases of which exclusive jurisdiction is not vested in the United States, or of crimes not
+committed within the limits of such reservations.
+These ordinances shall be irrevocable without the consent of the United States, and also the
+people of the said State of South Dakota expressed by their legislative assembly.
+
+*** SEND ***
+*** SSTART 019.0 026.0 0 SD 1889 ***
+
+SEC. 19. The tenure of all officers, whose election is provided for in this schedule on the first day
+of October, A. D. 1889, shall be as follows:
+The governor, lieutenant governor, secretary of state, auditor, treasurer, attorney general,
+superintendent of public instruction, commissioner of school and public lands, judges of county
+courts, shall hold their respective offices until the first Tuesday after the first Monday in January,
+A. D. 1891, at twelve o'clock, M., and until their successors are elected and qualified.
+The judges of the supreme court and circuit courts shall hold their offices until the first Tuesday
+after the first Monday in January, A. D. 1894, at twelve o'clock M., and until their successors are
+elected and qualified; subject to the provisions of Sec. 26 of Article V of the constitution.
+The terms of office of the members of the legislature elected at the first election held under the
+provisions of this constitution shall expire on the first Tuesday after the first Monday in January,
+one thousand eight hundred and ninety-one (1891.)
+
+*** SEND ***
+*** SSTART 020.0 026.0 0 SD 1889 ***
+
+SEC. 20. That the first general election under the provisions of this constitution shall be held on
+the first Tuesday after the first Monday in November, 1890, and every two years thereafter.
+
+*** SEND ***
+*** SSTART 021.0 026.0 0 SD 1889 ***
+
+SEC. 21. The following form of ballot is adopted:
+
+               CONSTITUTIONAL TICKET.
+
+               INSTRUCTIONS TO VOTERS.
+
+      All persons desiring to vote for the constitution, or for any of the articles submitted to a
+      separate vote, may erase the word "No."
+      All persons who desire to vote against the constitution, or any articles separately
+      submitted may erase the word "Yes."
+       For the Constitution: Yes. No.
+       For Prohibition: Yes. No.
+       For Minority Representation: Yes. No.
+       For --------------- as the temporary seat of government.
+        For Governor.
+                                                            For Lieutenant Governor.
+               For Secretary of State.
+               For Auditor.
+               For Treasurer.
+               For Attorney General.
+               For Superintendent Of Public Instruction.
+               For Commissioner of School and Public Lands.
+               For Judges of the Supreme Court.
+               
+      First District -------------------------------------------
+      Second District -------------------------------------------
+      Third District -----------------------------------------
+For Judge of the Circuit Court ---------- Circuit.
+
+
+For Representatives In Congress.
+For State Senator.
+           For Representative in the Legislature.
+           For County Judge.
+
+*** SEND ***
+*** SSTART 022.0 026.0 0 SD 1889 ***
+
+SEC. 22. This constitution shall be enrolled and after adoption and signing by the convention shall
+be delivered to Hon. A. J. Edgerton, the president of the constitutional convention, for safe
+keeping, and by him to be delivered to the secretary of state as soon as he assumes the duties of
+his office, and printed copies thereof shall be prefixed to the books containing the laws of the
+state, and all future editions thereof.
+The president of this convention shall also supervise the making of the copy that must be sent to
+the president of the United States; said copy is to be certified by the president and chief clerk of
+this convention.
+
+*** SEND ***
+*** SSTART 023.0 026.0 0 SD 1889 ***
+
+SEC. 23. "The agreement made by the joint commission of the constitutional conventions of
+North and South Dakota concerning the records, books and archives of the Territory of Dakota is
+hereby ratified and confirmed, which agreement is in the words following: That is to say: "
+The following books, records, and archives of the Territory of Dakota shall be the property of
+North Dakota, to wit:
+All records, books and archives in the offices of the governor and secretary of the territory
+(except records of articles of incorporation of domestic corporations, returns of election of
+delegates to the constitutional convention of 1889, for South Dakota, returns of elections held
+under the so-called local option law in counties within the limits of South Dakota, bonds of
+notaries public appointed for counties within the limits of South Dakota, papers relating to the
+organization of counties situate within the limits of South Dakota, all of which records and
+archives are part of the records and archives of said secretary's office; excepting also census
+returns from counties situate within the limits of South Dakota and papers relating to requisitions
+issued upon the application of officers of counties situate within the limits of South Dakota, all of
+which are part of the records and archives of said governor's office.)
+And the following records, books and archives shall also be the property of the State of North
+Dakota, to wit:
+Vouchers in the office or in the custody of the auditor of this territory relating to expenditures
+on account of public institutions, grounds or building situate within the limits of North Dakota;
+one warrant register in the office of the treasurer of this territory, being a record of warrants issued
+under and by virtue of chapter twenty-four of the laws enacted by the eighteenth legislative
+assembly of Dakota territory; all letters, receipts and vouchers in the same office now filed by
+counties and pertaining to counties and pertaining to counties within the limits of North Dakota;
+paid and canceled coupons in the same office representing interest on bonds which said State of
+North Dakota is to assume and pay; reports of gross earnings of the year 1888 in the same office,
+made by corporations operating lines of railroad situated wholly or mainly within the limits of
+North Dakota; records and papers of the office of the public examiner of the second district of the
+territory; records and papers of the office of the second district board of agriculture; records and
+papers in the office of the board of pharmacy of the district of North Dakota.
+All records, books and archives of the Territory of Dakota which it is not herein agreed shall be
+the property of North Dakota, shall be the property of South Dakota.
+The following books shall be copied and the copies shall be the property of North Dakota, and
+the cost of such copies shall be borne equally by the said states of North Dakota and South
+Dakota. That is to say:
+Appropriation ledger for the years ending November, 1889 and 1890-one volume.
+The current warrant auditor's register-one volume.
+Insurance record for 1889-one volume.
+Treasurer's cash book "D"
+ Assessment ledger "B"
+ Dakota Territory bond register-one volume.
+ Treasurer's current ledger-one volume.
+The originals of the foregoing volumes which are to be copied, shall at any time after such
+copying shall have been completes, be delivered on demand to the proper authorities of the State
+of South Dakota.
+All other records, books and archives which it is hereby agreed shall be the property of South
+Dakota shall remain at the capital of North Dakota until demanded by the legislature of the State
+of South Dakota, and until the State of North Dakota shall have had a reasonable time after such
+demand is made to provide copies or abstracts or such portions thereof as the said State of North
+Dakota, may desire to have copies or abstracts of.
+The State of South Dakota may also provide copies or abstracts of such records, books and
+archives which is agreed shall be the property of North Dakota as said State of South Dakota shall
+desire to have copies or abstracts of.
+The expense of all copies or abstracts of records, books and archives which it is herein agreed
+may be made, shall be borne equally by said two states.
+
+*** SEND ***
+*** AEND ***
+
+                         ALONZO J. EDGERTON,
+              President of the Constitutional Convention.
+ Attest:
+    F. A. BURDICK, Chief Clerk.
+
+*** CEND ***

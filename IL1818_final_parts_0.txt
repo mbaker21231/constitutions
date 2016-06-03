@@ -1,0 +1,977 @@
+This is ready to go.
+
+JW 1.10.02
+
+               
+*** CSTART IL 8/26/1818 3/5/1848 ***
+
+CONSTITUTION OF ILLINOIS-1818
+
+*** ASTART 9001.0 IL 1818 ***
+
+The people of the Illinois Territory, having the right of admission into the General Government as
+a member of the Union, consistent with the Constitution of the United States, the ordinance of
+Congress of 1787, and the law of Congress approved April 18, 1818, entitled "An act to enable
+the people of the Illinois Territory to form a constitution and State government, and for the
+admission of such State into the Union, on an equal footing with the original States, and for other
+purposes," in order to establish justice, promote the welfare, and secure the blessings of liberty to
+themselves and their posterity, do, by their representatives in convention, ordain and establish the
+following constitution or form of government; and do mutually agree with each other to form
+themselves into a free and independent State, by the name of the State of Illinois. And they do
+hereby ratify the boundaries assigned to such State by the act of Congress aforesaid, which are as
+follows, to wit: Beginning at the mouth of the Wabash River; thence up the same and with the line
+of Indiana to the north west corner of said State; thence east with the line of the same State to the
+middle of Lake Michigan; thence north, along the middle of said lake, to north latitude forty-two
+degrees and thirty minutes; thence west to the middle of the Mississippi River; and thence down
+along the middle of that river to its confluence with the Ohio River; and thence up the latter river,
+along its northwestern shore, to the beginning.
+
+*** AEND ***
+*** ASTART 001.0 IL 1818 ***
+
+ARTICLE I
+
+*** SSTART 001.0 001.0 0 IL 1818 ***
+
+SECTION 1. The powers of the government of the State of Illinois shall be divided into three
+distinct departments, and each of them be confided to a separate body of magistracy, to wit:
+Those which are legislative, to one; those which are executive, to another; and those which are
+judiciary, to another.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 IL 1818 ***
+
+SEC. 2. No person or collection of persons being one of those departments shall exercise any
+power properly belonging to either of the others, except as hereinafter expressly directed or
+permitted.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 IL 1818 ***
+
+ARTICLE II
+
+*** SSTART 001.0 002.0 0 IL 1818 ***
+
+SECTION 1. The legislative authority of this State shall be vested in a general assembly, which
+shall consist in a senate and house of representatives, both to be elected by the people.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 IL 1818 ***
+
+SEC. 2. The first election for senators and representatives shall commence on the third Thursday
+of September next, and continue for that and the two succeeding days; and the next election shall
+be held on the first Monday in August, 1820; and forever after elections shall be held once in two
+years, on the first Monday of August, in each and every county, at such places therein as may be
+provided by law.
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 IL 1818 ***
+
+SEC. 3. No person shall be a representative who shall not have attained the age of twenty-one
+years; who shall not be a citizen of the United States, and an inhabitant of this State; who shall not
+have resided within the limits of the county or district in which he shall be chosen twelve months
+next preceding his election, if such county or district shall have been so long erected; but if not,
+then within the limits of the county or counties, district or districts, out of which the same shall
+have been taken, unless he shall have been absent on the public business of the United States or of
+this State, and who, moreover, shall not have paid a State or county tax.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 IL 1818 ***
+
+SEC. 4. The senators, at their first session herein provided for, shall be divided by lot from their
+respective counties or districts, as near as can be, into two classes. The seats of the senators of the
+first class shall be vacated at the expiration of the second year, and those of the second class at the
+expiration of the fourth year, so that one-half thereof, as near as possible, may be biennially
+chosen forever thereafter.
+
+*** SEND ***
+*** SSTART 005.0 002.0 0 IL 1818 ***
+
+SEC. 5. The number of senators and representatives shall, at the first session of the general
+assembly holden after the returns herein provided for are made, be fixed by the general assembly
+and apportioned among the several counties or districts to be established by law, according to the
+number of white inhabitants. The number of representatives shall not be less than twenty-seven,
+nor more than thirty-six, until the number of inhabitants within this State shall amount to one
+hundred thousand; and the number of senators shall never be less than one-third nor more than
+one-half of the number of representatives.
+
+*** SEND ***
+*** SSTART 006.0 002.0 0 IL 1818 ***
+
+SEC. 6. No person shall be a senator who has not arrived at the age of twenty-five years, who
+shall not be a citizen of the United States, and who shall not have resided one year in the county
+or district in which he shall be chosen immediately preceding his election, if such county or district
+shall have been so long erected; but if not, then within the limits of the county or counties, district
+or districts, out of which the same shall have been taken, unless he shall have been absent on the
+public business of the United States or of this State, and shall not, moreover, have paid a State or
+county tax.
+
+*** SEND ***
+*** SSTART 007.0 002.0 0 IL 1818 ***
+
+SEC. 7. The senate and house of representatives, when assembled, shall each choose a speaker
+and other officers, (the speaker of the senate excepted.) Each house shall judge of the
+qualifications and elections of its members, and sit upon its own adjournments. Two-thirds of
+each house shall constitute a quorum, but a smaller number may adjourn from day to day, and
+compel the attendance of absent members.
+
+*** SEND ***
+*** SSTART 008.0 002.0 0 IL 1818 ***
+
+SEC. 8. Each house shall keep a journal of its proceedings and publish them. The yeas and nays of
+the members on any question shall, at the desire of any two of them, be entered on the journals.
+
+*** SEND ***
+*** SSTART 009.0 002.0 0 IL 1818 ***
+
+SEC. 9. Any two members of either house shall have liberty to dissent and protest against any act
+or resolution which they may think injurious to the public, or to any individual, and have the
+reasons of their dissent entered on the journals.
+
+*** SEND ***
+*** SSTART 010.0 002.0 0 IL 1818 ***
+
+SEC. 10. Each house may determine the rules of its proceedings, punish its members for
+disorderly behavior, and, with the concurrence of two-thirds, expel a member, but not a second
+time for the same cause.
+
+*** SEND ***
+*** SSTART 011.0 002.0 0 IL 1818 ***
+
+SEC. 11. When vacancies happen in either house, the governor, or the person exercising the
+powers of governor, shall issue writs of election to fill such vacancies.
+
+*** SEND ***
+*** SSTART 012.0 002.0 0 IL 1818 ***
+
+SEC. 12. Senators and representatives shall in all cases, except treason, felony, or breach of the
+peace, be privileged from arrest during the session of the general assembly, and in going to or
+returning from the same; and for any speech or debate in either house they shall not be questioned
+in any other place.
+
+*** SEND ***
+*** SSTART 013.0 002.0 0 IL 1818 ***
+
+SEC. 13. Each house may punish, by imprisonment during its session, any person not a member
+who shall be guilty of disrespect to the house, by any disorderly or contemptuous behavior in their
+presence; provided such imprisonment shall not at any one time exceed twenty-four hours.
+
+*** SEND ***
+*** SSTART 014.0 002.0 0 IL 1818 ***
+
+SEC. 14. The doors of each house and of committees of the whole shall be kept open, except in
+such cases as in the opinion of the house require secrecy.  Neither house shall, without the
+consent of the other, adjourn for more than two days, or to any other place than that in which the
+two houses shall be sitting.
+
+*** SEND ***
+*** SSTART 015.0 002.0 0 IL 1818 ***
+
+SEC. 15. Bills may originate in either house, but may be altered, amended, or rejected by the
+other.
+
+*** SEND ***
+*** SSTART 016.0 002.0 0 IL 1818 ***
+
+SEC. 16. Every bill shall be read on three different days in each house, unless, in case of urgency,
+three-fourths of the house where such bill is so depending shall deem it expedient to dispense with
+this rule; and every bill having passed both houses shall be signed by the speakers of the respective
+houses.
+
+*** SEND ***
+*** SSTART 017.0 002.0 0 IL 1818 ***
+
+SEC. 17. The style of the laws of this State shall be, " Be it enacted by the people of the State of
+Illinois, represented in the general assembly."
+
+*** SEND ***
+*** SSTART 018.0 002.0 0 IL 1818 ***
+
+SEC. 18. The general assembly of this State shall not allow the following officers of government
+greater or smaller annual salaries than as follows, until the year 1824: The governor, $1,000; and
+the secretary of state, $600.
+
+*** SEND ***
+*** SSTART 019.0 002.0 0 IL 1818 ***
+
+SEC. 19. No senator or representative shall, during the time for which he shall have been elected,
+be appointed to any civil office under this State, which shall have been created, or the emoluments
+of which shall have been increased, during such time.
+
+*** SEND ***
+*** SSTART 020.0 002.0 0 IL 1818 ***
+
+SEC. 20. No money shall be drawn from the treasury but in consequence of appropriations made
+by law.
+
+*** SEND ***
+*** SSTART 021.0 002.0 0 IL 1818 ***
+
+SEC. 21. An accurate statement of the receipts and expenditures of, the public money shall be
+attached to and published with the laws, at the rising of each session of the general assembly.
+
+*** SEND ***
+*** SSTART 022.0 002.0 0 IL 1818 ***
+
+SEC. 22. The house of representatives shall have the sole power of impeaching, but a majority of
+all the members present must concur in an impeachment. All impeachments shall be tried by the
+senate, and when sitting for that purpose the senators shall be upon oath or affirmation to do
+justice according to law and evidence. No person shall be convicted without the concurrence of
+two-thirds of all the senators present.
+
+*** SEND ***
+*** SSTART 023.0 002.0 0 IL 1818 ***
+
+SEC. 23. The governor, and all other civil officers under this State shall be liable to impeachment
+for any misdemeanor in office: but judgment in such cases shall not extend further than to removal
+from office, and disqualification to hold any office of honor, profit, or trust under this State. The
+party, whether convicted or acquitted, shall nevertheless be liable to indictment, trial, judgment,
+and punishment according to law.
+
+*** SEND ***
+*** SSTART 024.0 002.0 0 IL 1818 ***
+
+SEC. 24. The first session of the general assembly shall commence on the first Monday of
+October next, and forever after the general assembly shall meet on the first Monday in December
+next ensuing the election of the members thereof, and at no other period, unless as provided by
+this constitution.
+
+*** SEND ***
+*** SSTART 025.0 002.0 0 IL 1818 ***
+
+SEC. 25. No judge of any court of law or equity, secretary of state, attorney general, attorney for
+the State, register, clerk of any court of record, sheriff, or collector, member of either house of
+Congress, or person holding any lucrative office under the United States or this State, (provided
+that appointments in the militia, postmasters, or justices of the peace shall not be considered
+lucrative offices,) shall have a seat in the general assembly; nor shall any person holding any office
+of honor or profit under the Government of the United States hold any office of honor or profit
+under the authority of this State.
+
+*** SEND ***
+*** SSTART 026.0 002.0 0 IL 1818 ***
+
+SEC. 26. Every person who shall be chosen or appointed to any office of trust or profit shall,
+before entering upon the duties thereof take an oath to support the Constitution of the United
+States and of this State, and also an oath of office.
+
+*** SEND ***
+*** SSTART 027.0 002.0 0 IL 1818 ***
+
+SEC. 27. In all elections, all white male inhabitants above the age of twenty-one years, having
+resided in the State six months next preceding the election, shall enjoy the right of an elector; but
+no person shall be entitled to vote except in the county or district in which he shall actually reside
+at the time of the election.
+
+*** SEND ***
+*** SSTART 028.0 002.0 0 IL 1818 ***
+
+SEC. 28. All votes shall be given viva voce until altered by the general assembly.
+
+*** SEND ***
+*** SSTART 029.0 002.0 0 IL 1818 ***
+
+SEC. 29. Electors shall, in all cases, except treason, felony, or breach of the peace, be privileged
+from arrest during their attendance at elections, and in going to and returning from the same.
+
+*** SEND ***
+*** SSTART 030.0 002.0 0 IL 1818 ***
+
+SEC. 30. The general assembly shall have full power to exclude from the privilege of electing or
+being elected any person convicted of bribery, perjury, or any other infamous crime.
+
+*** SEND ***
+*** SSTART 031.0 002.0 0 IL 1818 ***
+
+SEC. 31. In the year 1820, and every fifth year thereafter, an enumeration of all the white
+inhabitants of the State shall be made in such manner as shall be directed by law.
+
+*** SEND ***
+*** SSTART 032.0 002.0 0 IL 1818 ***
+
+SEC. 32. All bills for raising a revenue shall originate in the house of representatives, subject,
+however, to amendment or rejection as in other cases.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 IL 1818 ***
+
+ARTICLE III
+
+*** SSTART 001.0 003.0 0 IL 1818 ***
+
+SECTION 1. The executive power of the State shall be vested in a governor.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 IL 1818 ***
+
+SEC. 2. The first election of governor shall commence on the third Thursday of September next,
+and continue for that and the two succeeding days; and the next election shall be held on the first
+Monday of August, in the year of our Lord 1822. And forever after, elections for governor shall
+be held once in four years, on the first Monday in August. The governor shall be chosen by the
+electors of the members of the general assembly, at the same places and in the same manner that
+they shall respectively vote for members thereof. The returns for every election of governor shall
+be sealed up and transmitted to the seat of government by the returning officers, directed to the
+speaker of the house of representatives, who shall open and publish them in the presence of a
+majority of the members of each house of the general assembly. The person having the highest
+number of votes shall be governor; but if two or more be equal and highest in votes, then one of
+them shall be chosen governor by joint ballot of both houses of the general assembly. Contested
+elections shall be determined by both houses of the general assembly in such manner as shall be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 003.0 003.0 0 IL 1818 ***
+
+SEC. 3. The first governor shall hold his office until the first Monday of December, in the year of
+our Lord 1822, and until another governor shall be elected and qualified to office; and forever
+after the governor shall hold his office for the term of four years and until another governor shall
+be elected and qualified; but he shall not be eligible for more than four years in any term of eight
+years. He shall be at least thirty years of age, and have been a citizen of the United States thirty
+years; two years of which next preceding his election he shall have resided within the limits of this
+State.
+
+*** SEND ***
+*** SSTART 004.0 003.0 0 IL 1818 ***
+
+SEC. 4. He shall, from time to time, give the general assembly information of the state of the
+government, and recommend to their consideration such measures as he shall deem expedient.
+
+*** SEND ***
+*** SSTART 005.0 003.0 0 IL 1818 ***
+
+SEC. 5. He shall have power to grant reprieves and pardons after conviction, except in cases of
+impeachment.
+
+*** SEND ***
+*** SSTART 006.0 003.0 0 IL 1818 ***
+
+SEC. 6. The governor shall, at stated times, receive a salary for his services, which shall neither be
+increased nor diminished during the term for which he shall have been elected.
+
+*** SEND ***
+*** SSTART 007.0 003.0 0 IL 1818 ***
+
+SEC. 7. He may require information in writing from the officers in the executive department,
+upon any subject relating to the duties of their respective offices and shall take care that the laws
+be faithfully executed.
+
+*** SEND ***
+*** SSTART 008.0 003.0 0 IL 1818 ***
+
+SEC. 8. When any officer, the right of whose appointment is, by this constitution, vested in the
+general assembly, or in the governor and senate, shall, during the recess, die, or his office by any
+means become vacant, the governor shall have power to fill such vacancy, by granting a
+commission, which shall expire at the end of the next session of the general assembly.
+
+*** SEND ***
+*** SSTART 009.0 003.0 0 IL 1818 ***
+
+SEC. 9. He may, on extraordinary occasions, convene the general assembly by proclamation, and
+shall state to them, when assembled, the purpose for which they shall have been convened.
+
+*** SEND ***
+*** SSTART 010.0 003.0 0 IL 1818 ***
+
+SEC. 10. He shall be commander-in-chief of the army and navy of this State, and of the militia,
+except when they shall be called into the service of the United States.
+
+*** SEND ***
+*** SSTART 011.0 003.0 0 IL 1818 ***
+
+SEC. 11. There shall be elected in each and every county in the said State, by those who are
+qualified to vote for members of the general assembly, and at the same time and places where the
+election or such members shall be held, one sheriff and one coroner, whose election shall be
+subject to such rules and regulations as shall be prescribed by law. The said sheriffs and coroners
+respectively, when elected, shall continue in office two years, be subject to removal and
+disqualification, and such other rules and regulations as may be from time to time prescribed by
+law. 
+
+*** SEND ***
+*** SSTART 012.0 003.0 0 IL 1818 ***
+
+SEC.12. In case of disagreement between two houses with respect to the time of adjournment, the
+governor shall have power to adjourn the general assembly to such time as he thinks proper,
+provided it be not a period beyond the next constitutional meeting of the same.
+
+*** SEND ***
+*** SSTART 013.0 003.0 0 IL 1818 ***
+
+SEC. 13. A lieutenant-governor shall be chosen at every election for governor in the same
+manner, continue in office for the same time, and possess the same qualifications. In voting for
+governor and lieutenant-governor, the electors shall distinguish whom they vote for as governor
+and whom as lieutenant-governor.
+
+*** SEND ***
+*** SSTART 014.0 003.0 0 IL 1818 ***
+
+SEC. 14. He shall, by virtue of his office, be speaker of the senate, have a right, when in
+committee of the whole, to debate and vote on all subjects, and whenever the senate are equally
+divided, to give the casting vote.
+
+*** SEND ***
+*** SSTART 015.0 003.0 0 IL 1818 ***
+
+SEC. 15. Whenever the government shall be administered by the lieutenant-governor, or he shall
+be unable to attend as speaker of the senate, the senators shall elect one of their own members as
+speaker for that occasion; and if, during the vacancy of the office of  governor, the lieutenant-
+governor shall be impeached, removed from office, refuse to qualify, or resign, or die, or be
+absent from the State, the speaker of the senate shall in like manner administer the government.
+
+*** SEND ***
+*** SSTART 016.0 003.0 0 IL 1818 ***
+
+SEC. 16. The lieutenant-governor, while he acts as speaker of the senate, shall receive for his
+services the same compensation which shall, for the same period, be allowed to the speaker of the
+house of representatives and no more; and during the time he administers the government as
+governor, he shall receive the same compensation which the governor would have received had he
+been employed in the duties of his office.
+
+*** SEND ***
+*** SSTART 017.0 003.0 0 IL 1818 ***
+
+SEC. 17. If the lieutenant-governor shall be called upon to administer the government, and shall,
+while in such administration, resign, die, or be absent from the State during the recess of the
+general assembly, it shall be the duty of the secretary for the time being to convene the senate for
+the purpose of choosing a speaker.
+
+*** SEND ***
+*** SSTART 018.0 003.0 0 IL 1818 ***
+
+SEC. 18. In case of an impeachment of the governor, his removal from office, death, refusal to
+qualify, resignation or absence from the State, the lieutenant-governor shall exercise all the power
+and authority appertaining to the office of governor, until the time pointed out by this constitution
+for the election of governor shall arrive, unless the general assembly shall provide by law for the
+election of a governor to fill such vacancy.
+
+*** SEND ***
+*** SSTART 019.0 003.0 0 IL 1818 ***
+
+SEC. 19. The governor for the time being, and the judges of the supreme court or a major part of
+them, together with the governor, shall be, and are hereby, constituted a council to revise all bills
+about to be passed into laws y the general assembly; and for that purpose shall assemble
+themselves from time to time when the general assembly shall be convened, for which nevertheless
+they shall not receive any salary or consideration under any pretence whatever; and all bills which
+have passed the senate and house of representatives shall, before they become laws, be presented
+to the said council for their revisal and consideration; and if, upon such revisal and consideration,
+it should appear improper to the said council or a majority of them, that the bill should become a
+law of this State, they shall return the same, together with their objections thereto, in writing, to
+the senate or house of representatives, (in whichsoever the same shall have originated,) who shall
+enter the objections set down by the council at large in their minutes, and proceed to reconsider
+the said bill. But if, after such reconsideration, the said senate or house of representatives shall,
+notwithstanding the said objections, agree to pass the same by a majority of the whole number of
+members elected, it shall, together with the said objections, be sent to the other branch of the
+general assembly, where it shall also be reconsidered, and if approved by a majority of all the
+members elected, it shall become a law. If any bill shall not be returned within ten days after it
+shall have been presented, the same shall be a law, unless the general assembly shall by their
+adjournment, render a return of the said bill in ten days impracticable; in which case the said bill
+shall be returned on the first day of the meeting of the general assembly, after the expiration of the
+said ten days, or be a law.
+
+*** SEND ***
+*** SSTART 020.0 003.0 0 IL 1818 ***
+
+SEC. 20. The governor shall nominate, and by and with the advice and consent of the senate
+appoint, a secretary of state, who shall keep a fair register of the official acts of the governor, and,
+when required, shall lay the same, and all papers, minutes, and vouchers relative thereto, before
+either branch of the general assembly, and shall perform such other duties as shall be assigned him
+by law.
+
+*** SEND ***
+*** SSTART 021.0 003.0 0 IL 1818 ***
+
+SEC. 21. The State treasurer and public printer or printers for the State shall be appointed
+biennially by the joint vote of both branches of the general assembly: Provided, That during the
+recess of the same the governor shall have power to fill such vacancies as may happen in either of
+said offices.
+
+*** SEND ***
+*** SSTART 022.0 003.0 0 IL 1818 ***
+
+SEC. 22. The governor shall nominate, and by and with the advice and consent of the senate
+appoint, all officers whose offices are established by this constitution, or shall be established by
+law, and whose appointments are not herein otherwise provided for: Provided, however, That
+inspectors, collectors, and their deputies, surveyors of the highways, constables, jailers, and such
+inferior officers whose jurisdiction may be confined within the limits of the county, shall be
+appointed in such manner as the general assembly shall prescribe.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 IL 1818 ***
+
+ARTICLE IV
+
+*** SSTART 001.0 004.0 0 IL 1818 ***
+
+SECTION 1. The judicial power of this State shall be vested in one supreme court, and such
+inferior courts as the general assembly shall, from time to time, ordain and establish.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 IL 1818 ***
+
+SEC. 2. The supreme court shall be holden at the seat of government, and shall have an appellate
+jurisdiction only, except in cases relating to the revenue, in cases of mandamus, and in such cases
+of impeachment as may be required to be tried before it.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 IL 1818 ***
+
+SEC. 3. The supreme court shall consist in a chief-justice and three associates, any two of whom
+shall form a quorum. The number of justices may, however, be increased by the general assembly
+after the year 1824.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 IL 1818 ***
+
+SEC. 4. The justices of the supreme court and the judges of the inferior courts shall be appointed
+by joint ballot of both branches of the general assembly, and commissioned by the governor, and
+shall hold their offices during good behavior until the end of the first session of the general
+assembly, which shall be begun and held after the 1st day of January, in the year of our Lord
+1824, at which time their commissions shall expire; and until the expiration of which time the said
+justices, respectively, shall hold circuit courts in the several counties, in such manner, and at such
+times, and shall have and exercise such jurisdiction as the general assembly shall by law prescribe.
+But ever after the aforesaid period the justices of the supreme court shall be commissioned during
+good behavior, and the justices thereof shall not hold circuit courts unless required by law.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 IL 1818 ***
+
+SEC. 5. The judges of the inferior courts shall hold their offices during good behavior, but for any
+reasonable cause, which shall not be sufficient ground for impeachment, both the judges of the
+supreme and inferior courts shall be removed from office on the address of two-thirds of each
+branch of the general assembly: Provided always, That no member of either house of the general
+assembly, nor any person connected with a member by consanguinity or affinity, shall be
+appointed to fill the vacancy occasioned by such removal. The said justices of the supreme court,
+during their temporary appointment, shall receive an annual salary of one thousand dollars,
+payable quarter-yearly out of the public treasury. The judges of the inferior courts, and the
+justices of the supreme court who may be appointed after the end of the first session of the
+general assembly which shall be begun and held after the first day of January, in the year of our
+Lord 1824, shall have adequate and competent salaries, which shall not be diminished during their
+continuance in office.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 IL 1818 ***
+
+SEC. 6. The supreme court, or a majority of the justices thereof, the circuit courts, or the justices
+thereof, shall, respectively, appoint their own clerks.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 IL 1818 ***
+
+SEC. 7. All process, writs, and other proceedings shall run in the name of "The people of the
+State of Illinois." All prosecutions shall be carried on "In the name and by the authority of the
+people of the State of Illinois," and conclude "Against the peace and dignity of the same."
+
+*** SEND ***
+***SSTART 008.0 004.0 0 IL 1818 ***
+
+SEC. 8. A competent number of justices of the peace shall be appointed in each county, in such
+manner as the general assembly may direct, whose time of service, power, and duties shall be
+regulated and defined by law. And justices of the peace, when so appointed, shall be
+commissioned by the governor.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 IL 1818 ***
+
+ARTICLE V
+
+*** SSTART 001.0 005.0 0 IL 1818 ***
+
+SECTION 1. The militia of the State of Illinois shall consist of all free, male, able-bodied persons,
+(negroes, mulattoes, and Indians excepted,) resident in the State, between the age of eighteen and
+forty-five years, (except such persons as now are, or hereafter may be, exempted by the law of the
+United States or of this State,) and shall be armed, equipped, and trained as the general assembly
+may provide by law.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 IL 1818 ***
+
+SEC. 2. No person or persons conscientiously scrupulous of bearing arms shall be compelled to
+do militia duty in time of peace: Provided, Such person or persons shall pay an equivalent for such
+exemptions.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 IL 1818 ***
+
+SEC. 3. Company, battalion, and regimental officers, staff officers excepted, shall be elected by
+the persons composing their several companies, battalions, and regiments.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 IL 1818 ***
+
+SEC. 4. Brigadier and major generals shall be elected by the officers of their brigades and
+divisions respectively.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 IL 1818 ***
+
+SEC. 5. All militia officers shall be commissioned by the governor, and may hold their
+commissions during good behavior, or until they arrive at the age of sixty years.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 IL 1818 ***
+
+SEC. 6. The militia shall in all cases, except treason, felony, or breach of the peace, be privileged
+from arrest during their attendance at musters and elections of officers, and in going to and
+returning from the same.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 IL 1818 ***
+
+ARTICLE VI
+
+*** SSTART 001.0 006.0 0 IL 1818 ***
+
+SECTION 1. Neither slaver nor involuntary servitude shall hereafter be introduced into this State,
+otherwise than for the punishment of crimes, whereof the party shall have been duly convicted;
+nor shall any male person, arrived at the age of twenty-one years, nor female person arrived at the
+age of eighteen years, be held to serve any person as a servant, under any indenture hereafter
+made, unless such person shall enter into such indenture while in a state of perfect freedom, and
+on condition of a bona-flde consideration received or to be received for their service. Nor shall
+any indenture of any negro or mulatto, hereafter made and executed out of this State, or if made
+in this State, where the term of service exceeds one year, be of at least validity, except those given
+in cases of apprenticeship.
+*** SEND ***
+*** SSTART 002.0 006.0 0 IL 1818 ***
+
+SEC. 2. No person bound to labor in any other State shall be hired to labor in this State, except
+within the tract reserved for the salt-works near Shawneetown; nor even at that place for a longer
+period than one year at any one time; nor shall it be allowed there after the year 1825.  Any
+violation of this article shall effect the emancipation of such person from his obligation to service.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 IL 1818 ***
+
+SEC. 3. Each and every person who has been bound to service by contract or indenture in virtue
+of the laws of Illinois Territory heretofore existing, and in conformity to the provisions of the
+same, without fraud or collusion, shall be held to a specific performance of their contracts or
+indentures; and such negroes and mulattoes as have been registered in conformity with the
+aforesaid laws shall serve out the time appointed by said laws: Provided, however, That the
+children hereafter born of such person, negroes, or mulattoes, shall become free, the males at the
+age of twenty-one years, the females at the age of eighteen years. Each and every child born of
+indentured parents shall be entered with the clerk of the county in which they reside, by their
+owners, within six months after the birth of said child.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 IL 1818 ***
+
+ARTICLE VII
+
+*** SSTART 001.0 007.0 0 IL 1818 ***
+
+SECTION 1. Whenever two-thirds of the general assembly shall think it necessary to alter or
+amend this constitution, they shall recommend to the electors, at the next election of members to
+the general assembly to vote for or against a convention; and if it shall appear that a majority of all
+the citizens of the State, voting for representatives, have voted for a convention, the general
+assembly shall, at their next session, call a convention, to consist of as many members as there
+may be in the general assembly, to be chosen in the same manner, at the same place, and by the
+same electors that choose the general assembly; and which convention shall meet within three
+months after said election, for the purpose of revising, altering, or amending this constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 IL 1818 ***
+
+ARTICLE VIII
+
+*** SSTART 001.0 008.0 0 IL 1818 ***
+
+That the general, great, and essential principles of liberty and free government may be recognized
+and unalterably established, we declare:
+
+SECTION 1. That all men are born equally free and independent, and have certain inherent and
+indefeasible rights, among which are those of enjoying and defending life and liberty, and of
+acquiring, possessing, and protecting property and reputation, and of pursuing their own
+happiness.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 IL 1818 ***
+
+SEC. 2. That all power is inherent in the people, and all free governments are founded on their
+authority, and instituted for their peace, safety, and happiness.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 IL 1818 ***
+
+SEC. 3. That all men have a natural and indefeasible right to worship Almighty God according to
+the dictates of their own consciences; that no man can of right be compelled to attend, erect, or
+support any place of worship, or to maintain any ministry against his consent; that no human
+authority can, in any case whatever, control or interfere with the rights of conscience; and that no
+preference shall ever be given by law to any religious establishments or modes of worship.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 IL 1818 ***
+
+SEC. 4. That no religious test shall ever be required as a qualification to any office or public trust
+under this State.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 IL 1818 ***
+
+SEC. 5. That elections shall be free and equal.
+
+*** SEND ***
+*** SSTART 006.0 008.0 0 IL 1818 ***
+
+SEC. 6. That the right of the trial by jury shall remain inviolate.
+
+*** SEND ***
+*** SSTART 007.0 008.0 0 IL 1818 ***
+
+SEC. 7. That the people shall be secure in their persons, houses, papers, and possessions from
+unreasonable searches and seizures; and that general warrants, whereby an officer may be
+commanded to search suspected places without evidence of the fact committed, or to seize any
+person or persons not named, whose offences are not particularly described and supported by
+evidence, are dangerous to liberty, and ought not to be granted.
+
+*** SEND ***
+*** SSTART 008.0 008.0 0 IL 1818 ***
+
+SEC. 8. That no freeman shall be imprisoned or disseized of his freehold, liberties, or privileges,
+or outlawed or exiled, or in any manner deprived of his life, liberty, or property, but by the
+judgment of his peers or the law of the land. And all lands which have been granted as a common
+to the inhabitants of any town, hamlet, village, or corporation, by any person, body politic or
+corporate, or by any government having power to make such grant, shall forever remain common
+to the inhabitants of such town, hamlet, village, or corporation; and the said commons shall not be
+leased, sold, or divided under any pretence whatever: Provided, however, That nothing in this
+section shall be so construed as to affect the commons of Cahokia or Prairie du Pont: Provided
+also, That the general assembly shall have power and authority to grant the same privileges to the
+inhabitants of the said villages of Cahokia and Prairie du Pont as are hereby granted to the
+inhabitants of other towns, hamlets, and villages.
+
+*** SEND ***
+*** SSTART 009.0 008.0 0 IL 1818 ***
+
+SEC. 9. That in all criminal prosecutions, the accused hath a right to be heard by himself and
+counsel; to demand the nature and cause of the accusation against him; to meet the witnesses face
+to face; to have compulsory process to compel the attendance of witnesses in his favor; and in
+prosecutions by indictment or information, a speedy public trial by an impartial jury of the
+vicinage; and that he shall not be compelled to give evidence against himself.
+
+*** SEND ***
+*** SSTART 010.0 008.0 0 IL 1818 ***
+
+SEC. 10. That no person shall, for any indictable offence, be proceeded against criminally by
+information, except in cases arising in the land or naval forces, or the militia when in actual
+service, in time of war, or public danger, by leave of the courts, for oppression or misdemeanor in
+office.
+
+*** SEND ***
+*** SSTART 011.0 008.0 0 IL 1818 ***
+
+SEC. 11. No person shall, for the same offence, be twice put in jeopardy of his life or limb; nor
+shall any man's property be taken or applied to public use, without the consent of his
+representatives in the general assembly, nor without just compensation being made to him.
+
+*** SEND ***
+*** SSTART 012.0 008.0 0 IL 1818 ***
+
+SEC. 12. Every person within this State ought to find a certain remedy in the laws for all injuries
+or wrongs which he may receive in his person, property, or character; he ought to obtain right and
+justice freely, and without being obliged to purchase it, completely and without denial, promptly
+and without delay, conformably to the laws.
+
+*** SEND ***
+*** SSTART 013.0 008.0 0 IL 1818 ***
+
+SEC. 13. That all persons shall be bailable by sufficient sureties, unless for capital offences, where
+the proof is evident or the presumption great; and the privilege of the writ of habeas corpus shall
+not be suspended, unless when, in case of rebellion or invasion, the public safety may require it.
+
+*** SEND ***
+*** SSTART 014.0 008.0 0 IL 1818 ***
+
+SEC. 14. All penalties shall be proportioned to the nature of the offence, the true design of all
+punishment being to reform, not to exterminate, mankind.
+
+*** SEND ***
+*** SSTART 015.0 008.0 0 IL 1818 ***
+
+SEC. 15. No person shall be imprisoned for debt, unless upon refusal to deliver up his estate for
+the benefit of his creditors, in such manner as shall be prescribed by law, or in cases where there is
+strong presumption of fraud.
+
+*** SEND ***
+*** SSTART 016.0 008.0 0 IL 1818 ***
+
+SEC. 16. No ex post facto law, nor any law impairing the validity of contracts, shall ever be made;
+and no conviction shall work corruption of blood or forfeiture of estate.
+
+*** SEND ***
+*** SSTART 017.0 008.0 0 IL 1818 ***
+
+SEC. 17. That no person shall be liable to be transported out of this State for any offence
+committed within the same.
+
+*** SEND ***
+*** SSTART 018.0 008.0 0 IL 1818 ***
+
+SEC. 18. That a frequent recurrence to the fundamental principles of civil government is
+absolutely necessary to preserve the blessings of liberty.
+*** SEND ***
+*** SSTART 019.0 008.0 0 IL 1818 ***
+
+SEC. 19. That the people have a right to assemble together in a peaceable manner to consult for
+their common good, to instruct their representatives, and to apply to the general assembly for
+redress of grievances. 
+
+*** SEND ***
+*** SSTART 020.0 008.0 0 IL 1818 ***
+
+SEC. 20. That the mode of levying a tax shall be by valuation, so that every person shall pay a tax
+in proportion to the value of the property he or she has in his or her possession.
+
+*** SEND ***
+*** SSTART 021.0 008.0 0 IL 1818 ***
+
+SEC. 21. That there shall be no other banks or moneyed institutions in this State but those already
+provided by law, except a State bank and its branches, which may be established and regulated by
+the general assembly of the State as they may think proper.
+
+
+*** SEND ***
+*** SSTART 022.0 008.0 0 IL 1818 ***
+
+SEC. 22. The printing presses shall be free to every person who undertakes to examine the
+proceedings of the general assembly or of any branch of government; and no law shall ever be
+made to restrain the right thereof. The free communication of thoughts and opinions is one of the
+invaluable rights of mail, and every citizen may freely speak, write, and print on any subject, being
+responsible for the abuse of that liberty.
+
+*** SEND ***
+*** SSTART 023.0 008.0 0 IL 1818 ***
+
+SEC. 23. In prosecutions for the publication of papers investigating the official conduct of
+officers, or of men acting in a public capacity, or where the matter published is proper for public
+information, the truth thereof may be given in evidence. And in all indictments for libels the jury
+shall have the right of determining both the law and the fact, under the direction of the court, as in
+other cases.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9003.0 IL 1818 ***
+
+SCHEDULE
+
+*** SSTART 001.0 9003.0 0 IL 1818 ***
+
+SECTION 1. That no inconveniences may arise from the change of a territorial to a permanent
+State government, it is declared by the convention that all rights, suits, actions, prosecutions,
+claims, and contracts, both as it respects individuals and bodies-corporate, shall continue as if no
+change had taken place in this government in virtue of the laws now in force.
+
+*** SEND ***
+*** SSTART 002.0 9003.0 0 IL 1818 ***
+
+SEC. 2. All fines, penalties, and forfeitures due and owing to the Territory of Illinois shall inure to
+the use of the State. A bonds executed to the governor, or to any other officer in his official
+capacity in the Territory, shall pass over to the governor or to the officers of the State, and their
+successors in office, for the use of the State, by him or by them to be respectively assigned over to
+the use of those concerned, as the case may be.
+
+*** SEND ***
+*** SSTART 003.0 9003.0 0 IL 1818 ***
+
+SEC. 3. No sheriff or collector of public moneys shall be eligible to any office in this State, until
+they have paid over, according to law, all moneys which they may have collected by virtue of their
+respective offices.
+
+*** SEND ***
+*** SSTART 004.0 9003.0 0 IL 1818 ***
+
+SEC. 4. There shall be elected in each county three county commissioners for the purpose of
+transacting all county business, whose time of service, power, and duties shall be regulated and
+defined by law.
+
+*** SEND ***
+*** SSTART 005.0 9003.0 0 IL 1818 ***
+
+SEC. 5. The governor, secretary, and judges, and all other officers under the territorial
+government, shall continue in the exercise of the duties of their respective departments until the
+said officers are superseded under the authority of this constitution.
+
+*** SEND ***
+*** SSTART 006.0 9003.0 0 IL 1818 ***
+
+SEC. 6. The governor of this State shall make use of his private seal until a State seal shall be
+provided.
+
+*** SEND ***
+*** SSTART 007.0 9003.0 0 IL 1818 ***
+
+SEC. 7. The oaths of office herein directed to be taken may be administered by any justice of the
+peace until the general assembly shall otherwise direct.
+
+*** SEND ***
+*** SSTART 008.0 9003.0 0 IL 1818 ***
+
+SEC. 8 [Apportionment of senators and representatives]
+
+Original text for this section could not be found.
+
+*** SEND ***
+*** SSTART 009.0 9003.0 0 IL 1818 ***
+
+SEC. 9. The president of the convention shall issue writs of election, directed to the several
+sheriffs of the several counties, or in case of the absence or disability of any sheriff, then to the
+deputy sheriff, and in case of the absence or disability of the deputy sheriff, then such writ to be
+directed to the coroner, requiring them to cause an election to be held for governor, lieutenant-
+governor. Representative to the present Congress of the United States, and members to the
+general assembly, and sheriffs and coroners in the respective counties; such election to commence
+on the third Thursday of September next, and to continue for that and the two succeeding days;
+and which election shall be conducted in the manner prescribed by the existing election laws of the
+Illinois Territory; and the said governor, lieutenant-governor, members of the general assembly,
+sheriffs, and coroners, then duly elected, shall continue to exercise the duties of their respective
+offices for the time prescribed by this constitution, and until their successor or successors are
+qualified, and no longer.
+
+*** SEND ***
+*** SSTART 010.0 9003.0 0 IL 1818 ***
+
+SEC. 10. An auditor of public accounts, an attorney-general, and such other officers for the State
+as may be necessary, may be appointed by the general assembly, whose duties may be regulated
+by law.
+
+*** SEND ***
+*** SSTART 011.0 9003.0 0 IL 1818 ***
+
+SEC. 11. It shall be the duty of the general assembly to enact such laws as may be necessary and
+proper to prevent the practice of duelling.
+
+*** SEND ***
+*** SSTART 012.0 9003.0 0 IL 1818 ***
+
+SEC. 12. All white male inhabitants above the age of twenty-one years, who shall be actual
+residents of this State at the signing of this constitution shall have a right to vote at the election to
+be held on the third Thursday and the two following days of September next.
+
+*** SEND ***
+*** SSTART 013.0 9003.0 0 IL 1818 ***
+
+SEC. 13. The seat of government for the State shall be at Kaskaskia, until the general assembly
+shall otherwise provide. The general assembly, at their first session holden under the authority of
+this constitution, shall petition the Congress of the United States to grant to this State a quantity
+of land, to consist of not more than four, nor less than one section, or to give to this State the
+right of pre-emption in the purchase of the said quantity of land; the said land to be situate on the
+Kaskaskia River, and, as near as may be, east of the third principal meridian on said river. Should
+the prayer of such petition be granted, the general assembly, at their next session thereafter, shall
+provide for the appointment of five commissioners to make the selection of said land so granted;
+and shall further provide for laying out a town upon the land so selected; which town, so laid out,
+shall be the seat of government of this State for the term of twenty years. Should, however, the
+prayer of said petition not be granted, the general assembly shall have power to make such
+provisions for a permanent seat of government as may be necessary, and shall fix the same where
+they may think best.
+
+
+*** SEND ***
+*** SSTART 014.0 9003.0 0 IL 1818 ***
+
+SEC. 14. Any person of thirty years of age who is a citizen of the, United States and has resided
+within the limits of this State two years next preceding his election, shall be eligible to the office
+of lieutenant-governor; anything in the thirteenth section of the third article of this constitution
+contained to the contrary notwithstanding.
+
+*** CEND ***
+

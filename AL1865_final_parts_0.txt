@@ -1,0 +1,1226 @@
+This is ready to go.
+
+JW 12.29.01
+
+                                
+                      CONSTITUTION OF 1865
+
+                           WHOLE TEXT
+
+
+*** CSTART AL 9/12/1865 9/5/1867 ***
+
+                              THE 
+                         CONSTITUTION 
+                             OF THE
+                       STATE OF ALABAMA,
+
+      AS REVISED AND AMENDED BY THE CONVENTION ASSEMBLED 
+             AT MONTGOMERY, ON THE TWELFTH DAY OF 
+                     SEPTEMBER, A. D. 1865.
+
+*** ASTART 9001.0 AL 1865 ***
+*** SSTART 001.0 9001.0 0 AL 1865 ***
+
+                           PREAMBLE.
+
+We, the People of the State of Alabama, by our representatives in convention assembled ; in order
+to establish justice, ensure domestic tranquillity, provide for the common defence, promote the
+general welfare, and secure to ourselves and to our posterity the rights of life, liberty, and
+property ; invoking the favor and guidance of Almighty God, do ordain and establish the
+following constitution and form of government for the State of Alabama-that is to say:
+
+*** SEND ***
+*** AEND ***
+*** ASTART 001.0 AL 1865 ***
+
+
+                           ARTICLE I.
+                                
+                     DECLARATION OF RIGHTS.
+
+That the general, great, and essential principles of liberty and free government may be recognized
+and established, we declare-
+
+*** SSTART 001.0 001.0 0 AL 1865 *** 
+
+Section 1. That no man, and no set of men, are entitled to exclusive separate public emoluments
+or privileges, but in consideration of public services.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 AL 1865 *** 
+
+Section 2. That all political power is inherent in the people, and all free governments are founded
+on their authority, and instituted for their benefit ; and that, therefore, they have at all times an
+inalienable and indefeasible right to alter, reform, or abolish their form of government, in such
+manner as they may deem expedient.
+
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 AL 1865 *** 
+
+Section 3. That no person within this State shall, upon any pretence whatever, be deprived of the
+inestimable privilege of worshipping God in the manner most agreeable to his own conscience ;
+nor be hurt, molested, or restrained in his religious profession. Sentiments, or persuasions,
+provided he does not disturb others in their religious worship.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 AL 1865 *** 
+
+Section 4. That no religion shall be established by law ; that no preference shall be given by law to
+any religious sect, society, denomination, or mode of worship ; that no one shall be compelled by
+law to attend any place of worship, nor to pay any tithes, taxes, or other rate, for building or
+repairing any place of worship, or for maintaining any minister or ministry ; that no religious test
+shall be required as a qualification to any office or public trust under this State ; and that the civil
+rights, privileges, and capacities of any citizen shall not be in any manner affected by his religious
+principles. 
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 AL 1865 *** 
+
+Section 5. That every citizen may freely speak, write, and publish his sentiments on all subjects
+being responsible for the abuse of that liberty.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 AL 1865 *** 
+
+Section 6. That the people shall be secure in their persons, houses, papers, and possessions, from
+unreasonable seizures or searches ; and that no warrant shall issue to search any place, or to seize
+any person or thing, without describing them as nearly as may be, nor without probable cause,
+supported by oath or affirmation. 
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 AL 1865 *** 
+
+Section 7. That in all criminal prosecutions, the accused has a right to be heard by himself and
+counsel, to demand the nature and cause of the accusation, to have a copy thereof, to be
+confronted by the witnesses against him, to have compulsory process for obtaining witnesses in
+his favor, and, in all prosecutions by indictment or information, a speedy public trial by an
+impartial jury of the county or district in which the offence was committed ; and that he shall not
+be compelled to give evidence against himself, nor be deprived of his life, liberty, or property, but
+by due course of law.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 AL 1865 *** 
+
+Section 8. That no person shall be accused; arrested, or detained, except in cases ascertained by
+law, and according to the forms which the same has prescribed ; and that no person shall be
+punished, but by virtue of a law established and promulgated prior to the offence, and legally
+applied.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 AL 1865 *** 
+
+Section 9. That no person shall, for any indictable offence, be proceeded against criminally by
+information ; except in cases arising in the land and naval forces, or in the militia when in actual
+service, or, by leave of the court, for oppression or misdemeanor in office. Provided, that in cases
+of petit larceny, assault and battery, affray, unlawful assemblies, vagrancy, and other
+misdemeanors, the General Assembly may by law dispense with a grand jury, and authorize such
+prosecutions before justices of the peace, or such other inferior courts as may be by law
+established ; and the proceedings in such cases shall be regulated by law.
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 AL 1865 *** 
+
+Section 10. That no person shall, for the same offence, be twice put in jeopardy of life or limb. 
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 AL 1865 *** 
+
+Section 11. That no person shall be debarred from prosecuting or defending, before any tribunal
+in this State, by himself or counsel, any civil cause to which he is a party.
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 AL 1865 *** 
+
+Section 12. That the right of trial by jury shall remain inviolate.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 AL 1865 *** 
+
+Section 13. That in prosecutions for the publication of papers investigating the official conduct of
+officers or men in public capacity, or when the matter published is proper for public information,
+the truth thereof may be given in evidence ; and that in all indictments for libels, the jury shall have
+the right to determine the law and the facts, under the direction of the court.
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 AL 1865 *** 
+
+Section 14. That all courts shall be open ; and that every person, for any injury done him, in his
+lands, goods, person or reputation, shall have a remedy by due course of law, and right and justice
+administered, without sale, denial, or delay.
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 AL 1865 *** 
+
+Section 15. That suits may be brought against the State, in such manner, and in such courts, as
+may be by law provided.
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 AL 1865 *** 
+
+Section 16. That excessive fines shall not be imposed, nor cruel punishments be inflicted.
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 AL 1865 *** 
+
+Section 17. That all persons shall, before conviction, be bailable by sufficient sureties, except for
+capital offences, when the proof is evident, or the presumption great ; and that excessive bail shall
+no , in any case, be required.
+
+*** SEND ***
+*** SSTART 018.0 001.0 0 AL 1865 *** 
+
+Section 18. That the privilege of the writ of habeas corpus shall not be suspended, unless when, in
+cases of rebellion or invasion, the public safety may require it.
+
+*** SEND ***
+*** SSTART 019.0 001.0 0 AL 1865 *** 
+
+Section 19. That treason against the state shall consist only in levying war against it, or adhering
+to its enemies, giving them aid and comfort ; and that no person shall be convicted of treason,
+unless on the testimony of two witnesses to the same overt act, or his own confession in open
+court.
+
+*** SEND ***
+*** SSTART 020.0 001.0 0 AL 1865 *** 
+
+Section 20. That no person shall be attainted of treason by the General Assembly ; and that no
+conviction shall work corruption of blood, or forfeiture of estate.
+
+*** SEND ***
+*** SSTART 021.0 001.0 0 AL 1865 *** 
+
+Section 21. That the estates of suicides shall descend, or vest, as in cases of natural death ; and
+that, if any person shall be killed by casualty, there shall be no forfeiture by reason thereof. 
+
+*** SEND ***
+*** SSTART 022.0 001.0 0 AL 1865 *** 
+
+Section 22. That the person of a debtor, when there is not a strong presumption of fraud, shall
+not be detained in prison, after delivering up his estate, for the benefit of his creditors, in such
+manner as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 023.0 001.0 0 AL 1865 *** 
+
+Section 23. That no power of suspending laws shall be exercised, except by the General
+Assembly, or by its authority.
+
+*** SEND ***
+*** SSTART 024.0 001.0 0 AL 1865 *** 
+
+Section 24. That no ex-post-facto law impairing the obligation of contracts, shall be made.
+
+*** SEND ***
+*** SSTART 025.0 001.0 0 AL 1865 *** 
+
+Section 25. That private property shall not be taken or applied for public use, unless just
+compensation be made therefore ; nor shall private property be taken for private use, or for the
+use of corporations other than municipal, without the consent of the owner. Provided, however,
+that laws may be made securing to persons or corporations the right of way over the lands of
+other persons or corporations, and, for works of internal improvement, the right to establish
+depots, stations, and turn-outs ; but just compensation shall, in such cases, be first made to the
+owner.
+
+*** SEND ***
+*** SSTART 026.0 001.0 0 AL 1865 *** 
+
+Section 26. That the citizens have a right, in a peaceable manner, to assemble together for their
+common good, and to apply to those invested with the powers of government for redress of
+grievances, or other proper purposes, by petition, address, or remonstrance. 
+
+*** SEND ***
+*** SSTART 027.0 001.0 0 AL 1865 *** 
+
+Section 27. That every citizen has a right to bear arms in defence of himself and the State.
+
+*** SEND ***
+*** SSTART 028.0 001.0 0 AL 1865 *** 
+
+Section 28. That no person, who conscientiously scruples to bear arms, shall be compelled to do
+so but may pay an equivalent for personal service.
+
+*** SEND ***
+*** SSTART 029.0 001.0 0 AL 1865 *** 
+
+Section 29. That no standing army shall be kept up, without the consent of the General Assembly;
+and in that case, no appropriation for its support shall be for a longer term than one year ; and that
+the military shall, in all cases, and at all times, be in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 030.0 001.0 0 AL 1865 *** 
+
+Section 30. That no soldier shall, in time of peace, be quartered in any house, without the consent
+of the owner ; nor in time of war, but in a manner to be prescribed by law.
+
+*** SEND ***
+*** SSTART 031.0 001.0 0 AL 1865 *** 
+
+Section 31. That no title of nobility, or hereditary distinction, privilege, honor, or emolument,
+shall ever be granted or conferred in this State ; and that no office shall be created, the
+appointment of which shall be for a longer term than during good behavior.
+
+*** SEND ***
+*** SSTART 032.0 001.0 0 AL 1865 *** 
+
+Section 32. That emigration from this State shall not be prohibited, and that no citizen shall be
+exiled.
+
+*** SEND ***
+*** SSTART 033.0 001.0 0 AL 1865 *** 
+
+Section 33. That temporary absence from the State shall not cause a forfeiture of residence once
+obtained.
+
+*** SEND ***
+*** SSTART 034.0 001.0 0 AL 1865 *** 
+
+Section 34. That hereafter there shall be in this State neither slavery, nor involuntary servitude,
+otherwise than for the punishment of crime, whereof the party shall have been duly convicted.
+
+*** SEND ***
+*** SSTART 035.0 001.0 0 AL 1865 *** 
+
+Section 35. That the right of suffrage shall be protected by laws regulating elections, and
+prohibiting, under adequate penalties, all undue influence from power, briber, tumult, or other
+improper conduct.
+
+*** SEND ***
+*** SSTART 036.0 001.0 0 AL 1865 *** 
+
+Section 36. This enumeration of certain rights shall not be construed to deny or disparage others
+retained by the people ; and to guard against any encroachment on the rights hereby retained, or
+any transgression of any of the high powers by this constitution delegated, we declare, that
+everything in this article is excepted out of the general powers of government, and shall forever
+remain inviolate, and that all contrary thereto, or to the following provisions, shall be void.
+
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 002.0 AL 1865 ***
+
+                          ARTICLE II.
+
+                 STATE BOUNDARIES AND COUNTIES.
+
+
+*** SSTART 001.0 002.0 0 AL 1865 *** 
+
+Section 1. The boundaries of this State are established and declared to be as follows that is to say
+: Beginning at the point where the thirty-first degree of north latitude crosses the Perdido river ;
+thence east, to the western boundary line of the State of Georgia ; thence along said line to the
+southern boundary line of the State of Tennessee ; thence west, along the southern boundary line
+of the State of Tennessee, crossing the Tennessee river, and on to the second intersection of said
+river by said line ; thence up said river to the mouth of Big Bear creek ; thence by a direct line, to
+the north-west corner of Washington county in this State, as originally formed ; thence southerly,
+along the line of the State of Mississippi, to the Gulf of Mexico ; thence eastwardly, including all
+islands within six leagues of the shore, to the Perdido river ; and thence up the said river, to the
+beginning.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 AL 1865 *** 
+
+Section 2. The General Assembly may, by a vote of two thirds of both branches thereof, arrange
+and designate boundaries for the several counties of this State, which boundaries shall not be
+altered except by a like vote ; but no new county shall be hereafter formed of less extent than six
+hundred square miles, nor shall any existing county be reduced to a less extent than six hundred
+square miles ; and no new county shall be formed not containing a sufficient number of inhabitants
+to entitle it to one representative under the existing ratio of representation, nor unless the counties
+from which it is taken shall be left with the required number entitling them to separate
+representation.
+
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 003.0 AL 1865 ***
+
+                          ARTICLE III.
+
+             DISTRIBUTION OF POWERS OF GOVERNMENT.
+
+*** SSTART 001.0 003.0 0 AL 1865 *** 
+
+Section 1. The powers of the government of the State of Alabama shall be divided into three
+distinct departments, each of which shall be confided to a separate body of magistracy-to wit ;
+those which are legislative to one, those which are executive to another, and those which are
+judicial to another.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 AL 1865 *** 
+
+Section 2. No person, or collection of persons, being of one of those departments, shall exercise
+any power properly belonging to either of the others, except in the instances hereinafter expressly
+directed or permitted.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 004.0 AL 1865 ***
+
+                          ARTICLE IV.
+
+                    LEGISLATIVE DEPARTMENT.
+
+*** SSTART 001.0 004.0 0 AL 1865 *** 
+
+Section 1. The legislative power of this State shall be vested in two distinct branches ; the one to
+be styled the "Senate," and the other the "House of Representatives." And both together the
+"General Assembly of the State of Alabama." 
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 AL 1865 *** 
+
+
+Section 2. All laws shall be passed by original bill ; and their style shall be, "Be it enacted by the
+Senate and House of Representative of the State of Alabama, in General Assembly convened."
+Each law shall embrace but one subject, which shall be described in the title ; and no law, nor any
+section of any law, shall be revised or amended by reference only to its title and number, but the
+law or section revised or amended shall itself be set forth at full length.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 AL 1865 *** 
+
+Section 3. Members of both houses of the General Assembly shall be chosen by the qualified
+electors ; and the regulations for holding such elections shall, as to time, place, and manner, be the
+same for each house, and shall be prescribed by law. After the special election to be held on the
+first Monday in November, 1865, such elections shall, until otherwise directed by law, take place
+on the first Monday in August.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 AL 1865 *** 
+
+Section 4. No person who holds any lucrative office under the United States, or under this State,
+or under any other State or government (except post-masters, officers in the militia, to whose
+office no annual salary is attached, justices of the peace, members of the court of county
+commissioners, notaries public, and commissioners of deeds, excepted); no person who has been
+convicted of having given or offered any bribe to procure his election ; no person who has been
+convicted of bribery, forgery, perjury, or other high crime or misdemeanor which may be by law
+declared to disqualify him ; and no person who has been a collector or holder of public moneys
+and has failed to account for and pay over into the treasury all sums for which he may be by law
+accountable, shall be eligible to the General Assembly.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 AL 1865 *** 
+
+Section 5. Representatives shall be chosen for the term of two years ; and no person shall be a
+representative, who is not a white man, twenty-one years of age, a citizen of the United States and
+who has not been an inhabitant of this State for the two years next preceding the election, and for
+the last year thereof a resident of the county for which he is chosen.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 AL 1865 *** 
+
+Section 6. The house of representatives shall consist of not more than one hundred members, who
+shall be apportioned by the General Assembly among the several counties of the State according
+to the number of white inhabitants in them respectively ; and, to this end, the General Assembly
+shall cause an enumeration of all the inhabitants of the State to be made in the year one thousand
+eight hundred and sixty-six, and again in the year one thousand eight hundred and seventy-five,
+and every ten years thereafter, and shall make an apportionment of the representatives among the
+several counties at the first regular session after each enumeration ; which apportionment, when
+made, shall not be subjected to alteration, until after the next census shall have been taken,
+Provided, that each county shall be entitled to at least one representative. Provided further, that
+where two or more adjoining counties shall each have a residuum or fraction over and above the
+ratio then fixed by law, which fractions, when added together, equal or exceed that ratio, in that
+case, the county having the largest fraction shall be entitled to one additional representative.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 AL 1865 *** 
+
+Section 7. The whole number of senators shall be not less than one fourth, nor more than one
+third, of the whole number of representatives ; and it shall be the duty of the General Assembly, at
+its first session after the making of each enumeration, as provided by the last preceding section, to
+fix by law the number of senators, and to divide the State into as many senatorial districts as there
+are senators ; which districts shall be as nearly equal to each other as may be in the number of
+white inhabitant, and each shall be entitled to one senator and no more. Provided, that, in the
+formation of said districts, no county shall be divided, and no two or more counties, which are
+separated entirely by a county belonging to another district, shall be joined into one district. And
+provided further, that the senatorial districts, when formed, shall not be changed until after the
+next census shall have been taken. 
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 AL 1865 *** 
+
+Section 8. No person shall be a senator, who is not a white man, at least twenty-seven years of
+age, a citizen of the United States, and who has not been an inhabitant of this State for two years
+next preceding the election, and for the last year thereof a resident in the district for which he is
+chosen.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 AL 1865 *** 
+
+Section 9. Senators shall be chosen for the term of four years ; yet, at the first general election
+after each new apportionment, elections shall be held anew in all the senatorial districts ; and the
+senators elected, when convened at the next ensuing session of the General Assembly, shall be
+divided by lot into two classes, as nearly equal to each other as may be ; the seats of the senators
+of the first class shall be vacated at the expiration of two years, and those of the second class at
+the expiration of four years from the day of election, so that (except as above provided) one half
+of the senators may be chosen biennially.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 AL 1865 *** 
+
+Section 10. The General Assembly shall meet annually, on such day as may be by law prescribed;
+and shall not remain in session longer than thirty days, unless by a vote of two thirds of each
+house.
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 AL 1865 *** 
+
+Section 11. At the first regular or called session after each general election for representatives,
+the senate shall choose a president and its other officers, and the house of representatives shall
+choose a speaker and its other officers ; and the officers so chosen shall be entitled to hold their
+respective offices until the next general election for representatives. Each house shall judge of the
+qualifications, elections, and returns of its own members ; but a contested election shall be
+determined in such manner as may be by law provided.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 AL 1865 *** 
+
+Section 12. A majority of each house shall constitute a quorum to do business ; but a smaller
+number may adjourn from day to day, and may compel the attendance of absent members, in such
+manner, and under such penalties, as each house may provide.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 AL 1865 *** 
+
+Section 13. Each house may determine the rules of its own proceedings, punish members for
+disorderly behavior, and, with the consent of two thirds, expel a member, but not a second time
+for the same offence; and shall have all other powers necessary for a branch of the legislature of a
+free and independent state.
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 AL 1865 *** 
+
+Section 14. Each house may, during the session, punish by imprisonment any person, not a
+member, for disrespectful or disorderly behavior in its presence, or for obstructing any of its
+proceedings. Provided, that such imprisonment shall not, at any one time, exceed forty-eight
+hours.
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 AL 1865 *** 
+
+Section 15. Each house shall keep a journal of its own proceedings, and cause the same to be
+published immediately after its adjournment, excepting such parts as, in its judgement, may
+require secrecy ; and the yeas and nays of the members of either house, on any question, shall, at
+the desire of any two members present, be entered on the journals. Any member of either house
+shall have liberty to dissent from, and protest against, any act or resolution which he may think
+injurious to the public or to an individual, and have the reasons of his dissent entered on the
+journals.
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 AL 1865 *** 
+
+Section 16. The doors of each house shall be open, except on such occasions as, in the opinion of
+the house, may require secrecy.
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 AL 1865 *** 
+
+Section 17. Neither house shall, without the consent of the other, adjourn for more than three
+days, nor to any other place than that in which they may be sitting.
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 AL 1865 *** 
+
+Section 18. Bills may originate in either house, and be amended, altered, or rejected by the other ;
+but no bill shall have the force of a law, until it be read in each house on three several days, and
+free discussion thereon be allowed ; unless, in case of urgency, four fifths of the house in which
+the bill may be depending shall deem it expedient to dispense with this rule ; and every bill, having
+passed both houses, shall be signed by the speaker and president of the respective houses.
+Provided, that all bills for raising revenue shall originate in the house of representatives, but may
+be amended or rejected by the senate as other bills.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 AL 1865 *** 
+
+Section 19. In all elections by the General Assembly, the members shall vote viva voce, and the
+votes shall be entered on the journals.
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 AL 1865 *** 
+
+Section 20. No senator or representative shall, during the term for which he was elected, be
+elected or appointed to any civil office of profit under this State, except such offices as may be
+filled by elections by the people.
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 AL 1865 *** 
+
+Section 21. Senators and representatives shall, in all cases except treason, felony, or breach of the
+peace, be privileged from arrest, during the session of the General Assembly, and in going to and
+returning from the same, allowing one day or every twenty miles such member may reside from
+the place at which the General Assembly is convened ; nor shall any member be liable to answer
+for anything spoken in debate in either house, in any court or place elsewhere.
+
+*** SEND ***
+*** SSTART 022.0 004.0 0 AL 1865 *** 
+
+Section 22. Each member of the General Assembly shall receive from the public treasury such
+compensation for his services as may be fixed by law ; but no increase of compensation shall take
+effect during the session at which such increase shall have been made.
+
+*** SEND ***
+*** SSTART 023.0 004.0 0 AL 1865 *** 
+
+Section 23. When vacancies happen in either house, the Governor, or the person exercising the
+powers of Governor for the time being, shall issue writs of election to fill such vacancies.
+
+*** SEND ***
+*** SSTART 024.0 004.0 0 AL 1865 *** 
+
+Section 24. The house of representatives shall have the sole power of preferring impeachments ;
+all impeachments shall be tried by the senate ; the senators, when sitting for that purpose, shall be
+on oath or affirmation ; and no person shall be convicted under an impeachment, without the
+concurrence of two thirds of the senators present.
+
+*** SEND ***
+*** SSTART 025.0 004.0 0 AL 1865 *** 
+
+Section 25. It shall be the duty of the General Assembly to pass such laws as may be necessary
+and proper to decide differences by arbitrators, to be appointed by the parties, who may choose
+that summary mode of adjustment.
+
+*** SEND ***
+*** SSTART 026.0 004.0 0 AL 1865 *** 
+
+Section 26. It shall be the duty of the General Assembly, from time to time, as circumstances may
+require, to frame and adopt a penal code, founded on principles of reformation.
+
+*** SEND ***
+*** SSTART 027.0 004.0 0 AL 1865 *** 
+
+Section 27. It shall also be the duty of the General Assembly, within five years after the adoption
+of this constitution, and within every subsequent period of ten years, to make provision by law for
+the revision, digesting, and promulgation of all the public statutes of this State, both civil and
+criminal.
+
+*** SEND ***
+*** SSTART 028.0 004.0 0 AL 1865 *** 
+
+Section 28. The General Assembly shall have power to pass such penal laws as they may deem
+expedient to suppress the evil practice of duelling, extending to disqualification to hold office.
+
+*** SEND ***
+*** SSTART 029.0 004.0 0 AL 1865 *** 
+
+Section 29. It shall be the duty of the General Assembly to regulate by law the cases in which
+deductions shall be made from the salaries of public officers, for neglect of duty in their official
+capacities, and the amount of such deductions.
+
+*** SEND ***
+*** SSTART 030.0 004.0 0 AL 1865 *** 
+
+Section 30. Divorces from the bonds of matrimony shall not be granted, but in the cases by law
+provided for, and by suit in chancery ; but decrees in chancery for divorce shall be final, unless
+appealed from, in the manner prescribed by law, within three months from the date of the
+enrollment thereof.
+
+*** SEND ***
+*** SSTART 031.0 004.0 0 AL 1865 *** 
+
+Section 31. It shall be the duty of the General Assembly, at its next session, and from time to time
+thereafter as it may deem proper, to enact laws prohibiting the intermarriage of white persons
+with negroes, or with persons of mixed blood, declaring such marriages null and void ab initio,
+and making the parties to any such marriage subject to criminal prosecutions, with such penalties
+as may be by law prescribed. 
+
+*** SEND ***
+*** SSTART 032.0 004.0 0 AL 1865 *** 
+
+Section 32. The General Assembly shall make provision by law for obtaining correct knowledge
+of the several objects proper for improvement in relation to the roads and navigable waters in this
+State, and for making a systematic and economical application of the means appropriated to those
+objects.
+
+*** SEND ***
+*** SSTART 033.0 004.0 0 AL 1865 *** 
+
+Section 33. The General Assembly shall, from time to time, enact necessary and proper laws for
+the encouragement of schools and the means of education ; shall take proper measures to preserve
+from waste or damage such lands as have been or may be granted by the United States for the use
+of schools in each township in this State, and apply the funds which may be raised from such lands
+in strict conformity with the object of such grant ; shall take like measures for the improvement of
+such lands as have been or may hereafter be granted by the United States to this State for the
+support of a seminary of learning ; and the money which may be raised from such lands, by rent,
+lease, or sale, or from any other quarter, for the purpose aforesaid, shall be and forever remain a
+fund for the exclusive support of a State university for the promotion of the arts, literature, and
+the sciences ; and it shall be the duty of the General Assembly to provide by law effectual means
+for the improvement and permanent security of the funds of such institution.
+
+*** SEND ***
+*** SSTART 034.0 004.0 0 AL 1865 *** 
+
+Section 34. Not more than one bank shall be established nor more than one bank charter be
+renewed, at any one session of the General Assembly ; nor shall any bank be established, nor any
+bank charter be renewed, without the concurrence of two thirds of each house of the General
+Assembly, and in conformity with the following rules-that is to say :
+            Rule 1. The stockholders shall be respectively liable for the debts  of the bank in
+            proportion to the amount of their stock.  
+               
+            Rule 2. The remedy for the collection of debts shall be reciprocal  for and against the
+            bank.  
+               
+            Rule 3. No bank shall commence operations, until one half of the capital  stock
+            subscribed for be actually paid in gold and silver ; which amount  shall, in no case, be
+            less than one hundred thousand dollars.  
+               
+            Rule 4. If any bank shall neglect or refuse to pay, on demand, any  bill, note, or
+            obligation issued by the corporation, according to the promise  therein expressed, the
+            holder of such bill, note or obligation, shall be  entitled to receive and recover interest
+            thereon until paid, or until specie  payments are resumed by the bank, at the rate of
+            twelve per centum per  annum from the date of such demand ; unless the General
+            Assembly shall,  by a vote of two thirds of each house thereof , sanction such
+            suspension  of specie payments.  
+               
+            Rule 5. Whenever any bank suspends specie payments, its charter is  thereby forfeited ;
+            unless such suspension shall be sanctioned and legalized,  at the next session of the
+            General Assembly, by a vote of two thirds of  each house thereof.
+
+
+*** SEND ***
+*** SSTART 035.0 004.0 0 AL 1865 *** 
+
+      Section 35. The General Assembly shall provide by law for organizing and disciplining the
+militia of this State, in such manner as they may deem expedient, not incompatible with the
+constitution and laws of the United States ; shall fix the rank of all staff officers, and prescribe the
+manner in which all officers shall be appointed or elected. Provided, that no other officers than
+adjutant-generals and quartermaster-generals shall be appointed by the General Assembly. And
+provided further, that major-generals shall appoint their aids and all division and staff officers,
+brigadier-generals shall appoint their aids and all other brigade staff officers, and colonels shall
+appoint their regimental staff officers.
+
+*** SEND ***
+*** SSTART 036.0 004.0 0 AL 1865 *** 
+
+Section 36. It shall be the duty of the General Assembly, at its next session , and from time to
+time thereafter, to enact such laws as will protect the freedmen of this State in the full enjoyment
+of all their rights of person and property , and guard them and the State against any evils that may
+arise from their sudden emancipation.
+
+*** SEND ***
+*** SSTART 037.0 004.0 0 AL 1865 *** 
+
+Section 37. No money shall be drawn from the treasury, but in pursuance of an appropriation
+made by law ; and a regular statement and account of the receipts and expenditures of all public
+moneys shall be published annually, in such manner as may be by law directed.
+
+*** SEND ***
+*** SSTART 038.0 004.0 0 AL 1865 *** 
+
+Section 38. No special law shall be enacted for the benefit of individuals or corporations, in cases
+which are provided for by a general law, or where the relief sought can be given by any court of
+this State.
+
+*** SEND ***
+*** SSTART 039.0 004.0 0 AL 1865 *** 
+
+Section 39. All lands liable to taxation in this State, shall be taxed in proportion to their value.
+
+*** SEND ***
+*** SSTART 040.0 004.0 0 AL 1865 *** 
+
+Section 40. No power to levy taxes shall be delegated to individuals or private corporations.
+
+*** SEND ***
+*** SSTART 041.0 004.0 0 AL 1865 *** 
+
+Section 41. The General Assembly shall not borrow or raise money on the credit of the State
+(except for purposes of military defense against actual or threatened invasion, rebellion, or
+insurrection), without the concurrence of two thirds of the members of each house ; nor shall the
+debts or liabilities of any corporation, person, or persons, or other State, be guarantied, nor any
+money, credit, or other thing, be loaned or given away, except by a like concurrence of each
+house ; and the votes shall in each case, be taken by yeas and nays, and be entered on the journals.
+
+
+*** SEND ***
+*** SSTART 042.0 004.0 0 AL 1865 *** 
+
+Section 42. In the event of the annexation of any foreign territory to this State, the General
+Assembly shall enact laws, extending to the inhabitants of the acquired territory all the rights and
+privileges which may be required by the terms of the acquisition ; anything in this constitution to
+the contrary notwithstanding.
+
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 005.0 AL 1865 ***
+
+                           ARTICLE V.
+
+                      EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 005.0 0 AL 1865 *** 
+
+Section 1. The supreme executive power of this state shall be vested in a chief magistrate, who
+shall be styled the Governor of the State of Alabama.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 AL 1865 *** 
+
+Section 2. The Governor shall be elected by the qualified electors, at the time and places at which
+they shall respectively vote for representatives.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 AL 1865 *** 
+
+Section 3. The returns of every election for Governor shall be sealed up, and transmitted to the
+seat of government, directed to the speaker of the house of representatives, who shall, during the
+first week of the session, open and publish them in the presence of both houses of the General
+Assembly. The person having the highest number of votes, shall be Governor ; but, if two or more
+shall be equal and highest in votes, one of them shall be chosen Governor by the joint vote of both
+houses. Contested elections for Governor shall be determined by both houses of the General
+Assembly, in such manner as shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 AL 1865 *** 
+
+Section 4. The Governor shall hold his office for the term of two years from the time of his
+installation, and until his successor shall be qualified, but shall not be eligible for more than four
+years in any term of six years ; he shall be at least thirty years of age, a native citizen of the United
+States, and shall have resided in this State at least four years next preceding the day of his
+election.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 AL 1865 *** 
+
+Section 5. He shall, at stated times, receive a compensation for his services, which shall not be
+either increased or diminished during the term for which he shall have been elected. 
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 AL 1865 *** 
+
+Section 6. He shall always reside, during the session of the General Assembly, at the place where
+their session may be held, and at other times wherever, in their opinion, the public good may
+require.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 AL 1865 *** 
+
+Section 7. He shall be commander in chief of the army and navy of this State, and of the militia
+thereof, except when they shall be called into the service of the United States ; and when acting in
+the service of the United States, the General Assembly shall fix his rank. 
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 AL 1865 *** 
+
+Section 8. He shall have power to call forth the militia to execute the laws of the State, to
+suppress insurrections, and to repel invasions ; and shall appoint his aids-de-camp.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 AL 1865 *** 
+
+Section 9. He may require from the secretary of State, the comptroller of public accounts, and the
+State treasurer, information in writing on any subject relating to the duties of their respective
+offices.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 AL 1865 *** 
+
+Section 10. He may, by proclamation, on extraordinary occasions, convene the General Assembly
+at the seat of government, or at a different place, if, since their last adjournment, that shall have
+become dangerous, from an enemy, or from contagious disorders ; and in case of disagreement
+between the two houses, with respect to the time of adjournment, he may adjourn them to such
+time as he may think proper, not beyond the day of the next annual meeting of the General
+Assembly.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 AL 1865 *** 
+
+Section 11. He shall, from time to time, give to the general Assembly information of the state of
+the government, and recommend to their consideration such measures as he may deem expedient.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 AL 1865 *** 
+
+Section 12. He shall take care that the laws are faithfully executed.
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 AL 1865 *** 
+
+Section 13. In all criminal and penal cases, except those of treason and impeachment, he shall
+have power to grant reprieves and pardons, and to remit fines and forfeitures, under such rules
+and regulations as may be prescribed by law ; and in cases of treason, he shall have power, by and
+with the advice and consent of the senate, to grant reprieves and pardons, and, in the recess of the
+senate, he may respite the sentence until the end of the next session of the General Assembly.
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 AL 1865 *** 
+
+Section 14. There shall be a great seal of the State, which shall be kept and used by the Governor
+officially ; and the seal now in use shall continue to be the great seal of the State, until another
+shall have been adopted by the General Assembly.
+
+*** SEND ***
+*** SSTART 015.0 005.0 0 AL 1865 *** 
+
+Section 15. Vacancies that may happen in offices, the appointment of which is vested in the
+General Assembly, shall, during the recess of the General Assembly, be filled by the Governor, by
+granting commissions, which shall expire at the end of the next session.
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 AL 1865 *** 
+
+Section 16. Every bill, which shall have passed both houses of the General Assembly, shall be
+presented to the Governor : if he approve, he shall sign it, but if not, he shall return it, with his
+objections, to the house in which it originated, who shall enter the objections at large upon the
+journals, and proceed to reconsider it ; if, after such reconsideration, a majority of the whole
+number elected to that house shall agree to pass the bill, it shall be sent, with the objections, to the
+other house by whom it shall likewise be reconsidered, and, if approved by a majority of the
+whole number elected to that house, it shall become a law ; but, in such cases, the votes of both
+houses shall be determined by yeas and nays, and the names of the members voting for or against
+the bill shall be entered on the journals of each house respectively. If any bill shall not be returned
+by the Governor, within five days (Sundays excepted) after it shall have been presented to him,
+the same shall be a law, in like manner as if he had signed it ; unless the General Assembly, by
+their adjournment, prevent its return, in which case it shall not be a law. 
+
+*** SEND ***
+*** SSTART 017.0 005.0 0 AL 1865 *** 
+
+Section 17. Every order, resolution, or vote, to which the concurrence of both houses may be
+necessary, (except on questions of adjournment, and for bringing on elections by the two houses,)
+shall be presented to the Governor, and, before it shall take effect, be approved by him, or being
+disapproved, shall be repassed by both houses, according to the rules and limitations prescribed in
+the case of a bill.
+
+*** SEND ***
+*** SSTART 018.0 005.0 0 AL 1865 *** 
+
+Section 18. No person shall, at one and the same time, hold the office of Governor, and any other
+office or commission, civil or military, either under this State, the United States, or any other
+State or government.
+
+*** SEND ***
+*** SSTART 019.0 005.0 0 AL 1865 *** 
+
+Section 19. In case of the impeachment of the Governor, his removal from office, death, refusal
+to qualify, resignation, or absence from the State, the president of the senate shall exercise all the
+power and authority appertaining to the office of Governor, until the time appointed by the
+constitution for the election of Governor shall arrive, (unless the General Assembly shall provide
+by law for the election of a Governor to fill such vacancy,) or until the Governor who is absent or
+impeached shall return or be acquitted ; and if during such vacancy in the office of Governor, the
+president of the senate shall be impeached, removed from office, refuse to qualify, die, resign, or
+be absent from the State, the speaker of the house of representatives shall, in like manner,
+administer the government.
+
+*** SEND ***
+*** SSTART 020.0 005.0 0 AL 1865 *** 
+
+Section 20. The president of the senate, and the speaker of the house of representatives, shall,
+during the time they respectively administer the government, receive the same compensation
+which the Governor would have received, if he had been employed in the duties of his office.
+
+*** SEND ***
+
+*** AEND ***
+*** ASTART 006.0 AL 1865 ***
+
+
+                          ARTICLE VI.
+
+                      JUDICIAL DEPARTMENT
+
+*** SSTART 001.0 006.0 0 AL 1865 *** 
+
+Section 1. The judicial power of this State shall be vested in one supreme court, circuit courts to
+be held in each county of the State, and such inferior courts of law and equity, to consist of not
+more than five members, as the General Assembly may, from time to time, direct, ordain, and
+establish.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 AL 1865 *** 
+
+Section 2. Except in cases otherwise directed in this constitution, the supreme court shall have
+appellate jurisdiction only, which shall be co-extensive with the State, under such restrictions and
+regulations, not repugnant to this constitution, as may from time to time be prescribed by law.
+Provided, that said court shall have power to issue writs of injunction, mandamus, quo warranto,
+habeas corpus, and such other remedial and original writs as may be necessary to give it a general
+superintendence and control of inferior jurisdictions.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 AL 1865 *** 
+
+Section 3. The supreme court shall be held at the seat of government ; but, if that shall have
+become dangerous, from an enemy or from disease, may adjourn to a different place.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 AL 1865 *** 
+
+Section 4. The State shall be divided into convenient circuits, each of which shall contain not less
+than three, nor more than six counties ; and for each circuit there shall be appointed a judge, who
+shall, after his appointment, reside in the circuit for which he may be appointed.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 AL 1865 *** 
+
+Section 5. The circuit court shall have original jurisdiction in all matters, civil and criminal, within
+this State, not otherwise excepted in this constitution ; but in civil cases only where the matter or
+sum in controversy exceeds fifty dollars.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 AL 1865 *** 
+
+Section 6. A circuit court shall be held in each county in the State, at least twice in every year ;
+and the judges of the several circuits may hold courts for each other when they deem it expedient,
+and shall do so when directed by law.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 AL 1865 *** 
+
+Section 7. The General Assembly shall have power to establish a court or courts of chancery,
+with original and appellate equity jurisdiction. Provided, that the judges of the several circuit
+courts shall have power to issue writs of injunction, returnable into the courts of chancery.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 AL 1865 *** 
+
+Section 8. The General Assembly shall have power to establish, in each county within this State, a
+court of probate, for the granting of letters testamentary, and of administration, and for orphans'
+business.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 AL 1865 *** 
+
+Section 9. A competent number of justices of the peace shall be appointed in and for each county,
+in such mode, and for such term of office, as the General Assembly may by law direct ; whose
+jurisdiction, in civil cases, shall be limited to causes in which the amount in controversy shall not
+exceed one hundred dollars ; and in all cases tried by a justice of the peace, the right of appeal
+shall be secured, under such rules and regulations as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 AL 1865 *** 
+
+Section 10. The judges of the supreme court, circuit courts, and courts of chancery, shall, at
+stated times, receive for their services a compensation, which shall be fixed by law, and which
+shall not be diminished during their continuance in office ; but they shall receive no fees or
+perquisites of office, nor hold any office of profit or trust, under this State, the United States, or
+any other power.
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 AL 1865 *** 
+
+Section 11. Judges of the supreme court, and chancellors, shall be elected by a joint vote of both
+houses of the General Assembly ; judges of the circuit and probate courts, and of such other
+inferior courts as may be by law established, shall be elected by the qualified electors of the
+respective counties, cities, or districts, for which such courts may be established. Elections of
+judges by the people shall be held on the first Monday in May, or such other day as may be by law
+prescribed, not within a less period than two months of the day fixed by law for the election of
+Governor, members of the General Assembly, or members of Congress. Vacancies in the office of
+circuit judge, probate judge, or judge of any other inferior court established by law, shall be filled
+by the Governor ; and the person appointed by him shall hold office until the next election day by
+law appointed for the election of judges, and until his successor shall have been elected and
+qualified.
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 AL 1865 *** 
+
+Section 12. The judges of the several courts of this State shall hold their offices for the term of
+six years ; and the right of any judge to hold his office for the full term hereby prescribed, shall not
+be affected by any change hereafter made by law in any circuit or district, or in the mode or time
+of election ; but for any willful neglect of duty, or any other reasonable cause, which shall not be a
+sufficient ground of impeachment, the Governor shall remove any judge, on the address of two
+thirds of each house of the General Assembly. Provided, that the cause, or causes, for which said
+removal may be required, shall be stated at length in such address, and entered on the journals of
+each house. And provided further, that the judge intended to be removed shall be notified of such
+cause or causes, and shall be admitted to a hearing in his own defence, before any vote for such
+address ; and in all such cases, the vote shall be taken by yeas and nays, and be entered on the
+journals of each house respectively.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 AL 1865 *** 
+
+Section 13. No person who shall have arrived at the age of seventy years, shall be appointed or
+elected to, or shall continue in, the office of judge in this State.
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 AL 1865 *** 
+
+Section 14. The judges of the supreme court shall, by virtue of their offices, be conservators of
+the peace throughout the State ; as also the judges of the circuit courts within their respective
+circuits, and the judges of the inferior courts within their respective counties.
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 AL 1865 *** 
+
+Section 15. Clerks of the circuits courts, and of such inferior courts as may be by law established,
+shall be elected by the qualified electors in each county, for the term of four years ; and may be
+removed from office, for such causes, and in such manner as may be by law prescribed. Vacancies
+in the office of clerk shall be filled by the judge of the court, and the person so appointed shall
+hold office until the next general election, and until his successor is elected and qualified.
+Provided, that the General Assembly shall have power to annex the duties of clerk to the office of
+judge of any inferior court by law established.
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 AL 1865 *** 
+
+Section 16. The style of all process shall be, The State of Alabama ; and all prosecutions shall be
+carried on in the name, and by the authority of the State of Alabama , and shall conclude, against
+the peace and dignity of the same.
+
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 007.0 AL 1865 ***
+
+                          ARTICLE VII
+
+                   STATE AND COUNTY OFFICERS
+
+*** SSTART 001.0 007.0 0 AL 1865 *** 
+
+Section 1. A secretary of State, a comptroller of public accounts, and a State treasurer, shall be
+elected by a joint vote of both houses of the General Assembly, each of whom shall continue in
+office during the term of two years, shall perform all the duties that may be required of him by
+law, and receive such compensation as may be by law provided.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 AL 1865 *** 
+
+Section 2. An attorney-general and as many solicitors as there are judicial circuits in the State,
+shall be elected by a joint vote of both houses of the General Assembly, each of whom shall hold
+his office for the term of four years, shall perform all the duties that may be required of him by
+law, and shall receive such compensation for his services as may be by law provided, which shall
+not be diminished during his continuance in office. 
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 AL 1865 *** 
+
+Section 3. A sheriff shall be elected in each county, by the qualified electors thereof, who shall
+hold his office for the term of three years, unless sooner removed, and shall not be eligible to
+serve, either as principal or deputy, for any two successive terms. Vacancies in the office of sheriff
+shall be filled by the Governor, as in other cases ; and the person so appointed shall continue in
+office until the next general election in the county for sheriff as by law provided.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 AL 1865 *** 
+
+Section 4. No member of Congress, nor any person who holds any office of profit or trust under
+the United States, (except postmasters,) or any other State or government ; nor any person who
+shall have been convicted of having given or offered any bribe to procure his election or
+appointment; now any person who shall have been convicted of bribery, forgery, perjury, or other
+high crime or misdemeanor which may be by law declared to disqualify him,--shall be eligible to
+any office of profit or trust under this State.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 AL 1865 *** 
+
+Section 5. All commissions shall be in the name, and by the authority of the State of Alabama ;
+shall be sealed with the great seal of the State, signed by the Governor, and attested by the
+secretary of State.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 AL 1865 *** 
+
+Section 6. All civil officers of this State, legislative, executive, and judicial, before they enter
+upon the execution of the duties of their respective offices, shall take the following oath: "I
+solemnly swear," (or affirm, as the case may be,) "that I will support the constitution of the United
+States , and the constitution of the State of Alabama, so long as I continue a citizen thereof ; and
+that I will faithfully discharge, to the best of my abilities, the duties of the office of So help me
+God."
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 AL 1865 *** 
+
+Section 7. All civil officers of the State, whether elected by the people, or by the General
+Assembly, or appointed by the Governor, shall be liable to impeachment for any misdemeanor in
+office ; but judgement in such cases shall not extend further than removal from office, and
+disqualification to hold any office of honor, trust, or profit, under the State ; but the party
+convicted shall, nevertheless, be liable and subject to indictment, trial, and punishment according
+to law.
+
+***SEND ***
+*** AEND ***
+
+*** ASTART 008.0 AL 1865 ***
+
+                          ARTICLE VIII
+
+                    ELECTIONS BY THE PEOPLE
+
+
+*** SSTART 001.0 008.0 0 AL 1865 *** 
+
+Section 1. Every white male person, of the age of twenty-one years and upwards, who shall be a
+citizen of the United States, and shall have resided in this State one year next preceding the
+election, and the last three months thereof in the county in which he offers to vote, shall be
+deemed a qualified elector. Provided, that no soldier, seaman, or marine, in the regular army or
+navy of the United States, and no person who shall have been convicted of bribery, forgery,
+perjury, or other high crime or misdemeanor which may be by law declared to disqualify him, shall
+be entitled to vote at any election in this State.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 AL 1865 *** 
+
+Section 2. In all elections by the people, the electors shall vote by ballot, until otherwise directed
+by law.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 AL 1865 *** 
+
+Section 3. Except in cases of treason, felony, or breach of the peace, electors shall be privileged
+from arrest during their attendance at elections, an in going to and returning from the same.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 AL 1865 *** 
+
+Section 4. Returns of elections for all civil officers elected by the people, who are to be
+commissioned by the Governor, and also for members of the General Assembly, shall be made to
+the secretary of State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 AL 1865 ***
+
+                           ARTICLE IX
+
+           AMENDMENT AND REVISION OF THE CONSTITUTION
+
+
+*** SSTART 001.0 009.0 0 AL 1865 *** 
+
+Section 1. The General Assembly may, whenever two thirds of each house shall deem it
+necessary, propose amendments to this constitution ; which proposed amendments shall be duly
+published in print, (in such manner as the General Assembly may direct,) at least three months
+before the next general election for representatives, for the consideration of the people ; and it
+shall be the duty of the several returning officers, at the next ensuing general election for
+representatives, to open a poll for the vote of the qualified electors on the proposed amendments,
+and to make a return of said vote to the secretary of State ; and if it shall thereupon appear that a
+majority of all the qualified electors of the State, who voted for representatives, voted in favor of
+the proposed amendments, and two thirds of each house of the next General Assembly, before
+another election, shall ratify said amendments, each house voting by yeas and nays, said
+amendments shall be valid, to all intents and purposes, as parts of this constitution. Provided, that
+said proposed amendments shall, at each of said sessions of the General Assembly, have been read
+three times, on three several days, in each house.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 AL 1865 *** 
+
+Section 2. After the expiration of twelve months from the adoption of this constitution, no
+convention shall be held, for the purpose of altering or amending the constitution of this State,
+unless the question of convention or no convention shall be first submitted to a vote of the
+qualified electors of the State, and approved by a majority of the electors voting at said election.
+
+
+*** SEND ***
+*** AEND ***
+
+
+Adopted by the convention, by the unanimous vote of all the delegates present, at the State
+capitol, in the city of Montgomery, on this, the thirtieth day of September, in the year of our Lord
+one thousand eight hundred and sixty-five, and of the Independence of the United States the
+ninetieth year.
+
+BENJ. FITZPATRICK,
+
+President of Convention.
+
+
+Attest: --Wm. H. OGBOURNE,
+
+Secretary of Convention.
+
+*** CEND ***

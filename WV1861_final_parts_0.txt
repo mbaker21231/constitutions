@@ -1,0 +1,1092 @@
+John Allison worked on West Virginia
+
+I worked on it 6/17/04
+
+I think it is ready to go.
+
+
+
+*** CSTART WV 06/20/1863 12/01/1872 ***
+
+CONSTITUTION OF WEST VIRGINIA-1861-1863 
+*** ASTART 001.0 WV 1863 ***
+
+ARTICLE I
+
+THE STATE
+*** SSTART 001.0 001.0 0 WV 1863 ***
+
+SECTION 1. The State of West Virginia shall be and remain one of the United States of America.
+The Constitution of the United States, and the laws and treaties made in pursuance thereof, shall
+be the supreme law of the land.
+*** SEND ***
+*** SSTART 002.0 001.0 0 WV 1863 ***
+
+SEC. 2. The following counties, formerly parts of the State of Virginia, shall be included in, and
+form a part of, the State of West Virginia, namely: the counties of Hancock, Brooke, Ohio,
+Marshall, Wetzel, Marion, Monongalia, Preston, Taylor, Pleasants, Tyler, Ritchie, Doddridge,
+Harrison, Wood, Jackson, Wirt, Roane, Calhoun, Gilmer, Barbour, Tucker, Lewis, Braxton,
+Upshur, Randolph, Mason, Putnam, Kanawha, Clay, Nicholas, Cabell, Wayne, Boone, Logan,
+Wyoming, Mercer, McDowell, Webster, Pocahontas, Fayette, Raleigh, Greenbrier, and Monroe.
+And if a majority of the votes, cast at the election or elections held, as provided in the schedule
+hereof, in the district composed of the counties of Pendleton, Hardy, Hampshire, and Morgan
+shall be in favor of the adoption of this constitution, the said four counties shall also be included
+in, and form part of, the State of West Virginia; and if the same shall be so included, and a
+majority of the votes cast at the said election or elections in the district composed of the counties
+of Berkeley, Jefferson, and Frederick shall be in favor of the adoption of this constitution, then the
+three last-mentioned counties shall also be included in, and form a part of, the State of West
+Virginia. The State of West Virginia shall also include so much of the bed, banks, and shores of
+the Ohio River as heretofore appertained to the State of Virginia and the territorial rights and
+property in, and the jurisdiction of whatever nature over, the said bed, banks, and shores
+heretofore reserved by, or vested in, the State of Virginia shall vest in and be hereafter exercised
+by the State of West Virginia
+*** SEND ***
+*** SSTART 003.0 001.0 0 WV 1863 ***
+SEC. 3. The powers of government reside in all the citizens of the State, and can be rightfully
+exercised only in accordance with their will and appointment.
+*** SEND ***
+*** SSTART 004.0 001.0 0 WV 1863 ***
+SEC. 4. The legislative, executive, and judicial departments of the government shall be separate
+and distinct. Neither shall exercise the powers properly belonging to either of the others. No
+person shall be invested with or exercise the powers of more than one of them at the same time.
+*** SEND ***
+*** SSTART 005.0 001.0 0 WV 1863 ***
+SEC. 5. Writs, grants, and commissions, issued under State authority, shall run in the name of,
+and official bonds shall be made payable to, " the State of West Virginia." Indictments shall
+conclude,
+against the peace and dignity of the State of West Virginia."
+*** SEND ***
+*** SSTART 006.0 001.0 0 WV 1863 ***
+SEC. 6. The citizens of the State are the citizens of the United States residing therein; but no
+person in the military, naval, or marine service of the United States shall be deemed a resident of
+this State by reason of being stationed therein.
+*** SEND ***
+*** SSTART 007.0 001.0 0 WV 1863 ***
+SEC. 7. Every citizen shall be entitled to equal representation in the government, and in all
+apportionments of representation, equality of numbers of those entitled thereto shall, as far as
+practicable, be preserved.
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 WV 1863 ***
+ARTICLE II
+*** SSTART 001.0 002.0 0 WV 1863 ***
+SECTION 1. The privilege of the writ of habeas corpus shall not be suspended, except when in
+time of invasion, insurrection, or other public danger the public safety may require it. No person
+shall be held to answer for treason, felony, or other crime not cognizable by a justice, unless on
+presentment or indictment of a grand jury. No bill of attainder, ex post facto law, or law impairing
+the obligation of a contract shall be passed.
+*** SEND ***
+*** SSTART 002.0 002.0 0 WV 1863 ***
+SEC. 2. Excessive bail shall not be required, or excessive fines imposed, or cruel and unusual
+punishments inflicted. Penalties shall be proportioned to the character and degree of the offence.
+No person shall be compelled to be a witness against himself, or be twice put in jeopardy for the
+same offence.
+*** SEND ***
+*** SSTART 003.0 002.0 0 WV 1863 ***
+SEC. 3. The right of the citizens to be secure in their houses, persons, papers, and effects against
+unreasonable searches and seizures shall not be violated. No warrant shall issue but upon probable
+cause, supported by oath or affirmation, and particularly describing the place to be searched, and
+the persons and things to be seized.
+*** SEND ***
+*** SSTART 004.0 002.0 0 WV 1863 ***
+SEC. 4. No law abridging freedom of speech or of the press shall be passed; but the legislature
+may provide for the restraint and punishment of the publishing and vending of obscene books,
+papers, and pictures, and of libel and defamation of character, and for the recovery, in civil
+actions, by the aggrieved party, of suitable damages for such libel or defamation. Attempts to
+justify and uphold an armed invasion of the State, or an organized insurrection therein, during the
+continuance of such invasion or insurrection, by publicly speaking, writing, or printing, or by
+publishing or circulating such writing or printing, may be, by law, declared a misdemeanor, and
+punished accordingly.
+*** SEND ***
+*** SSTART 005.0 002.0 0 WV 1863 ***
+SEC. 5. In prosecutions and civil suits for libel the truth may be given in evidence; and if it shall
+appear to the jury that the matter charged as libellous is true, and was published with good
+motives and for justifiable ends, the verdict shall be for the defendant.
+*** SEND *** 
+*** SSTART 006.0 002.0 0 WV 1863 ***
+SEC. 6. Private property shall not be taken for public use without just compensation. No person,
+in time of peace, shall be deprived of life, liberty, or property without due process of law. The
+military
+shall be subordinate to the civil power.
+*** SEND ***
+*** SSTART 007.0 002.0 0 WV 1863 ***
+SEC. 7. In suits at common law, where the value in controversy exceeds twenty dollars, the right
+of trial by jury, if required by either party, shall be preserved. No, fact tried by a jury shall be
+otherwise reexamined in any case than according to the rules of the common law.
+*** SEND ***
+*** SSTART 008.0 002.0 0 WV 1863 ***
+SEC. 8. The trial of crimes and misdemeanors, unless herein otherwise provided, shall be by jury,
+and shall be held publicly and without unreasonable delay, in the county where the alleged offence
+was committed, unless upon petition of the accused and for good cause shown, or in consequence
+of the existence of war or insurrection in such county, it is removed to, or instituted in, some
+other county. In all such trials the accused shall be informed of the character any cause of the
+accusation, and be confronted with the witnesses against him, and shall have the assistance of
+counsel for his defence, and compulsory process for obtaining witnesses in his favor.
+*** SEND ***
+*** SSTART 009.0 002.0 0 WV 1863 ***
+SEC. 9. No man shall be compelled to frequent or support any religious worship, place, or
+ministry whatsoever; nor shall any man be enforced, restrained, molested, or burdened in his body
+or goods, or otherwise suffer, on account of his religious belief; but all men shall be free to
+profess, and by argument to maintain, their opinions in matters of religion, and the same shall in
+no wise affect, diminish, or enlarge their civil capacities. And the legislature shall not prescribe
+any religious test whatever; or confer any peculiar privileges or advantages on any sect or
+denomination; or pass any law requiring or authorizing any religious society, or the people of any
+district within this State, to levy on themselves or others any tax for the erection or repair of any
+house for public worship or for the support of any church or ministry; but it shall be left free to
+every person to select his religious instructor, and to make for his support such private contract as
+he shall please.
+*** SEND ***
+*** SSTART 010.0 002.0 0 WV 1863 ***
+SEC. 10. Treason against the State shall consist only in levying war against it, or in adhering to its
+enemies, giving them aid and comfort. No person shall be convicted of treason unless on the
+testimony of two witnesses to the same overt act, or on confession in open court. Treason shall be
+punished, according to the character of the acts committed by the infliction of one or more of the
+penalties of death, imprisonment, fine, or confiscation of the real and personal property of the
+offender, as may be prescribed by law.
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 WV 1863 ***
+
+ARTICLE III
+*** SSTART 001.0 003.0 0 WV 1863 ***
+ELECTIONS AND OFFICERS
+
+SECTION 1. The white male citizens of the State shall be entitled to vote at all elections held
+within the election districts in which they respectively reside; but no person who is a minor, or of
+unsound mind, or a pauper, or who is under conviction of treason, felony, or bribery in an
+election, or who has not been a resident of the State for one year, and of the county in which he
+offers to vote for thirty days, next preceding such offer, shall be permitted to vote while such dis-
+
+ability continues. 
+*** SEND ***
+*** SSTART 002.0 003.0 0 WV 1863 ***
+SEC. 2. In all elections by the people, the mode of voting shall be by ballot.
+*** SEND ***
+*** SSTART 003.0 003.0 0 WV 1863 ***
+SEC. 3. No voter during the continuance of an election at which he is entitled to vote, or during
+the time necessary and convenient for going to and returning from the same, shall be subject to
+arrest upon civil process, or be liable to attend any court or judicial proceeding as suitor, juror, or
+witness; or to work upon the public roads; or, except in time of war or public danger, to render
+military service.
+*** SEND ***
+*** SSTART 004.0 003.0 0 WV 1863 ***
+SEC. 4. No persons, except citizens entitled to vote, shall be elected or appointed to any State,
+county, or municipal office. Judges must have attained the age of thirty-five years, the governor
+the age of thirty years, and the attorney-general and senators the age of twenty-five years, at the
+beginning of their respective terms of service, and must have been citizens of the State for five
+years next preceding, or at the time this constitution goes into operation.
+*** SEND ***
+*** SSTART 005.0 003.0 0 WV 1863 ***
+SEC. 5. Every person elected or appointed to any office or trust, civil or military, shall, before
+proceeding to exercise the authority or discharge the duties of the same, make oath or affirmation
+that he will support the Constitution of the United States, and the constitution of this State; and
+every citizen of this State may, in time of war, insurrection, or public danger, be required by law
+to make like oath or affirmation, upon pain of suspension of his right of voting and holding office
+under this constitution.
+*** SEND ***
+*** SSTART 006.0 003.0 0 WV 1863 ***
+SEC. 6. All officers elected or appointed under this constitution may be removed from office for
+misconduct, incompetence, neglect of duty, or other causes, in such manner as may be prescribed
+by general laws; and unless so removed, shall continue to discharge the duties of their respective
+offices until their successors are elected or appointed and qualified.
+*** SEND ***
+*** SSTART 007.0 003.0 0 WV 1863 ***
+SEC. 7. The general elections of State and county officers, and of members of the legislature,
+shall be held on the fourth Thursday of October. The terms of such officers and members, not
+election or appointed to fill a vacancy, shall, unless herein otherwise provided, begin on the first
+day of January next succeeding their election. Elections to fill vacancies shall be for the unexpired
+term. Vacancies shall be filled in such manner as may be prescribed by law.
+*** SEND ***
+*** SSTART 008.0 003.0 0 WV 1863 ***
+SEC. 8. The legislature, in cases not provided for in this constitution, shall prescribe by general
+laws the terms of office, powers, duties, and compensation of all public officers and agents, and
+the manner in which they shall be elected, appointed, and removed.
+*** SEND ***
+*** SSTART 009.0 003.0 0 WV 1863 ***
+SEC. 9. No extra compensation shall be granted or allowed to any public officer, agent, or
+contractor, after the services shall have been rendered, or the contract entered into. Nor shall the
+salary or compensation of any public officer be increased or diminished ring his term of office.
+*** SEND ***
+*** SSTART 010.0 003.0 0 WV 1863 ***
+SEC. 10. Any officer of the State may be impeached for maladministration, corruption,
+incompetence, neglect of duty, or any high crime or misdemeanor. The house of delegates shall
+have the sole power of impeachment. The senate shall have the sole power to try impeachments.
+When sitting for that purpose, the senators shall be on oath or affirmation; and no person shall be
+convicted without the concurrence of two-thirds of the members present. Judgment in cases of
+impeachment shall not extend further than to removal from office and disqualification to hold any
+office of honor, trust, or profit under the State; but the party convicted shall, nevertheless, be
+liable and subject to indictment, trial, judgment, and punishment according to law. The senate may
+sit during the recess of the legislature, for the trial of impeachments.
+*** SEND ***
+*** SSTART 011.0 003.0 0 WV 1863 ***
+SEC. 11. Any citizen of this State, who shall, after the adoption of this constitution, either in or
+out of the State, fight a duel with deadly weapons, or send or accept a challenge so to do; or who
+shall act as a second, or knowingly aid or assist in such duel, shall ever thereafter be incapable of
+h g any office of honor, trust, or profit under this State.
+*** SEND ***
+*** SSTART 012.0 003.0 0 WV 1863 ***
+SEC. 12. The legislature may provide for a registry of voters. They shall prescribe the manner of
+conducting and making returns of elections, and of determining contested elections; and shall pass
+such laws as may be necessary and proper to prevent intimidation, disorder, or violence at the
+polls, and corruption or fraud in voting.
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 WV 1863 ***
+ARTICLE IV
+
+LEGISLATURE
+*** SSTART 001.0 004.0 0 WV 1863 ***
+SECTION 1. The legislative power shall be vested in a, senate and house of delegates. The style
+of their acts shall be, " Be it enacted by the legislature of West Virginia."
+*** SEND ***
+*** SSTART 002.0 004.0 0 WV 1863 ***
+SEC. 2. The senate shall be composed of eighteen, and the house of delegates of forty-seven
+members, subject to be increased according to the provisions hereinafter contained.
+*** SEND ***
+*** SSTART 003.0 004.0 0 WV 1863 ***
+SEC. 3. The term of office of senators shall be two years, and that of delegates one year. The
+senators first elected shall divide themselves into two classes, one senator from every district
+being assigned to each class; and of these classes, the first, to be designated by lot in such manner
+as the senate may determine, shall hold their offices for one year, and the second for two years; so
+that after the first election one-half of the senators shall be elected annually.
+*** SEND ***
+*** SSTART 004.0 004.0 0 WV 1863 ***
+SEC. 4. For the election of senators, the State shall be divided into nine senatorial districts, which
+number shall not be diminished, but may be increased as hereinafter provided. Every district shall
+choose two senators, but after the first election both shall not be chosen from the same county.
+The districts shall be equal, as nearly as practicable, in white population, according to the returns
+of the United States census. They shall be compact, formed of contiguous territory, and bounded
+by county lines. After every such census the legislature shall alter the senatorial districts, so far as
+may be necessary to make them conform to the foregoing provisions.
+*** SEND ***
+*** SSTART 005.0 004.0 0 WV 1863 ***
+SEC. 5. Any senatorial district may at any time be divided by county lines or otherwise, into two
+sections, which shall be equal, as nearly as practicable, in white population. If such division be
+made, each section shall elect one of the senators for the district; and the senators so elected shall
+be classified in such manner as the senate may determine.
+*** SEND ***
+*** SSTART 006.0 004.0 0 WV 1863 ***
+SEC. 6. Until the senatorial districts are altered by the legislature after the next census, the
+counties of Hancock, Brooke, and Ohio shall constitute the first senatorial district; Marshall,
+Wetzell, and Marion the second; Monongalia, Preston, and Taylor the third; Pleasants, Tyler,
+Ritchie, Doddridge, and Harrison the fourth; Wood, Jackson, Wirt, Roane, Calhoun, and Gilmer
+the fifth; Barbour, Tucker, Lewis, Braxton, Upshur, and Randolph the sixth; Mason, Putnam,
+Kanawha, Clay, and Nicholas the seventh; Cabell, Wayne, Boone, Logan, Wyoming, Mercer, and
+McDowell the eighth; and Webster, Pocahontas, Fayette, Raleigh, Greenbrier, and Monroe the
+ninth.
+*** SEND ***
+*** SSTART 007.0 004.0 0 WV 1863 ***
+SEC. 7. For the election of delegates, every county containing a white population of less than half
+the ratio of representation for the house of delegates, shall, at each apportionment, be attached to
+some contiguous county or counties, to form a delegate district.
+*** SEND ***
+*** SSTART 008.0 004.0 0 WV 1863 ***
+SEC. 8. When two or more counties are formed into a delegate district, the legislature shall
+provide by law that the delegates to be chosen by the voters of the district shall be in rotation,
+residents of each county, for a greater or less number of terms, proportioned as nearly as can be
+conveniently done to the white population of the several counties in the district.
+*** SEND ***
+*** SSTART 009.0 004.0 0 WV 1863 ***
+SEC. 9. After every census the delegates shall be apportioned as follows:
+The ratio of representation for the house of delegates shall be ascertained by dividing the whole
+white population of the State by the number of which the house is to consist and rejecting the
+fraction of a unit, if any, resulting from such division.Dividing the white population of every
+delegate district, and of every county not included in a delegate district, by the ratio thus
+ascertained, there shall be assigned to each a number of delegates equal to the quotient obtained
+by this division, excluding the fractional remainder.
+The additional delegates necessary to make up the number of which the house is to consist shall
+then be assigned to those delegate districts and counties not included in a delegate district, which
+would otherwise have the largest fractions unrepresented. But every delegate district and county
+not included in a delegate district shall be entitled to at least one delegate.
+*** SEND ***
+*** SSTART 010.0 004.0 0 WV 1863 ***
+SEC. 10. Until a new apportionment is declared, the counties of Pleasants and Wood shall form
+the first delegate district; Calhoun and Gilmer the second; Clay and Nicholas the third; Webster
+and Pocahontas the fourth; Tucker and Randolph the fifth; and McDowell, Wyoming, and Raleigh
+the sixth. The first delegate district shall choose two delegates, and the other five one each.
+*** SEND ***
+*** SSTART 011.0 004.0 0 WV 1863 ***
+SEC.11. The delegates to be chosen by the first delegate district shall, for the first term, both be
+residents of the county of Wood, and for the second term, one shall be a resident of Wood, and
+the other of Pleasants County; and so in rotation. The delegate to be chosen by the second
+delegate district shall, for the first term, be a resident of Gilmer, and for the second of Calhoun
+County. The delegate to be chosen by the third delegate district shall, for the first two terms, be a
+resident of Nicholas, and for the third term of Clay County. The delegate to be chosen by the
+fourth delegate district shall, for the first two terms, be a resident of Pocahontas, and for the third
+term of Webster County. The delegate to be chosen by the fifth delegate district shall, for the first
+three terms, be a resident of Randolph and for the fourth term of Tucker County. And the
+delegate to be chosen by the sixth delegate district shall, for the first term, be a resident of
+Raleigh, for the second term of Wyoming, for the third term of Raleigh, for the fourth term of
+Wyoming, and for the fifth term of McDowell County; and so, in each case, in rotation.
+*** SEND ***
+*** SSTART 012.0 004.0 0 WV 1863 ***
+SEC. 12. Until a new apportionment is declared, the apportionment of delegates to the counties
+not included in delegate districts shall be as follows:
+To Barbour, Boone, Braxton, Brooke, Cabell, Doddridge, Fayette, Hancock, Jackson, Lewis,
+Logan, Mason, Mercer, Putnam, Ritchie, Roane, Taylor, Tyler, Upshur, Wayne, Wetzel, and Wirt
+Counties, one delegate each.
+To Harrison, Kanawha, Marion, Marshall, Monongalia, and Preston Counties, two delegates
+each.
+To Ohio County, three delegates.
+To Greenbrier and Monroe Counties together, three delegates; of whom, for the first term, two
+shall be residents of Greenbrier and one of Monroe County; and for the second term, two shall be
+residents of Monroe and one of Greenbrier County; and so in rotation.
+*** SEND ***
+*** SSTART 013.0 004.0 0 WV 1863 ***
+    SEC. 13. If the counties of Pendleton, Hardy, Hampshire, and Morgan become part of this
+State, they shall, until the next apportionment, constitute the tenth senatorial district, and choose
+two senators. And if the counties of Frederick, Berkeley, and Jefferson becomes part of this State,
+they shall, until the next apportionment, constitute the eleventh senatorial district and choose two
+senators. And the number of the senate shall be, in the first case, twenty, and in the last twenty-
+two, instead of eighteen.
+*** SEND ***
+*** SSTART 014.0 004.0 0 WV 1863 ***
+SEC. 14. If the seven last-name counties become part of this State, the apportionment of
+delegates to the same shall, until the next apportionment, be as follows: To Pendleton and Hardy,
+one each; to Hampshire, Frederick, and Jefferson, two each; and the counties of Morgan and
+Berkeley shall form the seventh delegate district, and choose two delegates, of whom, for the first
+term, one shall be a resident of Berkeley and the other of Morgan County; and for the second
+term, both shall be residents of Berkeley County; and so in rotation.
+But if the counties of Pendleton, Hardy, Hampshire, and Morgan become part of the State, and
+Frederick, Berkeley, and Jefferson do not, then Pendleton, Hardy, and Morgan Counties shall
+each choose one delegate, and Hampshire two, until the next apportionment.
+The number of the house of delegates shall, instead of forty-seven, be in the first case fifty-seven
+and in the last, fifty-two.
+*** SEND ***
+*** SSTART 015.0 004.0 0 WV 1863 ***
+SEC. 15. The arrangement of senatorial and delegate districts, and appointment of delegates, shall
+hereafter be declared by law, as soon as possible after each succeeding census taken by authority
+of the United States. When so declared, they shall apply to the first general election for members
+of the legislature to be thereafter held, and shall continue in force unchanged until such districts
+are altered and delegates apportioned under the succeeding census.
+*** SEND ***
+*** SSTART 016.0 004.0 0 WV 1863 ***
+SEC. 16. Additional territory may, be admitted into and become part of this State with the
+consent of the legislature. And in such case provision shall be made by law for the representation
+of the white population thereof in the senate and house of delegates, in conformity with the
+principles set forth in this constitution. And the number of members of which each branch of the
+legislature is to consist shall thereafter be increased by the representation assigned to such
+additional territory.
+*** SEND ***
+*** SSTART 017.0 004.0 0 WV 1863 ***
+SEC. 17. No person shall be a member of the legislature who shall not have resided within the
+district or county for which lie was chosen one year next preceding his election; and if a senator
+or delegate
+remove from the district or county for which he was chosen, his office shall be thereby vacated. 
+*** SEND ***
+*** SSTART 018.0 004.0 0 WV 1863 ***
+SEC. 18. No person holding an office of profit tinder this State or the United States shall be a
+member of the legislature.
+*** SEND ***
+*** SSTART 019.0 004.0 0 WV 1863 ***
+SEC. 19. No person who may have collected or been entrusted with public money, whether State,
+county, township, or municipal, shall be eligible to the legislature, or to any office of nor, trust, or
+profit, until he shall have duly accounted for and paid over such money according to law.
+*** SEND ***
+*** SSTART 020.0 004.0 0 WV 1863 ***
+    SEC. 20. The legislature shall meet once in ever year, and not oftener unless convened by the
+governor. The regular session shall begin on the third Tuesday of January.
+*** SEND ***
+*** SSTART 021.0 004.0 0 WV 1863 ***
+    SEC . 21. The governor may convene the legislature, by proclamation, whenever, in his
+opinion, the public safety or welfare shall require it. It shall be his duty to convene them on
+application of a majority of the members elected to each branch.
+*** SEND ***
+*** SSTART 022.0 004.0 0 WV 1863 ***
+SEC.22. The seat of government shall be at the city of Wheeling until a permanent seat of
+government be established by law.
+*** SEND ***
+*** SSTART 023.0 004.0 0 WV 1863 ***
+SEC. 23. When, for any cause, the legislature, in the opinion of the governor, cannot safely meet
+at the seat of government, the governor, by proclamation, may convene them at another place.
+*** SEND ***
+*** SSTART 024.0 004.0 0 WV 1863 ***
+SEC. 24. No session of the legislature, after the first, shall continue longer than forty-five days,
+without the concurrence of three-fourths of the members elected to each branch.
+*** SEND ***
+*** SSTART 025.0 004.0 0 WV 1863 ***
+SEC. 25. Neither branch, during the session, shall adjourn for more than two days without the
+consent of the other. Nor shall either, without such consent, adjourn to any other place than that
+in which the legislature is then sitting.
+*** SEND ***
+*** SSTART 026.0 004.0 0 WV 1863 ***
+SEC. 26. Each branch shall be the judge of the elections, qualifications, and returns of its own
+members.
+*** SEND ***
+*** SSTART 027.0 004.0 0 WV 1863 ***
+SEC. 27. A majority of each branch shall constitute a quorum to do business. But a smaller
+number may adjourn from day to day, and he attendance of absent members, in such manner as
+shall be prescribed by law.
+*** SEND ***
+*** SSTART 028.0 004.0 0 WV 1863 ***
+SEC. 28. The senate shall choose from their own body a president, and the house of delegates one
+of their own number as speaker. Each branch shall appoint its own officers and remove them at
+pleasure, and shall determine its own rules of proceeding.
+*** SEND ***
+*** SSTART 029.0 004.0 0 WV 1863 ***
+SEC. 29. Each branch may punish its own members for disorderly behavior; and, with the
+concurrence of two-thirds of the members present, expel a member, but not a second time for the
+same offence.
+*** SEND ***
+*** SSTART 030.0 004.0 0 WV 1863 ***
+    SEC. 30. Each branch shall have the power necessary to provide for its own safety and the
+undisturbed transaction of its business, and may punish, by imprisonment, any person, not a
+member, for disrespectful behavior in its presence, obstructing any of its proceedings, or any of its
+officers in the discharge of his duties; or for any assault, threatening, or abuse of a member for
+words spoken in debate. But such imprisonment shall not extend beyond the termination of the
+session, and shall not prevent the punishment of any offence by the ordinary course of law.
+*** SEND ***
+*** SSTART 031.0 004.0 0 WV 1863 ***
+SEC. 31. For words spoken in debate, or any report, motion, or proposition made, in either
+branch, a member shall not be questioned in any other place.
+*** SEND ***
+*** SSTART 032.0 004.0 0 WV 1863 ***
+SEC. 32. Members of the legislature shall, in all cases except treason, felony, and breach of the
+peace, be privileged from arrest during the session, and for ten days before and after the same.
+*** SEND ***
+*** SSTART 033.0 004.0 0 WV 1863 ***
+SEC. 33. Senators and delegates shall receive for their services a compensation not exceeding
+three dollars a day during the session of the legislature, and also ten cents for every mile they shall
+travel in going to and returning from the place of meeting by the most direct route. The president
+of the senate and speaker of the house shall, respectively, receive an additional compensation of
+two dollars a day.
+*** SEND ***
+*** SSTART 034.0 004.0 0 WV 1863 ***
+SEC. 34. Bills and resolutions may originate in either branch, to be passed, amended, or rejected
+by the other.
+*** SEND ***
+*** SSTART 035.0 004.0 0 WV 1863 ***
+SEC. 35. No bill shall become a law until it has been fully and distinctly read on three different
+days in each branch, unless, in cases of urgency, three-fourths of the members present dispense
+with this rule.
+*** SEND ***
+*** SSTART 036.0 004.0 0 WV 1863 ***
+SEC. 36. No law shall embrace more than one object which shall be expressed in its title.
+*** SEND ***
+*** SSTART 037.0 004.0 0 WV 1863 ***
+SEC. 37. On the passage of every bill, the vote shall be taken by yeas and nays, and be entered on
+the journal; and no bill shall be passed by either branch without the affirmative vote of a majority
+of the members elected thereto.
+*** SEND ***
+*** SSTART 038.0 004.0 0 WV 1863 ***
+SEC. 38. The presiding officer of each branch shall sign, before the close of the session, all bills
+and joint resolutions passed by the legislature.
+*** SEND ***
+*** SSTART 039.0 004.0 0 WV 1863 ***
+SEC. 39. Each branch shall keep a journal of its proceeding, and cause the same to be published
+from time to time; and the yeas and nays on any question, if called for by one-fifth of those
+present, shall be entered on the journal.
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 WV 1863 ***
+    ARTICLE V
+
+EXECUTIVE
+*** SSTART 001.0 005.0 0 WV 1863 ***
+SECTION 1. The chief executive power shall be vested in a governor, who shall be elected by the
+voters of the State, and hold his office for the term of two years, to commence on the fourth day
+of March next succeeding his election. The person acting as governor shall not be elected or
+appointed to any other office during his term of service.
+*** SEND ***
+*** SSTART 002.0 005.0 0 WV 1863 ***
+SEC. 2. The governor shall reside at the. seat of government; shall receive two thousand dollars
+for each year of his service, and, during his continuance in office, shall receive no other
+emolument from this or any other government.
+*** SEND ***
+*** SSTART 003.0 005.0 0 WV 1863 ***
+SEC. 3. The governor shall be commander-in-chief of the military forces of the State.; shall have
+power to call out the militia to repel invasion, suppress insurrection, and enforce the execution of
+the laws; shall conduct in person, or in such manner as may be prescribed by law, all intercourse
+with other States; and, during the recess of the legislature, shall fill temporarily all vacancies in
+office, not provided for by this constitution or the legislature, by commissions to expire at the end
+of thirty days after the commencement of the succeeding session of the legislature. He shall take
+care that the laws be faithfully executed; communicate to the legislature at each session thereof
+the condition of the State, and recommend to their consideration such measures as he may deem
+expedient. He shall have power to remit fines and penalties in such cases and under such
+regulations as may be prescribed by law; to commute capital punishment, and, except when the
+prosecution has been carried on by the house of delegates, to grant reprieves and pardons after
+conviction; but he shall communicate to the legislature, at each session, the particulars of every
+case of fine or penalty remitted, of punishment commuted, and of reprieve or pardon granted,
+with his reasons for remitting, commuting, or granting the same. 
+*** SEND ***
+*** SSTART 004.0 005.0 0 WV 1863 ***
+SEC. 4. The governor may require information in writing from the officers of the executive
+department, upon any subject pertaining to their respective offices, and also the opinion in writing
+of the attorney-general upon any question of law relating to the business of the executive
+department.
+*** SEND ***
+*** SSTART 005.0 005.0 0 WV 1863 ***
+   SEC. 5. Returns of the election of governor shall be made in the ,manner and by the persons
+designated by the legislature, to the secretary of the State, who shall deliver them to the speaker
+of the house of delegates on the first day of the next session of the legislature. The speaker shall,
+within ten days. thereafter, in the presence of a. majority of each branch of the legislature, open
+the said returns, when the votes shall be counted. The person having the highest number of votes,
+if duly qualified, shall be declared elected; but if two or more have the highest and an equal
+number of votes, one of them shall thereupon be chosen governor by the joint vote of the two
+branches. Contested elections for governor shall be decided by a like vote, and the mode of
+proceeding in such cases shall be prescribed by law.
+*** SEND ***
+*** SSTART 006.0 005.0 0 WV 1863 ***
+SEC. 6. In case of the removal of the governor from once, or of his death, failure to qualify within
+the time prescribed by law, resignation, removal from the seat of government, or inability
+discharge the duties of the office, the said office, with its compensation, duties, and authority,
+shall devolve upon the president of the senate; and in ,case of his inability or failure from any
+cause to act, on the speaker of the house of delegates. The legislature shall provide by law for the
+discharge of the executive functions in other necessary cases.
+*** SEND ***
+*** SSTART 007.0 005.0 0 WV 1863 ***
+SEC. 7. A secretary of state, a treasurer, and an auditor shall be elected at the same time and for
+the same term as the governor. Their duties shall be prescribed by the secretary of the State shall
+receive thirteen hundred, the treasurer fourteen hundred, and the auditor fifteen hundred dollars
+per annum.
+*** SEND ***
+*** SSTART 008.0 005.0 0 WV 1863 ***
+SEC. 8. The governor shall nominate and by and with the advice and consent of the senate,
+appoint all military officers above the rank of colonel.
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 WV 1863 ***
+ARTICLE VI
+
+JUDICIARY
+*** SSTART 001.0 006.0 0 WV 1863 ***
+SECTION 1. The judicial power of the State shall be vested in a supreme court of appeals and
+circuit courts, and such inferior tribunals as are herein authorized.
+*** SEND ***
+*** SSTART 002.0 006.0 0 WV 1863 ***
+SEC. 2. The State shall be divided into nine circuits. The counties of Hancock, Brooke, Ohio, and
+Marshall shall constitute the first; Monongalia, Preston, Tucker, and Taylor the second; Marion,
+Harrison, and Barbour the third; Wetzel, Tyler, Pleasants, Ritchie, Doddridge, and Gilmer the
+fourth; Randolph, Upshur, Calhoun, Roane, Jackson, and Clay the sixth; Kanawha, Mason,
+Putnam, and Fayette the seventh; Cabell, Wayne, Boone, Logan, Wyoming, and Raleigh the
+eighth; and Pocahontas, Greenbrier, Monroe, Mercer, and McDowell the ninth. If the counties of
+Pendleton, Hardy, Hampshire, and Morgan become a part of the State, they shall constitute
+another circuit, to be called the tenth. And if the counties of Frederick, Berkeley, and Jefferson
+become a part of this State, they shall constitute the eleventh circuit.
+*** SEND ***
+*** SSTART 003.0 006.0 0 WV 1863 ***
+SEC. 3. The legislature may, from time to time, rearrange the circuits; and after the expiration of
+five years from the time this constitution goes into operation, and thereafter, at periods of ten
+years may increase or diminish the number of circuits, or the number of courts in a year, as
+necessity may require.
+*** SEND ***
+*** SSTART 004.0 006.0 0 WV 1863 ***
+. SEC. 4. For each circuit a judge shall be elected by the voters thereof, who shall hold his office
+for the term of six ears. During his continuance in office he shall reside in the circuit of which he is
+judge.
+*** SEND ***
+*** SSTART 005.0 006.0 0 WV 1863 ***
+SEC. 5. A circuit court shall be held in every county at least four times a year, unless otherwise
+provided by law, in pursuance of the third section of this Article. The judges may be required or
+authorized to hold the courts of their respective circuits alternately, and a judge of one circuit to
+hold a court in any other circuit.
+*** SEND ***
+*** SSTART 006.0 006.0 0 WV 1863 ***
+SEC. 6. The circuit. courts shall have the supervision and control of all proceedings before
+justices and other inferior tribunals, by mandamus, prohibition, or certiorari. They shall, except in
+cases confined exclusively by this constitution to some other tribunal, have original and general
+jurisdiction of all matters at law, where the amount in controversy, exclusive of interest, exceeds
+twenty dollars, and of all cases in equity, and of all crimes and misdemeanors. They shall have
+appellate jurisdiction in all cases, civil and criminal, weher an appeal, writ of error, or supersedeas
+may be allowed to the judgment or proceed of any inferior tribunal. They shall also have such
+other jurisdiction, whether supervisory, original, appellate, or concurrent, as may be prescribed by
+law.
+*** SEND ***
+*** SSTART 007.0 006.0 0 WV 1863 ***
+SEC. 7. The supreme court of appeals shall consist of three judges, any two of whom shall be a
+quorum. They shall be elected by the voters of the State, and shall hold their offices for the term
+of twelve years; except that of those first elected, one, to be designated by lot in such manner as
+they may determine, shall hold his office for four years; another, to be designated in like manner,
+for eight years, and the third for twelve years; so that one shall be elected every four years after
+the first election.
+*** SEND ***
+*** SSTART 008.0 006.0 0 WV 1863 ***
+SEC. 8. The supreme court of appeals shall have original jurisdiction in cases of habeas corpus,
+mandamus, and prohibition. It shall have appellate jurisdiction in civil cases where the matter in
+controversy, exclusive of costs, is of greater value or amount than two hundred dollars; in
+controversies concerning the title or boundaries of land, the probate of wills, the appointment or
+qualification of a personal representative, guardian, committee, or curator, or concerning a mill,
+road, way, ferry, or landing or the right of a corporation or county to levy tolls or taxes; and a so
+in cases of habeas corpus mandamus, and prohibition, and cases involving freedom, or the consti-
+
+tutionality of a law. It shall have appellate jurisdiction in criminal cases where there has been a
+conviction for felony or misdemeanor in a circuit court, and such other appellate jurisdiction in
+both civil and criminal cases as may be prescribed by law.
+*** SEND ***
+*** SSTART 009.0 006.0 0 WV 1863 ***
+SEC. 9. When a judgment or decree is reversed or affirmed by the supreme court of appeals,
+every point made and distinctly stated in writing in the cause, and fairly arising upon the record of
+the case, shall be considered and decided, and the reasons therefor shall be concisely and briefly
+stated in writing, and preserved with the records of the case.
+*** SEND ***
+*** SSTART 010.0 006.0 0 WV 1863 ***
+SEC. 10. When any judge of the court of appeals is so situated in regard to any case pending
+before it as to make it improper for him to aid in the trial of the same, or is under any other
+disability, the remaining judges may call to their assistance a judge of the circuit court who shall
+act as a judge of the court of appeals in the cases to which such disability relates.
+*** SEND ***
+*** SSTART 011.0 006.0 0 WV 1863 ***
+SEC. 11. Judges shall be commissioned by the governor. The salary of a judge of the supreme
+court of appeals shall be two thousand, and that of a judge of a circuit court eighteen hundred
+dollars per annum, and each shall receive the same allowance for necessary travel as members of
+the legislature.
+*** SEND ***
+*** SSTART 012.0 006.0 0 WV 1863 ***
+SEC. 12. No judge, during his term of office, shall hold any other office, appointment, or public
+trust, under this or any other government, and the acceptance thereof shall vacate his judicial
+office; nor
+shall he, during his continuance therein, be eligible to any political office.
+*** SEND ***
+*** SSTART 013.0 006.0 0 WV 1863 ***
+SEC. 13. Judges may be removed from office for misconduct, incompetence, or neglect of duty,
+or on conviction of an infamous offence, by the concurrent vote of a majority of all the members
+elected to each branch of the legislature, and the cause of removal shall be entered on the journals.
+The judge against whom the legislature may be about to proceed shall receive notice thereof,
+accompanied by a copy of the causes alleged for his removal, at least twenty days before the day
+on which either branch of the legislature shall act thereon.
+*** SEND ***
+*** SSTART 014.0 006.0 0 WV 1863 ***
+SEC. 14. The officers of the supreme court of appeals shall be appointed by the court, or by the
+judge thereof in vacation. Their duties, compensation, and tenure of office shall be prescribed by
+law.
+*** SEND ***
+*** SSTART 015.0 006.0 0 WV 1863 ***
+SEC. 15. The voters of each county shall elect a clerk of the circuit court, whose term of office
+shall be four years. His duties and compensation, and the mode of removing him from office, shall
+be prescribed by law; and when a vacancy shall occur in the office, the judge of the circuit court
+shall appoint a clerk, who shall discharge the duties of the office until the vacancy is filled. In any
+case, in respect to which the clerk shall be so situated as to make it improper for him to act, the
+court shall appoint a substitute.
+*** SEND ***
+*** SSTART 016.0 006.0 0 WV 1863 ***
+SEC. 16. At every regular election of a governor, an attorney-general shall be elected. He shall be
+commissioned by the governor; shall perform such duties and receive such compensation as may
+be prescribed by law, and be removable in the same manner as the judges.
+*** SEND ***
+*** SSTART 017.0 006.0 0 WV 1863 ***
+SEC. 17. The legislature may establish courts of limited jurisdiction within any incorporated town
+or city, subject to appeal to the circuit courts.
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 WV 1863 ***
+
+ARTICLE VII
+
+COUNTIES AND TOWNSHIPS
+*** SSTART 001.0 007.0 0 WV 1863 ***
+SECTION 1. Every county shall he divided into not less than three nor more than ten townships,
+laid off as compactly as practicable, with reference to natural boundaries, and containing, as
+nearly as practicable, an equal number of white population, but not less than four hundred. Each
+township shall be designated, " The township of ____, in the county of ______,"by which name it
+may sue and be sued.
+*** SEND ***
+*** SSTART 002.0 007.0 0 WV 1863 ***
+SEC. 2. The voters of each township, assembled in stated or special township meeting, shall
+transact all such business relating exclusively to their township as is herein, or may be by law,
+required or authorized. They shall annually elect a supervisor, clerk of the township, surveyor of
+roads for each precinct in their township, overseer of the poor, and such other officers as may be
+directed by law. They shall also, every four years, elect one justice, and if the white population of
+their township exceeds twelve hundred in number, may elect an additional justice; and every two
+years shall elect as many constables as justices. The supervisor, or, in his absence, a voter chosen
+by those present, shall preside at all township meetings and elections, and the clerk shall act as
+clerk thereof.
+*** SEND ***
+*** SSTART 003.0 007.0 0 WV 1863 ***
+SEC.3. The supervisors chosen in the townships of each county shall constitute a board to be
+known as " the supervisors of the county of ____," by which name they may sue and be stied, and
+make and use a common seal, and enact ordinances and by-laws not inconsistent with the laws of
+the State. They shall meet statedly, at least four times in each year, at the court-house of their
+county, pd may hold special and adjourned meetings. At their first meeting after the, annual
+township election, and whenever a vacancy may occur, they shall elect one of their number
+president of the board, and appoint a clerk, who shall keep a journal of their proceedings, and
+transact such other business pertaining to his office as may be by them or by law required, and
+whose compensation they shall fix by ordinance and pay from the county treasury.
+*** SEND ***
+*** SSTART 004.0 007.0 0 WV 1863 ***
+SEC.4. The board of supervisors of each county, a majority of whom shall be a quorum, shall,
+tinder such general regulations as may be prescribed by law, have the superintendence and
+administration of the internal affairs and fiscal concerns of their county including the establishment
+and regulation of roads, public landings ferries,  and mills; the granting of ordinary and other
+licenses; and the laying, collecting, and. disbursement of the county levies; but all writs of ad quod
+damnum shall issue from the circuit courts. They shall from time to time appoint the places for
+holding elections in the several townships of their county; and shall be the judges of the election,
+qualifications, and returns of their own members, and of all county and township officers.
+*** SEND ***
+*** SSTART 005.0 007.0 0 WV 1863 ***
+SEC. 5. The voters of every county shall elect a sheriff, prosecuting attorney, surveyor of lands,
+recorder, one or more assessors, and such other county officers as the legislature may from time
+to time direct or authorize; the duties of all of whom shall be prescribed and defined, as far as
+practicable, by general laws. All the said county officers shall hold their offices for two years,
+except the sheriff, whose term of office shall be four years. The same person shall not be elected
+sheriff for two consecutive full terms, nor shall any person who has acted as deputy of any sheriff
+be elected his successor, nor shall any sheriff act as the deputy of his successor; but the retiring
+sheriff shall finish all business remaining in his hands at the expiration of his term, for which
+purpose his commission and official bond shall continue in force. The duties of all the said officers
+shall be discharged by the incumbents thereof in person, or under their superintendence. The
+board of supervisors shall designate one or more constables of their respective counties to serve
+process and levy executions when the sheriff thereof is a party defendant in a suit instituted
+therein, or is under any other disability.
+*** SEND ***
+*** SSTART 006.0 007.0 0 WV 1863 ***
+SEC. 6. The recorder, in addition to the duties incident to the recording of inventories, and other
+papers relating to estates, and deeds and other writings, the registering of births, marriages, and
+deaths, and the issuing of marriage licenses, shall have authority. under such regulations as may be
+prescribe by law, to receive proof of wills and admit them to probate, to appoint and qualify
+personal representatives, guardians, committees, and curators, to administer oaths, take
+acknowledgments of deeds and other writings, and relinquishments of dower.
+*** SEND ***
+*** SSTART 007.0 007.0 0 WV 1863 ***
+SEC. 7. The legislature shall, at their first session, by general laws, provide for carrying into effect
+the foregoing provisions of this article. They shall also provide for commissioning such of the offi-
+
+cers therein mentioned as they may deem proper, and may require any class of them to give bond
+with security for the faithful discharge of the duties of their respective offices, and for accounting
+for and paying over, as required by law, all money which may come to their hands by virtue
+thereof. They shall further provide for the compensation of the said officers by fees, or from the
+county treasury; and for the appointment, when necessary , of deputies and assistants, whose
+duties and responsibilities shall be prescribed and defined by general laws. When the compensation
+of an officer is paid from the county treasury, the amounts shall be fixed by the board of super-
+
+visors, within limits to be ascertained by law.
+*** SEND ***
+*** SSTART 008.0 007.0 0 WV 1863 ***
+SEC. 8. The civil jurisdiction of a justice shall extend to actions of assumpsit, debt, detinue, and
+trover, if the amount claimed, exclusive of interest, does not exceed one hundred dollars, when
+the defendant resides, or, being a non-resident of the State, is found, or has effects or estate
+within his township, or when the cause of action arose therein; but any other justice of the same
+county may issue a summons to the defendant to appear before the justice of the proper township,
+which may be serve v a constable Of either township.  In case of a vacancy in the office of justice
+or constable in any township having but one, or of the disability to act of the incumbent, any other
+justice or constable of the same county may discharge the duties of their respective offices within
+the said township. The manner of conducting the aforesaid actions, and of issuing summonses and
+executions, and of executing and making return of the same, shall be prescribed by law; and the
+legislature may give to justices and constables such additional civil jurisdiction and powers, within
+their respective: townships, as may be deemed expedient.
+*** SEND ***
+*** SSTART 009.0 007.0 0 WV 1863 ***
+SEC. 9. Every justice an constable shall be a conservator of the peace throughout his county, and
+have such jurisdiction and powers in criminal cases therein as may be prescribed by law.
+Jurisdiction of all misdemeanors and breaches of the peace, punishable by fine not exceeding ten
+dollars, or by imprisonment for not more than thirty days may be, by law, vested in the justices.
+*** SEND ***
+*** SSTART 010.0 007.0 0 WV 1863 ***
+SEC. 10. Either party to a civil suit brought before a justice, where the value in controversy or the
+damages claimed exceeds twenty dollars, and the defendant in such cases of misdemeanor or
+breach of the peace as may be made by law cognizable by a single justice when the penalty is
+imprisonment or a fine exceeding five dollars, shall be entitled to a trial by six jurors, if demanded,
+under such regulations as may be prescribed by law.
+*** SEND ***
+*** SSTART 011.0 007.0 0 WV 1863 ***
+SEC. 11. In all cases an appeal shall lie, under such regulations as may be prescribed by law, from
+the judgment or proceedings of a justice or recorder, to the circuit court of the county, excepting
+judgments of justices in assumpsit, debt, detinue, and trover, and for fines, where the amount does
+not exceed ten dollars, exclusive of interest and costs, and where the case does not involve the
+freedom of a person, the validity of a law, or the right of corporation or county to levy tolls or
+taxes.
+*** SEND ***
+*** SSTART 012.0 007.0 0 WV 1863 ***
+SEC. 12. No new county shall be formed having an area of less than four hundred square miles; or
+if another be thereby reduced below that area; or if any territory be thereby taken from a county
+containing less than four hundred square miles. And no new county shall be formed containing a
+white population of less than four thousand; or if the white population of another county be
+thereby reduced below that number; or if any county containing less than four thousand white
+inhabitants be thereby reduced in area. But the legislature may, at any time, annex any county
+containing less than four thousand white inhabitants to an adjoining county or counties as a part
+thereof.
+*** SEND ***
+*** SSTART 013.0 007.0 0 WV 1863 ***
+SEC. 13. The board of supervisors may alter the bounds of a township of their county, or erect
+new townships therein, with the consent of a majority of the voters of each township interested,
+assembled in stated township meeting or in a meeting duly called for the purpose, subject to the
+provisions of the first section of this article.
+*** SEND ***
+*** SSTART 014.0 007.0 0 WV 1863 ***
+SEC. 14 Nothing contained in this article shall impair or affect the charter of any municipal
+corporation, or restrict the power of the legislature to create or regulate such corporations.
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 WV 1863 ***
+
+ARTICLE VIII
+
+TAXATION AND FINANCE
+*** SSTART 001.0 008.0 0 WV 1863 ***
+SECTION 1. Taxation shall be equal and uniform throughout the State, and all property, both real
+and personal, shall be taxed in proportion to its value, to be ascertained as directed by law. No
+one species of property from which a tax may be collected shall be taxed higher than any other
+species of property of equal value; but property used for educational, literary, scientific, religious,
+or charitable purposes, and public property, may, by law, be exempted from taxation.
+*** SEND ***
+*** SSTART 002.0 008.0 0 WV 1863 ***
+SEC. 2. A capitation-tax of one dollar shall be levied upon each white male inhabitant who has
+attained the age of twenty-one years.
+*** SEND ***
+*** SSTART 003.0 008.0 0 WV 1863 ***
+SEC. 3. The legislature shall provide for an annual tax, sufficient to defray the estimated expenses
+of the State for each year; and, whenever the ordinary expenses of any year shall exceed the
+income shall levy a tax for the ensuing year, sufficient, with other sources of income, to pay the
+deficiency, as well as the estimated expenses of such year.
+*** SEND ***
+*** SSTART 004.0 008.0 0 WV 1863 ***
+ SEC. 4. No money shall be drawn from the treasury but in pursuance of appropriations made by
+law, and an accurate and detailed statement of the receipts and expenditures of the public money
+shall be published annually.
+*** SEND ***
+*** SSTART 005.0 008.0 0 WV 1863 ***
+SEC. 5. No debt shall be contracted by this State, except to meet casual deficits in the revenue, to
+redeem a previous liability of the State, to suppress insurrection, repel invasion, or defend the
+State in time of war.
+*** SEND ***
+*** SSTART 006.0 008.0 0 WV 1863 ***
+SEC. 6. The credit of the State shall not be granted to or in aid of any county, city, town,
+township, corporation, or person, nor shall the State ever assume or become responsible for the
+debts or liabilities of any county, city town, township, corporation, or person, unless incurred in
+time oi war or insurrection for the benefit of the State.
+*** SEND ***
+*** SSTART 007.0 008.0 0 WV 1863 ***
+SEC. 7. The legislature may at any time direct a sale of the stocks owned by the State in banks
+and other corporations, but the proceeds of such sale shall be applied to the liquidation of the
+public debt; and hereafter the State shall not become a stockholder in any bank. If the State
+become a stockholder in any association or corporation for purposes of internal improvement,
+such stock shall be paid for at the time of subscribing, or a tax shall be levied for the ensuing year,
+sufficient to pay the subscription in full.
+*** SEND ***
+*** SSTART 008.0 008.0 0 WV 1863 ***
+SEC. 8. An equitable proportion of the public debt of the commonwealth of Virginia prior to the
+first day of January, in the year one thousand eight hundred and sixty-one, shall be assumed by
+this State; and the legislature shall ascertain the same as soon as may be practicable, and provide
+for the liquidation thereof, by a sinking fund sufficient to pay the accruing interest and redeem the
+principal within thifty-four years.
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 WV 1863 ***
+
+ARTICLE IX
+
+FORFEITED AND UNAPPROPRIATED LANDS
+*** SSTART 001.0 009.0 0 WV 1863 ***
+SECTION 1. All private rights and interests in lands in this State, derived from or under the laws
+of the State of Virginia prior to the time this constitution goes into operation, shall remain valid
+and secure, and shall be determined by the laws heretofore in force in the State of Virginia.
+*** SEND ***
+*** SSTART 002.0 009.0 0 WV 1863 ***
+SEC. 2. No entry by warrant on land in this State shall be hereafter made; and in all cases where
+an entry has been heretofore made and has been or shall be so perfected as to entitle the locator to
+a grant, the legislature shall make provision by law for issuing the same.
+*** SEND ***
+*** SSTART 003.0 009.0 0 WV 1863 ***
+SEC. 3. The legislature shall provide for the sale of till lands in this State heretofore forfeited to
+the State of Virginia for the non-payment of the taxes charged thereon for the year one thousand
+eight hundred and thirty-one, or any year previous thereto, or for the failure of the former owners
+to have the same entered on the land-books of the proper county and. charted with the taxes due
+thereon for the said or any year previous thereto, under the laws of the State of Virginia, and also
+of all waste and unappropriated lands, by proceedings in the circuit courts of the county where
+such lands are situated.
+*** SEND ***
+*** SSTART 004.0 009.0 0 WV 1863 ***
+SEC. 4. All lands within this State, returned delinquent for non-payment of taxes to the State of
+Virginia since the year one thousand eight hundred and thirty-one, where the taxes, exclusive of
+damages do not exceed twenty dollars; and all lands forfeited for the failure of the owners to have
+the same entered on the land-books of the proper county, and charged with the taxes chargeable
+thereon since the year one thousand eight hundred and thirty-one, where the tract does not
+contain more than one thousand acres, are hereby released and exonerated from forfeiture and
+from the delinquent taxes and damages charged thereon.
+*** SEND ***
+*** SSTART 005.0 009.0 0 WV 1863 ***
+SEC. 5. All lands in this State heretofore vested in the State of Virginia by forfeiture, or by
+purchase at the sheriffs' sales for delinquent taxes, and not released or exonerated by the laws
+thereof, or by the operation of the preceding section, may be redeemed by the former owners by
+payment to this State of the amount of taxes and damages due thereon at the time of such
+redemption, within five years form the day this constitution goes into operation; and all such lands
+not so released, exonerated, or redeemed shall be treated as forfeited, and proceeded against and
+sold as provided in the third section of this article.
+*** SEND ***
+*** SSTART 006.0 009.0 0 WV 1863 ***
+SEC. 6. The former owner of any tract of land in this State sold under the provisions of this
+article shall be entitled to receive the excess of the sum for which such tract may be sold over the
+taxes and damages charged and chargeable thereon, and the costs, if his claim be filed in the
+circuit court which decreed the sale, within two years thereafter.
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 WV 1863 ***
+
+ARTICLE X
+
+EDUCATION
+*** SSTART 001.0 010.0 0 WV 1863 ***
+SECTION 1. All money accruing to this State, being the proceeds of forfeited, delinquent, waste,
+and unappropriated lands, and of lands heretofore sold for taxes and purchased by the State of
+Virginia, if hereafter redeemed, or sold to others than this State; all grants, devises, or bequests
+that may be made to this State for the purposes of education, or where the purposes of such
+grants, devises, or bequests are not specified; this State's just share of the literary fund of Virginia,
+whether paid over or otherwise liquidated, and any sums of money, stocks, or property which this
+State shall have the right to claim from the State of Virginia for educational purposes; the
+proceeds of the estates of all persons who may die without leaving a will or heir, and of all
+escheated lands; the proceeds of any taxes that may be levied on the revenues of any corporation
+hereafter created; all moneys that may be paid as an equivalent for exemption from military duty,
+and such sums as may from time to time be appropriated by the legislature for the purpose, shall
+be set apart as a separate fund, to be called the school-fund, and invested under such regulations
+as may be prescribed by law, in the interest-bearing securities of the United States, or of this
+State, and the interest thereof shall be annually applied to the support of free schools throughout
+the State, and to no other purpose whatever. But any portion of said interest remaining
+unexpended at the close of the fiscal year shall be added to and remain a part of the capital of the
+school-fund.
+*** SEND ***
+*** SSTART 002.0 010.0 0 WV 1863 ***
+SEC. 2. The legislature shall provide, as soon as practicable, for the establishment of a thorough
+and efficient system of free schools. They shall provide for the support of such schools by
+appropriating thereto the interest of the invested school-fund; the net proceeds of all forfeitures,
+confiscations, and fines accruing to this State under the laws thereof; and by general taxation on
+persons and property, or otherwise. They shall also provide for raising, in each township, by the
+authority of the people thereof, such a proportion of the amount required for the support of free
+schools therein as shall be prescribed by general laws.
+*** SEND ***
+*** SSTART 003.0 010.0 0 WV 1863 ***
+SEC. 3. Provision may be made by law for the election and prescribing the powers, duties, and
+compensation of a general superintendent of free schools for the State, whose term of office shall
+be the same as that of the governor, and for a county superintendent for each county, and for the
+election in the several townships, by the voters thereof, of such officers, not specified in this
+constitution, as may be necessary to carry out the objects of this article, and for the organization,
+w&never it may be deemed expedient, of a State board of instruction.
+*** SEND ***
+*** SSTART 004.0 010.0 0 WV 1863 ***
+SEC. 4. The legislature shall foster and encourage moral, intellectual, scientific, and agricultural
+improvement; they shall, whenever it may be practicable, make suitable provision for the blind,
+mute, and insane, and for the organization of such institutions of learning as the best interests of
+general education in the State may demand .
+*** SEND *** 
+*** AEND ***
+*** ASTART 011.0 WV 1863 ***
+ARTICLE XI
+
+MISCELLANEOUS
+*** SSTART 001.0 011.0 0 WV 1863 ***
+SECTION 1. No lottery shall be authorized by law; and the buying, selling, or transferring of
+tickets or chances in any lottery shall be prohibited.
+*** SEND ***
+*** SSTART 002.0 011.0 0 WV 1863 ***
+SEC. 2. No charter of incorporation shall be granted to any church or religious denomination.
+Provision may be made by general laws for securing the title to church property, so that it shall be
+held and used for the purpose intended.
+*** SEND ***
+*** SSTART 003.0 011.0 0 WV 1863 ***
+SEC. 3 . The circuit courts shall have power, under such general regulations as may be prescribed
+by law, to grant divorces, change the names of persons, and direct the sales of estates belonging
+to infants and other persons under legal disabilities; but relief all not be granted by special
+legislation in such cases.
+*** SEND ***
+*** SSTART 004.0 011.0 0 WV 1863 ***
+SEC. 4. Laws may be passed regulating or prohibiting the sale of intoxicating liquor within the
+limits of this State.
+*** SEND ***
+*** SSTART 005.0 011.0 0 WV 1863 ***
+SEC. 5. The legislature shall pass general laws whereby any number of persons associated for
+mining, manufacturing, insuring, or other purpose useful to the public, excepting banks of
+circulation and the construction of works of internal improvement, it may become a corporation,
+on complying with the terms and conditions thereby prescribed; and no special act incorporating,
+or granting peculiar-privilege to any joint-stock company or association, not having in view the
+issuing of bills to circulate as money or the construction of some work of internal improvement,
+shall be passed. No company or association authorized by this section shall issue bills to circulate
+as money. No charter of incorporation shall be ranted under such general laws, unless the right be
+reserved to alter or amend such charter, at the pleasure of the legislature, to be declared by
+general laws. No act to incorporate any bank of circulation or internal-improvement company, or
+to confer additional privileges on the same, shall be passed, unless public notice of the intended
+application for such act be given under such regulations as shall be prescribed by law.
+*** SEND ***
+*** SSTART 006.0 011.0 0 WV 1863 ***
+SEC. 6. For the election of Representatives to Congress, the State shall be divided into districts,
+corresponding in number with the Representatives to which it may be entitled; which district shall
+be formed of contiguous counties, and be compact. Each district shall contain, as nearly, as may
+be, an equal federal number, to be determined according to the rule prescribed in the second
+section of the first article of the Constitution of the United States.
+*** SEND ***
+*** SSTART 007.0 011.0 0 WV 1863 ***
+SEC. 7. The children of slaves born within the limits of this State after the fourth day of July,
+eighteen hundred and sixty-three, shall be free; and all slaves within the said State who shall, at
+the time aforesaid, be under the age of ten years shall be free when they arrive at the age of
+twenty-one years; and all slaves over ten and under twenty-one years shall be free when they
+arrive at the age of twenty-five years; and no slave shall be permitted to come into the State for
+permanent residence therein.
+
+[In the version of the constitution written and ratified in 1862, this section read: "No slave shall be
+brought, or free person of color be permitted to come into this state for permanent residence." 
+Congress did not approve the West Virginia constitution until the section was changed to the
+reading in the text.]
+*** SEND ***
+*** SSTART 008.0 011.0 0 WV 1863 ***
+SEC. 8. Such parts of the common law and of the laws of the State of Virginia as are in force
+within the boundaries of the State of West Virginia when this constitution goes into operation,
+and are not repugnant thereto, shall be and continue the law of this State until altered or repealed
+by the legislature. All offences against the laws of Virginia heretofore committed within the
+boundaries of this State shall be cognizable in the courts of this State in the same manner they
+would be if hereafter committed within this State. All civil and criminal suits and proceedings
+pending in the county or circuit courts of the State of Virginia, held within the said boundaries,
+shall be docketed and thereafter proceeded in before the circuit court of the proper county; and all
+such suits and proceedings pending in the supreme and district courts of appeals of the State, of
+Virginia, if the defendant in the court below resides within the said boundaries, or the subject of
+the suit is land or other property, situated or being therein, and the plaintiff is entitled to prosecute
+in this State, shall be docketed, and thereafter proceeded in before the supreme court of appeals
+thereof.
+*** SEND ***
+*** SSTART 009.0 011.0 0 WV 1863 ***
+SEC. 9. The records, books, papers, seals, and other property and appurtenances of the former
+circuit and county courts, within the State of West Virginia, shall be transferred to, and remain in,
+the care and custody of the circuit courts of the respective counties, to which all process
+outstanding at the time this constitution goes into operation shall be returned, and by which new
+process in suits then pending, or previously determined, in the said former courts, may be issued
+in proper cases. Copies and transcripts of the records and proceedings of the said former courts
+shall be made and certified by the. courts having the care and custody of such records and
+proceedings, or the proper officers thereof, and shall have the same force and effect as if they had
+been heretofore properly made and certified by the said former courts.
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 WV 1863 ***
+
+ARTICLE XII
+
+AMENDMENTS
+*** SSTART 001.0 012.0 0 WV 1863 ***
+SECTION 1. No convention shall be called having authority to alter the constitution of the State,
+unless it be in pursuance of a law passed by the affirmative vote of a majority of the members
+elected to each branch of the legislature, and providing that polls shall be held throughout the
+State, on some Say therein specified, which shall not be less than three months after the passage
+of such law, for the purpose of taking the sense of the voters on the question of calling a
+convention. And such convention shall not be held unless a majority of the votes cast at such polls
+be in favor of calling the same;  nor shall members be elected to such convention, until at least one
+month after the result of the polls shall be duly ascertained, declared, and published. And all acts
+and ordinances of said convention shall be submitted to the voters of the State for ratification or
+rejection, and shall have no validity whatever until they are ratified, and in no event shall they, by
+any shift or device, be made to have any retrospective operation or effect.
+*** SEND ***
+*** SSTART 002.0 012.0 0 WV 1863 ***
+SEC. 2. Any amendment to the constitution of the State may be proposed in either branch of the
+legislature; and if the same, being read on three several days in each branch, be agreed to on its
+third reading, by a majority of the members elected thereto, the proposed amendment, with the
+yeas and nays thereon, shall be entered on the journals, and referred to the legislature at the first
+session to be held after the next general election; and shall be published, at least three months
+before such election, in some newspaper in every county in which a newspaper is printed. And if
+the proposed amendment be agreed to during such session, by a majority of the members elected
+of each branch, it shall be the duty of the legislature to provide by law for submitting the same to
+the voters of the State, for ratification or rejection. And if a majority of the qualified voters,
+voting upon the question at the polls held pursuant to such law, ratify the proposed amendment, it
+shall be in force from the time of such ratification as part of the constitution of the State. If two or
+more amendments be submitted at the same time, the vote on the ratification or rejection shall be
+taken on each separately.
+*** SEND ***
+*** AEND ***
+John Hall, President.
+Ellery R. Hall, Secretary.
+
+
+*** MSTART 001 003.0 001.0 0 WV 1863 1866 *** 
+
+AMENDMENT TO THE CONSTITUTION OF 1861-1863
+(Adopted in 1866)
+
+ART. III. Add to section 1: No person who, since the first day of June, 1861, has given or shall
+give voluntary aid or assistance to the rebellion against the United States shall be a citizen of this
+State, or be allowed to vote at any election held therein, unless he has volunteered into the
+military or naval services of the United States, and has been or shall be honorably discharged
+therefrom.
+*** MEND ***
+*** CEND ***

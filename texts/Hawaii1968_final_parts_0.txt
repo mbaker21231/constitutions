@@ -1,0 +1,2048 @@
+  This is ready to go
+  
+  JW 1.1.02
+  
+  
+  *** CSTART HI 11/05/1968 11/07/1978 ***      
+  
+  CONSTITUTION OF THE STATE OF HAWII, as amended by the Constitutional
+  Convention, 1968, and Adopted by the Electorate on November 5, 1968
+  
+  *** ASTART 9001.0 HI 1968 ***
+  
+  PREAMBLE
+  
+  *** SSTART 001.0 9001.0 0 HI 1968 ***
+           
+  We, the people of the State of Hawaii, grateful for Divine Guidance, and mindful of our
+  Hawaiian heritage, reaffirm our belief in a government of the people, by the people and for
+  the people, and with, an understanding heart toward all the peoples of the earth do hereby
+  ordain and establish this constitution for the State of Hawaii.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 9026.0 HI 1968 ***
+           
+  FEDERAL CONSTITUTION ADOPTED
+  
+  *** SSTART 001.0 9026.0 HI 1968 ***
+           
+  The Constitution of the United States of America is adopted on behalf of the people of the
+  State of Hawaii.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 001.0 HI 1968 ***
+           
+  ARTICLE I
+  
+  BILL OF RIGHTS
+  
+  *** SSTART 001.0 001.0 0 HI 1968 ***
+  
+  SEC 1.  POLITICAL POWER.  All political power of this State is inherent in the people;
+  and the responsibility for the exercise thereof rests with the people. All government is
+  founded on this authority.
+  
+  *** SEND ***
+  *** SSTART 002.0 001.0 0 HI 1968 ***
+           
+  SEC. 2.  RIGHTS OF MAN.  All persons are free by nature and are equal in their inherent
+  and inalienable rights. Among these rights are the enjoyment of life, liberty and the pursuit
+  of happiness, and the acquiring and possessing of property. These rights cannot endure
+  unless the people recognize their corresponding obligations and responsibilities.
+  
+  *** SEND ***
+  *** SSTART 003.0 001.0 0 HI 1968 ***         
+           
+  SEC. 3.  FREEDOM OF RELIGION, SPEECH, PRESS, ASSEMBLY AND PETITION. 
+  No law shall be enacted respecting an establishment of religion, or prohibiting the free
+  exercise thereof, or abridging the freedom of speech or of the press, or the right of the
+  people peaceably to assemble and to petition the government for a redress of grievances.
+  
+  *** SEND ***
+  *** SSTART 004.0 001.0 0 HI 1968 ***
+          
+  SEC. 4.  DUE PROCESS AND EQUAL PROTECTION.  No person shall be deprived of
+  life, liberty or property without due process of law, nor be denied the equal protection of
+  the laws, nor be denied the enjoyment of his civil rights or be discriminated against in the
+  exercise thereof because of race, religion, sex or ancestry.
+  
+  *** SEND ***
+  *** SSTART 005.0 001.0 0 HI 1968 ***
+           
+  SEC. 5.  SEARCHES. SEIZURES AND INVASION OF PRIVACY.  The right of the
+  people to be secure in their persons, houses, papers and effects against unreasonable
+  searches, seizures, and invasions of privacy shall not be violated; and no warrants shall
+  issue but upon probable cause, supported by oath or affirmation, and particularly
+  describing the place to be searched and the persons or things to be seized or the
+  communications sought to be intercepted.
+  
+  *** SEND ***
+  *** SSTART 006.0 001.0 0 HI 1968 ***
+  
+  SEC. 6.  RIGHTS OF CITIZENS.  No citizen shall be disfranchised, or deprived of any of
+  the rights or privileges secured to other citizens, unless by the law of the land.
+  
+  *** SEND ***
+  *** SSTART 007.0 001.0 0 HI 1968 ***
+           
+  SEC. 7.  ENLISTMENT, SEGREGATION.  No citizen shall be denied enlistment in any
+  military organization of this State nor be segregated therein because of race, religious
+  principles or ancestry.
+  
+  *** SEND ***
+  *** SSTART 008.0 001.0 0 HI 1968 ***
+           
+  SEC. 8.  INDICTMENT, DOUBLE JEOPARDY, SELF-INCRIMINATION.  No person
+  shall be held to answer for a capital or otherwise infamous crime, unless on a presentment
+  or indictment of a grand jury, except in cases arising in the armed forces when in actual
+  service in time of war or public danger; nor shall any person be subject for the same
+  offense to be twice put in jeopardy; nor shall any person be compelled in any criminal case
+  to be a witness against himself.
+  
+  *** SEND ***
+  *** SSTART 009.0 001.0 0 HI 1968 ***
+           
+  SEC. 9.  BAIL, EXCESSIVE PUNISHMENT.  Excessive bail shall not be required, nor
+  excessive fines imposed, nor cruel or unusual  punishment inflicted. The court may
+  dispense with bail if reasonably satisfied that the defendant or witness will appear when
+  directed, except for a defendant charged with an offense punishable by life imprisonment.
+  
+  *** SEND ***
+  *** SSTART 010.0 001.0 0 HI 1968 ***
+  
+  SEC. 10.  TRIAL BY JURY, CIVIL CASES.  In suits at common law where the value in
+  controversy shall exceed one hundred dollars, the right of trial by jury shall be preserved.
+  The legislature may provide for a verdict by not less than three-fourths of the members of
+  the jury.
+  
+  *** SEND ***
+  *** SSTART 011.0 001.0 0 HI 1968 ***
+           
+  SEC. 11.  RIGHTS OF ACCUSED.  In all criminal prosecutions, the accused shall enjoy
+  the right to a speedy and public trial, by an impartial jury of the district wherein the crime
+  shall have been committed, which district shall have been previously ascertained by law, or
+  of such other district to which the prosecution may be removed with the consent of the
+  accused; to be informed of the nature and cause of the accusation; to be confronted with
+  the witnesses against him; to have compulsory process for obtaining witnesses in his favor;
+  and to have the assistance of counsel for his defense. The State shall provide counsel for
+  an indigent defendant charged with an offense punishable by imprisonment for more than
+  sixty days.
+  
+  *** SEND ***
+  *** SSTART 012.0 001.0 0 HI 1968 ***
+  
+  SEC. 12.  JURY SERVICE.  No person shall be disqualified to serve as a juror because of
+  sex.
+  
+  *** SEND ***
+  *** SSTART 013.0 001.0 0 HI 1968 ***
+  
+  SEC. 13.  HABEAS CORPUS AND SUSPENSION OF LAWS.  The privilege of the writ
+  of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion the
+  public safety may require it.
+       The power of suspending the privilege of the writ of habeas corpus, and the laws or the
+  execution thereof, shall never be exercised except by the legislature, or by authority
+  derived from it to be exercised in such particular cases only as the legislature shall
+  expressly prescribe.
+  
+  *** SEND ***
+  *** SSTART 014.0 001.0 0 HI 1968 ***
+           
+  SEC. 14.  SUPREMACY OF CIVIL POWER.  The military shall be held in strict
+  subordination to the civil power.
+  
+  *** SEND ***
+  *** SSTART 015.0 001.0 0 HI 1968 ***
+           
+  SEC. 15.  RIGHT TO BEAR ARMS.  A well regulated militia being necessary to the
+  security of a free state, the right of the people to keep and bear arms shall not be infringed.
+  
+  *** SEND ***
+  *** SSTART 016.0 001.0 0 HI 1968 ***
+           
+  SEC. 16.  QUARTERING OF SOLDIERS.  No soldier or member of the militia shall, in
+  time of peace, be quartered in any house, without the consent of the owner or occupant,
+  nor in time of war, except in a manner prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 017.0 001.0 0 HI 1968 ***
+           
+  SEC. 17.  IMPRISONMENT FOR DEBT.  There shall be no imprisonment for debt.
+  
+  *** SEND ***
+  *** SSTART 018.0 001.0 0 HI 1968 ***
+  
+  SEC. 18.  EMINENT DOMAIN.  Private property shall not be taken or damaged for
+  public use without just compensation.
+  
+  *** SEND ***
+  *** SSTART 019.0 001.0 0 HI 1968 ***
+           
+  SEC. 19.  LIMITATIONS ON SPECIAL PRIVILEGES. The power of the State to act in
+  the general welfare shall never be impaired by the making of any irrevocable grant of
+  special privileges or immunities.
+  
+  *** SEND ***
+  *** SSTART 020.0 001.0 0 HI 1968 ***
+           
+  SEC. 20.  CONSTRUCTION.  The enumeration of rights and privileges shall not be
+  construed to impair or deny others retained by the people.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 002.0 HI 1968 ***
+           
+  ARTICLE II
+  
+  SUFFRAGE AND ELECTIONS
+  
+  *** SSTART 001.0 002.0 0 HI 1968 ***
+           
+  SEC. 1.  QUALI FICATIONS.  Every citizen of the United States who shall have attained
+  the age of twenty years, have been a resident of this State not less than one year next
+  preceding the election and be a voter registered in accordance with law, shall be qualified
+  to vote in any state or local election.
+  
+  *** SEND ***
+  *** SSTART 002.0 002.0 0 HI 1968 ***
+  
+  SEC. 2.  DISQUALI FICATIONS.  No person who is non compos mentis shall be
+  qualified to vote. No person convicted of a felony shall be qualified to vote except upon
+  his final discharge or earlier as provided by law.
+  
+  *** SEND ***
+  *** SSTART 003.0 002.0 0 HI 1968 ***
+  
+  SEC. 3.  RESIDENCE.  No person shall be deemed to have gained or lost residence
+  simply because of his presence or absence while employed in the service of the United
+  States, or while engaged in navigation or while a student at any institution of learning.
+  
+  *** SEND ***
+  *** SSTART 004.0 002.0 0 HI 1968 ***
+  
+  SEC. 4.  REGISTRATION, VOTING.  The legislature shall provide for the registration of
+  voters and for absentee voting; and shall prescribe the method of voting at all elections.
+  Secrecy of voting shall be preserved.
+  
+  *** SEND ***
+  *** SSTART 005.0 002.0 0 HI 1968 ***
+           
+  SEC. 5.  GENERAL AND SPECIAL ELECTIONS.  General elections shall be held on
+  the first Tuesday after the first Monday in November in all even-numbered years. Special
+  elections may be held in accordance with law.
+  
+  *** SEND ***
+  *** SSTART 006.0 002.0 0 HI 1968 ***
+           
+  SEC. 6.  PRESIDENTIAL PREFERENCE PRIMARY.  A presidential preference
+  primary may be held in accordance with law.
+  
+  *** SEND ***
+  *** SSTART 007.0 002.0 0 HI 1968 ***
+           
+  SEC. 7.  CONTESTED ELECTIONS.  Contested elections shall be determined by a court
+  of competent jurisdiction in such manner as shall be provided by law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 003.0 HI 1968 ***
+           
+  ARTICLE III
+  
+  THE LEGISLATURE
+  
+  *** SSTART 001.0 003.0 0 HI 1968 ***
+  
+  SEC. 1.  LEGISLATIVE POWER.  The legislative power of the State shall be vested in a
+  legislature, which shall consist of two houses, a senate and a house of representatives.
+  Such power shall extend to all rightful subjects of legislation not inconsistent with this
+  constitution or the Constitution of the United States.
+  
+  *** SEND ***
+  *** SSTART 002.0 003.0 0 HI 1968 ***
+           
+  SEC. 2.  SENATE; COMPOSITION.  The senate shall be composed of twenty-five
+  members, who shall be elected by the qualified voters of the respective senatorial districts.
+  Until the next reapportionment the senatorial districts and the number of senators to be
+  elected from each shall be as set forth in the Schedule.
+  
+  *** SEND ***
+  *** SSTART 003.0 003.0 0 HI 1968 ***
+           
+  SEC. 3.  HOUSE OF REPRESENTATIVES; COMPOSITION.  The house of
+  representatives shall be composed of fifty-one members, who shall be elected by the
+  qualified voters of the respective representative districts. Until the next reapportionment,
+  the representative districts and the number of representatives to be elected from each shall
+  be as set forth in the Schedule.
+  
+  *** SEND ***
+  *** SSTART 004.0 003.0 0 HI 1968 ***
+           
+  SEC. 4.  REAPPORTIONMENT.
+  
+  REAPPORTIONMENT YEARS.  The year 1973 and every eighth year thereafter shall be
+  reapportionment years.
+  
+  REAPPORTIONMENT COMMISSION.  A legislative reapportionment commission shall
+  be constituted on or before March 1 of each reapportionment year and whenever
+  reapportionment is required by court order. The commission shall consist of nine
+  members. The president of the senate and the speaker of the house of representatives shall
+  each select two members. Members of each house belonging to the party or parties
+  different from that of the president or the speaker shall designate one of their number for
+  each house and the two so designated shall each select two members of the commission.
+  The eight members so selected shall, promptly after selection, be certified by the selecting
+  authorities to the chief election officer and shall within thirty days thereafter select, by a
+  vote of six members, and promptly certify to the chief election officer the ninth member
+  who shall serve as chairman of the commission.
+       Each of the four officials designated above as selecting authorities for the eight
+  members of the commission shall, at the time of the commission selections, also select one
+  person from each basic island unit to an apportionment advisory council for that island
+  unit. The councils shall remain in existence during the life of the commission and each shall
+  serve in an advisory capacity to the commission for matters affecting its island unit.
+       A vacancy in the commission or a council shall be filled by the initial selecting authority
+  within fifteen days after the vacancy occurs. Commission and council positions and
+  vacancies not filled within the times specified shall be filled promptly thereafter by the
+  supreme court.
+       The commission shall act by majority vote of its membership and shall establish its own
+  procedures except as may be provided by law.
+       Not more than one hundred twenty days from the date on which its members are
+  certified the commission shall file with the chief election officer a reapportionment plan,
+  which shall become law after publication as provided by law. Members of the commission
+  shall hold office until the  reapportionment plan becomes effective or until such time as
+  may be provided by law.
+       No member of the reapportionment commission or an apportionment advisory council
+  shall be eligible to become a candidate for election to either house of the legislature in
+  either of the first two elections under any such reapportionment plan.
+       Commission and apportionment advisory council members shall be compensated and
+  reimbursed for their necessary expenses as provided by law.
+       The chief election officer shall be secretary of the commission without vote and, under
+  the direction of the commission, shall furnish all necessary technical services. The
+  legislature shall appropriate funds to enable the commission to carry out its duties.
+           
+  CHIEF ELECTION OFFICER.  The legislature shall provide for a chief election officer of
+  the State, whose responsibilities shall be as prescribed by law and shall include the
+  supervision of state elections, the maximization of registration of eligible voters
+  throughout the State and the maintenance of data concerning registered voters, elections,
+  apportionment and districting.
+           
+  APPORTIONMENT AMONG BASIC ISLAND UNITS.  The commission shall allocate
+  the total number of members of each house being reapportioned among the four basic
+  island units, namely (1) the island of Hawaii, (2) the islands of Maui, Lanai, Molokai and
+  Kahoolawe, (3) the island of Oahu and all other islands not specifically enumerated, and
+  (4) the islands of Kauai and Niihau, on the basis of the number of voters registered in the
+  last preceding general election in each of the basic island units and computed by the
+  method known as the method of equal proportions, except that no basic island unit shall
+  receive less than one member in each house.
+           
+  MINIMUM REPRESENTATION FOR BASIC ISLAND UNITS.  The representation of
+  any basic island unit initially allocated less than a minimum of two senators and three
+  representatives shall be augmented by allocating thereto the number of senators or
+  representatives necessary to attain such minimums which number, notwithstanding the
+  provisions of Sections 2 and 3 of this article shall be added to the membership of the   
+  appropriate body until the next reapportionment.  The senators or representatives of any
+  basic island unit so augmented shall exercise a fractional vote wherein the numerator is the
+  number initially allocated and the denominator is the minimum above specified.
+           
+  APPORTIONMENT WITHIN BASIC ISLAND UNITS.  Upon the determination of the
+  total number of members of each house to which each basic island unit is entitled, the
+  commission shall apportion the members among the districts therein and shall redraw
+  district lines where necessary in such manner that for each house the average number of
+  registered voters per member in each district is as nearly equal to the average for the basic
+  island unit as practicable.
+       In effecting such redistricting, the commission shall be guided by the following criteria:
+       1. No district shall extend beyond the boundaries of any basic island unit.
+       2. No district shall be so drawn as to unduly favor a person or political faction.
+       3.   Except in the case of districts encompassing more than one island, districts shall be
+       contiguous.
+       4.   Insofar as practicable, districts shall be compact.
+       5.   Where possible, district lines shall follow permanent and easily recognized features, 
+          such as streets, streams and clear geographical features, and when practicable
+       shall coincide with census tract boundaries.
+       6.   Where practicable, representative districts shall be wholly included within senatorial
+       districts.
+       7.   Not more than four members shall be elected from any district.
+       8.   Where practicable, submergence of an area in a larger district wherein substantially  
+         different socio-economic interests predominate shall be avoided.
+  
+  MANDAMUS AND JUDICIAL REVIEW.  Original jurisdiction is vested in the supreme
+  Court of the State to be exercised on the petition of any registered voter whereby it may
+  compel, by mandamus or otherwise, the appropriate person or  persons to perform their
+  duty or to correct any error made in a reapportionment plan, or it may take such other
+  action to effectuate the purposes of this section as it may deem appropriate. Any such
+  petition must be filed within forty-five days of the date specified for any duty or within
+  forty-five days after the filing  of a reapportionment plan.
+  
+  *** SEND ***
+  *** SSTART 005.0 003.0 0 HI 1968 ***
+           
+  SEC. 5.  ELECTION OF MEMBERS; TERM.  The members of the legislature shall be     
+    elected at general elections. The term of office of members of the house of
+  representatives shall be two years beginning with their election and ending on the day of
+  the next general election, and the term of office of members of the senate shall be four
+  years beginning with their election and ending on the day of the second general election
+  after their election.
+  
+  *** SEND ***
+  *** SSTART 006.0 003.0 0 HI 1968 ***
+           
+  SEC. 6.  VACANCIES.  Any vacancy in the legislature shall be filled for the unexpired
+  term in such manner as may be prescribed by law, or, if no provision be made by law, by
+  appointment by the governor for the unexpired term.
+  
+  *** SEND ***
+  *** SSTART 007.0 003.0 0 HI 1968 ***
+           
+  SEC. 7.  QUALIFICATIONS OF MEMBERS.  No person shall be eligible to serve as a
+  member of the senate unless he shall have been a resident of the State for not less than
+  three years, have attained the age of majority and be a qualified voter of the senatorial
+  district from which he seeks to be elected. No person shall be eligible to serve as a
+  member of the house of representatives unless he shall have been a resident of the State
+  for not less than three years, have attained the age of majority and be a qualified voter of
+  the representative district from which he seeks to be elected.
+  
+  *** SEND ***
+  *** SSTART 008.0 003.0 0 HI 1968 ***
+           
+  SEC. 8.  PRIVILEGES OF MEMBERS.  No member of the legislature shall be held to
+  answer before any other tribunal for any statement made or action taken in the exercise of
+  his legislative functions; and members of the legislature shall, in all cases except felony or
+  breach of the peace, be privileged from arrest during their attendance at the sessions of
+  their respective houses, and in going to and returning from the same.
+  
+  *** SEND ***
+  *** SSTART 009.0 003.0 0 HI 1968 ***
+           
+  SEC. 9.  DISQUALIFICATIONS OF MEMBERS.  No member of the legislature shall
+  hold any other public office under the State, nor shall he, during the term for which he is
+  elected or appointed, be elected or appointed to any public office or employment which
+  shall have been created, or the emoluments whereof shall have been increased, by
+  legislative act during such term. The term "public office", for the purposes of this section,
+  shall not include notaries public, reserve police officers or officers of emergency
+  organizations for civilian defense or disaster relief. The legislature may prescribe further
+  disqualifications.
+  
+  *** SEND ***
+  *** SSTART 010.0 003.0 0 HI 1968 ***
+           
+  SEC. 10.  SALARY; ALLOWANCES; COMMISSION ON LEGISLATIVE SALARY.  
+  The members of the legislature shall receive allowances reasonably related to expenses and
+  a salary, as prescribed by law. Any change in salary shall not apply to the legislature that
+  enacted the same.
+       There shall be a commission on legislative salary, which shall be appointed by the
+  governor on or before June 1, 1971, and every four years after the first commission is
+  appointed. Within sixty days after its appointment, the commission shall submit to the       
+  legislature recommendations for a salary plan for members of the legislature, and then
+  dissolve.
+  
+  *** SEND ***
+  *** SSTART 011.0 003.0 0 HI 1968 ***
+           
+  SEC. 11.  SESSIONS.  The legislature shall convene annually in regular session at 10:00
+  o'clock a.m. on the third Wednesday in January.
+       At the written request of two-thirds of the members to which each house is entitled,
+  the presiding officers of both houses shall convene the legislature in special session. The
+  governor may convene both houses or the senate alone in special session.
+       Regular sessions shall be limited to a period of sixty days, and special sessions shall be
+  limited to a period of thirty days. Any session may be extended a total of not more than
+  fifteen days. Such extension shall be granted by the presiding officers of both houses at the
+  written request of two-thirds of the members to which each house is entitled or may be
+  granted by the governor.
+       Any session may be recessed by concurrent resolution adopted by a majority of the
+  members to which each house is entitled. Saturdays, Sundays, holidays and any days in
+  recess pursuant to a concurrent resolution shall be excluded in computing the number of
+  days of any session.
+       All sessions shall be held in the capital of the State. In case the capital shall be unsafe,
+  the governor may direct that any session be held at some other place.
+  
+  *** SEND ***
+  *** SSTART 012.0 003.0 0 HI 1968 ***
+           
+  SEC. 12.  ADJOURNMENT.  Neither house shall adjourn during any session of the
+  legislature for more than three days, or sine die, without the consent of the other.
+  
+  *** SEND ***
+  *** SSTART 013.0 003.0 0 HI 1968 ***
+  
+  SEC. 13.  ORGANIZATION; DISCIPLINE; RULES; PROCEDURE.  Each house shall
+  be the judge of the elections, returns and qualifications of its own members and shall have,
+  for misconduct, disorderly behavior or neglect of duty of any member, power to punish
+  such member by censure or, upon a two-thirds vote of all the members to which such
+  house is entitled, by suspension or expulsion of such member.  Each house shall choose its
+  own officers, determine the rules of its proceedings and keep a journal. The ayes and noes
+  of the members on any question shall, at the desire of one-fifth of the members present, be
+  entered upon the journal.
+       Twenty days after a bill has been referred to a committee in either house, the same may
+  be recalled from such committee by the affirmative vote of one-third of the members to
+  which such house is entitled.
+  
+  *** SEND ***
+  *** SSTART 014.0 003.0 0 HI 1968 ***
+           
+  SEC. 14.  QUORUM; COMPULSORY ATTENDANCE.  A majority of the number of
+  members to which each house is entitled shall constitute a quorum of such house for the
+  conduct of ordinary business, of which quorum a majority vote shall suffice; but the final
+  passage of a bill in each house shall require the vote of a majority of all the members to
+  which such house is entitled, taken by ayes and noes and entered upon its journal. A
+  smaller number than a quorum may adjourn from day to day and may compel the
+  attendance of absent members in such manner and under such penalties as each house may
+  provide.
+  
+  *** SEND ***
+  *** SSTART 015.0 003.0 0 HI 1968 ***
+           
+  SEC. 15.  BILLS; ENACTMENT.  No law shall be passed except by bill.  Each law shall
+  embrace but one subject, which shall  be expressed in its title. The enacting clause of each
+  law shall be, "Be it enacted by the legislature of the State of Hawaii."
+  
+  *** SEND ***
+  *** SSTART 016.0 003.0 0 HI 1968 ***
+           
+  SEC. 16.  PASSAGE OF BILLS.   No bill shall become law unless it shall pass three
+  readings in each house on separate days. No bill shall pass third or final reading in either
+  house unless printed copies of the bill in the form to be passed shall have been made
+  available to the members of that house for at least twenty-four hours.
+       Every bill when passed by the house in which it originated, or in which amendments
+  thereto shall have originated, shall immediately be certified by the presiding officer and
+  clerk and sent to the other house for consideration.
+       Any bill pending at the final adjournment of a regular session in an odd-numbered year
+  shall carry over with the same status to the next regular session.  Before the carried-over
+  bill is enacted, it shall pass at least one reading in the house in which the bill originated.
+  
+  *** SEND ***
+  *** SSTART 017.0 003.0 0 HI 1968 ***
+           
+  SEC. 17.  APPROVAL OR VETO.  Every bill which shall have passed the legislature
+  shall be certified by the presiding officers and clerks of both houses and shall thereupon be
+  presented to the governor. If he approves it, he shall sign it and it shall become law. If the
+  governor does not approve such bill, he may return it, with his objections to the
+  legislature. He may veto any specific item or items in any bill which appropriates money
+  for specific purposes by striking out or reducing the same; but he shall veto other bills, if
+  at all, only as a whole.
+       The governor shall have ten days to consider bills presented to him ten or more days
+  before the adjournment of the legislature sine die, and if any such bill is neither signed nor
+  returned by the governor within that time, it shall become law in like manner as if he had
+  signed it.
+           
+  RECONSIDERATION AFTER ADJOURNMENT.  The governor shall have forty-five
+  days, after the adjournment of the legislature sine die, to consider bills presented to him
+  less than ten days before such adjournment, or presented after adjournment, and any such
+  bill shall become law on the forty-fifth day unless the governor by proclamation shall have
+  given ten days' notice to the legislature that he plans to return such bill with his objections
+  on that day. The legislature may convene at or before noon on the forty-fifth day in special
+  session, without call, for the sole purpose of acting upon any such bill returned by the
+  governor. In case the legislature shall fail to so convene, such bill shall not become law.
+  Any such bill may be amended to meet the governor's objections and, if so amended and
+  passed, only one reading being required in each house for such passage, it shall be
+  presented again to the governor, but shall become law only if he shall sign it within ten
+  days after presentation.
+       In computing the number of days designated in this section, the following days shall be
+  excluded:  Saturdays, Sundays, holidays, and any days in which the legislature is in recess
+  prior to its adjournment as provided in Section 11.
+  
+  *** SEND ***
+  *** SSTART 018.0 003.0 0 HI 1968 ***
+  
+  SEC. 18.  PROCEDURES UPON VETO.  Upon the receipt of a veto message from the
+  governor, each house shall enter the same at large upon its journal and proceed to
+  consider the vetoed bill, or the item or items vetoed, and again vote upon such bill, or such
+  item or items, by ayes and noes, which shall be entered upon its journal. If after such
+  consideration such bill, or such item or items, shall be approved by a two-thirds vote of all
+  members to which each house is entitled, the same shall become law.
+           
+  *** SEND ***
+  *** SSTART 019.0 003.0 0 HI 1968 ***
+  
+  SEC. 19.  PUNISHMENT OF NONMEMBERS.  Each house may punish by fine, or by
+  imprisonment not exceeding thirty days, any person not a member of either house who
+  shall be guilty of disrespect of such house by any disorderly or contemptuous behavior in
+  its presence or that of any committee thereof; or who shall, on account of the exercise of
+  any legislative function, threaten harm to the body or estate of any of the members of such
+  house; or who shall assault, arrest or detain any witness or other person ordered to attend
+  such house, on his way going to or returning therefrom; or who shall rescue any person
+  arrested by order of such house.
+       Any person charged with such an offense shall be informed in writing of the charge
+  made against him, and have opportunity to present evidence and be heard in his own
+  defense.
+  
+  *** SEND ***
+  *** SSTART 020.0 003.0 0 HI 1968 ***
+           
+  SEC. 20.  IMPEACHMENT.  The governor and lieutenant governor, and any appointive
+  officer for whose removal the consent of the senate is required, may be removed from
+  office upon conviction of impeachment for such causes as may be provided by law.
+       The house of representatives shall have the sole power of impeachment of the governor
+  and lieutenant governor and the senate the sole power to try such impeachments, and no
+  such officer, shall be convicted without the concurrence of two-thirds of the members of
+  the senate. When sitting for that purpose, the members of the senate shall be on oath or
+  affirmation and the chief justice shall preside.  Subject to the provisions of this paragraph,
+  the legislature may provide for the manner and procedure of removal by impeachment of
+  such officers.
+       The legislature shall by law provide for the manner and procedure of removal by
+  impeachment of the appointive officers.
+       Judgments in cases of impeachment shall not extend beyond removal from office and     
+    disqualification to hold and enjoy any office of honor, trust or profit under the State; but
+  the person convicted may nevertheless be liable and subject to indictment, trial, judgment
+  and punishment according to law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 004.0 HI 1968 ***
+          
+  ARTICLE IV
+           
+  THE EXECUTIVE
+  
+  *** SSTART 001.0 004.0 0 HI 1968 ***
+           
+  SEC. 1.  ESTABLISHMENT OF THE EXECUTIVE.  The executive power of the State
+  shall be vested in a governor.
+       The governor shall be elected by the qualified voters of this State at a general election.
+  The person receiving the highest number of votes shall be the governor. In case of a tie
+  vote, the selection of the governor shall be determined in accordance with law.
+       The term of office of the governor shall begin at noon on the first Monday in
+  December next following his election and end at noon on the first Monday in December,
+  four years thereafter.
+       No person shall be eligible for the office of governor unless he shall be a qualified
+  voter, have attained the age of thirty years, and have been a resident of this State for five
+  years immediately preceding his election.
+       The governor shall not hold any other office or employment of profit under the State or
+  the United States during his term of office.
+  
+  *** SEND ***
+  *** SSTART 002.0 004.0 0 HI 1968 ***
+           
+  SEC. 2.  LIEUTENANT GOVERNOR.  There shall be a lieutenant governor, who shall
+  have the same qualifications as the governor. He shall be elected at the same time, for the
+  same term, and in the same manner, as the governor;  provided that the votes cast in the
+  general election for the nominee for governor shall be deemed cast for the nominee for
+  lieutenant governor of the same political party. He shall perform such duties as may be
+  prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 003.0 004.0 0 HI 1968 ***
+           
+  SEC. 3.  COMPENSATION: GOVERNOR, LIEUTENANT GOVERNOR.  The
+  compensation of the governor and of the lieutenant governor shall be prescribed by law,
+  but shall not be less than thirty-three thousand five hundred dollars, and twenty-seven
+  thousand five hundred dollars, respectively, a year. Such compensation shall not be
+  increased or decreased for their respective terms, unless by general law applying to all
+  salaried officers of the State. When the lieutenant governor succeeds to the office of 
+  governor, he shall receive the compensation for that office.
+  
+  *** SEND ***
+  *** SSTART 004.0 004.0 0 HI 1968 ***
+          
+  SEC. 4.  SUCCESSION TO GOVERNORSHIP; ABSENCE OR DISABILITY OF
+  GOVERNOR.  When the office of governor is vacant, the lieutenant governor shall
+  become governor. In the event of the absence of the governor from the State, or his
+  inability to exercise and discharge the powers and duties of his office, such powers and
+  duties shall devolve upon the lieutenant governor during such absence or disability.
+       When the office of lieutenant governor is vacant, or in the event of the absence of the
+  lieutenant governor from the State, or his inability to exercise and discharge the powers
+  and duties of his office, such powers and duties shall devolve upon such officers in such
+  order of succession as may be provided by law.
+       In the event of the impeachment of the governor or of the lieutenant governor, he shall
+  not exercise the powers of his office until acquitted.        
+  
+  *** SEND ***
+  *** SSTART 005.0 004.0 0 HI 1968 ***
+  
+  SEC. 5.  EXECUTIVE POWERS.  The governor shall be responsible for the faithful
+  execution of the laws. He shall be commander in chief of the armed forces of the State      
+  and may call out such forces to execute the laws, suppress or prevent insurrection or
+  lawless violence or repel invasion. He shall, at the beginning of each session, and may, at
+  other times, give to the legislature information concerning the affairs of the State and
+  recommend to its consideration such measures as he shall deem expedient.
+       The governor may grant reprieves, commutations and pardons, after conviction, for all
+  offenses, subject to regulation by law as to the manner of applying for the same. The
+  legislature may, by general law, authorize the governor to grant pardons before
+  conviction, to grant pardons, for impeachment and to restore civil rights denied by reason
+  of conviction of offenses by tribunals other than those of this State.
+       The governor shall appoint an administrative director to serve at his pleasure.
+           
+  *** SEND ***
+  *** SSTART 006.0 004.0 0 HI 1968 ***
+  
+  SEC. 6.  EXECUTIVE AND ADMINISTRATIVE OFFICES AND DEPARTMENTS. 
+  All executive and administrative offices, departments and instrumentalities of the state     
+  government and their respective functions, powers and duties shall be allocated by law
+  among and within not more than twenty principal departments in such manner as to group
+  the same according to major purposes so far as practicable. Temporary commissions or
+  agencies for special purposes may be established by law and need not be allocated within a
+  principal department.
+       Each principal department shall be under the supervision of the governor and, unless
+  otherwise provided in this constitution or by law, shall be headed by a single executive.
+  Such single executive shall be nominated and, by and with the advice and consent of the
+  senate, appointed by the governor and be shall hold office for a term to expire at the end
+  of the term for which the governor was elected, unless sooner removed by the governor;
+  except that the removal of the chief legal officer of the State shall be subject to the advice
+  and consent of the senate.
+       Except as otherwise provided in this constitution, whenever a board, commission or
+  other body shall be the head of a principal department of the state government, the
+  members thereof shall be nominated and, by and with the advice and consent of the       
+  senate, appointed by the governor. The term of office and removal of such members shall
+  be as prescribed by law. Such board, commission or other body may appoint a principal
+  executive officer, who, when authorized by law, may be ex officio a voting member
+  thereof, and who may be removed by a majority vote of the members appointed by the
+  governor.
+       The governor shall nominate and, by and with the advice and consent of the senate,
+  appoint all officers for whose election or appointment provision is not otherwise made by
+  this constitution or by law. If the manner of removal of an officer is not prescribed in this
+  constitution, his removal shall be in a manner  prescribed by law.
+       When the senate is not in session and a vacancy occurs in any office, appointment to
+  which requires the confirmation of the senate, the governor may fill the office by granting
+  a commission which shall, unless such appointment is confirmed, expire at the end of the
+  next session of the senate; but the person so appointed shall not be eligible for another
+  interim appointment to such office if the appointment shall have failed of confirmation by
+  the senate.
+       No person who has been nominated for appointment to any office and whose
+  appointment has not received the consent of the senate shall be eligible to an interim
+  appointment thereafter to such office.
+       Every officer appointed under the provisions of this section shall be a citizen of the
+  United States and shall have been a resident of this State for at least one year immediately
+  preceding his appointment; except that this residence requirement shall not apply to the
+  president of the University of Hawaii.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 005.0 HI 1968 ***
+  
+  ARTICLE V
+  
+  THE JUDICIARY
+           
+  *** SSTART 001.0 005.0 0 HI 1968 ***
+  
+  SEC. 1.  JUDICIARY POWER.  The judicial power of the State shall be vested in one
+  supreme court, circuit courts, and in such inferior courts as the legislature may from time
+  to time establish. The several courts shall have original and appellate jurisdiction as
+  provided by law.
+  
+  *** SEND ***
+  *** SSTART 002.0 005.0 0 HI 1968 ***
+           
+  SEC. 2.  SUPREME COURT.  The supreme court shall consist of a chief justice and four
+  associate justices. When necessary, the chief justice shall assign a judge or judges of a
+  circuit court to serve temporarily on the supreme court. As prescribed by law, retired
+  justices of the supreme court also may serve temporarily on the supreme court at the
+  request of the chief justice.  In case of a vacancy in the office of chief justice, or if he is ill,
+  absent or otherwise unable to serve, an associate justice designated in accordance with the
+  rules of the supreme court shall serve temporarily in his place.
+  
+  *** SEND ***
+  *** SSTART 003.0 005.0 0 HI 1968 ***
+           
+  SEC. 3.  APPOINTMENT OF JUSTICES AND JUDGES.  The governor shall nominate
+  and, by and with the advice and consent of the senate, appoint the justices of the supreme
+  court and the judges of the circuit, courts. No nomination shall be sent to the senate, and
+  no interim appointment shall be made when the senate is not in session, until after ten
+  days' public notice by the governor.
+  
+  QUALI FICATIONS.  No justice or judge shall hold any other office or position of profit
+  under the State or the United States. No person shall be eligible for the office of justice or
+  judge unless he shall have been admitted to practice law before the supreme court of this
+  State for at least ten years. Any justice or judge who shall become a candidate for an
+  elective office shall thereby forfeit his office.
+           
+  TENURE; COMPENSATION; RETIREMENT.  The term of office of a justice of the
+  supreme court and of a judge of a circuit court shall be ten years. They shall receive for
+  theft services such compensation as may be prescribed by law, but no less than twenty-
+  eight thousand dollars for the chief justice, twenty-seven thousand dollars for associate      
+  justices and twenty-five thousand dollars for circuit court judges, a year. Their
+  compensation shall not be decreased during their respective terms of office, unless by
+  general law applying to all salaried officers of the State. They shall be retired upon
+  attaining the age of seventy years. They shall be included in any retirement law of the
+  State.
+  
+  *** SEND ***
+  *** SSTART 004.0 005.0 0 HI 1968 ***
+           
+  SEC. 4.  RETIREMENT FOR INCAPACITY AND REMOVAL.  Whenever a
+  commission or agency, authorized by law for such purpose, shall certify to the governor
+  that any justice of the supreme court or judge of a circuit court appears to be so
+  incapacitated as substantially to prevent him from performing his judicial duties or has
+  acted in a manner that constitutes wilful misconduct in office, wilful and persistent failure
+  to perform his duties, habitual intemperance, or conduct prejudicial to the administration
+  of justice that brings the judicial office into disrepute, the governor shall appoint a board
+  of three persons, as provided by law, to inquire into the circumstances. If the board
+  recommends that the justice or judge should not remain in office, the governor shall
+  remove or retire him from office.
+  
+  *** SEND ***
+  *** SSTART 005.0 005.0 0 HI 1968 ***
+  
+  SEC. 5.  ADMINISTRATION.  The chief justice of the supreme court shall be the
+  administrative head of the courts. He may assign judges from one circuit court to another
+  for temporary service. With the approval of the supreme court he shall appoint an
+  administrative director to serve at his pleasure.
+  
+  *** SEND ***
+  *** SSTART 006.0 005.0 0 HI 1968 ***      
+  
+  SEC. 6.  RULES.  The supreme court shall have power to promulgate rules and
+  regulations in all civil and criminal cases for all courts relating to process, practice,
+  procedure and appeals, which shall have the force and effect of law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 006.0 HI 1968 ***
+           
+  ARTICLE VI
+  
+  TAXATION AND FINANCE
+  
+  *** SSTART 001.0 006.0 0 HI 1968 ***
+           
+  SEC. 1.  TAXING POWER INALIENABLE.  The power of taxation shall never be
+  surrendered, suspended or contracted away.
+  
+  *** SEND ***
+  *** SSTART 002.0 006.0 0 HI 1968 ***
+           
+  SEC. 2.  APPROPRIATIONS FOR PRIVATE PURPOSES PROHIBITED.  No tax shall
+  be levied or appropriation of public money or property made, nor shall the public credit be
+  used, directly or indirectly, except for a public purpose. No grant shall be made in
+  violation of Section 3 of Article I of this constitution.
+  
+  *** SEND ***
+  *** SSTART 003.0 006.0 0 HI 1968 ***
+           
+  SEC. 3.  BONDS; DEBT LIMITATIONS.  For the purposes of this section, the term
+  "bonds" shall include bonds, notes and other instruments of indebtedness; the term
+  "general obligation bonds" means all bonds for the payment of the principal and interest of
+  which the full faith and credit of the State or a political subdivision are pledged; and the
+  term "revenue bonds" means all bonds payable solely from and secured solely by the
+  revenues, or user taxes, or any combination of both, of a public undertaking, improvement
+  or system.
+       All bonds issued by or on behalf of the State or a political subdivision must be
+  authorized by the legislature, and bonds of a political subdivision must also be authorized
+  by its governing body.
+       Bonds may be issued by the State when authorized by a two-thirds vote of the
+  members to which each house of the legislature is entitled, provided that such bonds at the
+  time of authorization would not cause the total of state indebtedness to exceed a sum
+  equal to three and one-half times the average of the general fund revenues of the State in
+  the three fiscal years immediately preceding the session of the legislature authorizing such
+  issuance. For the purpose of this paragraph, general fund revenues of the State shall not
+  include monies received as grants from the federal government and receipts in
+  reimbursement of any indebtedness that is excluded in computing the total indebtedness of
+  the State.
+       By majority vote of the members to which each house of the legislature is entitled and
+  without regard to any debt limit, there may be issued by or on behalf of the State: bonds to
+  meet appropriations for any fiscal period in anticipation of the collection of revenues for
+  such period or to meet casual deficits or failures of revenue, if required to be paid within
+  one year; bonds to suppress insurrection, to repel invasion, to defend the State in war or
+  to meet emergencies caused by disaster or act of God; and revenue bonds.
+       A sum equal to fifteen percent of the total of the assessed values for tax rate purposes
+  of real property in any political subdivision, as determined by the last tax assessment rolls
+  pursuant to law, is established as the limit of the funded debt of such political subdivision
+  that is outstanding and unpaid at any time.
+       Bonds to meet appropriations for any fiscal period in anticipation of the collection of
+  revenues for such period or to meet casual deficits or failures of revenue, if required to be
+  paid within one year, may be issued by any political subdivision under authorization of law
+  and of its governing body without regard to any debt limit.
+       All general obligation bonds for a term exceeding one year shall be in serial form
+  maturing in substantially equal installments of principal, or maturing in substantially equal
+  installment of both principal and interest, the first installment of principal to mature not
+  later than five years from the date of the issue of such series, and the last installment not
+  later than thirty-five years from the date of such issue. The interest and principal payments
+  of general obligation bonds shall be a first charge on the general fund of the State or
+  political subdivision, as the case may be.
+       In determining the total indebtedness of the State or funded debt of any political
+  subdivision, the following shall be excluded:
+           
+     (a)    Bonds that have matured, or that mature in the then current fiscal year, or that have
+     been irrevocably called for redemption and the redemption date has occurred or will
+     occur in the then fiscal year, and for the full payment of which monies have been
+     irrevocably set aside.
+     (b)    Revenue bonds, authorized or issued, if the issuer thereof is obligated by law to
+     impose rates and charges for the use and services of the public undertaking,
+     improvement or system, or to impose a user tax, or to impose a combination of rates
+     and charges and user tax, as the case may be, sufficient to pay the cost of operation,
+     maintenance and repair of the public undertaking, improvement or system and the
+     required payments of the principal of and interest on all revenue bonds issued for the
+     public undertaking, improvement or system, and if the issuer is obligated to deposit
+     such revenues or tax or a combination of both into a special fund and to apply the
+     same to such payments in the amount necessary therefor. For the purposes of this
+     section a user tax shall mean a tax on goods or services or on the consumption
+     thereof, the receipts of which are substantially derived from the consumption, use or
+     sale of goods and services in the utilization of the functions or services furnished by
+     the public undertaking, improvement or system.
+     (c)    Bonds authorized or issued under special improvement statutes when the only
+     security for such bonds is the properties benefited or improved or theassessments
+     thereon.
+     (d)    General obligation bonds authorized or issued for assessable improvements, but only
+     to the extent that reimbursements to the general fund for the principal and interest on
+     such bonds are in fact made from assessment collections available therefor.
+     (e)    General obligation bonds issued for a public undertaking, improvement or system
+     from which revenues, user taxes, or a combination of both may be derived for the
+     payment of all or part of the principal and interest as reimbursement to the general      
+      fund, but only to the extent that reimbursements to the general fund are in fact made
+     from the net revenue, net user tax receipts, or combination of both, as determined for
+     the immediately preceding fiscal year. For the purposes of this section, net revenue or
+     net user tax receipts shall be the revenue or receipts remaining after the costs of
+     operation, maintenance and repair of such public undertaking, improvement or
+     system and the required payments of the principal of and interest on all revenue
+     bonds    issued therefor have been made.
+     (f)    General obligation bonds of the State, authorized but unissued, for an existing public
+     undertaking, improvement or system that produces revenues, or user tax receipts, or
+     a combination of both, but only if in the fiscal year immediately preceding the
+     authorization, the public undertaking, improvement or system produced a net
+     revenue, net user taxes or a combination of both, that was sufficient to pay into the
+     general fund the full amount of the principal and interest then due for all general
+     obligation bonds then outstanding for such public undertaking, improvement or
+     system.  
+     (g)    General obligation bonds of the State, authorized but unissued, for an existing public
+     undertaking, improvement or system that has not been self-sustaining as determined
+     for the immediately preceding fiscal year, and that produces revenues, or user tax
+     receipts, or a combination of both, but only if the rates or charges for the use and       
+     services of the undertaking have been, or the rate of such user tax has been, increased
+     by law or by the issuing body as authorized by law, in an amount that is determined
+     will produce sufficient net revenue or net user taxes, or any combination thereof, for
+     reimbursement to the general fund for the payment of principal and interest on all
+     general obligation bonds then outstanding and authorized for such public
+     undertaking, improvement or system.
+     (h)    General obligation bonds issued by the State for any political subdivision, whether
+     issued before or after the effective date of this section, but only for as long as
+     reimbursement by the political subdivision to the State for the payment of principal
+     and interest on such bonds is required by law; provided that in the case of bonds
+     authorized or issued after the effective date of this amendment, the consent of the
+     governing body of the political subdivision has first been obtained; and provided
+     further that during the period that such bonds are excluded from total indebtedness of
+     the State, the principal amount then outstanding shall be included within the funded
+     debt of such political subdivision.
+   Determinations of the exclusions from the total indebtedness of the State or funded
+   debt of any political subdivision provided for in this section shall be made annually and
+   certified by law or as prescribed by law. For the purposes of this section, amounts
+   received from on-street parking may be considered and treated as revenues of a parking
+   undertaking.
+  Nothing in this section shall prevent the refunding of any bond at any time.
+  
+  *** SEND ***
+  *** SSTART 004.0 006.0 0 HI 1968 ***
+  
+  SEC. 4.  THE BUDGET.  Within such time prior to the opening of each regular session in
+  an odd-numbered year as may be prescribed by law, the governor shall submit to the     
+  legislature a budget setting forth a complete plan of proposed expenditures and anticipated
+  receipts of the State for the ensuing fiscal biennium, together with such other information
+  as the legislature may require.  The budget shall be submitted in a form prescribed by law.
+  The governor shall also, upon the opening of each such session, submit bills to provide for
+  such  proposed expenditures and for any recommended additional revenues or borrowings
+  by which the proposed expenditures are to be met. Such bills shall be introduced in the
+  legislature upon the opening of each such session.
+  
+  *** SEND ***
+  *** SSTART 005.0 006.0 0 HI 1968 ***
+  
+  SEC. 5.  LEGISLATIVE APPROPRIATIONS; PROCEDURES.  In each regular session
+  in an odd-numbered year, the legislature shall transmit to the governor an appropriation
+  bill or bills providing for the anticipated total expenditures of the State for the ensuing
+  fiscal biennium. In such session, no appropriation bill, except bills recommended by the
+  governor for immediate passage, or to cover the expenses of the legislature, shall be
+  passed on final reading until the bill authorizing operating expenditures for the ensuing
+  fiscal biennium, to be known as the general appropriations bill, shall have been transmitted
+  to the governor.
+       In each regular session in an even-numbered year, at such time as may be prescribed by
+  law, the governor may submit to the legislature a bill to amend any appropriation for
+  operating expenditures of the current fiscal biennium, to be known as the supplemental
+  appropriations bill, and bills to amend  any appropriations for capital expenditures of the
+  current fiscal biennium, and at the same time he shall submit a bill or bills to provide for
+  any added revenues or borrowings that such amendments may require. In each regular
+  session in an even-numbered year, bills may be introduced in the legislature to amend any
+  appropriation act or bond authorization act of the current fiscal biennium or prior fiscal
+  periods. In any such session in which the legislature submits to the governor a
+  supplemental appropriations bill, no other appropriation bill, except bills recommended by
+  the governor for immediate passage, or to cover the expenses of the legislature, shall be
+  passed on final reading until such supplemental appropriations bills shall have been     
+  transmitted to the governor.
+  
+  *** SEND ***
+  *** SSTART 006.0 006.0 0 HI 1968 ***
+  
+  SEC. 6.  EXPENDITURE CONTROLS.  Provision for the control of the rate of
+  expenditures of appropriated state monies, and for the reduction of such expenditures
+  under prescribed conditions, shall be made by law.
+  
+  *** SEND ***
+  *** SSTART 007.0 006.0 0 HI 1968 ***
+  
+  SEC. 7.  AUDITOR.  The legislature, by a majority vote of each house in joint session,
+  shall appoint an auditor who shall serve for a period of eight years and thereafter until a
+  successor shall have been appointed.  The legislature, by a two-thirds vote of the members
+  in joint session, may remove the auditor from office at any time for cause. It shall be the
+  duty of the auditor to conduct post-audits of all transactions and of all accounts kept by or
+  for all departments, offices and agencies of the State and its political subdivisions, to
+  certify to the accuracy of all financial statements issued by the respective accounting
+  officers and to report his findings and recommendations to the governor and to the
+  legislature at such times as shall be prescribed by law.  He shall also make such additional
+  reports and conduct such other investigations as may be directed by the legislature.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 007.0 HI 1968 ***
+           
+  ARTICLE VII
+           
+  LOCAL GOVERNMENT
+  
+  *** SSTART 001.0 007.0 0 HI 1968 ***
+           
+  SEC. 1.  POLITICAL SUBDIVISIONS; CREATION, POWERS.  The legislature shall
+  create counties, and may create other political subdivisions within the State, and provide
+  for the government thereof. Each political subdivision shall have and exercise such powers
+  as shall be conferred under general laws.
+  
+  *** SEND ***
+  *** SSTART 002.0 007.0 0 HI 1968 ***
+           
+  SEC. 2.  LOCAL SELF-GOVERNMENT; CHARTER.  Each political subdivision shall
+  have power to frame and adopt a charter for its own self-government within such limits
+  and under such procedures as may be prescribed by general law. The prescribed
+  procedures, however, shall not require the approval of a charter by a legislative body.
+       Charter provisions with respect to a political subdivision's executive, legislative and
+  administrative structure and organization shall be superior to statutory provisions, subject
+  to the authority of the legislature to enact general laws allocating and reallocating powers
+  and functions.
+       A law may qualify as a general law even though it is inapplicable to one or more
+  counties by reason of the provisions of this section.
+  
+  *** SEND ***
+  *** SSTART 003.0 007.0 0 HI 1968 ***
+           
+  SEC. 3.  TAXATION AND FINANCE.  The taxing power shall be reserved to the State
+  except so much thereof as may be delegated by the legislature to the political subdivisions,
+  and the legislature shall have the power to apportion state revenues among the several
+  political subdivisions.
+  
+  *** SEND ***
+  *** SSTART 004.0 007.0 0 HI 1968 ***
+  
+  SEC. 4.  MANDATES; ACCRUED CLAIMS.  No law shall be passed mandating any       
+   political subdivision to pay any previously accrued claim.
+  
+  *** SEND ***
+  *** SSTART 005.0 007.0 0 HI 1968 ***
+  
+  SEC. 5.  STATE-WIDE LAWS.  This article shall not limit the power of the legislature to
+  enact laws of state-wide concern.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 008.0 HI 1968 ***
+           
+  ARTICLE VIII
+  
+  PUBLIC HEALTH AND WELFARE
+  
+  *** SSTART 001.0 008.0 0 HI 1968 ***
+           
+  SEC. 1.  PUBLIC HEALTH.  The State shall provide for the protection and promotion of
+  the public health.
+  
+  *** SEND ***
+  *** SSTART 002.0 008.0 0 HI 1968 ***
+  
+  SEC. 2.  CARE OF HANDICAPPED.  The State shall have power to provide for
+  treatment and rehabilitation, as well as domiciliary care, of mentally or physically    
+  handicapped persons.
+  
+  *** SEND ***
+  *** SSTART 003.0 008.0 0 HI 1968 ***
+  
+  SEC. 3.  PUBLIC ASSISTANCE.  The State shall have power to provide assistance for
+  persons unable to maintain a standard of living compatible with decency and health.
+  
+  *** SEND ***
+  *** SSTART 004.0 008.0 0 HI 1968 ***
+           
+  SEC. 4.  SLUM CLEARANCE, REHABILITATION AND HOUSING.  The State shall
+  have power to provide for, or assist in, slum clearance and the development or
+  rehabilitation of substandard areas, including housing for persons of low income.
+  
+  *** SEND ***
+  *** SSTART 005.0 008.0 0 HI 1968 ***
+           
+  SEC. 5.  PUBLIC SIGHTLINESS AND GOOD ORDER.  The State shall have power to
+  conserve and develop its natural beauty, objects and places of historic or cultural interest,
+  sightliness and physical good order, and for that purpose private property shall be subject
+  to reasonable regulation.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 009.0 HI 1968 ***
+           
+  ARTICLE IX
+  
+  EDUCATION
+  
+  *** SSTART 001.0 009.0 0 HI 1968 ***
+           
+  SEC. 1.  PUBLIC EDUCATION.  The State shall provide for the establishment, support
+  and control of a statewide system of public schools free from sectarian control, a state
+  university, public libraries and such other educational institutions as may be deemed
+  desirable, including physical facilities therefor. There shall be no segregation in public
+  educational institutions because of race, religion or ancestry; nor shall public funds be
+  appropriated for the support or benefit of any sectarian or private educational institution.
+  
+  *** SEND ***
+  *** SSTART 002.0 009.0 0 HI 1968 ***
+           
+  SEC. 2.  BOARD OF EDUCATION.  There shall be a board of education composed of
+  members who shall be elected by qualified voters in accordance with law. At least part of
+  the membership of the board shall represent geographic subdivisions of the State.
+  
+  *** SEND ***
+  *** SSTART 003.0 009.0 0 HI 1968 ***
+  
+  SEC. 3.  POWER OF THE BOARD OF EDUCATION.  The board of education shall
+  have power, in accordance with law, to formulate policy, and to exercise control over the
+  public school system through its executive officer, the superintendent of education, who
+  shall be appointed by the board and shall serve as secretary to the board.
+  
+  *** SEND ***
+  *** SSTART 004.0 009.0 0 HI 1968 ***
+           
+  SEC. 4.  UNIVERSITY OF HAWAII.  The University of Hawaii is hereby established as
+  the state university and constituted a body corporate. It shall have title to all the real and    
+     personal property now or hereafter set aside or conveyed to it, which shall be held in
+  public trust for its purposes, to be administered and disposed of according to law.
+  
+  *** SEND ***
+  *** SSTART 005.0 009.0 0 HI 1968 ***
+           
+  SEC. 5.  BOARD OF REGENTS; POWERS.  There shall be a board of regents of the
+  University of Hawaii, the members of which shall be nominated and, by and with the
+  advice and consent of the senate, appointed by the governor. At least part of the
+  membership of the board shall represent geographic subdivisions of the State. The board
+  shall have power, in accordance with law, to formulate policy, and to exercise control over
+  the university through its executive officer, the president of the university, who shall be
+  appointed by the board.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 010.0 HI 1968 ***
+  
+  ARTICLE X
+  
+  CONSERVATION AND DEVELOPMENT OF RESOURCES
+  
+  *** SSTART 001.0 010.0 0 HI 1968 ***
+           
+  SEC. 1.  RESOURCES; CONSERVATION, DEVELOPMENT AND USE.  The
+  legislature shall promote the conservation, development and utilization of agricultural
+  resources, and fish, mineral, forest, water, land, game and other natural resources.
+  
+  *** SEND ***
+  *** SSTART 002.0 010.0 0 HI 1968 ***
+           
+  SEC. 2.  NATURAL RESOURCES; MANAGEMENT AND DISPOSITION.  The
+  legislature shall vest in one or more executive boards or commissions powers for the     
+  management of natural resources owned or controlled by the State, and such powers of
+  disposition thereof as may be authorized by law; but land set aside for public use, other
+  than for a reserve for conservation purposes, need not be placed under the jurisdiction of
+  such a board or commission.
+       The mandatory provisions of this section shall not apply to the natural resources owned
+  by or under the control of a political subdivision or a department or agency thereof.
+  
+  *** SEND ***
+  *** SSTART 003.0 010.0 0 HI 1968 ***
+           
+  SEC. 3.  SEA FISHERIES.  All fisheries in the sea waters of the  State not included in any
+  fish pond or artificial enclosure shall be free to the public, subject to vested lights and the
+  right of the State to regulate the same.
+  
+  *** SEND ***
+  *** SSTART 004.0 010.0 0 HI 1968 ***
+  
+  SEC. 4.  GENERAL LAWS REQUIRED; EXCEPTIONS.  The legislative power over
+  the lands owned by or under the control of the State and its political subdivisions shall be
+  exercised only by general laws, except in respect to transfers to or for the use of the State,
+  a political subdivision, or any department or agency thereof.
+  
+  *** SEND ***
+  *** SSTART 005.0 010.0 0 HI 1968 ***
+           
+  SEC. 5.  FARM AND HOME OWNERSHIP.  The public lands shall be used for the
+  development of farm and home ownership on as widespread a basis as possible, in
+  accordance with procedures and limitations prescribed by law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 011.0 HI 1968 ***
+           
+  ARTICLE XI
+  
+  HAWAIIAN HOME LANDS
+  
+  *** SSTART 001.0 011.0 0 HI 1968 ***
+           
+  SEC. 1.  HAWAIIAN HOMES COMMISSION ACT.  Anything in this constitution to the
+  contrary notwithstanding, the Hawaiian Homes Commission Act, 1920, enacted by the
+  Congress, as the same has been or may be amended prior to the admission of the State, is
+  hereby adopted as a law of the State, subject to amendment or repeal by the legislature,
+  provided, that, if and to the extent that the United States shall so require, said law shall be
+  subject to amendment or repeal only with the consent of the United States and in no other
+  manner, provided, further, that, if the United States shall have been provided or shall
+  provide that particular provisions or types of provisions of said Act may be amended in the
+  manner required for ordinary state legislation, such provisions or types of provisions may
+  be so amended. The proceeds and income from Hawaiian home lands shall be used only in
+  accordance with the terms of said Act, and the legislature may, from time to time, make
+  additional sums available for the purposes of said Act by appropriating the same in the
+  manner provided by law.
+  
+  *** SEND ***
+  *** SSTART 002.0 011.0 0 HI 1968 ***
+           
+  SEC. 2.  COMPACT WITH THE UNITED STATES.  The State and its people do
+  hereby accept, as a compact with the United States, or as conditions or trust provisions
+  imposed by the United States, relating to the management and disposition of the Hawaiian
+  home lands, the requirement that Section 1 hereof be included in this constitution, in
+  whole or in part, it being intended that the Act or Acts of the Congress pertaining thereto
+  shall be definitive of the extent and nature of such compact, conditions or trust provisions,
+  as the case may be.  The State and its people do further agree and declare that the spirit of
+  the Hawaiian Homes Commission Act looking to The continuance of the Hawaiian homes
+  projects for the further rehabilitation of the Hawaiian race shall be faithfully carried out.
+  
+  *** SEND ***
+  *** SSTART 003.0 011.0 0 HI 1968 ***
+           
+  SEC. 3.  AMENDMENT AND REPEAL.  As a compact with the United States relating
+  to the management and disposition of the Hawaiian home lands, the Hawaiian Homes
+  Commission Act, 1920, as amended, shall be adopted as a provision of the Constitution of
+  said State, as provided in Section 7, subsection (b) of the Admission Act, subject to
+  amendment or repeal only with the consent of the United States, and in no other manner. 
+  Provided, That (1) sections 202, 213, 219, 220, 222, 224, and 225 and other provisions
+  relating to administration, and paragraph (2) of section 204, sections 206 and 212, and
+  other provisions relating to the powers and duties of officers other than those charged
+  with the administration of said Act, may be amended in the constitution, or in the manner
+  required for State legislation, but the Hawaiian home-loan fund, the Hawaiian home-
+  operating fund, and the Hawaiian home-development fund shall not be reduced or
+  impaired by any such amendment, whether made in the constitution or in the manner
+  required for State legislation, and the encumbrances authorized to be placed on Hawaiian
+  home lands by officers other than those charged with the administration of said Act, shall
+  not be increased, except with the consent of the United States; (2) that any amendment to
+  increase the benefits to lessees of Hawaiian home lands may be made in the constitution,
+  or in the manner required for State legislation, but the qualifications of lessees shall not be
+  changed except with the consent of the United States; and (3) that all proceeds and
+  income from the "available lands", as defined by said Act, shall be used only in carrying
+  out the provisions of said Act.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 012.0 HI 1968 ***
+  
+  ARTICLE XII
+  
+  ORGANIZATION; COLLECTIVE BARGAINING
+  
+  *** SSTART 001.0 012.0 0 HI 1968 ***
+           
+  SEC. 1.  PRIVATE EMPLOYEES.  Persons in private employment shall have the right to
+  organize for the purpose of collective bargaining.
+  
+  *** SEND ***
+  *** SSTART 002.0 012.0 0 HI 1968 ***
+           
+  SEC. 2.  PUBLIC EMPLOYEES.  Persons in public employment shall have the right to
+  organize for the purpose of collective bargaining as prescribed by law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 013.0 HI 1968 ***
+  
+  ARTICLE XIII
+  
+  STATE BOUNDARIES, CAPITAL, FLAG
+           
+  *** SSTART 001.0 013.0 0 HI 1968 ***
+  
+  SEC. 1.  BOUNDARIES.  The State of Hawaii shall consist of all the islands, together
+  with their appurtenant reefs and territorial waters, included in the Territory of Hawaii on
+  the date of enactment of this Act; except the atoll known as Palmyra Island, together with
+  its appurtenant reefs and territorial waters, but said State shall not be deemed to include
+  the Midway Islands, Johnston Island, Sand Island (offshore from Johnston Island), or
+  Kingman Reef, together with their appurtenant reefs and territorial waters.
+  
+  *** SEND ***
+  *** SSTART 002.0 013.0 0 HI 1968 ***
+  
+  SEC. 2.  CAPITAL.  Honolulu, on the Island of Oahu, shall be the capital of the State.
+  
+  *** SEND ***
+  *** SSTART 003.0 013.0 0 HI 1968 ***
+           
+  SEC. 3.  STATE FLAG.  The Hawaiian flag shall be the flag of the State.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 014.0 HI 1968 ***
+           
+  ARTICLE XIV
+  
+  GENERAL AND MISCELLANEOUS PROVISIONS
+  
+  *** SSTART 001.0 014.0 0 HI 1968 ***
+           
+  SEC. 1.  CIVIL SERVICE.  The employment of persons in the civil service, as defined by
+  law, of or under the State, shall be governed by the merit principle.
+  
+  *** SEND ***
+  *** SSTART 002.0 014.0 0 HI 1968 ***
+           
+  SEC. 2.  EMPLOYEES' RETIREMENT SYSTEM.  Membership in any employees
+  retirement system of the State or any political subdivision thereof shall be a contractual
+  relationship the accrued benefits of which shall not be diminished or impaired.
+  
+  *** SEND ***
+  *** SSTART 003.0 014.0 0 HI 1968 ***
+           
+  SEC. 3.  D1SQUALIFICATIONS FROM PUBLIC OFFICE OR EMPLOYMENT.  No
+  person shall hold any public office or employment who, knowingly and intentionally does
+  any act to overthrow, or attempts to overthrow or conspires with any person to overthrow
+  the government of this State or of the United States by force or violence.
+  
+  *** SEND ***
+  *** SSTART 004.0 014.0 0 HI 1968 ***
+           
+  SEC. 4.  OATH OF OFFICE.  All public officers, before entering upon the duties of their
+  respective offices, shall take and subscribe to the following oath or affirmation: "I do
+  solemnly swear (or affirm) that I will support and defend the Constitution of the United
+  States, and the Constitution of the State of Hawaii, and that I will faithfully discharge my
+  duties as    .. to the best of my ability." The legislature may prescribe further oaths or
+  affirmations.
+  
+  *** SEND ***
+  *** SSTART 005.0 014.0 0 HI 1968 ***
+           
+  SEC. 5.  CODES OF ETHICS.  The legislature and each political subdivision shall adopt a
+  code of ethics, which shall apply to appointed and elected officers and employees of the
+  State or the political subdivision, respectively, including members of boards, commissions
+  and other bodies.
+  
+  *** SEND ***
+  *** SSTART 006.0 014.0 0 HI 1968 ***
+                 
+  SEC. 6.  INTERGOVERNMENTAL RELATIONS.  The legislature may provide for
+  cooperation on the part of this State and its political subdivisions with the United States,
+  or other states and territories, or their political subdivisions, in matters affecting the public
+  health, safety and general welfare, and funds may be appropriated to effect such
+  cooperation.
+  
+  *** SEND ***
+  *** SSTART 007.0 014.0 0 HI 1968 ***           
+  
+  SEC. 7.  FEDERAL LANDS.  The United States shall be vested with or retain title to or
+  an interest in or shall hold the property in the Territory of Hawaii set aside for the use of
+  the United States and remaining so set aside immediately prior to the admission of this
+  State, in all respects as and to the extent set forth in the act or resolution providing for the
+  admission of this State to the Union.
+  
+  *** SEND ***
+  *** SSTART 008.0 014.0 0 HI 1968 ***
+           
+  SEC. 8. COMPLIANCE WITH TRUST.  Any trust provisions which the Congress shall
+  impose, upon the admission of this State, in respect of the lands patented to the State by
+  the United States or the proceeds and income therefrom, shall be complied with by
+  appropriate legislation.
+  
+  *** SEND ***
+  *** SSTART 009.0 014.0 0 HI 1968 ***
+  
+  SEC. 9.  ADMINISTRATION OF UNDISPOSED LANDS.  All provisions of the Act of
+  Congress approved March 18, 1959 reserving rights or powers to the United States, as
+  well as those prescribing the terms or conditions of the grants of lands or other property
+  therein made to the State of Hawaii are consented to fully by said State and its people.
+  
+  *** SEND ***
+  *** SSTART 010.0 014.0 0 HI 1968 ***
+           
+  SEC. 10.  FEDERAL PROPERTY; TAX EXEMPTION.  No taxes shall be imposed by
+  the State upon any lands or other property now owned or hereafter acquired by the United
+  States, except as the same shall become taxable by reason of disposition thereof by the
+  United States or by reason of the consent of the United States to such taxation.
+  
+  *** SEND ***
+  *** SSTART 011.0 014.0 0 HI 1968 ***
+   
+  SEC. 11.  HAWAII NATIONAL PARK.  All provisions of the act or resolution admitting
+  this State to the Union, or providing for such admission, which reserve to the United
+  States jurisdiction of Hawaii National Park, or the ownership or control of lands within
+  Hawaii National Park, are consented to fully by the State and its people.
+       
+  *** SEND ***
+  *** SSTART 012.0 014.0 0 HI 1968 ***
+       
+  SEC. 12.  JUDICIAL RIGHTS.  All those provisions of the act or resolution admitting
+  this State to the Union, or providing for such admission, which reserve to the United
+  States judicial rights or powers are consented to fully by the State and its people; and
+  those provisions of said act or resolution which preserve for the State judicial rights and
+  powers are hereby accepted and adopted, and such rights and powers are hereby assumed,
+  to be exercised and discharged pursuant to this constitution and the laws of the State.
+  
+  *** SEND ***
+  *** SSTART 013.0 014.0 0 HI 1968 ***
+  
+  SEC. 13.  TITLES, SUBTITLES, PERSONAL PRONOUNS; CONSTRUCTION.  Titles
+  and subtitles shall not be used for purposes of construing this constitution.         
+       Whenever any personal pronoun appears in this constitution, it shall be construed to
+  mean either sex.
+  
+  *** SEND ***
+  *** SSTART 014.0 014.0 0 HI 1968 ***           
+           
+  SEC. 14.  GENERAL POWER.  The enumeration in this constitution of specified powers
+  shall not be construed as limitations upon the power of the State to provide for the general
+  welfare of the people.
+  
+  *** SEND ***
+  *** SSTART 015.0 014.0 0 HI 1968 ***
+           
+  SEC. 15.  PROVISIONS SELF-EXECUTING.  The provisions of this Constitution shall
+  be self-executing to the fullest extent that their respective natures permit.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 015.0 HI 1968 ***
+             
+  ARTICLE XV
+  
+  REVISION AND AMENDMENT
+  
+  *** SSTART 001.0 015.0 0 HI 1968 ***
+           
+  SEC. 1.  METHODS OF PROPOSAL.  Revisions of or amendments to this constitution
+  may be proposed by constitutional convention or by the legislature.
+  
+  *** SEND ***
+  *** SSTART 002.0 015.0 0 HI 1968 ***
+           
+  SEC. 2.  CONSTITUTIONAL CONVENTION.  The legislature may submit to the
+  electorate at any general or special election the question, "Shall there be a convention to
+  propose a revision of or amendments to the Constitution?" If any ten-year period shall
+  elapse during which the question shall not have been submitted, the lieutenant governor
+  shall certify the question, to be voted on at the first general election following the
+  expiration of such period.
+           
+  ELECTION OF DELEGATES.  If a majority of the ballots cast upon such question be in
+  the affirmative, delegates to the convention shall be chosen at the next regular election
+  unless the legislature shall provide for the election of delegates at a special election.
+       Notwithstanding any provision in this constitution to the contrary, other than Section 3
+  of Article XIV, any qualified voter of the district concerned shall be eligible to
+  membership in the convention.
+       Unless the legislature shall otherwise provide, there shall be the same number of
+  delegates to the convention, who shall be elected from the same areas, and the convention
+  shall be convened in the same manner and have the same powers and privileges, as nearly
+  as practicable, as provided for the convention of 1968.
+  
+  ORGANIZATION; PROCEDURE.  The convention shall determine its own organization
+  and rules of procedure. It shall be the sole judge of the elections, returns and qualifications
+  of its members and, by a two-thirds vote, may suspend or remove any member for cause.
+  The governor shall fill any vacancy by appointment of a qualified voter from the district
+  concerned.
+           
+  RATIFICATION; APPROPRIATIONS.  The convention shall provide for the time and
+  manner in which the proposed constitutional revision or amendments shall be submitted to
+  a vote of the electorate. The revision or amendments shall be effective only if approved at
+  a general election by a majority of all the votes tallied upon the question, this majority
+  constituting at least thirty-five percent of the total vote cast at the election, or at a special 
+  election by a majority of all the votes tallied upon the question, this majority constituting
+  at least thirty percent of the total number of registered voters.
+       The provisions of this section shall be self-executing, but the legislature shall make the
+  necessary appropriations and may enact legislation to facilitate their operation.
+  
+  *** SEND ***
+  *** SSTART 003.0 015.0 0 HI 1968 ***
+  
+  SEC. 3.  AMENDMENTS PROPOSED BY LEGISLATURE.  The legislature may
+  propose amendments to the constitution by adopting the same, in the manner required for
+  legislation, by a two-thirds vote of each house on final reading at any session, after either
+  or both houses shall have given the governor at least ten days' written notice of the final
+  form of the proposed amendment, or, with or without such notice, by a majority vote of
+  each house on final reading at each of two successive sessions.
+       Upon such adoption, the proposed amendments shall be entered upon the journals,
+  with the ayes and noes, and published once in each of four successive weeks in at least one
+  newspaper of general circulation in each senatorial district wherein such a newspaper is   
+  published, within the two months' period immediately preceding the next general election.
+       At such general election the proposed amendments shall be submitted to the electorate
+  for approval or rejection upon a separate ballot.
+       The conditions of and requirements for ratification of such proposed amendments shall
+  be the same as provided in Section 2 of this article for ratification at a general election.
+  
+  *** SEND ***
+  *** SSTART 004.0 015.0 0 HI 1968 ***
+  
+  SEC. 4.  VETO.  No proposal for amendment of the constitution adopted in either manner
+  provided by this article shall be subject to veto by the governor.
+  
+  *** SEND ***
+  *** SSTART 005.0 015.0 0 HI 1968 ***
+           
+  SEC. 5.  CONFLICTING REVISIONS OR AMENDMENTS.  If a revision or
+  amendment proposed by a constitutional convention is in conflict with a revision or
+  amendment proposed by the legislature and both are submitted to the electorate at the
+  same election and both are approved, then the revision or amendment proposed by the
+  convention shall prevail.  If conflicting revisions or amendments are proposed  by the same
+  body and are submitted to the electorate  at the same election and both are approved, then
+  the revision or amendment receiving the highest number of votes shall prevail.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 016.0 HI 1968 ***
+  
+  ARTICLE XVI
+           
+  SCHEDULE
+  
+  *** SSTART 001.0 016.0 0 HI 1968 ***         
+  
+  SEC. 1.  DISTRICTING AND APPORTIONMENT. 
+  
+  (A) Senatorial Districts; Number of Senators. As provided in Section 2 of Article III, until
+  the next reapportionment the senatorial districts and the number of senators to be elected
+  from each shall be as follows:
+       FIRST SENATORIAL DISTRICT: The Island of Hawaii, consisting of the first
+  through fifth representative districts three senators.
+       SECOND SENATORIAL DISTRICT: The Islands of Maui, Molokai, Lanai and
+  Kahoolawe, consisting of the sixth and seventh representative districts two senators.
+       THIRD SENATORIAL DISTRICT: That portion of the Island of Oahu, consisting of
+  the twenty-third and twenty-fourth representative districts three senators.
+       FOURTH SENATORIAL DISTRICT: That portion of the Island of Oahu, consisting
+  of the nineteenth, twentieth, twenty-first and twenty-second representative districts four
+  senators.
+       FIFTH SENATORIAL DISTRICT: That portion of the Island of Oahu, consisting of
+  the fifteenth, sixteenth, seventeenth and eighteenth representative districts four senators.
+       SIXTH SENATORIAL DISTRICT: That portion of the Island of Oahu, consisting of
+  the twelfth, thirteenth and fourteenth representative districts four senators.
+       SEVENTH SENATORIAL DISTRICT: That portion of the Island of Oahu, consisting
+  of the eighth, ninth, tenth and eleventh representative districts four senators.
+       EIGHTH SENATORIAL DISTRICT: The Islands of Kauai and Niihau, consisting of
+  the twenty-fifth representative district one senator.
+  
+  (B)  Representative Districts; Number of Representatives. As provided in Section 3 of
+  Article III, until the next reapportionment the representative districts and the number of
+  representatives to be elected from each shall be as follows:
+       FIRST REPRESENTATIVE DISTRICT: That portion of the Island of Hawaii known
+  as Puna and Kau and that portion of South Hilo, more particularly described as follows:
+  Beginning at the junction of Haihai Street and Ainaola Drive and running (1) easterly
+  along Haihai Street extended to Kanoelehua Avenue; (2) southerly along Kanoelehua
+  Avenue for about 100 feet to the boundary between the Panaewa Farm Lots and the
+  Hawaiian Home Land of Panaewa; (3) easterly along the north boundary of the Panaewa
+  Farm Lots to the old Puna Railroad; (4) easterly along a line that is parallel to Haihai
+  Street and extends to the South Hilo-Puna Boundary; (5) southwesterly along said South
+  Hilo-Puna Boundary to a point where the prolongation of the southwest end of Waikahe
+  Street intersects the South Hilo-Puna Boundary; (6) northerly along the said prolongation
+  and along Waikahe Street to the intersection of Waikahe Street and Ainaola Drive; (7)
+  northerly and northeasterly along Ainaola Drive to the point of beginning one
+  representative.
+       SECOND REPRESENTATIVE DISTRICT: That portion of the Island of Hawaii
+  being the southern portion of South Hilo, more particularly described as follows:
+  Beginning at the seashore at the mouth of Wailuku River and running. (1) southeasterly
+  along the seashore to the South Hilo-Puna Boundary; (2) southwesterly along the South
+  Hilo-Puna Boundary to a line that is parallel to Haihai Street and extends from the
+  intersection of the north boundary of Panaewa Farm Lots and the old Puna Railroad to the
+  South Hilo-Puna Boundary; (3) westerly along said line to the old Puna Railroad; (4)
+  westerly along the north boundary of the Panaewa Farm Lots to Kanoelehua Avenue; (5)
+  northerly along Kanoelehua Avenue for about 100 feet to a point where the prolongation
+  of Haihai Street would meet said avenue; (6) westerly along said prolongation along
+  Haihai Street to Ainaola Drive; (7) southwesterly and southerly along Ainaola Drive to the
+  intersection of Ainaola Drive and Waikahe Street; (8) southerly along Waikahe Street and
+  the prolongation of Waikahe Street to the South Hilo-Puna Boundary; (9) southwesterly,
+  northwesterly and southwesterly along the South Hilo-Puna Boundary to the Kau
+  Boundary; (10) northwesterly along the South Hilo-Kau Boundary; (11) northwesterly
+  and northeasterly along the South Hilo-North fib Boundary to a point where the Paukaa-
+  Piihonua Boundary intersects said South Hilo-North Hilo Boundary; (12) southeasterly
+  along the Paukaa-Piihonua Boundary to Honolii Stream; (13) southerly along the upper
+  boundaries of Kaiwiki and Alae to Awehi Stream; (14) southeasterly along Awehi Stream
+  on into Waiau Stream to its junction with Alae Stream; (15) westerly along said Alae
+  Stream to the Hilo-Forest Reserve Boundary; (16) southwesterly along the lower
+  boundary of the Hilo Forest Reserve for a distance of 6780 feet; (17) southeasterly along
+  Hookelekele Stream for a distance of 7157 feet, to its junction with Wailuku River; (18)
+  southerly along Wailuku River and Kahoama Stream to the Hilo Forest Reserve
+  Boundary; (19) southeasterly about 0.2 miles to an angle in the Hio Forest Reserve; (20)
+  southwesterly along the Hilo Forest Reserve to the Punahoa 1 and Ponahawai Boundary;
+  (21) easterly along said boundary and along Waipahoehoe Stream to Akolea Road; (22)
+  northerly along Akolea Road to the Punahoa 1 and 2 Boundary; (23) easterly along
+  Punahoa 1 and 2 Boundary to Ainako Avenue; (24) northerly along Ainako Avenue to the
+  old Piihonua Road; (25) southeasterly along the old Piihonua Road to the Piihonua and
+  Punahoa 2 Boundary; (26) easterly along the Piihonua and Punahoa 2 Boundary to the
+  HiloWatershed Reservation (Executive Order 1418); (27) southerly and easterly along the  
+      northerly side of said reservation to the southeast corner of said Hilo Watershed
+  Reservation; (28) southerly along the west side of Block "S" which fronts on the west side
+  of Ekaha Street; (29) southeasterly across Kaumana Road to a point where the Kaumana
+  Road intersects the Hilo Boarding School Ditch; (30) easterly along the Hilo Boarding
+  School Ditch to Hoomana Street; (31) northwesterly along Hoomana Street to Punahale
+  Street; (32) northeasterly along Punahale Street to Punawai Street; (33) northerly along
+  Punawai Street and the prolongation of Punawai Street to Wailuku River; (34) easterly
+  along Wailuku River to the point of beginning two representatives.
+       THIRD REPRESENTATIVE DISTRICT: That portion of the Island of Hawaii being
+  the northern portion of South Hilo, more particularly described as follows: Beginning at
+  the seashore on the North Hilo-South Hilo Boundary and running (1) southeasterly and
+  southerly along the seashore to the mouth of Wailuku River; (2) Westerly along Wailuku
+  River to the prolongation of Punawai Street; (3) southerly along said prolongation and
+  along Punawai Street to Punahale Street; (4) southwesterly along Punahale Street to
+  Hoomana Street; (5) southeasterly along Hoomana Street to its junction with the Hilo
+  Boarding School Ditch; (6) westerly along Hilo Boarding School Ditch to its junction with
+  Kaumana Road; (7) northwesterly across Kaumana Road to the west boundary of Block
+  "S" which fronts on the west side of Ekaha Street; (8) northerly along the west side of
+  said block to the southeast corner of the Hilo Watershed Reservation (Executive Order
+  1418); (9) westerly along the southerly side of said reservation to the common boundary
+  between the lands of Piihonua and Punahoa 2; (10) westerly along said boundary to the
+  old Piihonua Road; (11) southwesterly along the old Piihonua Road to Ainako Avenue;
+  (12) southerly along Ainako Avenue to the common boundary between the lands of
+  Punahoa 1 and 2; (13) westerly along said boundary to Akolea Road; (14) southerly along
+  Akolea Road to Waipahoehoe Stream; (15) westerly along Waipahoehoe Stream and the
+  common boundary between Punahoa 1 and Ponahawai for a distance of approximately 2.2
+  miles to the Hilo Forest Reserve; (16) northeasterly along the Hilo Forest Reserve for a
+  distance of approximately 1.5 miles to angle in same; (17) northwesterly approximately
+  0.2 miles to Kahoama Stream; (18) northerly along Kahoama Stream and Wailuku River
+  to the junction of Hookelekele Stream; (19) northwesterly along Hookelekele Stream for a
+  distance of 7157 feet; (20) northeasterly along the lower boundary of Hilo Forest Reserve
+  for a distance of 6780 feet to Aale Stream; (21) easterly along said Aale Stream to its
+  junction with Waiau Stream; (22) northwesterly along Waiau Stream on into Awehi
+  Stream to the upper boundary of Alae; (23) northerly along the upper boundaries of Alae
+  and Kaiwiki to Honolii Stream; (24) northwesterly along the Paukaa-Piihonua Boundary
+  to the North Hilo-South Hilo Boundary; (25) northeasterly along the North Hilo-South
+  Hilo Boundary to the point of beginning one representative.
+       FOURTH REPRESENTATIVE DISTRICT: That portion of the Island of Hawaii
+  known as North Kohala, Hamakua and North Hilo one representative.
+       FIFTH REPRESENTATIVE DISTRICT: That portion of the Island of Hawaii known
+  as South Kona, North Kona and South Kohala one representative.
+       SIXTH REPRESENTATIVE DISTRICT: The Islands of Molokai and Lanai and that
+  portion of the Island of Maui that includes Lahaina and the portion of Wailuku that lies
+  west of the following described line: Beginning at the seashore near Kahului Beach Road
+  at the end of the west breakwater of Kahului Harbor and running (1) southwesterly in a
+  straight line to the intersection of Kaahumanu Avenue and South Papa Avenue; (2)
+  southwesterly along South Papa Avenue to the northeast corner of Lot 7-1 of Kahului
+  Town Development, Seventh Increment (File Plan 766); (3) westerly along the north
+  boundaries of Kahului Town Development, Seventh Increment (File Plan 766) to the west
+  corner of Lot 7-12 of said File Plan 766; (4) southerly along the westerly boundaries of
+  Kahului Town Development, Seventh Increment (File Plan 766) and Eighth Increment
+  (File Plan 906) to the south corner of Lot 8-149 of said File Plan 906; (5) southwesterly in
+  a straight line to the intersection of Honoapiilani Highway and Kihei Road; (6)
+  southeasterly in a straight line to the seashore which is approximately 3500 feet east from
+  the southeast corner of Maalaea Beach Lots two representatives.
+       SEVENTH REPRESENTATIVE DISTRICT: The Island of Kahoolawe and that
+  portion of the Island of Maui that includes Makawao, Hana and the portion of Wailuku
+  that lies east of the following described line:  Beginning at a point on the seashore that is    
+     approximately 3500 feet east of the southeast corner of Maalaea Beach Lots and
+  running (1) northwesterly in a straight line to the intersection of Honoapiilani Highway
+  and Kihei Road; (2) northeasterly in a straight line to the south corner of Lot 8-149 of
+  Kahului Town Development, Eighth Increment (File Plan 906); (3) northerly along the
+  westerly boundaries of Kahului Town Development, Eighth Increment (File Plan 906) and
+  Seventh Increment (File Plan 766) to the west corner of Lot 7-12 of said File Plan 766; (4)
+  easterly along the north boundaries of Kahului Town Development, Seventh Increment
+  (File Plan 766) to the northeast corner of Lot 7-1 of said File Plan 766; (5) northeasterly
+  along South Papa Avenue to the intersection of South Papa and Kaahumanu Avenues; (6)
+  northeasterly in a straight line to the seashore near the Kahului Beach Road at the end of
+  the west breakwater of Kahului Harbor two representatives.
+       EIGHTH REPRESEWTA TIVE DISTRICT: That portion of the Island of Oahu for
+  convenience herein referred to as Waialae-Nui, Aina Haina, Niu, Kuliouou and Hawaii Kai
+  and lying east of the Waialae-Nui Gulch and south of the top of Koolau Range to the       
+  ocean and more particularly described as follows:  Beginning at the seashore at the east
+  corner of Waialae Beach Park and running (1) northerly along the northeast boundary of
+  Waialae Beach Park to Kahala Avenue; (2) northeasterly along Kahala Avenue to the
+  Waialae Golf Course boundary; (3) northerly along the southwest boundary of Waialae
+  Golf Course to the west corner of Lot 49 as shown on Map 17 of Land Court Application
+  828; (4) northerly along Kapakahi Stream to its junction with Waialae-Nui Stream; (5)
+  northerly along Waialae-Nui Stream crossing Kalanianaole Highway and continuing
+  northeasterly along Waialae-Nui Stream and Waialae-Nui Gulch to a place called "Puu
+  Lanipo" at the top of Koolau Range; (6) easterly along the top of Koolau Range to
+  Makapuu Point; (7) southwesterly along the seashore to the point of beginning. This
+  district includes the Northwestern Hawaiian Islands from Nihoa Island to Kure Atoll
+  excluding the Midway Islands two representatives.
+       NINTH REPRESENTATIVE DISTRICT: That portion of the Island of Oahu for
+  convenience herein referred to as Diamond Head and Waialae-Kahala, more particularly
+  described as follows: Beginning at the seashore at the southeast corner of Diamond Head
+  Lighthouse and running (1) northerly along the  east boundary of Diamond Head
+  Lighthouse to Diamond Head Road; (2) westerly along Diamond Head Road, and along
+  the westerly boundary of Diamond Head State Monument (Executive Order 2000); (3)
+  continuing northeasterly along the northwesterly boundary of Diamond Head State    
+  Monument (Executive Order 2000) to Campbell Avenue; (4) northeasterly across
+  Campbell Avenue along the northwest boundaries of the Reservoir Lot and Fort Ruger
+  Military Reservation to Monsarrat Avenue; (5) across Monsarrat Avenue and continuing    
+    easterly along the northerly boundary of the Board of Water Supply Lot (Executive
+  Order 1800); (6) easterly along Fort Ruger Military Reservation to Makapuu Avenue; (7)
+  northerly along Makapuu Avenue to Kilauea Avenue; (8) easterly along Kilauea Avenue
+  to 22nd Avenue; (9) northerly along 22nd Avenue to Harding Avenue; (10) westerly along
+  Harding Avenue to 21St Avenue; (11) northerly along 21st Avenue to Lunalilo Freeway;
+  (12) southwesterly along Lunalilo Freeway to Koko Head Avenue; (13) northerly along
+  Koko Head Avenue to Waialae Avenue; (14) westerly along Waialae Avenue to Sierra
+  Drive; (15) northerly along Sierra Drive to the southwest corner of Land Court
+  Application 704; (16) northerly along Land Court Application 704 to the east corner of
+  Lot 14 of Land Court Application 704; (17) westerly along Lot 14; (18) northerly along    
+  Lot 2l; (19) easterly along Lot 11, all of Land Court Application 704; (20) northerly along
+  the easterly boundary of Land Court Application 704 to the south corner of Lot 6 of Land
+  Court Application 704; (21) northerly along the easterly side of Lots 6-A-2, 5-A, 4-A-2,
+  3-A-1, 2-A-1 and 1-A, all of Land Court Application 704; (22) easterly along Pakui
+  Street; (23) northerly along the end of Pakui Street and the westerly boundary of Palolo
+  Hill Tract (File Plans 46 and 48) to the south corner of Lani Hale Tract; (24) westerly
+  along Lani Hale Tract to the east boundary of Palolo Hillside Lots (File Plan 50); (25)
+  northerly along the easterly boundary of Palolo Hillside Lots (File Plan 50) and Land
+  Court Application 610 to the boundary of Waiomao; (26) easterly along the boundary of
+  Waiomao to the west corner of Land Court Application 859; (27) easterly along the north
+  boundary of Land Court Application 859 and the land of Waiomao to "Kalepeamoa"
+  Triangulation Station; (28) northeasterly in a direct line to Waialae-Nui Stream; (29)
+  southerly along Waialae-Nui Stream crossing Kalanianaole Highway to its junction with
+  Kapakahi Stream; (30) southerly along Kapakahi Stream to the west corner of Lot 49 as
+  shown on Map 17 of Land Court Application 828; (31) southerly along the southwest
+  boundary of Waialae Golf Course to Kahala Avenue; (32) southwesterly along Kahala
+  Avenue to the northeast corner of Waialae Beach Park; (33) southerly along the northeast
+  boundary of Waialae Beach Park to the seashore; (34) southwesterly along the seashore to
+  the point of beginning two representatives.
+       TENTH REPRESENTATIVE DISTRICT: That portion of the island of Oahu for
+  convenience herein referred to as Palolo, more particularly described as follows: 
+  Beginning at the intersection of Lunalilo Freeway and Koko Head Avenue and running (1)
+  westerly along Lunalilo Freeway to the Manoa-Palolo Drainage Canal; (2) northerly along
+  the Manoa-Palolo Drainage Canal to Dole Street; (3) easterly along Dole Street to the
+  east boundary of Waahila Faculty Housing; (4) northerly along the east boundary of
+  Waahila Faculty Housing to "Waahila" Triangulation Station; (5) northeasterly along the
+  Manoa-Palolo Boundary to a place called "Mt. Olympus" at the top of Koolau Range; (6)
+  easterly along the top of said range to a place called "Puu Lanipo"; (7) southerly along
+  Waialae-Nui Gulch for a distance of approximately 14,000 feet; (8) southwesterly in a
+  direct line to "Kalepeamoa" Triangulation Station; (9) westerly along the land of Waiomao
+  and the north boundary of Land Court Application 859 to the west corner of Land Court
+  Application 859; (10) westerly along the land of Waiomao to the east corner of Land
+  Court Application 610; (11) southerly along the easterly boundary of Land Court
+  Application 610 and Palolo Hillside Lots (File Plan 50) to the west corner of Lani Hale
+  Tract; (12) easterly along Lani Hale Tract to the westerly boundary of Palolo Hill Tract
+  (File Plan 48); (13) southerly along the westerly boundary of Palolo Hill Tract (File Plans
+  48 and 46) to the southeast corner of Pakui Street; (14) westerly along Pakui Street to the
+  north corner of Lot 1-B of Land Court Application 704; (15) southerly along Lots 1-B, 2-
+  B, 3-B, 3-C, 4-D, 4-C, 5-B, 6-B, all of Land Court Application 704 and along Palolo Hill
+  Tract (File Plan 46) to the east corner of Lot 12-B of Land Court Application 704; (16)
+  westerly along Lot 12-B; (17) southerly along Lots 12-B and 13-B; (18) easterly along
+  Lot 13-B, all of Land Court Application 704; (19) southerly along Palolo Hill Tract (File
+  Plan 46) to Sierra Drive; (20) southerly along Sierra Drive to Waialae Avenue; (21)
+  easterly along Waialae Avenue to Koko Head Avenue; (22) southerly along Koko Head
+  Avenue to the point of beginning two representatives.
+       ELEVENTH REPRESENTATIVE DISTRICT:  That portion of the Island of Oahu
+  for convenience herein referred to as Kaimuki and Kapahulu, more particularly described
+  as follows: Beginning at the intersection of Kapahulu Avenue and Lunalilo Freeway and
+  running (1) southeasterly along Lunalilo Freeway to 21st Avenue; (2) southwesterly along
+  21st Avenue to Harding Avenue; (3) southeasterly along Harding Avenue to 22nd
+  Avenue; (4) southwesterly along 22nd Avenue to Kilauea Avenue; (5) northwesterly along
+  Kilauea Avenue to Makapuu Avenue; (6) southwesterly along Makapuu Avenue to
+  Alohea Avenue; (7) southwesterly along Fort Ruger Military Reservation and along Board
+  of Water Supply Lot (Executive Order 1800) to Trousseau Street; (8) southwesterly along
+  Monsarrat Avenue to Leahi Avenue; (9) northwesterly along Leahi Avenue to Kapahulu
+  Avenue; (10) northerly along Kapahulu Avenue to the point of beginning two
+  representatives.
+       TWELFTH REPRESENTATIVE DISTRICT: That portion of the Island of Oahu for
+  convenience herein referred to as Waikiki, Moiliili and McCully, more particularly
+  described as follows: Beginning at the outer edge of the reef at the entrance to Ala Wai  
+  Yacht Harbor and running (1) northeasterly along the east boundary of Magic Island to
+  the extension of the centerline of the Ala Wai Canal; (2) northeasterly along the extended
+  line and along the center of Ala Wai Canal to McCully Bridge; (3) northeasterly along
+  McCully Street to South King Street; (4) southeasterly along South King Street to
+  Isenberg Street; (5) northeasterly along Isenberg Street to Lunalilo Freeway; (6)
+  southeasterly along Lunalilo Freeway to Kapahulu Avenue; (7) southerly along Kapahulu
+  Avenue to Leahi Avenue; (8) southeasterly along Leahi Avenue to Monsarrat Avenue; (9)
+  easterly along Monsarrat Avenue to Trousseau Street; (10) southeasterly, thence
+  southwesterly along the northwest boundary of Fort Ruger Military Reservation to the
+  southwest side of Campbell Avenue; (11) southwesterly thence easterly along the        
+  northwesterly and westerly boundary of Diamond Head State Monument (Executive
+  Order 2000) to Diamond Head Road; (12) easterly along Diamond Head Road to the east
+  boundary of Diamond Head Lighthouse; (13) southerly along the east boundary of
+  Diamond Head Lighthouse to the seashore; (14) westerly along seashore to a point where
+  Kapahulu Avenue extended meets the seashore; (15) westerly along the extension of
+  Kapahulu Avenue to the outer edge of the reef; (16) westerly along the outer edge of the
+  reef to the point of beginning three representatives.
+       THIRTEENTH REPRESENTATIVE DISTRICT:  That portion of the Island of Oahu
+  for convenience herein referred to as Makiki and Manoa, more particularly described as
+  follows: Beginning at the intersection of the Manoa-Palolo Drainage Canal and Lunalilo
+  Freeway and running (1) westerly along Lunalilo Freeway to Pensacola Street; (2)       
+  northeasterly along Pensacola Street to Nehoa Street; (3) easterly along Nehoa Street to a
+  point opposite Lewalani Drive; (4) northeasterly along the top of ridge of the lands of
+  Makiki and Kalawahine to a mountain peak called "Puu Ohia" or "Tantalus"; (5)  
+  northeasterly along the top of the ridge between the lands of Pauoa, Manoa and Nuuanu
+  to a point on the Koolau Range called "Puu Konahuanui"; (6) southeasterly along the top
+  of said range to a place called "Mt. Olympus"; (7) southwesterly along the Manoa-Palolo
+  Boundary to "Waahila" Triangulation Station; (8) southerly along the east boundary of
+  Waahila Faculty Housing to Dole Street; (9) westerly along  Dole Street to Manoa
+  Stream; (10) southerly along Manoa Stream and along Manoa-Palolo Drainage Canal to
+  the point of beginning three representatives.
+       FOURTEENTH REPRESENTATIVE DISTRICT:  That portion of the Island of
+  Oahu for convenience herein referred to as Ala Moana and Lower Makiki, more
+  particularly described as follows: Beginning at the junction of the Honolulu Harbor
+  Channel and the        outer edge of the reef and running (1) northeasterly along the middle
+  of Honolulu Harbor Channel and Honolulu Harbor to the intersection of Nimitz Highway
+  and Nuuanu Avenue; (2) northeasterly along Nuuanu Avenue to Lunalilo Freeway; (3)
+  easterly along Lunalio Freeway to Isenberg Street; (4) southerly along Isenberg Street to
+  South King Street; (5) westerly along South King Street to McCully Street; (6) southerly
+  along McCully Street to Ala Wai Canal; (7) southwesterly along Ala Wai Canal along the
+  center of Ala Wai Canal extended to the east boundary of Magic Island; (8) southerly
+  along the east boundary of Magic Island to the outer edge of the reef; (9) westerly along
+  the outer edge of the reef to the point of beginning two representatives.
+       FIFTEENTH REPRESENTATIVE DISTRICT:  That portion of the Island of Oahu
+  for convenience herein referred to as Pauoa, more particularly described as follows:
+  Beginning at the intersection of Lunalio Freeway and Nuuanu Avenue and running (1)
+  northeasterly along Nuuanu Avenue to the intersection of Wyllie Street and Pali Highway;
+  (2)  northerly along Pali Highway to Nuuanu Pal Drive near Kepola Place; (3)
+  northeasterly along Nuuanu Pali Drive to top of Koolau Range at the Pali Lookout; (4)
+  southeasterly along the top of Koolau Range to a point called "Puu Konahuanui"; (5)
+  southwesterly along top of ridge between the lands of Manoa, Pauoa and Makiki to a
+  mountain peak called "Puu Ohia" or "Tantalus"; (6) southwesterly along the top of the
+  ridge between the lands of Makiki and Kalawahine to the intersection of Nehoa Street and  
+       Lewalani Drive; (7) southwesterly on Nehoa Street to Pensacola Street; (8) southerly
+  along Pensacola Street to Lunalilo Freeway;. (9) westerly along Lunalilo Freeway to the
+  point of beginning two representatives.
+       SIXTEENTH REPRESENTATIVE DISTRICT:  That portion of the Island of Oahu
+  for convenience herein referred to as Nuuanu and Alewa Heights, more particularly
+  described as follows: Beginning at the intersection of Nuuanu Avenue and Lunalio
+  Freeway and running (1) northwesterly along Lunalilo Freeway to the intersection of Liiha
+  Street, School Street and Lunalilo Freeway; (2) northwesterly along North School Street
+  to Likelike Highway; (3) northerly along Likelike Highway to Kalihi Street; (4)
+  northeasterly along Kalihi Street to Akahi Street; (5) southeasterly along Akahi Street to
+  the top of the ridge between the lands of Kamanaiki and Kapalama; (6) northeasterly along
+  the top of said ridge to a point on the Koolau Range called "Puu Lanihuli"; (7) easterly
+  along the top of Koolau Range to Pali Lookout; (8) southwesterly along Nuuanu Pali
+  Drive to Pali Highway near Kepola Place; (9) southerly along Pali Highway to the
+  intersection of Wyllie Street and Nuuanu Avenue; (10) southwesterly along Nuuanu
+  Avenue to the point of beginning two representatives.
+       SEVENTEENTH REPRESENTATIVE DISTRICT: That portion of the Island of
+  Oahu for convenience herein referred to as Kapalama, more particularly described as
+  follows: Beginning at the intersection of Nuuanu Avenue and Lunalilo Freeway and
+  running (1) southwesterly along Nuuanu Avenue to the sea at Honolulu Harbor; (2)
+  southwesterly along the middle of Honolulu Harbor and Honolulu Harbor Channel to the
+  outer edge of the reef; (3) westerly along the outer edge of the reef to a point where
+  Mokauea Street extended meets the outer edge of the reef; (4) northeasterly along said
+  Mokauea Street extended to its intersection with the middle of Kalihi Channel; (5)
+  northerly along Kalihi Channel to the middle of Kalihi Stream at Nimitz Highway; (6)
+  northwesterly along Nimitz Highway to Middle Street; (7) northeasterly along Middle
+  Street to Lunalio Freeway; (8) southeasterly along Lunalio Freeway to the point of
+  beginning two representatives.
+       EIGHTEENTH REPRESENTATIVE DISTRICT:  That portion of the Island of Oahu
+  for convenience herein referred to as Kalihi, more particularly described as follows:
+  Beginning at the intersection of Lunalilo Freeway and Middle Street and running (1)        
+  northeasterly along Middle Street to where the Fort Shafter Military Reservation boundary
+  runs westerly from Middle Street; (2) westerly then northeasterly along Fort Shafter
+  Military Reservation boundary and continuing along Kahauiki Ridge to a point on the top
+  of Koolau Range called "Puu Kahuauli"; (3) southeasterly along the top of Koolau Range
+  to a point on Koolau Range called "Puu Lanihuli"; (4) southwesterly along the top of the
+  ridge between the lands of Kamanaiki and Kapalama to Akahi Street; (5) northwesterly
+  along Akahi Street to Kalihi Street; (6) southwesterly along Kalihi Street to Likelike
+  Highway; (7) southwesterly along Likelike Highway to School Street; (8) southeasterly
+  along School Street to the intersection of School Street, Liliha Street and Lunalilo
+  Freeway; (9) northwesterly along Lunalilo Freeway to the point of beginning two
+  representatives.
+       NINETEENTH REPRESENTATIVE DISTRICT:  That portion of the Island of Oahu
+  for convenience herein referred to as Moanalua, Halawa and Aiea, more particularly
+  described as follows: Beginning at the point where Mokauea Street extended meets the
+  outer edge of the reef and running (1) southwesterly along the outer edge of the reef to a
+  point on the Moanalua-Halawa boundary; (2) northerly along the Moanalua-Halawa
+  boundary to the seashore; (3) westerly along the seashore and along the seashore extended
+  to the center of Pearl Harbor Entrance Channel; (4) northerly along the center of Pearl
+  Harbor Entrance Channel; (5) northeasterly along the center of the channel between Ford
+  Island and Southeast Loch, Pearl Harbor to the boundary between the lands of Waimalu
+  and Kalauao at East Loch, Pearl Harbor; (6) northeasterly along the Waimalu-Kalauao
+  boundary to Kamehameha Highway; (7) southeasterly along Kamehameha Highway to the
+  intersection of Kamehameha Highway and Moanalua Road; (8) northwesterly along
+  Moanalua Road to the Waimalu-Kalauao boundary; (9) northeasterly along the Waimalu-
+  Kalauao boundary to the top of Koolau Range; (10) southeasterly along the top of Koolau
+  Range being the Ewa-Koolaupoko boundary to a point on the top of Koolau Range called
+  "Puu Kahuauli"; (11) southwesterly along the top of Kahauiki Ridge along the southeast
+  boundary of Fort Shafter Military Reservation to a point where the Fort Shafter boundary
+  meets Middle Street; (12) southwesterly along Middle Street to Nimitz Highway; (13)
+  easterly along Nimitz Highway to Kalihi Stream; (14) southerly along Kalihi Stream to the
+  seashore and continuing along Kalihi Channel to a point where the middle of Kalihi
+  Channel meets Mokauea Street extended; (15) southwesterly along Mokauea Street
+  extended to the point of beginning two representatives.
+       TWENTIETH REPRESENTATIVE DISTRICT:  That portion of the Island of Oahu
+  for convenience herein referred to as Ewa, more particularly described as follows:
+  Beginning at the seashore at the seaward end of Waimanalo Gulch located about 2300 feet
+  south of "Kahe Point" Triangulation Station and running (1) northeasterly along
+  Waimanalo Gulch to its beginning; (2) northeasterly on a straight line to a point called
+  "Puu Manawahua"; (3) northeasterly along the top of Waianae Range being the Waianae-
+  Ewa boundary to a point called "Puu Palikea"; (4) southeasterly on a straight line to
+  Reservoir 31 of the Oahu Sugar Company; (5) northeasterly along Waiahole Ditch to
+  Waikele Stream; (6) southerly along Waikele Stream to the intersection of Waikele and
+  Kipapa Streams; (7) northeasterly along Kipapa Stream to Kamehameha Highway; (8)
+  southeasterly along Kamehameha Highway to the roadway leading to Mililani Memorial
+  Park; (9) northeasterly along said roadway leading to Mililani Memorial Park to the
+  middle of Panakauahi Gulch; (10) northerly along the middle of Panakauahi Gulch to the
+  siphon at the Waiahole Ditch; (11) northwesterly along Waiahole Ditch to Kipapa Stream;
+  (12) northeasterly along Kipapa Stream to the top of Koolau Range; (13) southeasterly
+  along top of Koolau Range being the Ewa-Koolaupoko boundary to the Waimalu-Kalauao
+  boundary; (14) southwesterly along the Waimalu-Kalauao boundary to Moanalua Road;
+  (15) southeasterly along Moanalua Road to the intersection of Moanalua Road  and
+  Kamehameha Highway; (16) northwesterly along Kamehameha Highway to the Waimalu-
+  Kalauao boundary; (17) southwesterly along the Waimalu-Kalauao boundary to East
+  Loch, Pearl Harbor; (18) southwesterly along center of the channel between Ford Island
+  and Southeast Loch, Pearl Harbor to the center of Pearl Harbor Entrance Channel; (19)
+  southerly along the center of the Pearl Harbor Entrance Channel to a point that meets the
+  seashore extended; (20) southwesterly along the seashore extended and continuing
+  southwesterly and northwesterly along the seashore to the point of beginning three
+  representatives.
+       TWENTY-FIRST REPRESENTATIVE DISTRICT: That portion of the Island of
+  Oahu for convenience herein referred to as Waianae and a portion of Honouliuli, more
+  particularly described as follows: Beginning at the seashore at Kaena Point on the
+  Waialua-Waianae boundary and running (1) southeasterly along the crest of the Waianae
+  Mountains being the boundary between Waianae and Waialua, Wahiawa and Ewa to a
+  point called "Puu Manawahua"; (2) southwesterly on a straight line to the beginning of
+  Waimanalo Gulch; (3) southwesterly along Waimanalo Gulch to the seashore located
+  about 2300 feet south of Kahe Point; (4) northwesterly along the seashore to the point of
+  beginning one representative.
+       TWENTY-SECOND REPRESENTATIVE DISTRJCT: That portion of the Island of
+  Oahu for convenience herein referred to as Waialua and Wahiawa, more particularly
+  described as follows:  Beginning at the seashore on the Waialua and Koolauloa boundaries
+  and running (1) easterly and southeasterly along the top of Koolau Range being the
+  Waialua-Koolauloa boundary to the intersection of Kipapa Stream and the top of Koolau
+  Range; (2) southwesterly along Kipapa Stream to Waiahole Ditch; (3) southeasterly along
+  Waiahole Ditch to the siphon located at the center of Panakauahi Gulch; (4) southerly
+  along the middle of Panakauahi Gulch to the roadway leading to the Mililani Memorial
+  Park; (5) southwesterly along the roadway that leads out of Mililani Memorial Park to
+  Kamehameha Highway; (6) northwesterly along Kamehameha Highway to Kipapa Stream;
+  (7) southwesterly along Kipapa Stream to its junction with Waikele Stream; (8)
+  northwesterly along Waikele Stream to Waiahole Ditch; (9) southwesterly along Waiahole
+  Ditch to Reservoir 31; (10) northwesterly on a direct line from Reservoir 31 to a point on
+  the top of Waianae Range called "Puu Palikea"; (11) northwesterly along top of Waianae
+  Range along the boundary between Waianae and Ewa, Wahiawa and Waialua to Kaena
+  Point at seashore; (12) northeasterly along the seashore to the point of beginning two
+  representatives.
+       TWENTY-THIRD REPRESENTATIVE DISTRICT: That portion of the Island of
+  Oahu for convenience herein referred to as Koolauloa and the northwestern portion of
+  Koolaupoko, more particularly described as follows: Beginning at the seashore on the
+  Waialua-Koolauloa boundary and running (1) northeasterly and southeasterly along the      
+  seashore to the southeast corner of Kaneohe Marine Corps Air Station; (2) southwesterly
+  along the south boundary of the Kaneohe Marine Corps Air Station to Kaneohe Bay
+  Drive; (3) southwesterly on a straight line to "Puu Papaa" Triangulation Station; (4)
+  southwesterly along the top of the ridge to the Kailua-Kaneohe boundary; (5)
+  southwesterly along the Kailua-Kaneohe boundary to a point where the Kailua-Kaneohe
+  boundary intersects Kamehameha Highway; (6) southeasterly along Kamehameha       
+  Highway to its junction with Kalanianaole Highway and Pali Highway; (7) southerly and
+  continuing along Pali Highway to a point opposite the Pali Lookout; (8) northwesterly
+  along the top of the Koolau Range being the boundary between Koolaupoko and
+  Honolulu, Ewa and Wahiawa and Koolauloa and Wahiawa and Waialua to the point of
+  beginning, and the Island of Moku O Loe (Coconut Island) three representatives.
+       TWENTY-FOURTH REPRESENTATIVE DISTRICT: That portion of the Island of
+  Oahu for convenience herein referred to as the southeastern portion of Koolaupoko, more
+  particularly described as follows: Beginning at the seashore at Makapuu Point and running
+  (1) westerly along the top of Koolau Range being the Honolulu-Koolaupoko boundary to
+  the Pali Lookout; (2) northeasterly along Pali Highway to its junction with Kamehameha
+  Highway and  KalanianaoleHighway;  (3)  northwesterly on Kamehameha Highway to the
+  boundary between Kaneohe and Kailua; (4) northeasterly along the Kailua-Kaneohe
+  boundary to the point where the Kailua-Kaneohe boundary angles off the top of the ridge
+  towards Kailua Bay; (5) northeasterly along the top of the ridge to "Puu Papaa"
+  Triangulation Station; (6) northeasterly on a straight line to a point where the south
+  boundary of the Kaneohe Marine Corps Air Station intersects Kaneohe Bay Drive; (7)
+  easterly along the south boundary of Kaneohe Marine Corps Air Station to the seashore;
+  (8) southeasterly along the seashore to the point of beginning three representatives.
+       TWENTY-FIFTH REPRESENTATIVE DISTRICT: The Islands of Kauai and
+  Niihau three representatives.
+  
+  *** SEND ***
+  *** SSTART 002.0 016.0 0 HI 1968 ***
+           
+  SEC. 2.  1968 SENATORIAL ELECTIONS.  Senators elected in the 1968 general
+  election shall serve for two-year terms.
+  
+  *** SEND ***
+  *** SSTART 003.0 016.0 0 HI 1968 ***
+        
+  SEC. 3.  TWENTY-SIXTH SENATOR, ALLOCATED TO KAUAI.  Effective for the
+  first general election following ratification of the twelfth paragraph of Section 4 of Article
+  III and until the next reapportionment, one senator shall be added to the twenty-five
+  members of the senate as provided and with the effect set out in the twelfth paragraph of    
+     Section 4 of Article III and such senator shall be  allocated to the basic island unit of
+  Kauai.
+  
+  *** SEND ***
+  *** SSTART 004.0 016.0 0 HI 1968 ***
+            
+  SEC. 4.  EFFECTIVE DATE FOR APPORTIONMENT AND DISTRICTING.  The
+  senatorial and representative districts and the numbers to be elected from each as set forth
+  in Sections 1A and l B of this article shall become effective for the first general election
+  following ratification of the amendment to Section 2 of Article III and of Sections 1A and
+  l B of this article.
+  
+  *** SEND ***
+  *** SSTART 005.0 016.0 0 HI 1968 ***
+           
+  SEC. 5.  REAPPORTIONMENT COMMISSION; ACTIVATION.  Anything in this
+  constitution to the contrary notwithstanding, if Sections 1 A and 1 B of this article are not
+  ratified, the reapportionment commission shall be constituted on or before March 1, 1969.
+  
+  *** SEND ***
+  *** SSTART 006.0 016.0 0 HI 1968 ***
+      
+  SEC. 6.  CONFLICTS BETWEEN APPORTIONMENT PROVISIONS.  Sections 2 and
+  4 of Article III and Sections 1A, 2, 3, 4 and 5 of Article XVI, as amended and added by
+  the constitutional convention of 1968, upon ratification, shall supersede Senate Bill No.
+  1102 of the Regular Session of 1967 even if the latter shall also be ratified. If less than all
+  of the above sections are ratified, then those ratified shall supersede Senate Bill No. 1102
+  to the extent they are in conflict therewith, even if the latter should be ratified.
+  
+  *** SEND ***
+  *** SSTART 007.0 016.0 0 HI 1968 ***
+  
+  SEC. 7.  SALARIES OF LEGISLATORS.  Until otherwise provided by law in 
+  accordance with Section 10 of Article III, the salary of each member of the legislature
+  shall be twelve thousand dollars a year.
+  
+  *** SEND ***
+  *** SSTART 008.0 016.0 0 HI 1968 ***
+  
+  SEC. 8.  START OF BIENNIAL BUDGETING AND APPROPRIATIONS.  Anything in
+  this constitution to the contrary notwithstanding, the provisions relating to biennial
+  budgeting and appropriations in Article VI shall take effect for the biennial period
+  beginning July 1, 1971.
+  
+  *** SEND ***
+  *** SSTART 009.0 016.0 0 HI 1968 ***
+           
+  SEC. 9.  EFFECTIVE DATE AND APPLICATION OF ARTICLE VII, SECTION 2. 
+  The amendments to Section 2 of Article VII shall take effect on the first day of January
+  after three full calendar years have elapsed following their ratification. When the
+  amendments take effect, Article VII shall apply to all county charters, whether adopted
+  before or after the admission of Hawaii into the Union as a state.
+  
+  *** SEND ***
+  *** SSTART 010.0 016.0 0 HI 1968 ***
+           
+  SEC. 10.  CONTINUITY OF LAWS.  All laws in force at the time amendments to this
+  constitution take effect that are not inconsistent with the constitution as amended shall
+  remain in force, mutatis mutandis, until they expire by their own limitations or are
+  amended or repealed by the legislature.
+       Except as otherwise provided by amendments to this constitution, all existing writs,
+  actions, suits, proceedings, civil or criminal liabilities, prosecutions, judgments, sentences,
+  orders, decrees, appeals, causes of action, contracts, claims, demands, titles and rights
+  shall continue unaffected notwithstanding the taking effect of the amendments and may be
+  maintained, enforced or prosecuted, as the case may be, before the appropriate or
+  corresponding tribunals or agencies of or under the State or of the United States, in all
+  respects as fully as could have been done prior to the taking effect of the amendments.
+  
+  *** SEND ***
+  *** SSTART 011.0 016.0 0 HI 1968 ***           
+           
+  SEC. 11.  DEBTS.  The debts and liabilities of the Territory shall be assumed and paid by
+  the State, and all debts owed to the Territory shall be collected by the State.
+  
+  *** SEND ***
+  *** SSTART 012.0 016.0 0 HI 1968 ***
+             
+  SEC. 12.  RESIDENCE, OTHER QUALIFICATIONS.  Requirements as to residence,      
+  citizenship or other status or qualifications in or under the State prescribed by this
+  constitution shall be satisfied pro tanto by corresponding residence, citizenship or other
+  status or qualifications in or under the Territory.
+  
+  *** SEND ***
+  *** SSTART 013.0 016.0 0 HI 1968 ***
+  
+  SEC. 13.  CONDEMNATION OF FISHERIES.  All vested rights in fisheries in the sea
+  waters not included in any fish pond or artificial enclosure shall be condemned to the use
+  of the public upon payment of just compensation, which compensation, when lawfully
+  ascertained, shall be paid out of any money in the treasury of the State not otherwise
+  appropriated.
+  
+  *** SEND ***
+  *** AEND ***
+  
+  EFFECTIVE DATE.  This constitution shall take effect and be in full force immediately
+  upon the admission of Hawaii into the Union as a State.
+  
+  Done in Convention, at Iolani Palace, Honolulu, Hawaii, on the twenty-second day of
+  July, in the year one thousand nine hundred fifty and of the Independence of the United
+  States of America the one hundred and seventy-fifth.
+  
+  *** CEND ***  

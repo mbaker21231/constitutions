@@ -1,0 +1,426 @@
+This file was coded by Trisha Posey and 
+checked by John Wallis on 8/27/2002
+
+It is ready to go.
+
+
+
+*** CSTART DE 09/21/1776 06/30/1792 ***
+
+                CONSTITUTION OF DELAWARE---1776
+
+*** ASTART 9001.0 DE 1776 ***
+*** SSTART 001.00 9001.0 0 DE 1776 ***
+
+The Constitution, or System of Government, agreed to and resolved upon by the Representatives
+in full Convention of the Delaware State, formerly styled "The Government of the Counties of
+New Castle, Kent, and Sussex, upon Delaware," the said Representatives being chosen by the
+Freemen of the said State for that express Purpose.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 001.00 DE 1776 ***
+*** SSTART 001.00 001.00 0 DE 1776 ***
+
+ARTICLE 1. The government of the counties of New Castle, Kent and Sussex, upon Delaware
+shall hereafter in all public and other writings be called The Delaware State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.00 DE 1776 ***
+*** SSTART 001.00 002.00 0 DE 1776 ***
+
+ART. 2. The Legislature shall be formed of two distinct branches; they shall meet once or oftener
+in every year, and shall be called, The General Assembly of Delaware."
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.00 DE 1776 ***
+*** SSTART 001.00 003.00 0 DE 1776 ***
+
+ART. 3. One of the branches of the Legislature shall be called, "The House of Assembly," and
+shall consist of seven Representatives to be chosen for each county annually of such persons as
+are freeholders of the same.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.00 DE 1776 ***
+*** SSTART 001.00 004.00 0 DE 1776 ***
+
+ART. 4. The other branch shall be called "The council," and consist of nine members- three to be
+chosen for each county at the time of the first election of the assembly, who shall be freeholders of
+the county for which they are chosen, and be upwards of twenty-five years of age. At the end of
+one year after the general election, the councillor who had the smallest number of votes in each
+county shall be displaced, and the vacancies thereby occasioned supplied by the freemen of each
+county choosing the same or another person at a new election in manner aforesaid. At the end of
+two years after the first general election, the councillor who stood second in number of votes in
+each county shall be displaced, and the vacancies thereby occasioned supplied by a new election in
+manner aforesaid. And at the end of three years from the first general election, the councillor who
+had the greatest number of votes in each County shall be displaced, and the vacancies thereby
+occasioned supplied by a new election in manner aforesaid. And this rotation of a councillor being
+displaced at the end of three years in each county, and his office supplied by a new choice, shall be
+continued afterwards in due order annually forever, whereby, after the first general election, a
+councillor will remain in trust for three years from the time of his being elected, and a councillor
+will be displaced, and the same or another chosen in each county at every election.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.00 DE 1776 ***
+*** SSTART 001.00 005.00 0 DE 1776 ***
+
+ART. 5. The right of suffrage in the election of members for both houses shall remain as exercised
+by law at present; and each house shall choose its own speaker, appoint its own officers, judge of
+the qualifications and elections of its own members, settle its own rules of proceedings, and direct
+writs of election for supplying intermediate vacancies. They may also severally expel any of their
+own members for misbehavior, but not a second time in the same sessions for the same offence, if
+reelected; and they shall have all other powers necessary for the legislature of a free and
+independent State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.00 DE 1776 ***
+*** SSTART 001.00 006.00 0 DE 1776 ***
+
+ART. 6. All money-bills for the support of government shall originate in the house of assembly,
+and may be altered, amended, or rejected by the legislative council. All other bills and ordinances
+may take, rise in the house of assembly or legislative council, and may be altered, amended, or
+rejected by either.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.00 DE 1776 ***
+*** SSTART 001.00 007.00 0 DE 1776 ***
+
+ART. 7. A president or chief magistrate shall be chosen by joint ballot of both houses, to be taken
+in the house of assembly, and the box examined by the speakers of each house in the presence of
+the other members, and in case the numbers for the two highest in votes should be equal, then the
+speaker of the council shall have an additional casting voice, and the appointment of the person
+who has the majority of votes shall be entered at large on the minutes and journals of each house,
+and a copy thereof on parchment, certified and signed by the speakers respectively, and sealed
+with the great seal of the State, which they are hereby authorized to affix, shall be delivered to the
+person so chosen president, who shall continue in that office three years, and until the sitting of
+the next general assembly and no longer, nor be eligible until the expiration of three years after he
+shall have been out of that office. An adequate but moderate salary shall be settled on him during
+his continuance in office. He may draw for such sums of money as shall be appropriated by the
+General assembly, and be accountable to them for the same; he may, by and with the advice of the
+privy council, lay embargoes or prohibit the exportation of any commodity for any time not
+exceeding thirty days in the recess of the general assembly; he shall have the power of granting
+pardons or reprieves, except where the prosecution shall be carried on by the house of assembly,
+or the law shall otherwise direct, in which cases no pardon or reprieve shall be granted, but by a
+resolve of the house of assembly, and may exercise all the other executive powers of government,
+limited and restrained as by this constitution is mentioned, and according to the laws of the State.
+And on his death, inability, or absence from the State, the speaker of the legislative council for the
+time being shall be vice-president, and in case of his death, inability, or absence from the State, the
+speaker of the house of assembly shall have the powers of a president, until a new nomination is
+made by the general assembly.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.00 DE 1776 ***
+*** SSTART 001.00 008.00 0 DE 1776 ***
+
+ART. 8. A privy council, consisting of four members, shall be chosen by ballot, two by the
+legislative council and two by the house of assembly: Provided, That no regular officer of the
+army or navy in the service and of the continent, or of this, or of any other State, shall be eligible;
+and a member of the legislative council or of the house of assembly being chosen of the privy
+council, and accepting thereof, shall thereby lose his seat. Three members shall be a quorum, and
+their advice and proceedings shall be entered of record, and signed by the members present, (to
+any part of which any member may enter his dissent,) to be laid before the general assembly when
+called for by them. Two members shall be removed by ballot, one by the legislative council and
+one by the house of assembly, at the end of two years, and those who remain the next year after,
+who shall severally be ineligible for the three next years. The vacancies, as well as those
+occasioned by death or incapacity, shall be supplied by new elections in the same manner; and this
+rotation of a privy councillor shall be continued afterwards in due order annually forever. The
+resident may by summons convene the privy council at any time when the public exigencies may
+require, and at such place as he shall think most convenient, when and where they are to attend
+accordingly.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.00 DE 1776 ***
+*** SSTART 001.00 009.00 0 DE 1776 ***
+
+ART. 9. The president, with the advice and consent of the privy council, may embody the militia,
+and act as captain-general and commander-in-chief of them, and the other military force of this
+State, under the laws of the same.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.00 DE 1776 ***
+*** SSTART 001.00 010.00 0 DE 1776 ***
+
+ART. 10. Either house of the general assembly may adjourn themselves respectively. The
+president shall not prorogue, adjourn, or dissolve the general assembly, but he may, with the
+advice of the privy council, or on the application of a majority of either house, call them before
+the time they shall stand adjourned; and the two houses shall always sit at the same time and
+place, for which purpose immediately after every adjournment the speaker of the house of
+assembly shall give notice to the speaker of the other house of the time to which the house of
+assembly stands adjourned.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.00 DE 1776 ***
+*** SSTART 001.00 011.00 0 DE 1776 ***
+
+ART. 11. The Delegates for Delaware to the Congress of the United States of America shall be
+chosen annually, or superseded in the mean time, by joint ballot of both houses in the general.
+assembly.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.00 DE 1776 ***
+*** SSTART 001.00 012.00 0 DE 1776 ***
+
+ART. 12. The president and general assembly shall by joint ballot appoint three justices of the
+supreme court for the State, one of whom shall be chief justice, and a judge of admiralty, and also
+four justices of the courts of common pleas and orphans' courts for each county, one of whom in
+each court shall be styled "chief justice," (and in case of division on the ballot the president shall
+have an additional casting voice,) to be commissioned by the resident under the great seal, who
+shall continue in office during good behavior; and during the time the justices of the said supreme
+court and courts of common pleas remain in office, they shall hold none other except in the
+militia. Any one of the justices of either of said courts shall have power, in case of the noncoming
+of his brethren, to open and adjourn the court. An adequate fixed but moderate salary shall be
+settled on them during their continuance in office. The president and privy council shall appoint
+the secretary, the attorney-general, registers for the probate of wills and granting letters of
+administration, registers in chancery, clerks of the courts of common pleas and orphans' courts,
+and clerks of the peace, who shall be commissioned as aforesaid, and remain in office during five
+years, if they behave themselves well; during which time the said registers in chancery and clerks
+shall not be justices of either of the said courts of which they are officers, but they shall have
+authority to sign all writs by them issued, and take recognizances of bail. The justices of the peace
+shall be nominated by the house of assembly; that is to say, they shall name twenty-four persons
+for each county, of whom the president, with the approbation of the privy council, shall appoint
+twelve, who shall be commissioned as aforesaid , and continue in office during seven years, if they
+behave themselves well; and in case of vacancies, or if the legislature shall think proper to increase
+the number, they shall be nominated and appointed in like manner. The members of the legislative
+and privy councils shall be justices of the peace for the whole State, during their continuance in
+trust; and the justices of the courts of common pleas shall be conservators of the peace in their
+respective counties.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 013.00 DE 1776 ***
+*** SSTART 001.00 013.00 0 DE 1776 ***
+
+ART. 13 The justices of the courts of common pleas and orphans' courts shall have the power of
+holding inferior courts of chancery, as heretofore, unless the legislature shall otherwise direct.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 014.00 DE 1776 ***
+*** SSTART 001.00 014.00 0 DE 1776 ***
+
+ART. 14. The clerks of the supreme court shall be appointed by the chief justice thereof, and the
+recorders of deeds, by the justices of the courts of common pleas for each county severally, and
+commissioned by the president, under the great seal, and continue in office five years, if they
+behave themselves well.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 015.00 DE 1776 ***
+*** SSTART 001.00 015.00 0 DE 1776 ***
+
+ART. 15. The sheriffs and coroners of the respective counties shall be chosen annually, as
+heretofore; and any person, having served three years as sheriff, shall be ineligible for three years
+after; and the president and privy council shall have the appointment of such of the two
+candidates, returned for said offices of sheriff and coroner, as they shall think best qualified, in the
+same manner that the governor heretofore enjoyed this power.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 016.00 DE 1776 ***
+*** SSTART 001.00 016.00 0 DE 1776 ***
+
+ART. 16. The general assembly, by joint ballot, shall appoint the generals and field-officers, and
+all other officers in the army or navy of this State; and the president may appoint, during pleasure,
+until otherwise directed by the legislature, all necessary civil officers not hereinbefore mentioned.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 017.00 DE 1776 ***
+*** SSTART 001.00 017.00 0 DE 1776 ***
+
+ART. 17. There shall be an appeal from the supreme court of Delaware, in matters of law and
+equity, to a court of seven persons, to consist of the president for the time being, who shall
+preside therein, and six others, to be appointed, three by the legislative council, and three by the
+house of assembly, who shall continue in office during good behavior, and be commissioned by
+the president, under the great seal; which court shall be styled the "court of appeals," and have all
+the authority and powers heretofore given by law in the last resort to the King in council, under
+the old government. The secretary shall be the clerk of this court; and vacancies therein
+occasioned by death or incapacity, shall be supplied by new elections, in manner aforesaid.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 018.00 DE 1776 ***
+*** SSTART 001.00 018.00 0 DE 1776 ***
+
+ART. 18. The justices of the supreme court and courts of common pleas, the members of the
+privy council, the secretary, the trustees of the loan office, and clerks of the court of common
+pleas, during their continuance in office, and all persons concerned in any army or navy contracts,
+shall be ineligible to either house of assembly; and any member of either house accepting of any
+other of the offices herein before mentioned (excepting the office of a justice of the peace) shall
+have his seat thereby vacated, and a new election shall be ordered.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 019.00 DE 1776 ***
+*** SSTART 001.00 019.00 0 DE 1776 ***
+
+ART. 19. The legislative council and assembly shall have the power of making the great seal of
+this State, which shall be kept by the president, or, in his absence, by the vice-president, to be
+used by them as occasion may require. It shall be called "The Great Seal of the Delaware State"
+and shall be affixed to all laws and commissions.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 020.00 DE 1776 ***
+*** SSTART 001.00 020.00 0 DE 1776 ***
+
+ART. 20. Commissions shall run in the name of "The Delaware State," and bear test by the
+president.. Writs shall run in the same manner, and bear test in the name of the chief-justice, or
+justice first named in the commissions for the several courts, and be sealed with the public seals of
+such courts. Indictments shall conclude, "Against the peace and dignity of the State."'
+
+*** SEND ***
+*** AEND ***
+*** ASTART 021.00 DE 1776 ***
+*** SSTART 001.00 021.00 0 DE 1776 ***
+
+ART. 21. In case of vacancy of the offices above directed to be filled by the president and general
+assembly, the president and privy council may appoint others in their stead until there shall be a
+new election.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 022.00 DE 1776 ***
+*** SSTART 001.00 022.00 0 DE 1776 ***
+
+ART. 22. Every person who shall be chosen a member of either house, or appointed to any office
+or place of trust, before taking his seat, or entering upon the execution of his office, shall take the
+following oath, or affirmation, if conscientiously scrupulous of taking an oath, to wit:
+I, A B, will bear true allegiance to the Delaware State, submit to its constitution and laws, and do
+no act wittingly whereby the freedom thereof may be prejudiced."
+And also make and subscribe the following declaration, to wit:
+
+"I, A B, do profess faith in God the Father, and in Jesus Christ His only Son, and in the Holy
+Ghost, one God, blessed for evermore; and I do acknowledge the holy scriptures of the Old and
+New Testament to be given by divine inspiration."
+
+And all officers shall also take an oath of office.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 023.00 DE 1776 ***
+*** SSTART 001.00 23.00 0 DE 1776 ***
+
+ART. 23. The president, when he is out of office, and within eighteen months after, and all others
+offending against the State, either by maladministration, corruption, or other means, by which the
+safety of the Commonwealth may be endangered, within eighteen months after the offence
+committed, shall be impeachable by the house of assembly before the legislative council; such
+impeachment to be prosecuted by the attorney-general, or such other person or persons as the
+house of assembly may appoint, according to the laws of the land. If found guilty, he or they shall
+be either forever disabled to hold any office under government, or removed from office pro
+tempore, or subjected to such pains and penalties as the laws shall direct. And all officers shall be
+removed on conviction of misbehavior at common law, or on impeachment, or upon the address
+of the general assembly.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 024.00 DE 1776 ***
+*** SSTART 001.00 024.00 0 DE 1776 ***
+
+ART. 24. All acts of assembly in force in this State on the 15th day of May last (and not hereby
+altered, or contrary to the resolutions of Congress or of the late house of assembly of this State)
+shall so continue, until altered or repealed by the legislature of this State, unless where they are
+temporary, in which case they shall expire at the times respectively limited for their duration.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 025.00 DE 1776 ***
+*** SSTART 001.00 025.00 0 DE 1776 ***
+
+ART. 25. The common law of England, as well as so much of the statute law as has been
+heretofore adopted in practice in this State, shall remain in force, unless they shall be altered by a
+future law of the legislature; such parts only excepted as are repugnant to the rights and privileges
+contained in this constitution, and the declaration of rights, &c., agreed to by this convention.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 026.00 DE 1776 ***
+*** SSTART 001.00 026.00 0 DE 1776 ***
+
+ART. 26. No person hereafter imported into this State from Africa ought to be held in slavery
+under any pretence whatever; and no negro, Indian, or mulatto slave ought to be brought into this
+State, for sale, from any part of the world.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 027.00 DE 1776 ***
+*** SSTART 001.00 027.00 0 DE 1776 ***
+
+ART. 27. The first election for the general assembly of this State shall be held on the 21st day of
+October next, at the court-houses in the several counties, in the manner heretofore used in the
+election of the assembly, except as to the choice of inspectors and assessors, where assessors have
+not been chosen on the 16th day of September, instant, which shall be made on the morning of the
+day of election, by the electors, inhabitants of the respective hundreds in each county. At which
+time the sheriffs and coroners, for the said counties respectively, are to be elected; and the present
+sheriffs of the counties of Newcastle and Kent may be rechosen to that office until the 1st day of
+October, A. D. 1779; and the present sheriff for the county of Sussex may be rechosen to that
+office until the 1st day of October, .A. D. 177 8, provided the freemen think proper to reelect
+them at every general election; and the present sheriff, and coroners, respectively, shall continue
+to exercise their offices as heretofore, until the sheriffs and coroners, to be elected on the said
+21st day of October, shall be commissioned and sworn into office. The members of the legislative
+council and assembly shall meet, for transacting the business of the State, on the 28th day of
+October next, and continue in office until the 1st day of October, which will be in the year 1777;
+on which day, and on the 1st day of October in each year forever after, the legislative council,
+assembly, sheriffs, and coroners shall be chosen, by ballot, in manner directed by the several laws
+of this State, for regulating elections of members of assembly and sheriffs and coroners; and the
+general assembly shall meet on the 20th day of the same month for the transacting the business of
+the State; and if any of the said 1st and 10th days of October should be Sunday, then, and in such
+case, the elections shall be held, and the general assembly meet, the next day following.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 028.00 DE 1776 ***
+*** SSTART 001.00 028.00 0 DE 1776 ***
+
+ART. 28. To prevent any violence or force being used at the said elections, no person shall come
+armed to any of them, and no muster of the militia shall be made on that day; nor shall any
+battalion or company give in their votes immediately succeeding each other, if any other voter,
+who offers to vote, objects thereto; nor shall any battalion or company, in the pay of the
+continent, or of this or any other State be suffered to remain at the time and place of holding the
+said elections, nor within one mile of the said places respectively, for twenty-four hours before the
+opening said elections, nor within twenty-four hours after the same are closed, so as in any
+manner to impede the freely and conveniently carrying on the said election: Provided always, That
+every elector may, in a peaceable and orderly manner, give in his vote on the said day of election.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 029.00 DE 1776 ***
+*** SSTART 001.00 029.00 0 DE 1776 ***
+
+ART. 29. There shall be no establishment of any one religious sect in this State in preference to
+another; and no clergyman or preacher of the gospel, of any denomination, shall be capable of
+holding any civil office in this State, or of being a member of either of the branches of the
+legislature, while they continue in the exercise of the pastoral function.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 030.00 DE 1776 ***
+*** SSTART 001.00 030.00 0 DE 1776 ***
+
+ART. 30. No article of the declaration of rights and fundamental rules of this State, agreed to by
+this convention, nor the first, second, fifth, (except that part thereof that relates to the right of
+sufferage,) twenty-sixth, and twenty-ninth articles of this constitution, ought ever to be violated
+on any pretence whatever. No other part of this constitution shall be altered, changed, or
+diminished without the consent of five parts in seven of the assembly, and seven members of the
+legislative council.
+
+     Attest: 
+     GEORGE READ, President.
+
+     JAMES BOOTH, Secretary.
+     Friday, September 10, 1776.
+
+*** SEND ***
+*** AEND ***
+*** CEND ***

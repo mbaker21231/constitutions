@@ -1,0 +1,1526 @@
+  This is ready to go.
+            
+  JW 8/26/02
+  
+  
+  
+  
+  *** CSTART KS 10/04/1859 99/99/9999 ***
+  
+  CONSTITUTION OF KANSAS 1859 
+  
+  [Note:  This constitution went into effect on January 19, 1861 when Kansas was admitted
+  to the Union.]
+  
+  *** ASTART 9001.0 KS 1859 ***
+  *** SSTART 001.0 9001.0 0 KS 1859 ***
+  
+  PREAMBLE
+  We, the people of Kansas, grateful to Almighty God for our civil and religious privileges,
+  in order to insure the full enjoyment of our rights as American citizens, do ordain and
+  establish the Constitution of the State of Kansas, with the following boundaries, to wit:
+  Beginning at a point on the western boundary of the State of Missouri, where the thirty-
+  seventh parallel of north latitude crosses the same; thence running west on said parallel to
+  the twenty-fifth meridian of longitude west from Washington; thence north on said
+  meridian to the fortieth parallel of north latitude; thence east on said parallel to the western
+  boundary of the State of Missouri; thence south with the western boundary of said State to
+  the place of beginning. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 9002.0 KS 1859 ***
+  
+  BILL OF RIGHTS
+  
+  *** SSTART 001.0 9002.0 0 KS 1859 ***
+  
+  SECTION 1. All men are possessed of equal and inalienable natural rights, among which
+  are life, liberty and the pursuit of happiness. 
+  
+  *** SEND ***
+  *** SSTART 002.0 9002.0 0 KS 1859 ***
+  
+  SEC. 2. All political power is inherent in the people, and all free governments are founded
+  on their authority, and are instituted for their equal protection and benefit. No special
+  privileges or immunities shall ever be granted by the Legislature which may not be altered,
+  revoked or repealed by the same body; and this power shall be exercised by no other
+  tribunal or agency.
+  
+  *** SEND ***
+  *** SSTART 003.0 9002.0 0 KS 1859 *** 
+  SEC. 3. The people have a right to assemble, in a peacable manner, to consult for their
+  common good, to instruct their Representatives, and to petition the Government, or any
+  department thereof, for the redress of grievances. 
+  
+  *** SEND ***
+  *** SSTART 004.0 9002.0 0 KS 1859 ***
+  
+  SEC. 4. The people have a right to bear arms for their defense and security; but standing
+  armies, in time of peace, are dangerous to liberty, and shall not be tolerated, and the
+  military shall be in strict subordination to the civil power. 
+  
+  *** SEND ***
+  *** SSTART 005.0 9002.0 0 KS 1859 ***
+  
+  SEC. 5. The right of trial by jury shall be inviolate. 
+  
+  *** SEND ***
+  *** SSTART 006.0 9002.0 0 KS 1859 ***
+  
+  SEC. 6. There shall be no slavery in this State, and no involuntary servitude, except for the
+  punishment of crime, whereof the party shall have been duly convicted. 
+  
+  *** SEND ***
+  *** SSTART 007.0 9002.0 0 KS 1859 ***
+  
+  SEC. 7. The right to worship God according to the dictates of conscience shall never be
+  infringed; nor shall any person be compelled to attend or support any form of worship; nor
+  shall any control of or interference with the rights of conscience be permitted, nor any
+  preference be given by law to any religious establishment or mode of worship. No religious
+  test or property qualification shall be required for any office of public trust, nor for any
+  vote at any election, nor shall any person be incompetent to testify on account of religious
+  belief. 
+  
+  *** SEND ***
+  *** SSTART 008.0 9002.0 0 KS 1859 ***
+  
+  SEC. 8. The right to the writ of habeas corpus shall not be suspended, unless the public
+  safety requires it in case of invasion or rebellion. 
+  
+  *** SEND ***
+  *** SSTART 009.0 9002.0 0 KS 1859 ***
+  
+  SEC. 9. All persons shall be bailable by sufficient sureties, except for capital offenses,
+  where proof is evident or the presumption great. Excessive bail shall not be required, nor
+  excessive fines imposed, nor cruel or unusual punishment inflicted. 
+  
+  *** SEND ***
+  *** SSTART 010.0 9002.0 0 KS 1859 ***
+  
+  SEC. 10. In all prosecutions, the accused shall be allowed to appear and defend in person
+  or by counsel; to demand the nature and cause of the accusation against him; to meet the
+  witness face to face, and to have compulsory process to compel the attendance of witnesses
+  in his behalf, and a speedy public trial by an impartial jury of the county or district in which
+  the offense is alleged to have been committed. No person shall be a witness against
+  himself, or be twice put in jeopardy for the same offense. 
+  
+  *** SEND ***
+  *** SSTART 011.0 9002.0 0 KS 1859 ***
+  
+  SEC. 11. The liberty of the press shall be inviolate; and all persons may freely speak, write
+  or publish their sentiments on all subjects, being responsible for the abuse of such right;
+  and in all civil and criminal actions for libel, the truth may be given in evidence to the jury,
+  and if it shall appear that the alleged libelous matter was published for justifiable ends, the
+  accused party shall be acquitted. 
+  
+  *** SEND ***
+  *** SSTART 012.0 9002.0 0 KS 1859 ***
+  
+  SEC. 12. No person shall be transported from the State for any offense committed within
+  the same; and no conviction in the State shall work a corruption of blood or forfeiture of
+  estate. 
+  
+  *** SEND ***
+  *** SSTART 013.0 9002.0 0 KS 1859 ***
+  
+  SEC. 13. Treason shall consist only in levying war against the State, adhering to its
+  enemies, or giving them aid and comfort. No person shall be convicted of treason unless on
+  the evidence of two witnesses to the overt act, or confession in open court. 
+  
+  *** SEND ***
+  *** SSTART 014.0 9002.0 0 KS 1859 ***
+  
+  SEC. 14. No soldier shall, in time of peace, be quartered in any home without the consent
+  of the occupant, nor in time of war, except as prescribed by law. 
+  
+  *** SEND ***
+  *** SSTART 015.0 9002.0 0 KS 1859 ***
+  
+  SEC. 15. The right of the people to be secure in their persons and property against
+  unreasonable searches and seizures shall be inviolate, and no warrant shall issue but on
+  probable cause, supported by oath or affirmation, particularly describing the place to be
+  searched and the person and property to be seized. 
+  *** SEND ***
+  *** SSTART 016.0 9002.0 0 KS 1859 ***
+  
+  SEC. 16. No person shall be imprisoned for debt except in case of fraud. 
+  
+  *** SEND ***
+  *** SSTART 017.0 9002.0 0 KS 1859 ***
+  
+  SEC. 17. No distinction shall ever be made between citizens and aliens in reference to the
+  purchase, enjoyment or descent of property. 
+  
+  *** SEND ***
+  *** SSTART 018.0 9002.0 0 KS 1859 ***
+  
+  SEC. 18. All persons, for injuries suffered in person, reputation or property, shall have
+  remedy by due course of law, and justice administered without delay. 
+  
+  *** SEND ***
+  *** SSTART 019.0 9002.0 0 KS 1859 ***
+  
+  SEC. 19. No hereditary emoluments, honors or privileges shall ever be granted or conferred
+  by the state. 
+  
+  *** SEND ***
+  *** SSTART 020.0 9002.0 0 KS 1859 ***
+  
+  SEC. 20. This enumeration of rights shall not be construed to impair or deny others
+  retained by the people, and all powers not herein delegated remain with the people. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 001.0 KS 1859 ***
+  
+  ARTICLE I EXECUTIVE 
+  
+  *** SSTART 001.0 001.0 0 KS 1859 ***
+  
+  SECTION  1.   The Executive Department shall consist of a Governor, Lieutenant
+  Governor, Secretary of State, Auditor, Treasurer, Attorney General and Superintendent of
+  Public Instruction, who shall be chosen by the electors of the State at the time and place of
+  voting for members of the Legislature, and shall hold their offices for the term of two years
+  from the second Monday in January, next after the election, and until their successors are
+  elected and qualified.
+  
+  *** SEND ***
+  *** SSTART 002.0 001.0 0 KS 1859 *** 
+  
+  SEC. 2. Until otherwise provided by law, an abstract of every election, for the offices
+  named in the foregoing section, shall be sealed up and transmitted by the Clerk of the
+  Board of Canvassers of the several counties, to the Secretary of State, who with the
+  Lieutenant Governor and Attorney General, shall constitute a board of State Canvassers,
+  whose duty it shall be to meet at the State capital on the second Tuesday of December
+  succeeding each election for State officers, and canvass the vote for such officers and
+  proclaim the result; but in case any two or more have an equal and the highest number of
+  votes, the Legislature shall, by joint ballot, choose one of said persons so having an equal
+  and the highest number of votes for said office.
+  
+  *** SEND ***
+  *** SSTART 003.0 001.0 0 KS 1859 ***  
+  
+  SEC. 3. The supreme executive power of the State shall be invested in a Governor, who
+  shall see that the laws are faithfully executed. 
+  
+  *** SEND ***
+  *** SSTART 004.0 001.0 0 KS 1859 ***
+  
+  SEC. 4. He may require information in writing from the officers of the Executive
+  Department upon any subject relating to their respective duties. 
+  
+  *** SEND ***
+  *** SSTART 005.0 001.0 0 KS 1859 ***
+  
+  SEC. 5. He may, on extraordinary occasions, convene the Legislature by proclamation, and
+  shall, at the commencement of every sessions, communicate in writing such information as
+  he may possess in reference to the condition of the State, and recommend such measures as
+  he may deem expedient. 
+  
+  *** SEND ***
+  *** SSTART 006.0 001.0 0 KS 1859 ***
+  
+  SEC. 6. In case of disagreement between the two houses in respect to the time of
+  adjournment, he may adjourn the Legislature to such time as he may think proper, not
+  beyond its regular meeting. 
+  
+  *** SEND ***
+  *** SSTART 007.0 001.0 0 KS 1859 ***
+  
+  SEC. 7. The pardoning power shall be invested in the Governor, under regulations and
+  restrictions prescribed by law. 
+  *** SEND ***
+  *** SSTART 008.0 001.0 0 KS 1859 ***
+  
+  SEC. 8. There shall be a seal of the State, which shall be kept by the Governor, and used by
+  him officially, and which shall be the great seal of Kansas. 
+  
+  *** SEND ***
+  *** SSTART 009.0 001.0 0 KS 1859 ***
+  
+  SEC. 9. All commissions shall be issued in the name of the State of Kansas; signed by the
+  Governor, countersigned by the Secretary of State, and sealed with the great seal. 
+  
+  *** SEND ***
+  *** SSTART 010.0 001.0 0 KS 1859 ***
+  
+  SEC. 10. No member of Congress or officer of the State, or of the United States, shall hold
+  the office of Governor, except as herein provided. 
+  
+  *** SEND ***
+  *** SSTART 011.0 001.0 0 KS 1859 ***
+  
+  SEC. 11. In case of death, impeachment resignation, removal or other disability of the
+  Governor, the powers and duties for the residue of the term, or until disability shall be
+  removed, shall devolve upon the President of the Senate. 
+  
+  *** SEND ***
+  *** SSTART 012.0 001.0 0 KS 1859 ***
+  
+  SEC. 12. The Lieutenant Governor shall be President of the Senate, and shall vote only
+  when the Senate is equally divided. The Senate shall choose a President pro tempore to
+  preside in case of his absence or impeachment, or when he shall hold the office of
+  Governor. 
+  
+  *** SEND ***
+  *** SSTART 013.0 001.0 0 KS 1859 ***
+  
+  SEC. 13. If the Lieutenant Governor, while holding the office of Governor, shall be
+  impeached or displaced, or shall resign or die, or otherwise become incapable of
+  performing the duties of the office, the President of the Senate shall act as Governor until
+  the vacancy is filled, or the disability removed; and if the President of the Senate, for any of
+  the above causes, shall be rendered incapable of performing the duties pertaining to the
+  office of Governor, the same shall devolve upon the Speaker of the House of
+  Representatives. 
+  
+  *** SEND ***
+  *** SSTART 014.0 001.0 0 KS 1859 ***
+  
+  SEC. 14. Should either the Secretary of State, Auditor, Treasurer, Attorney General, or
+  Superintendent of Public Instruction become incapable of performing the duties of his a
+  office, for any of the causes specified in the thirteenth section of this article, the Governor
+  shall fill the vacancy until the disability is removed, or a successor is elected and qualified.
+  Every such vacancy shall be filled by election, at the first general election that occurs more
+  than thirty days after it shall have happened, and the person chosen shall hold the office for
+  the unexpired term. 
+  
+  *** SEND ***
+  *** SSTART 015.0 001.0 0 KS 1859 ***
+  
+  SEC. 15. The officers mentioned in this article shall, at stated times, receive for their
+  services a compensation established by law, which shall neither be increased or diminished
+  during the period for which they shall have been elected. 
+  
+  *** SEND ***
+  *** SSTART 016.0 001.0 0 KS 1859 ***
+  
+  SEC. 16. The officers of the Executive Department, and of all public State institutions,
+  shall, at least ten days preceding each regular session of the Legislature, severally report to
+  the Governor, who shall transmit such reports to the Legislature. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 002.0 KS 1859 ***
+  
+  ARTICLE II LEGISLATIVE 
+  
+  *** SSTART 001.0 002.0 0 KS 1859 ***
+  
+  SECTION 1. The Legislative power of the State shall be vested in a House of
+  Representatives and Senate. 
+  
+  *** SEND ***
+  *** SSTART 002.0 002.0 0 KS 1859 ***
+  
+  SEC. 2. The first House of Representatives under this Constitution shall consist of seventy-
+  five members who shall be chosen for one year. The first Senate shall consist of twenty-
+  five members who shall be chosen for two years. After the first election, the number of
+  Senators and Members of the House of Representatives shall be regulated by law, but shall
+  never exceed one hundred Representatives and thirty-three Senators.
+  
+  *** SEND ***
+  *** SSTART 003.0 002.0 0 KS 1859 *** 
+  
+  SEC. 3. The members of the Legislature shall receive as compensation for their services,
+  the sum of three dollars for each day's actual service at any regular or special session, and
+  fifteen cents for each mile traveled by the usual route, in going to and returning from the
+  place of meeting; but such compensation shall not in the aggregate exceed the sum of two
+  hundred and forty dollars for each member, as per diem allowance for the first session held
+  under this Constitution, nor more than one hundred and fifty dollars for each session
+  thereafter, nor more than ninety dollars for any special session. 
+  
+  *** SEND ***
+  *** SSTART 004.0 002.0 0 KS 1859 ***
+  
+  SEC. 4. No person shall be a member of the Legislature who is not at the time of his
+  election a qualified voter of and resident in the county or district for which he is elected. 
+  
+  *** SEND ***
+  *** SSTART 005.0 002.0 0 KS 1859 ***
+  
+  SEC. 5. No member of Congress, or officer of the United States, shall be eligible to a seat
+  in the Legislature. If any person, after his election, be elected to Congress, or elected or
+  appointed to any office under the United States, his acceptance thereof shall vacate his seat. 
+  
+  *** SEND ***
+  *** SSTART 006.0 002.0 0 KS 1859 ***
+  
+  SEC. 6. No person convicted of embezzlement or misuse of public funds shall have a seat
+  in the Legislature. 
+  
+  *** SEND ***
+  *** SSTART 007.0 002.0 0 KS 1859 ***
+  
+  SEC. 7. All State officers, before entering upon their respective duties, shall take and
+  subscribe an oath or affirmation in support the Constitution of the United States and the
+  Constitution of this State, and faithfully to discharge the duties of their respective offices. 
+  
+  *** SEND ***
+  *** SSTART 008.0 002.0 0 KS 1859 ***
+  
+  SEC. 8. A majority of each house shall constitute a quorum. Each house shall establish its
+  own rules, and shall be judge of elections, returns and qualifications of its own members. 
+  
+  *** SEND ***
+  *** SSTART 009.0 002.0 0 KS 1859 ***
+  
+  SEC. 9. All vacancies occurring in either house shall be filled for the unexpired term by
+  election. 
+  
+  *** SEND ***
+  *** SSTART 010.0 002.0 0 KS 1859 ***
+  
+  SEC. 10. Each house shall keep and publish a journal of its proceedings. The yeas and nays
+  will be taken, and entered immediately on the journal, upon the final passage of every bill
+  or joint resolution. Neither house, without the consent of the other, shall adjourn for more
+  than two days, Sundays excepted. 
+  
+  *** SEND ***
+  *** SSTART 011.0 002.0 0 KS 1859 ***
+  
+  SEC. 11. Any member of either house shall have the right to protest against any bill or
+  resolution, and such protest shall, without delay or alteration, be entered on the journal. 
+  
+  *** SEND ***
+  *** SSTART 012.0 002.0 0 KS 1859 ***
+  
+  SEC. 12. All bills shall originate in the House of Representatives, and be subject to
+  amendment or rejection by the Senate. 
+  
+  *** SEND ***
+  *** SSTART 013.0 002.0 0 KS 1859 ***
+  
+  SEC. 13. A majority of all members of each house, voting in the affirmative, shall be
+  necessary to pass any bill or joint resolution. 
+  
+  *** SEND ***
+  *** SSTART 014.0 002.0 0 KS 1859 ***
+  
+  SEC.14. Every bill and joint resolution passed by the House of Representatives and Senate
+  shall, within two days thereafter, be signed by the presiding officers, and presented to the
+  Governor. If he approve it, he shall sign it; but if not, he shall return it to the House of
+  Representatives, which shall enter the objections at large upon its journal, and proceed to
+  reconsider the same. If, after such reconsideration, two-thirds of the members elected shall
+  agree to pass the bill or resolution, it shall be sent, with the objections to the Senate, by
+  which it shall likewise be reconsidered, and if approved by two-thirds of the members
+  elected, it shall become law. But in all such cases, the vote shall be taken by yeas and nays,
+  and entered upon the journals of each house. If any bill shall not be returned within three
+  days (Sundays excepted) after it shall have been presented to the Governor, it shall become
+  law in like manner as if he had signed it, unless the Legislature, by its adjournment, prevent
+  its return, in which case it shall not become a law. 
+  
+  *** SEND ***
+  *** SSTART 015.0 002.0 0 KS 1859 ***
+  
+  SEC. 15. Every bill shall be read on three separate days in each house, unless in case of
+  emergency. Two-thirds of the house where such bill is pending may, if deemed expedient,
+  suspend the rules; but the reading of the bill by sections, on it final passage, shall in no case
+  be dispensed with. 
+  
+  *** SEND ***
+  *** SSTART 016.0 002.0 0 KS 1859 ***
+  
+  SEC.16. No bill shall contain more than one subject, which shall be clearly expressed in its
+  title, and no law shall be revived or amended, unless the new act contain the entire act
+  revived, or the section or sections so amended shall be repealed. 
+  
+  *** SEND ***
+  *** SSTART 017.0 002.0 0 KS 1859 ***
+  
+  SEC. 17. All laws of a general nature shall have a uniform operation throughout the State;
+  and in all cases where a general laws can be made applicable, no special law shall be
+  enacted. 
+  
+  *** SEND ***
+  *** SSTART 018.0 002.0 0 KS 1859 ***
+  
+  SEC. 18. All power to grant divorces is vested in the district courts, subject to regulation
+  by law. 
+  
+  *** SEND ***
+  *** SSTART 019.0 002.0 0 KS 1859 ***
+  
+  SEC. 19. The Legislature shall prescribe the time when its acts shall be in force, and shall
+  provide for the speedy publication of the same; and no law of a general nature shall be in
+  force until the same be published. It shall have the power to provide for the election or
+  appointment of all officers, and the filling of all vacancies not otherwise provided for in
+  this Constitution. 
+  
+  *** SEND ***
+  *** SSTART 020.0 002.0 0 KS 1859 ***
+  
+  SEC. 20. The enacting clause of all laws shall be, "Be it enacted by the Legislature of the
+  State of Kansas," and no law shall be enacted except by bill. 
+  
+  *** SEND ***
+  *** SSTART 021.0 002.0 0 KS 1859 ***
+  
+  SEC. 21. The Legislature may confer upon tribunals transacting the county business of the
+  several counties such powers of local legislation and administration as it shall deem
+  expedient. 
+  
+  *** SEND ***
+  *** SSTART 022.0 002.0 0 KS 1859 ***
+  
+  SEC. 22. For any speech or debate in either house, the members shall not be questioned
+  elsewhere. No member of the Legislature shall be subject to arrest--except for felony or
+  breach of the peace--in going to or returning from the place of meeting, or during the
+  continuance of the session; neither shall be he subject to the service of any civil process
+  during the session, nor for fifteen days previous to its commencement. 
+  
+  *** SEND ***
+  *** SSTART 023.0 002.0 0 KS 1859 ***
+  
+  SEC. 23. The Legislature, in providing for the formation and regulation of schools, shall
+  make no distinction between the rights of males and females. 
+  
+  *** SEND ***
+  *** SSTART 024.0 002.0 0 KS 1859 ***
+  
+  SEC. 24. No money shall be drawn from the treasury except in pursuance of a specific
+  appropriation made by law, and no appropriation shall be for a longer term than one year. 
+  
+  *** SEND ***
+  *** SSTART 025.0 002.0 0 KS 1859 ***
+  
+  SEC. 25. All sessions of the Legislature shall be held at the State capital, and all regular
+  sessions shall commence annually, on the second Tuesday of January. 
+  
+  *** SEND ***
+  *** SSTART 026.0 002.0 0 KS 1859 ***
+  
+  SEC. 26. The Legislature shall provide for taking an enumeration of the inhabitants of the
+  State, at least once in ten years. The first enumeration shall be taken in A.D. 1865. 
+  
+  *** SEND ***
+  *** SSTART 027.0 002.0 0 KS 1859 ***
+  
+  SEC. 27. The House of Representatives shall have the sole power to impeach. All
+  impeachments shall be tried in the Senate, and when sitting for that purpose, the Senators
+  shall take an oath to do justice according to the law and the evidence. No person shall be
+  convicted without the concurrence of two-thirds of the Senators elected. 
+  
+  *** SEND ***
+  *** SSTART 028.0 002.0 0 KS 1859 ***
+  
+  SEC. 28. The Governor, and all other officers under this Constitution, shall be subject to
+  impeachment for any misdemeanor in office; but judgment in all such cases shall not be
+  extended further than to removal from office, or disqualification to hold any office of
+  profit, honor or trust under this Constitution; but the party whether convicted or acquitted,
+  shall be liable to indictment, trial judgment and punishment, according to law. 
+  
+  *** SEND ***
+  *** AEND ***
+  ** ASTART 003.0 KS 1859 ***
+  
+  ARTICLE III JUDICIAL
+  
+  *** SSTART 001.0 003.0 0 KS 1859 ***
+  
+  SECTION 1. The judicial power of the State shall be vested in a Supreme Court, District
+  Courts, Probate Courts justices of the peace, and such other courts, inferior to the Supreme
+  Court, as may be provided by law, and all courts of record shall have a seal, to be used in
+  the authentication of all process. 
+  
+  *** SEND ***
+  *** SSTART 002.0 003.0 0 KS 1859 ***
+  
+  SEC. 2. The Supreme Court shall consist of one Chief Justice and two Associate Justices,(a
+  majority of whom shall constitute a quorum,) who shall be elected by the electors of the
+  State at large, and whose term of office, after the first, shall be six years. At the first
+  election, a Chief Justice shall be chosen for six years, one Associate Justice for four years,
+  and one for two years. 
+  
+  *** SEND ***
+  *** SSTART 003.0 003.0 0 KS 1859 ***
+  
+  SEC. 3. The Supreme Court shall have original jurisdiction in proceedings in quo warranto,
+  mandamus and habeas corpus, and such appellate jurisdiction as may be provided by law. It
+  shall hold one term each year at the seat of Government, and such other terms at such
+  places as may be provided by law; and its jurisdiction shall be co-extensive with the State. 
+  
+  *** SEND ***
+  *** SSTART 004.0 003.0 0 KS 1859 ***
+  
+  SEC. 4. There shall be appointed by the Justices of the Supreme Court a Reporter and
+  Clerk of said court, who shall hold their offices for two years, and whose duties shall be
+  prescribed by law. 
+  
+  *** SEND ***
+  *** SSTART 005.0 003.0 0 KS 1859 ***
+  
+  SEC. 5. The State shall be divided into five judicial districts, in each of which there shall
+  be elected, by the electors thereof, a District Judge, who shall hold his office for the term of
+  four years. District Courts shall be held at such times and places as may be provided by
+  law. 
+  
+  *** SEND ***
+  *** SSTART 006.0 003.0 0 KS 1859 ***
+  
+  SEC. 6. The District Courts shall have such jurisdiction in their respective districts as may
+  be provided by law. 
+  
+  *** SEND ***
+  *** SSTART 007.0 003.0 0 KS 1859 ***
+  
+  SEC. 7. There shall be elected, in each organized county, a Clerk of the District Court, who
+  shall hold his office two years, and whose duties shall be prescribed by law. 
+  
+  *** SEND ***
+  *** SSTART 008.0 003.0 0 KS 1859 ***
+  
+  SEC. 8. There shall be a Probate Court in each county, which shall be a court of record,
+  and have such probate jurisdiction and care of estates of deceased persons, minors, and
+  persons of unsound minds, as may be prescribed by law, and shall have jurisdiction in
+  cases of habeas corpus. This court shall consist of one Judge, who shall be elected by the
+  qualified voters of the county, and hold his office two years. He shall be his own clerk and
+  shall hold court at such times and received for compensation such fees as may be
+  prescribed by law. 
+  
+  *** SEND ***
+  *** SSTART 009.0 003.0 0 KS 1859 ***
+  
+  SEC. 9. Two justices of the peace shall be elected in each township, whose term of office
+  shall be two years, and whose powers and duties shall be prescribed by law. The justices of
+  the peace may be increased in any township by law. 
+  
+  *** SEND ***
+  *** SSTART 010.0 003.0 0 KS 1859 ***
+  
+  SEC. 10. All appeals from Probate Courts and justices of the peace shall be to the district
+  court. 
+  
+  *** SEND ***
+  *** SSTART 011.0 003.0 0 KS 1859 ***
+  
+  SEC. 11. All the judicial officers provided by this article shall be elected at the first
+  election under this constitution, and shall reside in their respective townships, counties or
+  districts, during their respective terms of office. In case of vacancy in any judicial office, it
+  shall be filled by appointment of the Governor, until the next regular election that shall
+  occur more than thirty days after such vacancy shall have happened. 
+  
+  *** SEND ***
+  *** SSTART 012.0 003.0 0 KS 1859 ***
+  
+  SEC. 12. All judicial officers shall hold their offices until their successors shall have been
+  qualified. 
+  
+  *** SEND ***
+  *** SSTART 013.0 003.0 0 KS 1859 ***
+  
+  SEC. 13. The Justices of the Supreme Court and the Judges of the District Court shall, at
+  stated times, receive for their services such compensation as may be provided by law,
+  which shall not be increased during their respective terms of office: Provided, Such
+  compensation shall not be less than fifteen hundred dollars to each justice or judge each
+  year; and such justices or judges shall receive no fees or perquisites, nor hold any other
+  office of profit or trust under the authority of the State or the United States during the term
+  of office for which said justices and Judges shall be elected, nor practice law in any of the
+  courts of the State during their continuance in office.
+  
+  *** SEND ***
+  *** SSTART 014.0 003.0 0 KS 1859 *** 
+  
+  SEC. 14. Provisions may be made by law for the increase of the number of judicial districts
+  whenever two-thirds of the members of each house shall occur. Such districts shall be
+  formed of compact territory and bounded by county lines, and such increase shall not
+  vacate the office of any judge. 
+  
+  *** SEND ***
+  *** SSTART 015.0 003.0 0 KS 1859 ***
+  
+  SEC. 15. Justices of the Supreme Court and Judges of the District Courts may be removed
+  from office by resolution of both houses, if two-thirds of the members of each house
+  concur; but no such removal shall be made except upon complaint, the substance of which
+  shall be entered upon the journal, nor until the party charged shall have had notice and
+  opportunity to be heard. 
+  
+  *** SEND ***
+  *** SSTART 016.0 003.0 0 KS 1859 ***
+  
+  SEC. 16. The several justices and judges of the courts of record in this State shall have
+  such jurisdiction at chambers as may be provided by law. 
+  
+  *** SEND ***
+  *** SSTART 017.0 003.0 0 KS 1859 ***
+  
+  SEC. 17. The style of all process shall be, "The State of Kansas;" and all prosecutions shall
+  be carried on in the name of the State. 
+  
+  *** SEND ***
+  *** SSTART 018.0 003.0 0 KS 1859 ***
+  
+  SEC. 18. Until otherwise provided by law, the First District shall consist of the counties of
+  Wyandotte, Leavenworth, Jefferson and Jackson; the Second District shall consist of the
+  counties of Atchison, Doniphan, Brown, Nemaha, Marshall, and Washington; the Third
+  District shall consist of the counties of Pottawatomie, Riley, Clay, Dickinson, Davis,
+  Wabaunsee, and Shawnee; the Fourth District shall consist of the counties of Douglas,
+  Johnson, Lykins, Franklin, Anderson, Linn, Bourbon, and Allen; the Fifth District shall
+  consist of the counties of Osage, Coffey, Woodson, Greenwood, Madison, Breckinridge,
+  Morris, Chase, Butler and Hunter. 
+  
+  *** SEND ***
+  *** SSTART 019.0 003.0 0 KS 1859 ***
+  
+  SEC. 19. New or unorganized counties shall, by law, be attached for judicial purposes to
+  the most convenient judicial districts. 
+  
+  *** SEND ***
+  *** SSTART 020.0 003.0 0 KS 1859 ***
+  
+  SEC. 20. Provisions shall be made by law for the selection, by the bar, of a pro tem. judge
+  of the District Court, when the Judge is absent or otherwise unable or disqualified to sit in
+  any case. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 004.0 KS 1859 ***
+  
+  ARTICLE IV ELECTIONS
+  
+  *** SSTART 001.0 004.0 0 KS 1859 ***
+  
+  SECTION 1. All elections by the people shall be by ballot; and all elections by the
+  Legislature shall be viva voce. 
+  
+  *** SEND ***
+  *** SSTART 002.0 004.0 0 KS 1859 ***
+  
+  SEC. 2. General elections shall be held annually, on the Tuesday succeeding the first
+  Monday in November. Township elections shall be held on the first Tuesday of April, until
+  otherwise provided by law. 
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 005.0 KS 1859 ***
+  
+  ARTICLE V SUFFRAGE
+  
+  *** SSTART 001.0 005.0 0 KS 1859 ***
+  
+  SECTION 1. Every white male person, of twenty-one years and upward, belonging to
+  either of the following classes, who shall have resided in Kansas six months next preceding
+  any election, and in the township or ward in which he offers to vote at least thirty days next
+  preceding such election, shall be deemed a qualified elector: First, Citizens of the United
+  States. Second, Persons of foreign birth who shall have declared their intention to become
+  citizens, conformably to the laws of the United States on the subject of naturalization. 
+  
+  *** SEND ***
+  *** SSTART 002.0 005.0 0 KS 1859 ***
+  
+  SEC. 2. No person under guardianship, non compos mentis, or insane, shall be qualified to
+  vote; nor any person convicted of treason or felony, unless restored to civil rights. 
+  
+  *** SEND ***
+  *** SSTART 003.0 005.0 0 KS 1859 ***
+  
+  SEC. 3. No soldier, seaman, or marine, in the army or navy of the United States, or their
+  allies, shall be deemed to have acquired a residence in the State in consequence of being
+  stationed within the same; nor shall any soldier, seaman or marine have the right to vote. 
+  
+  *** SEND ***
+  *** SSTART 004.0 005.0 0 KS 1859 ***
+  
+  SEC. 4. The Legislature shall pass such laws as may be necessary for ascertaining, by
+  proper proofs, the citizens who shall be entitled to the right of suffrage hereby established. 
+  
+  *** SEND ***
+  
+  *** SSTART 005.0 005.0 0 KS 1859 ***
+  
+  
+  SEC. 5. Every person who shall give or accept a challenge to fight a duel, or who shall
+  knowingly carry to another person such challenge, or shall go out of the State to fight a
+  duel, shall be ineligible to any office of trust or profit. 
+  
+  *** SEND ***
+  *** SSTART 006.0 005.0 0 KS 1859 ***
+  
+  SEC. 6. Every person who shall have given or offered a bribe to procure his election, shall
+  be disqualified from holding office during the terms for which he may have been elected. 
+  
+  *** SEND ***
+  *** SSTART 007.0 005.0 0 KS 1859 ***
+  
+  SEC. 7. Electors, during their attendance at elections, and in going to and returning
+  therefrom, shall be privileged from arrest in all cases except treason, felony, or breach of
+  the peace. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 006.0 KS 1859 ***
+  
+  ARTICLE VI EDUCATION
+  
+  *** SSTART 001.0 006.0 0 KS 1859 ***
+  
+  SECTION 1. The State Superintendent of Public Instruction shall have the general
+  supervision of common-school funds and educational interests of the State, and perform
+  such other duties as may be prescribed by law. A Superintendent of Public Instruction shall
+  be elected in each county, whose term of office shall be two years, and whose duty and
+  compensation shall be prescribed by law. 
+  
+  *** SEND ***
+  *** SSTART 002.0 006.0 0 KS 1859 ***
+  
+  SEC. 2. The Legislature shall encourage the promotion of intellectual, moral, scientific and
+  agricultural improvement, by establishing a uniform system of common schools, and
+  schools of higher grade, embracing normal, preparatory, collegiate, and university
+  departments. 
+  
+  *** SEND ***
+  *** SSTART 003.0 006.0 0 KS 1859 ***
+  
+  SEC. 3. The proceeds of all lands that have been, or may be, granted by the United States
+  to the State, for the support of schools, and five hundred thousand acres of land granted to
+  the new State, under an act of Congress distributing the proceeds of public lands among the
+  several States of the Union, approved September 4, A.D., 1841, and all estates of persons
+  dying without heir or will, and such per cent as may be granted by Congress on the sale of
+  lands in this State, shall be the common property of the State, and shall be a perpetual
+  school fund, which shall not be diminished, but the interest of which , together with all the
+  rents of the lands, and such other means as the Legislature may provide, by tax or
+  otherwise, shall be inviolably appropriated to the support of common schools. 
+  
+  *** SEND ***
+  *** SSTART 004.0 006.0 0 KS 1859 ***
+  
+  SEC. 4. The income of the State school funds shall be disbursed annually, by order of the
+  State Superintendent, to the several County Treasurers, and thence to the Treasurers of the
+  several school districts, in equitable proportion to the number of children and youth
+  resident therein, between the ages of five and twenty-one years: Provided, That no school
+  district in which a common school has not been maintained at least three months in each
+  year shall be entitled to receive any portion of such funds. 
+  
+  *** SEND ***
+  *** SSTART 005.0 006.0 0 KS 1859 ***
+  
+  SEC. 5. The school lands shall not be sold unless such sale be authorized by a vote of the
+  people at a general election; but, subject to revaluation every five years, they may be leased
+  for any number of years not exceeding twenty-five, at a rate established by law. 
+  
+  *** SEND ***
+  *** SSTART 006.0 006.0 0 KS 1859 ***
+  
+  SEC. 6. All money which shall be paid by persons as an equivalent for exemption from
+  military duty; the clear proceeds of estrays, ownership of which shall vest in the taker-up;
+  and the proceeds of fines for any breach of the penal laws, shall be exclusively applied in
+  the several counties in which the money is paid or fines collected, to the support of
+  common schools. 
+  
+  *** SEND ***
+  *** SSTART 007.0 006.0 0 KS 1859 ***
+  
+  SEC. 7. Provisions shall be made by law for the establishment, at some eligible and central
+  point, of a State University, for the promotion of literature and the arts and sciences,
+  including a normal and agricultural department. All funds arising from the sale or rents of
+  lands granted by the United States to the State for the support of a State University, and all
+  other grants, donations or bequests, either by the State or by individuals, for such purpose,
+  shall remain a perpetual fund, to be called the "University fund;" the interest of which shall
+  be appropriated to the support of the State University. 
+  
+  *** SEND ***
+  *** SSTART 008.0 006.0 0 KS 1859 ***
+  
+  
+  SEC. 8. No religious sect or sects shall ever control any part of the common-school or
+  University funds of the State. 
+  
+  *** SEND ***
+  *** SSTART 009.0 006.0 0 KS 1859 ***
+  
+  SEC. 9. The State Superintendent of Public Instruction, Secretary of State and Attorney
+  General shall constitute a Board of Commissioners for the management and investment of
+  the school funds. Any two of said Commissioners shall be a quorum. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 007.0 KS 1859 ***
+  
+  ARTICLE VII PUBLIC INSTITUTIONS
+  
+  *** SSTART 001.0 007.0 0 KS 1859 ***
+  
+  SECTION 1. Institutions for the benefit of the insane, blind, deaf and dumb, and such other
+  benevolent institutions as the public good may require, shall be fostered and supported by
+  the State, subject to such regulations as may be prescribed by law. Trustees of such
+  benevolent institutions as may be hereafter created shall be appointed by the Governor, by
+  and with advice and consent of the Senate; and upon all nominations made by the
+  Governor, the question shall be taken in yeas and nays, and entered upon the journal. 
+  
+  *** SEND ***
+  *** SSTART 002.0 007.0 0 KS 1859 ***
+  
+  SEC. 2. A Penitentiary shall be established, the directors of which shall be appointed or
+  elected, as prescribed by law. 
+  
+  *** SEND ***
+  *** SSTART 003.0 007.0 0 KS 1859 ***
+  
+  SEC. 3. The Governor shall fill any vacancy that may occur in the offices aforesaid, until
+  the next session of the Legislature, and until a successor to his appointee shall be
+  confirmed and qualified. 
+  
+  *** SEND ***
+  *** SSTART 004.0 007.0 0 KS 1859 ***
+  
+  SEC. 4. The respective counties of the State shall provide, as may be prescribed by law, for
+  those inhabitants who, by reason of age, infirmity or other misfortune, may have claims
+  upon sympathy and aid of society. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 008.0 KS 1859 ***
+  
+  ARTICLE VIII MILITIA 
+  
+  *** SSTART 001.0 008.0 0 KS 1859 ***
+  
+  SECTION 1. The militia shall be composed of all able-bodied white male citizens, between
+  the ages of twenty-one and forty-five years, except such as are exempted by the laws of the
+  United States or of this State; but all citizens, of any religious denomination whatever,
+  who, from scruples of conscience, may be averse to bearing arms, shall be exempted
+  therefrom, upon such conditions as may be prescribed by law. 
+  
+  *** SEND ***
+  *** SSTART 002.0 008.0 0 KS 1859 ***
+  
+  SEC. 2. The Legislature shall provide for organizing, equipping and disciplining the
+  militia, in such manner as it shall deem expedient, not incompatible with the laws of the
+  United States. 
+  
+  *** SEND ***
+  *** SSTART 003.0 008.0 0 KS 1859 ***
+  
+  SEC. 3. Officers of the militia shall be elected or appointed, and commissioned in such
+  manner as may be provided by law. 
+  
+  *** SEND ***
+  *** SSTART 004.0 008.0 0 KS 1859 ***
+  
+  SEC. 4. The Governor shall be Commander-in-Chief, and shall have the power to call out
+  the militia to execute the laws, to suppress insurrection, and to repel invasion. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 009.0 KS 1859 ***
+  
+  ARTICLE IX COUNTY AND TOWNSHIP ORGANIZATION
+  
+  *** SSTART 001.0 009.0 0 KS 1859 ***
+  
+  SECTION 1. The Legislature shall provide for organizing new counties, locating county
+  seats and changing county lines; and no county seat shall be changed without the consent
+  of a majority of the electors of the county, nor any county organized, or the lines of any
+  county changed so as to include an area of less than four hundred and thirty-two square
+  miles. 
+  
+  *** SEND ***
+  *** SSTART 002.0 009.0 0 KS 1859 ***
+  
+  SEC. 2. The Legislature shall provide for such county and township officers as may be
+  necessary. 
+  
+  *** SEND ***
+  *** SSTART 003.0 009.0 0 KS 1859 ***
+  
+  SEC. 3. All county officers shall hold their offices for the term of two years, and until their
+  successors shall be qualified; but no person shall hold the office of sheriff or county
+  treasurer for more than two consecutive terms. 
+  
+  *** SEND ***
+  *** SSTART 004.0 009.0 0 KS 1859 ***
+  
+  SEC. 4. Township officers, except justices of the peace, shall hold their offices one year
+  from the Monday next succeeding their election, and until their successors are qualified. 
+  
+  *** SEND ***
+  *** SSTART 005.0 009.0 0 KS 1859 ***
+  
+  SEC. 5. All county and township officers may be removed from office in such manner and
+  for such cause as shall be prescribed by law. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 010.0 KS 1859 ***
+  
+  ARTICLE X APPORTIONMENT
+  
+  *** SSTART 001.0 010.0 0 KS 1859 ***
+  
+  SECTION 1. In the future apportionment of the State, each organized county shall have at
+  least one Representative; and each county shall be divided into as many districts as it has
+  Representatives. 
+  
+  *** SEND ***
+  *** SSTART 002.0 010.0 0 KS 1859 ***
+  
+  SEC. 2. It shall be the duty of the first Legislature to make an apportionment, based upon
+  the census ordered by the last Legislative Assembly of the Territory; and a new
+  apportionment shall be made in the year 1866, and every five years thereafter, based upon
+  the census of the preceding year. 
+  
+  *** SEND ***
+  *** SSTART 003.0 010.0 0 KS 1859 ***
+  
+  SEC. 3. Until there shall be a new apportionment, the State shall be divided into election
+  districts; and the Representatives and Senators shall be apportioned among the several
+  districts as follows, viz.: 
+  First District -- Doniphan County, four Representatives, two Senators. 
+  Second District -- Atchison and Brown counties, six Representatives, two Senators. 
+  Third District -- Nemaha, Marshall and Washington counties, two Representatives, one
+  Senator. 
+  Fourth District -- Clay, Riley and Pottawatomie counties, four Representatives, one
+  Senator. 
+  Fifth District -- Dicksinson, Davis and Wabaunsee counties, three Representatives, one
+  Senator. 
+  Sixth District -- Shawnee, Jackson and Jefferson counties, eight Representatives, two
+  Senators. 
+  Seventh District -- Leavenworth County, nine Representatives, three Senators. 
+  Eighth District -- Douglas, Johnson, and Wyandotte counties, thirteen Representatives, four
+  Senators. 
+  Ninth District -- Lykins, Linn, and Bourbon counties, nine Representatives, three Senators. 
+  Tenth District -- Allen, Anderson, and Franklin counties, six Representatives, two
+  Senators. 
+  Eleventh District -- Woodson and Madison counties, two Representatives, one Senator. 
+  Twelfth District -- Coffey, Osage, and Breckinridge counties, six Representatives, two
+  Senators. 
+  Thirteenth District -- Morris, Chase, and Butler counties, two Representatives, one Senator. 
+  Fourteenth District -- Arapahoe, Godfrey, Greenwood, Hunter, Wilson, Dornm, and
+  McGee counties, one Representative. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 011.0 KS 1859 ***
+  
+  ARTICLE XI FINANCE AND TAXATION
+  
+  *** SSTART 001.0 011.0 0 KS 1859 ***
+  
+  SECTION 1. The Legislature shall provide for a uniform and equal rate of assessment and
+  taxation; but all property used exclusively for State, county, municipal, literary,
+  educational, scientific, religious, benevolent, and charitable purposes, and personal
+  property to the amount of at least two hundred dollars for each family, shall be exempted
+  from taxation. 
+  
+  *** SEND ***
+  *** SSTART 002.0 011.0 0 KS 1859 ***
+  
+  SEC. 2. The Legislature shall provide for taxing the notes and bills discounted or
+  purchased, moneys loaned, and other property, effects or dues of every description (without
+  deduction), of all banks now existing , or hereafter to be created, and of all bankers, so that
+  all property employed in banking shall always bear a burden of taxation equal to that
+  imposed upon the property of individuals. 
+  
+  *** SEND ***
+  *** SSTART 003.0 011.0 0 KS 1859 ***
+  
+  SEC. 3. The Legislature shall provide, each year, for raising revenue sufficient to defray the
+  current expenses of the State. 
+  
+  *** SEND ***
+  *** SSTART 004.0 011.0 0 KS 1859 ***
+  
+  SEC. 4. No tax shall be levied except in pursuance of a law, which shall distinctly state the
+  object of the same, to which only such tax shall be applied. 
+  
+  *** SEND ***
+  *** SSTART 005.0 011.0 0 KS 1859 ***
+  
+  SEC. 5. For the purpose of defraying extraordinary expenses, and making public
+  improvements, the State may contract public debts; but such debts shall never, in the
+  aggregate, exceed one million dollars, except as hereinafter provided. Every such debt shall
+  be authorized by law for some purpose specified therein, and the vote of a majority of all
+  the members elected to each house, to be taken by the yeas and nays, shall be necessary to
+  the passage of such law; and every such law shall provide for levying an annual tax
+  sufficient to pay the annual interest of such debt, and the principal thereof, when it shall
+  become due; and shall specifically appropriate the proceeds of such taxes to the payment of
+  such principal and interest; and such appropriation shall not be repealed, nor the taxes
+  postponed or diminished, until the interest and principal of such debt shall have been
+  wholly paid. 
+  
+  *** SEND ***
+  *** SSTART 006.0 011.0 0 KS 1859 ***
+  
+  SEC. 6. No debt shall be contracted by the State, except as herein provided, unless the
+  proposed law for creating such debt shall first be submitted to a direct vote of the electors
+  of the State, at some general election; and if such proposed law shall be ratified by a
+  majority of all the votes cast at such general election, then it shall be the duty of the
+  Legislature next after such election to enact a law and create such debt, subject to all
+  provisions and restrictions provided in the preceding section of this article. 
+  
+  *** SEND ***
+  *** SSTART 007.0 011.0 0 KS 1859 ***
+  
+  SEC. 7. The State may borrow money to repel invasion, suppress insurrection, or defend
+  the State in time of war; but the money thus raised shall be applied exclusively to the
+  object for which the loan was authorized, or to the repayment of the debt thereby created. 
+  
+  *** SEND ***
+  *** SSTART 008.0 011.0 0 KS 1859 ***
+  
+  SEC. 8. The State shall never be a party to carrying on any works of internal improvement. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 012.0 KS 1859 ***
+  
+  ARTICLE XII CORPORATIONS 
+  
+  *** SSTART 001.0 012.0 0 KS 1859 ***
+  
+  SECTION 1. The Legislature shall pass no special act conferring corporate powers.
+  Corporations may be created under general laws; but all such laws may be amended or
+  repealed. 
+  
+  *** SEND ***
+  *** SSTART 002.0 012.0 0 KS 1859 ***
+  
+  SEC. 2. Dues from corporations shall be secured by individual liability of the stockholders
+  to an additional amount equal to the stock owned by each stockholder, and such other
+  means as shall be provided by law; but such individual liabilities shall not apply to railroad
+  corporations, nor corporations for religious or charitable purposes. 
+  
+  *** SEND ***
+  *** SSTART 003.0 012.0 0 KS 1859 ***
+  
+  SEC. 3. The title to all property of religious corporations shall vest in trustees, whose
+  election shall be by the members of such corporations. 
+  
+  *** SEND ***
+  *** SSTART 004.0 012.0 0 KS 1859 ***
+  
+  SEC. 4. No right-of-way shall be appropriated to the use of any corporation until full
+  compensation therefor be first made in money, or secured by a deposit of money, to the
+  owner, irrespective of any benefit from any improvement proposed by such corporation. 
+  
+  *** SEND ***
+  *** SSTART 005.0 012.0 0 KS 1859 ***
+  
+  SEC. 5. Provision shall be made by general law for the organization of cities, towns and
+  villages; and their power of taxation, assessment, borrowing money, contracting debts, and
+  loaning their credit, shall be so restricted as to prevent the abuse of such power. 
+  
+  *** SEND ***
+  *** SSTART 006.0 012.0 0 KS 1859 ***
+  
+  SEC. 6. The term corporation, as used in this article, shall include all associations and
+  joint-stock companies having powers and privileges not possessed by individuals and
+  partnerships, and all corporations may sue and be sued in their corporate name. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 013.0 KS 1859 ***
+  
+  ARTICLE XIII BANKS AND CURRENCY
+  
+  *** SSTART 001.0 013.0 0 KS 1859 ***
+  
+  SECTION 1. No bank shall be established otherwise than under a general banking law. 
+  
+  *** SEND ***
+  *** SSTART 002.0 013.0 0 KS 1859 ***
+  
+  SEC. 2. All banking laws shall require, as collateral security for the redemption of the
+  circulating notes of any bank organized under their provision, a deposit with the Auditor of
+  State of the interest-paying bonds of the several States or of the United States, at the cash
+  rates of the New York stock exchange, to an amount equal to the amount of circulating
+  notes which such bank shall be authorized to issue, and a cash deposit in its vaults of ten
+  per cent of such amount of circulating notes; and the Auditor shall register and countersign
+  no more circulating bills of any bank than the cash value of such bonds when deposited. 
+  
+  *** SEND ***
+  *** SSTART 003.0 013.0 0 KS 1859 ***
+  
+  SEC. 3. Whenever the bonds pledged as collateral security for the circulation of any bank
+  shall depreciate in value, the Auditor of State shall require additional security, or curtail the
+  circulation of such bank to such extent as will continue the security unimpaired. 
+  
+  *** SEND ***
+  *** SSTART 004.0 013.0 0 KS 1859 ***
+  
+  SEC. 4. All circulating notes shall be redeemable in the money of the United States.
+  Holders of such notes shall be entitled, in case of the insolvency of such banks, to
+  preference of payment over all other creditors. 
+  
+  *** SEND ***
+  *** SSTART 005.0 013.0 0 KS 1859 ***
+  
+  SEC. 5. The State shall not be a stockholder in any banking institution. 
+  
+  *** SEND ***
+  *** SSTART 006.0 013.0 0 KS 1859 ***
+  
+  SEC. 6. All banks shall be required to keep offices and officers for the issue and
+  redemption of their circulation, at a convenient place within the State, to be named on the
+  circulating notes issued by such bank. 
+  
+  *** SEND ***
+  *** SSTART 007.0 013.0 0 KS 1859 ***
+  
+  SEC. 7. No banking institution shall issue circulating notes of a less denomination than
+  five dollars. 
+  
+  *** SEND ***
+  *** SSTART 008.0 013.0 0 KS 1859 ***
+  
+  SEC. 8. No banking law shall be in force until the same shall have been submitted to a vote
+  of the electors of the State at some general election, and approved by a majority of all the
+  votes cast at such election. 
+  
+  *** SEND ***
+  *** SSTART 009.0 013.0 0 KS 1859 ***
+  
+  SEC. 9. Any banking law may be amended or repealed. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 014.0 KS 1859 ***
+  
+  ARTICLE XIV AMENDMENTS 
+  
+  *** SSTART 001.0 014.0 0 KS 1859 ***
+  
+  SECTION 1. Propositions for the amendment of this Constitution may be made by either
+  branch of the Legislature; and if two-thirds of all the members elected to each house shall
+  concur therein, such proposed amendments, together with the yeas and nays, shall be
+  entered on the journal, and the Secretary of State shall cause the same to be published in at
+  least one newspaper in each county of the State where a newspaper is published, for three
+  months preceding the next election for Representatives, at which time the same shall be
+  submitted to the electors for their approval or rejection; and if a majority of the electors
+  voting on said amendments at said election shall adopt the amendments, the same shall
+  become part of the Constitution. When more than one amendment shall be submitted at the
+  same time, they shall be so submitted as to enable the electors to vote on each amendment
+  separately; and not more than three propositions to amend shall be submitted at the same
+  election. 
+  
+  *** SEND ***
+  *** SSTART 002.0 014.0 0 KS 1859 ***
+  
+  
+  SEC. 2. Whenever two-thirds of the members elected to each branch of the Legislature
+  shall think it necessary to call a Convention to revise, amend or change this Constitution,
+  they shall recommend to the electors to vote at the next election of members to the
+  Legislature for or against a Convention; and if a majority of all the electors voting at such
+  election shall have voted for a Convention, the Legislature shall, at the next session,
+  provide for calling the same. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 015.0 KS 1859 ***
+  
+  ARTICLE XV MISCELLANEOUS
+  
+  *** SSTART 001.0 015.0 0 KS 1859 ***
+  
+  SECTION 1. All officers whose election or appointment is not otherwise provided for,
+  shall be chosen or appointed, as may be prescribed by law. 
+  
+  *** SEND ***
+  *** SSTART 002.0 015.0 0 KS 1859 ***
+  
+  SEC. 2. The tenure of any office, not herein provided for, may be declared by law; when
+  not so declared, such office shall be held during the pleasure of the authority making the
+  appointment; but the Legislature shall not create any office the tenure of which shall be
+  longer than four years. 
+  
+  *** SEND ***
+  *** SSTART 003.0 015.0 0 KS 1859 ***
+  
+  SEC. 3. Lotteries and the sale of lottery tickets are forever prohibited. 
+  
+  *** SEND ***
+  *** SSTART 004.0 015.0 0 KS 1859 ***
+  
+  SEC. 4. All public printing shall be let, on contract, to the lowest responsible bidder, by
+  such executive officer and in such manner as shall be prescribed by law. 
+  
+  *** SEND ***
+  *** SSTART 005.0 015.0 0 KS 1859 ***
+  
+  SEC. 5. An accurate and detailed statement of the receipts and expenditures of the public
+  moneys, and the several amounts paid, to whom, and on what account, shall be published,
+  as prescribed by law. 
+  
+  *** SEND ***
+  *** SSTART 006.0 015.0 0 KS 1859 ***
+  
+  SEC. 6. The Legislature shall provide for the protection of the rights of women, in
+  acquiring and possessing property, real, personal and mixed, separate and apart from the
+  husband; and shall also provide for their equal rights in the possession of their children. 
+  
+  *** SEND ***
+  *** SSTART 007.0 015.0 0 KS 1859 ***
+  
+  SEC. 7. The Legislature may reduce the salaries of officers who shall neglect the
+  performance of any legal duty. 
+  
+  *** SEND ***
+  *** SSTART 008.0 015.0 0 KS 1859 ***
+  
+  SEC. 8. The temporary seat of Government is hereby located at the city of Topeka, county
+  of Shawnee. The first Legislature under this Constitution shall provide by law for
+  submitting the question of the permanent location of the capital to a popular vote, and a
+  majority of all the votes cast at some general election shall be necessary for such location. 
+  
+  *** SEND ***
+  *** SSTART 009.0 015.0 0 KS 1859 ***
+  
+  SEC. 9. A homestead to the extent of one hundred and sixty acres of farming land, or of
+  one acre within the limits of an incorporated town or city, occupied as a residence by the
+  family of the owner, together with all improvements on the same, shall be exempted from
+  forced sale under any process of law, and shall not be alienated without the joint consent of
+  husband and wife, when that relation exists; but no property shall be exempt from sale for
+  taxes, or for the payment of obligations contracted for the purchase of said premises, or for
+  the erection of improvements thereon: Provided, The provisions of this section shall not
+  apply to any process of law obtained by virtue of a line given by the consent of both
+  husband and wife. 
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 9003.0 KS 1859 ***
+  
+  SCHEDULE
+  
+  *** SSTART 001.0 9003.0 0 KS 1859 ***
+  
+  SECTION 1. That no inconvenience may arise from the change from a Territorial
+  Government to a permanent State Government, it is declared by this Constitution that all
+  suits, right, actions, prosecutions, recognizances, contracts, judgments, and claims, both as
+  respects individuals and bodies corporate, shall continue as if no change had taken place. 
+  
+  *** SEND ***
+  *** SSTART 002.0 9003.0 0 KS 1859 ***
+  
+  SEC. 2. All fines, penalties and forfeitures, owing to the Territory of Kansas, or any
+  county, shall inure to the use of the State or county. All bonds executed to the Territory, or
+  any officer thereof, in his official capacity, shall pass over to the Governor, or other
+  officers of the State or county, and their successors in office, for the use of the State or
+  county, of by him or them to be respectively assigned over to the use of those concerned, as
+  the case may be. 
+  
+  *** SEND ***
+  *** SSTART 003.0 9003.0 0 KS 1859 ***
+  
+  SEC. 3. The Governor, Secretary and Judges, and all other officers, both civil and military,
+  under the Territorial Government, shall continue in the exercise of the duties of their
+  respective departments until the said officers are superseded under the authority of the
+  Constitution. 
+  
+  *** SEND ***
+  *** SSTART 004.0 9003.0 0 KS 1859 ***
+  
+  SEC. 4. All laws and parts of laws in force in the Territory, at the time of the acceptance of
+  this Constitution by Congress, not inconsistent with this Constitution, shall continue and
+  remain in full force until they expire or shall be repealed. 
+  
+  *** SEND ***
+  *** SSTART 005.0 9003.0 0 KS 1859 ***
+  
+  SEC. 5. The Governor shall use his private seal until a State seal is provided. 
+  
+  *** SEND ***
+  *** SSTART 006.0 9003.0 0 KS 1859 ***
+  
+  
+  SEC. 6. The Governor, Secretary of State, Auditor of State, Treasurer of State, Attorney
+  General, and Superintendent of Public Instruction, shall keep their respective offices at the
+  seat of Government. 
+  
+  *** SEND ***
+  *** SSTART 007.0 9003.0 0 KS 1859 ***
+  
+  SEC. 7. All records, documents, books, papers, moneys and vouchers, belonging and
+  pertaining to the several Territorial courts and offices, and to the several districts and
+  county offices, at the date of the admission of this State into the Union, shall be disposed of
+  in such manner as may be prescribed by law. 
+  
+  *** SEND ***
+  *** SSTART 008.0 9003.0 0 KS 1859 ***
+  
+  SEC. 8. All suits, pleas, plaints, and other proceedings pending in any court of record, or
+  justice's court, may be prosecuted to final judgment and execution; and all appeals, writs of
+  error, certiorari, injunctions, or other proceedings whatever, may progress and be carried on
+  as if this Constitution had not been adopted; and the Legislature shall direct the mode in
+  which such suits, pleas, plaints, prosecutions, and other proceedings, and all papers,
+  records, books, and documents connected therewith, may be removed to the courts
+  established by this Constitution. 
+  
+  *** SEND ***
+  *** SSTART 009.0 9003.0 0 KS 1859 ***
+  
+  SEC. 9. For the purpose of taking the vote of the electors of this Territory for the
+  ratification or rejection of this Constitution, an election shall be held in the several voting
+  precincts in this Territory, on the first Tuesday in October, A.D. 1859. 
+  
+  *** SEND ***
+  *** SSTART 010.0 9003.0 0 KS 1859 ***
+  
+  SEC. 10. Each elector shall express his assent or dissent by voting a written or printed
+  ballot, labeled, "For the Constitution" or, "Against the Constitution." 
+  
+  *** SEND ***
+  *** SSTART 011.0 9003.0 0 KS 1859 ***
+  
+  SEC. 11. If a majority of all the votes cast at such election shall be in favor of the
+  Constitution, then there shall be an election held in the several voting precincts on the first
+  Tuesday in December, A. D. 1859, for the election of members of the first Legislature, of
+  all State, district and county officers provided for in this Constitution, and for a
+  Representative in Congress. 
+  
+  *** SEND ***
+  *** SSTART 012.0 9003.0 0 KS 1859 ***
+  
+  SEC. 12. All persons having the qualifications of electors, according to the provisions of
+  the Constitution, at the date of said elections, and who shall have been duly registered
+  according to the provisions of the registry law of this Territory, and none others, shall be
+  entitled to vote at each of said elections. 
+  
+  *** SEND ***
+  *** SSTART 013.0 9003.0 0 KS 1859 ***
+  
+  SEC. 13. The persons who may be judges of the several voting precinct of this Territory, at
+  the date of the respective elections in this schedule provided for, shall be the judges of the
+  respective elections herein provided for. 
+  
+  *** SEND ***
+  *** SSTART 014.0 9003.0 0 KS 1859 ***
+  
+  SEC. 14. The said judges of election, before entering upon the duties of their office, shall
+  take and subscribe an oath faithfully to discharge their duties as such. They shall appoint
+  two clerks of election, who shall be sworn by one of said judges faithfully to discharge
+  their duties as such. In the event of a vacancy in the board of judges, the same shall be
+  filled by the electors present. 
+  
+  *** SEND ***
+  *** SSTART 015.0 9003.0 0 KS 1859 ***
+  
+  SEC. 15. At each of the elections provided for in this schedule, the polls shall be opened
+  between the hours of nine and ten o'clock A.M., and closed at sunset. 
+  
+  *** SEND ***
+  *** SSTART 016.0 9003.0 0 KS 1859 ***
+  
+  SEC. 16. The tribunals transacting county business of the several counties shall cause to be
+  furnished to the boards of judges, in their respective counties, two poll books for each
+  election hereinbefore provided for, upon which the clerks shall inscribe the name of every
+  person who may vote at the said elections. 
+  
+  *** SEND ***
+  *** SSTART 017.0 9003.0 0 KS 1859 ***
+  
+  SEC. 17. After closing the polls at each of the elections provided for in this schedule, the
+  judges shall proceed to count the votes cast, and designate the persons or objects for which
+  they were cast, and shall make two correct tally lists of the same. 
+  
+  *** SEND ***
+  *** SSTART 018.0 9003.0 0 KS 1859 ***
+  
+  SEC. 18. Each of the boards of judges shall safely keep one poll book and tally list, and the
+  ballots at each election, and shall, within ten days after such election, cause the other poll
+  book and tally list to be transmitted, by the hands of a sworn officer, to the clerk of the
+  board transacting county business in their respective counties, or to which the county may
+  be attached for municipal purposes. 
+  
+  *** SEND ***
+  *** SSTART 019.0 9003.0 0 KS 1859 ***
+  
+  SEC. 19. The tribunals transacting county business shall assemble at the county seats of
+  their respective counties, on the second Tuesday after each of the elections provided for
+  this schedule, and shall canvass the votes cast at the elections held in the several precincts
+  in their respective counties, and of the counties attached for municipal purposes. They shall
+  hold in safe keeping the poll books and tally lists of said elections, and shall, within tend
+  days thereafter, transmit, by the hands of a sworn officer, to the President of this
+  Convention, at the city of Topeka, a certified transcript of the same, showing the number of
+  votes cast for each person or object voted for at each of the several precincts in their
+  respective counties, and in the counties attached for municipal purposes, separately. 
+  
+  *** SEND ***
+  *** SSTART 020.0 9003.0 0 KS 1859 ***
+  
+  SEC. 20. The Governor of the Territory, and the President and Secretary of this
+  Convention, shall constitute a Board of State Canvassers, any two of whom shall be a
+  quorum; and who shall, on the fourth Monday after each of the elections provided for in
+  this schedule, assemble a said city of Topeka, and proceed to open and canvass the votes
+  cast at the several precincts in the different counties of the Territory, and declare the result;
+  and shall immediately issue certificates of election to all persons (if any) thus elected. 
+  
+  *** SEND ***
+  *** SSTART 021.0 9003.0 0 KS 1859 ***
+  
+  SEC. 21. Said Board of State Canvassers shall issue their proclamation, not less than
+  twenty days next preceding each of the elections provided for in this schedule. Said
+  proclamation shall contain an announcement of the several elections; the qualifications of
+  electors; the manner of conducting said elections and of making the returns thereof, as in
+  this Constitution provided; and shall publish said proclamation in one newspaper in each of
+  the counties of the Territory in which a newspaper may then be published. 
+  
+  *** SEND ***
+  *** SSTART 022.0 9003.0 0 KS 1859 ***
+  
+  SEC. 22. The Board of State Canvassers shall provide for the transmission of authenticated
+  copies of the Constitution to the President of the United States, the President of the Senate,
+  and Speaker of the House of Representatives. 
+  
+  *** SEND ***
+  *** SSTART 023.0 9003.0 0 KS 1859 ***
+  
+  SEC. 23. Upon official information having been by him received of the admission of
+  Kansas into the Union as a State, it shall be the duty of the Governor elect under the
+  Constitution to proclaim the same, and to convene the Legislature, and do all things else
+  necessary to the complete and active organization of the State Government. 
+  
+  *** SEND ***
+  *** SSTART 024.0 9003.0 0 KS 1859 ***
+  
+  SEC. 24. The first Legislature shall have no power to make any changes in county lines. 
+  
+  *** SEND ***
+  *** SSTART 025.0 9003.0 0 KS 1859 ***
+  
+  SEC. 25. At the election to be held for the ratification or rejection of this Constitution, each
+  elector shall be permitted to vote on the homestead provision contained in the article on
+  "Miscellaneous," by depositing a ballot inscribed, "For the homestead," or "Against the
+  homestead;" and if a majority of all the votes cast at said election shall be against said
+  provisions, then it shall be stricken from the Constitution.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 9014.0 KS 1859 ***
+  
+  RESOLUTIONS 
+  
+  Resolved, That the Congress of the United States is hereby requested, upon the application
+  of Kansas for admission into the Union, to pass an act granting to the State forty-five
+  hundred thousand acres of land to aid the construction of railroads and other internal
+  improvements. 
+  Resolved, That Congress be further requested to pass an act appropriating fifty thousand
+  acres of land for the improvement of the Kansas river from its mouth to Fort Riley. 
+  Resolved, That Congress be further requested to pass an act granting all swamp lands
+  within the State for the benefit of common schools. 
+  Resolved, That Congress be further requested to pass an act appropriating five hundred
+  thousand dollars, or in lieu thereof, five hundred thousand acres of land, for the payment of
+  claims awarded to citizens of Kansas, by the Claim Commissioners appointed by the
+  Governor and Legislature of Kansas, under an act of the Territorial Legislature, passed
+  February 7, 1859. 
+  Resolved, That the Legislature shall make provision for the sale or disposal of the lands
+  granted to the State in aid of internal improvements and for other purposes, subject to the
+  same rights of preemption to the settlers thereon as are no allowed by law to settlers on the
+  public land. 
+  Resolved, That it is the desire of the people of Kansas to be admitted into the Union with
+  this Constitution. 
+  Resolved, That Congress be further requested to assume the debt of this Territory.
+  
+  *** AEND ***
+  
+  *** ASTART 9016.0 KS 1859 ***
+  
+  Done in convention at Wyandotte, this 29th day of July A.D., 1859. 
+  
+  JAMES M. WINCHELL, President of the Kansas Constitutional Convention, and
+  Delegate from Osage County. 
+  
+  JOHN A. MARTIN, Secretary
+  
+  *** AEND ***
+  
+  *** CEND ***
+                                               
+

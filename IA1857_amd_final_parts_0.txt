@@ -1,0 +1,879 @@
+  This is ready to go.
+  
+  JW 8/12/02
+  
+  
+       
+  *** CSTART  IA 09/03/1857 99/99/9999 ***
+  
+  *** MSTART 001 001.0 002.0 0 IA 1857 1868 ***
+  
+  Ratified 1868
+  
+  SEC. 1.  Every male citizen of the United States, of the age of twenty-one years, who
+  shall have been a resident of this State six months next preceding the elections, and of the
+  county in which he claims his vote, sixty days, shall be entitled to vote at all elections
+  which are now or hereafter may be authorized by law. 
+  
+  *** MEND ***
+  *** MSTART 002 033.0 003.2 0 IA 1857 1868 ***
+  
+  Ratified 1868 
+  
+  SEC. 33. The General Assembly shall, in the years one thousand eight hundred and fifty-
+  nine, one thousand eight hundred and sixty three, one thousand eight hundred and sixty-
+  five, one thousand eight hundred and sixty-seven, one thousand eight hundred sixty-nine,
+  and one thousand eight hundred and seventy-five, and every ten years thereafter, cause an
+  enumeration to be made of all the inhabitants of the State.
+  
+  *** MEND ***
+  *** MSTART 003 034.0 003.2 0 IA 1857 1868 ***
+  
+  Ratified 1868 
+  
+  SEC. 34. The number of Senators shall, at the next session following each period of
+  making such enumeration, and the next session following each United States census, be
+  fixed by law, and apportioned among the several counties according to the number of
+  inhabitants in each. 
+  
+  *** MEND ***
+  *** MSTART 004 035.0 003.2 0 IA 1857 1868 ***
+  
+  Ratified 1868 
+  
+  SEC. 35. The Senate shall not consist of more than fifty members, nor the House of
+  Representatives of more than one hundred; and they shall be apportioned among the
+  several counties and representative districts in the State according to the number of
+  inhabitants in each, upon ratios to be fixed by law; but no representative district shall
+  contain more than four organized counties, and each district shall be entitled to at least
+  one Representative. Every county and district which shall have a number of inhabitants
+  equal to one-half of the ratio fixed by law, shall be entitled to one Representative; and any
+  one county containing, in addition to the ratio fixed by law, one-half of that number, or
+  more, shall be entitled to one additional Representative. No floating district shall
+  hereafter be formed.
+  
+  *** MEND ***
+  *** MSTART 005 001.0 006.0 0 IA 1857 1868 ***
+  
+  Ratified 1868
+  
+  SEC. 1. The militia of this State shall be composed of all able-bodied male citizens,
+  between the ages of eighteen and forty-five years, except such as are, or may hereafter be,
+  exempt by the laws of the United States, or of this State; and shall be armed, equipped,
+  and trained, as the General Assembly may provide by law.
+  
+  *** MEND ***
+  *** MSTART 006 004.0 003.2 0 IA 1857 1880 ***
+  
+  Ratified 1880
+  
+  SEC. 4. No person shall be a member of the House of Representatives who shall not have
+  attained the age of twenty-one years, be a male citizen of the United States, and shall have
+  been an inhabitant of this state one year next preceding his election, and at the time of his
+  election shall have had an actual residence of sixty days in the county or district he may
+  have been chosen to represent.
+  
+  *** MEND ***
+  *** MSTART 007 007.0 002.0 0 IA 1857 1884 ***
+  
+  Ratified November 4, 1884
+  
+  SEC. 7.  The general election for State, District County and Township officers shall be
+  held on the Tuesday next after the first Monday in November.
+  
+  *** MEND ***
+  *** MSTART 008 010.0 005.0 0 IA 1857 1884 ***
+  
+  Ratified November 4, 1884
+  
+  SEC. 10.  At any regular session of the General Assembly the State may be divided into  
+  the necessary Judicial Districts for District Court purposes, or the said Districts may be
+  reorganized and the number of the Districts and the Judges of said Courts increased or
+  diminished; but no re-organization of the Districts or diminution of the Judges shall have
+  the effect of removing a Judge from office.
+  
+  *** MEND ***
+  *** MSTART 009 011.0 001.0 0 IA 1857 1884 ***
+  
+  Ratified November 4, 1884
+  
+  SEC. 11.  The Grand Jury may consist of any number of members not less than five, nor    
+    more than fifteen, as the General Assembly may by law provide, or the General
+  Assembly may provide for holding persons to answer for any criminal offense without the
+  intervention of a Grand Jury.
+  
+  *** MEND ***
+  *** MSTART 010 013.0 005.0 0 IA 1857 1884 ***
+  
+  Ratified November 4, 1884
+  
+  SEC. 13.  The qualified electors of each county shall, at the general election in the year
+  1886, and every two years thereafter elect a County Attorney, who shall be a resident of
+  the county for which he is elected, and shall hold his office for two years, and until his
+  successor shall have been elected and qualified.
+  
+  *** MEND ***
+  *** MSTART 011 016.0 012.0 0 IA 1857 1904 ***
+  
+  Ratified 1904
+           
+  SEC. 16. The first general election after the adoption of this amendment shall be held on
+  the Tuesday next after the first Monday in November in the year one thousand nine
+  hundred and six, and general elections shall be held biennially thereafter. In the year one
+  thousand nine hundred and six there shall be elected a governor, lieutenant-governor,
+  secretary of state, auditor of state, treasurer of state, attorney general, two judges of the
+  supreme court, the successors of the judges of the district court whose terms of office
+  expire on December 31st, one thousand nine hundred and six, state senators who would     
+  otherwise be chosen in the year one thousand nine hundred and five, and members of the
+  house of representatives. The terms of office of the judges of the supreme court which
+  would otherwise expire on December 31st, in odd numbered years, and all other elective
+  state, county and township officers whose terms of office would otherwise expire in
+  January in the year one thousand nine hundred and six, and members of the general
+  assembly whose successors would otherwise be chosen at the general election in the year
+  one thousand nine hundred and five, are hereby extended one year and until their      
+  successors are elected and qualified. The terms of offices of senators whose successors
+  would otherwise be chosen in the year one thousand nine hundred and seven are hereby
+  extended one year and until their successors are elected and qualified. The general
+  assembly shall make such changes in the law governing the time of election and term of
+  office of all other elective officers as shall be necessary to make the time of their election
+  and terms of office conform to this amendment, and shall provide which of the judges of
+  the supreme court shall serve as chief justice. The general assembly shall meet in regular
+  session on the second Monday in January, in the year one thousand nine hundred and six,
+  and also on the second Monday in January in the, year one thousand nine hundred and
+  seven, and biennially thereafter.
+  
+  *** MEND ***
+  *** MSTART 012 034.0 003.2 0 IA 1857 1904 ***
+  
+  Ratified 1904
+  
+  SEC. 34.  The Senate shall be composed of fifty members to be elected from the several
+  senatorial districts, established by law and at the next session of the general assembly
+  held following the taking of the state and national census, they shall be apportioned
+  among the several counties or districts of the state, according to population as shown by
+  the last preceding census.
+           
+  *** MEND ***
+  *** MSTART 013 035.0 003.2 0 IA 1857 1904 ***
+  
+  Ratified 1904
+  
+  SEC. 35.  The House of Representatives shall consist of not more than one hundred and
+  eight members. The Ratio of representation shall be determined by dividing the whole
+  number of the population of the state as shown by the last preceding state or national
+  census, by the whole number of counties then existing or organized, but each county shall
+  constitute one representative district and be entitled to one representative, but each county
+  having a population in excess of the ratio number, as herein provided of three fifths or
+  more of such ratio number shall be entitled to one additional representative, but said
+  addition shall extend only to the nine counties having the greatest population.
+  
+  *** MEND ***
+  *** MSTART 014 036.0 003.2 0 IA 1857 1904 ***         
+  
+  Ratified 1904
+  
+  SEC. 36. The General Assembly shall, at the first regular session held following the
+  adoption of this amendment, and at each succeeding regular session held next after the
+  taking of such census, fix the ratio of representation, and apportion the additional
+  representatives, as herein before required.
+  
+  *** MEND ***
+  *** MSTART 015 018.0 001.0 0 IA 1857 1908 ***
+  
+  Ratified 1908         
+  
+  SEC. 18. Private property shall not be taken for public use without just compensation first
+  being made, or secured to be made, to the owner thereof, as soon as the damages shall be
+  assessed by a jury, who shall not take into consideration any advantages that may result to
+  said owner on account of the improvement for which it is taken.
+      The general assembly, however, may pass laws permitting the owners of lands to
+  construct drains, ditches, and levees for agricultural, sanitary or mining purposes across
+  the lands of others, and provide for the organization of drainage districts, vest the proper
+  authorities with power to construct and maintain levees, drains and ditches and to keep in
+  repair all drains, ditches, and levees heretofore constructed under the laws of the state, by
+  special assessments upon the property benefited thereby. The general assembly may 
+  provide by law for the condemnation of such real estate as shall be necessary for the
+  construction and maintenance of such drains, ditches and levees, and prescribe the
+  method of making such condemnation.
+  
+  *** MEND ***
+  *** MSTART 016 007.0 002.0 0 IA 1857 1916 ***
+  
+  Ratified 1916 
+           
+  SEC. 7(?).  The general election for state, district, county and township officers in the    
+  year 1916 shall be held in the same month and on the same day as that fixed by the laws
+  of the United States for the election of presidential electors, or of president and vice-
+  president of the United States; and thereafter such election shall be held at such time as
+  the general assembly may by law provide.
+           
+  *** MEND ***
+  *** MSTART 017 004.0 003.2 0 IA 1857 1926 ***
+                                   
+   Ratified 1926
+  
+  SEC. 4.  No person shall be a member of the House of Representatives who shall not
+  have attained the age of twenty-one years, be a citizen of the United States, and shall have
+  been an inhabitant of this state one year next preceding his election, and at the time of his
+  election shall have had an actual residence of sixty days in the county or district he may
+  have been chosen to represent.
+  
+  *** MEND ***
+  *** MSTART 018 034.0 003.2 0 IA 1857 1928 ***
+  
+  Ratified 1928
+  
+  SEC. 34.  The Senate shall be composed of fifty members to be elected from the several
+  senatorial districts, established by law and at the next session of the general assembly
+  held following the taking of the state and national census, they shall be apportioned
+  among the several counties or districts of the state, according to population as shown by
+  the last preceding census, but no county shall be entitled to more than one (1) senator.
+  
+  *** MEND ***
+  *** MSTART 019 033.0 003.2 0 IA 1857 1936 ***
+  
+  Ratified 1936
+  
+  SEC. 33.  REPEALED
+  
+  *** MEND *** 
+  *** MSTART 020 008.0 007.0 0 IA 1857 1942 ***
+  
+  Ratified 1942
+  
+  SEC. 8. All motor vehicle registration fees and all licenses and excise taxes on motor     
+  vehicle fuel, except cost of administration, shall be used exclusively for the construction,
+  maintenance and supervision of the public highways exclusively within the state or for
+  the payment of bonds issued or to be issued for the construction of such public highways
+  and the payment of interest on such bonds.
+  
+  *** MEND ***
+*** MSTART 021 004.0 004.0 0 IA 1857 1952 ***  
+
+  
+  Ratified 1952
+  
+  SEC. 4. The persons respectively having the highest number of votes for Governor and
+  Lieutenant Governor, shall be declared duly elected; but in case two or more persons shall
+  have an equal, and the highest number of votes for either office, the General Assembly
+  shall, by joint vote, forthwith proceed to elect one of said persons Governor, or
+  Lieutenant Governor, as the case may be.
+         If, upon the completion of the canvass of votes for Governor and Lieutenant
+  Governor by the General Assembly, it shall appear that the person who received the
+  highest number of votes for Governor has since died, resigned, is unable to qualify, fails
+  to qualify, or for any other reason is unable to assume the duties of the office of Governor
+  for the ensuing term, the powers and duties of the office shall devolve upon the person  
+  who received the highest number of votes for Lieutenant Governor until the disability is
+  removed and, upon inauguration, he shall assume the powers and duties of Governor.
+  
+  *** MEND ***
+               
+*** MSTART 022 019.0 004.0 0 IA 1857 1952 ***
+  
+  Ratified 1952
+  
+  SEC. 19. If there be a vacancy in the office of Governor and the Lieutenant Governor
+  shall by reason of death, impeachment, resignation, removal from office, or other
+  disability become incapable of performing the duties pertaining to the office of Governor,
+  the President pro tempore of the Senate shall act as Governor until the vacancy is filled or
+  the       disability removed; and if the President pro tempore of the Senate, for any of the
+  above causes, shall be incapable of performing the duties pertaining to the office of
+  Governor the same shall devolve upon the Speaker of the House of Representatives; and
+  if the Speaker of the House of Representatives, for any of the above causes, shall be
+  incapable of performing the duties of the office of Governor, the Justices of the Supreme
+  Court shall convene the General Assembly by proclamation and the General Assembly
+  shall organize by the election of a President pro tempore by the Senate and a Speaker by
+  the House of Representatives. The General Assembly shall thereupon immediately
+  proceed to the election of a Governor and Lieutenant Governor in joint convention.
+  
+  *** MEND ***
+  
+*** MSTART 023 004.0 005.0 0 IA 1857 1962 ***
+  
+  Ratified June 4, 1962
+  
+  SEC. 4. The Supreme Court shall have appellate jurisdiction only in cases in chancery,
+  and shall constitute a court for the correction of errors at law, under such restrictions as
+  the General Assembly may by law prescribe; and shall have power to issue all writs and
+  process necessary to secure justice to parties, and exercise a supervisory and
+  administrative control over all inferior judicial tribunals throughout the State.
+  
+  *** MEND ***
+  *** MSTART 024 003.0 005.0 0 IA 1857 1962 ***
+  
+  Ratified June 4, 1962
+  
+  SEC. 3.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 025 005.0 005.0 0 IA 1857 1962 ***
+  
+  Ratified June 4, 1962
+  
+  SEC. 5.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 026 009.0 005.0 0 IA 1857 1962 ***
+  
+  Ratified June 4, 1962
+  
+  SEC. 9.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 027 011.0 005.0 0 IA 1857 1962 ***
+  
+  Ratified June 4, 1962
+  
+  SEC. 11.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 028 015.0 005.0 0 IA 1857 1962 ***
+  
+  Ratified June 4, 1962
+  
+   SEC. 15. Vacancies in the Supreme Court and District Court shall be filled by
+  appointment by the Governor from lists of nominees submitted by the appropriate judicial
+  nominating commission. Three nominees shall be submitted for each Supreme Court
+  vacancy, and two nominees shall be submitted for each District Court vacancy. If the
+  Governor fails for thirty days to make the appointment, it shall be made from such
+  nominees by the Chief Justice of the Supreme Court.         
+  
+  *** MEND ***
+  
+  *** MSTART 029 016.0 005.0 0 IA 1857 1962 ***
+  
+  Ratified June 4, 1962
+  
+  SEC. 16. There shall be a State Judicial Nominating Commission. Such commission shall
+  make nominations to fill vacancies in the Supreme Court. Until July 4, 1973, and
+  thereafter unless otherwise provided by law, the State Judicial Nominating Commission    
+     shall be composed and selected as follows: There shall be not less than three nor more
+  than eight appointive members, as provided by law, and an equal number of elective
+  members on such Commission, all of whom shall be electors of the state. The appointive
+  members shall be appointed by the Governor subject to confirmation by the Senate. The
+  elective members shall be elected by the resident members of the bar of the state. The
+  judge of the Supreme Court who is senior in length of service on said Court, other than
+  the Chief Justice, shall also be a member of such Commission and shall be its chairman.
+         There shall be a District Judicial Nominating Commission in each judicial district of
+  the state. Such commissions shall make nominations to fill vacancies in the District Court
+  within their respective districts. Until July 4, 1973, and thereafter unless otherwise
+  provided by law, District Judicial Nominating Commissions shall be composed and
+  selected as follows: There shall be not less than three nor more than six appointive
+  members, as provided by law, and an equal number of elective members on each such
+  commission, all of whom shall be electors of the district. The appointive members shall
+  be appointed by the Governor. The elective members shall be elected by the resident
+  members of the bar of the district. The district judge of such district who is senior in
+  length of service shall also be a member of such commission and shall be its chairman.
+         Due consideration shall be given to area representation in the appointment and
+  election of Judicial Nominating Commission members. Appointive and elective members
+  of Judicial Nominating Commissions shall serve for six year terms, shall be ineligible for
+  a second six year term on the same commission, shall hold no office of profit of the
+  United States or of the state during their terms, shall be chosen without reference to
+  political affiliation, and shall have such other qualifications as may be prescribed by law.
+  As near as may be, the terms of one-third of such members shall expire every two years.
+  
+  *** MEND ***
+  *** MSTART 030 017.0 005.0 0 IA 1857 1962 ***
+  
+  Ratified June 4, 1962
+  
+  SEC. 17. Members of all courts shall have such tenure in office as may be fixed by law,
+  but terms of Supreme Court Judges shall be not less than eight years and terms of District
+  Court Judges shall be not less than six years. Judges shall serve for one year after
+  appointment and until the first day of January following the next judicial election after the
+  expiration of such year. They shall at such judicial election stand for retention in office on 
+   a separate ballot which shall submit the question of whether such judge shall be retained
+  in office for the tenure prescribed for such office and when such tenure is a term of years,
+  on their request, they shall, at the judicial election next before the end of each term, stand
+  again for retention on such ballot.  Present Supreme Court and District Court Judges, at
+  the expiration of their respective terms, may be retained in office in like manner for the
+  tenure prescribed for such office. The General Assembly shall prescribe the time for  
+  holding judicial elections.
+  
+  *** MEND ***
+  *** MSTART 031 018.0 005.0 0 IA 1857 1962 ***
+  
+  Ratified June 4, 1962
+  
+  SEC. 18. Judges of the Supreme Court and District Court shall receive salaries from the
+  state, shall be members of the bar of the state and shall have such other qualifications as
+  may be prescribed by law. Judges of the Supreme Court and District Court shall be
+  ineligible to any other office of the state while serving on said court and for two years
+  thereafter, except that District Judges shall be eligible to the office of Supreme Court   
+  Judge. Other judicial officers shall be selected in such manner and shall have such tenure,
+  compensation and other qualification as may be fixed by law. The General Assembly
+  shall prescribe mandatory retirement for Judges of the Supreme Court and District Court
+  at a specified age and shall provide for adequate retirement compensation. Retired judges
+  may be subject to special assignment to temporary judicial duties by the Supreme Court,
+  as provided by law.
+  
+  *** MEND ***
+  *** MSTART 032 003.0 010.0 0 IA 1857 1964 ***
+  
+  Ratified 1964
+  
+  SEC. 3.  At the general election to be held in the year one thousand nine hundred and
+  seventy, and in each tenth year thereafter, and also at such times as the General Assembly
+  may, by law, provide, the question, "Shall there be a Convention to revise the
+  Constitution, and propose amendment or amendments to same?" shall be decided by the
+  electors qualified to vote for members of the General Assembly; and in ease a majority of
+  the electors so qualified, voting at such election, for and against such proposition, shall
+  decide in favor of a Convention for such purpose, the General Assembly, at its next
+  session, shall provide by law for the election of delegates to such Convention, and for
+  submitting the results of said Convention to the people, in such manner and at such time
+  as the General Assembly shall provide; and if the people shall approve and ratify such
+  amendment or amendments, by a majority of the electors qualified to vote for members of
+  the General Assembly, voting thereon, such amendment or amendments shall become a
+  part of the constitution of this state. If two or more amendments shall be submitted at the
+  same time, they shall be submitted in such a manner that electors may vote for or against
+  each such amendment separately.
+  
+  *** MEND ***
+  *** MSTART 033 026.0 003.2 0 IA 1857 1966 ***
+  
+  Ratified November 8, 1966
+  
+   SEC. 26. No law of the General Assembly, passed at a regular session of a public nature,
+  shall take effect until the first day of July next after the passage thereof. Laws passed at a
+  special session shall take effect ninety days after the adjournment of the General
+  Assembly by which they were passed. If the General Assembly shall deem any law of
+  immediate importance, they may provide that the same shall take effect by publication in
+  newspapers in the State.
+  
+  *** MEND ***
+  *** MSTART 034 002.0 003.2 0 IA 1857 1968 ***
+  
+  Ratified November 5, 1968
+  
+  SEC. 2. The General Assembly shall meet in session on the second Monday of January of
+  each year. The Governor of the state may convene the General Assembly by proclamation
+  in the interim.
+  
+  *** MEND ***
+  *** MSTART 035 038.A 003.2 0 IA 1857 1968 ***
+  
+  Ratified November 5, 1968           
+  
+  SEC. 38A. Municipal corporations are granted home rule power and authority, not
+  inconsistent with the laws of the General Assembly, to determine their local affairs and
+  government, except that they shall not have power to levy any tax unless expressly
+  authorized by the General Assembly.
+           The rule or proposition of law that a municipal corporation possesses and can
+  exercise only those powers granted in express words is not a part of the law of this state.
+  
+  *** MEND ***
+  *** MSTART 036 006.0 003.2 0 IA 1857 1968 ***
+  
+  Ratified November 5, 1968           
+  
+  SEC. 6. The number of senators shall total not more than one-half the membership of the
+  house of representatives. Senators shall be classified so that as nearly as possible one-half
+  of the members of the senate shall be elected every two years.
+           
+  *** MEND ***
+  *** MSTART 037 034.0 003.2 0 IA 1857 1968 ***
+  
+  Ratified November 5, 1968           
+  
+  SEC. 34. The senate shall be composed of not more than fifty and the house of
+  representatives of not more than one hundred members. Senators and representatives shall
+  be elected from districts established by law. Each district so established shall be of
+  compact and contiguous territory. The state shall be apportioned into senatorial and
+  representative districts on the basis of population. The General Assembly may provide by
+  law for factors in addition to population, not in conflict with the Constitution of the
+  United States, which may be considered in the apportioning of senatorial districts. No law
+  so adopted shall permit the establishment of senatorial districts whereby a majority of the
+  members of the senate shall represent less than forty percent of the population of the state
+  as shown by the most recent United States decennial census.
+  
+  *** MEND ***
+  *** MSTART 038 035.0 003.2 0 IA 1857 1968 ***
+  
+  Ratified November 5, 1968           
+           
+  SEC. 35. The General Assembly shall in 1971 and in each year immediately following the
+  United States decennial census determine the number of senators and representatives to
+  be elected to the General Assembly and establish senatorial and representative districts.
+  The General Assembly shall complete the apportionment prior to September 1 of the year
+  so required. If the apportionment fails to become law prior to September 15 of such year,
+  the Supreme Court shall cause the state to be apportioned into senatorial and
+  representative districts to comply with the requirements of the Constitution prior to
+  December 31 of such year. The reapportioning authority shall, where necessary in
+  establishing senatorial districts, shorten the term of any senator prior to completion of the
+  term. Any senator whose term is so terminated shall not be compensated for the
+  uncompleted part of the term.
+  
+  *** MEND ***
+  *** MSTART 039 036.0 003.2 0 IA 1857 1968 ***
+  
+  Ratified November 5, 1968           
+  
+  SEC. 36. Upon verified application by any qualified elector, the Supreme Court shall
+  review an apportionment plan adopted by the General Assembly which has been enacted
+  into law. Should the Supreme Court determine such plan does not comply with the
+  requirements of the Constitution, the court shall within ninety days adopt or cause to be     
+    adopted an apportionment plan which shall so comply. The Supreme Court shall have
+  original jurisdiction of all litigation questioning the apportionment of the General
+  Assembly or any apportionment plan adopted by the General Assembly.
+  
+  *** MEND ***
+  *** MSTART 040 037.0 003.2 0 IA 1857 1968 ***
+  
+  Ratified November 5, 1968           
+  
+  SEC. 37. When a congressional district is composed of two or more counties it shall not
+  be entirely separated by a county belonging to another district and no county shall be
+  divided in forming a congressional district.
+  
+  *** MEND ***
+  *** MSTART 041 016.0 003.2 0 IA 1857 1968 ***
+  
+  Ratified November 5, 1968           
+  
+  SEC. 16. Every bill which shall have passed the General Assembly, shall, before it
+  becomes a law, be presented to the Governor. If he approve, he shall sign it; but if not, he
+  shall return it, with his objections, to the House in which it originated, which shall enter
+  the same upon their journal, and proceed to reconsider it; if, after such reconsideration, it
+  again pass both Houses, by yeas and nays, by a majority of two thirds of the members of
+  each House, it shall become a law, notwithstanding the Governor's objections. If any bill
+  shall not be returned within three days after it shall have been presented to him, (Sunday
+  excepted), the same shall be a law in like manner as if he had signed it, unless the General
+  Assembly, by adjournment prevent such return. Any bill submitted to the Governor for
+  his approval during the last three days of a session of the General Assembly, shall be
+  deposited by him in the office of the Secretary of State within thirty days after the
+  adjournment, with his approval, if approved by him, and with his objections if he
+  disapproves thereof.
+  The Governor may approve appropriation bills in whole or in part, and may
+  disapprove any item of an appropriation bill; and the part approved shall become a law.
+  Any item of an appropriation bill disapproved by the Governor shall be returned, with his
+  objections, to the house in which it originated, or shall be deposited by him in the office
+  of the Secretary of State in the case of an appropriation bill submitted to the Governor for
+  his approval during the last three days of a session of the General Assembly, and the
+  procedure in each case shall be the same as provided for other bills. Any such item of an
+  appropriation bill may be enacted into law notwithstanding the Governor's objections, in
+  the same manner as provided for other bills.
+  
+  *** MEND ***
+  *** MSTART 042 025.0 003.2 0 IA 1857 1968 ***
+  
+  Ratified November 5, 1968           
+  
+  SEC. 25. Each member of the General Assembly shall receive such compensation and
+  allowances for expenses as shall be fixed by law but no General Assembly shall have the
+  power to increase compensation and allowances effective prior to the convening of the
+  next General Assembly following the session in which any increase is adopted.
+  
+  *** MEND ***
+  *** MSTART 043 039.0 003.2 0 IA 1857 1970 ***
+  
+  Ratified November 3, 1970
+  
+  SEC. 39.  In establishing senatorial and representative districts, the state shall be divided
+  into as many senatorial districts as there are members of the senate and into as many
+  representative districts as there are members of the house of representatives.  One senator
+  shall be elected from each senatorial district and one representative shall be elected from
+  each representative district.
+  
+  *** MEND ***
+  *** MSTART 044 001.0 002.0 0 IA 1857 1970 ***
+  
+  Ratified November 3, 1970
+  
+  SEC. 1.  Every citizen of the United States of the age of twenty-one years, who shall have
+  been a resident of this state for such period of time as shall be provided by law and of the
+  county in which he claims his vote for such period of time as shall be provided by law,
+  shall be entitled to vote at all elections which are now or hereafter may be authorized by
+  law.  The General Assembly may provide by law for different periods of residence in
+  order to vote for various officers or in order to vote in various elections.  The require
+  periods of residence shall not exceed six months in this state and sixty days in the county.
+  
+  *** MEND ***
+  *** MSTART 045 013.0 005.0 0 IA 1857 1970 ***
+  
+  Ratified November 3, 1970
+  
+  SEC. 13.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 046 002.0 004.0 0 IA 1857 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 2.  The Governor shall be elected by the qualified electors at the time and place of
+  voting for members of the General Assembly, and shall hold his office for four years from
+  the time of his installation, and until his successor is elected and qualifies.
+  
+  *** MEND ***
+  *** MSTART 047 003.0 004.0 0 IA 1857 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 3. There shall be a Lieutenant Governor who shall hold his office for the same term,
+  and be elected at the same time as the Governor. In voting for Governor and Lieutenant
+  Governor, the electors shall designate for whom they vote as Governor, and for whom as
+  Lieutenant Governor. The returns of every election for Governor, and Lieutenant
+  Governor, shall be sealed up and transmitted to the seat of government of the State,
+  directed to the Speaker of the House of Representatives, who shall open and publish them
+  in the presence of both Houses of the General Assembly.
+  
+  *** MEND ***
+  *** MSTART 048 015.0 004.0 0 IA 1857 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 15. The official term of the Governor, and Lieutenant Governor, shall commence on
+  the second Monday of January next after their election, and continue until their successors
+  are elected and qualify. The Lieutenant Governor, while acting as Governor, shall receive
+  the same compensation as provided for Governor; and while presiding in the Senate, and
+  between sessions such compensation and expenses as provided by law.
+  
+  *** MEND ***
+  *** MSTART 049 022.0 004.0 0 IA 1857 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 22. A Secretary of State, an Auditor of State and a Treasurer of State shall be
+  elected by the qualified electors at the same time that the governor is elected and for a
+  four-year term commencing on the first day of January next after their election, and they
+  shall perform such duties as may be provided by law.
+  
+  *** MEND ***
+  *** MSTART 050 012.0 005.0 0 IA 1857 1972 ***
+  
+  Ratified November 7, 1972
+           
+  SEC. 12.  The General Assembly shall provide, by law, for the election of an Attorney
+  General by the people, whose term of office shall be four years, and until his successor is
+  elected and qualifies.
+  
+  *** MEND ***
+  *** MSTART 051 019.0 005.0 0 IA 1857 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 19. In addition to the legislative power of impeachment of judges as set forth in
+  Article three (III), sections nineteen (19) and twenty (20) of the Constitution, the Supreme
+  Court shall have power to retire judges for disability and to discipline or remove them for
+  good cause, upon application by a commission on judicial qualifications. The General
+  Assembly shall provide by law for the implementation of this section.
+  
+  *** MEND ***
+  *** MSTART 052 028.0 003.2 0 IA 1857 1972 ***
+  
+  Ratified November 7, 1972
+  
+  SEC. 28.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 053 004.0 009.2 0 IA 1857 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 4.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 054 004.0 012.0 0 IA 1857 1974 ***
+  
+  Ratified November 5, 1974 
+  
+  SEC. 4. REPEALED
+  
+  *** MEND ***
+  *** MSTART 055 002.0 003.2 0 IA 1857 1974 ***
+  
+  Ratified November 5, 1974
+  
+  SEC. 2. The General Assembly shall meet in session on the second Monday of January of
+  each year. Upon written request to the presiding officer of each House of the General
+  Assembly by two-thirds of the members of each House, the General Assembly shall   
+  convene in special session. The Governor of the state may convene the General Assembly
+  by proclamation in the interim.
+  
+  *** MEND ***
+  *** MSTART 056 039.A 003.2 0 IA 1857 1978 ***
+  
+  Ratified November 7, 1978
+  
+  SEC. 39A. Counties or joint county-municipal corporation governments are granted home
+  rule power and authority, not inconsistent with the laws of the general assembly, to
+  determine their local affairs and government, except that they shall not have power to
+  levy any tax unless expressly authorized by the general assembly. The general assembly
+  may provide for the creation and dissolution of joint county-municipal corporation
+  governments. The general assembly may provide for the establishment of charters in
+  county or joint county-municipal corporation governments.
+         If the power or authority of a county conflicts with the power and authority of a
+  municipal corporation, the power and authority exercised by a municipal corporation shall
+  prevail within its jurisdiction.
+         The proposition or rule of law that a county or joint county-municipal corporation
+  government possesses and can exercise only those powers granted in express words is not
+  a part of the law of this state.
+  
+  *** MEND ***
+  *** MSTART 057 040.0 003.2 0 IA 1857 1984 ***
+  
+  Ratified November 6, 1984
+  
+  SEC. 40. The general assembly may nullify an adopted administrative rule of a state
+  agency by the passage of a resolution by a majority of all of the members of each house of
+  the general assembly.
+  
+  *** MEND ***
+  *** MSTART 058 007.0 009.2 0 IA 1857 1984 ***
+  
+  Ratified November 6, 1984
+  
+  SEC. 7.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 059 026.0 003.2 0 IA 1857 1986 ***
+  
+  Ratified November 4, 1986
+  
+  SEC. 26.  An act of the general assembly passed at a regular session of a general
+  assembly shall take effect on July 1 following its passage unless a different effective date
+  is stated in an act of the general assembly. An act passed at a special session of a general
+  assembly shall take effect ninety days after adjournment of the special session unless a
+  different effective date is stated in an act of the general assembly. The general assembly
+  may establish by law a procedure for giving notice of the contents of acts of immediate
+  importance which become law.
+  
+  *** MEND ***
+  *** MSTART 060 002.0 004.0 0 IA 1857 1988 ***
+  
+  Ratified November 8, 1988
+  
+  SEC. 2. The governor and the lieutenant governor shall be elected by the qualified
+  electors at the time and place of voting for members of the general assembly. Each of
+  them shall hold office for four years from the time of installation in office and until a
+  successor is elected and qualifies.
+  
+  *** MEND ***
+  *** MSTART 061 003.0 004.0 0 IA 1857 1988 ***
+  
+  Ratified November 8, 1988
+  
+  SEC. 3. The electors shall designate their selections for governor and lieutenant governor
+  as if these two offices were one and the same. The names of nominees for the governor
+  and the lieutenant governor shall be grouped together in a set on the ballot according to
+  which nominee for governor is seeking office with which nominee for lieutenant
+  governor, as prescribed by law. An elector shall cast only one vote for both a nominee for
+  governor and a nominee for lieutenant governor. The returns of every election for
+  governor and lieutenant governor shall be sealed and transmitted to the seat of
+  government of the state, and directed to the speaker of the house of representatives who
+  shall open and publish them in the presence of both houses of the general assembly.
+  
+  *** MEND ***
+  *** MSTART 062 004.0 004.0 0 IA 1857 1988 ***
+  
+  Ratified November 8, 1988
+           
+  SEC. 4. The nominees for governor and lieutenant governor jointly having the highest
+  number of votes cast for them shall be declared duly elected. If two or more sets of
+  nominees for governor and lieutenant governor have an equal and the highest number of   
+  votes for the offices jointly, the general assembly shall by joint vote proceed, as soon as is
+  possible, to elect one set of nominees for governor and lieutenant governor. If, upon the
+  completion by the general assembly of the canvass of votes for governor and lieutenant
+  governor, it appears that the nominee for governor in the set of nominees for governor
+  and lieutenant governor receiving the highest number of votes has since died or resigned,
+  is unable to qualify, fails to qualify, or is for any other reason unable to assume the duties
+  of the office of governor for the ensuing term, the powers and duties shall devolve to the
+  nominee for lieutenant governor of the same set of nominees for governor and lieutenant
+  governor, who shall assume the powers and duties of governor upon inauguration and
+  until the disability is removed. If both nominees for governor and lieutenant governor are
+  unable to assume the duties of the office of governor, the person next in succession shall
+  act as governor.
+  
+  *** MEND ***
+  *** MSTART 063 005.0 004.0 0 IA 1857 1988 ***
+  
+  Ratified November 8, 1988
+  
+  SEC. 5. Contested elections for the offices of governor and lieutenant governor shall be
+  determined by the general assembly as prescribed by law.
+  
+  *** MEND ***
+  *** MSTART 064 015.0 004.0 0 IA 1857 1988 ***
+  
+  Ratified November 8, 1988
+  
+  SEC. 15. The official terms of the governor and lieutenant governor shall commence on
+  the Tuesday after the second Monday of January next after their election and shall
+  continue until their successors are elected and qualify. The governor and lieutenant
+  governor shall be paid compensation and expenses as provided by law. The lieutenant
+  governor while acting as governor, shall be paid the compensation and expenses,
+  prescribed for the governor.
+  
+  *** MEND ***
+  *** MSTART 065 018.0 004.0 0 IA 1857 1988 ***
+  
+  Ratified November 8, 1988
+  
+  SEC. 18. The lieutenant governor shall have the duties provided by law and those duties
+  of the governor assigned to the lieutenant governor by the governor.
+  
+  *** MEND ***
+  *** MSTART 066 019.0 004.0 0 IA 1857 1988 ***
+  
+  Ratified November 8, 1988
+  
+  SEC. 19.  If there be a vacancy in the office of the governor and the lieutenant governor
+  shall by reason of death, impeachment, resignation, removal from office, or other
+  disability become incapable of performing the duties pertaining to the office of governor,
+  the president of the senate shall act as governor until the vacancy is filled or the disability
+  removed; and if the president of the senate, for any of the above causes, shall be incapable
+  of performing the duties pertaining to the office of governor the same shall devolve upon
+  the speaker of the house of representatives; and if the speaker of the house of
+  representatives, for any of the above causes, shall be incapable of performing the duties of
+  the office of governor, the justices of the supreme court shall convene the general
+  assembly by proclamation and the general assembly shall organize by the election of a
+  president by the senate and a speaker by the house of representatives. The general
+  assembly shall thereupon immediately proceed to the election of a governor and
+  lieutenant governor in joint convention.
+  
+  *** MEND ***
+  *** MSTART 067 005.0 001.0 0 IA 1857 1992 ***
+  
+  Ratified November 3, 1992
+  
+  SEC. 5.  REPEALED
+  
+  *** MEND ***
+  *** MSTART 068 009.0 007.0 0 IA 1857 1996 ***
+  
+  Ratified 1996
+  
+  SEC. 9. All revenue derived from state license fees for hunting, fishing, and trapping, and
+  all state funds appropriated for, and federal or private funds received by the state for, the
+  regulation or advancement of hunting, fishing, or trapping, or the protection, propagation, 
+         restoration, management, or harvest of fish or wildlife, shall be used exclusively for
+  the performance and administration of activities related to those purposes.
+  
+  *** MEND ***
+  *** MSTART 069 001.0 001.0 0 IA 1857 1998 ***
+  
+  Ratified November 3, 1998 
+  
+  SEC. 1. All men and women are, by nature, free and equal, and have certain inalienable
+  rights, among which are those of enjoying and defending life and liberty, acquiring,
+  possessing and protecting property, and pursuing and obtaining safety and happiness.
+  
+  *** MEND ***
+  *** MSTART 070 011.0 001.0 0 IA 1857 1998 ***
+  
+  Ratified November 3, 1998
+  
+  SEC. 11.  All offenses less than felony and in which the maximum permissible
+  imprisonment does not exceed thirty days shall be tried summarily before an officer
+  authorized by law, on information under oath, without indictment, or the intervention of a
+  grand jury, saving to the defendant the right of appeal; and no person shall be held to
+  answer for any higher criminal offense, unless on presentment or indictment by a grand
+  jury, except in cases arising in the army, or navy, or in the militia, when in actual service,
+  in time of war or public danger.
+         The grand jury may consist of any number of members not less than five, nor more
+  than fifteen, as the general assembly may by law provide, or the general  assembly may
+  provide for holding personas to answer for any criminal offense without the intervention
+  of a grand jury.
+  
+  *** MEND ***
+  
+  *** CEND ***

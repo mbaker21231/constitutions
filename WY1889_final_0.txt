@@ -1,0 +1,2211 @@
+Wyoming was originally coded by Erik Christianson
+
+I worked with the files and have completed changes.
+
+This is ready to go.
+
+JW 7/31/03
+
+
+
+
+*** CSTART WY 09/30/1889 12/31/2000 ***
+
+CONSTITUTION OF THE STATE OF WYOMING-1889
+
+*** ASTART 9001.0 WY 1889 ***
+PREAMBLE
+
+We, the People of the State of Wyoming, grateful to God for our civil, political and religious
+liberties, and desiring to secure them to ourselves and perpetuate them to our posterity, do ordain
+and establish this Constitution.
+*** AEND ***
+*** ASTART 001.0 WY 1889 ***
+
+ARTICLE No. I
+
+DECLARATION OF RIGHTS
+*** SSTART 001.0 001.0 0 WY 1889 ***
+SECTION 1. All power is inherent in the people, and all free governments are founded on their
+authority, and instituted for their peace, safety and happiness; for the advancements of these ends
+they have at all times an inalienable and indefeasable right to alter, reform or abolish the
+government in such manner as they may think proper.
+*** SEND ***
+*** SSTART 002.0 001.0 0 WY 1889 ***
+SEC. 2. In their inherent right to life, liberty and the pursuit of happiness, all members of the
+human race are equal.
+*** SEND ***
+*** SSTART 003.0 001.0 0 WY 1889 ***
+SEC. 3. Since equality in the enjoyment of natural and civil rights is only made sure through
+political equality, the laws of this State affecting the political rights and privileges of its citizens
+shall be without distinction of race, color, sex, or any circumstance or condition whatsoever other
+than individual incompetency or unworthiness, duly ascertained by a court of competent
+jurisdiction.
+*** SEND ***
+*** SSTART 004.0 001.0 0 WY 1889 ***
+SEC. 4. The right of the people to be secure in their persons, houses, papers and effects against
+unreasonable searches and seizures shall not be violated, and no warrant shall issue but upon
+probable cause, supported by affidavit, particularly describing the place to be searched or the
+person or thing to be seized.
+*** SEND ***
+*** SSTART 005.0 001.0 0 WY 1889 ***
+SEC. 5. No person shall be imprisoned for debt except in cases of fraud.
+*** SEND ***
+*** SSTART 006.0 001.0 0 WY 1889 ***
+SEC. 6. No person shall be deprived of life, liberty or property without due process of law.
+*** SEND ***
+*** SSTART 007.0 001.0 0 WY 1889 ***
+SEC. 7. Absolute, arbitrary power over the lives, liberty and property of freemen exists nowhere
+in a republic, not even in the largest majority.
+*** SEND ***
+*** SSTART 008.0 001.0 0 WY 1889 ***
+SEC. 8. All courts shall be open and every person for an injury done to person, reputation or
+property shall have justice administered without sale, denial or delay. Suits may be brought
+against the State in such manner and in such courts as the legislature may by law direct.
+*** SEND ***
+*** SSTART 009.0 001.0 0 WY 1889 ***
+SEC. 9. The right of trial by jury shall remain inviolate in criminal cases, but a jury in civil cases
+in all courts, or in criminal cases in courts not of record, may consist of less than twelve men, as
+may be prescribed by law. Hereafter a grand jury may consist of twelve men, any nine of whom
+concurring may find an indictment, but the legislature may change, regulate or abolish the grand
+jury system.
+*** SEND ***
+*** SSTART 010.0 001.0 0 WY 1889 ***
+SEC. 10. In all criminal prosecutions the accused shall have the right to defend in person and by
+counsel, to demand the nature and cause of the accusation, to have a copy thereof, to be
+confronted with .the witnesses against him, to have compulsory process served for obtaining
+witnesses and to a speedy trial by an impartial jury of the county or district in which the offense
+is alleged to have been committed.
+*** SEND ***
+*** SSTART 011.0 001.0 0 WY 1889 ***
+SEC. 11. No person shall be compelled to testify against himself in any criminal case, nor shall
+any person be twice put, in jeopardy for the same offence. If the jury disagree, or if the judgment
+be arrested after a verdict, or if the judgment be reversed for error in law, the accused shall not be
+deemed to have been in jeopardy.
+*** SEND ***
+*** SSTART 012.0 001.0 0 WY 1889 ***
+SEC. 12. No person shall be detained as a witness in any criminal prosecution longer than may
+be necessary to take his testimony or deposition, nor be confined in any room where criminals are
+imprisoned.
+*** SEND ***
+*** SSTART 013.0 001.0 0 WY 1889 ***
+SEC. 13. Until otherwise provided by law, no person shall, for a felony, be proceeded against
+criminally, otherwise than by indictment, except in cases arising in the land or naval forces, or in
+the militia when in actual service in time of war or public danger.
+*** SEND ***
+*** SSTART 014.0 001.0 0 WY 1889 ***
+SEC. 14. All persons shall be bailable by sufficient sureties, except for capital offences when the
+proof is evident or the presumption great. Excessive bail shall not be required, nor excessive
+fines imposed, nor shall cruel or unusual punishment be inflicted.
+*** SEND ***
+*** SSTART 015.0 001.0 0 WY 1889 ***
+SEC. 15. The penal code shall be framed on the humane principles of reformation and
+prevention.
+*** SEND ***
+*** SSTART 016.0 001.0 0 WY 1889 ***
+SEC. 16. No person arrested and confined in jail shall be treated with unnecessary rigor. The
+erection of safe and comfortable prisons, and inspection of prisons, and the humane treatment of
+prisoners shall be provided for.
+*** SEND ***
+*** SSTART 017.0 001.0 0 WY 1889 ***
+SEC. 17. The privilege of the writ of habeas corpus shall not be suspended unless, when in case
+of rebellion or invasion, the public safety may require it.
+*** SEND ***
+*** SSTART 018.0 001.0 0 WY 1889 ***
+SEC. 18. The free exercise and enjoyment of religious profession and worship without
+discrimination or preference shall be forever guaranteed in this State, and no person shall be
+rendered incompetent to hold any office of trust or profit, or to serve as a witness or juror,
+because of his opinion on any matter of religious belief whatever; but the liberty of conscience
+hereby secured shall not be so construed as to excuse acts of licentiousness or justify practices
+inconsistent, with the peace or safety of the State.
+*** SEND ***
+
+*** SSTART 019.0 001.0 0 WY 1889 ***
+SEC. 19. No money of the State shall ever be given or appropriated to any sectarian or religious
+society or institution.
+*** SEND ***
+*** SSTART 020.0 001.0 0 WY 1889 ***
+SEC. 20. Every person may freely speak, write and publish on all subjects, being responsible for
+the abuse of that right; and in all trials for libel, both civil and criminal, the truth, when published
+with good intent and justifiable ends, shall be a sufficient defense, the jury, having the right to
+determine the facts and the law, under direction of the court.
+*** SEND ***
+*** SSTART 021.0 001.0 0 WY 1889 ***
+SEC. 21. The right of petition, and of the people peaceably to assemble to consult for the
+common good, and to make known their opinions, shall never be denied or abridged.
+*** SEND ***
+*** SSTART 022.0 001.0 0 WY 1889 ***
+SEC. 22. The rights of labor shall have just protection through laws calculated to secure to the
+laborer proper rewards for his service and to promote the industrial welfare of the State.
+*** SEND ***
+*** SSTART 023.0 001.0 0 WY 1889 ***
+SEC. 23. The right of citizens to opportunities for education should have practical recognition.
+The Legislature shall suitably encourage means and agencies calculated to advance the sciences
+and liberal arts.
+*** SEND ***
+*** SSTART 024.0 001.0 0 WY 1889 ***
+SEC. 24. The right of citizens to bear arms in defense of themselves and of the State shall not be
+denied.
+*** SEND ***
+*** SSTART 025.0 001.0 0 WY 1889 ***
+SEC. 25. The military shall ever be in strict subordination to the civil power. No soldier in time
+of peace shall be quartered in any house without consent of the owner, nor in time of war except
+in the manner prescribed by law.
+*** SEND ***
+*** SSTART 026.0 001.0 0 WY 1889 ***
+SEC. 26. Treason against the State shall consist only in levying war against it, or in adhering to
+its enemies or in giving them aid and comfort. No person shall be convicted of treason unless on
+the testimony of two witnesses to the same overt act, or on confession in open court; nor shall
+any person be attainted of treason by the legislature.
+*** SEND ***
+*** SSTART 027.0 001.0 0 WY 1889 ***
+SEC. 27. Elections shall be open, free and equal, and no power, civil or military, shall at any time
+interfere to prevent an untrammelled exercise of the right of suffrage.
+*** SEND ***
+*** SSTART 028.0 001.0 0 WY 1889 ***
+SEC. 28. No tax shall be imposed without the consent of the people or their authorized
+representatives. All taxation shall be equal and uniform.
+*** SEND ***
+*** SSTART 029.0 001.0 0 WY 1889 ***
+SEC. 29. No distinction shall ever be made by law between resident aliens and citizens - as to the
+possession, taxation, enjoyment and descent of property.
+*** SEND ***
+*** SSTART 030.0 001.0 0 WY 1889 ***
+SEC. 30. Perpetuities and monopolies are contrary to the genius of a free state and shall not be
+allowed. Corporations being creatures of the state, endowed for the public good with a portion of
+its sovereign powers, must be subject to its control.
+*** SEND ***
+*** SSTART 031.0 001.0 0 WY 1889 ***
+SEC. 31. Water being essential to industrial prosperity, of limited amount, and easy of diversion
+from its natural channels, its control must be in the State, which, in providing for its use, shall
+equally guard all the varied interests involved.
+*** SEND ***
+*** SSTART 032.0 001.0 0 WY 1889 ***
+SEC. 32. Private property shall not be taken for private use unless by consent of the owner,
+except for private ways of necessity, and for reservoirs, drains, flumes, or ditches on or across the
+lands of others for agricultural, mining, milling, domestic or sanitary purposes, nor in any case
+without due compensation.
+*** SEND ***
+*** SSTART 033.0 001.0 0 WY 1889 *** 
+SEC. 33. Private property shall not be taken or damaged for public or private use without just
+compensation.
+*** SEND ***
+*** SSTART 034.0 001.0 0 WY 1889 ***
+SEC. 34. All laws of a general nature shall have a uniform operation.
+*** SEND ***
+*** SSTART 035.0 001.0 0 WY 1889 ***
+SEC. 35. No ex post facto law, nor any law impairing the obligation of contracts, shall ever be
+made.
+*** SEND ***
+*** SSTART 036.0 001.0 0 WY 1889 ***
+SEC. 36. The enumeration of this Constitution of certain rights shall not be construed to deny,
+impair, or disparage others retained by the people.
+*** SEND ***
+*** SSTART 037.0 001.0 0 WY 1889 ***
+SEC. 37. The State of Wyoming is an inseparable part of the Federal Union and the Constitution
+of the United States is the supreme law of land.
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 WY 1889 ***
+
+
+*** SSTART 001.0 002.0 0 WY 1889 *** 
+DISTRIBUTION OF POWERS
+
+SECTION 1. The powers of the government of this State are divided into three distinct
+departments: The legislative, executive and judicial, and no person or collection of persons
+charged with the exercise of powers properly belonging to one of these departments shall exer-
+
+cise any powers properly belonging to either of the others, except as in this constitution expressly
+directed or permitted.
+
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 WY 1889 ***
+
+ARTICLE No. III
+
+LEGISLATIVE DEPARTMENT
+*** SSTART 001.0 003.0 0 WY 1889 ***
+SECTION 1. The legislative power shall be vested in a senate and house of representatives which
+shall be designated "The Legislature of the State of Wyoming."
+*** SEND ***
+*** SSTART 002.0 003.0 0 WY 1889 ***
+SEC. 2. Senators shall be elected for the term of four (4) years and representatives for the term of
+two (2) years. The senators elected at the first election shall be divided by lot into two classes as
+nearly equal as may be. The seats of senators of the first class shall be vacated at the expiration of
+the first two years, and of the second class at the, expiration of four years. No person shall be a
+senator who has not attained the age of twenty-five years, or a representative who has not
+attained the age of twenty-one years, and who is not a citizen of the United States and of this
+State and who has not, for at least twelve months next preceding his election resided within the
+county or district in which he was elected.
+*** SEND ***
+*** SSTART 003.0 003.0 0 WY 1889 ***
+SEC. 3. Each county shall constitute a senatorial and representative district; the senate and house
+of representatives shall be composed of members elected by the legal voters of the counties
+respectively, every two (2) years. They shall be apportioned among the said counties as nearly as
+may be according to the number of their inhabitants. Each county shall have at least one senator
+and one representative; but at no time shall the number of members of the house of
+representatives be less than twice nor greater than three times the number of members of the
+senate. The senate and house of representatives first elected in pursuance of this constitution
+shall consist of sixteen and thirty-three members respectively.
+*** SEND ***
+*** SSTART 004.0 003.0 0 WY 1889 ***
+SEC. 4. When vacancies occur in either house by death, resignation or otherwise, such vacancy
+shall be filled for the remainder of the term by special election, to be called in such manner as
+may be prescribed by law.
+*** SEND ***
+*** SSTART 005.0 003.0 0 WY 1889 ***
+SEC 5. Members of the senate and house of representatives shall be elected on the day provided
+by law for the general election of a member of congress, and their term of office shall begin on
+the first Monday of January thereafter.
+*** SEND ***
+*** SSTART 006.0 003.0 0 WY 1889 ***
+SEC. 6. Each member of the first legislature, as a compensation for his services, shall receive
+five dollars for each day's attendance, and fifteen cents for each mile traveled in going to and
+returning from the seat of government to his residence by the usual traveled route, and shall
+receive no other compensation, perquisite or allowance whatever. No session of the legislature
+after the first which may be sixty days, shall exceed forty days. After the first session the
+compensation of the members of the legislature shall be as provided by law; but no legislature
+shall fix its own compensation.
+*** SEND ***
+*** SSTART 007.0 003.0 0 WY 1889 ***                             
+SEC. 7. The legislature shall meet at the seat of government at twelve o'clock, noon, on the
+second Tuesday of January, next succeeding the general election provided by law and at twelve
+o'clock, noon, on the second Tuesday of January of each alternate year thereafter, and at other
+times when convened by the governor.
+*** SEND ***
+*** SSTART 008.0 003.0 0 WY 1889 ***
+SEC. 8. No senator or representative shall, during the term for which he was elected, be
+appointed to any civil office under the State, and no member of congress or other person holding
+an office (except that of notary public or an office in the Militia) under the United States or this
+State, shall be a member of either house during his continuance in office.
+*** SEND ***
+*** SSTART 009.0 003.0 0 WY 1889 ***
+SEC. 9. No member of either house shall, during the term for which he was elected, receive any
+increase of salary or mileage under any law passed during such term.
+*** SEND ***
+*** SSTART 010.0 003.0 0 WY 1889 ***
+    SEC. 10. The senate shall, at the beginning and close of each regular session and at such other
+times necessary elect one of its members president, the house of representatives shall elect one of
+its members speaker, each house shall choose its other officers, and shall judge of the election
+returns and qualifications of its members.
+*** SEND ***
+*** SSTART 011.0 003.0 0 WY 1889 ***
+SEC. 11. A majority of each house shall constitute a quorum to do business, but a smaller
+number may adjourn from day to day, and compel the attendance of absent members in such
+manner and under such penalties as each house may prescribe.
+*** SEND ***
+*** SSTART 012.0 003.0 0 WY 1889 ***
+SEC. 12. Each house shall have power to determine the rules of its proceedings, and punish its
+members or other persons for contempt or disorderly behavior in its presence; to protect its
+members against violence or offers of bribes or private solicitation, and with the concurrence of
+two-thirds, to expel a member, and shall have all other powers necessary to the legislature of a
+free state. A member expelled for corruption shall not thereafter be eligible to either house of the
+legislature; and punishment for contempt or disorderly behavior shall not bar a criminal
+prosecution for the same offense.
+*** SEND ***
+*** SSTART 013.0 003.0 0 WY 1889 ***
+SEC. 13. Each house shall keep a journal of its proceedings and may, in its discretion, from time
+to time, publish the same, except such parts as require secrecy, and the yeas and nays on any
+question, shall, at the request of any two members, be entered on the journal.
+*** SEND ***
+*** SSTART 014.0 003.0 0 WY 1889 ***
+SEC. 14. The sessions of each house and of the committee of the whole shall be open unless the
+business is such as requires secrecy.
+*** SEND ***
+*** SSTART 015.0 003.0 0 WY 1889 ***
+SEC. 15. Neither house shall, without the consent of the other, adjourn for more than three days,
+nor to any other place than that in which the two houses shall be sitting.
+*** SEND ***
+*** SSTART 016.0 003.0 0 WY 1889 ***
+SEC. 16. The members of the legislature shall, in all cases, except treason, felony, violation of
+their oath of office and breach of the peace, be privileged from arrest during their attendance at
+the sessions of their respective houses, and in going to and returning from the same; and for any
+speech or debate in either house they shall not be questioned in any other place.
+*** SEND ***
+*** SSTART 017.0 003.0 0 WY 1889 ***
+SEC. 17. The sole power of impeachment shall vest in the house of representatives; the
+concurrence of a majority of all the members being necessary to the exercise thereof.
+Impeachment shall be tried by the senate sitting for that purpose, and the senators shall be upon
+oath or affirmation to do justice according to law and evidence. When the governor is on trial, the
+chief justice of the supreme court shall preside. No person shall be convicted without a
+concurrence of two-thirds of the senators elected.
+*** SEND ***
+*** SSTART 018.0 003.0 0 WY 1889 ***                             
+SEC. 18. The governor and other state and judicial officers except justices of the peace, shall be
+liable to impeachment for high crimes and misdemeanors, or malfeasance in office, but judgment
+in such cases shall only extend to removal from office and disqualification to bold any office of
+honor, trust or profit under the laws of the State. The party, whether convicted or acquitted, shall,
+nevertheless, be liable to prosecution, trial, judgment and punishment according to law.
+*** SEND ***
+*** SSTART 019.0 003.0 0 WY 1889 ***
+SEC. 19. All officers not liable to impeachment shall be subject to removal for misconduct or
+malfeasance in office in such manner as may be provided by law.
+*** SEND ***
+*** SSTART 020.0 003.0 0 WY 1889 ***
+SEC. 20. No law shall be passed except by bill and no bill shall be so altered or amended on its
+passage through either house as to change its original purpose.
+*** SEND ***
+*** SSTART 021.0 003.0 0 WY 1889 ***
+SEC. 21. The enacting clause of every law shall be as follows: "Be it enacted by the legislature of
+the State of Wyoming."
+*** SEND ***
+*** SSTART 022.0 003.0 0 WY 1889 ***
+SEC. 22. No bill for the appropriation of money except for the expenses of the government, shall
+be introduced within five (5) days of the close of the session except by unanimous consent of the
+house in which it is sought to be introduced.
+*** SEND ***
+*** SSTART 023.0 003.0 0 WY 1889 ***
+SEC. 23. No bill shall be considered or become a law unless referred to a committee, returned
+therefrom and printed for the use of the members.
+*** SEND ***
+*** SSTART 024.0 003.0 0 WY 1889 ***
+SEC. 24. No bill, except general appropriation bills and bills for the codification and general
+revision of the laws, shall be passed containing more than one subject which shall be clearly
+expressed in its title; but if any subject is embraced in any act which is not expressed in the title,
+such act shall be void only as to so much thereof as shall not be so expressed.
+*** SEND ***
+*** SSTART 025.0 003.0 0 WY 1889 ***
+SEC. 25.  No bill shall become a law, except by a vote of a majority of all the members elected to
+each house, nor unless on its final passage the vote taken by ayes and noes, and the names of
+those voting be entered on the journal.
+*** SEND ***
+*** SSTART 026.0 003.0 0 WY 1889 ***
+SEC. 26.  No law shall be revised or amended, or the provisions thereof extended by reference to
+its title only, but so much thereof as is revised, amended or extended, shall be re-enacted and
+published at length.
+*** SEND ***
+*** SSTART 027.0 003.0 0 WY 1889 ***
+SEC.  27.  The legislature shall not pass local or special laws in any of the following enumerated
+cases, that is to say: For granting divorces; laying out, opening, altering or working roads or
+highways; vacating roads, town plats, streets, alleys or public grounds; locating or changing
+county seats; regulating the jurisdiction and duties of justices of the peace, police magistrates or
+constables; changing the rules of evidence in any trial or inquiry; providing for change of venue
+in civil or criminal cases; declaring any person of age; for limitation of civil actions; giving effect
+to any informal or invalid deeds; summoning or impaneling grand or petit juries; providing for
+the management of common schools; regulating the rate of interest on money; the opening or
+conducting of any election or designating the place of voting; the sale or mortgage of real estate
+belonging to minors or others under disability; chartering or licensing ferries or bridges or toll
+roads; chartering banks, insurance companies and loan and trust companies; remitting fines,
+penalties or forfeitures; creating, increasing or decreasing fees percentages or allowances of
+public officers; changing the law of descent; granting to any corporation, association or
+individual the right to lay down railroad tracks, or any special or exclusive privilege, immunity or
+franchise whatever, or amending existing charter for such purpose; for punishment of crimes;
+changing the names of persons or places; for the assessment or collection of taxes; affecting
+estates of deceased persons, minors or others under legal disabilities; extending the time for the
+collection of taxes; refunding money paid into the state treasury; relinquishing or extinguishing,
+in whole or in part, the indebtedness, liabilities or obligation of any corporation or person to this
+state or to any municipal corporation therein; exempting property from taxation; restoring to
+citizenship persons convicted of infamous crimes; authorizing the creation, extension or
+impairing of liens; crating offices or prescribing the powers or duties of officers in counties,
+cities, townships, or school-districts; or authorizing the adoption or legitimation of children.  In
+all other cases where a general law can be made applicable no special law shall be enacted.
+*** SEND ***
+*** SSTART 028.0 003.0 0 WY 1889 ***
+SEC. 28.  The presiding officer of each house shall, in the presence of the house over which he
+presides, sign all bills and joint resolutions passed by the legislature immediately after their titles
+have been publicly read and the fact of signing shall be at once entered upon the journal.
+*** SEND ***
+*** SSTART 029.0 003.0 0 WY 1889 ***
+SEC. 29.  The legislature shall prescribe by law the number, duties and compensation of the
+officers and employees of each house, and no payment shall be made from the state treasury, or
+be in any way authorized to any such person except to an acting officer or employee elected or
+appointed in pursuance of law.
+*** SEND ***
+
+*** SSTART 030.0 003.0 0 WY 1889 ***
+SEC. 30. No bill shall be passed giving any extra compensation to any public officer, servant or
+employee, agent or contractor, after services are rendered or contract made.
+*** SEND ***
+
+*** SSTART 031.0 003.0 0 WY 1889 ***
+SEC. 31. All stationery, printing, paper, fuel and lights used in the legislature and other
+departments of government, shall be furnished, and the printing and binding of the laws, journals
+and department reports and other printing and binding, and the repairing and furnishing the halls
+and rooms used for the meeting of the legislature and its committees shall be performed under
+contract, to be given to the lowest responsible bidder, below such maximum price and under such
+regulations as may be prescribed by law. No member or officer of any department of the
+government shall be in any way interested in any such contract; and all such contracts shall be
+subject to the approval of the governor and state treasurer.
+*** SEND ***
+
+*** SSTART 032.0 003.0 0 WY 1889 ***
+SEC. 32. Except as otherwise provided in this constitution, no law shall extend the term of any
+public officer or increase or diminish his salary or emolument after his election or appointment;
+but this shall not be construed to forbid the legislature from fixing the salaries or emoluments of
+those officers first elected or appointed under this constitution, if such salaries or emoluments are
+not fixed by its provisions.
+*** SEND ***
+*** SSTART 033.0 003.0 0 WY 1889 ***
+SEC. 33. All bills for raising revenue shall originate in the house of representatives; but the
+senate may propose amendments as in case of other bills.
+*** SEND ***
+*** SSTART 034.0 003.0 0 WY 1889 ***
+SEC. 34. The general appropriation bills shall embrace nothing but appropriations for the
+ordinary expenses of the legislative, executive and judicial departments of the State, interest on
+the public debt and for public schools. All other appropriations shall be made by separate bills,
+each embracing but one subject.
+*** SEND ***
+*** SSTART 035.0 003.0 0 WY 1889 ***
+SEC. 35. Except for interest on public debt money shall be paid out of the treasury only on
+appropriations made by the legislature, and in no case otherwise than upon warrant drawn by the
+proper officer in pursuance of law.
+*** SEND ***
+*** SSTART 036.0 003.0 0 WY 1889 ***
+SEC. 36. No appropriation shall be made for charitable, industrial, educational or benevolent
+purposes to any person, corporation or community not under the absolute control of the State, nor
+to any denominational or sectarian institution or association.
+*** SEND ***
+*** SSTART 037.0 003.0 0 WY 1889 ***
+SEC. 37. The legislature shall not delegate to any special commissioner, private corporation or
+association, any power to make, supervise or interfere with any municipal improvements,
+moneys, property or effects, whether held in trust or otherwise, to levy taxes, or to perform any
+municipal functions whatever.
+*** SEND ***
+*** SSTART 038.0 003.0 0 WY 1889 ***
+SEC. 38. No act of the legislature shall authorize the investment of trust funds by executors,
+administrators, guardians or trustees in the bonds or stock of any private corporation.
+*** SEND ***
+*** SSTART 039.0 003.0 0 WY 1889 ***
+SEC. 39. The legislature shall have no power to pass any law authorizing the State or any county
+in the, State, to contract any debt or obligation in the construction of any railroad, or give or loan
+its credit to or in aid of the construction of the same.
+*** SEND ***
+*** SSTART 040.0 003.0 0 WY 1889 ***
+SEC. 40. No obligation or liability of any person, association or corporation, held or owned by
+the State, or any municipal corporation therein, shall ever be exchanged, transferred, remitted,
+released or postponed, or in any way diminished by the legislature; nor shall such liability or
+obligation be extinguished, except by the payment thereof into the proper treasury.
+*** SEND ***
+*** SSTART 041.0 003.0 0 WY 1889 ***
+SEC. 41. Every order, resolution or vote, in which the concurrence of both houses may be
+necessary, except on the question of adjournment, or relating solely to the transaction of the
+business of the two houses, shall be presented to the governor and before it shall take effect be
+approved by him, or, being disapproved, be re-passed by two-thirds of both houses, as prescribed
+in the case of a bill.
+*** SEND ***
+*** SSTART 042.0 003.0 0 WY 1889 ***
+SEC. 42. If any person elected to either house of the legislature shall offer or promise to give his
+vote or influence in favor of or against any measure or proposition, pending or to be introduced
+into the legislature in consideration or upon condition that any other person elected to the same
+legislature will give, or promise or assent to give his vote or influence in favor of or against any
+other measure or proposition pending or proposed to be introduced into such legislature, the
+person making such offer or promise shall be deemed guilty of solicitation of bribery. If any
+member of the legislature shall give his vote or influence for or against any measure or proposi-
+
+tion pending or to be introduced in such legislature, or offer, promise or assent thereto, upon
+condition that any other member will give or will promise or assent to give his vote or influence
+in favor of or against any other measure or proposition pending or to be introduced in such
+legislature, or in consideration that any other member has given his vote or influence for or
+against any other measure or proposition in such legislature, he shall be deemed guilty of bribery,
+and any member of the legislature, or person elected thereto, who shall be guilty of either of such
+offences, shall be expelled and shall not thereafter be eligible to the legislature, and on conviction
+thereof in the civil courts shall be liable to such further penalty as may be prescribed by law.
+*** SEND ***
+*** SSTART 043.0 003.0 0 WY 1889 ***
+SEC. 43. Any person who shall directly or indirectly offer, give or promise any money or thing of
+value, testimonial privilege or personal advantage, to any executive or judicial officer or member
+of the legislature, to influence him in the performance of any of his official duties shall be
+deemed guilty of bribery, and be punished in such manner as shall be provided by law.
+*** SEND ***
+*** SSTART 044.0 003.0 0 WY 1889 ***
+SEC. 44. Any person may be compelled to testify in any lawful investigation or judicial
+proceeding against any person who may be te offense of bribery or corrupt solicitation, or
+practices of solicitation and shall not be permitted to withhold his testimony upon the ground that
+it may criminate himself or subject him to public infamy; but such testimony shall not afterwards
+be used against him in any judicial proceeding, except for perjury in giving such testimony, and
+any person convicted of either of the offences aforesaid shall , as part of the punishment therefor,
+be disqualified from holding any office or position of honor, trust or profit in this State.
+*** SEND ***
+*** SSTART 045.0 003.0 0 WY 1889 ***
+SEC. 45. The offense of corrupt solicitation of members of the legislature or of public officers of
+the State, or of any Municipal division thereof, and the occupation or practice of solicitation of
+such members or officers to influence their official action shall be defined by law and shall be
+punishable by fine and imprisonment.
+*** SEND ***
+*** SSTART 046.0 003.0 0 WY 1889 ***
+SEC. 46. A member who has a personal or private interest in any measure or bill proposed or
+pending before the legislature shall disclose the fact to the house of which he is a member, and
+shall not vote thereon.
+*** SEND ***                                                     
+
+*** SSTART 047.0 003.0 0 WY 1889 ***
+
+APPORTIONMENT
+
+SEC. 1. One representative in the congress of the United States shall be elected from the State at
+large, the Tuesday next after the first Monday in November, 1890, and thereafter at such times
+and places, and in such manner as may be prescribed by law. When a new apportionment shall be
+made by congress, the legislature shall divide the State into congressional districts accordingly.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 048.0 003.0 0 WY 1889 ***
+SEC. 2. The legislature shall provide by law for an enumeration of the inhabitants of the State, in
+the year 1895, and every tenth year thereafter, and at the session next following such
+enumeration, and also at the session next following an enumeration made by the authority of the
+United States, shall revise and adjust the apportionment for senators and representatives, on a
+basis of such enumeration according to ratios to be fixed by law.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 049.0 003.0 0 WY 1889 ***
+SEC. 3. Representative districts may be altered from time to time as public convenience may
+require. When a representative district shall be composed of two or more counties, they shall be
+contiguous, and the districts as compact as may be. No county shall be divided, in the formation
+of representative districts.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 050.0 003.0 0 WY 1889 ***
+SECTION 4. Until an apportionment of senators and representatives as otherwise provided by
+law, they shall be divided among the several counties of the State in the following manner:
+Albany county, two senators and five representatives.
+Carbon county, two senators and five representatives.
+Converse county, one senator and three representatives.
+Crook county, one senator and two representatives.
+Fremont county, one senator and two representatives.
+Laramie county, three senators and six representatives.
+Johnson county, one senator and two representatives.
+Sheridan county, one senator and two representatives.
+Sweetwater county, two senators and three representatives.
+Uinta county, two senators and three representatives.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 WY 1889 ***
+ARTICLE NO. IV
+
+EXECUTIVE DEPARTMENT
+*** SSTART 001.0 004.0 0 WY 1889 ***
+SECTION1. The executive power shall be vested in a governor, who shall hold his office for the
+term of four (4) years and until his successor is elected and duly qualified.
+*** SEND ***
+*** SSTART 002.0 004.0 0 WY 1889 ***
+SEC. 2. No person shall be eligible to the office of governor unless he be a citizen of the United
+States and a qualified elector of the State, who has attained the age of thirty years, and who has
+resided five years next preceding the election within the State or Territory, nor shall he be
+eligible to any other office during the term for which he was elected.
+*** SEND ***
+*** SSTART 003.0 004.0 0 WY 1889 ***
+SEC. 3. The governor shall be elected by the qualified electors of the State at the time and place
+of choosing members of the legislature. The person having the highest number of votes for
+governor shall be declared elected, but if two or more shall have an equal and highest number of
+votes for governor, the two houses of the legislature at its next regular session shall forthwith, by
+joint ballot, choose one of such persons for said office. The returns of the election for governor
+shall be made in such manner as shall be prescribed by law.
+*** SEND ***
+*** SSTART 004.0 004.0 0 WY 1889 ***
+SEC. 4. The governor shall be commander-in-chief of the military forces of the State, except
+when they are called into the service of the United States, and may call out the same to execute
+the laws, suppress insurrection and repel invasion. He shall have power to convene the legislature
+on extraordinary occasions. He shall at the commencement of each session communicate to the
+legislature by message, information of the condition of the State, and recommend such measures
+as he shall deem expedient. He shall transact all necessary business with the officers of the
+government, civil and military. He shall expedite all such measures as may be resolved upon by
+the legislature and shall take care that the laws be faithfully executed.
+*** SEND ***
+*** SSTART 005.0 004.0 0 WY 1889 ***
+SEC. 5. The governor shall have power to remit fines and forfeitures, to grant reprieves,
+commutations and pardons after conviction, for all offences except treason and cases of
+impeachment; but the legislature may by law regulate the manner in which the remission of fines,
+pardons, commutations and reprieves may be applied for. Upon conviction for treason he shall
+have power to suspend the execution of sentence until the case is reported to the legislature at its
+next regular session, when the legislature shall either pardon or commute the sentence, direct the
+execution of the sentence or grant further reprieve. He shall communicate to the legislature at
+each regular session each case of remission of fine, reprieve, commutation or pardon granted by
+him, stating the name of the convict, the crime for which he was convicted, the sentence and its
+date, and the date of the remission, commutation, pardon or reprieve with his reasons for granting
+the same.
+*** SEND ***
+*** SSTART 006.0 004.0 0 WY 1889 ***
+SEC. 6. If the governor be impeached, displaced, resign or die, or from mental or physical
+disease or otherwise become incapable of performing the duties of his office or be absent from
+the State, the secretary of State shall act as governor until the vacancy is filled or the disability
+removed.
+*** SEND ***
+*** SSTART 007.0 004.0 0 WY 1889 ***
+SEC 7. When any office from any cause becomes vacant, and no mode is provided by the
+constitution or law for filling such vacancy, the governor shall have power to fill the same by
+appointment.
+*** SEND ***
+*** SSTART 008.0 004.0 0 WY 1889 ***
+SEC. 8. Every bill which has passed the legislature shall, before it becomes a law, be presented to
+the governor. If he approve, he shall sign; but if not, he shall return it with his objections to the
+house in which it originated, which shall enter the objections at large upon the journal and
+proceed to reconsider it. If, after such reconsideration, two-thirds of the members elected agree to
+pass the bill, it shall be sent, together with the objections, to the other house, by which it shall
+likewise be reconsidered, and if it be approved by two-thirds of the members elected, it shall
+become a law; but in all such cases the vote of both houses shall be determined by the yeas and
+nays, and the names of the members voting for and against the bill shall be entered upon the
+journal of each bouse respectively. If any bill is not returned by the governor within three days
+(Sundays excepted) after its presentation to him, the same shall be a law, unless the legislature by
+its adjournment, prevent its return, in which case it shall be a law unless he shall file the same
+with his objections in the office of the secretary of State within fifteen days after such
+adjournment.
+*** SEND ***
+*** SSTART 009.0 004.0 0 WY 1889 ***
+SEC. 9. The governor shall have power to disapprove of any item or items or part or parts of any
+bill making appropriations of money or property embracing distinct items, and the part or parts of
+the bill approved shall be the law, and the item or items and part or parts disapproved shall be
+void unless enacted in the following manner:  If the legislature be in session he shall transmit to
+the house in which he bill originated a copy of the item or items, or part or parts there of
+disapproved, together with his objections thereto, and the items or parts objected to shall be
+separately reconsidered, and each item or part shall then take the same course as is prescribed for
+the passage of bills over the executive veto.
+*** SEND ***
+*** SSTART 010.0 004.0 0 WY 1889 ***
+SEC. 10. Any governor of this State who asks, receives or agrees to receive any bribe upon any
+understanding that his official opinion, judgment or action shall be influenced thereby, or who
+gives or offers, or promises his official influence in consideration that any member of the
+legislature shall give his official vote or influence on any particular side of any question or matter
+upon which he is required to act in his official capacity, or who menaces any member by the
+threatened use of his veto power, or who offers or promises any member that he, the governor,
+will appoint any particular person or persons to any office created or thereafter to be created, in
+consideration that any member shall give his official vote or influence on any matter pending or
+thereafter to be introduced into either house of said legislature; or who threatens any member that
+he, the governor, will remove any person or persons from office or position with intent in any
+manner to influence the action of said member, shall be punished in the manner now or that may
+hereafter be provided by law, and upon conviction thereof shall forfeit all right to hold or
+exercise any office of trust or honor in this State.
+*** SEND ***
+*** SSTART 011.0 004.0 0 WY 1889 ***
+SEC. 11. There shall be chosen by the qualified electors of the State at the times and places of
+choosing members of the legislature, a secretary of State, auditor, treasurer, and superintendent of
+public instruction, who shall have attained the age twenty-five years respectively, shall be
+citizens of the United States, and shall have the qualifications of State electors. They shall
+severally hold their offices at the seat of government, for the term of four (4) years and until their
+successors are elected and duly qualified, but no person -hall be eligible for the office of treasurer
+for four (4) years after the expiration of the term for which he was elected. The legislature may
+provide for such other State officers as are deemed necessary.
+*** SEND ***
+*** SSTART 012.0 004.0 0 WY 1889 ***
+SEC. 12. The powers and duties of the secretary of State, of State auditor, treasurer and
+superintendent of public instruction shall be as prescribed by law.
+*** SEND ***
+*** SSTART 013.0 004.0 0 WY 1889 ***
+SEC. 13. Until otherwise provided by law, the governor shall receive an annual salary of two
+thousand five hundred dollars, the secretary of State, State auditor, State treasurer and
+superintendent of public instruction shall each receive an annual salary of two thousand dollars,
+and the salaries of any of the said officers shall not be increased or diminished during the period
+for which they were elected, and all fees and profits arising from any of the said offices shall be
+covered into the State treasury.
+*** SEND ***
+*** SSTART 014.0 004.0 0 WY 1889 ***
+SEC. 14. The legislature shall provide for a State examiner, who shall be appointed by the
+governor and confirmed by the Senate. His duty shall be to examine the accounts of State
+treasurer, supreme court clerks, district court clerks, and all county treasurers, and treasurers of
+such other public institutions ,is the law may require and shall perform such other duties as the
+legislature may prescribe. He shall report at least once a year and oftener if required to such
+officers as are designated by the legislature. His compensation shall be fixed by law.
+*** SEND ***
+*** SSTART 015.0 004.0 0 WY 1889 ***
+SEC. 15. There shall be a seal of State which shall be called the "Great Seal of the State of
+Wyoming;" it shall be kept by the secretary of State and used by him officially as directed by law.
+*** SEND ***
+*** SSTART 016.0 004.0 0 WY 1889 ***
+SEC. 16. The seal of the Territory of Wyoming as now used shall be the seal of the State until
+otherwise provided by law.
+                           *** SEND ***
+
+*** AEND ***
+*** ASTART 005.0 WY 1889 ***
+ARTICLE V
+
+JUDICIAL DEPARTMENT
+*** SSTART 001.0 005.0 0 WY 1889 ***
+SECTION 1. The judicial power of the State shall be vested in the senate, sitting as a court of
+impeachment, in a supreme court, district courts, justices of the peace, courts of arbitration and
+such court, as the legislature may, by general law, establish for incorporated cities or
+incorporated towns.
+*** SEND ***
+*** SSTART 002.0 005.0 0 WY 1889 ***
+SEC. 2. The supreme court shall have general appellate jurisdiction, co-extensive with the State,
+in both civil and criminal causes and shall have a general superintending control over all inferior
+courts under such rules and regulations as may be prescribed by law.
+*** SEND ***
+*** SSTART 003.0 005.0 0 WY 1889 ***
+SEC. 3. The supreme court shall have original jurisdiction in quo warranto and mandamus as to
+all State officers, and in habeas corpus. The supreme court shall also have power to issue writs of
+mandamus, review, prohibition, habeas corpus, certiorari and other writs necessary and proper to
+the complete exercise of its appellate and revisory jurisdiction. Each of the judges shall have
+power to issue writs of habeas corpus to any part of the state upon petition by or on behalf of a
+person held in actual custody, and may make such writs returnable before himself or before the
+supreme court, or before any district court of the State or any judge thereof.
+*** SEND ***
+*** SSTART 004.0 005.0 0 WY 1889 ***
+SEC. 4. The supreme court of the state shall consist of three justices who shall be elected by, the
+qualified electors of the State at a general state election at the times and places at which State
+officers are elected; and their term of office shall be eight (8) years commencing from and after
+the first Monday in January next succeeding their election; and the justices elected at the first
+election after this constitution shall go into effect shall, at their first meeting provided by law, so
+classify themselves by lot that one of them shall go out of office at the end of four (4) years and
+one at the end of six (6) years and one at the end of eight (8) years from the commencement of
+their term, and an entry of such classification shall be made in the record of the court and signed
+by them and duplicate thereof shall be filed in the office of the secretary of state.  The justice
+having the shortest term to serve and not holding his office by appointment or election to fill a
+vacancy, shall be the chief justice and shall preside at all terms of the supreme court, and, in case
+of his absence, the justice having in like manner the next shortest term to serve shall reside in his
+stead. If a vacancy occur in the office of a justice of the supreme court the governor shall appoint
+a person to hold the office until the election and qualification of a person to fill the unexpired
+term occasioned by such vacancy, which election shall take place at the next succeeding general
+election. The first election of the justices shall be at the first general election after this constitu-
+
+tion shall go into effect.
+*** SEND ***
+*** SSTART 005.0 005.0 0 WY 1889 ***
+SEC. 5. A majority of the justices of the supreme court shall be necessary to constitute a quorum
+for the transaction of business.
+*** SEND ***
+*** SSTART 006.0 005.0 0 WY 1889 ***
+SEC. 6. In case a judge of the supreme court shall be in any way interested in a cause brought
+before such court the remaining judges of said court shall call one of the district judges to sit with
+them on the hearing of said cause.
+*** SEND ***
+*** SSTART 007.0 005.0 0 WY 1889 ***
+SEC. 7. At least two terms of the supreme court shall be held annually at the seat of government
+at such times as may be provided by law.
+*** SEND ***
+*** SSTART 008.0 005.0 0 WY 1889 ***
+SEC. 8. No person shall be eligible to the office of justice of the supreme court unless he be
+learned in the law, have been in actual practice at least nine (9) years, or whose service on the
+bench of any court of record, when added to the time he may have practiced law shall be equal to
+nine (9) years, be at least thirty years of age and a citizen of the United States, nor unless he shall
+have resided in this State or Territory at least three years.
+*** SEND ***
+*** SSTART 009.0 005.0 0 WY 1889 ***
+SEC. 9. There shall be a clerk of the supreme court who shall be appointed by the justices of said
+court and shall hold his office during their pleasure, and whose duties and emoluments shall be
+as provided by law.
+*** SEND ***
+*** SSTART 010.0 005.0 0 WY 1889 ***
+SEC. 10. The district court shall have original jurisdiction of all causes both at law and in equity
+and in all criminal cases, of all matters of probate and insolvency and of such special cases and
+proceedings as are not otherwise provided for. The district court shall also have original
+jurisdiction in all cases and of all proceedings in which jurisdiction shall not have been by law
+vested exclusively in some other court; and said court shall have the power of naturalization and
+to issue papers therefor. They shall have such appellate jurisdiction in cases arising in justices'
+and other inferior courts in their respective counties as may be prescribed by law. Said courts and
+their judges shall have power to issue writs of mandamus, quo warranto, review, certiorari,
+prohibition, injunction and writs of habeas corpus, on petition by or on behalf of any person in
+actual custody in their respective districts.
+*** SEND ***
+*** SSTART 011.0 005.0 0 WY 1889 ***
+SEC. 11. The judges of the district courts may hold courts for each other and shall do so when,
+required by law.
+*** SEND ***
+*** SSTART 012.0 005.0 0 WY 1889 ***
+SEC. 12. No person shall be eligible to the office of judge of the district court unless he be
+learned in the law, be at least twenty-eight years of age, and a. citizen of the United States, nor
+unless he shall have resided in the State or Territory of Wyoming at least two years, next
+preceding his election.
+*** SEND ***
+*** SSTART 013.0 005.0 0 WY 1889 ***
+SEC. 13. There shall be a clerk of the district court in each organized county in which a court is
+holden who shall be elected, or case of vacancy, appointed in such manner and with such duties
+and compensation as may, be prescribed by law.
+*** SEND ***
+*** SSTART 014.0 005.0 0 WY 1889 ***
+SEC. 14. The legislature shall provide by law for the appointment by the several district courts of
+one or more district court commissioners (who shall be persons learned in the law) in each
+organized county in which a district court is holden, such commissioners shall have authority to
+perform such chamber business in the absence of the district judge from the county or upon his
+written statement filed with the papers, that it is improper for him to act, as may be prescribed by
+law, to take depositions and perform such other duties, and receive such compensation as shall be
+prescribed by law.
+*** SEND ***
+*** SSTART 015.0 005.0 0 WY 1889 ***
+SEC. 15. The style of all process shall be "The State of Wyoming." All prosecutions shall be
+carried on in the name and by the authority of the State of Wyoming, and conclude "against the
+peace and dignity of the State of Wyoming."
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 WY 1889 ***
+SEC. 16. No duties shall be imposed by law upon the supreme court or any of the judges thereof,
+except such as are judicial, nor shall any of the judges thereof exercise any power of appointment
+except as herein provided.
+*** SEND ***
+*** SSTART 017.0 005.0 0 WY 1889 ***
+SEC. 17. The judges of the supreme and district courts shall receive such compensation for their
+services as may be prescribed by law, which compensation shall not be increased or diminished
+during the term for which a judge shall have been elected, and the salary of a judge of the
+supreme or district court shall be as may be prescribed law.
+*** SEND ***
+*** SSTART 018.0 005.0 0 WY 1889 ***
+SEC. 18. Writs of error and appeals may be allowed from the decisions of the district courts to
+the supreme court under such regulations as may be prescribed by law.
+*** SEND ***
+*** SSTART 019.0 005.0 0 WY 1889 ***
+SEC. 19. Until otherwise provided by law, the State shall be divided into three judicial districts,
+in each of which there shall be elected at general elections, by the electors thereof, one judge of
+the district court therein, whose term shall be six (6) years from the first Monday in January
+succeeding his election and until his successor is duly qualified.
+*** SEND ***
+*** SSTART 020.0 005.0 0 WY 1889 ***
+SEC. 20. Until otherwise provided by law, said judicial districts shall be constituted as follows:
+District number one shall consist of the counties of Laramie, Converse and Crook.
+District number two shall consist of the counties of Albany, Johnson and Sheridan.
+District number three shall consist of the counties Carbon, Sweetwater, Uinta and Fremont.
+*** SEND ***
+*** SSTART 021.0 005.0 0 WY 1889 ***
+SEC. 21. The legislature may from time to time increase the number of said judicial districts and
+the judges thereof, but such increase or change in the boundaries of the districts shall not work
+the removal of any judge from his office during the term for which he may have been elected or
+appointed; provided the number of districts and district judges shall not exceed four until the
+taxable valuation of property in the State shall exceed one hundred million dollars
+($100,000,000.)
+*** SEND ***
+*** SSTART 022.0 005.0 0 WY 1889 ***
+SEC. 22. The legislature shall provide by law for the election of justices of the peace in each
+organized county within the state. But the number of said justices to be elected in each organized
+county shall be limited by law to such number as shall be necessary for the proper administration
+of justice. The justices of the peace herein provided for shall have concurrent jurisdiction with
+the district court in all civil actions where the amount in controversy, exclusive of costs, does not
+exceed two hundred dollars, and they shall have such jurisdiction to hear and determine cases of
+misdemeanor as may be provided by law, but in no case shall said justices of the peace have
+jurisdiction when the boundaries of or title to real estate shall come into question.
+*** SEND ***
+*** SSTART 023.0 005.0 0 WY 1889 ***
+SEC. 23. Appeals shall lie from the final decisions of justices of the peace and police magistrates
+in such cases and pursuant to such regulations as may be prescribed by law.
+*** SEND ***
+*** SSTART 024.0 005.0 0 WY 1889 ***
+SEC. 24.  The time of holding courts in the several counties of a district shall be as prescribed by
+law, and the legislature shall make provisions  for attaching unorganized counties or territory to
+organized counties for judicial purposes.
+*** SEND ***
+*** SSTART 025.0 005.0 0 WY 1889 ***
+SEC. 25 . No judge of the supreme or district court shall act as attorney or counselor at law. 
+*** SEND ***
+*** SSTART 026.0 005.0 0 WY 1889 ***
+SEC. 26. Until the legislature shall provide by law for fixing the terms of courts, the judges of the
+supreme court and district courts shall fix the terms thereof.
+*** SEND ***
+*** SSTART 027.0 005.0 0 WY 1889 ***
+SEC. 27. No judge of the supreme or district court shall be elected or appointed to any other than
+judicial offices or be eligible thereto during the term for which he was elected or appointed such
+judge.
+*** SEND ***
+*** SSTART 028.0 005.0 0 WY 1889 ***
+SEC. 28. Appeals from decisions of compulsory boards of arbitration shall be allowed to the
+supreme court of the State, and the manner of taking such appeals shall be prescribed by law.
+
+[In Thorpe, this section was erroneously numbered section 30.  Two sections that belong in
+Article 19 were included as sections 28 and 29.  Thorpe also included them in Article 19.]
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 WY 1889 ***
+
+ARTICLE No. VI
+
+SUFFRAGE
+*** SSTART 001.0 006.0 0 WY 1889 ***
+SECTION 1. The rights of citizens of the State of Wyoming to vote and hold office shall not be
+denied or abridged on account of sex. Both male and female citizens of this State shall equally
+enjoy all civil, political and religious rights and privileges.
+*** SEND ***
+*** SSTART 002.0 006.0 0 WY 1889 ***
+SEC. 2. Every citizen of the United States of the age of twenty-one years and upwards, who has
+resided in the State or Territory one year and in the county, wherein such residence is located
+sixty days next preceding any election, shall be entitled to vote at such election, except as herein
+otherwise provided.
+*** SEND ***
+*** SSTART 003.0 006.0 0 WY 1889 ***
+SEC. 3. Electors shall in all cases except treason, felony or breach of the peace, be privileged
+from arrest on the days of election during their attendance at elections, and going to and returning
+therefrom.
+*** SEND ***
+*** SSTART 004.0 006.0 0 WY 1889 ***
+SEC. 4. No elector shall be obliged to perform militia duty on the day of election except in time
+of war or public danger.
+*** SEND ***
+*** SSTART 005.0 006.0 0 WY 1889 ***
+SEC. 5. No person shall be deemed a qualified elector of this State, unless such person be a
+citizen of the United States.
+*** SEND ***
+*** SSTART 006.0 006.0 0 WY 1889 ***
+SEC. 6. All idiots, insane persons, and persons convicted of infamous crimes, unless restored to
+civil rights, are excluded from the elective franchise.
+*** SEND ***
+*** SSTART 007.0 006.0 0 WY 1889 ***
+SEC. 7. No elector shall be deemed to have lost his residence in the State, by reason of his
+absence on business of the United States, or of this State, or in the military or naval service of the
+United States.
+*** SEND ***
+*** SSTART 008.0 006.0 0 WY 1889 ***
+SEC. 8. No soldier, seaman, or marine in the army or navy of the United States shall be deemed a
+resident of this State in consequence of his being stationed therein.
+*** SEND ***
+*** SSTART 009.0 006.0 0 WY 1889 ***
+SEC. 9. No person shall have the right to vote who shall not be able to read the constitution of
+this State. The provisions of this section shall not apply to any person prevented by physical
+disability from complying with its requirements.
+*** SEND ***
+*** SSTART 010.0 006.0 0 WY 1889 ***
+SEC. 10. Nothing herein contained shall be construed to deprive any person of the right to vote,
+who has such right at the time of the adoption of this constitution, unless disqualified by the
+restrictions of section six of this article. After the expiration of five (5) years from the time of the
+adoption of this constitution, none but citizens of the United States shall have the right to vote.
+*** SEND ***
+*** SSTART 011.0 006.0 0 WY 1889 *** 
+SEC. 11. All elections shall be by ballot. The legislature shall provide by law that the names of
+the candidates for the same office, to be voted for at any election, shall be printed on the same
+ballot, at public expense, and on election day be delivered to the voters within the polling place
+by sworn public officials, and only such ballots so delivered shall be received and counted. But
+no voter shall be deprived of the privilege of writing upon the ballot used the name of any other
+candidate. All voters shall be guaranteed absolute privacy in the preparation of their ballots, and
+the secrecy of the ballot shall be made compulsory.
+*** SEND ***
+*** SSTART 012.0 006.0 0 WY 1889 ***
+SEC. 12. No person qualified to be an elector of the State of Wyoming shall be allowed to vote at
+any general or special election, hereinafter to be holden in the State, until he or she shall have
+registered as a voter according to law, unless the failure to register is caused by sickness or
+absence, for which provision shall be made by law. The legislature of the State shall enact such
+laws as will carry into effect the provisions of this section, which enactment shall be subject to
+amendment, but shall never be repealed; but this section shall not apply to the first election held
+under this constitution.
+*** SEND ***
+*** SSTART 013.0 006.0 0 WY 1889 ***
+ELECTIONS
+
+SEC. 13. The legislature shall pass laws to secure the purity of elections, and guard against
+abuses of the elective franchise.
+*** SEND ***
+*** SSTART 014.0 006.0 0 WY 1889 ***
+SEC. 14. The legislature shall by general law, designate the courts by which the several classes of
+election contests not otherwise provided for, shall be tried, and regulate the manner of trial an all
+matters incident thereto; but no such law shall apply to any contest arising out of an election held
+before its passage.
+*** SEND ***
+*** SSTART 015.0 006.0 0 WY 1889 ***
+SEC. 15. No person except a qualified elector shall be elected or appointed to any civil or
+military office in the State.
+*** SEND ***
+*** SSTART 016.0 006.0 0 WY 1889 ***
+SEC. 16. Every person holding any civil office tinder the State or any municipality therein shall,
+unless removed according to law, exercise the duties of such office until his successor is duly
+qualified, but this shall not apply to members of the legislature, nor to members, of any board of
+assembly, two or more of whom are elected at the same time. The legislature may by law provide
+for suspending any officer in his functions, pending impeachment or prosecution for misconduct
+in office.
+*** SEND ***
+*** SSTART 017.0 006.0 0 WY 1889 ***
+QUALIFICATIONS FOR OFFICE
+
+SEC. 17. All general elections for state and county officers, for members of the house of
+representatives and the senate of the State of Wyoming, and representatives to the congress of the
+United. States, shall be held on the Tuesday next following the first Monday in November of
+each even year. Special elections may be held as now, or as may hereafter be provided by law.
+All state and county officers elected at a general election shall enter upon their respective duties
+on the first Monday in January next following the date of their election, or as soon thereafter as
+may be possible.
+*** SEND ***
+*** SSTART 018.0 006.0 0 WY 1889 ***
+SEC. 18. All officers, whose election is not provided for in this constitution, shall be elected or
+appointed as may be directed by law.
+*** SEND ***
+*** SSTART 019.0 006.0 0 WY 1889 ***
+SEC. 19. No member of congress from this State, nor any person holding or exercising any
+appointment of trust or profit under the United States, shall at the same time hold or exercise any
+office in this State to which a salary, fees or perquisites shall be attached. The legislature may by
+law declare what offices are incompatible.
+*** SEND ***
+*** SSTART 020.0 006.0 0 WY 1889 ***
+OATH OF OFFICE
+
+SEC. 20. Senators and representatives and all judicial, state and county officers shall, before
+entering upon the duties of their respective offices, take and subscribe the following oath or
+affirmation: "I do solemnly swear (or affirm) that I will support, obey and defend the
+Constitution of the United States, and the Constitution of this State, and that I will discharge the
+duties of my office with fidelity; that I have not paid or contributed, or promised to pay or
+contribute, either directly or indirectly, any money or other valuable thing, to procure my
+nomination or election, (or appointment) except for necessary and proper expenses expressly
+authorized by law; that I have not, knowingly, violated any election law of the State, or procured
+it to be done by others in my behalf; that I will not knowingly receive, directly or indirectly, any
+money or other valuable thing for the performance or non-performance of any act or duty
+pertaining to my office, other than the compensation allowed by law."
+*** SEND ***
+*** SSTART 021.0 006.0 0 WY 1889 ***
+SEC. 21. The foregoing oath shall be administered by some person authorized to administer
+oaths, and in the case of State officers and judges of the supreme court shall be filed in the office
+of the secretary of State, and in the ease of other judicial and county officers in the office of the
+clerk of the county in which the, same is taken; any person refusing to take said oath or
+affirmation shall forfeit his office, and any person who shall be convicted of having sworn or
+affirmed falsely, or of having violated said oath or affirmation, shall be guilty of perjury, and be
+forever disqualified from holding any office of trust or profit within this State. The oath to
+members of the senate and house of representatives shall be administered by one of the judges of
+the supreme court or a justice of the peace, in the hall of the house to which the members shall be
+elected.
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 WY 1889 ***
+
+ARTICLE No. VII
+
+EDUCATION
+*** SSTART 001.0 007.0 0 WY 1889 ***
+SECTION 1. The legislature shall provide for the establishment and maintenance of a complete
+and uniform system of public instruction embracing free elementary schools of every needed
+kind and grade, a university with such technical and professional departments as the public good
+may require and the means of the State allow, and such other institutions as may be necessary.
+*** SEND ***
+*** SSTART 002.0 007.0 0 WY 1889 ***
+SEC. 2. The following are declared to be perpetual funds for school purposes, of which the
+annual income only can be appropriated, to wit: Such per centum as has been or may hereafter be
+granted by congress on the sale of lands in this State; all moneys arising from the sale or lease of
+sections number sixteen and thirty-six in each township in the State, and the lands selected or
+that may be selected in lieu thereof; the proceeds of all lands that have been or may hereafter be
+granted to this State, where by the terms and conditions of the grant, the same are not to be
+otherwise appropriated; the net proceeds of lands and other property and effects that may come to
+the State by escheat or forfeiture, or from unclaimed dividends or distributive shares of the
+estates of deceased persons; all moneys, stocks, bonds, lands and other property now belonging
+to the common school fund.
+*** SEND ***
+*** SSTART 003.0 007.0 0 WY 1889 ***
+SEC. 3. To the sources of revenue above mentioned shall be added all other grants, gifts and
+devises that have been or may hereafter be made to this State and not otherwise appropriated by
+the terms of the grant, gift or devise.
+*** SEND ***
+*** SSTART 004.0 007.0 0 WY 1889 ***
+SEC. 4.  All moneys, stocks, bonds, lands and other property belonging to a county school fund,
+except such moneys and property as may be provided by law for current use in aid of public
+schools, shall belong to and be securely invested and sacredly preserved in the several counties as
+a county public school fund, the income of which shall be appropriated exclusively to the use and
+support of free public schools in the several counties of the State.
+*** SEND ***
+*** SSTART 005.0 007.0 0 WY 1889 ***
+SEC. 5. All fines and penalties under general laws of the State shall belong to the public school
+fund of the respective counties and be paid over to the custodians of such funds for the current
+support of the public schools therein.
+*** SEND ***
+*** SSTART 006.0 007.0 0 WY 1889 ***
+SEC. 6. All funds belonging to the State for public school purposes, the interest and income of
+which only are to be used, shall be deemed trust funds in the care of the State, which shall keep
+them for the exclusive benefit of the public schools, and shall make good any losses that may in
+any manner occur, so that the same shall remain forever inviolate and undiminished. None of
+such funds shall ever be invested or loaned except on the bonds issued by school districts, or
+registered county bonds of the State, or State securities of this State, or of the United States.
+*** SEND ***
+*** SSTART 007.0 007.0 0 WY 1889 ***
+SEC.7. The income arising from the funds mentioned in the preceding section, together with all
+the rents of the unsold school lands and such other means as the legislature may provide, shall be
+exclusively applied to the support of free schools in every county in the State.
+*** SEND ***
+*** SSTART 008.0 007.0 0 WY 1889 ***
+SEC 8. Provision shall be made by general law for the equitable distribution of such income
+among the several counties according to the number of children of school age in each; which
+several counties shall in like manner distribute the proportion of said fund by them received
+respectively to the several school districts embraced therein. But no appropriation shall be made
+from said fund to any district for the year in which a school has not been maintained for at least
+three months; nor shall any portion, of any public school fund ever be used to support or assist
+any private school, or any school, academy, seminary, college or other institution of learning
+controlled by any church or sectarian organization or religious denomination whatsoever.
+*** SEND ***
+*** SSTART 009.0 007.0 0 WY 1889 ***
+SEC. 9. The legislature shall make such further provision by taxation or otherwise, as with the
+income arising from the general school fund will create and maintain a thorough and efficient
+system of public schools, adequate to the proper instruction of all the youth of the State, between
+the ages of six and twenty-one years, free of charge; and in view of such provision so made, the
+legislature shall require that every child of sufficient physical and mental ability shall attend a
+public school during the period between six and eighteen years for a time equivalent to three
+years, unless educated by other means.
+*** SEND ***
+*** SSTART 010.0 007.0 0 WY 1889 ***
+SEC. 10. In none of the public schools so established and maintained shall distinction or
+discrimination be made on account of sex, race or color.
+*** SEND ***
+*** SSTART 011.0 007.0 0 WY 1889 ***
+SEC. 11. Neither the legislature nor the superintendent of public instruction shall have power to
+prescribe text books to be used in the public schools.
+*** SEND ***
+*** SSTART 012.0 007.0 0 WY 1889 ***
+SEC. 12. No sectarian instruction, qualifications or tests shall be imparted, exacted, applied or in
+any manner tolerated in the schools of any grade or character controlled by the State, nor shall
+attendance be required at any religious service therein, nor shall any sectarian tenets or doctrines
+be taught or favored in any public school or institution that may be established under this
+constitution.
+*** SEND ***
+*** SSTART 013.0 007.0 0 WY 1889 ***
+SEC. 13. The governor, secretary of state, state treasurer and superintendent of public instruction
+shall constitute the board of land commissioners, which, under direction of the legislature, as
+limited by this constitution, shall have the direction, control, leasing and disposal of the lands of
+the State granted, or which may be hereafter g ranted for the support and benefit of public
+schools, subject to the further limitations that the sale of all lands shall be at public auction, after
+such delay (not less than the time fixed by congress), in portions at proper intervals of time, and
+at such minimum prices (not less than the minimum fixed by congress), as to realize the largest
+possible proceeds.
+*** SEND ***
+*** SSTART 014.0 007.0 0 WY 1889 ***
+SEC. 14. The general supervision of the public schools shall be entrusted to the state
+superintendent of public instruction, whose powers and duties shall be prescribed by law.       
+*** SEND ***
+*** SSTART 015.0 007.0 0 WY 1889 ***
+                                    THE UNIVERSITY
+
+SEC. 15. The establishment of the University of Wyoming is hereby confirmed, and said
+institution, with its several departments is hereby declared to be the University of the State of
+Wyoming. All lands which have been heretofore granted or which may be granted hereafter by
+congress unto the university as such, or in aid of the instruction to be given in any of its
+departments, with all other grants, donations or devises for said university, or for any of its
+departments, shall vest in said university, and be exclusively used for the purposes for which they
+were granted, donated or devised. The said lands may be leased on terms approved by the land
+commissioners, but may not be sold on terms not approved by congress.
+*** SEND ***
+*** SSTART 016.0 007.0 0 WY 1889 ***
+SEC. 16. The university shall be equally open to students of both sexes, irrespective of race or
+color; and, in order that the instruction furnished may be as nearly free as possible, any amount in
+addition to the income from its grants of lands and other sources above mentioned, necessary to
+its support and maintenance in a condition of full efficiency shall be raised by taxation or
+otherwise, tinder provisions of the legislature.
+*** SEND ***
+*** SSTART 017.0 007.0 0 WY 1889 ***
+SEC. 17. The legislature shall provide by law for the management of the university, its lands and
+other property by a board of trustees, consisting of not less than seven members, to be appointed
+by the governor by and with the advice and consent, of the senate, and the president of the
+university, and superintendent of public instruction, as members ex-officio, as such having the
+right to speak but not to vote. The duties and powers of the trustees shall be prescribed by law.
+*** SEND ***
+*** SSTART 018.0 007.0 0 WY 1889 ***                             
+CHARITABLE AND PENAL INSTITUTIONS
+
+SEC. 18. Such charitable, reformatory and penal institutions as the claims of humanity and the
+public good may require, shall be established and supported by the State in such manner as the
+legislature may prescribe. They shall be tinder the general supervision of a State board of
+charities and reform, whose duties and powers shall be prescribed by law.
+*** SEND ***
+*** SSTART 019.0 007.0 0 WY 1889 ***
+SEC. 19. The property of all charitable and penal institutions belonging to the Territory of
+Wyoming shall, upon the adoption of this constitution, become the property of the State of
+Wyoming, and such of said institutions as are then in actual operation, shall thereafter have the
+supervision of the board of charities and reform, as provided in the last preceding section of this
+article, under provisions of the legislature.
+*** SEND ***
+*** SSTART 020.0 007.0 0 WY 1889 ***
+PUBLIC HEALTH AND MORALS
+
+SEC. 20. As the health and morality of the people are essential to their well-being, and to the
+peace and permanence of the State, it shall be the duty of the legislature to protect and promote
+these vital interests by such measures for the encouragement of temperance and virtue, and such
+restrictions upon vice and immorality of every sort, as are deemed necessary to the public
+welfare.
+*** SEND ***
+*** SSTART 021.0 007.0 0 WY 1889 ***
+
+PUBLIC BUILDINGS
+
+SEC. 21. All public buildings and other property belonging to the territory shall, upon the
+adoption of this constitution, become the property of the State of Wyoming.
+*** SEND ***
+*** SSTART 022.0 007.0 0 WY 1889 ***
+SEC. 22. The construction, care and preservation of all public buildings of the State not under the
+control of the board or officers of public institutions by authority of law shall be entrusted to such
+officers or boards, and under such regulations as shall be prescribed by law.
+*** SEND ***
+*** SSTART 023.0 007.0 0 WY 1889 ***
+SEC. 23. The legislature shall have no power to change or to locate the seat of government, the
+state university, insane asylum, or state penitentiary, but may, after the expiration of ten (10)
+years after the adoption of this constitution, provide by law for submitting the question of the
+permanent location thereof respectively, to the qualified electors of the State, at some general
+election, and a majority of all votes upon said question cast at said election shall be necessary to
+determine the location thereof; but for said period of ten (10) years, and until the same are
+respectively and permanently located, as herein provided, the location of the seat of government
+and said institutions shall be as follows:
+The seat of government shall be located at the city of Cheyenne in the county of Laramie. The
+state university shall be located at the city of Laramie, in the county of Albany. The insane
+asylum shall be located at the town of Evanston, in the county of Uinta. The penitentiary shall be
+located at the city of Rawlins, in the county of Carbon; but the legislature may provide by law
+that said penitentiary may be converted to other public uses. The legislature shall not locate any
+other public institutions except under general laws, and by vote of the people.
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 WY 1889 ***
+ART1CLE NO. VIII
+
+IRRIGATION AND WATER RIGHTS
+*** SSTART 001.0 008.0 0 WY 1889 ***
+SECTION 1. The water of all natural streams, and, lakes or other collection of still water, within
+the boundaries of the State, are hereby declared to be the property of the State.
+*** SEND ***
+*** SSTART 002.0 008.0 0 WY 1889 ***
+SEC. 2. There shall be constituted a board of control, to be composed of the state engineer and
+superintendents of the water divisions; which shall under such regulations as may be prescribed
+by law, have the supervision of the waters of the state and of their appropriation, distribution and
+diversion and of the various officers connected therewith. Its decisions to be subject to review by
+the courts of the State.
+*** SEND ***
+*** SSTART 003.0 008.0 0 WY 1889 ***
+SEC. 3. Priority of appropriation for beneficial uses shall give the better right. No appropriation
+shall be denied except when such denial is demanded by the public interests.
+*** SEND ***
+*** SSTART 004.0 008.0 0 WY 1889 ***
+SEC. 4. The legislature shall by law divide the State into four (4) water divisions and provide for
+the appointment of superintendents thereof.
+*** SEND ***
+*** SSTART 005.0 008.0 0 WY 1889 ***
+SEC. 5. There shall be a state engineer who shall be appointed by the governor of the State and
+confirmed by the senate; he shall hold his office for the term of six (6) years or until his
+successor shall have been appointed and shall have qualified. He shall be president of the board
+of control and shall have general supervision of the waters of the State and of the officers
+connected with its distribution. No person shall be appointed to this position who has not such
+theoretical knowledge and such practical experience and skill as shall fit him for the position.
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 WY 1889 ***
+
+ARTICLE IX
+
+MINES AND MINING
+*** SSTART 001.0 009.0 0 WY 1889 ***
+SECTION 1. There shall be established and maintained the office of inspector of mines, the
+duties and salary of which shall be prescribed by law. When said office shall be established, the
+governor shall, with the advice and consent of the senate, appoint thereto a person proven in the
+manner provided by law to be competent and practical, whose term of office shall be two years.
+*** SEND ***
+*** SSTART 002.0 009.0 0 WY 1889 ***
+SEC. 2. The legislature shall provide by law for the proper development, ventilation, drainage
+and operation of all mines in this State.
+*** SEND ***
+*** SSTART 003.0 009.0 0 WY 1889 ***
+SEC. 3. No boy under the age of fourteen years and no woman or girl of any age shall be
+employed or permitted to be in or about any coal, iron or other dangerous mines for the purpose
+of employment therein; provided, however, this provision shall not affect the employment, of a
+boy or female of suitable age in an office or in the performance of clerical work at such mine or
+colliery.
+*** SEND ***
+*** SSTART 004.0 009.0 0 WY 1889 ***
+SEC. 4. For any injury to person or property caused by wilful failure to comply with provisions
+of this article  or law as passed in pursuance hereof, a right of action shall accrue to the party
+injured, for the damages sustained thereby, and in all cases in this State, whenever the death of a
+person shall be caused by wrongful act, neglect or default, such as would, if death had not
+ensued, have entitled the party injured to maintain an action to recover damages in respect
+thereof, the person who or the corporation which would have been liable, if death had not ensued 
+shall be liable to an action for damages notwithstanding the death of the person injured, and the
+legislature shall provide by law at its first session for the manner in which the right of action in
+respect thereto shall be enforced.
+*** SEND ***
+*** SSTART 005.0 009.0 0 WY 1889 ***
+SEC. 5. The legislature may provide that the science of mining and metallurgy be taught in one
+of the institutions of learning tinder the patronage of the State.
+*** SEND ***
+*** SSTART 006.0 009.0 0 WY 1889 ***
+SEC. 6. There shall be a state geologist, who shall be appointed by the governor of the State,
+with the advice and consent of the senate.  He shall hold his office for a term of six (6) years or
+until his successor shall have been appointed and shall have qualified. His duties and
+compensation shall be prescribed by law.  No person shall be appointed to this position unless he
+has such theoretical knowledge and such practical experience and skill as shall fit him for the
+position; said state geologist shall ex-officio perform the duties of inspector of mines until
+otherwise provided by law.
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 WY 1889 ***
+
+ARTICLE NO. X
+
+CORPORATIONS
+*** SSTART 001.0 010.0 0 WY 1889 ***
+SECTION 1. The legislature shall provide for the organization of corporations by general law.
+All laws relating to corporations may be altered, amended or repealed by the legislature at any
+time when necessary for the public good and general welfare, and all corporations doing business
+in this State may as to such business be regulated, limited or restrained by law not in conflict
+with the constitution of the United States.
+*** SEND ***
+*** SSTART 002.0 010.0 0 WY 1889 ***
+SEC. 2. All powers and franchises of corporations are derived from the people and are granted by
+their agent, the government, for the public good and general welfare, and the right and duty of the
+State to control and regulate them for these purpose is hereby declared. The power, rights and
+privileges of any and all corporations may be forfeited by wilful neglect or abuse thereof. The
+police power of the State is supreme over all corporations as well as individuals.
+*** SEND ***
+*** SSTART 003.0 010.0 0 WY 1889 ***
+SEC. 3. All existing charters, franchises, special or exclusive privileges under which an actual
+and bona fide organization shall not have taken place for the purpose for which formed and
+which shall not have been maintained in good faith to the time of the adoption of this constitution
+shall thereafter have no validity.
+*** SEND ***
+*** SSTART 004.0 010.0 0 WY 1889 ***
+SEC. 4. No law shall be enacted limiting the amount of damages to be recovered for causing the
+injury or death of any person. Any contractor agreement with any employee waiving any right to
+recover damages for causing the death or injury of any employee shall be void.
+*** SEND ***
+*** SSTART 005.0 010.0 0 WY 1889 ***
+SEC. 5. No corporation organized under the laws of Wyoming Territory or any other jurisdiction
+than this State shall be permitted to transact business in this state until it shall have accepted the
+constitution of this State and filed such acceptance in accordance with the laws thereof.
+*** SEND ***
+*** SSTART 006.0 010.0 0 WY 1889 ***
+SEC. 6. No corporation shall have power to engage in more than one general line or department
+of business, which shall be distinctly specified in its charter of incorporation.
+*** SEND ***
+*** SSTART 007.0 010.0 0 WY 1889 ***
+SEC. 7. All corporations engaged in the transportation of persons, property, mineral oils, and
+mineral products, news or intelligence, including railroads, telegraphs, express companies, pipe
+lines and telephones, are declared to be common carriers.
+
+*** SEND ***
+*** SSTART 008.0 010.0 0 WY 1889 ***
+SEC. 8. There shall be no consolidation or combination of corporations of any kinds whatever to
+prevent competition, to control or influence productions or prices thereof, or in any other manner
+to interfere with the public good and general welfare.
+*** SEND ***
+*** SSTART 009.0 010.0 0 WY 1889 ***
+SEC. 9. The right of eminent domain shall never be so abridged or construed as to prevent the
+legislature from taking the property and franchises of incorporated companies and subjecting
+them to the public use the same as the property of individuals.
+*** SEND ***
+*** SSTART 010.0 010.0 0 WY 1889 ***
+SEC. 10. The legislature shall provide by suitable legislation for the organization of mutual and
+co-operative associations or corporations.
+*** SEND ***
+
+*** SSTART 011.0 010.0 0 WY 1889 ***
+RAILROADS
+
+SECTION 1. Any railroad corporation or association organized for the purpose, shall have the
+right to construct and operate a railroad between any points within this State and to connect at the
+State line with railroads of other states. Every railroad shall have the right with its road to
+intersect, connect with or cross any other railroad, and all railroads shall receive and transport
+each other's passengers, and tonnage and cars, loaded or empty, without delay or discrimination.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 012.0 010.0 0 WY 1889 ***
+SEC. 2. Railroad and telegraph lines heretofore constructed or that may hereafter be constructed
+in this State are hereby declared public highways and common carriers, and as such must by
+made by law to extend the same equality and impartiality to all who use them, excepting
+employees and their families and ministers of the gospel, whether individuals or corporations.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 013.0 010.0 0 WY 1889 ***
+SEC. 3. Every railroad corporation or association operating a line of railroad within this State
+shall annually make a report to the auditor of State of its business within this state, in such form
+as the legislature may prescribe.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 014.0 010.0 0 WY 1889 ***
+SEC. 4. Exercise of the power and right of eminent domain shall never be so construed or
+abridged as to prevent the taking by the legislature of property and franchises of incorporated
+companies and subjecting them to public use the same as property of individuals.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+
+*** SSTART 015.0 010.0 0 WY 1889 ***
+SEC. 5. Neither the State, nor any county, township school district or municipality shall loan or
+give its credit or make donations to or in aid of any railroad or telegraph line; provided, that this
+section shall not apply to obligations of any county, city, township or school district, contracted
+prior to the adoption o this constitution.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 016.0 010.0 0 WY 1889 ***
+SEC. 6. No railroad or other transportation company or telegraph company in existence upon the
+adoption of this constitution shall derive the benefit of any future legislation without first filing
+in the office of the secretary of State an acceptance of the provisions of this constitution.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 017.0 010.0 0 WY 1889 ***
+SEC. 7. Any association, corporation or lessee of the franchises thereof organized for the purpose
+shall have the right to construct and maintain lines of telegraph within this State and to connect
+the same with other lines.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 018.0 010.0 0 WY 1889 ***
+SEC. 8. No foreign railroad or telegraph line shall do any business within this State without
+having an agent or agents within each county through which such railroad or telegraph line shall
+be constructed upon whom process may be served.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 019.0 010.0 0 WY 1889 ***
+SEC. 9. No railroad company shall construct or operate a railroad within four (4) miles of any
+existing town or city without providing a suitable depot or stopping place at the nearest
+practicable point for the convenience of said town or city, and stopping all trains doing local
+business at said stopping place. No railroad company shall deviate from the most direct
+practicable line in constructing a railroad, for the purpose of avoiding the provisions of this
+section.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 WY 1889 ***
+ARTICLE No. XI
+BOUNDARIES
+
+
+The boundaries of the State of Wyoming shall be as follows: Commencing at the intersection of
+the twenty-seventh meridian of longitude west from Washington with the forty-fifth degree of
+north latitude, and running thence west to the thirty-fourth meridian of west longitude, thence
+south to the forty-first degree of north latitude, thence east to the twenty-seventh meridian of
+west longitude, and thence north to the place of beginning.
+
+*** AEND ***
+
+*** ASTART 012.0 WY 1889 ***
+ARTICLE No. XII
+COUNTY ORGANIZATION
+*** SSTART 001.0 012.0 0 WY 1889 ***
+SECTION 1. The several counties in the Territory of Wyoming as they shall exist at the time of
+the admission of said territory as a State are hereby declared to be the counties of the State of
+Wyoming.
+*** SEND ***
+*** SSTART 002.0 012.0 0 WY 1889 *** 
+SEC. 2. The legislature shall provide by general law for organizing new counties, locating the
+county seats thereof temporarily and changing county lines. But no new county shall be formed
+unless it shall contain within the limits thereof property 'of the valuation of two million dollars,
+as shown by last preceding tax returns, and not then unless the remaining portion of the old
+county or counties shall each contain property of at least three million dollars of assessable
+valuation; and no new county shall be organized, nor shall any organized county be so reduced as
+to contain a population of less than one thousand five hundred bona fide inhabitants, and in case
+any portion of an organized county or counties is stricken off to form a new county the new
+county shall assume and be holden for an equitable proportion of the indebtedness of the county
+or counties so reduced. No county shall be divided unless a majority of the qualified electors of
+the territory proposed to be cut off voting on the proposition shall vote in favor of the division.
+*** SEND ***
+*** SSTART 003.0 012.0 0 WY 1889 ***
+SEC. 3. The legislature shall provide by general law for changing county seats in organized
+counties, but it shall have no power to remove the county seat of any organized county.
+*** SEND ***
+*** SSTART 004.0 012.0 0 WY 1889 ***
+SEC. 4. The legislature shall provide by general law for a system of township organization and
+government, which may be adopted by any county whenever a majority of the citizens thereof
+voting at a general election shall so determine.
+*** SEND ***
+*** SSTART 005.0 012.0 0 WY 1889 *** 
+SEC. 5. The legislature shall provide by law for the election of such county officers as may be
+necessary.
+*** SEND ***
+*** AEND ***
+*** ASTART 013.0 WY 1889 ***
+
+ARTICLE No. XIII
+
+*** SSTART 001.0 013.0 0 WY 1889 ***
+MUNICIPAL CORPORATIONS
+
+SECTION 1. The legislature shall provide by general laws for the organization and classification
+of municipal corporations. The number of such classes shall not exceed four (4), and the powers
+of each class shall be defined by general laws, so that no such corporation shall have any power
+or be subject to any restrictions other than all corporations of the same class. Cities and towns
+now existing under special charters or the general laws of the territory may abandon such charter
+and reorganize under the general laws of the State.
+*** SEND ***
+*** SSTART 002.0 013.0 0 WY 1889 ***
+SEC. 2. No municipal corporation shall be organized without the consent of the majority of the
+electors residing within the district proposed to be so incorporated such consent to be ascertained
+in the manner and under such regulations as may be prescribed by law.
+*** SEND ***
+*** SSTART 003.0 013.0 0 WY 1889 ***
+SEC. 3. The legislature shall restrict the powers of such corporations to levy taxes and
+assessments, to borrow money and contract debts so as to prevent the abuse of such power, and
+no tax or assessment shall be levied or collected or debts contracted by municipal corporations
+except in pursuance of law for public purposes specified by law.
+*** SEND ***
+*** SSTART 004.0 013.0 0 WY 1889 ***
+SEC. 4. No street passenger railway, telegraph, telephone or electric light line shall be
+constructed within the limits of any municipal organization without the consent of its local
+authorities.
+*** SEND ***
+*** SSTART 005.0 013.0 0 WY 1889 ***
+SEC. 5. Municipal corporations shall have the same right as individuals to acquire rights by prior
+appropriation and otherwise to the use of water for domestic and municipal purposes, and the
+legislature shall provide by law for the exercise upon the part of incorporated cities, towns and
+villages of the right of eminent domain for the purpose of acquiring from prior appropriators
+upon the payment of just compensation such water as may be necessary for the well being thereof
+and for domestic uses.
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 WY 1889 ***
+                                 
+ARTICLE NO. XIV
+
+*** SSTART 001.0 014.0 0 WY 1889 ***
+SECTION 1. All State, city, county, town and school officers, (excepting justices of the peace
+and constables in precincts having less than fifteen hundred population, and excepting court
+commissioners, boards of arbitration and notaries public) shall be paid fixed and definite salaries.
+The legislature shall, from time to time, fix the amount of such salaries as are not already fixed
+by this constitution, which shall in all cases be in proportion to the value of the services rendered
+and the duty performed.
+*** SEND ***
+*** SSTART 002.0 014.0 0 WY 1889 ***
+SEC. 2. The legislature shall provide by law the fees which may be demanded by justices of the
+peace and constables in precincts having less than fifteen hundred population, and of court
+commissioners, boards of arbitration and notaries public, which fees the said officers shall accept
+as their full compensation. But all other State, county, city, town and school officers shall be
+required to keep a true and correct account of all fees collected by them, and to pay the same into
+the proper treasury when collected, and the officer whose duty it is to collect such fees shall be
+held responsible under his bond, for neglect to collect the same. Provided, that in addition to the
+salary of the sheriff they shall be entitled to receive from the party for whom the services are
+rendered in civil cases such fees as may be prescribed under the law.
+*** SEND ***
+*** SSTART 003.0 014.0 0 WY 1889 ***
+SEC. 3. The salaries of county officers shall be fixed by law within the following limits, to-wit:
+In counties having an assessed valuation not exceeding two millions ($2,000,000) of dollars, the
+sheriff shall be paid not more than fifteen hundred dollars per year. The county clerk shall not be
+paid more than twelve hundred ($1,200) dollars per year. The county and prosecuting attorney
+shall not be paid more that twelve hundred dollars ($1,200) per year. The county treasurer shall
+not be paid more than one thousand ($1,000) dollars per year. The county superintendent of
+schools shall not be paid more than five hundred ($500) dollars per year.
+In counties having an assessed valuation of more than two millions ($2,000,000) of dollars and
+not exceeding five millions ($5,000,000) of dollars, the sheriff shall not be paid more than two
+thousand ($2,000) dollars per year. The county clerk shall not be paid more than eighteen
+hundred ($1,800) dollars per year. The county treasurer shall not be paid more than eighteen
+hundred ($1,800) dollars per year. The county assessor shall not be paid more than twelve hun-
+
+dred ($1,200) dollars per year. The county and prosecuting attorney shall not be paid more than
+fifteen hundred ($1,500) dollars per year. The county superintendent of schools shall not be paid
+more than seven hundred and fifty ($750) dollars per year.
+In counties having more than five millions ($5,000,000) dollars assessed valuation, the sheriff
+shall not be paid more than two thousand ($2,000) dollars per year. The county clerk shall not be
+paid more than two thousand ($2,000) dollars per year. The county treasurer shall not be paid
+more than two thousand ($2,000) dollars per year. The county assessor shall not be paid more
+than fifteen hundred ($1,500) dollars per year. The county and prosecuting attorney shall not be
+paid more twenty-five hundred ($2,500) dollars per year. The county superintendent of schools
+shall not be paid more than one thousand ($1,000) dollars per year. The county surveyor in each
+county shall receive not to exceed eight ($8.00) dollars per day, for each day actually engaged in
+the performance of the duties of his office.
+*** SEND ***
+*** SSTART 004.0 014.0 0 WY 1889 ***
+SEC. 4. The legislature shall provide by general law for such deputies as the public necessities
+may require, and shall fix their compensation.
+*** SEND ***
+*** SSTART 005.0 014.0 0 WY 1889 ***
+SEC. 5. Any county officers performing the duties usually performed by the officers named in
+this article shall be considered as referred to by Section 3 of this article, regardless of the title by
+which their offices may hereafter be designated.
+*** SEND ***
+*** SSTART 006.0 014.0 0 WY 1889 ***
+SEC. 6. Whenever practicable the legislature may, and whenever the same can be done without
+detriment to the public service, shall consolidate offices in State, county and municipalities,
+respectively, and whenever so consolidated, the duties of such additional office shall be
+performed under an ex-officio title.
+*** SEND ***
+*** AEND ***
+*** ASTART 015.0 WY 1889 ***
+
+ARTICLE XV
+
+TAXATION AND REVENUE
+*** SSTART 001.0 015.0 0 WY 1889 ***
+SECTION 1. All lands and improvements thereon shall be listed for assessment, valued for
+taxation and assessed separately.
+*** SEND ***
+*** SSTART 002.0 015.0 0 WY 1889 ***
+SEC. 2. All coal lands in the State from which coal is not being mined shall be listed for
+assessment, valued for taxation and assessed according to value.
+*** SEND ***
+
+*** SSTART 003.0 015.0 0 WY 1889 ***
+SEC. 3. All mines and mining claims from which gold, silver and other precious metals, soda,
+saline, coal, mineral oil or other valuable deposits, is or may be produced shall be taxed in
+addition to the surface improvements, and in lieu of taxes on the lands, on the gross product
+thereof, as may be prescribed by law, provided, that the product of all mines shall be taxed in
+proportion to the value thereof.
+*** SEND ***
+*** SSTART 004.0 015.0 0 WY 1889 ***
+SEC. 4. For State revenue, there shall be levied annually a tax not to exceed four mills on the
+dollar of the assessed valuation of the property in the State except for the support of State
+educational and charitable institutions, the payment of the State debt and the interest thereon.
+*** SEND ***
+*** SSTART 005.0 015.0 0 WY 1889 ***
+    SEC. 5. For county revenue there shall be levied annually a tax not to exceed twelve mills on
+the dollar for all purposes including general school tax, exclusive of state revenue, except for the
+payment of its public debt and the interest thereon. An additional tax of two dollars for each
+person between the ages of twenty-one years and fifty years, inclusive, shall be annually levied
+for county school purposes.
+*** SEND ***
+*** SSTART 006.0 015.0 0 WY 1889 ***
+No. 6. No incorporated city or town shall levy a tax to exceed eight mills on the dollar in any one
+year, except for the payment of its public debt and the interest thereon.
+*** SEND ***
+*** SSTART 007.0 015.0 0 WY 1889 ***
+SEC. 7. All money belonging to the State, or to any comity, city, town, village or other sub-
+division therein, except, as herein otherwise provided, shall, whenever practicable, be deposited
+in a national bank or banks, or in a bank or banks incorporated under the laws of this State;
+provided, that the bank or banks in which such money is deposited shall furnish security to be
+approved as provided by law and shall also pay a reasonable rate of interest thereon. Such interest
+shall accrue to the fund from which it is derived.
+*** SEND ***
+*** SSTART 008.0 015.0 0 WY 1889 ***
+SEC. 8. The making of profit, directly or indirectly, out of State, county, city, town or school-
+district money or other public fund, or using the same for any purpose not authorized by law by
+any public officer, shall be deemed a felony, and shall be punished as provided by law.
+*** SEND ***
+*** SSTART 009.0 015.0 0 WY 1889 ***
+
+SEC. 9. There shall be a state board, composed of the state auditor, treasurer and secretary of
+state.
+
+[Note: this section was intended to create a Board of Equalization.  This appears to be the
+original section.  The first amendment changed this section to create a Board of Equalization.]
+
+*** SEND ***
+*** SSTART 010.0 015.0 0 WY 1889 ***
+SEC. 10. The duties of the state board shall be as follows: To fix a valuation each year for the
+assessment of live stock and to notify the several county boards of equalization of the rate so
+fixed at least ten (10) days before the day fixed for beginning assessments; to assess at their
+actual value the franchises, roadway, roadbed, rails and rolling stock and all other property used
+in the operation of all railroads and other common carriers, except machine shops, rolling mills
+and hotels in this state; such assessed valuation shall be apportioned to the counties, in which
+said roads and common carriers are located, as a basis for taxation of such property; provided,
+that the assessment so made shall not apply to incorporated towns and cities. Said board shall
+also have power to equalize the valuation on all property in the several counties for the state
+revenue and such other duties as may be prescribed by law.
+*** SEND ***
+*** SSTART 011.0 015.0 0 WY 1889 ***
+SEC. 11. All property, except as in this constitution otherwise provided, shall be uniformly
+assessed for taxation, and the legislature shall prescribe such regulations as shall secure a just
+valuation of all property, real and personal.
+
+*** SEND ***
+*** SSTART 012.0 015.0 0 WY 1889 ***
+SEC. 12. The property of the United States the State, counties cities, towns. school-districts,
+municipal corporations and public libraries, lots with the buildings thereon used exclusively for
+religious worship, church, parsonages, public cemeteries, shall be exempt from taxation, and
+such other property as the legislature may by general law provide.
+*** SEND ***
+*** SSTART 013.0 015.0 0 WY 1889 ***
+SEC. 13. No tax shall be levied, except in pursuance of law, and every law imposing a tax shall
+state distinctly the object of the same, to which only it shall be applied.
+*** SEND ***
+*** SSTART 014.0 015.0 0 WY 1889 ***
+SEC. 14. The power of taxation shall never be surrendered or suspended by any grant or contract
+to which the State or any county or other municipal corporation shall be a party.
+*** SEND ***
+*** AEND ***
+*** ASTART 016.0 WY 1889 ***
+
+ARTICLE NO. XVI
+
+PUBLIC INDEBTEDNESS
+*** SSTART 001.0 016.0 0 WY 1889 ***
+SECTION 1. The State of Wyoming shall not, in any manner, create any indebtedness exceeding
+one per centum on the assessed value of the taxable property in the State, as shown by the last
+general assessment for taxation, preceding; except to suppress insurrection or to provide for the
+public defense.
+*** SEND ***
+*** SSTART 002.0 016.0 0 WY 1889 ***
+SEC. 2. No debt in excess of the taxes for the current year, shall in any manner be created in the
+State of Wyoming, unless the proposition to create such debt shall have been submitted to a vote
+of the people and by them approved; except to suppress insurrection or to provide for the public
+defense.
+*** SEND ***
+*** SSTART 003.0 016.0 0 WY 1889 ***
+SEC. 3. No count in the State of Wyoming shall in any manner create any indebtedness,
+excepting two per centum. on the assessed value of taxable property in such county, as shown by
+the last general assessment, preceding; provided, however, that any county, city, town, village or
+other subdivision thereof in the State of Wyoming, may bond its public debt existing at the time
+of the adoption of this constitution, in any sum not exceeding four per centum on the assessed
+value of the taxable property in such county, city, town, village or other subdivision, as shown by
+the last genera 'assessment for taxation.
+*** SEND ***
+*** SSTART 004.0 016.0 0 WY 1889 ***
+SEC. 4. No debt in excess of the taxes for the current year shall, in any manner, be created by any
+county or subdivision thereof, or any city, town or village, or any subdivision thereof in the State
+of Wyoming, unless the proposition to create such debt shall have been submitted to a vote of the
+people thereof and by them approved.
+*** SEND ***
+*** SSTART 005.0 016.0 0 WY 1889 ***
+SEC. 5. No city, town or village, or any subdivision thereof, or any subdivision of any county of
+the State of  Wyoming, shall, in any manner, create any indebtedness exceeding two per centum
+the assessed value of the taxable property therein; provided, however, that any city, town or
+village may be authorized to create an additional indebtedness, not exceeding four per centum on
+the, assessed value of the taxable property therein as shown by the last preceding general
+assessment, for purpose of building sewerage therein, debts contracted for supplying water to
+such city or town are excepted from the operation of this section.
+*** SEND ***
+*** SSTART 006.0 016.0 0 WY 1889 ***
+SEC. 6. Neither the State nor any county, city, township, town, school-district, or any other
+political subdivision, shall loan or give its credit or make donations to or in aid of any individual,
+association or corporation, except for the necessary support of the poor, nor subscribe to or
+become the owner of the capital stock of any association or corporation. The State shall not
+engage in any work of internal improvement unless authorized by a two-thirds vote of the people.
+*** SEND ***
+*** SSTART 007.0 016.0 0 WY 1889 ***
+SEC. 7. No money shall be paid out of the state treasury except upon appropriation by law and on
+warrant drawn by the proper officer, and no bills, claims, accounts or demands against a state,
+county or political subdivision, shall be audited, allowed or paid until a full itemized statement in
+writing, verified by affidavit, shall be filed with the officer or officers whose duty it may be to
+audit the same.
+*** SEND ***
+*** SSTART 008.0 016.0 0 WY 1889 ***
+SEC. 8. No bond or evidence of indebtedness of the State shall be valid unless the same shall
+have endorsed thereon a certificate signed by the auditor and secretary of state that the bond or
+evidence of debt is issued pursuant to law and is within the debt limit. No bond or evidence of
+debt of any county or bond of any township or other political subdivision shall be valid unless
+the. same have endorsed thereon a certificate signed by the county auditor or other officer
+authorized by law to sign such certificate, stating that said bond or evidence of debt is issued
+pursuant to law and is within the debt limit.
+*** SEND ***
+*** AEND ***
+*** ASTART 017.0 WY 1889 ***
+ARTICLE XVII
+
+STATE MILITIA
+*** SSTART 001.0 017.0 0 WY 1889 ***
+SECTION 1. The militia of the State shall consist of all able-bodied male citizens of the State,
+between the ages of eighteen and forty-five years; except such as are exempted by the laws of the
+United States or of the State. But all such citizens having scruples of conscience averse to
+bearing arms shall be excused therefrom upon such conditions as shall be prescribed by law.
+*** SEND ***
+*** SSTART 002.0 017.0 0 WY 1889 ***
+SEC. 2. The legislature shall provide by law for the enrollment, equipment and discipline of the
+militia to conform as nearly as practicable to the regulations for the government of the armies of
+the United States.
+*** SEND ***
+*** SSTART 003.0 017.0 0 WY 1889 ***
+SEC. 3. All militia officers shall be commissioned by the Governor, the manner of their selection
+to be provided by law, and may hold their commissions for such period of time as the legislature
+may provide.
+*** SEND ***
+*** SSTART 004.0 017.0 0 WY 1889 ***
+SEC. 4. No military organization under the laws of the State shall carry any banner or flag
+representing any sect or society or the flag of any nationality but that of the United States.
+*** SEND ***
+*** SSTART 005.0 017.0 0 WY 1889 ***
+SEC. 5. The governor shall be the commander-in-chief of all the militia forces of the State, and
+shall have power to call out the militia to preserve the public peace, to execute the laws of the
+State, to suppress insurrection or repel invasion.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 018.0 WY 1889 ***
+ARTICLE XV111
+
+PUBLIC LANDS AND DONATIONS
+*** SSTART 001.0 018.0 0 WY 1889 ***
+SECTION 1. The State of Wyoming hereby agrees to accept the grants of lands heretofore made,
+or that may be hereafter made by the United States to the State, for educational purposes, for
+public buildings and institution, and for other objects, and donations of money with the
+conditions and limitations that may be imposed by the act or acts of congress, making such grants
+or donations. Such lands shall be disposed of only at public auction to the highest responsible
+bidder, after having been duly appraised by the land commissioners at not less than three-fourths
+of the appraised value thereof, and for not less than $10 per acre. Provided, that in case of actual
+and bona fide settlement and improvement thereon at the time of the adoption of this
+constitution, such actual settler shall have the preference right to purchase the land whereon he
+may have settled, not exceeding 160 acres at a sum not less than the ap raised value thereof, and
+in making such appraisement the value of improvements shall not be taken into consideration. If,
+at any time hereafter, the United States shall grant any arid lands in the State to the State, on
+condition that the State reclaim and dispose of them to actual settlers, the legislature shall be
+authorized to accept such arid lands on such conditions, or other conditions, if the same are
+practicable and reasonable. 
+*** SEND ***
+*** SSTART 002.0 018.0 0 WY 1889 ***
+    SEC. 2. The proceeds from the sale and rental of all lands and other property donated, granted
+or received, or that may hereafter be donated granted or received, from the United States or any
+other source, shall be inviolably appropriated and applied to the specific purposes specified in the
+original grant or gifts.
+*** SEND ***
+*** SSTART 003.0 018.0 0 WY 1889 ***
+SEC. 3. The governor, superintendent of public instruction and secretary of State shall constitute
+a board of land commissioners who, under such regulations as may be provided by law, shall
+have the direction, control, disposition and care of all lands that have been heretofore or may
+hereafter be granted to the State.
+*** SEND ***
+*** SSTART 004.0 018.0 0 WY 1889 ***
+SEC. 4. The legislature shall enact the necessary laws for the sale, disposal, leasing or care of all
+lands that have been or may hereafter be granted to the State, and shall, at the earliest practicable
+period, provide by law for the location and selection of all lands that have been or may hereafter
+be granted by congress to the State, and shall pass laws for the suitable keeping, transfer and
+disbursement of the land grant funds, and shall require of all officers charged with the same or
+the safe keeping thereof to give ample bonds for all moneys and funds received by them.
+*** SEND ***
+*** SSTART 005.0 018.0 0 WY 1889 ***
+SEC. 5. Except a preference right to buy as in this constitution otherwise provided, no law shall
+ever be passed by the legislature granting any privileges to persons who may have settled upon
+any of the school lands granted to the State subsequent to the survey thereof by the general
+government, by which the amount to be derived by the sale, or other disposition of such lands,
+shall be diminished directly or indirectly.
+
+*** SEND ***
+*** SSTART 006.0 018.0 0 WY 1889 ***
+SEC. 6. If any portion of the interest or income of the perpetual school fund be not expended
+during any year, said portion shall be added to and become a part of the said school fund.
+*** SEND ***
+*** AEND ***
+*** ASTART 019.0 WY 1889 ***
+
+ARTICLE No. XIX
+
+MISCELLANEOUS
+
+LIVE STOCK
+*** SSTART 001.0 019.0 0 WY 1889 ***
+SECTION.1. The legislature shall pass all necessary laws to provide for the protection of live
+stock against the introduction or spread of pleuro-pneumonia, glanders, splenetic or Texas fever,
+and other infectious or contagious diseases. The legislature shall also establish a system of
+quarantine, or inspection, and such other regulations as may be necessary for the protection of
+stock owners, and most conducive to the stock interests within this State.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+
+
+*** SSTART 002.0 019.0 0 WY 1889 ***
+CONCERNING LABOR
+
+SECTION 1. Eight (8) hours actual work shall constitute a lawful day's work in all mines, and on
+all State and municipal works.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 003.0 019.0 0 WY 1889 ***
+LABOR ON PUBLIC WORKS
+
+SECTION 1. No person not a citizen of the United States or who has not declared his intentions
+to become such, shall be employed upon or in connection with any state, county or municipal
+works or employment.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+
+*** SSTART 004.0 019.0 0 WY 1889 ***
+
+SEC. 2. The legislature shall by appropriate legislation see that the provisions of the foregoing
+section are enforced.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+
+[The foregoing section is Article 19, section 3]
+
+*** SEND ***
+*** SSTART 005.0 019.0 0 WY 1889 ***
+BOARDS OF ARBITRATION
+
+SECTION 1. The legislature shall establish courts of arbitration, whose duty it shall be to hear,
+and determine all differences, and controversies between organization or associations of laborers
+and their employers, which shall be submitted to them in such manner as the legislature may
+provide.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 006.0 019.0 0 WY 1889 ***
+POLICE POWERS
+
+SECTION 1. No armed police force, or detective agency, or armed body, or unarmed body of
+men, shall ever be brought into this State for the suppression of domestic violence, except upon
+the application of the legislature, or executive, when the legislature cannot be convened.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+
+*** SSTART 007.0 019.0 0 WY 1889 ***
+LABOR CONTRACTS
+
+SECTION 1. It shall be unlawful for any person, company or corporation, to require of its
+servants or employees as a condition of their employment, or otherwise, any contract or
+agreement, whereby such person, company or corporation shall be released or discharged from
+liability or responsibility, on account of personal injuries received by such servants or employees,
+while in service of such person, company or corporation, by reason of the negligence of such
+person, company or corporation, or the agents or employees thereof, and such contracts shall be
+absolutely null and void.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 008.0 019.0 0 WY 1889 ***
+ARBITRATION
+
+SECTION 1. The legislature may provide by law for the voluntary submission of differences to
+arbitrators for determination, and said arbitrators shall have such powers and duties as may be
+prescribed by law, but they shall have no power to render judgment to be obligatory on parties,
+unless they voluntarily submit their matters of difference and agree to abide the judgment of such
+arbitrators.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** SSTART 009.0 019.0 0 WY 1889 ***
+HOMESTEADS
+
+ SECTION 1. A homestead as provided by law shall be exempt from forced sale under any
+process of law and shall not be alienated without the joint consent of husband and wife, when
+that relation exists; but no property shall be exempt from sale for taxes, or for the payment of
+obligations contracted for the purchase of said premises, or for the erection of improvements
+thereon.
+
+[See constitution notes for section numbering, these were originally in a "floating" section.]
+*** SEND ***
+*** AEND ***
+
+*** ASTART 020.0 WY 1889 ***
+ARTICLE No. XX
+
+AMENDMENTS
+*** SSTART 001.0 020.0 0 WY 1889 ***
+SECTION 1. Any amendment or amendments to this constitution may be proposed in either
+branch of the legislature, and, if the same shall be agreed to by two-thirds of all the members of
+each of the two houses, voting separately, such proposed amendment or amendments shall, with
+the yeas and nays thereon, be entered on their journals, and it shall be the duty of the legislature
+to submit such amendment or amendments to the electors of the State at the next general
+election, and cause the same to be published without delay for at least twelve (12) consecutive
+weeks, prior to said election, in at least one newspaper of general circulation, published in each
+county, and if a majority of the electors shall ratify the same, such amendment or amendments
+shall become a part of this constitution.
+*** SEND ***
+*** SSTART 002.0 020.0 0 WY 1889 ***
+SEC. 2. If two or more amendments are proposed, they shall be. submitted in such manner that
+the electors shall vote for or against each of them separately.
+*** SEND ***
+*** SSTART 003.0 020.0 0 WY 1889 ***
+SEC. 3. Whenever two-thirds of the members elected to each branch of the legislature shall deem
+it necessary to call a convention to revise or amend this constitution, they shall recommend to the
+electors to vote at, the next general election, for or against a convention, and if a majority of all
+the electors voting at such election shall have voted for a convention, the legislature shall at the
+next session provide by law for calling the same; and such convention shall consist of a number
+of members, not less than double that of the most numerous branch of the legislature.
+*** SEND ***
+*** SSTART 004.0 020.0 0 WY 1889 ***
+SEC. 4. Any constitution adopted by such convention shall have no validity until it has been
+submitted to and adopted by the people.
+*** SEND ***
+*** AEND ***
+*** ASTART 021.0 WY 1889 ***
+
+ARTICLE No. XXI
+
+SCHEDULE
+*** SSTART 001.0 021.0 0 WY 1889 ***
+SECTION 1. That no inconvenience may arise from a change of the Territorial government to a
+permanent State government, it is declared that all writs, actions, prosecutions, claims, liabilities
+and obligations against the Territory of Wyoming, of whatever nature, and rights of individuals,
+and of bodies corporate, shall continue as if no change had taken place in this government, and
+all process which may, before the organization of the judicial department under this constitution,
+be issued under the authority of the Territory of Wyoming outing, shall be as valid as if issued in
+the name of the State.                                           
+*** SEND ***
+*** SSTART 002.0 021.0 0 WY 1889 ***
+SEC. 2. All property, real and personal, and all moneys, credits, claims and choses in action,
+belonging to the Territory of Wyoming, at the time of the adoption of this constitution, shall be
+vested in and become the property of the State of Wyoming.
+*** SEND ***
+*** SSTART 003.0 020.0 0 WY 1889 ***
+SEC. 3. All laws now in force in the Territory of Wyoming, which are not repugnant to this
+constitution, shall remain in force until they expire by their own limitation, or be altered or
+repealed by the legislature.
+*** SEND ***
+*** SSTART 004.0 020.0 0 WY 1889 ***
+SEC. 4. All fines, penalties, forfeitures and escheats, accruing to the Territory of Wyoming, shall
+accrue to the use of the State.
+*** SEND ***
+*** SSTART 005.0 021.0 0 WY 1889 ***
+SEC. 5. All recognizances, bonds, obligations or other undertakings heretofore taken, or which
+may be taken before the organization of the judicial department under this constitution shall
+remain valid and shall pass over to and may be prosecuted in the name of the State, and all bonds
+obligations or other undertakings executed to this Territory, or to any officer in his official
+capacity, shall pass over to the proper State authority and to their successors in office, for the
+uses therein respectively expressed, and may be sued for and recovered accordingly. All criminal
+prosecutions and penal actions which have arisen or which may arise before the organization of
+the judicial department under this constitution, and which shall then be pending, may be
+prosecuted to judgment and execution in the name of the State.
+*** SEND ***
+*** SSTART 006.0 021.0 0 WY 1889 ***
+SEC. 6. All officers civil and military, holding their offices and appointments in this Territory,
+under the authority of the United States or under the authority of this Territory, shall continue to
+hold and exercise their respective offices and appointments until suspended under this
+constitution.
+*** SEND ***
+*** SSTART 007.0 021.0 0 WY 1889 ***
+SEC. 7. This constitution shall be submitted for adoption or rejection to a vote of the qualified
+electors of this Territory, at an election to be held on the first Tuesday in November  A. D. 1889.
+Said election, as nearly as may be, shall be conducted in all respects in the same manner as
+provided by the laws of the Territory for general elections, and the returns thereof shall be made
+to the secretary of said Territory, who with the governor and chief justice thereof or any two of
+them, shall canvass the same and if a majority of the legal votes cast shall be for the constitution
+the governor shall certify the result to the president of the United States, together with a state-
+
+ment of the votes cast thereon and a copy of said constitution, articles, propositions and
+ordinances. At the said election the ballots shall be in the following term: " For the Constitution-
+Yes. No." And as a heading to each of said ballots, shall be printed on each ballot the following
+instructions to voters: "All persons who desire to vote for the constitution may erase the word '
+No.' All persons who desire to vote against the constitution may erase the word ' Yes.' " Any per-
+
+son may have printed or written on his ballot only the words: " For the Constitution " or "Against
+the constitution " and such ballots shall be counted for or against the constitution accordingly.
+*** SEND ***
+*** SSTART 008.0 021.0 0 WY 1889 ***
+SEC. 8. This constitution shall take effect and be in full force immediately upon the admission of
+the Territory as a State.
+*** SEND ***
+*** SSTART 009.0 021.0 0 WY 1889 ***
+SEC. 9. Immediately upon the admission of the Territory as a State, the governor of the Territory,
+or in case of his absence or failure to act, the secretary of the Territory, or in the case of his
+absence or failure to act, the president of this convention, shall issue a proclamation, which shall
+be published and a copy thereof mailed to the chairman of the board of county commissioners of
+each county calling an election by the people for all State, district and other officers, created and
+made elective by this constitution, and fixing a day for such election, which shall not be less than
+forty days after the date of such proclamation nor more than ninety days after the admission of
+the Territory as a State.
+*** SEND ***
+*** SSTART 010.0 021.0 0 WY 1889 ***
+SEC. 10. The board of commissioners of the several counties shall thereupon order such election
+tor said day, and shall cause notice thereof to be given, in the manner and for the length of time
+provided by the laws of the Territory in cases of general elections for delegate to congress, and
+county and other offices. Every qualified elector of the Territory at the date of said election shall
+be entitled to vote thereat. Said election shall be conducted in all respects in the same manner as
+provided by the laws of the Territory for general elections, and the returns thereof shall be made
+to the canvassing board hereinafter provided for.
+*** SEND ***
+*** SSTART 011.0 021.0 0 WY 1889 ***
+SEC. 11. The governor, secretary of the territory, and president of this convention, or a majority
+of them, shall constitute a board of canvassers to canvass the vote of such election for member of
+congress, all state and district officers and members of the legislature. The said board shall
+assemble at the seat of government of the Territory on the thirtieth day after the day of such
+election (or on the following day if such day fall on Sunday,) and proceed to canvass the votes
+for all state and district officers and members of the legislature, in the manner provided by the
+laws of the Territory for canvassing the vote for delegate to congress, and they shall issue
+certificates of election to the persons found to be elected to said offices, severally, and shall make
+and file with the secretary of the territory an abstract certified by them, of the number of votes
+cast for each person, for each of said offices, and of the total number of votes cast in each county.
+*** SEND ***
+*** SSTART 012.0 021.0 0 WY 1889 ***
+SEC. 12. All officers elected at such election, except members of the legislature shall, within
+thirty days after they have been declared elected, take the oath required by this constitution, and
+give the same bond required by the law of the Territory to be given in case of like officers of the
+territory or district, and shall thereupon enter upon the duties of their respective offices; but the
+legislature may require by law all such officers to give other or further bonds as a condition of
+their continuance in office.
+*** SEND ***
+*** SSTART 013.0 021.0 0 WY 1889 ***
+SEC. 13. The governor elect of the State, immediately upon his qualifying and entering upon the
+duties of his office, shall issue his proclamation convening the legislature of the State at the seat
+of government, on a day to be named in said proclamation, and which shall not be less than thirty
+nor more than sixty days after the date of said proclamation. Within ten days after the
+organization of the legislature, both houses of the legislature, in joint session, shall then and there
+proceeded to elect, as provided by law, two senators of the United States for the State of
+Wyoming. At said election the two persons who shall receive the majority of all the votes cast by
+said senators and representatives shall be elected as such United States senators, and shall be so
+declared by the presiding officers, of said joint session. The presiding officers of the senate and
+house shall issue a certificate to each of said senators certifying his election, which certificates
+shall also be signed by the governor and attested by the secretary of state.
+*** SEND ***
+*** SSTART 014.0 021.0 0 WY 1889 *** 
+SEC. 14. The legislature shall pass all necessary laws to carry into effect the provisions of this
+constitution.
+*** SEND ***
+*** SSTART 015.0 021.0 0 WY 1889 ***
+SEC. 15. Whenever any two of the judges of the supreme court of the State, elected under the
+provisions of this constitution, shall have qualified in their offices the causes then pending in the
+supreme court of the Territory, and the papers, records and proceedings of said court, and the seal
+and other property pertaining thereto, shall pass into the jurisdiction and possession of the
+supreme, court of the State; and until so superceded the supreme court of the Territory and the
+judges thereof shall continue with like powers and jurisdiction, as if this constitution had not
+been adopted. Whenever the judge of the district court of any district, elected under the
+provisions of this constitution, shall have qualified in office, the several causes then pending in
+the district court of the Territory, within any county in such district, and the records, papers and
+proceedings of said district court and the seal and other property pertaining thereto, shall pass
+into the jurisdiction and possession of the district court of the State for such county; and until the
+district courts of this Territory shall be superceded in the manner aforesaid the said district courts
+and the judges thereof shall continue with the same jurisdiction and power to be exercised in the
+same judicial districts respectively as heretofore constituted under the laws of the Territory.
+*** SEND ***
+*** SSTART 016.0 021.0 0 WY 1889 ***
+SEC. 16. Until otherwise provided by law tile seals, now in use in the supreme and district courts
+of this Territory are hereby declared to be the seals of the supreme and district courts,
+respectively, of the State.
+*** SEND ***
+*** SSTART 017.0 021.0 0 WY 1889 ***
+SEC. 17. Whenever this constitution shall go into effect records and papers and proceedings of
+the probate court in each county, and all causes and matters of administration and other matters
+pending therein, shall pass into the jurisdiction and possession of the district court of the same
+county, and the said district court shall proceed to final decree or judgment order or other
+determination in the said several matters and causes, as the said probate court, might have done if
+this constitution had not been adopted.
+*** SEND ***
+*** SSTART 018.0 021.0 0 WY 1889 ***
+SEC. 18. Senators and members of the house of representatives shall be chosen by the qualified
+electors of the several senatorial and representative districts as established in this constitution,
+until such districts shall be changed by law and thereafter by the qualified electors of the several
+districts as the same shall be established by law.
+*** SEND ***
+*** SSTART 019.0 021.0 0 WY 1889 ***
+SEC. 19. All county and precinct officers who be in office at the time of the adoption of this
+constitution, shall hold their respective offices for the full time for which they may have been
+elected, and until such time as their successors may be elected and qualified, as may be provided
+by law, and the official bonds of all such officers shall continue in full force and effect as though
+this constitution had not been adopted.
+*** SEND ***
+*** SSTART 020.0 021.0 0 WY 1889 ***
+SEC. 20. Members of the legislature and all State officers, district and supreme judges elected at
+the first election held under this constitution shall hold their respective offices for the full term
+next ensuing such election, in addition to the period intervening between the date of their
+qualification and the commencement of such full term.
+*** SEND ***
+*** SSTART 021.0 021.0 0 WY 1889 ***
+SEC. 21. If the first session of the legislature under this constitution shall be concluded within
+twelve months of the time designated for a regular session thereof, then the next regular session
+following said special session shall be omitted.
+*** SEND ***
+*** SSTART 022.0 021.0 0 WY 1889 ***
+SEC. 22. The first regular election that would otherwise occur following the first session of the
+legislature shall be omitted, and all county and precinct officers elected at the first election held
+under this constitution shall hold their office for the full term thereof commencing at the
+expiration of the term of the county and precinct officers then in office, or the date of their
+qualification.
+*** SEND ***
+*** SSTART 023.0 021.0 0 WY 1889 ***
+SEC. 23. This convention does hereby declare on behalf of the people of the Territory of
+Wyoming, that this constitution has been prepared and submitted to the people of the Territory of
+Wyoming for their adoption or rejection, with no purpose of setting up or organizing a state
+government until such time as the congress of the United States shall enact a law for the
+admission of the Territory of Wyoming as a state under its provisions.
+*** SEND ***
+*** AEND ***
+*** ASTART 9023.0 WY 1889 ***
+ORDINANCES
+
+The following article shall be irrevocable without the consent of the United States and the people
+of this State:
+*** SSTART 001.0 9023.0 0 WY 1889 ***
+SECTION 1. The State of Wyoming is an inseparable part of the Federal Union and the
+Constitution of the United States is the supreme law of the land.
+*** SEND ***
+*** SSTART 002.0 9023.0 0 WY 1889 ***
+SEC. 2. Perfect toleration of religious sentiment shall be secured, and no inhabitant of this State
+shall ever be molested in person or property on account of his or her mode of religious worship.
+*** SEND ***
+*** SSTART 003.0 9023.0 0 WY 1889 ***
+SEC. 3. The people inhabiting this State do agree and declare that they forever disclaim all right
+and title to the unappropriated public lands lying within the boundaries thereof, and to all lands
+lying within said limits owned or held by any Indian or Indian tribes, and that until the title
+thereto shall have been extinguished by the United States, the same shall be and remain subject to
+the disposition of the United States and that said Indian lands shall remain tinder the absolute
+jurisdiction and control of the congress of the United States; that the lands belonging to citizens
+of the United States residing without this state shall never be taxed at a higher rate than the lands
+belonging to residents of this state; that no taxes shall be imposed by this state on lands or
+property therein, belonging to, or which may hereafter be purchased by the United States, or
+reserved for its use. But nothing in this article shall preclude this state from taxing as other lands
+are taxed, any lands owned or held by any Indian who has severed his tribal relations, and has
+obtained from the United States or from any person, a title thereto, by patent or other grant, save
+and except such lands as have been or may be granted to any Indian or Indians under any acts of
+Congress containing a provision exempting the lands thus granted from taxation, which last
+mentioned lands shall be exempt from taxation so long, and to such an extent, as is, or may be
+provided in the act of congress granting the same.
+*** SEND ***
+*** SSTART 004.0 9023.0 0 WY 1889 ***
+SEC. 4. All debts and liabilities of the Territory of Wyoming shall be assumed and paid by this
+State.
+*** SEND ***
+*** SSTART 005.0 9023.0 0 WY 1889 ***
+SEC. 5. The legislature shall make laws for the establishment and maintenance of systems of
+public schools which shall be open to all the children of the State and free from sectarian control.
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 9016.0 WY 1889 ***
+
+Done in open convention, at the City of Cheyenne, in the Territory of Wyoming, this 30th day of
+September, in the year of our Lord one thousand eight hundred and eighty-nine.
+MELVILLE C. BROWN, President.
+Attest:
+JOHN K. JEFFREY, Secretary.
+*** AEND ***
+
+*** CEND ***
+

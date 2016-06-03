@@ -1,0 +1,2577 @@
+Jim DeAngelis worked on Michigan
+
+I worked on it 9/29/03
+
+I think this is ready to go.
+
+
+
+
+*** CSTART MI 01/01/1964 01/01/2003 ***
+
+                    
+CONSTITUTION OF THE STATE OF MICHIGAN
+
+*** ASTART 9001.0 MI 1963 ***
+
+PREAMBLE
+We, the people of the State of Michigan, grateful to Almighty God for the blessings of freedom,
+and earnestly desiring to secure these blessings undiminished to ourselves and our posterity, do
+ordain and establish this constitution.
+*** AEND ***
+*** ASTART 001.0 MI 1963 ***
+
+ARTICLE I
+Declaration of Rights
+
+*** SSTART 001.0 001.0 0 MI 1963 ***
+
+Sec. 1. All political power is inherent in the people.  Government is instituted for their equal
+benefit, security and protection.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 MI 1963 ***
+
+Sec. 2. No person shall be denied the equal protection of the laws; nor shall any person be denied
+the enjoyment of his civil or political rights or be discriminated against in the exercise thereof
+because of religion, race, color or national origin.  The legislature shall implement this section by
+appropriate legislation.
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 MI 1963 ***
+Sec. 3. The people have the right peaceably to assemble, to consult for the common good, to
+instruct their representatives and to petition the government for redress of grievances.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 MI 1963 ***
+Sec. 4. Every person shall be at liberty to worship God according to the dictates of his own
+conscience.  No person shall be compelled to attend, or, against his consent, to contribute to the
+erection or support of any place of religious worship, or to pay tithes, taxes or other rates for the
+support of any minister of the gospel or teacher of religion.  No money shall be appropriated or
+drawn from the treasury for the benefit of any religious sect or society, theological or religious
+seminary; nor shall property belonging to the state be appropriated for any such purpose.  The
+civil and political rights, privileges and capacities of no person shall be diminished or enlarged
+on account of his religious belief.
+*** SEND ***
+*** SSTART 005.0 001.0 0 MI 1963 ***
+
+Sec. 5. Every person may freely speak, write, express and publish his views on all subjects, being
+responsible for the abuse of such right; and no law shall be enacted to restrain or abridge the
+liberty of speech or of the press.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 MI 1963 ***
+ 
+Sec. 6. Every person has a right to keep and bear arms for the defense of himself and the state.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 MI 1963 ***
+
+Sec. 7. The military shall in all cases and at all times be in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 MI 1963 ***
+
+Sec. 8. No soldier shall, in time of peace, be quartered in any house without the consent of the
+owner or occupant, nor in time of war, except in a manner prescribed by law.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 MI 1963 ***
+
+Sec. 9. Neither slavery, nor involuntary servitude unless for the punishment of crime, shall ever
+be tolerated in this state.
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 MI 1963 ***
+
+Sec. 10. No bill of attainder, ex post facto law or law impairing the obligation of contract shall be
+enacted.
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 MI 1963 ***
+
+Sec. 11. The person, houses, papers and possessions of every person shall be secure from
+unreasonable searches and seizures.  No warrant to search any place or to seize any person or
+things shall issue without describing them, nor without probable cause, supported by oath or
+affirmation.  The provisions of this section shall not be construed to bar from evidence in any
+criminal proceeding any narcotic drug, firearm, bomb, explosive or any other dangerous weapon,
+seized by a peace officer outside the curtilage of any dwelling house in this state.
+*** SEND ***
+*** SSTART 012.0 001.0 0 MI 1963 ***
+
+Sec. 12. The privilege of the writ of habeas corpus shall not be suspended unless in case of
+rebellion or invasion the public safety may require it.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 MI 1963 ***
+
+Sec. 13. A suitor in any court of this state has the right to prosecute or defend his suit, either in
+his own proper person or by an attorney.
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 MI 1963 ***
+
+Sec. 14. The right of trial by jury shall remain, but shall be waived in all civil cases unless
+demanded by one of the parties in the manner prescribed by law.  In all civil cases tried by 12
+jurors a verdict shall be received when 10 jurors agree.
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 MI 1963 ***
+
+Sec. 15. No person shall be subject for the same offense to be twice put in jeopardy.  All persons
+shall, before conviction, be bailable by sufficient sureties, except for murder and treason when
+the proof is evident or the presumption great.
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 MI 1963 ***
+
+Sec. 16. Excessive bail shall not be required; excessive fines shall not be imposed; cruel or
+unusual punishment shall not be inflicted; nor shall witnesses be unreasonably detained.
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 MI 1963 ***
+
+Sec. 17. No person shall be compelled in any criminal case to be a witness against himself, nor
+be deprived of life, liberty or property, without due process of law.  The right of all individuals,
+firms, corporations and voluntary associations to fair and just treatment in the course of
+legislative and executive investigations and hearings shall not be infringed.
+
+*** SEND ***
+*** SSTART 018.0 001.0 0 MI 1963 ***
+
+Sec. 18. No person shall be rendered incompetent to be a witness on account of his opinions on
+matters of religious belief.
+*** SEND ***
+*** SSTART 019.0 001.0 0 MI 1963 ***
+
+Sec. 19. In all prosecutions for libels the truth may be given in evidence to the jury; and, if it
+appears to the jury that the matter charged as libelous is true and was published with good
+motives and for justifiable ends, the accused shall be acquitted.
+
+*** SEND ***
+*** SSTART 020.0 001.0 0 MI 1963 ***
+
+Sec. 20. In every criminal prosecution, the accused shall have the right to a speedy and public
+trial by an impartial jury, which may consist of less than 12 jurors in all courts not of record; to
+be informed of the nature of the accusation; to be confronted with the witnesses against him; to
+have compulsory process for obtaining witnesses in his favor; to have the assistance of counsel
+for his defense; to have an appeal as a matter of right; and in courts of record, when the trial court
+so orders, to have such reasonable assistance as may be necessary to perfect and prosecute an
+appeal.
+
+*** SEND ***
+*** SSTART 021.0 001.0 0 MI 1963 ***
+
+Sec. 21. No person shall be imprisoned for debt arising out of or founded on contract, express or
+implied, except in cases of fraud or breach of trust.
+
+*** SEND ***
+*** SSTART 022.0 001.0 0 MI 1963 ***
+
+Sec. 22. Treason against the state shall consist only in levying war against it or in adhering to its
+enemies, giving them aid and comfort.  No person shall be convicted of treason unless upon the
+testimony of two witnesses to the same overt act or on confession in open court.
+
+*** SEND ***
+*** SSTART 023.0 001.0 0 MI 1963 ***
+
+Sec. 23. The enumeration in this constitution of certain rights shall not be construed to deny or
+disparage others retained by the people.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 MI 1963 ***
+ARTICLE II
+Elections
+
+*** SSTART 001.0 002.0 0 MI 1963 ***
+
+Sec. 1. Every citizen of the United States who has attained the age of 21 years, who has resided
+in this state six months, and who meets the requirements of local residence provided by law, shall
+be an elector and qualified to vote in any election except as otherwise provided in this
+constitution.  The legislature shall define residence for voting purposes.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 MI 1963 ***
+
+Sec. 2. The legislature may by law exclude persons from voting because of mental incompetence
+or commitment to a jail or penal institution.
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 MI 1963 ***
+
+Sec. 3. For purposes of voting in the election for president and vice-president of the United States
+only, the legislature may be law establish lesser residence requirements for citizens who have
+resided in this state for less than six months and may waive residence requirements for former
+citizens of this state who have removed herefrom.  The legislature shall not permit voting by any
+person who meets the voting residence requirements of the state to which he has removed.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 MI 1963 ***
+
+Sec. 4. The legislature shall enact laws to regulate the time, place and manner of all nominations
+and elections, except as otherwise provided in this constitution or in the constitution and laws of
+the United States.  The legislature shall enact laws to preserve the purity of elections, to preserve
+the secrecy of the ballot, to guard against abuses of the elective franchise, and to provide for a
+system of voter registration and absentee voting.  No law shall be enacted which permits a
+candidate in any partisan primary or partisan election to have a ballot designation except when
+required for identification of candidates for the same office who have the same or similar
+surnames.
+
+*** SEND ***
+*** SSTART 005.0 002.0 0 MI 1963 ***
+
+Sec. 5. Except for special elections to fill vacancies, or as otherwise provided in this constitution,
+all elections for national, state, county and township offices shall be held on the first Tuesday
+after the first Monday in November in each even-numbered year or on such other date as
+members of the congress of the United States are regularly elected.
+
+*** SEND ***
+*** SSTART 006.0 002.0 0 MI 1963 ***
+
+Sec. 6. Whenever any question is required to be submitted by a political subdivision to the
+electors for the increase of the ad valorem tax rate limitation imposed by Section 6 of Article IX
+for a period of more than five years, or for the issue of bonds, only electors in, and who have
+property assessed for any ad valorem taxes, in, any part of the district or territory to be affected
+by the result of such election or electors who are the lawful husbands or wives of such persons
+shall be entitled to vote thereon.  All electors in the district or territory affected may vote on all
+other questions.
+
+*** SEND ***
+*** SSTART 007.0 002.0 0 MI 1963 ***
+
+Sec. 7. A board of state canvassers of four members shall be established by law.  No candidate
+for an office to be canvassed nor any inspector of elections shall be eligible to serve as a member
+of a board of canvassers.  A majority of any board of canvassers shall not be composed of
+members of the same political party.
+
+*** SEND ***
+*** SSTART 008.0 002.0 0 MI 1963 ***
+
+Sec. 8. Laws shall be enacted to provide for the recall of all elective officers except judges of
+courts of record upon petition of electors equal in number to 25 percent of the number of persons
+voting in the last preceding election for the office of governor in the electoral district of the
+officer sought to be recalled.  The sufficiency of any statement or reasons or grounds
+procedurally required shall be a political rather than a judicial question.
+
+*** SEND ***
+*** SSTART 009.0 002.0 0 MI 1963 ***
+
+Sec. 9. The people reserve to themselves the power to propose laws and to enact and reject laws,
+called the initiative, and the power to approve or reject laws enacted by the legislature, called the
+referendum.  The power of initiative extends only to laws which the legislature may enact under
+this constitution.  The power of referendum does not extend to acts making appropriations for
+state institutions or to meet deficiencies in state funds and must be invoked in the manner
+prescribed by law within 90 days following the final adjournment of the legislative session at
+which the law was enacted.  To invoke the initiative or referendum, petitions signed by a number
+of registered electors, not less than eight percent for initiative and five percent for referendum of
+the total vote cast for all candidates for governor at the last preceding general election at which a
+governor was elected shall be required.
+
+No law as to which the power of referendum properly has been invoked shall be effective
+thereafter unless approved by a majority of the electors voting thereon at the next general
+election.  
+
+Any law proposed by initiative petition shall be either enacted or rejected by the legislature
+without change or amendment within 40 session days from the time such petition is received by
+the legislature.  If any law proposed by such petition shall be enacted by the legislature it shall be
+subject to referendum, as hereinafter provided.
+
+If the law so proposed is not enacted by the legislature within the 40 days, the state officer
+authorized by law shall submit such proposed law to the people for approval or rejection at the
+next general election.  The legislature may reject any measure so proposed by initiative petition
+and propose a different measure upon the same subject by a yea and nay vote upon separate roll
+calls, and in such event both measures shall be submitted by such state officer to the electors for
+approval or rejection at the next general election.
+
+Any law submitted to the people by either initiative or referendum petition and approved by a
+majority of the votes cast thereon at any election shall take effect 10 days after the date of the
+official declaration of the vote.  No law initiated or adopted by the people shall be subject to the
+veto power of the governor, and no law adopted by the people at the polls under the initiative
+provisions of this section shall be amended or repealed, except by a vote of the electors unless
+otherwise provided in the initiative measure or by three-fourths of the members elected to and
+serving in each house of the legislature.  Laws approved by the people under the referendum
+provision of this section may be amended by the legislature at any subsequent session thereof.  If
+two or more measures approved by the electors at the same election conflict, that receiving the
+highest affirmative vote shall prevail.
+
+The legislature shall implement the provisions of this section.
+
+*** SEND ***
+*** AEND ***  
+*** ASTART 003.0 MI 1963 ***
+                           ARTICLE III
+
+General Government
+
+*** SSTART 001.0 003.0 0 MI 1963 ***
+Sec. 1. The seat of government shall be at Lansing.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 MI 1963 ***
+
+Sec. 2. The powers of government are divided into three branches: legislative, executive and
+judicial. No person exercising powers of one branch shall exercise powers properly belonging to
+another branch except as expressly provided in this constitution.
+
+*** SEND ***
+*** SSTART 003.0 003.0 0 MI 1963 ***
+
+Sec. 3. There shall be a great seal of the State of Michigan and its use shall be provided by law.
+
+*** SEND ***
+*** SSTART 004.0 003.0 0 MI 1963 ***
+
+Sec. 4. The militia shall be organized, equipped and disciplined as provided by law.
+
+*** SEND ***
+*** SSTART 005.0 003.0 0 MI 1963 ***
+
+Sec. 5. Subject to provisions of general law, this state or any political subdivision thereof, any
+governmental authority or any combination thereof may enter into agreements for the
+performance, financing or execution of their respective functions, with anyone or more of the
+other states, the United States, the Dominion of Canada, or any political subdivision thereof
+unless otherwise provided in this constitution. Any other provision of this constitution
+notwithstanding, an officer or employee of the state or of any such unit of government or
+subdivision or agency thereof may serve on or with any governmental body established for the
+purposes set forth in this section and shall not be required to relinquish his office or employment
+by reason of such service. The legislature may impose such restrictions, limitations or conditions
+on such service as it may deem appropriate.
+
+*** SEND ***
+*** SSTART 006.0 003.0 0 MI 1963 ***
+
+Sec. 6. The state shall not be a party to, nor be financially interested in, any work of internal
+improvement, nor engage in carrying on any such work, except for public internal improvements
+provided by law.
+ 
+*** SEND ***
+*** SSTART 007.0 003.0 0 MI 1963 ***
+
+Sec. 7. The common law and the statute laws now in force, not repugnant to this constitution,
+shall remain in force until they expire by their own limitations, or are changed, amended or
+repealed.
+
+*** SEND ***
+*** SSTART 008.0 003.0 0 MI 1963 ***
+
+Sec. 8. Either house of the legislature or the governor may request the opinion of the supreme
+court on important questions of law upon solemn occasions as to the constitutionality of
+legislation after it has been enacted into law but before its effective date.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 MI 1963 ***
+
+ARTICLE IV
+Legislative Branch
+
+*** SSTART 001.0 004.0 0 MI 1963 ***
+
+Sec. 1. The legislative power of the State of Michigan is vested in a senate and a house of
+representatives.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 MI 1963 ***
+
+Sec. 2. The senate shall consist of 38 members to be elected from single member districts at the
+same election as the governor for four year terms concurrent with the term of office of the
+governor.
+
+In districting the state for the purpose of electing senators after the official publication of the total
+population count of each federal decennial census, each county shall be assigned apportionment
+factors equal to the sum of its percentage of the state's population as shown by the last regular
+federal decennial census computed to the nearest one-one hundredth of one percent multiplied by
+four and its percentage of the state's land area computed to the nearest one-one hundredth of one
+percent.
+
+In arranging the state into senatorial districts, the apportionment commission shall be governed
+by the following rules:
+
+(1) Counties with 13 or more apportionment factors shall be entitled as a class to senators in the
+proportion that the total apportionment factors of such counties bear to the total apportionment
+factors of the state computed to the nearest whole number. After each such county has been
+allocated one senator, the remaining senators to which this class of counties is entitled shall be
+distributed among such counties by the method of equal proportions applied to the apportionment
+factors.
+
+(2) Counties having less than 13 apportionment factors shall be entitled as a class to senators in
+the proportion that the total apportionment factors of such counties bear to the total
+apportionment factors of the state computed to the nearest whole number. Such counties shall
+thereafter be arranged into senatorial districts that are compact, convenient, and contiguous by
+land, as rectangular in shape as possible, and having as nearly as possible 13 apportionment
+factors, but in no event less than 10 or more than 16. Insofar as possible, existing senatorial
+districts at the time of reapportionment shall not be altered unless there is a failure to comply
+with the above standards.
+
+(3) Counties entitled to two or more senators shall be divided into single member districts. The
+population of such districts shall be as nearly equal as possible but shall not be less than 75
+percent nor more than 125 percent of a number determined by dividing the population of the
+county by the number of senators to which it is entitled. Each such district shall follow
+incorporated city or township boundary lines to the extent possible and shall be compact,
+contiguous, and as nearly uniform in shape as possible.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 MI 1963 ***
+
+Sec. 3. The house of representatives shall consist of 110 members elected for two-year terms
+from single member districts apportioned on a basis of population as provided in this article. The
+districts shall consist of compact and convenient territory contiguous by land.
+
+Each county which has a population of not less than seven-tenths of one percent of the-
+population of the state shall constitute a separate representative area. Each county having less
+than seven-tenths of one percent of the population of the state shall be combined with another
+county or counties to form a representative area of not less than seven-tenths of one percent of
+the population of the state. Any county which is isolated under the initial allocation as provided
+in this section shall be joined with that contiguous representative area having the smallest
+percentage of the state's population. Each such representative area shall be entitled initially to one
+representative.
+
+After the assignment of one representative to each of the representative areas, the remaining
+house seats shall be apportioned among the representative areas on the basis of population by the
+method of equal proportions.
+
+Any county comprising a representative area entitled to two or more representatives shall be
+divided into single member representative districts as follows:
+
+(1) The population of such districts shall be as nearly equal as possible but shall not be less than
+75 percent nor more than 125 percent of a number determined by dividing the population of the
+representative area by the number of representatives to which it is entitled.
+
+(2) Such single member districts shall follow city and township boundaries where applicable and
+shall be composed of compact and contiguous territory as nearly square in shape as possible.
+
+Any representative area consisting of more than one county, entitled to more than one
+representative, shall be divided into single member districts as equal as possible in population,
+adhering to county lines
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 MI 1963 ***
+
+Sec. 4. In counties having more than one representative or senatorial district, the territory in the
+same county annexed to or merged with a city between apportionments shall become a part of a
+contiguous representative or senatorial district in the city with which it is combined, if provided
+by ordinance of the city. The district or districts with which the territory shall be combined shall
+be determined by such ordinance certified to the secretary of state. No such change in the
+boundaries of a representative or senatorial district shall have the effect of removing a legislator
+from office during his term.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 MI 1963 ***
+
+Sec. 5. Island areas are considered to be contiguous by land to the county of which they are a
+part.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 MI 1963 ***
+
+Sec. 6. A commission on legislative apportionment is hereby established consisting of eight
+electors, four of whom shall be selected by the state organizations of each of the two political
+parties whose candidates for governor received the highest vote at the last general election at
+which a governor was elected preceding each apportionment. If a candidate for governor of a
+third political party has received at such election more than 25 percent of such gubernatorial vote,
+the commission shall consist of 12 members, four of whom shall be selected by the state
+organization of the third political party. One resident of each of the following four regions shall
+be selected by each political party organization: (1) the upper peninsula; (2) the northern part of
+the lower peninsula, north of a line drawn along the northern boundaries of the counties of Bay,
+Midland, Isabella, Mecosta, Newaygo and Oceana; (3) southwestern Michigan, those counties
+south of region (2) and west of a line drawn along the western boundaries of the counties of Bay,
+Saginaw, Shiawassee, Ingham, Jackson and Hillsdale; (4) southeastern Michigan, the remaining
+counties of the state.
+
+No officers or employees of the federal, state or local governments, excepting notaries public and
+members of the armed forces reserve, shall be eligible for membership on the commission.
+Members of the commission shall not be eligible for election to the legislature until two years
+after the apportionment in which they participated becomes effective.
+
+The commission shall be appointed immediately after the adoption of this constitution and
+whenever apportionment or districting of the legislature is required by the provisions of this
+constitution. Members of the commission shall hold office until each apportionment or districting
+plan becomes effective. Vacancies shall be filled in the same manner as for original appointment.
+
+The secretary of state shall be secretary of the commission without vote, and in that capacity shall
+furnish, under the direction of the commission, all necessary technical services. The commission
+shall elect its own chairman, shall make its own rules of procedure, and shall receive
+compensation provided by law. The legislature shall appropriate funds to enable the commission
+to carry out its activities.
+
+Within 30 days after the adoption of this constitution, and after the official total population count
+of each federal decennial census of the state and its political subdivisions is available, the
+secretary of state shall issue a call convening the commission not less than 30 nor more than 45
+days thereafter. The commission shall complete its work within 180 days after all necessary
+census information is available. The commission shall proceed to district and apportion the
+senate and house of representatives according to the provisions of this constitution. All final
+decisions shall require the concurrence of a majority of the members of the commission. The
+commission shall hold public hearings as may be provided by law. 
+
+Each final apportionment and districting plan shall be published as provided by law within 30
+days from the date of its adoption and shall become law 60 days after publication. The secretary
+of state shall keep a public record of all the proceedings of the commission and shall be
+responsible for the publication and distribution of each plan.
+
+If a majority of the commission cannot agree on a plan, each member of the commission,
+individually or jointly with other members, may submit a proposed plan to the supreme court.
+The supreme court shall determine which plan complies most accurately with the constitutional
+requirements and shall direct that it be adopted by the commission and published as provided in
+this section.
+
+Upon the application of any elector filed not later than 60 days after final publication of the plan,
+the supreme court, in the exercise of original jurisdiction, shall direct the secretary of state or the
+commission to perform their duties, may review any final plan adopted by the commission, and
+shall remand such plan to the commission for further action if it fails to comply with the
+requirements of this constitution.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 MI 1963 ***
+
+Sec. 7. Each senator and representative must be a citizen of the United States, at least 21 years of
+age, and an elector of the district he represents. The removal of his domicile from the district
+shall be deemed a vacation of the office. No person who has been convicted of subversion or
+who has within the preceding 20 years been convicted of a felony involving a breach of public
+trust shall be eligible for either house of the legislature.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 MI 1963 ***
+
+
+Sec. 8. No person holding any office, employment or position under the United States or this
+state or a political subdivision thereof, except notaries public and members of the armed forces
+reserve, may be a member of either house of the legislature.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 MI 1963 ***
+
+Sec. 9. No person elected to the legislature shall receive any civil appointment within this state
+from the governor, except notaries public, from the legislature, or from any other state authority,
+during the term for which he is elected.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 MI 1963 ***
+
+
+Sec. 10. No member of the legislature nor any state officer shall be interested directly or
+indirectly in any contract with the state or any political subdivision thereof which shall cause a
+substantial conflict of interest. The legislature shall further implement this provision by
+appropriate legislation.
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 MI 1963 ***
+
+Sec. 11. Senators and representatives shall be privileged from civil arrest and civil process during
+sessions of the legislature and for five days next before the commencement and after the
+termination thereof. They shall not be questioned in any other place for any speech in either
+house.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 MI 1963 ***
+
+Sec. 12. The compensation and expense allowances of the members of the legislature shall be
+determined by law. Changes in compensation or expense allowances shall become effective only
+when legislators commence their terms of office after a general election.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 MI 1963 ***
+
+Sec. 13. The legislature shall meet at the seat of government on the second Wednesday in
+January of each year at twelve o'clock noon. Each regular session shall adjourn without day, on a
+day determined by concurrent resolution, at twelve o'clock noon. Any business, bill or joint
+resolution pending at the final adjournment of a regular session held in an odd numbered year
+shall carry over with the same status to the next regular session.
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 MI 1963 ***
+
+Sec. 14. A majority of the members elected to and serving in each house shall constitute a
+quorum to do business. A smaller number in each house may adjourn from day to day, and may
+compel the attendance of absent members in the manner and with penalties as each house may
+prescribe.
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 MI 1963 ***
+
+Sec. 15. There shall be a bi-partisan legislative council consisting of legislators appointed in the
+manner prescribed by law. The legislature shall appropriate funds for the council's operations and
+provide for its staff which shall maintain bill drafting, research and other services for the
+members of the legislature. The council shall periodically examine and recommend to the
+legislature revision of the various laws of the state.
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 MI 1963 ***
+
+Sec. 16. Each house, except as otherwise provided in this constitution, shall choose its own
+officers and determine the rules of its proceedings, but shall not adopt any rule that will prevent a
+majority of the members elected thereto and serving therein from discharging a committee from
+the further consideration of any measure. Each house shall be the sole judge of the qualifications,
+elections and returns of its members, and may, with the concurrence of two thirds of all the
+members elected thereto and serving therein, expel a member. The reasons for such expulsion
+shall be entered in the journal, with the votes and names of the members voting upon the
+question. No member shall be expelled a second time for the same cause.
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 MI 1963 ***
+
+Sec. 17. Each house of the legislature may establish the committees necessary for the efficient
+conduct of its business and the legislature may create joint committees. On all actions on bills
+and resolutions in each committee, names and votes of members shall be recorded. Such vote
+shall be available for public inspection. Notice of all committee hearings and a clear statement of
+all subjects to be considered at each hearing shall be published in the journal in advance of the
+hearing.
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 MI 1963 ***
+
+Sec. 18. Each house shall keep a journal of its proceedings, and publish the same unless the
+public security otherwise requires. The record of the vote and name of the members of either
+house voting on any question shall be entered in the journal at the request of one-fifth of the
+members present. Any member of either house may dissent from and protest against any act,
+proceeding or resolution which he deems injurious to any person or the public, and have the
+reason for his dissent entered in the journal.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 MI 1963 ***
+
+Sec. 19. All elections in either house or in joint convention and all votes on appointments
+submitted to the senate for advice and consent shall be published by vote and name in the
+journal.
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 MI 1963 ***
+
+Sec. 20. The doors of each house shall be open unless the public security otherwise requires.
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 MI 1963 ***
+
+Sec. 21. Neither house shall, without the consent of the other, adjourn for more than two
+intervening calendar days, nor to any place other than where the legislature may then be in
+session.
+
+*** SEND ***
+*** SSTART 022.0 004.0 0 MI 1963 ***
+
+Sec. 22. All legislation shall be by bill and may originate in either house.
+
+*** SEND ***
+*** SSTART 023.0 004.0 0 MI 1963 ***
+
+Sec. 23. The style of the laws shall be: The People of the State of Michigan enact.
+
+*** SEND ***
+*** SSTART 024.0 004.0 0 MI 1963 ***
+
+Sec. 24. No law shall embrace more than one object, which shall be expressed in its title. No bill
+shall be altered or amended on its passage through either house so as to change its original
+purpose as determined by its total content and not alone by its title.
+
+*** SEND ***
+*** SSTART 025.0 004.0 0 MI 1963 ***
+
+Sec. 25. No law shall be revised, altered or amended by reference to its title only. The section or
+sections of the act altered or amended shall be re-enacted and published at length.
+
+*** SEND ***
+*** SSTART 026.0 004.0 0 MI 1963 ***
+
+
+Sec. 26. No bill shall be passed or become a law at any regular session of the legislature until it
+has been printed or reproduced and in the possession of each house for at least five days. Every
+bill shall be read three times in each house before the final passage thereof. No bill shall become
+a law without the concurrence of a majority of the members elected to and serving in each house.
+On the final passage of bills, the votes and names of the members voting thereon shall be entered
+in the journal.
+
+*** SEND ***
+*** SSTART 027.0 004.0 0 MI 1963 ***
+
+Sec. 27. No act shall take effect until the expiration of 90 days from the end of the session at
+which it was passed, but the legislature may give immediate effect to acts by a two-thirds vote of
+the members elected to and serving in each house.
+
+*** SEND ***
+*** SSTART 028.0 004.0 0 MI 1963 ***
+
+
+Sec. 28. When the legislature is convened on extraordinary occasions in special session no bill
+shall be passed on any subjects other than those expressly stated in the governor's proclamation
+or submitted by special message.
+
+*** SEND ***
+*** SSTART 029.0 004.0 0 MI 1963 ***
+
+Sec. 29. The legislature shall pass no local or special act in any case where a general act can be
+made applicable, and whether a general act can be made applicable shall be a judicial question.
+No local or special act shall take effect until approved by two thirds of the members elected to
+and serving in each house and by a majority of the electors voting thereon in the district affected.
+Any act repealing local or special acts shall require only a majority of the members elected to and
+serving in each house and shall not require submission to the electors of such district.
+
+*** SEND ***
+*** SSTART 030.0 004.0 0 MI 1963 ***
+
+Sec. 30. The assent of two-thirds of the members elected to and serving in each house of the
+legislature shall be required for the appropriation of public money or property for local or private
+purposes.
+
+*** SEND ***
+*** SSTART 031.0 004.0 0 MI 1963 ***
+
+Sec. 31. The general appropriation bills for the succeeding fiscal period covering items set forth
+in the budget shall be passed or rejected in either house of the legislature before that house passes
+any appropriation bill for items not in the budget except bills supplementing appropriations for
+the current fiscal year's operation. Any bill requiring an appropriation to carry out its purpose
+shall be considered an appropriation bill. One of the general appropriation bills as passed by the
+legislature shall contain an itemized statement of estimated revenue by major source in each
+operating fund for the ensuing fiscal period, the total of which shall not be less than the total of
+all appropriations made from each fund in the general appropriation bills as passed.
+
+*** SEND ***
+*** SSTART 032.0 004.0 0 MI 1963 ***
+
+Sec. 32. Every law which imposes, continues or revives a tax shall distinctly state the tax.
+
+*** SEND ***
+*** SSTART 033.0 004.0 0 MI 1963 ***
+
+Sec. 33. Every bill passed by the legislature shall be presented to the governor before it becomes
+law, and the governor shall have 14 days measured in hours and minutes from the time of
+presentation in which to consider it. If he approves, he shall within that time sign and file it with
+the secretary of state and it shall become law. If he does not approve, and the legislature has
+within that time finally adjourned the session at which the bill was passed, it shall not become
+law. If he disapproves, and the legislature continues the session at which the bill was passed, he
+shall return it within such 14-day period with his objections, to the house in which it originated.
+That house shall enter such objections in full in its journal and reconsider the bill. If two-thirds of
+the members elected to and serving in that house pass the bill notwithstanding the objections of
+the governor, it shall be sent with the objections to the other house for reconsideration. The bill
+shall become law if passed by two-thirds of the members elected to and serving in that house.
+The vote of each house shall be entered in the journal with the votes and names of the members
+voting thereon. If any bill is not returned by the governor within such 14-day period, the
+legislature continuing in session, it shall become law as if he had signed it.
+
+*** SEND ***
+*** SSTART 034.0 004.0 0 MI 1963 ***
+
+Sec. 34. Any bill passed by the legislature and approved by the governor, except a bill
+appropriating money, may provide that it will not become law unless approved by a majority of
+the electors voting thereon.
+
+*** SEND ***
+*** SSTART 035.0 004.0 0 MI 1963 ***
+
+Sec. 35. All laws enacted at any session of the legislature shall be published in book form within
+60 days after final adjournment of the session, and shall be distributed in the manner provided by
+law. The prompt publication of judicial decisions shall be provided by law. All laws and judicial
+decisions shall be free for publication by any person.
+
+*** SEND ***
+*** SSTART 036.0 004.0 0 MI 1963 ***
+
+Sec. 36. No general revision of the laws shall be made. The legislature may provide for a
+compilation of the laws in force, arranged without alteration, under appropriate heads and titles.
+
+*** SEND ***
+*** SSTART 037.0 004.0 0 MI 1963 ***
+
+Sec. 37. The legislature may by concurrent resolution empower a joint committee of the
+legislature, acting between sessions, to suspend any rule or regulation promulgated by an
+administrative agency subsequent to the adjournment of the last preceding regular legislative
+session. Such suspension shall continue no longer than the end of the next regular legislative
+session.
+
+*** SEND ***
+*** SSTART 038.0 004.0 0 MI 1963 ***
+
+Sec. 38. The legislature may provide by law the cases in which any office shall be vacant and the
+manner of filling vacancies where no provision is made in this constitution.
+
+*** SEND ***
+*** SSTART 039.0 004.0 0 MI 1963 ***
+
+Sec. 39. In order to insure continuity of state and local governmental operations in periods of
+emergency only, resulting from disasters occurring in this state caused by enemy attack on the
+United States, the legislature may provide by law for prompt and temporary succession to the
+powers and duties of public offices, of whatever nature and whether filled by election or
+appointment, the incumbents of which may become unavailable for carrying on the powers and
+duties of such offices; and enact other laws necessary and proper for insuring the continuity of
+governmental operations. Notwithstanding the power conferred by this section, elections shall
+always be called as soon as possible to fill any vacancies in elective offices temporarily occupied
+by operation of any legislation enacted pursuant to the provisions of this section.
+
+*** SEND ***
+*** SSTART 040.0 004.0 0 MI 1963 ***
+
+Sec. 40. The legislature may by law establish a liquor control commission which, subject to
+statutory limitations, shall exercise complete control of the alcoholic beverage traffic within this
+state, including the retail sales thereof. The legislature may provide for an excise tax on such
+sales. Neither the legislature nor the commission may authorize the manufacture or sale of
+alcoholic beverages in any county in which a majority of the electors voting thereon shall
+prohibit the same.
+
+*** SEND ***
+*** SSTART 041.0 004.0 0 MI 1963 ***
+
+Sec. 41. The legislature shall not authorize any lottery nor permit the sale of lottery tickets.
+
+*** SEND ***
+*** SSTART 042.0 004.0 0 MI 1963 ***
+
+Sec. 42. The legislature may provide for the incorporation of ports and port districts, and confer
+power and authority upon them to engage in work of internal improvements in connection
+therewith.
+
+*** SEND ***
+*** SSTART 043.0 004.0 0 MI 1963 ***
+
+
+Sec. 43. No general law providing for the incorporation of trust companies or corporations for
+banking purposes, or regulating the business thereof, shall be enacted, amended or repealed
+except by a vote of two-thirds of the members elected to and serving in each house.
+
+*** SEND ***
+*** SSTART 044.0 004.0 0 MI 1963 ***
+
+Sec. 44. The legislature may authorize a trial by a jury of less than 12 jurors in civil cases.
+
+*** SEND ***
+*** SSTART 045.0 004.0 0 MI 1963 ***
+
+Sec. 45. The legislature may provide for indeterminate sentences as punishment for crime and for
+the detention and release of persons imprisoned or detained under such sentences.
+
+*** SEND ***
+*** SSTART 046.0 004.0 0 MI 1963 ***
+
+Sec. 46. No law shall be enacted providing for the penalty of death.
+
+*** SEND ***
+*** SSTART 047.0 004.0 0 MI 1963 ***
+
+Sec. 47. The legislature may authorize the employment of chaplains in state institutions of
+detention or confinement.
+
+*** SEND ***
+*** SSTART 048.0 004.0 0 MI 1963 ***
+
+Sec. 48. The legislature may enact laws providing for the resolution of disputes concerning
+public employees, except those in the state classified civil service.
+
+*** SEND ***
+*** SSTART 049.0 004.0 0 MI 1963 ***
+
+Sec. 49. The legislature may enact laws relative to the hours and conditions of employment.
+
+*** SEND ***
+*** SSTART 050.0 004.0 0 MI 1963 ***
+
+Sec. 50. The legislature may provide safety measures and regulate the use of atomic energy and
+forms of energy developed in the future, having in view the general welfare of the people of this
+state.
+
+*** SEND ***
+*** SSTART 051.0 004.0 0 MI 1963 ***
+
+Sec. 51. The public health and general welfare of the people of the state are hereby declared to be
+matters of primary public concern. The legislature shall pass suitable laws for the protection and
+promotion of the public health.
+
+*** SEND ***
+*** SSTART 052.0 004.0 0 MI 1963 ***
+
+Sec. 52. The conservation and development of the natural resources of the state are hereby
+declared to be of paramount public concern in the interest of the health, safety and general
+welfare of the people. The legislature shall provide for the protection of the air, water and other
+natural resources of the state from pollution, impairment and destruction.
+
+*** SEND ***
+*** SSTART 053.0 004.0 0 MI 1963 ***
+
+Sec. 53. The legislature by a majority vote of the members elected to and serving in each house,
+shall appoint an auditor general, who shall be a certified public accountant licensed to practice in
+this state, to serve for a term of eight years. He shall be ineligible for appointment or election to
+any other public office in this state from which compensation is derived while serving as auditor
+general and for two years following the termination of his service. He may be removed for cause
+at any time by a two-thirds vote of the members elected to and serving in each house. The auditor
+general shall conduct post audits of financial transactions and accounts of the state and of all
+branches, departments, offices, boards, commissions, agencies, authorities and institutions of the
+state established by this constitution or by law, and performance post audits thereof.
+
+The auditor general upon direction by the legislature may employ independent accounting firms
+or legal counsel and may make investigations pertinent to the conduct of audits. He shall report
+annually to the legislature and to the governor and at such other times as he deems necessary or
+as required by the legislature. He shall be assigned no duties other than those specified in this
+section.
+
+Nothing in this section shall be construed in any way to infringe the responsibility and
+constitutional authority of the governing boards of the institutions of higher education to be
+solely responsible for the control and direction of all expenditures  from the institutions' funds.
+
+The auditor general, his deputy and one other member of his staff shall be exempt from classified
+civil service. All other members of his staff shall have classified civil service status.
+
+*** SEND *** 
+*** AEND ***
+*** ASTART 005.0 MI 1963 ***
+ARTICLE V
+Executive Branch
+
+*** SSTART 001.0 005.0 0 MI 1963 ***
+
+Sec. 1. The executive power is vested in the governor.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 MI 1963 ***
+
+Sec. 2. All executive and administrative offices, agencies and instrumentalities of the executive
+branch of state government and their respective functions, powers and duties, except for the
+office of governor and lieutenant governor and the governing bodies of institutions of higher
+education provided for in this constitution, shall be allocated by law among and within not more
+than 20 principal departments. They shall be grouped as far as practicable according to major
+purposes.
+
+Subsequent to the initial allocation, the governor may make changes in the organization of the
+executive branch or in the assignment of functions among its units which he considers necessary
+for efficient administration. Where these changes require the force of law, they shall be set forth
+in executive orders and submitted to the legislature. Thereafter the legislature shall have 60
+calendar days of a regular session, or a full regular session if of shorter duration, to disapprove
+each executive order. Unless disapproved in both houses by a resolution concurred in by a
+majority of the members elected to and serving in each house, each order shall become effective
+at a date thereafter to be designated by the governor.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 MI 1963 ***
+
+Sec. 3. The head of each principal department shall be a single executive unless otherwise
+provided in this constitution or by law. The single executives heading principal departments shall
+include a secretary of state, a state treasurer and an attorney general. When a single executive is
+the head of a principal department, unless elected or appointed as otherwise provided in this
+constitution, he shall be appointed by the governor by and with the advice and consent of the
+senate and he shall serve at the pleasure of the governor.
+
+When a board or commission is at the head of a principal department, unless elected or appointed
+as otherwise provided in this constitution, the members thereof shall be appointed by the
+governor by and with the advice and consent of the senate. The term of office and procedure for
+removal of such members shall be as prescribed in this constitution or by law.
+
+Terms of office of any board or commission created or enlarged after the effective date of this
+constitution shall not exceed four years except as otherwise authorized in this constitution. The
+terms of office of existing boards and commissions which are longer than four years shall not be
+further extended except as provided in this constitution.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 MI 1963 ***
+
+Sec. 4. Temporary commissions or agencies for special purposes with a life of no more than two
+years may be established by law and need not be allocated within a principal department.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 MI 1963 ***
+
+Sec. 5. A majority of the members of an appointed examining or licensing board of a profession
+shall be members of that profession.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 MI 1963 ***
+
+Sec. 6. Appointment by and with the advice and consent of the senate when used in this
+constitution or laws in effect or hereafter enacted means appointment subject to disapproval by a
+majority vote of the members elected to and serving in the senate if such action is taken within
+60 session days after the date of such appointment. Any appointment not disapproved within
+such period shall stand confirmed.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 MI 1963 ***
+
+Sec. 7. Vacancies in any office, appointment to which requires advice and consent of the senate,
+shall be filled by the governor by and with the advice and consent of the senate. A person whose
+appointment has been disapproved by the senate shall not be eligible for an interim appointment
+to the same office.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 MI 1963 ***
+
+
+Sec. 8. Each principal department shall be under the supervision of the governor unless otherwise
+provided by this constitution. The governor shall take care that the laws be faithfully executed.
+He shall transact all necessary business with the officers of government and may require
+information in writing from all executive and administrative state officers, elective and
+appointive, upon any subject relating to the duties of their respective offices.
+
+The governor may initiate court proceedings in the name of the state to enforce compliance with
+any constitutional or legislative mandate, or to restrain violations of any constitutional or
+legislative power, duty or right by any officer, department or agency of the state or any of its
+political subdivisions. This authority shall not be construed to authorize court proceedings
+against the legislature.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 MI 1963 ***
+Sec. 9. Single executives heading principal departments and the chief executive officers of
+principal departments headed by boards or commissions shall keep their offices at the seat of
+government except as otherwise provided by law, superintend them in person and perform duties
+prescribed by law.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 MI 1963 ***
+
+Sec. 10. The governor shall have power and it shall be his duty to inquire into the condition and
+administration of any public office and the acts of any public officer, elective or appointive. He
+may remove or suspend from office for gross neglect of duty or for corrupt conduct in office, or
+for any other misfeasance or malfeasance therein, any elective or appointive state officer, except
+legislative or judicial, and shall report the reasons for such removal or suspension to the
+legislature.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 MI 1963 ***
+
+Sec. 11. The governor may make a provisional appointment to fill a vacancy occasioned by the
+suspension of an appointed or elected officer, other than a legislative or judicial officer, until he
+is reinstated or until the vacancy is filled in the manner prescribed by law or this constitution.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 MI 1963 ***
+
+Sec. 12. The governor shall be commander-in-chief of the armed forces and may call them out to
+execute the laws, suppress insurrection and repel invasion.
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 MI 1963 ***
+
+Sec. 13. The governor shall issue writs of election to fill vacancies in the senate or house of
+representatives. Any such election shall be held in a manner prescribed by law.
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 MI 1963 ***
+
+Sec. 14. The governor shall have power to grant reprieves, commutations and pardons after
+convictions for all offenses, except cases of impeachment, upon such conditions and limitations
+as he may direct, subject to procedures and regulations prescribed by law. He shall inform the
+legislature annually of each reprieve, commutation and pardon granted, stating reasons therefor.
+
+*** SEND ***
+*** SSTART 015.0 005.0 0 MI 1963 ***
+
+Sec. 15. The governor may convene the legislature on extraordinary occasions.
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 MI 1963 ***
+
+Sec. 16. The governor may convene the legislature at some other place when the seat of
+government becomes dangerous from any cause.
+
+*** SEND ***
+*** SSTART 017.0 005.0 0 MI 1963 ***
+
+Sec. 17. The governor shall communicate by message to the legislature at the beginning of each
+session and may at other times present to the legislature information as to the affairs of the state
+and recommend measures he considers necessary or desirable.
+
+*** SEND ***
+*** SSTART 018.0 005.0 0 MI 1963 ***
+
+Sec. 18. The governor shall submit to the legislature at a time fixed by law, a budget for the
+ensuing fiscal period setting forth in detail, for all operating funds, the proposed expenditures and
+estimated revenue of the state. Proposed expenditures from any fund shall not exceed the
+estimated revenue thereof. On the same date, the governor shall submit to the legislature general
+appropriation bills to embody the proposed expenditures and any necessary bill or bills to provide
+new or additional revenues to meet proposed expenditures. The amount of any surplus created or
+deficit incurred in any fund during the last preceding fiscal period shall be entered as an item in
+the budget and in one of the appropriation bills. 'The governor may submit amendments to.
+appropriation bills to be offered in either house during consideration of the bill by that house, and
+shall submit bills to meet deficiencies in current appropriations.
+*** SEND ***
+*** SSTART 019.0 005.0 0 MI 1963 ***
+
+Sec. 19. The governor may disapprove any distinct item or items appropriating moneys in any
+appropriation bill. The part or parts approved shall become law, and the item or items
+disapproved shall be void unless re-passed according to the method prescribed for the passage of
+other bills over the executive veto.
+
+*** SEND ***
+*** SSTART 020.0 005.0 0 MI 1963 ***
+
+Sec. 20. No appropriation shall be a mandate to spend. The governor, with the approval of the
+appropriating committees of the house and senate, shall reduce expenditures authorized by
+appropriations whenever it appears that actual revenues for a fiscal period will fall below the
+revenue estimates on which appropriations for that period were based. Reductions in
+expenditures shall be made in accordance with procedures prescribed by law. The governor may
+not reduce expenditures of the legislative and judicial branches or from funds constitutionally
+dedicated for specific purposes.
+
+*** SEND ***
+*** SSTART 021.0 005.0 0 MI 1963 ***
+
+Sec. 21. The governor, lieutenant governor, secretary of state and attorney general shall be
+elected for four-year terms at the general election in each alternate even-numbered year.
+
+The lieutenant governor, secretary of state and attorney general shall be nominated by party
+conventions in a manner prescribed by law. In the general election one vote shall be cast jointly
+for the candidates for governor and lieutenant governor nominated by the same party.
+
+Vacancies in the office of the secretary of state and attorney general shall be filled by
+appointment by the governor.
+
+*** SEND ***
+*** SSTART 022.0 005.0 0 MI 1963 ***
+
+Sec. 22. To be eligible for the office of governor or lieutenant governor a person must have
+attained the age of 30 years, and have been a registered elector in this state for four years next
+preceding his election.
+
+*** SEND ***
+*** SSTART 023.0 005.0 0 MI 1963 ***
+
+Sec. 23. The governor, lieutenant governor, secretary of state and attorney general shall each
+receive the compensation provided by law in full payment for all services performed and
+expenses incurred during his term of office. Such compensation shall not be changed during the
+term of office except as otherwise provided in this constitution.
+
+*** SEND ***
+*** SSTART 024.0 005.0 0 MI 1963 ***
+
+Sec. 24. An executive residence suitably furnished shall be provided at the seat of government
+for the use of the governor. He shall receive an allowance for its maintenance as provided by law.
+
+*** SEND ***
+*** SSTART 025.0 005.0 0 MI 1963 ***
+
+Sec. 25. The lieutenant governor shall be president of the senate, but shall have no vote, unless
+they be equally divided. He may perform duties requested of him by the governor, but no power
+vested in the governor shall be delegated.
+
+*** SEND ***
+*** SSTART 026.0 005.0 0 MI 1963 ***
+
+Sec. 26. In case of the conviction of the governor on impeachment, his removal from office, his
+resignation or his death, the lieutenant governor, the elected secretary of state, the elected
+attorney general and such other persons designated by law shall in that order be governor for the
+remainder of the governor's term.
+
+In case of the death of the governor-elect, the lieutenant governor-elect, the secretary of state
+elect, the attorney general-elect and such other persons designated by law shall become governor
+in that order at the commencement of the governor-elect's term.
+
+If the governor or the person in line of succession to serve as governor is absent from the state, or
+suffering under an inability, the powers and duties of the office of governor shall devolve in
+order of precedence until the absence or inability giving rise to the devolution of powers ceases.
+
+The inability of the governor or person acting as governor shall be determined by a majority of
+the supreme court on joint request of the president pro tempore of the senate and the speaker of
+the house of representatives. Such determination shall be final and conclusive. The supreme
+court shall upon its own initiative determine if and when the inability ceases.
+
+*** SEND ***
+*** SSTART 027.0 005.0 0 MI 1963 ***
+
+Sec. 27. The legislature shall provide that the salary of any state officer while acting as governor
+shall be equal to that of the governor.
+
+*** SEND ***
+*** SSTART 028.0 005.0 0 MI 1963 ***
+
+Sec. 28. There is hereby established a state highway commission, which shall administer the state
+highway department and have jurisdiction and control over all state trunkline highways and
+appurtenant facilities, and such other public works of the state, as provided by law.
+
+The state highway commission shall consist of four members, not more than two of whom shall
+be members of the same political party. They shall be appointed by the governor by and with the
+advice and consent of the senate for four-year terms, no two of which shall expire in the same
+year, as provided by law.
+
+The state highway commission shall appoint and may remove a state highway director, who shall
+be a competent highway engineer and administrator. He shall be the principal executive officer of
+the state highway department and shall be responsible for executing the policy of the state
+highway commission.
+
+*** SEND ***
+*** SSTART 029.0 005.0 0 MI 1963 ***
+
+Sec. 29. There is hereby established a civil rights commission which shall consist of eight
+persons, not more than four of whom shall be members of the same political party, who shall be
+appointed by the governor, by and with the advice and consent of the senate, for four-year terms
+not more than two of which shall expire in the same year. It shall be the duty of the commission
+in a manner which may be prescribed by law to investigate alleged discrimination against any
+person because of religion, race, color or national origin in the enjoyment of the civil rights
+guaranteed by law and by this constitution, and to secure the equal protection of such civil rights
+without such discrimination. The legislature shall provide an annual appropriation for the
+effective operation of the commission.
+
+The commission shall have power, in accordance with the provisions of this constitution and of
+general laws governing administrative agencies, to promulgate rules and regulations for its own
+procedures, to hold hearings, administer oaths, through court authorization to require the
+attendance of witnesses and the submission of records, to take testimony, and to issue appropriate
+orders. The commission shall have other powers provided by law to carry out its purposes.
+Nothing contained in this section shall be construed to diminish the right of any party to direct
+and immediate legal or equitable remedies in the courts of this state.
+
+Appeals from final orders of the commission, including cease and desist orders and refusals to
+issue complaints, shall be tried de novo before the circuit court having jurisdiction provided by
+law.
+*** SEND ***
+
+*** AEND ***
+*** ASTART 006.0 MI 1963 ***
+
+                           ARTICLE VI 
+
+                         Judicial Branch
+
+*** SSTART 001.0 006.0 0 MI 1963 ***
+
+Sec. 1. The judicial power of the state is vested exclusively in one court of justice which shall be
+divided into one supreme court, one court of appeals, one trial court of general jurisdiction
+known as the circuit court, one probate court, and courts of limited jurisdiction that the
+legislature may establish by a two-thirds vote of the members elected to and serving in each
+house.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 MI 1963 ***
+
+Sec. 2. The supreme court shall consist of seven justices elected at non-partisan elections as
+provided by law. The term of office shall be eight years and not more than two terms of office
+shall expire at the same time. Nominations for justices of the supreme court shall be in the
+manner prescribed by law. Any incumbent justice whose term is to expire may become a
+candidate for re-election by filing an affidavit of candidacy, in the form and manner prescribed
+by law, not less than 180 days prior to the expiration of his term.
+*** SEND ***
+*** SSTART 003.0 006.0 0 MI 1963 ***
+
+Sec. 3. One justice of the supreme court shall be selected by the court as its chief justice as
+provided by rules of the court. He shall perform duties required by the court. The supreme court
+shall appoint an administrator of the courts and other assistants of the supreme court as may be
+necessary to aid in the administration of the courts of this state. The administrator shall perform
+administrative duties assigned by the court.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 MI 1963 ***
+
+Sec. 4. The supreme court shall have general superintending control over all courts; power to
+issue, hear and determine prerogative and remedial writs; and appellate jurisdiction as provided
+by rules of the supreme court. The supreme court shall not have the power to remove a judge.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 MI 1963 ***
+
+Sec. 5. The supreme court shall by general rules establish, modify, amend and simplify the
+practice and procedure in all courts of this state. The distinctions between law and equity
+proceedings shall, as far as practicable, be abolished. The office of master in chancery is
+prohibited.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 MI 1963 ***
+
+Sec. 6. Decisions of the supreme court, including all decisions on prerogative writs, shall be in
+writing and shall contain a concise statement of the facts and reasons for each decision and
+reasons for each denial of leave to appeal. When a judge dissents in whole or in part he shall give
+in writing the reasons for his dissent.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 MI 1963 ***
+
+Sec. 7. The supreme court may appoint, may remove, and shall have general supervision of its
+staff. It shall have control of the preparation of its budget recommendations and the expenditure
+of moneys appropriated for any purpose pertaining to the operation of the court or the
+performance of activities of its staff except that the salaries of the justices shall be established by
+law. All fees and perquisites collected by the court staff shall be turned over to the state treasury
+and credited to the general fund.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 MI 1963 ***
+
+Sec. 8. The court of appeals shall consist initially of nine judges who shall be nominated and
+elected at non-partisan elections from districts drawn on county lines and as nearly as possible of
+equal population, as provided by law. The supreme court may prescribe by rule that the court of
+appeals sit in divisions and for the terms of court and the times and places thereof. Each such
+division shall consist of not fewer than three judges. The number of judges comprising the court
+of appeals may be increased, and the districts from which they are elected may be changed by
+law.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 MI 1963 ***
+
+Sec. 9. judges of the court of appeals shall hold office for a term of six years and until their
+successors are elected and qualified. The terms of office for the judges in each district shall be
+arranged by law to provide that not all terms will expire at the same time.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 MI 1963 ***
+
+Sec. 10. The jurisdiction of the court of appeals shall be provided by law and the practice and
+procedure therein shall be prescribed by rules of the supreme court.
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 MI 1963 ***
+
+Sec. 11. The state shall be divided into judicial circuits along county lines in each of which there
+shall be elected one or more circuit judges as provided by law. Sessions of the circuit court shall
+be held at least four times in each year in every county organized for judicial purposes. Each
+circuit judge shall hold court in the county or counties within the circuit in which he is elected,
+and in other circuits as may be provided by rules of the supreme court. The number of judges
+may be changed and circuits may be created, altered and discontinued by law and the number of
+judges shall be changed and circuits shall be created, altered and discontinued on
+recommendation of the supreme court to reflect changes in judicial activity. No change in the
+number of judges or alteration or discontinuance of a circuit shall have the effect of removing a
+judge from office during his term.
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 MI 1963 ***
+
+Sec. 12. Circuit judges shall be nominated and elected at non-partisan elections in the circuit in
+which they reside, and shall hold office for a term of six years and until their successors are
+elected and qualified. In circuits having more than one circuit judge their terms of office shall be
+arranged by law to provide that not all terms will expire at the same time.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 MI 1963 ***
+
+Sec. 13. The circuit court shall have original jurisdiction in all matters not prohibited by law;
+appellate jurisdiction from all inferior courts and tribunals except as otherwise provided by law;
+power to issue, hear and determine prerogative and remedial writs; supervisory and general
+control over inferior courts and tribunals within their respective jurisdictions in accordance with
+rules of the supreme court; and jurisdiction of other cases and matters as provided by rules of the
+supreme court.
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 MI 1963 ***
+
+Sec. 14. The clerk of each county organized for judicial purposes or other officer performing the
+duties of such office as provided in a county charter shall be clerk of the circuit court for such
+county. The judges of the circuit court may fill a vacancy in an elective office of county clerk or
+prosecuting attorney within their respective jurisdictions.
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 MI 1963 ***
+
+Sec. 15. In each county organized for judicial purposes there shall be a probate court. The
+legislature may create or alter probate court districts of more than one county if approved in each
+affected county by a majority of the electors voting on the question. The legislature may provide
+for the combination of the office of probate judge with any judicial office of limited jurisdiction
+within a county with supplemental salary as provided by law. The jurisdiction, powers and duties
+of the probate court and of the judges thereof shall be provided by law. They shall have original
+jurisdiction in all cases of juvenile delinquents and dependents, except as otherwise provided by
+law.
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 MI 1963 ***
+
+Sec. 16. One or more judges of probate as provided by law shall be nominated and elected at
+non-partisan elections in the counties or the probate districts in which they reside and shall hold
+office for terms of six years and until their successors are elected and qualified. In counties or
+districts with more than one judge the terms of office shall be arranged by law to provide that not
+all terms will expire at the same time.
+
+*** SEND ***
+*** SSTART 017.0 006.0 0 MI 1963 ***
+
+Sec. 17. No judge or justice of any court of this state shall be paid from the fees of his office nor
+shall the amount of his salary be measured by fees, other moneys received or the amount of
+judicial activity of his office.
+
+*** SEND ***
+*** SSTART 018.0 006.0 0 MI 1963 ***
+
+Sec. 18. Salaries of justices of the supreme court, of the judges of the court of appeals, of the
+circuit judges within a circuit, and of the probate judges within a county or district, shall be
+uniform, and may be increased but shall not be decreased during a term of office except and only
+to the extent of a general salary reduction in all other branches of government.
+
+ Each of the judges of the circuit court shall receive an annual salary as provided by law. In
+addition to the salary received from the state, each circuit judge may receive from any county in
+which he regularly holds court an additional salary as determined from time to time by the board
+of supervisors of the county. In any county where an additional salary is granted, it shall be paid
+at the same rate to all circuit judges regularly holding court therein.
+
+*** SEND ***
+*** SSTART 019.0 006.0 0 MI 1963 ***
+
+Sec. 19. The supreme court, the court of appeals, the circuit court, the probate court and other
+courts designated as such by the legislature shall be courts of record and each shall have a
+common seal. Justices and judges of courts of record must be persons who are licensed to
+practice law in this state. No person shall be elected or appointed to a judicial office after
+reaching the age of 70 years.
+
+*** SEND ***
+*** SSTART 020.0 006.0 0 MI 1963 ***
+
+Sec. 20. Whenever a justice or judge removes his domicile beyond the limits of the territory from
+which he was elected, he shall have vacated his office.
+
+*** SEND ***
+*** SSTART 021.0 006.0 0 MI 1963 ***
+
+Sec. 21. Any justice or judge of a court of record shall be ineligible to be nominated for or
+elected to an elective office other than a judicial office during the period of his service and for
+one year thereafter.
+
+*** SEND ***
+*** SSTART 022.0 006.0 0 MI 1963 ***
+
+Sec. 22. Any elected judge of the court of appeals, circuit court or probate court may become a
+candidate in the primary election for the office of which he is the incumbent by filing an affidavit
+of candidacy in the form and manner prescribed by law.
+
+*** SEND ***
+*** SSTART 023.0 006.0 0 MI 1963 ***
+
+Sec. 23. A vacancy in the elective office of a judge of any court of record shall be filled at a
+general or special election as provided by law. The supreme court may authorize persons who
+have served as judges and who have retired, to perform judicial duties for the limited period of
+time from the occurrence of the vacancy until the successor is elected and qualified. Such persons
+shall be ineligible for election to fill the vacancy.
+
+*** SEND ***
+*** SSTART 024.0 006.0 0 MI 1963 ***
+
+Sec. 24. There shall be printed upon the ballot under the name of each elected incumbent justice
+or judge who is a candidate for nomination or election to the same office the designation of that
+office.
+
+*** SEND ***
+*** SSTART 025.0 006.0 0 MI 1963 ***
+
+Sec. 25. For reasonable cause, which is not sufficient ground for impeachment, the governor
+shall remove any judge on a concurrent resolution of two-thirds of the members elected to and
+serving in each house of the legislature. The cause for removal shall be stated at length in the
+resolution.
+
+*** SEND ***
+*** SSTART 026.0 006.0 0 MI 1963 ***
+
+Sec. 26. The offices of circuit court commissioner and justice of the peace are abolished at the
+expiration of five years from the date this constitution becomes effective or may within this
+period be abolished by law. Their jurisdiction, compensation and powers within this period shall
+be as provided by law. Within this five-year period, the legislature shall establish a court or
+courts of limited jurisdiction with powers and jurisdiction defined by law. The location of such
+court or courts, and the qualifications, tenure, method of election and salary of the judges of such
+court or courts, and by what governmental units the judges shall be paid, shall be provided by
+law, subject to the limitations contained in this article.
+
+Statutory courts in existence at the time this constitution becomes effective shall retain their
+powers and jurisdiction, except as provided by law, until they are abolished by law.
+
+*** SEND ***
+*** SSTART 027.0 006.0 0 MI 1963 ***
+
+Sec. 27. The supreme court, the court of appeals, the circuit court, or any justices or judges
+thereof, shall not exercise any power of appointment to public office except as provided in this
+constitution.
+
+*** SEND ***
+*** SSTART 028.0 006.0 0 MI 1963 ***
+
+Sec. 28. All final decisions, findings, rulings and orders of any administrative officer or agency
+existing under the constitution or by law, which are judicial or quasi-judicial and affect private
+rights or licenses, shall be subject to direct review by the courts as provided by law. This review
+shall include, as a minimum, the determination whether such final decisions, findings, rulings
+and orders are authorized by law; and, in cases in which a hearing is required, whether the same
+are supported by competent, material and substantial evidence on the whole record. Findings of
+fact in workmen's compensation proceedings shall be conclusive in the absence of fraud unless
+otherwise provided by law.
+
+In the absence of fraud, error of law or the adoption of wrong principles, no appeal may be taken
+to any court from any final agency provided for the administration of property tax laws from any
+decision relating to valuation or allocation.
+
+*** SEND ***
+*** SSTART 029.0 006.0 0 MI 1963 ***
+
+Sec. 29. Justices of the supreme court, judges of the court of appeals, circuit judges and other
+judges as provided by law shall be conservators of the peace within their respective jurisdictions.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 MI 1963 ***
+
+ARTICLE VII
+Local Government
+
+*** SSTART 001.0 007.0 0 MI 1963 ***
+
+Sec. 1. Each organized county shall be a body corporate with powers and immunities provided by
+law.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 MI 1963 ***
+
+Sec. 2. Any county may frame, adopt, amend or repeal a county charter in a manner and with
+powers and limitations to be provided by general law, which shall among other things provide for
+the election of a charter commission. The law may permit the organization of county government
+in form different from that set forth in this constitution and shall limit the rate of ad valorem
+property taxation for county purposes, and restrict the powers of charter counties to borrow
+money and contract debts. Each charter county is hereby granted power to levy other taxes for
+county purposes subject to limitations and prohibitions set forth in this constitution or law.
+Subject to law, a county charter may authorize the county through its regularly constituted
+authority to adopt resolutions and ordinances relating to its concerns.
+The board of supervisors by a majority vote of its members may, and upon petition of five
+percent of the electors shall, place upon the ballot the question of electing a commission to frame
+a charter.
+
+No county charter shall be adopted, amended or repealed until approved by a majority of electors
+voting on the question.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 MI 1963 ***
+
+Sec. 3. No organized county shall be reduced by the organization of new counties to less than 16
+townships as surveyed by the United States, unless approved in the manner prescribed by law by
+a majority of electors voting thereon in each county to be affected.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 MI 1963 ***
+
+Sec. 4. There shall be elected for four-year terms in each organized county a sheriff, a county
+clerk, a county treasurer, a register of deeds and a prosecuting attorney, whose duties and powers
+shall be provided by law. The board of supervisors in any county may combine the offices of
+county clerk and register of deeds in one office or separate the same at pleasure.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 MI 1963 ***
+
+Sec. 5. The sheriff, county clerk, county treasurer and register of deeds shall hold their principal
+offices at the county seat.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 MI 1963 ***
+
+Sec. 6. The sheriff may be required by law to renew his security periodically and in default of
+giving such security, his office shall be vacant. The county shall never be responsible for his acts,
+except that the board of supervisors may protect him against claims by prisoners for unintentional
+injuries received while in his custody. He shall not hold any other office except in civil defense.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 MI 1963 ***
+
+Sec. 7. A board of supervisors shall be established in each organized county consisting of one
+member from each organized township and such representation from cities as provided by law.
+
+*** SEND ***
+*** SSTART 008.0 007.0 0 MI 1963 ***
+
+Sec. 8. Boards of supervisors shall have legislative, administrative and such other powers and
+duties as provided by law.
+
+*** SEND ***
+*** SSTART 009.0 007.0 0 MI 1963 ***
+
+Sec. 9. Boards of supervisors shall have exclusive power to fix the compensation of county
+officers not otherwise provided by law.
+
+*** SEND ***
+*** SSTART 010.0 007.0 0 MI 1963 ***
+
+Sec. 10. A county seat once established shall not be removed until the place to which it is
+proposed to be moved shall be designated by two-thirds of the members of the board of
+supervisors and a majority of the electors voting thereon shall have approved the proposed
+location in the manner prescribed by law.
+
+*** SEND ***
+*** SSTART 011.0 007.0 0 MI 1963 ***
+
+Sec. 11. No county shall incur any indebtedness which shall increase its total debt beyond 10
+percent of its assessed valuation.
+
+*** SEND ***
+*** SSTART 012.0 007.0 0 MI 1963 ***
+
+Sec. 12. A navigable stream shall not be bridged or dammed without permission granted by the
+board of supervisors of the county as provided by law, which permission shall be subject to such
+reasonable compensation and other conditions as may seem best suited to safeguard the rights
+and interests of the county and political subdivisions therein.
+
+*** SEND ***
+*** SSTART 013.0 007.0 0 MI 1963 ***
+
+Sec. 13. Two or more contiguous counties may combine into a single county if approved in each
+affected county by a majority of the electors voting on the question.
+
+*** SEND ***
+*** SSTART 014.0 007.0 0 MI 1963 ***
+
+Sec. 14. The board of supervisors of each organized county may organize and consolidate
+townships under restrictions and limitations provided by law.
+
+*** SEND ***
+*** SSTART 015.0 007.0 0 MI 1963 ***
+
+Sec. 15. Any county, when authorized by its board of supervisors shall have the authority to enter
+or to intervene in any action or certificate proceeding involving the services, charges or rates of
+any privately owned public utility furnishing services or commodities to rate payers within the
+county.
+
+*** SEND ***
+*** SSTART 016.0 007.0 0 MI 1963 ***
+
+Sec. 16. The legislature may provide for the laying out, construction, improvement and
+maintenance of highways, bridges, culverts and airports by the state and by the counties and
+townships thereof; and may authorize counties to take charge and control of any highway within
+their limits for such purposes. The legislature may provide the powers and duties of counties in
+relation to highways, bridges, culverts and airports; may provide for county road commissioners
+to be appointed or elected, with powers and duties provided by law. The ad valorem property tax
+imposed for road purposes by any county shall not exceed in any year one-half of one percent of
+the assessed valuation for the preceding year.
+
+*** SEND ***
+*** SSTART 017.0 007.0 0 MI 1963 ***
+
+Sec. 17. Each organized township shall be a body corporate with powers and immunities
+provided by law.
+
+*** SEND ***
+*** SSTART 018.0 007.0 0 MI 1963 ***
+
+Sec. 18. In each organized township there shall be elected for terms of not less than two nor more
+than four years as prescribed by law a supervisor, a clerk, a treasurer, and not to exceed four
+trustees, whose legislative and administrative powers and duties shall be provided by law.
+
+*** SEND ***
+*** SSTART 019.0 007.0 0 MI 1963 ***
+
+Sec. 19. No organized township shall grant any public utility franchise which is not subject to
+revocation at the will of the township, unless the proposition shall first have been approved by a
+majority of the electors of such township voting thereon at a regular or special election.
+
+*** SEND ***
+*** SSTART 020.0 007.0 0 MI 1963 ***
+
+Sec. 20. The legislature shall provide by law for the dissolution of township government 
+whenever all the territory of an organized township is included within the boundaries of a village
+or villages notwithstanding that a village may include territory within another organized
+township and provide by law for the classification of such village or villages as cities
+
+*** SEND ***
+*** SSTART 021.0 007.0 0 MI 1963 ***
+
+Sec. 21. The legislature shall provide by general laws for the incorporation of cities and villages.
+Such laws shall limit their rate of ad valorem property taxation for municipal purposes, and
+restrict the powers of cities and villages to borrow money and contract debts. Each city and
+village is granted power to levy other taxes for public purposes, subject to limitations and
+prohibitions provided by this constitution or by law.
+
+*** SEND ***
+*** SSTART 022.0 007.0 0 MI 1963 ***
+
+Sec. 22. Under general laws the electors of each city and village shall have the power and
+authority to frame, adopt and amend its charter, and to amend an existing charter of the city or
+village heretofore granted or enacted by the legislature for the government of the city or village.
+Each such city and village shall have power to adopt resolutions and ordinances relating to its
+municipal concerns, property and government, subject to the constitution and law. No
+enumeration of powers granted to cities and villages in this constitution shall limit or restrict the
+general grant of authority conferred by this section.
+
+*** SEND ***
+*** SSTART 023.0 007.0 0 MI 1963 ***
+
+Sec. 23. Any city or village may acquire, own, establish and maintain, within or without its
+corporate limits, parks, boulevards, cemeteries, hospitals and all works which involve the public
+health or safety.
+
+*** SEND ***
+*** SSTART 024.0 007.0 0 MI 1963 ***
+
+Sec. 24. Subject to this constitution, any city or village may acquire, own or operate, within or
+without its corporate limits, public service facilities for supplying water, light, heat, power,
+sewage disposal and transportation to the municipality and the inhabitants thereof. 
+
+Any city or village may sell and deliver heat, power or light without its corporate limits in an
+amount not exceeding 25 percent of that furnished by it within the corporate limits, except as
+greater amounts may be permitted by law; may sell and deliver water and provide sewage
+disposal services outside of its corporate limits in such amount as  may be determined by the
+legislative body of the city or village; and may operate transportation lines outside the
+municipality within such limits as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 025.0 007.0 0 MI 1963 ***
+
+Sec. 25. No city or village shall acquire any public utility furnishing light, heat or power, or grant
+any public utility franchise which is not subject to revocation at the will of the city or village,
+unless the proposition shall first have been approved by three-fifths of the electors voting
+thereon. No city or village may sell any public utility unless, the proposition shall first have been
+approved by a majority of the electors voting thereon, or a greater number if the charter shall so
+provide.
+
+*** SEND ***
+*** SSTART 026.0 007.0 0 MI 1963 ***
+
+Sec. 26. Except as otherwise provided in this constitution, no city or village shall have the power
+to loan its credit for any private purpose or, except as provided by law, for any public purpose.
+
+*** SEND ***
+*** SSTART 027.0 007.0 0 MI 1963 ***
+
+Sec. 27. Notwithstanding any other provision of this constitution the legislature may establish in
+metropolitan areas additional forms of government or authorities with powers, duties and
+jurisdictions as the legislature shall provide. Wherever possible, such additional forms of
+government or authorities shall be designed to perform multi-purpose functions rather than a
+single function.
+
+*** SEND ***
+*** SSTART 028.0 007.0 0 MI 1963 ***
+
+Sec. 28. The legislature by general law shall authorize two or more counties, townships, cities,
+villages or districts, or any combination thereof among other things to:enter into contractual
+undertakings or agreements with one another or with the state or with any combination thereof
+for the joint administration of any of the functions or powers which each would have the power
+to perform separately; share the costs and responsibilities of functions and services with one
+another or with the state or with any combination thereof which each would have the power to
+perform separately; transfer functions or responsibilities to one another or any combination
+thereof upon
+the consent of each unit involved; cooperate with one another and with state government; lend
+their credit to one another or any combination thereof as provided by law in connection with any
+authorized publicly owned undertaking.
+
+Any other provision of this constitution notwithstanding, an officer or employee of the state or
+any such unit of government or subdivision or agency thereof, except members of the legislature,
+may serve on or with any governmental body established for the purposes set forth in this section
+and shall not be required to relinquish his office or employment by reason of such service.
+
+*** SEND ***
+*** SSTART 029.0 007.0 0 MI 1963 ***
+
+Sec. 29. No person, partnership, association or corporation, public or private, operating a public
+utility shall have the right to the use of the highways, streets, alleys or other public places of any
+county, township, city or village for wires, poles, pipes, tracks, conduits or other utility facilities,
+without the consent of the duly constituted authority of the county, township, city or village; or to
+transact local business therein without first obtaining a franchise from the township, city or
+village. Except as otherwise provided in this constitution the right of all counties, townships,
+cities and villages to the reasonable control of their highways, streets, alleys and public places is
+hereby reserved to such local units of government.
+
+*** SEND ***
+*** SSTART 030.0 007.0 0 MI 1963 ***
+
+Sec. 30. No franchise or license shall be granted by any township, city or village for a period
+longer than 30 years.
+
+*** SEND ***
+*** SSTART 031.0 007.0 0 MI 1963 ***
+
+Sec. 31. The legislature shall not vacate or alter any road, street, alley or public place under the
+jurisdiction of any county, township, city or village.
+
+*** SEND ***
+*** SSTART 032.0 007.0 0 MI 1963 ***
+
+Sec. 32. Any county, township, city, village, authority or school district empowered by the
+legislature or by this constitution to prepare budgets of estimated expenditures and revenues shall
+adopt such budgets only after a public hearing in a manner prescribed by law.
+
+*** SEND ***
+*** SSTART 033.0 007.0 0 MI 1963 ***
+
+Sec. 33. Any elected officer of a political subdivision may be removed from office in the manner
+and for the causes provided by law.
+
+*** SEND ***
+*** SSTART 034.0 007.0 0 MI 1963 ***
+
+Sec.. 34. The provisions of this constitution and law concerning counties, townships, cities and
+villages shall be liberally construed in their favor. Powers granted to counties and townships by
+this constitution and by law shall include those fairly implied plied and not prohibited by this
+constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 MI 1963 ***
+
+ARTICLE VIII
+Education
+
+*** SSTART 001.0 008.0 0 MI 1963 ***
+
+Sec. 1. Religion, morality and knowledge being necessary to good government and the happiness
+of mankind, schools and the means of education shall forever be encouraged.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 MI 1963 ***
+
+Sec. 2. The legislature shall maintain and support a system of free public elementary and
+secondary schools as defined by law. Every school district shall provide for the education of its
+pupils without discrimination as to religion, creed, race, color or national origin.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 MI 1963 ***
+
+Sec. 3. Leadership and general supervision over all public education, including adult education
+and instructional programs in state institutions, except as to institutions of higher education
+granting baccalaureate degrees, is vested in a state board of education. It shall serve as the
+general planning and coordinating body for all public education, including higher education, and
+shall advise the legislature as to the financial requirements in connection therewith.
+
+The state board of education shall appoint a superintendent of public instruction whose term of
+office shall be determined by the board. He shall be the chairman of the board without the right
+to vote, and shall be responsible for the execution of its policies. He shall be the principal
+executive officer of a state department of education which shall have powers and duties provided
+by law.
+The state board of education shall consist of eight members who shall be nominated by party
+conventions and elected at large for terms of eight years as prescribed by law. The governor shall
+fill any vacancy by appointment for the unexpired term. The governor shall be ex-officio a
+member of the state board of education without the right to vote.
+
+The power of the boards of institutions of higher education provided in this constitution to
+supervise their respective institutions and control and direct the expenditure of the institutions'
+funds shall not be limited by this section.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 MI 1963 ***
+
+Sec. 4. The legislature shall appropriate moneys to maintain the University of Michigan,
+Michigan State University, Wayne State University, Eastern Michigan University, Michigan
+College of Science and Technology, Central Michigan University, Northern Michigan
+University, Western Michigan University, Ferris Institute, Grand Valley State College, by
+whatever names such institutions may hereafter be known, and other institutions of higher
+education established by law. The legislature shall be given an annual accounting of all income
+and expenditures by each of these educational institutions. Formal sessions of governing boards
+of such institutions shall
+be open to the public.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 MI 1963 ***
+
+Sec. 5. The regents of the University of Michigan and their successors in office shall constitute a
+body corporate known as the Regents of the University of Michigan; the trustees of Michigan
+State University and their successors in office shall constitute a body corporate known as the
+Board of Trustees of Michigan State University; the governors of Wayne State University and
+their successors in office shall constitute a body corporate known as the Board of Governors of
+Wayne State University. Each board shall have general supervision of its institution and the
+control and direction of all expenditures from the institution's funds. Each board shall, as often as
+necessary, elect a president of the institution under its supervision. He shall be the principal
+executive officer of the institution, be ex-officio a member of the board without the right to vote
+and preside at meetings of the board. The board of each institution shall consist of eight members
+who shall hold office for terms of eight years and who shall be elected as provided by law. The
+governor shall fill board vacancies by appointment. Each appointee shall hold office until a
+successor has been nominated and elected as provided by law.
+
+*** SEND ***
+*** SSTART 006.0 008.0 0 MI 1963 ***
+
+Sec. 6. Other institutions of higher education established by law having authority to grant
+baccalaureate degrees shall each be governed by a board of control which shall be a body
+corporate. The board shall have general supervision of the institution and the control and
+direction of all expenditures from the institution's funds. It shall, as often as necessary, elect a
+president of the institution under its supervision. He shall be the principal executive officer of the
+institution and be ex-officio a member of the board without the right to vote. The board may elect
+one of its members or may designate the president, to preside at board meetings. Each board of
+control
+shall consist of eight members who shall hold office for terms of eight years, not more than two
+of which shall expire in the same year, and who shall be appointed by the governor by and with
+the advice and consent of the senate. Vacancies shall be filled in like manner. 
+
+*** SEND ***
+*** SSTART 007.0 008.0 0 MI 1963 ***
+
+Sec. 7. The legislature shall provide by law for the establishment and financial support of public
+community and junior colleges which shall be supervised and controlled by locally elected
+boards. The legislature shall provide by law for a state board for public community and junior
+colleges which shall advise the state board of education concerning general supervision and
+planning for such colleges and requests for annual appropriations for their support. The board
+shall consist of eight members who shall hold office for terms of eight years, not more than two
+of which shall expire in the same year, and who shall be appointed by the state board of
+education. Vacancies shall be filled in like manner. The superintendent of public instruction shall
+be ex-officio a member of this board without the right to vote.
+
+*** SEND ***
+*** SSTART 008.0 008.0 0 MI 1963 ***
+
+Sec. 8. Institutions, programs and services for the care, treatment, education or rehabilitation of
+those inhabitants who are physically, mentally or otherwise seriously handicapped shall always
+be fostered and supported.
+
+*** SEND ***
+*** SSTART 009.0 008.0 0 MI 1963 ***
+
+Sec. 9. The legislature shall provide by law for the establishment and support of public libraries
+which shall be available to all residents of the state under regulations adopted by the governing
+bodies thereof. All fines assessed and collected in the several counties, townships and cities for
+any breach of the penal laws shall be exclusively applied to the support of such public libraries,
+and county law libraries as provided by law.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 009.0 MI 1963 ***
+
+ARTICLE IX
+Finance and Taxation
+
+*** SSTART 001.0 009.0 0 MI 1963 ***
+
+Sec. 1.  The legislature shall impose taxes sufficient with other resources to pay the expenses of
+state government.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 MI 1963 ***
+
+Sec. 2. The power of taxation shall never be surrendered, suspended or contracted away.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 MI 1963 ***
+
+Sec. 3. The legislature shall provide for the uniform general ad valorem taxation of real and
+tangible personal property not exempt by law. The legislature shall provide for the determination
+of true cash value of such property; the proportion of true cash value at which such property shall
+be uniformly assessed, which shall not, after January 1, 1966, exceed 50 percent; and for a
+system of equalization of assessments. The legislature may provide for alternative means of
+taxation of designated real and tangible personal property in lieu of general ad valorem taxation.
+Every tax other than the general ad valorem property tax shall be uniform upon the class or
+classes on which it operates.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 MI 1963 ***
+Sec. 4. Property owned and occupied by non-profit religious or educational organizations and
+used exclusively for religious or educational purposes, as defined by law, shall be exempt from
+real and personal property taxes.
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 MI 1963 *** 
+
+Sec. 5. The legislature shall provide for the assessment by the state of the property of those
+public service businesses assessed by the state at the date this constitution becomes effective, and
+of other property as designated by the legislature, and for the imposition and collection of taxes
+thereon. Property assessed by the state shall be assessed at the same proportion of its true cash
+value as the legislature shall specify for property subject to general ad valorem taxation. The rate
+of taxation on such property shall be the average rate levied upon other property in this state
+under the general ad valorem tax law, or, if the legislature provides, the rate of tax applicable to
+the property of each business enterprise assessed by the state shall be the average rate of ad
+valorem taxation levied upon other property in all counties in which any of such property is
+situated.
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 MI 1963 ***
+
+.Sec. 6. Except as otherwise provided in this constitution, the total amount of general ad valorem
+taxes imposed upon real and tangible personal property for all purposes in any one year shall not
+exceed 15 mills on each dollar of the assessed valuation of property as finally equalized. Under
+procedures provided by law, which shall guarantee the right of initiative, separate tax limitations
+for any county and for the townships and for school districts therein, the aggregate of which shall
+not exceed 18 mills on each dollar of such valuation, may be adopted and thereafter altered by
+the vote of a majority of the qualified electors of such county voting thereon, in lieu of the
+limitation hereinbefore established. These limitations may be increased to an aggregate of not to
+exceed 50 mills on each dollar of valuation, for a period of not to exceed 20 years at any one
+time, if approved by a majority of the electors, qualified under Section 6 of Article 11 of this
+constitution, voting on the question.
+
+The foregoing limitations shall not apply to taxes imposed for the payment of principal and
+interest on bonds or other evidences of indebtedness or for the payment of assessments or
+contract obligations in anticipation of which bonds are issued, which taxes may be imposed
+without limitation as to rate or amount; or to taxes imposed for any other purpose by any city,
+village, charter county, charter township, charter authority or other authority, the tax limitations
+of which are provided by charter or by general law.
+
+In any school district which extends into two or more counties, property taxes at the highest rate
+available in the county which contains the greatest part of the area of the district may be imposed
+and collected for school purposes throughout the district.
+
+*** SEND ***
+*** SSTART 007.0 009.0 0 MI 1963 ***
+
+Sec. 7. No income tax graduated as to rate or base shall be imposed by the state or any of its
+subdivisions.
+
+*** SEND ***
+*** SSTART 008.0 009.0 0 MI 1963 ***
+
+Sec. 8. The legislature shall not impose a sales tax on retailers at a rate of more than four percent
+of their gross taxable sales of tangible personal property.
+
+*** SEND ***
+*** SSTART 009.0 009.0 0 MI 1963 ***
+
+Sec. 9. All specific taxes, except general sales and use taxes and regulatory fees, imposed directly
+or indirectly on fuels sold or used to propel motor vehicles upon highways and on registered
+motor vehicles shall, after the payment of necessary collection expenses, be used exclusively for
+highway purposes as defined by law.
+
+*** SEND ***
+*** SSTART 010.0 009.0 0 MI 1963 ***
+
+Sec. 10. One-eighth of all taxes imposed on retailers on taxable sales at retail of tangible personal
+property shall be used exclusively for assistance to townships, cities and villages, on a population
+basis as provided by law. In determining population the legislature may exclude any portion of
+the total number of persons who are wards, patients or convicts in any tax supported institution.
+
+*** SEND ***
+*** SSTART 011.0 009.0 0 MI 1963 ***
+
+Sec. 11. There shall be established a state school aid fund which shall be used exclusively for aid
+to school districts, higher education and school employees' retirement systems, as provided by
+law. One-half of all taxes imposed on retailers on taxable sales at retail of tangible personal
+property, and other tax revenues provided by law, shall be dedicated to this fund.  Payments from
+this fund shall be made in full on a scheduled basis, as provided by law.
+
+*** SEND ***
+*** SSTART 012.0 009.0 0 MI 1963 ***
+
+Sec. 12. No evidence of state indebtedness shall be issued except for debts authorized pursuant to
+this constitution. 
+
+*** SEND *** 
+*** SSTART 013.0 009.0 0 MI 1963 ***
+Sec. 13. Public bodies corporate shall have power  to borrow money and to issue their securities
+evidencing debt, subject to this constitution and law.
+
+*** SEND ***
+*** SSTART 014.0 009.0 0 MI 1963 ***
+
+Sec. 14. To meet obligations incurred pursuant to appropriations for any fiscal year, the
+legislature may by law authorize the state to issue its full faith and credit notes in which case it
+shall pledge undedicated revenues to be received within the same fiscal year for the repayment
+thereof. Such indebtedness in any fiscal year shall not exceed 15 percent of undedicated revenues
+received by the state during the preceding fiscal year and such debts shall be repaid at the time
+the revenues so pledged are received, but not later than the end of the same fiscal year.
+
+*** SEND ***
+*** SSTART 015.0 009.0 0 MI 1963 ***
+
+Sec. 15. The state may borrow money for specific purposes in amounts as may be provided by
+acts of the legislature adopted by a vote of two-thirds of the members elected to and serving in
+each house, and approved by a majority of the electors voting thereon at any general election.
+The question submitted to the electors shall state the amount to be borrowed, the specific purpose
+to which the funds shall be devoted, and the method of repayment.
+
+*** SEND ***
+*** SSTART 016.0 009.0 0 MI 1963 ***
+
+Sec. 16. The state, in addition to any other borrowing power, may borrow from time to time such
+amounts as shall be required, pledge its faith and credit and issue its notes or bonds therefor, for
+the purpose of making loans to school districts as provided in this section.
+
+If the minimum amount which would otherwise be necessary for a school district to levy in any
+year to pay principal and interest on its qualified bonds, including any necessary allowances for
+estimated tax delinquencies, exceeds 13 mills on each dollar of its assessed valuation as finally
+equalized, or such lower millage as the legislature may prescribe, then the school district may
+elect to borrow all or any part of the excess from the state. In that event the state shall lend the
+excess amount to the school district for the payment of principal and interest. If for any reason
+any school district will be or is unable to pay the principal and interest on its qualified bonds
+when due, then the school district shall borrow and the state shall lend to it an amount sufficient
+to enable the school district to make the payment.
+
+The term "qualified bonds" means general obligation bonds of school districts issued for capital
+expenditures, including refunding bonds, issued prior to May 4, 1955, or issued thereafter and
+qualified as provided by law pursuant to Section 27 or Section 28 of Article X of the Constitution
+of 1908 or pursuant to this section.
+
+After a school district has received loans from the state, each year thereafter it shall levy for debt
+service, exclusive of levies for nonqualified bonds, not less than 13 mills or such  lower millage
+as the legislature may prescribe, until the amount loaned has been repaid, and any tax collections
+therefrom in any year over and above the minimum requirements for principal and interest on
+qualified bonds shall be used toward the repayment of state loans. In any year when such levy
+would produce an amount in excess of the requirements and the amount due to the state, the levy
+may be reduced by the amount of the excess.
+
+Subject to the foregoing provisions, the legislature shall have the power to prescribe and to limit
+the procedure, terms and conditions for the qualification of bonds, for obtaining and making state
+loans, and for the repayment of loans.
+
+The power to tax for the payment of principal and interest on bonds hereafter issued which are
+the general obligations of any school district, including refunding bonds, and for repayment of
+any state loans made to school districts, shall be without limitation as to rate or amount.
+
+All rights acquired under Sections 27 and 28 of Article X of the Constitution of 1908, by holders
+of bonds heretofore issued, and all obligations assumed by the state or any school district under
+these sections, shall remain unimpaired.
+
+*** SEND ***
+*** SSTART 017.0 009.0 0 MI 1963 ***
+
+Sec. 17. No money shall be paid out of the state treasury except in pursuance of appropriations
+made by law.
+
+*** SEND ***
+*** SSTART 018.0 009.0 0 MI 1963 ***
+
+Sec. 18. The credit of the state shall not be granted to, nor in aid of any person, association or
+corporation, public or private, except as authorized in this constitution.
+
+This section shall not be construed to prohibit the investment of public funds until needed for
+current requirements or the investment of funds accumulated to provide retirement or pension
+benefits for public officials and employees, as provided by law.
+
+*** SEND ***
+*** SSTART 019.0 009.0 0 MI 1963 ***
+
+Sec. 19. The state shall not subscribe to, nor be interested in the stock of any company,
+association or corporation, except that funds accumulated to provide retirement or pension
+benefits for public officials and employees may be invested as provided by law; and endowment
+funds created for charitable or educational purposes may be invested as provided by law
+governing the investment of funds held in trust by trustees.
+
+*** SEND ***
+*** SSTART 020.0 009.0 0 MI 1963 ***
+
+Sec. 20. No state money shall be deposited in banks other than those organized under the national
+or state banking laws. No state money shall be deposited in any bank in excess of 50 percent of
+the capital and surplus of such bank. Any bank receiving deposits of state money shall show the
+amount of state money so deposited as a separate item in all published statements.
+
+*** SEND ***
+*** SSTART 021.0 009.0 0 MI 1963 ***
+
+Sec. 21. The legislature shall provide by law for the annual accounting for all public moneys,
+state and local, and may provide by law for interim accounting.
+
+The legislature shall provide by law for the maintenance of uniform accounting systems by units
+of local government and the auditing of county accounts by competent state authority and other
+units of government as provided by law.
+
+*** SEND ***
+*** SSTART 022.0 009.0 0 MI 1963 ***
+
+Sec. 22. Procedures for the examination and adjustment of claims against the state shall be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 023.0 009.0 0 MI 1963 ***
+
+Sec. 23. All financial records, accountings, audit reports and other reports of public moneys shall
+be public records and open to inspection. A statement of all revenues and expenditures of public
+moneys shall be published and distributed annually, as provided by law.
+
+*** SEND ***
+*** SSTART 024.0 009.0 0 MI 1963 ***
+
+Sec. 24. The accrued financial benefits of each pension plan and retirement system of the state
+and its political subdivisions shall be a contractual obligation thereof which shall not be
+diminished or impaired thereby.
+
+Financial benefits arising on account of service rendered in each fiscal year shall be funded
+during that year and such funding shall not be used for financing unfunded accrued liabilities.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 MI 1963 ***
+
+ARTICLE X
+Property
+
+*** SSTART 001.0 010.0 0 MI 1963 ***
+
+Sec. 1. The disabilities of coverture as to property are abolished. The real and personal estate of
+every woman acquired before marriage and all real and personal property to which she may
+afterwards become entitled shall be and remain the estate and property of such woman, and shall
+not be liable for the debts, obligations or engagements of her husband, and may be dealt with and
+disposed of by her as if she were unmarried. Dower may be relinquished or conveyed as provided
+by law.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 MI 1963 *** 
+
+Sec. 2. Private property shall not be taken for public use without just compensation therefor
+being first made or secured in a manner prescribed by law. Compensation shall be determined in
+proceedings in a court of record.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 MI 1963 ***
+
+Sec. 3. A homestead in the amount of not less than $3,500 and personal property of every
+resident of this state in the amount of not less than $750, as defined by law, shall be exempt from
+forced sale on execution or other process of any court. Such exemptions shall not extend to any
+lien thereon excluded from exemption by law.
+
+*** SEND ***
+*** SSTART 004.0 010.0 0 MI 1963 ***
+
+Sec. 4. Procedures relating to escheats and to the custody and disposition of escheated property
+shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 005.0 010.0 0 MI 1963 ***
+
+Sec. 5. The legislature shall have general supervisory jurisdiction over all state owned lands
+useful for forest preserves, game areas and recreational purposes; shall require annual reports as
+to such lands from all departments having supervision or control thereof; and shall by general
+law provide for the sale, lease or other disposition of such lands.
+
+The legislature by an act adopted by two-thirds of the members elected to and serving in each
+house may designate any part of such lands as a state land reserve. No lands in the state land
+reserve may be removed from the reserve, sold, leased or otherwise disposed of except by an act
+of the legislature.
+*** SEND ***
+*** SSTART 006.0 010.0 0 MI 1963 ***
+
+Sec. 6. Aliens who are residents of this state shall enjoy the same rights and privileges in
+property as citizens of this state.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 MI 1963 ***
+ARTICLE XI
+Public Officers and Employment
+
+*** SSTART 001.0 011.0 0 MI 1963 ***
+
+Sec. 1.  All officers, legislative, executive and judicial, before entering upon the duties of their
+respective offices, shall take and subscribe the following oath or affirmation: I do solemnly swear
+(or affirm) that I will support the Constitution of the United States and the constitution of this
+state, and that I will faithfully discharge the duties of the office of --------------------------------
+according to the best of my ability, No other oath, affirmation, or any religious test shall be
+required as a qualification for any office or public trust.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 MI 1963 ***
+
+Sec. 2. The terms of office of elective state officers, members of the legislature and justices and
+judges of courts of record shall begin at twelve o'clock noon on the first day of January next
+succeeding their election, except as otherwise provided in this constitution. The terms of office of
+county officers shall begin on the first day of January next succeeding their election, except as
+otherwise provided by law.
+
+*** SEND ***
+*** SSTART 003.0 011.0 0 MI 1963 ***
+
+Sec. 3. Neither the legislature nor any political subdivision of this state shall grant or authorize
+extra compensation to any public officer, agent or contractor after the service has been rendered
+or the contract entered into.
+
+*** SEND ***
+*** SSTART 004.0 011.0 0 MI 1963 ***
+
+Sec. 4. No person having custody or control of public moneys shall be a member of the
+legislature, or be eligible to any office of trust or profit under this state, until he shall have made
+an accounting, as provided by law, of all sums for which he may be liable.
+
+*** SEND ***
+*** SSTART 005.0 011.0 0 MI 1963 ***
+
+Sec. 5. The classified state civil service shall consist of all positions in the state service except
+those filled by popular election, heads of principal departments, members of boards and
+commissions, the principal executive officer of boards and commissions heading principal
+departments, employees of courts of record, employees of the legislature, employees of the state
+institutions of higher education, all persons in the armed forces of the state, eight exempt
+positions in the office of the governor, and within each principal department, when requested by
+the department head, two other exempt positions, one of which shall be policy-making. The civil
+service commission may exempt three additional positions of a policy-making nature within each
+principal department.
+
+The civil service commission shall be non-salaried and shall consist of four persons, not more
+than two of whom shall be members of the same political party, appointed by the governor for
+terms of eight years, no two of which shall expire in the same year.
+
+The administration of the commission's powers shall be vested in a state personnel director who
+shall be a member of the classified service and who shall be responsible to and selected by the
+commission after open competitive examination.
+
+The commission shall classify all positions in the classified service according to their respective
+duties and responsibilities, fix rates of compensation for all classes of positions, approve or
+disapprove disbursements for all personal services, determine by competitive examination and
+performance exclusively on the basis of merit, efficiency and fitness the qualifications of all
+candidates for positions in the classified service, make rules and regulations covering all
+personnel transactions, and regulate all conditions of employment in the classified service.
+
+No person shall be appointed to or promoted in the classified service who has not been certified
+by the commission as qualified for such appointment or promotion. No appointments,
+promotions, demotions or removals in the classified service shall be made for religious, racial or
+partisan considerations.
+
+Increases in rates of compensation authorized by the commission may be effective only at the
+start of a fiscal year and shall require prior notice to the governor, who shall transmit such
+increases to the legislature as part of his budget. The legislature may, by a majority vote of the
+members elected to and serving in each house, waive the notice and permit increases in rates of
+compensation to be effective at a time other than the start of a fiscal year. Within 60 calendar
+days following such transmission, the legislature may, by a two-thirds vote of the members
+elected to and serving in each house, reject or reduce increases in rates of compensation
+authorized by the commission. Any reduction ordered by the legislature shall apply uniformly to
+all classes of employees affected by the increases and shall not adjust pay differentials already
+established by the civil service commission. The legislature may not reduce rates of
+compensation below those in effect at the time of the transmission of increases authorized by the
+commission.
+
+The appointing authorities may create or abolish positions for reasons of administrative
+efficiency without the approval of the commission. Positions shall not be created nor abolished
+except for reasons of administrative efficiency. Any employee considering himself aggrieved by
+the abolition or creation of a position shall have a right of appeal to the commission through
+established grievance procedures.
+
+The civil service commission shall recommend to the governor and to the legislature rates of
+compensation for all appointed positions within the executive department not a part of the
+classified service.
+
+To enable the commission to exercise its powers, the legislature shall appropriate to the
+commission for the ensuing fiscal year a sum not less than one percent of the aggregate payroll of
+the classified service for the preceding fiscal year, as certified by the commission. Within six
+months after the conclusion of each fiscal year the commission shall return to the state treasury
+all moneys unexpended for that fiscal year.
+
+The commission shall furnish reports of expenditures, at least annually, to the governor and the
+legislature and shall be subject to annual audit as provided by law.
+
+No payment for personal services shall be made or authorized until the provisions of this
+constitution pertaining to civil service have been complied with in every particular. Violation of
+any of the provisions hereof may be restrained or observance compelled by injunctive or
+mandamus proceedings brought by any citizen of the state.
+
+*** SEND ***
+*** SSTART 006.0 011.0 0 MI 1963 *** 
+
+Sec. 6. By ordinance or resolution of its governing body which shall not take effect until
+approved by a majority of the electors voting thereon, unless otherwise provided by charter, each
+county, township, city, village, school district and other governmental unit or authority may
+establish, modify or discontinue a merit system for its employees other than teachers under
+contract or tenure. The state civil service commission may on request furnish technical services
+to any such unit on a reimbursable basis.
+
+*** SEND ***
+*** SSTART 007.0 011.0 0 MI 1963 ***
+
+Sec. 7. The house of representatives shall have the sole power of impeaching civil officers for
+corrupt conduct in office or for crimes or misdemeanors, but a majority of the members elected
+thereto and serving therein shall be necessary to direct an impeachment.
+
+When an impeachment is directed, the house of representatives shall elect three of its members to
+prosecute the impeachment.
+
+Every impeachment shall be tried by the senate immediately after the final adjournment of the
+legislature. The senators shall take an oath or affirmation truly and impartially to try and
+determine the impeachment according to the evidence. When the governor or lieutenant governor
+is tried, the chief justice of the supreme court shall preside.
+
+No person shall be convicted without the concurrence of two-thirds of the senators elected and
+serving. Judgment in case of conviction shall not extend further than removal from office, but the
+person convicted shall be liable to punishment according to law.
+
+No judicial officer shall exercise any of the functions of his office after an impeachment is
+directed until he is acquitted.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 MI 1963 ***
+ARTICLE XII
+Amendment and Revision
+
+*** SSTART 001.0 012.0 0 MI 1963 ***
+
+Sec. 1. Amendments to this constitution may be proposed in the senate or house of
+representatives. Proposed amendments agreed to by two-thirds of the members elected to and
+serving in each house on a vote with the names and vote of those voting entered in the respective
+journals shall be submitted, not less than 60 days thereafter, to the electors at the next general
+election or special election as the legislature shall direct. If a majority of electors voting on a
+proposed amendment approve the same, it shall become part of the constitution and shall
+abrogate or amend existing provisions of the constitution at the end of 45 days after the date of
+the election at which it was approved.
+
+*** SEND ***
+*** SSTART 002.0 012.0 0 MI 1963 ***
+
+Sec. 2. Amendments may be proposed to this constitution by petition of the registered electors of
+this state. Every petition shall include the full text of the proposed amendment, and be signed by
+registered electors of the state equal in number to at least 10 percent of the total vote cast for all
+candidates for governor at the last preceding general election at which a governor was elected.
+Such petitions shall be filed with the person authorized by law to receive the same at least 120
+days before the election at which the proposed amendment is to be voted upon. Any such petition
+shall be in the form, and shall be signed and circulated in such manner, as prescribed by law. The
+person authorized by law to receive such petition shall upon its receipt determine, as provided by
+law, the validity and sufficiency of the signatures on the petition, and make an official
+announcement thereof at least 60 days prior to the election at which the proposed amendment is
+to be voted upon.
+
+Any amendment proposed by such petition shall be submitted, not less than 120 days after it was
+filed, to the electors at the next general election. Such proposed amendment, existing provisions
+of the constitution which would be altered or abrogated thereby, and the question as it shall
+appear on the ballot shall be published in full as provided by law. Copies of such publication
+shall be posted in each polling place and furnished to news media as provided by law.
+
+The ballot to be used in such election shall contain a statement of the purpose of the proposed
+amendment, expressed in not more than 100 words, exclusive of caption. Such statement of
+purpose and caption shall be prepared by the person authorized by law, and shall consist of a true
+and impartial statement of the purpose of the amendment in such language as shall create no
+prejudice for or against the proposed amendment.
+
+If the proposed amendment is approved by a majority of the electors voting on the question, it
+shall become part of the constitution, and shall abrogate or amend existing provisions of the
+constitution at the end of 45 days after the date of the election at which it was approved. If two or
+more amendments approved by the electors at the same election conflict, that amendment
+receiving the highest affirmative vote shall prevail.
+
+*** SEND ***
+*** SSTART 003.0 012.0 0 MI 1963 ***
+
+Sec. 3. At the general election to be held in the year 1978, and in each 16th year thereafter and at
+such times as may be provided by law, the question of a general revision of the constitution shall
+be submitted to the electors of the state. If a majority of the electors voting on the question decide
+in favor of a convention for such purpose, at an election to be held not later than six months after
+the proposal was certified as approved, the electors of each representative district as then
+organized shall elect one delegate and the electors of each senatorial district as then organized
+shall elect one delegate at a partisan election. The delegates so elected shall convene at the seat of
+government on the first Tuesday in October next succeeding such election or at an earlier date if
+provided by law.
+
+The convention shall choose its own officers, determine the rules of its proceedings and judge the
+qualifications, elections and returns of its members. To fill a vacancy in the office of any
+delegate, the governor shall appoint a qualified resident of the same district who shall be a
+member of the same party as the delegate vacating the office. The convention shall have power to
+appoint such officers, employees and assistants as it deems necessary and to fix their
+compensation; to provide for the printing and distribution of its documents, journals and
+proceedings; to explain and disseminate information about the proposed constitution and to
+complete the business of
+the convention in an orderly manner. Each delegate shall receive for his services compensation
+provided by law.
+
+No proposed constitution or amendment adopted by such convention shall be submitted to the
+electors for approval as hereinafter provided unless by the assent of a majority of all the delegates
+elected to and serving in the convention, with the names and vote of those voting entered in the
+journal. Any proposed constitution or amendments adopted by such convention shall be
+submitted to the qualified electors in the manner and at the time provided by such convention not
+less than 90 days after final adjournment of the convention. Upon the approval of such
+constitution or amendments by a majority of the qualified electors voting thereon the constitution
+or amendments shall take effect as provided by the convention.
+
+*** SEND ***
+*** AEND *** 
+*** ASTART 9003.0 MI 1963 ***
+Schedule and Temporary Provisions
+
+To insure the orderly transition from the constitution of 1908 to this constitution the following
+schedule and temporary provisions are set forth to be effective for such period as are thereby
+required.
+
+*** SSTART 001.0 9003.0 0 MI 1963 ***
+
+Sec. 1. The attorney general shall recommend to. the legislature as soon as practicable such
+changes as may be necessary to adapt existing laws to this constitution.
+
+*** SEND ***
+*** SSTART 002.0 9003.0 0 MI 1963 ***
+
+Sec. 2. All writs, actions, suits, proceedings, civil or criminal liabilities, prosecutions, judgments,
+sentences, orders, decrees, appeals, causes of action, contracts, claims, demands, titles and rights
+existing on the effective date of this constitution shall continue unaffected except as modified in
+accordance with the provisions of this constitution.
+
+*** SEND ***
+*** SSTART 003.0 9003.0 0 MI 1963 ***
+
+Sec. 3. Except as otherwise provided in this constitution, all officers filling any office by election
+or appointment shall continue to exercise their powers and duties until their offices shall have
+been abolished or their successors selected and qualified in accordance with this  constitution or
+the laws enacted pursuant thereto.
+
+No provision of this constitution, or of law or of executive order authorized by this constitution
+shall shorten the term of any person elected to state office at a statewide election on or prior to
+the date on which this constitution is submitted to a vote. In the event the duties of any such
+officers shall not have been abolished or incorporated into one or more of the principal
+departments at the expiration of his term, such officer shall continue to serve until his duties are
+so incorporated or abolished.
+
+*** SEND ***
+*** SSTART 004.0 9003.0 0 MI 1963 ***
+
+Sec. 4.  All officers elected at the same election that this constitution is submitted to the people
+for adoption shall take office and complete the term to which they were elected under the 1908
+constitution and existing laws and continue to serve until their successors are elected and
+qualified pursuant to this constitution or law.
+
+*** SEND ***
+*** SSTART 005.0 9003.0 0 MI 1963 ***
+
+Sec. 5. Notwithstanding any other provision in this constitution, the governor, the lieutenant
+governor, the secretary of state, the attorney general and state senators shall be elected at the
+general election in 1964 to serve for two-year terms beginning on the first day of January next
+succeeding their election. The first election of such officers for four-year terms under this
+constitution shall be held at the general election in 1966.
+
+*** SEND ***
+*** SSTART 006.0 9003.0 0 MI 1963 ***
+Sec. 6. Notwithstanding the provisions of this constitution that the supreme court shall consist of
+seven justices it shall consist of eight justices until the time that a vacancy occurs as a result of
+death, retirement or resignation of a justice. The first such vacancy shall not be filled.
+
+*** SEND ***
+*** SSTART 007.0 9003.0 0 MI 1963 ***
+
+Sec. 7. Any judge of probate serving on the effective date of this constitution may serve the
+remainder of the term and be eligible to succeed himself for election regardless of other
+provisions in this constitution requiring him to be licensed to practice law in this state.
+
+*** SEND ***
+*** SSTART 008.0 9003.0 0 MI 1963 ***
+
+Sec. 8. The provisions of Article VI providing that terms of judicial offices shall not all expire at
+the same time, shall be implemented by law providing that at the next election for such offices
+judges shall be elected for terms of varying length, none of which shall be shorter than the
+regular term provided for the office.
+
+*** SEND ***
+*** SSTART 009.0 9003.0 0 MI 1963 ***
+
+Sec. 9. The members of the state board of education provided for in Section 3 of Article VIII of
+this constitution shall first be elected at the first general election after the effective date of this
+constitution for the following terms: two shall be elected for two years, two for four years, two
+for six years, and two for eight years as prescribed by law.
+
+The state board of education provided for in the constitution of 1908 is abolished at twelve
+o'clock noon January 1 of the year following the first general election under this constitution and
+the terms of members thereof shall then expire.
+
+*** SEND ***
+*** SSTART 010.0 9003.0 0 MI 1963 ***
+
+Sec. 10. The provisions of this constitution providing for members of boards of control of
+institutions of higher education and the state board of public community and junior colleges shall
+be implemented by law. The law may provide that the term of each member in office on the date
+of the vote on this constitution may be extended, and may further provide that the initial terms of
+office of members may be less than eight years.
+
+*** SEND ***
+*** SSTART 011.0 9003.0 0 MI 1963 ***
+
+Sec. 11. The provisions of this constitution increasing the number of members of the Board of
+Trustees of Michigan State University and of the Board of Governors of Wayne State University
+to eight, and of their term of office to eight years, shall be implemented by law. The law may
+provide that the term of each member in office on the date of the vote on this constitution may be
+extended one year, and may further provide that the initial terms of office of the additional
+members may be less than eight years.
+
+*** SEND ***
+*** SSTART 012.0 9003.0 0 MI 1963 ***
+
+Sec. 12. The initial allocation of departments by law pursuant to Section 2 of Article V of this
+constitution, shall be completed within two years after the effective date of this constitution. If
+such allocation shall not have been completed within such period, the governor, within one year
+thereafter, by executive order, shall make the initial allocation.
+
+*** SEND ***
+*** SSTART 013.0 9003.0 0 MI 1963 ***
+
+Sec. 13. Contractual obligations of the state incurred pursuant to the constitution of 1908 shall
+continue to be obligations of the state.
+
+For the retirement of notes and bonds issued under Section 26 of Article X of the 1908
+constitution, there is hereby appropriated from the general fund each year during their life a sum
+equal to the amount of principal and interest payments due and payable in each year.
+
+*** SEND ***
+*** SSTART 014.0 9003.0 0 MI 1963 ***
+
+Sec. 14. The legislature by a vote of two-thirds of the members elected to and serving in each
+house may provide that the state may borrow money and may pledge its full faith and credit for
+refunding any bonds issued by the Mackinac Bridge Authority and at the time of refunding the
+Mackinac Bridge Authority shall be abolished and the operation of the bridge shall be assumed
+by the state highway department. The legislature may implement this section by law.
+
+*** SEND ***
+*** SSTART 015.0 9003.0 0 MI 1963 ***
+
+Sec. 15. This constitution shall be submitted to the people for their adoption or rejection at the
+general election to be held on the first Monday in April, 1963. It shall be the duty of the secretary
+of state forthwith to give notice of such submission to all other officers required to give or
+publish any notice in regard to a general election. He shall give notice that this constitution will
+be duly submitted to the electors at such election. The notice shall be given in the manner
+required for the election of governor.
+
+*** SEND ***
+*** SSTART 016.0 9003.0 0 MI 1963 ***
+
+Sec. 16. Every registered elector may vote on the adoption of the constitution. The board of
+election commissioners in each county shall cause to be printed on a ballot separate from the
+ballot containing the names of the nominees for office, the words: Shall the revised constitution
+be adopted? ( )Yes. ( ) No. All votes cast at the election  shall be taken, counted, canvassed and
+returned as provided by law for the election of state officers. If the revised constitution so
+submitted receives more votes in its favor than were cast against it, it shall be the supreme law of
+the state on and after the first day of January of the year following its adoption.
+
+Adopted by the Constitutional Convention of nineteen hundred sixty-one at Constitution Hall in
+Lansing on the first day of August, nineteen hundred sixty-two. 
+
+Stephen S. Nisbet, President
+
+Fred I Chase, Secretary
+
+*** SEND ***
+*** AEND ***
+*** CEND ***

@@ -1,0 +1,1305 @@
+Arkansas was done by Doug Campbell
+
+It is ready to go.
+
+JW 04/05/2005
+
+
+
+*** CSTART AR 03/04/1864 02/11/1868 ***
+
+*** ASTART 9001.0 AR 1864 ***
+
+CONSTITUTION OF ARKANSAS-1864 
+
+We, the people of the State of Arkansas, having the right to establish for ourselves a Constitution
+in conformity with the Constitution of the United States of America, recognizing the legitimate
+consequences of the existing rebellion, do hereby declare the entire action of the late convention
+of the State of Arkansas, which assembled in the city of Little Rock, on the fourth day of March,
+one thousand eight hundred and sixty-one, was, and is, null and void, and is not now, and never
+has been binding and obligatory upon the people.
+That all the action of the State of Arkansas under the authority of said convention, of its
+ordinances, or of its constitution, whether legislative, executive, judicial or military (except as
+hereinafter provided,) was, and is hereby declared null and void; Provided, That this ordinance
+shall not be so construed as to affect the rights of individuals, or change county boundaries, or
+county seats, or to make invalid the acts of justices of the peace, or other officers in their
+authority to administer oaths, or take and certify the acknowledgment of deeds of conveyance or
+other instruments of writing, or in the solemnization of marriages: And provided further, That no
+debt or liability of the State of Arkansas incurred by the action of said convention, or of the
+legislature or any department of the government under the authority of either, shall ever be
+recognized as obligatory.
+And we, the people of the State of Arkansas, in order to establish therein a State government,
+loyal to the Government of the United States-to secure to ourselves and our posterity, the
+protection and blessings of the Federal Constitution, and the enjoyment of all the rights of liberty
+and the free pursuit of happiness, do agree to continue ourselves as a free and independent State,
+by the name and style of "the State of Arkansas," and do ordain and establish the following
+Constitution for the government thereof:
+
+*** AEND ***
+*** ASTART 001.0 AR 1864 ***
+
+ARTICLE I
+
+BOUNDARIES OF THE STATE
+We do declare and establish, ratify and confirm the following as the permanent boundaries of the
+State of Arkansas, that is to say: Beginning in the middle of the Mississippi River, on the parallel
+of thirty-six degrees north latitude, to the Saint Francis River; thence up the middle of the main
+channel of said river, to the parallel of thirty-six degrees, thirty minutes, north, from the west to
+the southwest corner of the State of Missouri; and from thence to be bounded on the west to the
+north bank of Red River, as by acts of Congress of the United States, and the treaties heretofore
+defining the western limits of the Territory of Arkansas; and to be bounded on the south side of
+Red River by the boundary-line of the State of Texas, to the northwest corner of the State of
+Louisiana; thence east with the Louisiana State line, to the middle of the main channel of the
+Mississippi River; thence up the middle of the main channel of said river, to the thirty-sixth
+degree of north latitude, the point of beginning-these being the boundaries of the State of
+Arkansas as defined by the constitution thereof, adopted by a convention of the representatives of
+the people of said State, on the thirtieth day of January, anno Domini, eighteen hundred and
+thirty-six, being the same boundaries which limited the area of the Territory of Arkansas as it
+existed prior to that time.
+
+*** AEND ***
+*** ASTART 002.0 AR 1864 ***
+
+
+ARTICLE II
+
+DECLARATION OF RIGHTS
+
+That the great and essential principles of liberty and free government may be unalterably
+established, we declare:
+
+*** SSTART 001.0 002.0 0 AR 1864 ***
+
+SECTION 1. That all men, when they form a social compact, are equal, and have certain inherent
+and indefeasible rights, amongst which are those of enjoying and defending life and liberty; of
+acquiring, possessing and protecting property and reputation, and of pursuing their own
+happiness.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 AR 1864 ***
+
+SEC. 2. That all power is inherent in the people; and all free governments are founded on their
+authority, and instituted for their peace and happiness. For the advancement of these ends, they
+have, at all times, an unqualified right to alter, reform, or abolish their government in such
+manner as they may think proper.
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 AR 1864 ***
+
+SEC. 3. That all men have a natural and indefeasible right to worship Almighty God according to
+the dictates of their own consciences; and no man can, of right, be compelled to attend, erect or
+support any place of worship, or to maintain any ministry against his consent; that no human
+authority can, in any case whatever, interfere with the rights of conscience; and that no
+preference shall ever be given to any religious establishment or mode of worship.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 AR 1864 ***
+
+SEC. 4. That the civil rights, privileges or capacities of any citizen shall in no wise be diminished
+or enlarged on account of his religion.
+
+*** SEND ***
+*** SSTART 005.0 002.0 0 AR 1864 ***
+
+SEC. 5. That all elections shall be free and equal.
+
+*** SEND ***
+*** SSTART 006.0 002.0 0 AR 1864 ***
+
+SEC. 6. That the right of trial by jury shall remain inviolate.
+
+*** SEND ***
+*** SSTART 007.0 002.0 0 AR 1864 ***
+
+SEC. 7. That printing-presses shall be free to ever person; and no law shall ever be made to
+restrain the rights thereof. The free communication of thoughts and opinions is one of the
+invaluable rights of man; and every citizen may freely speak, write and print, on any subject-
+being responsible for the abuse of that liberty.
+
+*** SEND ***
+*** SSTART 008.0 002.0 0 AR 1864 ***
+
+SEC. 8. In prosecutions for the publication of papers investigating the official conduct of officers
+or men in public capacity, or where the matter published is proper for public information, the
+truth thereof, may be given in evidence, and in all indictments for libels, the jury shall have the
+right to determine the law and the facts.
+
+*** SEND ***
+*** SSTART 009.0 002.0 0 AR 1864 ***
+
+SEC. 9. That the people shall be secure in their persons, houses, papers and possessions, from
+unreasonable search and seizures; and that general warrants, whereby any officer may be
+commanded to search suspected places without evidence of the fact committed, or to seize any
+person or persons not named, whose offences are not particularly described and supported by
+evidence, are dangerous to liberty, and shall not be granted.
+
+*** SEND ***
+*** SSTART 010.0 002.0 0 AR 1864 ***
+
+SEC. 10. That no man shall be taken or imprisoned, or disseized of his freehold, liberties or
+privileges, or outlawed or exiled, or in any manner destroyed, or deprived of his life, liberty, or
+property, but by the judgment of his peers or the law of the land.
+
+*** SEND ***
+*** SSTART 011.0 002.0 0 AR 1864 ***
+
+SEC. 11. That in all criminal prosecutions, the accused hath a right to be heard by himself and
+counsel; to demand the nature and cause of the accusation against him, and to have a copy
+thereof; to meet the witnesses face to face; to have compulsory process for obtaining witnesses in
+his favor; and in prosecutions by indictment or presentment, a speedy public trial by an impartial
+jury of the county or district in which the crime may have been committed; and shall not be
+compelled to give evidence against himself.
+
+*** SEND ***
+*** SSTART 012.0 002.0 0 AR 1864 ***
+
+SEC. 12. That no person shall for the same offence, be twice put in jeopardy of life or limb.
+
+*** SEND ***
+*** SSTART 013.0 002.0 0 AR 1864 ***
+
+SEC. 13. That all penalties shall be reasonable, and proportioned to the nature of the offence.
+
+*** SEND ***
+*** SSTART 014.0 002.0 0 AR 1864 ***
+
+SEC. 14. That no man shall be put to answer any criminal charge, but by presentment, indictment
+or impeachment, except as hereinafter provided.
+
+*** SEND ***
+*** SSTART 015.0 002.0 0 AR 1864 ***
+
+SEC. 15. That no conviction shall work corruption of blood or forfeiture of estate, under any law
+of this State.
+
+*** SEND ***
+*** SSTART 016.0 002.0 0 AR 1864 ***
+
+SEC. 16. That all prisoners shall be bailable by sufficient securities, unless in capital offences,
+where the proof is evident or the presumption great. And the privilege of the writ of habeas
+corpus shall not be suspended, unless where in case of rebellion or invasion the public safety
+may require it.
+
+*** SEND ***
+*** SSTART 017.0 002.0 0 AR 1864 ***
+
+SEC. 17. That excessive bail shall in no case be required, nor excessive fines imposed.
+
+*** SEND ***
+*** SSTART 018.0 002.0 0 AR 1864 ***
+
+SEC. 18. That no ex post facto law, or law impairing the obligations of contracts shall ever be
+made.
+
+*** SEND ***
+*** SSTART 019.0 002.0 0 AR 1864 ***
+
+SEC. 19. That perpetuities and monopolies are contrary to the genius of a republic, and shall not
+be allowed; nor shall any hereditary emoluments, privileges or honors, ever be granted or
+conferred in this State.
+
+*** SEND ***
+*** SSTART 020.0 002.0 0 AR 1864 ***
+
+SEC. 20. That the citizens have a right, in a peaceable manner, to assemble together for their
+common good to instruct their representatives, and to apply to those invested with the power of
+the government for redress of grievances or other proper purposes, by address or remonstrance.
+
+*** SEND ***
+*** SSTART 021.0 002.0 0 AR 1864 ***
+
+SEC. 21. That the free white men of this State shall have a right to keep and to bear arms for
+their common defence.
+
+*** SEND ***
+*** SSTART 022.0 002.0 0 AR 1864 ***
+
+SEC. 22. That no soldier shall, in time of peace, be quartered in any house without the consent of
+the owner, nor in time of war, but in a manner prescribed by law.
+
+*** SEND ***
+*** SSTART 023.0 002.0 0 AR 1864 ***
+
+SEC. 23. The military shall be kept in strict subordination to the civil power.
+
+*** SEND ***
+*** SSTART 024.0 002.0 0 AR 1864 ***
+
+SEC. 24. This enumeration of rights shall not be construed to deny or disparage others retained
+by the people, and to guard against any encroachments on the rights herein retained, or any
+transgression of any of the higher powers herein delegated, we declare that everything in this
+article is excepted out of the general powers of the government, and shall forever remain
+inviolate; and that all laws contrary thereto, or to the other provisions herein contained, shall be
+void.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 AR 1864 ***
+
+ARTICLE III
+OF DEPARTMENTS
+
+*** SSTART 001.0 003.0 0 AR 1864 ***
+
+SECTION 1. The power of the government of the State of Arkansas shall be divided into three
+distinct departments, each of them to be confided to a separate body of magistracy, to wit: Those
+which are legislative to one; those which are executive to another; and those which are judicial to
+another.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 AR 1864 ***
+
+SEC. 2. No person or collection of persons being of one of those departments, shall exercise any
+power belonging to either of the others, except in the instances hereinafter expressly directed or
+permitted.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 AR 1864 ***
+
+ARTICLE IV
+
+LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.0 004.0 0 AR 1864 ***
+
+SECTION 1. The legislative power of this State shall be invested in a general assembly, which
+shall consist of a senate and house of representatives.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 AR 1864 ***
+
+QUALIFICATION OF ELECTORS
+
+SEC. 2. Every free white male citizen of the United States who shall have attained the age of
+twenty-one years, and who shall have been a citizen of the State six months next preceding the
+election, shall be deemed a qualified elector, and be entitled to vote in the county or district
+where he actually resides, or in case of volunteer soldiers, within their several military
+departments or districts, for each and every office made elective under the State or under the
+United States: Provided, That no soldier, seaman or marine in the Regular Army or Navy of the
+United States shall be entitled to vote at any election within the State in time of peace: And
+provided further, That any one entitled to vote in this State in the county where he resides, may
+vote for the adoption or rejection of this constitution in any county in this State.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 AR 1864 ***
+
+
+TIME OF CHOOSING REPRESENTATIVES
+
+SEC. 3. The house of representatives shall consist of members to be chosen every second year by
+the qualified electors of the several counties.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 AR 1864 ***
+
+QUALIFICATIONS OF A REPRESENTATIVE
+
+SEC. 4. No person shall be a member of the house of representatives who shall not have attained
+the age of twenty-five years; who shall not be a free male white citizen of the United States; who
+shall not have been an inhabitant of this State one year; and who shall not, at the time of his
+election, have an actual residence in the county he may be chosen to represent.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 AR 1864 ***
+
+
+QUALIFICATIONS OF A SENATOR
+
+SEC. 5. The senate shall consist of members to be chosen every four years, by the qualified
+electors of the several districts.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 AR 1864 ***
+
+SEC. 6. No person shall be a senator who shall not have attained the age of twenty-five years;
+who shall not be a free, white male citizen of the United States; who shall not have been an
+inhabitant of this State one year; and who shall not, at the time of his election, have an actual
+residence in the district he may be chosen to represent.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 AR 1864 ***
+
+SEC. 7. The general assembly shall meet every two years, on the first Monday in November, at
+the seat of government, until changed by law, except that the general assembly for the year 1864,
+shall meet on the second Monday in April of that year.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 AR 1864 ***
+
+MODE OF ELECTION AND TIME AND PRIVILEGES OF ELECTORS
+
+SEC. 8. All general elections shall be viva voce until otherwise directed by law, and commence
+and beholden every two years, on the first Monday in August, until altered by law, (except that)
+the first election under this constitution shall be held on the second Monday in March, 1864, and
+the electors in all cases, except in cases of treason, felony and breach of the peace, shall be
+privileged from arrest during their attendance on elections and in going to and returning
+therefrom.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 AR 1864 ***
+
+
+DUTY OF GOVERNOR
+SEC. 9. The governor shall issue writs of election to fill such vacancies as shall occur in either
+house of the general assembly.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 AR 1864 ***
+
+SEC. 10. No judge of the supreme circuit, or inferior courts of law, or equity, Secretary of State,
+Attorney-General of the State, District Attorneys, State Auditor or Treasurer, register or recorder,
+clerk of any court of record, sheriff, coroner or member of Congress, nor any other person
+holding any lucrative office under the United States or this State, (militia officers, justices of the
+peace, postmasters and judges of the county courts excepted,) shall be eligible to a seat in either
+House of the General Assembly.
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 AR 1864 ***
+
+SEC. 11. No person who now is, or shall be hereafter, a collector or holder of public money, nor
+any assistant or deputy of such holder or collector of public money, shall be eligible to a seat in
+either House of the General Assembly, nor to any office of trust or profit; until he shall have
+accounted for and paid over all sums for which he may have been liable.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 AR 1864 ***
+
+SEC. 12. The General Assembly shall exclude from every office of trust or profit, and from the
+right of suffrage within this State, all persons convicted of bribery, or perjury, or other infamous
+crime.
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 AR 1864 ***
+
+SEC. 13. Every person who shall have been convicted, either directly or indirectly, of giving or
+offering any bribe to procure his election or appointment, shall be disqualified from holding any
+office of trust or profit under this State; and any person who shall give or offer any bribe to
+procure the election or appointment of any person shall, on conviction thereof, be disqualified
+from being an elector, or from holding office of trust or profit under this State.
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 AR 1864 ***
+
+SEC. 14. No senator or representative shall, during the term for which he shall have been elected,
+be appointed to any civil office under this State which shall have been created, or the
+emoluments of which shall have been increased during his continuance in office, except to such
+office as shall be filled by the election of the people.
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 AR 1864 ***
+
+SEC. 15. Each House shall appoint its own officers, and shall judge of the qualifications, returns
+and elections of its own members. Two-thirds of each house shall constitute a quorum to do
+business, but a smaller number may adjourn from day to day, and compel the attendance of
+absent members, in such manner and under such penalties as each house shall provide.
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 AR 1864 ***
+
+SEC. 16. Each house may determine the rules of its proceedings, punish its own members for
+disorderly behavior, and, with the concurrence of two-thirds of the members elected, expel a
+member; but no member shall be expelled a second time for the same offence. They shall each,
+from time to time, publish a journal of their proceedings, except such parts as may require
+secrecy; and the yeas and nays upon any question shall be entered on the journal at the desire of
+any five members.
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 AR 1864 ***
+
+SEC. 17. The door of each house, when in session or in committee of the whole, shall be kept
+open, except in cases which may require secrecy; and each house may punish, by fine and
+imprisonment, any person, not a member, who shall be guilty of disrespect to the house, by any
+disorderly or contemptuous behavior in their presence during their session; but such
+imprisonment shall not extend beyond the final adjournment of that session.
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 AR 1864 ***
+
+SEC. 18. Bills may originate in either House, and be amended or rejected in the other, and every
+bill for an act shall be read three times before each house, twice at length, and in no case shall a
+bill be read more than twice on one day; and the vote upon the passage of any law shall, in all
+cases, be taken by yeas and nays, and by recording the same; and every bill having passed both
+houses, shall be signed by the president of the senate and the speaker of the house of
+representatives.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 AR 1864 ***
+
+SEC. 19. Whenever an officer, civil or military, shall be appointed by the joint or concurrent vote
+of both houses, or by the separate vote of either house of the General Assembly, the vote shall be
+taken viva voce, and entered on the journal.
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 AR 1864 ***
+
+SEC. 20. The senators and representatives shall, in all cases except treason, felony or breach of
+the peace, be privileged from arrest during the session of the General Assembly, and for fifteen
+days before the commencement and after the termination of each session; and for any speech or
+debate in either House, they shall not be questioned in any other place.
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 AR 1864 ***
+
+SEC. 21. The members of the General Assembly shall severally receive from the public treasury,
+compensation for their services, which may be increased or diminished; but no alteration of such
+compensation of members shall take effect during the session at which it is made.
+
+*** SEND ***
+*** SSTART 022.0 004.0 0 AR 1864 ***
+
+
+MANNER OF BRINGING SUITS AGAINST THE STATE
+
+SEC. 22. The general assembly shall direct by law, in what. courts, and in what manner suits may
+be commenced against the State.
+
+*** SEND ***
+*** SSTART 023.0 004.0 0 AR 1864 ***
+
+SEC. 23. The general assembly shall not have power to pass any bill of divorce, but may
+prescribe by law the manner in which such cases may be investigated in the courts of justice, and
+divorces granted.
+
+*** SEND ***
+*** SSTART 024.0 004.0 0 AR 1864 ***
+
+SEC. 24. The governor, lieutenant-governor, secretary of state, auditor, treasurer, and all judges
+of the supreme, circuit and inferior courts of law and equity, and the prosecuting attorneys for the
+State, shall be liable to impeachment for any malpractice or misdemeanor in office, but judgment
+in such cases shall not extend further than removal from office, and disqualification to hold any
+office of trust or profit under this State. The party impeached, whether convicted or acquitted,
+shall nevertheless be liable to be indicted, tried and punished according to law.
+
+*** SEND ***
+*** SSTART 025.0 004.0 0 AR 1864 ***
+
+SEC. 25. The house of representatives shall have the sole power of impeachment, and all
+impeachments shall be tried by the senate; and when sitting for that purpose, the senators shall be
+on oath or affirmation to do justice according to law and evidence. When the governor shall be
+tried, the chief justice of the supreme court shall preside, and no person shall be convicted
+without the concurrence of two-thirds of all the senators elected; and for reasonable cause which
+shall not be sufficient round for impeachment, the governor shall, on the joint address of two-
+thirds of each branch of the legislature, remove from office the judges of the supreme and
+inferior courts: Provided, The cause or causes of removal be spread on the journals, and the party
+charged be notified of the same, and heard by himself and counsel before the vote is finally taken
+and decided.
+
+*** SEND ***
+*** SSTART 026.0 004.0 0 AR 1864 ***
+
+SEC. 26. The appointment of all officers, not otherwise directed by this constitution, shall be
+made in such manner as may be prescribed by law; and all officers, both civil and military, acting
+under the authority of this State, shall, before entering on the duties of their respective offices,
+take an oath or affirmation to support the Constitution of the United States and of this State, and
+to demean themselves faithfully in office.
+
+*** SEND ***
+*** SSTART 027.0 004.0 0 AR 1864 ***
+
+SEC. 27. No county now established by law shall ever be reduced by the establishment of any
+new county or counties, to less than six hundred square miles, nor to a less population than its
+ratio of representation in the house of representatives; nor shall any county be hereafter
+established which shall contain less than six hundred square miles, or a less population than
+would entitle each county to a member in the house of representatives.
+
+*** SEND ***
+*** SSTART 028.0 004.0 0 AR 1864 ***
+
+SEC. 28. The style of the laws of this State shall be-"Be it enacted by the general assembly of the
+State of Arkansas."
+
+*** SEND ***
+*** SSTART 029.0 004.0 0 AR 1864 ***
+
+SEC. 29. The State shall from time to time be divided into convenient districts, in such manner
+that the senate shall be based upon the free, white male inhabitants of the State, each senator
+representing an equal number as nearly as practicable; and the senate shall never consist of less
+than seventeen nor more than thirty-three members; and as soon as the senate shall meet after the
+first election to be held under this constitution, they shall cause the senators to be divided by lot
+into two classes, nine of the first class and eight of the second; and the seats of the first class
+shall be vacated at the end of two years from the time of their election; and the seats of the
+second class at the end of four years from the time of their election, in order that one class of the
+senators may be elected every two years.
+
+*** SEND ***
+*** SSTART 030.0 004.0 0 AR 1864 ***
+
+SEC. 30. An enumeration of the inhabitants of the State shall be taken under the direction of the
+general assembly on the first day of January, one thousand eight hundred and sixty-five, and at
+the end of every ten years thereafter; and the general assembly shall, at the first session after the
+return of every enumeration, so alter and arrange the senatorial districts, that each district shall
+contain, as nearly as practicable, an equal number of free white male inhabitants.
+
+*** SEND ***
+*** SSTART 031.0 004.0 0 AR 1864 ***
+
+SEC. 31. The ratio of representation in the senate shall be fifteen hundred free white male
+inhabitants to each senator, until the senators amount to twenty-five in number, and then they
+shall be equally apportioned upon the same basis throughout the State, in such ratio as the
+increased number of free white male inhabitants may require, without increasing the senators to a
+greater number than twenty-five, until the population of the State amounts to five hundred
+thousand souls; and when an increase of senators takes place, they shall, from time to time, be
+divided by lot, and be classed as prescribed above.
+
+*** SEND ***
+*** SSTART 032.0 004.0 0 AR 1864 ***
+
+SEC. 32. The house of representatives shall consist of not less than fifty-four, nor more than one
+hundred representatives, to be apportioned among the several counties in this State, according to
+the number of free white male inhabitants therein, taking five hundred as the ratio, until the
+number of representatives amounts to seventy-five; and when they amount to seventy-five, they
+shall not be further increased until the population of the State amounts to five hundred thousand
+souls: Provided, That each county now organized, shall, although its population may not give the
+existing ratio, always be entitled to one representative; and at the first session of the general
+assembly, after the return of every enumeration, the representation shall be equally divided and
+re-apportioned among the several counties, according to the number of free white males in each
+county, as above prescribed.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9012.0 AR 1864 ***
+
+MODE OF AMENDING THE CONSTITUTION
+
+The General Assembly may, at any time, propose such amendments to this Constitution as two-
+thirds of each house shall deem expedient, which shall be published in all the newspapers
+published in this State, three several times, at least twelve months before the next General
+Election; and if, at the first session of the General Assembly after such general election, two-
+thirds of each House shall, by yeas and nays, ratify such proposed amendments, they shall be
+valid to all intents and purposes as parts of this Constitution: Provided, That such proposed
+amendments shall be read on three several days in each House, as well when the same are
+proposed as when they are finally ratified.
+
+*** AEND ***
+*** ASTART 005.0 AR 1864 ***
+
+
+ARTICLE V
+
+ABOLISHMENT OF SLAVERY
+
+*** SSTART 001.0 005.0 0 AR 1864 ***
+
+SECTION 1. Neither slavery nor involuntary servitude shall hereafter exist in this State,
+otherwise than for the punishment of crime, whereof the party shall have been convicted by due
+process of law; nor shall any male person, arrived at the age of twenty-one years, nor female
+arrived at the age of eighteen years, be held to serve any person as a servant, under any indenture
+or contract hereafter made, unless such person shall enter into such indenture or contract while in
+a state of perfect freedom, and on condition of a bona-fide consideration received, or to be
+received for their services.
+Nor shall any indenture of any negro or mulatto hereafter made and executed out of this State, or
+if made in this State, where the term of service exceeds one year, be of the least validity, except
+those given in case of apprenticeship, which shall not be for a longer term than until the
+apprentice shall arrive at the age of twenty-one years, if a male, or the age of eighteen years, if a
+female.
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 AR 1864 ***
+
+
+ARTICLE VI
+EXECUTIVE DEPARTMENT
+
+*** SSTART 001.0 006.0 0 AR 1864 ***
+
+SECTION 1. The supreme executive power of this State shall be vested in a chief magistrate,
+who shall be styled "the Governor of Arkansas."
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 AR 1864 ***
+
+SEC. 2. The Governor shall be elected by the qualified electors, at the time, and places where
+they shall respectively vote for Representatives.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 AR 1864 ***
+
+SEC. 3. The returns of every election for Governor, except those of the election of eighteen
+hundred and sixty-four, which shall be scaled and directed, as ordered in the schedule appended
+to this Constitution, shall be sealed up and transmitted to the speaker of the House of
+Representatives, who shall, during the first week of the session, open and publish them in the
+presence of both Houses of the General assembly. The person having the highest number of votes
+shall be governor; but if two or more shall be equal and highest in votes, one of them shall be
+chosen governor by the joint vote of both houses of the general assembly, in such manner as shall
+be prescribed by law.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 AR 1864 ***
+
+SEC. 4. The governor shall hold his office for the term of four years from the time of his
+installation, and until his successor shall be duly qualified, but he shall not be eligible for more
+than eight years in any term of twelve years; he shall be at least thirty years of age, a native-born
+citizen of Arkansas, or a native-born citizen of the United States, or a resident of Arkansas ten
+years previous to the adoption of this constitution, if not a native of the United States, and shall
+have been a resident of the same at least four years next before his election.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 AR 1864 ***
+
+SEC. 5. He shall, at stated times, receive a compensation for his services, which shall not be
+increased or diminished during the term for which he shall have been elected; nor shall he
+receive, within that period, any other emolument from the United States, or any one of them, or
+from any foreign power.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 AR 1864 ***
+
+SEC. 6. He shall be commander- in-chief of the army of this State, and of the militia thereof,
+except when they shall be called into the service of the United States.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 AR 1864 ***
+
+SEC. 7. He may require any information, in writing, from the officers of the executive
+department on any subject relating to the duties of their respective offices.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 AR 1864 ***
+
+SEC. 8. He may, by proclamation, on extraordinary occasions, convene the general assembly at
+the seat of government, or at a different place, if that shall have become, since their last
+adjournment, dangerous from an enemy, or from contagious diseases. In case of disagreement
+between the two houses, with respect to the time of adjournment, he may adjourn them to such
+time as he shall think proper, not beyond the day of the next meeting of the general assembly.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 AR 1864 ***
+
+SEC. 9. He shall, from time to time, give to the general assembly information of the state of the
+government, and recommend to their consideration, such measures as he may deem expedient.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 AR 1864 ***
+
+SEC. 10. He shall take care that the laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 AR 1864 ***
+
+SEC. 11. In all criminal and penal cases, except in those of treason and impeachment, he shall
+have power to grant pardons, after conviction, and remit fines and forfeitures, under such rules
+and regulations as shall be prescribed by law. In cases of treason, he shall have power, by and
+with the advice and consent of the senate, to grant reprieves and pardons, and he may, in the
+recess of the senate, respite the sentence until the end of the next session of the general assembly. 
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 AR 1864 ***
+
+SEC. 12. There shall be a seal of this State, which shall be kept by the governor, and used by him
+officially.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 AR 1864 ***
+
+SEC. 13. All commissions shall be in the name and by the authority of the State of Arkansas, be
+sealed with the seal of this State, signed by the governor, and attested by the secretary of state.
+*** SEND ***
+
+*** SSTART 014.0 006.0 0 AR 1864 ***
+SEC. 14. There shall be elected a secretary of state by the qualified voters of the State, who shall
+continue in office during the term of four years, and until his successor in office be duly
+qualified; he shall keep a fair register of all official acts and proceedings of the governor, and
+shall, when required, lay the same, and all papers, minutes and vouchers relative thereto, before
+the general assembly, and shall perform such other duties as may be required by law. 
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 AR 1864 ***
+
+SEC. 15. Vacancies that may happen in offices, the election of which is vested in the general
+assembly, shall be filled by the governor, during the recess of the general assembly, by granting
+commissions, which shall expire at the end of the next session.
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 AR 1864 ***
+
+SEC. 16. Vacancies that may occur in offices, the election to which is vested in the people,
+within less than one year before the expiration of their term, shall be filled by the governor
+granting commissions, which shall expire at the end of the next term; but if one year or a longer
+period remains unexpired at the time of the vacancy, then, and in that case, the governor shall
+order an election to be held to fill the vacancy.
+
+*** SEND ***
+*** SSTART 017.0 006.0 0 AR 1864 ***
+
+SEC. 17. Every bill which shall have passed both houses shall be presented to the governor; if he
+approve it, he shall sign it; but if he shall not approve it, he shall return it, with his objections, to
+the house in which it shall have originated, who shall enter his objections at large upon their
+journals, and proceed to reconsider it. If, after such reconsideration, a majority of the whole
+number elected to that House shall agree to pass the bill, it shall be sent, with the objections, to
+the other House, by which, likewise, it shall be considered, and if approved by a majority of the
+whole number elected to that House, it shall be a law; but in such cases, the votes of both Houses
+shall be determined by yeas and nays, and the names of the persons voting for or against the bill,
+shall be entered on the journals of each House respectively. If any bill shall not be returned by the
+Governor within three days, Sundays excepted, after it shall have been presented to him, the
+same shall be a law in like manner as if he had signed it, unless the General Assembly, by their
+adjournment, prevent its return; in such case it shall not be a law.
+
+*** SEND ***
+*** SSTART 018.0 006.0 0 AR 1864 ***
+
+SEC. 18. Every order or resolution, to which the concurrence of both Houses may be necessary,
+except on questions of adjournment, shall be presented to the Governor before it shall take effect,
+be approved by him, or, being disapproved, shall be repassed by both Houses, according to the
+rules and limitations prescribed in the case of a bill.
+
+*** SEND ***
+*** SSTART 019.0 006.0 0 AR 1864 ***
+
+SEC. 19. A Lieutenant-Governor shall be chosen at every election for Governor, in the same
+manner, continue in office for the same time, and possess the same qualifications. In voting for
+Governor and Lieutenant-Governor, the electors shall distinguish for whom they vote as
+Governor, and for whom as Lieutenant-Governor.
+
+*** SEND ***
+*** SSTART 020.0 006.0 0 AR 1864 ***
+
+SEC. 20. He shall, by virtue of his office, be President of the Senate, have a right, when in
+committee of the whole, to debate, and, whenever the Senate are equally divided, shall give the
+casting vote.
+
+*** SEND ***
+*** SSTART 021.0 006.0 0 AR 1864 ***
+
+SEC. 21. Whenever the government shall be administered by the Lieutenant-Governor, or he
+shall be unable to attend as President of the Senate, the Senate shall elect one of their own
+members as president for that occasion; and if, during the vacancy of the office of the Governor,
+the Lieutenant-Governor shall be impeached, removed from office, refuse to qualify, or resign, or
+die, or be absent from the State, the President of the Senate shall, in like manner, administer the
+government.
+
+*** SEND ***
+*** SSTART 022.0 006.0 0 AR 1864 ***
+
+SEC. 22. The Lieutenant-Governor, while he acts as President of the Senate, shall receive for his
+services the same compensation, which shall for the same period be allowed to the Speaker of the
+House of Representatives, and no more, and during the time he administers the government as
+Governor, he shall receive the same compensation which the Governor would have received had
+he been employed in the duties of his office.
+
+*** SEND ***
+*** SSTART 023.0 006.0 0 AR 1864 ***
+
+SEC. 23. In case of an impeachment of the Governor, his removal from office, death, refusal to
+qualify, resignation, or absence from the State, the Lieutenant-Governor shall exercise all the
+power and authority appertaining to the office of Governor, until the time pointed out by this
+Constitution for the election of a Governor shall arrive, unless the General Assembly shall
+provide by law for the election of Governor to fill such vacancy.
+
+
+*** SEND ***
+*** SSTART 024.0 006.0 0 AR 1864 ***
+
+SEC. 24. The Governor shall always reside at the seat of government.
+
+*** SEND ***
+*** SSTART 025.0 006.0 0 AR 1864 ***
+
+SEC. 25. No person shall hold the office of Governor or Lieutenant-Governor, and any other
+office or commission, civil or military, either in this State or under any State, or the United
+States, or any other power, at one and the same time.
+
+*** SEND ***
+*** SSTART 026.0 006.0 0 AR 1864 ***
+
+SEC. 26. There shall be elected by the qualified voters of this State, an Auditor and Treasurer for
+this State, who shall hold their offices for the term of two years, and until their respective
+successors are elected and qualified, unless sooner removed, and shall keep their respective
+offices at the seat of government, and shall perform such duties as shall be prescribed by law; and
+in case of vacancy by death, resignation or otherwise, such vacancy shall be filled by the
+Governor as in other cases.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9008.0 AR 1864 ***
+
+
+
+MILITIA
+
+*** SSTART 001.0 9008.0 0 AR 1864 ***
+
+SECTION 1. The militia of this State shall be divided into convenient divisions, brigades,
+regiments and companies, and officers of corresponding titles and rank elected to command
+them, conforming, as nearly as practicable, to the general regulations of the Army of the United
+States; and all officers shall be elected by those subject to military duty in their several districts,
+except as hereinafter provided.
+
+*** SEND ***
+*** SSTART 002.0 9008.0 0 AR 1864 ***
+
+SEC. 2. The Governor shall appoint the Adjutant-General and other members of his staff; and
+Major-Generals, Brigadier-Generals, and Commanders of regiments, shall respectively appoint
+their own staff; and all commissioned officers may continue in office during good behavior, and
+staff officers during the same time, subject to be removed by the superior officer from whom they
+respectively derive their commissions.
+
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 AR 1864 ***
+
+ARTICLE VII
+
+JUDICIAL DEPARTMENT
+
+*** SSTART 001.0 007.0 0 AR 1864 ***
+
+SECTION 1. The judicial power of this State shall be vested in one supreme court, in circuit
+courts, in county courts, and in justices of the peace. The general assembly may also vest such
+jurisdiction as may be deemed necessary in corporation courts, and when they deem it expedient,
+may establish courts of chancery.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 AR 1864 ***
+
+SEC. 2. The supreme court shall be composed of three judges, one of whom shall be styled chief
+justice, any two of whom shall constitute a quorum, and the concurrence of any two of said
+judges shall, in every case, be necessary to a decision.
+The supreme court, except in cases otherwise directed by this constitution, shall have appellate
+jurisdiction only, which shall be co extensive with the State, under such restrictions and
+regulations as may, from time to time, be prescribed by law.
+It shall have a general superintending control over all inferior and other courts of law and equity.
+It shall have power to issue writs of error, supersedeas, certiorari and habeas corpus, mandamus
+and quo warranto, and other remedial writs, and to hear and determine the same. Said judges
+shall be conservators of the peace throughout the State, and shall have power to issue any of the
+aforesaid writs.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 AR 1864 ***
+
+SEC. 3. The circuit court shall have original jurisdiction over all criminal cases which shall not
+be otherwise provided for by law; and exclusive original jurisdiction of all crimes amounting to
+felony at the common law, and original jurisdiction of all civil cases which shall not be
+cognizable before justices of the peace, until otherwise directed by the general assembly; and
+original jurisdiction in all matters of contract, where the sum in controversy is over two hundred
+dollars. It shall hold its terms at such place in each county as may be by law directed.
+*** SEND ***
+*** SSTART 004.0 007.0 0 AR 1864 ***
+
+SEC. 4. The State shall be divided into convenient circuits, each to consist of not less than five
+nor more than seven counties contiguous to each other, for each of which a judge shall be
+elected, who, during his continuance in office, shall reside and be a conservator of the peace,
+within the circuit for which he shall have been elected.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 AR 1864 ***
+
+SEC. 5. The circuit courts shall exercise a superintending control over the county courts, and
+over justices of the peace in each county, in their respective circuits, and shall have power to
+issue all the necessary writs to carry into effect their general and specific powers.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 AR 1864 ***
+
+SEC. 6. Until the general assembly shall deem it expedient to establish courts of chancery, the
+circuit courts shall have jurisdiction in matters of equity, subject to appeal to the supreme court,
+in such manner as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 AR 1864 ***
+
+SEC. 7. The qualified voters of this State shall elect the judges of the supreme court; the judges
+of the supreme court shall be at least thirty years of age; they shall hold their offices during the
+term of eight years from the date of their commissions, and until their successors are elected and
+qualified.
+Immediately after such election by the people, the lieutenant-governor and speaker of the house
+of representatives shall proceed, by lot, to divide the judges into three classes. The commission
+of the first class shall expire at the end of four years; of the second class at the end of six years;
+and of the third class at the end of eight years; so that one-third of the whole number shall be
+chosen every four, six and eight years.
+
+*** SEND ***
+*** SSTART 008.0 007.0 0 AR 1864 ***
+
+SEC. 8. The qualified voters of each judicial district shall elect a circuit judge. The judges of the
+circuit court shall be at least twenty-five years of age, and shall be elected for the term of four
+years from the date of their commissions, and shall serve until their successors are elected and
+qualified.
+
+*** SEND ***
+*** SSTART 009.0 007.0 0 AR 1864 ***
+
+SEC. 9. The supreme court shall appoint its own clerk or clerks, for the term of four years. The
+qualified voters of each county shall elect a clerk of the circuit court for the respective counties,
+who shall hold his office for the term of two years, and until his successor is elected and
+qualified; and courts of chancery, if any be established, shall appoint their own clerks.
+
+
+*** SEND ***
+*** SSTART 010.0 007.0 0 AR 1864 ***
+
+SEC. 10. The Judges of the Supreme Courts and Circuit Courts shall, at stated times, receive a
+compensation for their services, to be ascertained by law, which shall not be diminished during
+the time for which they are elected. They shall not be allowed any fees or perquisites of office,
+nor hold any other office of trust or profit under this State or the United States. The Attorney-
+General, the State's Attorneys, and Clerks of the Supreme and circuit Courts, and courts of
+chancery, if any such be established, shall receive for their services such salaries, fees and
+perquisites of office, as shall, from time to time, be fixed by law.
+
+*** SEND ***
+*** SSTART 011.0 007.0 0 AR 1864 ***
+
+SEC. 11. There shall be established in each county in the State, a court to be holden by the
+Justices of the Peace, a court called the County Court, which shall have jurisdiction in all matters
+relating to taxes, disbursements of money for county purposes, and in every other case that may
+be necessary to the internal improvement and local concerns of the respective counties.
+
+*** SEND ***
+*** SSTART 012.0 007.0 0 AR 1864 ***
+
+SEC. 12. The qualified voters of each county shall elect a County and Probate Judge, who shall
+hold his office for two years, and until his successor is elected and qualified. He shall, in addition
+to the duties that may be required of him by law, as a presiding judge of the County Court, be a
+judge of the court of probate, and have such jurisdiction in matters relating to the estates of
+deceased persons, executors, administrators and guardians, as may be prescribed by law, until
+otherwise directed by the General Assembly.
+
+*** SEND ***
+*** SSTART 013.0 007.0 0 AR 1864 ***
+
+SEC. 13. The presiding Judge of the Probate and County Court, and Justices of the Peace, shall
+receive for their services such compensation and fees as the General Assembly may from time to
+time by law direct.
+
+*** SEND ***
+*** SSTART 014.0 007.0 0 AR 1864 ***
+
+SEC. 14. No judge shall preside on the trial of any cause in the event of which he may be
+interested, or where either of the parties shall be connected with him by affinity or consanguinity,
+within such degrees as may be prescribed by law, or in which he may have been counsel, or have
+presided in any inferior court, except by consent of all the parties. In case all or any of the Judges
+of the Supreme Court shall be thus disqualified from presiding on any cause or causes, the court
+or judges thereof shall certify the same to the Governor of the State, and he shall immediately
+commission, specially, the requisite number of men of law-knowledge, for the trial and
+determination thereof. The same course shall be pursued in the Circuit and inferior courts as
+prescribed in this section for cases of the Supreme Court. Judges of the Circuit Courts may
+temporarily exchange circuits, or hold courts for each other, under such regulations as may be
+pointed out by law. Judges shall not charge juries with regard to matter of fact, but may state the
+testimony and declare the law.
+
+*** SEND ***
+*** SSTART 015.0 007.0 0 AR 1864 ***
+
+SEC. 15. The qualified voters thereof shall elect an Attorney for the State, for each judicial
+circuit established by law, who shall continue in office two years, and until his successor is
+elected and qualified, and reside within the circuit for which he was elected at the time of, and
+during his continuance in office. In all cases where an attorney for the State, of any circuit, fails
+to attend and prosecute, according to law, the court shall have power to appoint an attorney pro
+tempore.
+
+*** SEND ***
+*** SSTART 016.0 007.0 0 AR 1864 ***
+
+SEC. 16. The qualified voters of this State shall elect an Attorney-General, whose salary shall be
+the same as that of Circuit Judge, who shall be learned in the law; who shall be at least thirty
+years of age, and shall hold his office for the term of four years from the date of  his commission,
+and until his successor is elected and qualified; and whose duty it shall be to prosecute the State's
+pleas before the Supreme Court, and give his opinion, in writing, on all questions of law or
+equity, when required by the governor or other officer of the State, and perform such other duties
+as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 017.0 007.0 0 AR 1864 ***
+
+SEC. 17. All writs and other process shall run in the name of the "State of Arkansas," and bear
+teste and be signed by the clerks of the respective courts from which they issue. Indictments shall
+conclude " against the peace and dignity of the State of Arkansas."
+
+*** SEND ***
+*** SSTART 018.0 007.0 0 AR 1864 ***
+
+SEC. 18. The qualified voters residing in each township shall elect the Justices of the Peace for
+each township. For every one hundred voters there may be elected one Justice of the Peace:
+Provided, That each township, however small, shall have two justices of the peace. Justices of
+the peace shall be elected for the term of two years, and shall hold their offices until their
+successors are elected and qualified; shall be commissioned by the governor, and shall reside in
+the township for which they are elected during their continuance in office. The first election for
+justices of the peace shall take place on the second Monday in March, one thousand eight
+hundred and sixty-four, and the second election on the first Monday in August, one thousand
+eight hundred and sixty-six, and at the regular elections thereafter. Justices of the peace,
+individually, or two or more of them jointly, shall have original jurisdiction in cases of bastardy,
+and in all matters of contract, and actions for the recovery of fines and forfeiture where the
+amount claimed does not exceed two hundred dollars, and concurrent jurisdiction with circuit
+courts where the amount claimed exceeds one hundred dollars, and does not exceed two hundred
+dollars, and such jurisdiction as may be provided by law in actions ex delicto, where the damages
+claimed do not exceed one hundred dollars, and prosecutions for assault and battery and other
+penal offences less than felony, punishable by fine only. Every action cognizable before a justice
+of the peace, instituted by summons or warrant, shall be brought before some justice of the peace
+of the township where the defendant resides. They may also sit as examining courts, and commit,
+discharge, or recognize any person charged with any crime of any grade. For the foregoing
+purposes they shall have power to issue all necessary process. They shall also have power to
+bind, to keep the peace, or for good behavior.
+
+*** SEND ***
+*** SSTART 019.0 007.0 0 AR 1864 ***
+
+SEC. 19. The qualified voters of each township shall elect one constable for the term of two
+years, who shall hold his office till his successor is elected and qualified, who shall, during his
+continuance in office, reside in the township for which he was elected. Incorporated towns may
+have a separate constable and a separate magistracy, successor is elected and qualified, who shall,
+during his continuance one coroner, and one county surveyor, for the term of two years, and until
+their successors are elected. They shall be commissioned by the governor, reside in their
+respective counties during their continuance in office, and be disqualified for the office a second
+term, if it should appear that they or either of them are in default for moneys collected by virtue
+of their respective offices.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 AR 1864 ***
+
+
+ARTICLE VIII
+
+GENERAL PROVISIONS-EDUCATION
+
+*** SSTART 001.0 008.0 0 AR 1864 ***
+
+SECTION 1. Knowledge and learning generally diffused throughout a community being essential
+to the preservation of a free government, and diffusing the opportunities and advantages of
+education through the various parts of the State, being highly conducive to this end, it shall be the
+duty of the, general assembly to provide by law for the improvement of such lands as are or
+hereafter may be granted by the United States to this State for the use of schools, and to apply
+any funds which may be raised from such lands, or from any other source, to the accomplishment
+of the object for which they are or may be intended. The general assembly shall, from time to
+time, pass such laws as shall be calculated to encourage intellectual, scientific and agricultural
+improvement, by allowing rewards and immunities for the promotion and improvement of arts,
+science, commerce, manufactures, and natural history, and countenance and encourage the
+principles of humanity, industry and morality.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 AR 1864 ***
+
+SEC. 2. Treason against the State shall consist only in levying war against it, or adhering to its
+enemies, giving them aid and comfort. No person shall be convicted of treason unless on the
+testimony of two witnesses to the same overt act, or his own confession in open court.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 AR 1864 ***
+
+SEC. 3. No person who denies the being of a God shall hold any office in the civil department of
+this State, nor be allowed his oath in any court.
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 AR 1864 ***
+
+SEC. 4. No money shall be drawn from the treasury but in consequence of an appropriation by
+law; nor shall any appropriation of money for the support of the army be made for a longer term
+than two years; and a regular statement and account of the receipts and expenditures of all public
+money shall be published with the promulgation of the laws.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 AR 1864 ***
+
+SEC. 5. Absence on business of this State, or of the United States, or on a visit, or necessary
+private business, shall not cause a forfeiture of a residence once obtained.
+
+*** SEND ***
+*** SSTART 006.0 008.0 0 AR 1864 ***
+
+SEC. 6. No lottery shall be authorized by this State, nor shall the sale of lottery tickets be
+allowed.
+
+*** SEND ***
+*** SSTART 007.0 008.0 0 AR 1864 ***
+
+SEC. 7. Internal improvement shall be encouraged by the government of this State; and it shall be
+the duty of the General Assembly, as soon as may be, to make provision by law for ascertaining
+the proper objects of improvement in relation to roads, canals and navigable waters; and it shall
+also be their duty to provide by law for an equal, systematic and economical application of the
+funds which may be appropriated to these objects.
+
+*** SEND ***
+
+*** SSTART 008.0 008.0 0 AR 1864 ***
+
+SEC. 8. Returns for all elections for officers who are to be commissioned by the Governor, and
+for members of the General Assembly, shall be made to the Secretary of State, except in the
+election of eighteen hundred and sixty-four, they may be made as directed in the schedule
+appended to this Constitution.
+
+*** SEND ***
+*** SSTART 009.0 008.0 0 AR 1864 ***
+
+SEC. 9. Within five years after the adoption of this Constitution, the laws, civil and criminal,
+shall be revised, digested and arranged, and promulgated in such manner as the General
+Assembly may direct, and a like revision, digest and promulgation shall be made within every
+subsequent period of ten years.
+
+*** SEND ***
+*** SSTART 010.0 008.0 0 AR 1864 ***
+
+SEC. 10. In the event of the annexation of any territory to this State by a cession from the United
+States, laws may be passed extending to the inhabitants of such territory all the rights and
+privileges which may be required by the terms of such cession, anything in this Constitution to
+the contrary notwithstanding.
+
+*** SEND ***
+*** SSTART 011.0 008.0 0 AR 1864 ***
+
+SEC. 11. Imprisonment for debt shall not be allowed in this State, except when an allegation of
+fraud on the part of the debtor shall be clearly proved.
+
+*** SEND ***
+*** SSTART 012.0 008.0 0 AR 1864 ***
+
+SEC. 12. Any person who shall, after the adoption of this Constitution, fight a duel, or send or
+accept a challenge for that purpose, or be aider or abettor in fighting a duel, shall be deprived of
+the right of suffrage, and of the right of holding any office of honor or profit in this State, and
+shall be punished otherwise in such manner as is or may be prescribed by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 AR 1864 ***
+
+ARTICLE IX
+
+REVENUE
+
+*** SSTART 001.0 009.0 0 AR 1864 ***
+
+SECTION 1. All revenue shall be raised by taxation to be fixed by law.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 AR 1864 ***
+
+SEC. 2. All property subject to taxation shall be taxed according to its value, that value to be
+ascertained in such manner as the General Assembly shall direct, making the same equal and
+uniform throughout the State. No one species of property from which a tax may be collected shall
+be taxed higher than another species of property of equal value: Provided, The General Assembly
+shall have the power to tax merchants, hawkers, peddlers and privileges, in such manner as may
+from time to time be prescribed law: And provided further, That no other or greater amount of
+revenue shall at any time be levied than required for the necessary expenses of the government,
+unless by a concurrence of two-thirds of both Houses of the General Assembly.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 AR 1864 ***
+
+SEC. 3. No poll-tax shall be assessed for other than county purposes.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 AR 1864 ***
+
+SEC. 4. No other or greater tax shall be levied on the productions or labor of the country than
+may be required for expenses of inspection.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9003.0 AR 1864 ***
+
+
+SCHEDULE
+
+*** SSTART 001.0 9003.0 0 AR 1864 ***
+
+SECTION 1. In order that civil government may be in full operation and effect, at the earliest day
+possible, it is further ordained and provided that a general vote on the ratification of the
+Constitution and ordinance of this convention, and a general election shall be taken and held
+throughout the State, as far as practicable, on the second Monday of March next, as follows, to
+wit: Any number of persons, being white male citizens of the State, over the age of twenty-one at
+the county seat of any county, or (in case of volunteer soldiers in the Federal Army) at the camp
+of their respective companies, having first taken the oath prescribed in the President's
+proclamation of December eight, one thousand eight hundred and sixty-three, before any justice
+of the peace, or other person authorized to administer an oath within the county in which they
+reside, or within which they are encamped, may appoint a commissioner of elections, with power
+to appoint such election judges as may be necessary, who shall also be an enrolling officer for
+said county or company, who shall proceed as follows, to wit: Said commissioners shall prepare
+an enrolling and poll book, to which shall be appended the constitution, ordinances and schedule
+of this convention; one column shall then be headed with the oath contained in said proclamation
+of the President; another column headed "Constitution and ordinances ratified; "another column,
+"Constitution and ordinances rejected; " other columns shall be arranged so that a vote may be
+taken for all officers to be voted for within the county or company where the election is proposed
+to be held; said commissioner shall then take the oath aforesaid, before any justice of the peace or
+other officer authorized to administer oaths, and enroll his own name at the head of the column,
+under the said oath, written out in full; the said commissioner shall then, on the said second
+Monday of March next, within usual election hours, proceed to hold an election, as follows: viva
+voce; And provided also, That said commissioner may keep the polls open for three days, to wit:
+Every white male citizen over the age of twenty-one years, of the county, or (in case of a military
+company) of the State, presenting himself to vote, and not being included in the exceptions
+contained in the said proclamation, shall take the oath contained in said proclamation,
+administered by any justice of the peace, or other officer authorized to administer oaths; and
+when his name has been thereafter duly enrolled or subscribed in the proper column, the
+commissioner shall cause his vote to be recorded, first upon the question of the constitution and
+ordinances, and then in the election of all officers to be voted for.
+
+*** SEND ***
+*** SSTART 002.0 9003.0 0 AR 1864 ***
+
+SEC. 2. That within five days after the holding of said election, said commissioner shall foot up
+the said vote, and certify the result, over his signature, as commissioner; he shall then make a
+duplicate of said book, (except that the constitution and ordinances of this convention need not
+be appended to the copy,) and forward the said copy to Little Rock, addressed to the provisional
+government; the original book shall be preserved by said commissioner, and deposited by him as
+soon as the counties are organized, with the clerk of the county wherein the election was held, or
+(in case of soldiers) in the county wherein the voters reside.
+
+*** SEND ***
+*** SSTART 003.0 9003.0 0 AR 1864 ***
+
+SEC. 3. Within ten days after the receipt of the said enrolling and election return-books by the
+provisional governor, it shall be his duty, with the assistance of the secretary of state, to examine
+the same and declare the result by proclamation as follows, to wit: 1st. Whether the constitution
+and ordinances of this convention have been adopted or rejected within the meaning of the
+President's proclamation.
+2d. He shall announce the whole vote polled for or against said constitution and ordinances.
+3d. He shall declare what persons are elected to the various offices throughout the State, except
+that of governor and lieutenant-governor of state, deciding the result by plurality. 
+
+*** SEND ***
+
+*** SSTART 004.0 9003.0 0 AR 1864 ***
+
+SEC. 4. All persons thus declared to be elected State officers, shall enter upon the discharge of
+their respective offices as soon thereafter as they take and subscribe an oath before any justice of
+the peace, or other officer authorized to administer oaths, as follows: That they will faithfully
+perform the duties of their respective offices; that they will support the constitution and laws of
+the State and of the United States; and said oath, in case of State officers, shall be filed in the
+office of the secretary of state; and in case of county officers, they shall enter upon the duties of
+their respective offices immediately after the election upon filing said oath with the county
+commissioners.
+
+*** SEND ***
+*** SSTART 005.0 9003.0 0 AR 1864 ***
+
+SEC. 5. At the first session of the legislature, and during the first week of the session, the said
+provisional governor shall place the said return-books before that body, who shall declare the
+result as to the election of governor and lieutenant-governor and secretary of state, who, before
+entering upon the duties of their respective offices, shall take the oath herein prescribed for other
+officers.
+
+*** SEND ***
+*** SSTART 006.0 9003.0 0 AR 1864 ***
+
+SEC. 6. It is also further ordained and declared, that in counties wherein, for any cause, elections
+are not held on the said second Monday of March next, the same may be held for the several
+local officers provided for in the constitution, ordinances and schedule of this convention, in the
+same manner as hereinbefore described, at any time thereafter, till the whole State is fully
+organized and represented.
+
+*** SEND ***
+*** SSTART 007.0 9003.0 0 AR 1864 ***
+
+SEC. 7. The officers to be voted for in this election, are governor, lieutenant-governor, secretary
+of state, auditor, treasurer, attorney-general, three judges of the supreme court, nine circuit judges
+and nine district attorneys (according to act of January fifteenth, one thousand eight hundred and
+sixty-one,) county judges, clerks, sheriffs, coroners, constables, justices of the peace, and all
+other officers provided for in the constitution and ordinances of this convention, or which may
+exist by law, and members of the legislature, according to the ratio or apportionment of senatorial
+districts in force in the year one thousand eight hundred and sixty, and members to Congress in
+districts Nos. 1 and 2, according to the Act approved January nineteenth, one thousand eight
+hundred and sixty-one, (no election being ordered in district No. 3, this convention recognizing
+the election of Colonel James Johnson as the representative from that district.) And it is further
+hereby declared that all laws in force in this State on the fourth day of March, one thousand eight
+hundred and sixty-one, are still in force, not inconsistent with the 'provisions of this constitution,
+and which have not expired by limitation therein contained.
+*** SEND ***
+*** AEND ***
+
+
+John McCoy, President.
+
+Attest:
+ROBERT J. T. WHITE, Secretary. 
+JAMES R. BERRY, Ass't Secretary.
+
+*** CEND ***

@@ -1,0 +1,2839 @@
+Doug Campbell worked on Colorado
+
+I worked on it in June, and again on 9/29/03
+
+I think it is ready to go.
+
+
+
+
+*** CSTART CO 3/14/1876 1/1/2003 ***
+
+          CONSTITUTION OF COLORADO-1876 
+
+*** ASTART 9001.0 CO 1876 ***
+
+                  PREAMBLE
+
+We, the people of Colorado, with profound reverence for the Supreme Ruler of the Universe,
+in order to form a more independent and perfect government, establish justice, insure tranquillity,
+provide for the common defence, promote the general welfare, and secure the blessings of liberty
+to ourselves and our posterity, do ordain and establish this constitution for the State of Colorado.
+
+*** AEND ***
+*** ASTART 001.0 CO 1876 ***
+
+ARTICLE I
+
+*** SSTART 000.0 001.0 0 CO 1876 ***
+
+BOUNDARIES
+
+The boundaries of the State of Colorado shall be as follows: Commencing on the thirty-seventh
+parallel of north latitude, where the twenty-fifth meridian of longitude west from Washington
+crosses the same; thence north on said meridian to the forty-first parallel of north latitude; thence
+along said parallel west to the thirty-second meridian of longitude west from Washington; then
+south on said meridian to the thirty-seventh parallel of north latitude; thence along said thirty-
+seventh parallel of north latitude to the place of beginning.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 CO 1876 ***
+
+
+ARTICLE II
+
+BILL OF RIGHTS
+
+In order to assert our rights, acknowledge our duties, and proclaim the principles upon which our
+government is founded, we declare 
+
+
+
+*** SSTART 001.0 002.0 0 CO 1876 ***
+
+
+SECTION 1. That all political power is vested in and derived from the people; that all
+government, of right, originates from the people, is founded upon their will only, and is instituted
+solely for the good of the whole.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 CO 1876 ***
+
+SEC. 2. That the people of this State have the sole and exclusive right of governing themselves,
+as a free, sovereign, and independent State, and to alter and abolish their constitution and form of
+government whenever they may deem it necessary to their safety and happiness, provided such
+change be not repugnant to the Constitution of the United States.
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 CO 1876 ***
+
+SEC. 3. That all persons have certain natural, essential, and inalienable rights, among which may
+be reckoned the right of enjoying and defending their lives and liberties; that of acquiring,
+possessing, and protecting property, and of seeking and obtaining their safety and happiness.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 CO 1876 ***
+
+SEC. 4. That the free exercise and enjoyment of religious profession and worship, without
+discrimination, shall forever hereafter be guaranteed; and no person shall be denied any civil or
+political right, privilege, or capacity on account of his opinions concerning religion; but the
+liberty of conscience hereby secured shall not be construed to dispense with oaths or
+affirmations, excuse acts of licentiousness, or justify practices inconsistent with the good order,
+peace, or safety of the State. No person shall be required to attend or support any ministry or
+place of worship, religious sect or denomination against his consent; nor shall any preference be
+given by law to any religious denomination or mode of worship.
+
+*** SEND ***
+*** SSTART 005.0 002.0 0 CO 1876 ***
+
+SEC. 5. That all elections shall be free and open; and no power, civil or military, shall at any time
+interfere to prevent the free exercise of the right of suffrage.
+
+*** SEND ***
+*** SSTART 006.0 002.0 0 CO 1876 ***
+
+SEC. 6. That courts of justice shall be open to every person, and a speedy remedy afforded for
+every injury to person, property, or character; and that right and justice should be administered
+without sale, denial, or delay.
+
+*** SEND ***
+*** SSTART 007.0 002.0 0 CO 1876 ***
+
+SEC. 7. That the people shall be secure in their persons, papers, homes, and effects from
+unreasonable searches and seizures; and no warrant to search any place or seize any person or
+thing shall issue without describing the place to be searched, or the person or thing to be seized,
+as near as may be, nor without probable cause, supported by oath or affirmation, reduced to
+writing.
+
+*** SEND ***
+*** SSTART 008.0 002.0 0 CO 1876 ***
+
+SEC. 8. That, until otherwise provided by law, no person shall, for a felony, be proceeded against
+criminally, otherwise than by indictment, except in cases arising in the land or naval forces, or in
+the militia when in actual service in time of war or public danger. In all other cases offences shall
+be prosecuted criminally by indictment or information.
+
+*** SEND ***
+*** SSTART 009.0 002.0 0 CO 1876 ***
+
+SEC. 9. That treason against the State can consist only in levying war against it, or in adhering to
+its enemies, them aid and comfort; that no person can be convicted of treason unless on the testi-
+
+mony of two witnesses to the same overt act, or on his confession in open court; that no person
+can be attainted of treason or felony by the general assembly; that no conviction can work
+corruption of blood or forfeiture of estate; that the estates of such persons as may destroy their
+own lives shall descend or vest as in cases of natural death.
+
+*** SEND ***
+*** SSTART 010.0 002.0 0 CO 1876 ***
+
+SEC. 10. That no law shall be passed impairing the freedom of speech; that every person shall be
+free to speak, write, or publish whatever he will on any subject, being responsible for all abuse of
+that liberty; and that in all suits and prosecutions for libel, the truth thereof may be given in
+evidence, and the jury, under the direction of the court, shall determine the law and the fact.
+
+*** SEND ***
+*** SSTART 011.0 002.0 0 CO 1876 ***
+
+SEC. 11. That no ex post facto law, nor law impairing the obligation of contracts, or retrospective
+in its operation, or making any irrevocable grant of special privileges, franchises, or immunities,
+shall be passed by the general assembly.
+ 
+*** SEND ***
+*** SSTART 012.0 002.0 0 CO 1876 ***
+
+SEC. 12. That no person shall be imprisoned for debt, unless upon refusal to deliver up his estate
+for the benefit of his creditors, in such manner as shall be prescribed by law, or in cases of tort or
+where there is strong presumption of fraud.
+
+*** SEND ***
+*** SSTART 013.0 002.0 0 CO 1876 ***
+
+SEC. 13. That the right of no person to keep and bear arms in defence of his home, person, and
+property, or in aid of the civil power when thereto legally summoned, shall be called in question;
+but nothing herein contained shall be construed to justify the practice of carrying concealed
+weapons.
+
+*** SEND ***
+*** SSTART 014.0 002.0 0 CO 1876 ***
+
+SEC. 14. That private property shall not be taken for private use unless by consent of the owner,
+except for private ways of necessity, and except for reservoirs, drains, flumes, or ditches on or
+across the lands of others, for agricultural, mining, milling, domestic, or sanitary purposes.
+
+*** SEND ***
+*** SSTART 015.0 002.0 0 CO 1876 ***
+
+SEC. 15. That private property shall not be taken or damaged, for public or private use, without
+just compensation. Such compensation shall be ascertained by a board of commissioners, of not
+less than three freeholders, or by a jury, when required by the owner of the property, in such
+manner as may be prescribed by law, and until the same shall be paid to the owner, or into court
+for the owner, the property shall not be needlessly disturbed, or the proprietary rights of the
+owner therein divested; and whenever an attempt is made to take private property for a use
+alleged to be public, the question whether the contemplated use be really public shall be a
+judicial question, and determined as such without regard to any legislative assertion that the use
+is public.
+
+*** SEND ***
+*** SSTART 016.0 002.0 0 CO 1876 ***
+
+SEC. 16. That in criminal prosecutions the accused shall have the right to appear and defend in
+person and by counsel; to demand the nature and cause of the accusation; to meet the witnesses
+against him face to face; to have process to compel the attendance of witnesses in his behalf, and
+a speedy public trial by an impartial jury of the county or district in which the offence is alleged
+to have been committed.
+
+*** SEND ***                       
+*** SSTART 017.0 002.0 0 CO 1876 ***
+
+SEC. 17. That no person shall be imprisoned for the purpose of securing his testimony in any
+case longer than may be necessary in order to take his deposition. If he can give security he shall
+be discharged; if he cannot give security, his deposition shall be taken by some judge of the
+supreme, district, or county court, at the earliest time he can attend, at some convenient place by
+him appointed for that purpose, of which time and place the accused and the attorney prosecuting
+for the people shall have reasonable notice. The accused shall have the right to appear in person
+and by counsel. If he have no counsel the judge shall assign him one in that behalf only. On the
+completion of such examination the witness shall be discharged on his own recognizance,
+entered in before said judge, but such deposition shall not be used if, in the opinion of the court,
+the personal attendance of the witness might be procured by the prosecution, or is procured by
+the accused. No exception shall be taken to such deposition as to matters of form.
+
+*** SEND ***
+*** SSTART 018.0 002.0 0 CO 1876 ***
+
+SEC. 18. That no person shall be compelled to testify against himself in a criminal case, nor shall
+any person be twice put in jeopardy for the same offence. If the jury disagree, or if the judgment
+be arrested after verdict, or if the judgment be reserved for error in law, the accused shall not be
+deemed to have been in jeopardy.
+
+*** SEND ***
+*** SSTART 019.0 002.0 0 CO 1876 ***
+
+SEC. 19. That all persons shall be bailable by sufficient sureties, except for capital offences,
+when the proof is evident or the presumption great.
+
+*** SEND ***
+*** SSTART 020.0 002.0 0 CO 1876 ***
+
+SEC. 20. That excessive bail shall not be required, nor excessive fines imposed, nor cruel and
+unusual punishments inflicted.
+
+*** SEND ***
+*** SSTART 021.0 002.0 0 CO 1876 ***
+
+SEC. 21. That the privilege of the writ of habeas corpus shall never be suspended, unless when,
+in case of rebellion or invasion, the public safety may require it.
+
+*** SEND ***
+*** SSTART 022.0 002.0 0 CO 1876 ***
+
+SEC. 22. That the military shall always be in strict subordination to the civil power; that no
+soldier shall, in time of peace, be quartered in any house without the consent of the owner, nor in
+time of war except in the manner prescribed by law.
+
+*** SEND ***
+*** SSTART 023.0 002.0 0 CO 1876 ***
+
+SEC. 23. The right of trial by jury shall remain inviolate in criminal cases; but a jury in civil
+cases in all courts, or in criminal cases in courts not of record, may consist of less than twelve
+men, as may be prescribed by law. Hereafter a grand jury shall consist of twelve men, any nine of
+whom concurring may find an indictment: Provided, The general assembly may change, regulate,
+or abolish the grand-jury system. 
+
+*** SEND ***
+*** SSTART 024.0 002.0 0 CO 1876 ***
+
+SEC. 24. That the people have the right peaceably to assemble for the common good, and to
+apply to those invested with the powers of government for redress of grievances, by petition or
+remonstrance.
+
+*** SEND ***
+*** SSTART 025.0 002.0 0 CO 1876 ***
+
+SEC. 25. That no person shall be deprived of life, liberty, or property without due process of law.
+
+*** SEND ***
+*** SSTART 026.0 002.0 0 CO 1876 ***
+
+SEC. 26. That there shall never be in this State either slavery or involuntary servitude, except as a
+punishment for crime, whereof the party shall have been duly convicted. 
+
+*** SEND ***
+*** SSTART 027.0 002.0 0 CO 1876 ***
+
+SEC. 27. Aliens, who are or who may hereafter become bona-fide residents of this State, may
+acquire, inherit, possess, enjoy, and dispose of property, real and personal, as native-born
+citizens.
+
+*** SEND ***
+*** SSTART 028.0 002.0 0 CO 1876 ***
+
+SEC. 28. The enumeration in this constitution of certain rights shall not be construed to deny,
+impair, or disparage others retained by the people.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 CO 1876 ***
+
+
+ARTICLE III
+
+
+*** SSTART 001.0 003.0 0 CO 1876 ***
+
+
+DISTRIBUTION OF POWERS
+
+The powers of the government of this State are divided into three distinct departments, the
+legislative, executive, and judicial, and no person, or collection of persons, charged with the
+exercise of powers properly belonging to one of these departments shall exercise any power
+properly belonging to either of the others, except as in this constitution expressly directed or
+permitted.
+
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 CO 1876 ***
+
+
+ARTICLE IV
+
+EXECUTIVE DEPARTMENT
+
+
+*** SSTART 001.0 004.0 0 CO 1876 ***
+
+SECTION 1. The executive department shall consist of a governor, lieutenant-governor,
+secretary of state, auditor of state, State treasurer, attorney-general, and superintendent of public
+instruction, each of whom shall hold his office for the term of two years, beginning on the second
+Tuesday of January next after his election: Provided, That the terms of office of those chosen at
+the first election held under this constitution shall begin on the day appointed for the first meet-
+
+ing of the general assembly. The officers of the executive department, excepting the lieutenant-
+governor, shall, during their term of offices, reside at the seat of government, where they shall
+keep the public records, books, and papers. They shall perform such duties as are prescribed by
+this constitution or by law.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 CO 1876 ***
+
+SEC. 2. The supreme executive power of the State shall be vested in the governor, who shall take
+care that the laws be faithfully executed.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 CO 1876 ***
+
+SEC. 3. The officers named in section one of this article shall be chosen on the day of the general
+election by the qualified electors of the State. The returns of every election for said officers shall
+be sealed up and transmitted to the secretary of state, directed to the speaker of the house of
+representatives, who shall immediately, upon the organization of the house, and before
+proceeding to other business, open and publish the same in the presence of a majority of the
+members of both houses of the general assembly, who shall for that purpose assemble in the
+house of representatives. The person having the highest number of votes for either of said offices
+shall be declared duly elected, but if two or more have an equal and the highest number of votes
+for the same office, one of them shall be chosen thereto by the two houses, on joint ballot.
+Contested elections for the said offices shall be determined by the two houses, on joint ballot, in
+such manner as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 CO 1876 ***
+
+SEC. 4. No person shall be eligible to the office of governor, lieutenant-governor, or
+superintendent of public instruction, unless he should have attained the age of thirty years, nor to
+the office of auditor of state, secretary of state, or State treasurer, unless he shall have attained the
+age of twenty-five years, nor to the office of attorney-general unless he shall have attained the
+age of twenty-five years, and be a licensed attorney of the supreme court of the State, or of the
+Territory of Colorado, in good standing. At the first election under this constitution, any person
+being a qualified elector at the time of the adoption of this constitution, and having the
+qualifications above herein prescribed for any one of said officers, shall be eligible thereto; but
+thereafter no person shall be eligible to any one of said offices, unless, in addition to the
+qualifications above prescribed therefor, he shall be a citizen of the United States, and have
+resided within the limits of the State two years next preceding his election.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 CO 1876 ***
+
+SEC. 5. The governor shall be commander-in-chief of the military forces of the State, except
+when they shall be called into actual service of the United States. He shall have power to call out
+the militia to execute the laws, suppress insurrection, or repel invasion.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 CO 1876 ***
+
+SEC. 6. The governor shall nominate, and by and with the consent of the senate appoint, all
+officers whose offices are established by this constitution, or which may be created by law, and
+whose appointment or election is not otherwise provided for, and may remove any such officer
+for incompetency, neglect of duty, or malfeasance in office. If during the recess of the senate a
+vacancy occur in any such office, the governor shall appoint some fit person to discharge the
+duties thereof until the next meeting of the senate, when he shall nominate some person to fill
+such office. If the office of auditor of state, State treasurer, secretary of state, attorney-general, or
+superintendent of public instruction shall be vacated by death, resignation, or otherwise, it shall
+be the duty of the governor to fill the same by appointment, and the appointee shall hold his
+office until his successor shall be elected and qualified in such manner as may be provided by
+law. The senate in deliberating upon executive nominations may sit with closed doors, but in
+acting upon nominations they shall sit with open doors, and the vote shall be taken by ayes and
+noes, which shall be entered upon the journal.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 CO 1876 ***
+
+SEC. 7. The governor shall have power to grant reprieves, commutations, and pardons after
+conviction, for all offences except treason, and except in case of impeachment, subject to such
+regulations as may be prescribed by law relative to the manner of applying for pardons, but he
+shall in every case, where he may exercise this power, send to the general assembly, at its first
+session thereafter, a transcript of the petition, all proceedings, and the reasons for his action.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 CO 1876 ***
+
+SEC. 8. The governor may require information in writing from the officers of the executive
+department upon any subject relating to the duties of their respective offices, which information
+shall be given upon oath whenever so required; he may also require information in writing at any
+time, under oath, from all officers and managers of State institutions upon any subject relating to
+the condition, management, and expenses of their respective offices and institutions. The
+governor shall, at the commencement of each session, and from time to time, by message, give to
+the general assembly information of the condition of the State, and shall recommend such
+measures as he shall deem expedient. He shall also send to the general assembly a statement,
+with vouchers, of the expenditures of all moneys belonging to the State and paid out by him. He
+shall also, at the commencement of each session, present estimates of the amount of money re-
+
+quired to be raised by taxation for all purposes of the State.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 CO 1876 ***
+
+SEC. 9. The governor may, on extraordinary occasions, convene the general assembly, by
+proclamation, stating therein the purpose for which it is assembled; but at such special session no
+business shall be transacted other than that specially named in the proclamation. He may, by
+proclamation, convene the Senate in extraordinary session for the transaction of executive
+business.
+
+*** SEND ***
+*** SSTART 010.0 004.0 0 CO 1876 ***
+
+SEC. 10. The governor, in case of a disagreement between the two houses as to the time of
+adjournment, may, upon the same being certified to him by the house last moving adjournment,
+adjourn the general assembly to a day not later than the first day of the next regular session.
+
+
+*** SEND ***
+*** SSTART 011.0 004.0 0 CO 1876 ***
+
+SEC. 11. Every bill passed by the general assembly shall, before it becomes a law, be presented
+to the governor. If he approve, he shall sign it, and thereupon it shall become a law; but if he do
+not approve, he shall return it, with his objections, to the house in which it originated, which
+house shall enter the objections at large upon its journal and proceed to reconsider the bill. If then
+two-thirds of the members elected agree to pass the same, it shall be sent, together with the
+objections, to the other house, by which it shall likewise be reconsidered, and if approved by
+two-thirds of the members elected to that house, it shall become a law notwithstanding the
+objections of the governor. In all such cases the vote of each house shall be determined by ayes
+and noes, to be entered upon the journal. If any bill shall not be returned by the governor within
+ten days after it shall have been presented to him, the same shall be a law in like manner as if he
+had signed it, unless the general assembly shall, by their adjournment, prevent its return, in which
+case it shall be filed, with his objections, in the office of the secretary of state within thirty days
+after such adjournment, or else become a law.
+
+*** SEND ***
+*** SSTART 012.0 004.0 0 CO 1876 ***
+
+SEC. 12. The governor shall have power to disapprove of any item or items of any bill making
+appropriations of money, embracing distinct items, and part or parts of the bill approved shall be
+law, and the item or items disapproved shall be void, unless enacted in manner following: If the
+general assembly be in session, he shall transmit to the house in which the bill originated a copy
+of the item or items thereof disapproved, together with his objections thereto and the items
+objected to shall be separately reconsidered, and each item shall then take the same course as is
+prescribed for the passage of bills over the executive veto.
+
+
+*** SEND ***
+*** SSTART 013.0 004.0 0 CO 1876 ***
+
+LIEUTENANT-GOVERNOR
+
+SEC.13. In case of the death, impeachment, or conviction of felony or infamous misdemeanor,
+failure to qualify, resignation, absence from the State, or other disability of the governor, the
+powers, duties, and emoluments of the office, for the residue of the term, or until the disability be
+removed, shall devolve upon the lieutenant-governor.
+
+*** SEND ***
+*** SSTART 014.0 004.0 0 CO 1876 ***
+
+SEC. 14. The lieutenant-governor shall be president of the senate, and shall vote only when the
+senate is equally divided. In case of the absence, impeachment, or disqualification from any
+cause of the lieutenant-governor, or when he shall hold the office of governor, then the president
+pro tempore of the senate shall perform the duties of the lieutenant-governor until the vacancy is
+filled or the disability removed.
+
+*** SEND ***
+*** SSTART 015.0 004.0 0 CO 1876 ***
+
+SEC. 15. In case of the failure to quality in his office, death, resignation, absence from the State,
+impeachment, conviction of felony, or infamous misdemeanor, or disqualification from any
+cause, of both the governor and lieutenant-governor, the duties of the governor shall devolve on
+the president of the senate pro tempore, until such disqualification of either the governor or
+lieutenant-governor be removed, or the vacancy be filled; and if the president of the senate, for
+any of the above-named causes, shall become incapable of performing the duties of governor, the
+same shall devolve upon the speaker of the house.
+
+*** SEND ***
+*** SSTART 016.0 004.0 0 CO 1876 ***
+
+SEC. 16. An account shall be kept by the officers of the executive department and of all public
+institutions of the State of all moneys received by them severally from all sources, and for every
+service performed, and of all moneys disbursed by them severally, and a semi-annual report
+thereof shall be made to the governor, under oath.
+
+*** SEND ***
+*** SSTART 017.0 004.0 0 CO 1876 ***
+
+SEC. 17. The officers of the executive department, and of all public institutions of the State,
+shall, at least twenty days preceding each regular session of the general assembly, make full and
+complete report of their actions to the governor, who shall transmit the same to the general
+assembly.
+
+*** SEND ***
+*** SSTART 018.0 004.0 0 CO 1876 ***
+
+SEC. 18. There shall be a seal of the State, which shall be kept by the secretary of state, and shall
+be called the "Great Seal of the State of Colorado." The seal of the Territory of Colorado, as now
+used, shall be the seal of the State until otherwise provided by law.
+
+*** SEND ***
+*** SSTART 019.0 004.0 0 CO 1876 ***
+
+SEC. 19. The officers named in section one of this article shall receive for their services a salary
+to be established by law, which shall not be increased or diminished during their official terms. It
+shall be the duty of all such officers to collect in advance all fees prescribed by law for services
+rendered by them severally, and pay the same into the State treasury.
+
+
+*** SEND ***
+*** SSTART 020.0 004.0 0 CO 1876 ***
+
+SEC. 20 . The superintendent of public instruction shall be ex officio State librarian.
+
+*** SEND ***
+*** SSTART 021.0 004.0 0 CO 1876 ***
+
+SEC. 21. Neither the State treasurer nor State auditor shall be eligible for re-election as his own
+immediate successor.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 CO 1876 ***
+
+ARTICLE V
+
+LEGISLATIVE DEPARTMENT
+
+*** SSTART 001.0 005.0 0 CO 1876 ***
+
+SECTION 1. The legislative power shall be vested in the general assembly, which shall consist
+of a senate and a house of representatives, both to be elected by the people.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 CO 1876 ***
+
+SEC. 2. An election for members of the general assembly shall be held on the first Tuesday in
+October, in the years of our Lord 1876 and 1878, and in each alternate year thereafter, on such
+day, at such places in each county as now are, or hereafter may be, provided by law. The first
+election for members of the general assembly under the State organization shall be conducted in
+the manner prescribed by the laws of Colorado Territory regulating elections for members of the
+legislative assembly thereof. When vacancies occur in either house the governor, or person
+exercising the powers of governor, shall issue writs of election to fill such vacancies.
+
+*** SEND ***
+*** SSTART 003.0 005.0 0 CO 1876 ***
+
+SEC. 3. Senators shall be elected for the term of four years, except. as hereinafter provided, and
+representatives for the term of two years.
+
+*** SEND ***
+*** SSTART 004.0 005.0 0 CO 1876 ***
+
+SEC. 4. No person shall be a representative or senator who shall not have attained the age of
+twenty-five years, who shall not be a citizen of the United States, who shall not for at least twelve
+months next preceding his election have resided within the Territory included in the limits of the
+county or district in which he shall be chosen: Provided, That any person who at the time of the
+adoption of this constitution was a qualified elector under the territorial laws, shall be eligible to
+the first general assembly.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 CO 1876 ***
+
+SEC. 5. The senators, at their first session, shall be divided into two classes. Those elected in
+districts designated by even numbers shall constitute one class; those elected in districts
+designated by odd numbers shall constitute the other class, except that senators elected in each of
+the districts having more than one senator shall be equally divided between the two classes. The
+senators of one class shall hold for two years; those of the other class shall hold for four years; to
+be decided by lot between the two classes, so that one-half of the senators, as near as practicable,
+may be biennially chosen forever thereafter.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 CO 1876 ***
+
+SEC. 6. Each member of the first general assembly, as a compensation for his services, shall
+receive four dollars for each day's attendance, and fifteen cents for each mile necessarily travelled
+in going to and returning from the seat of government; and shall receive no other compensation,
+perquisite, or allowance whatsoever. No session of the general assembly, after the first, shall
+exceed forty days. After the first session the compensation of the members of the general
+assembly shall be as provided by law: Provided, That no general assembly shall fix its own
+compensation.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 CO 1876 ***
+
+SEC. 7. The general assembly shall meet at 12 o'clock, noon, on the first Wednesday in
+November, A. D. 1876; and at 12 o'clock, noon, on the first Wednesday in January, A. D. 1879,
+and at 12 o'clock, noon, on the first Wednesday in January of each alternate year forever
+thereafter, and at other times when convened by the governor. The term of service of the
+members thereof shall begin on the first Wednesday of November next after their election, until
+otherwise provided by law.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 CO 1876 ***
+
+SEC. 8. No senator or representative shall, during the time for which he shall have been elected,
+be appointed to any civil office under this State; and no member of Congress, or other person
+holding any office (except of attorney at law, notary public, or in the militia,) under the United
+States, or this State, shall be a member of either house during his continuance in office.
+
+*** SEND ***
+*** SSTART 009.0 005.0 0 CO 1876 ***
+
+SEC. 9. No member of either house shall, during the term for which he may have been elected,
+receive any increase of salary or mileage, under any law passed during such term.
+
+*** SEND ***
+*** SSTART 010.0 005.0 0 CO 1876 ***
+
+SEC. 10. The senate shall, at the beginning and close of each regular session, and at such other
+times as may be necessary, elect one of its members president pro tempore. The house of
+representatives shall elect one of its members as speaker. Each house shall choose its other
+officers, and shall judge of the election and qualification of its members.
+
+*** SEND ***
+*** SSTART 011.0 005.0 0 CO 1876 ***
+
+SEC. 11. A majority of each bouse shall constitute a quorum, but a smaller number may adjourn
+from day to day, and compel the attendance of absent members.
+
+*** SEND ***
+*** SSTART 012.0 005.0 0 CO 1876 ***
+
+SEC. 12. Each house shall have power to determine the rules of its proceedings, and punish its
+members or other persons for contempt or disorderly behavior in its presence; to enforce
+obedience to its process; to protect its members against violence, or offers of bribes, or private
+solicitation, and, with the concurrence of two-thirds, to expel a member, but not a second time
+for the same cause, and shall have all other powers necessary for the legislature of a free State. A
+member, expelled for corruption, shall not thereafter be eligible to either house of the same
+general assembly, and punishment for contempt or disorderly behavior shall not bar an
+indictment for the same offence.
+
+*** SEND ***
+*** SSTART 013.0 005.0 0 CO 1876 ***
+
+SEC. 13. Each house shall keep a journal of its proceedings, and may in its discretion, from time
+to time, publish the same, except such parts as require secrecy, and the ayes and noes on any
+question shall, at the desire of any two members, be entered on the journal.
+
+*** SEND ***
+*** SSTART 014.0 005.0 0 CO 1876 ***
+
+SEC. 14. The sessions of each house, and of the committees of the whole, shall be open, unless
+when the business is such as ought to be kept secret.
+
+*** SEND ***
+*** SSTART 015.0 005.0 0 CO 1876 ***
+
+SEC. 15. Neither house shall, without the consent of the other, adjourn for more than three days,
+nor to any other place than that in which the two houses shall be sitting.
+
+*** SEND ***
+*** SSTART 016.0 005.0 0 CO 1876 ***
+
+SEC. 16. The members of the general assembly shall, in all cases except treason, felony,
+violation of their oath of office, and breach or surety of the peace, be privileged from arrest
+during their attendance at the sessions of their respective houses, and in going to and returning
+from the same; and for any speech or debate in either house they shall not be questioned in any
+other place.
+
+*** SEND ***
+*** SSTART 017.0 005.0 0 CO 1876 ***
+
+SEC. 17. No law shall be passed except by bill, and no bill shall be so altered or amended on its
+passage through either house as to change its original purpose.
+
+*** SEND ***
+*** SSTART 018.0 005.0 0 CO 1876 ***
+
+SEC. 18. The style of the laws of this State shall be: "Be it enacted by the general assembly of
+the State of Colorado."
+
+*** SEND ***
+*** SSTART 019.0 005.0 0 CO 1876 ***
+
+SEC. 19. No act of the general assembly shall take effect until ninety days after its passage,
+unless in case of emergency, (which shall be expressed in the preamble or body of the act,) the
+general assembly shall, by a vote of two-thirds of all the members elected to each house,
+otherwise direct. No bill except the general appropriation for the expenses of the government
+only, introduced in either house of the general assembly after the first twenty-five days of the
+session shall become a law. 
+
+*** SEND ***
+*** SSTART 020.0 005.0 0 CO 1876 ***
+
+SEC. 20. No bill shall be considered or become a law unless referred to a committee, returned
+therefrom, and printed for the use of the members.
+
+*** SEND ***
+*** SSTART 021.0 005.0 0 CO 1876 ***
+
+SEC. 21. No bill, except general appropriation bills, shall be passed containing more than one
+subject, which shall be clearly expressed in its title; but if any subject shall be embraced in any
+act which shall not be expressed in the title, such act shall be void only as to so much thereof as
+shall not be so expressed.
+
+*** SEND ***
+*** SSTART 022.0 005.0 0 CO 1876 ***
+
+SEC. 22. Every bill shall be read at length, on three different days, in each house; all substantial
+amendments made thereto shall be printed for the use of the members, before the final vote is
+taken on the bill; and no bill shall become a law except by vote of a majority of all the members
+elected to each house, nor unless on its final passage the vote be taken by ayes and noes, and the
+names of those voting be entered on the journal.
+
+*** SEND ***
+*** SSTART 023.0 005.0 0 CO 1876 ***
+
+SEC. 23. No amendment to any bill by one house shall be concurred in by the other, nor shall the
+report of any committee of conference be adopted in either house, except by a vote of a majority
+of the members elected thereto, taken by ayes and noes, and the names of those voting recorded
+upon the journal thereof.
+
+*** SEND ***
+*** SSTART 024.0 005.0 0 CO 1876 ***
+
+SEC. 24. No law shall be revived, or amended, or the provisions thereof extended or conferred
+by reference to its title only, but so much thereof as is revived, amended, extended, or conferred
+shall be re-enacted and published at length.
+
+*** SEND ***
+*** SSTART 025.0 005.0 0 CO 1876 ***
+
+SEC. 25. The general assembly shall not pass local or special laws in any of the following
+enumerated cases, that is to say: For granting divorces; laying out, opening, altering, or working
+roads or highways; vacating roads, town-plats, streets, alleys, and public grounds; locating or
+changing county-seats; regulating county or township affairs; regulating the practice in courts of
+justice; regulating the jurisdiction and duties of justices of the peace, police magistrates and
+constables; changing the rules of evidence in any trial or inquiry; providing for changes of venue
+in civil on criminal cases; declaring any person of age; for limitation of civil actions or giving
+effect to informal or invalid deeds; summoning or impanelling grand or petit juries; providing for
+the management of common school; regulating the rate of interest on money; the opening or
+conducting of ant election, or designating the place of voting; the sale or mortgage of real estate
+belonging to minors or others under disability; the protection of game or fish; chartering or
+licensing ferries or toll-bridges; remitting fines, penalties, or forfeitures; creating, increasing, or
+decreasing fees, percentage, or allowances of public officers; changing the law of descent;
+granting to any corporation, association, or individual the right to lay down railroad-tracks;
+granting to any corporation, association, or individual any special or exclusive privileges,
+immunity, or franchise whatever. In all other cases, where a general law can be made applicable,
+no special law shall be enacted.
+
+*** SEND ***
+*** SSTART 026.0 005.0 0 CO 1876 ***
+
+SEC. 26. The presiding officer of each house shall, in the presence of the house over which he
+presides, sign all bills and joint resolutions passed by the general assembly, after their titles shall
+have been publicly read, immediately before signing; and the fact of signing shall be entered on
+the journal.
+
+*** SEND ***
+*** SSTART 027.0 005.0 0 CO 1876 ***
+
+SEC. 27. The general assembly shall prescribe by law the number, duties, and compensation of
+the officers and employ‚s of each house; and no payment shall be made from the State treasury,
+or be in any way authorized to any person, except to an acting officer or employ‚ elected or
+appointed in pursuance of law.
+
+*** SEND ***
+*** SSTART 028.0 0.005 0 CO 1876 ***
+
+SEC. 28. No bill shall be passed giving any extra compensation to any public officer, servant or
+employ‚, agent or contractor, after services shall have been rendered or contract made, nor
+providing for the payment of any claim made against the State without previous authority of law.
+
+*** SEND ***
+*** SSTART 029.0 005.0 0 CO 1876 ***
+
+SEC. 29. All stationery, printing, paper, and fuel used in the legislative and other departments of
+government, shall be furnished; and the printing and binding and distributing of the laws,
+journals, department reports, and other printing and binding; and the repairing and furnishing the
+halls and rooms used for the meeting of the general assembly and its committees, shall be
+performed under contract, to be given to the lowest responsible bidder, below such maximum
+price and under such regulations as may be prescribed by law. No member or officer of any
+department of the government shall be in any way interested in any such contract; and all such
+contracts shall be subject to the approval of the governor and State treasurer.
+
+*** SEND ***
+*** SSTART 030.0 005.0 0 CO 1876 ***
+
+
+SEC. 30. Except as otherwise provided in this constitution, no law shall extend the term of any
+public officer, or increase or diminish his salary or emoluments after his election or appointment:
+Provided, This shall not be construed to forbid the general assembly to fix the salary or
+emoluments of those first elected or appointed under this constitution.
+
+*** SEND ***
+*** SSTART 031.0 005.0 0 CO 1876 ***
+
+SEC. 31. All bills for raising revenue shall originate in the house of representatives; but the
+senate may propose amendments, as in case of other bills.
+
+*** SEND ***
+*** SSTART 032.0 005.0 0 CO 1876 ***
+
+SEC. 32. The general appropriation bill shall embrace nothing but appropriations for the ordinary
+expenses of the executive, legislative, and judicial departments of the State, interest on the public
+debt, and for public schools. All other appropriations shall be made by separate bills, each
+embracing but one subject.
+
+*** SEND ***
+*** SSTART 033.0 005.0 0 CO 1876 ***
+
+SEC. 33. No money shall be paid out of the treasury except upon appropriations made by law,
+and on warrant drawn by the proper officer in pursuance thereof.
+
+*** SEND ***
+*** SSTART 034.0 005.0 0 CO 1876 ***
+
+SEC. 34. No appropriation shall be made for charitable, industrial, educational, or benevolent
+purposes to any person, corporation, or community not under the absolute control of the State,
+nor to any denominational or sectarian institution or association.\
+
+*** SEND ***
+*** SSTART 035.0 005.0 0 CO 1876 ***
+
+SEC. 35. The general assembly shall not delegate to any special commission, private corporation,
+or association any power to make, supervise, or interfere with any municipal improvement,
+money, property, or effects, whether held in trust or otherwise, or to levy taxes, or to perform any
+municipal function whatever.
+
+*** SEND ***
+*** SSTART 036.0 005.0 0 CO 1876 ***
+
+SEC. 36. No act of the general assembly shall authorize the investment of trust-funds by
+executors, administrators, guardians, or other trustees in the bonds or stock of any private
+corporation.
+
+*** SEND ***
+*** SSTART 037.0 005.0 0 CO 1876 ***
+
+SEC. 37. The power to change the venue in civil and criminal cases shall be vested in the courts,
+to be exercised in such a manner as shall be provided by law.
+
+*** SEND ***
+*** SSTART 038.0 005.0 0 CO 1876 ***
+
+SEC. 38. No obligation or liability of any person, association, or corporation, held or owned by
+the State, or any municipal corporation therein, shall ever be exchanged, transferred, remitted,
+released, or postponed, or in any way diminished by the general assembly, nor shall such liability
+or obligation be extinguished except by payment thereof into the proper treasury.
+
+*** SEND ***
+*** SSTART 039.0 005.0 0 CO 1876 ***
+
+SEC. 39. Every order, resolution, or vote to which the concurrence of both houses may be
+necessary, except on the question of adjournment, or relating solely to the transaction of business
+of the two houses, shall be presented to the governor, and before it shall take effect, be approved
+by him, or being disapproved, shall be repassed by two-thirds of both houses, according to the
+rules and limitations prescribed in case of a bill.
+
+*** SEND ***
+*** SSTART 040.0 005.0 0 CO 1876 ***
+
+SEC. 40. If any person elected to either house of the general assembly shall offer or promise to
+give his vote or influence in favor of or against any measure or proposition, pending or proposed
+to be introduced into the general assembly, in consideration or upon condition that any other
+person elected to the same general assembly will give or will promise or assent to give his vote or
+influence in favor of or against any other measure or proposition, pending or proposed to be
+introduced in such general assembly, the person making such offer or promise shall be deemed
+guilty of solicitation and bribery. If any member of the general assembly shall give his vote or
+influence for or against any measure or proposition pending in such general assembly, or offer,
+promise, or assent so to do, upon condition that any other member will give or will promise or
+assent to give his vote or influence in favor of or against any other measure or proposition
+pending or proposed to be introduced in such general assembly, or in consideration that any other
+member hath given his vote or influence for or against any other measure or proposition in such
+general assembly, he shall be deemed guilty of bribery; and any member of the general assembly,
+or person elected thereto, who shall be guilty of either of such offences shall be expelled, and
+shall not be thereafter eligible to the same general assembly; and, on the conviction thereof in the
+civil courts, shall be liable to such further penalty as may be prescribed by law.
+
+
+*** SEND ***
+*** SSTART 041.0 005.0 0 CO 1876 ***
+
+SEC. 41. Any person who shall, directly or indirectly, offer, give, or promise any money or thing
+of value, testimonial, privilege, or personal advantage to any executive or judicial officer or
+member of the general assembly to influence him in the performance of any of his public or
+official duties, shall be deemed guilty of bribery, and be punished in such manner as shall be
+provided by law.
+
+*** SEND ***
+*** SSTART 042.0 005.0 0 CO 1876 ***
+
+SEC. 42. The offence of corrupt solicitation of members of the general assembly, or of public
+officers of the State, or of any municipal division thereof, and any occupation or practice of
+solicitation of such members or officers to influence their official action, shall be defined by law,
+and shall be punished by fine and imprisonment.
+
+*** SEND ***
+*** SSTART 043.0 005.0 0 CO 1876 ***
+
+SEC. 43. A member who has a personal or private interest in any measure or bill proposed or
+pending before the general assembly, shall disclose the fact to the house of which he is a
+member, and shall not vote thereon.
+
+*** SEND ***
+*** SSTART 044.0 005.0 0 CO 1876 ***
+
+CONGRESSIONAL AND LEGISLATIVE APPORTIONMENT
+
+SEC. 44. One Representative in the Congress of the United States shall be elected from the State
+at large at the first election under this constitution, and thereafter at such times and places and in
+such manner as may be prescribed by law. When a new apportionment shall be made by
+Congress, the general assembly shall divide the State into congressional districts accordingly.
+
+
+*** SEND ***
+*** SSTART 045.0 005.0 0 CO 1876 ***
+
+SEC. 45. The general assembly shall provide by law for an enumeration of the inhabitants of the
+State in the year of our Lord 1885, and every tenth year thereafter; and at the session next
+following such enumeration, and also at the session next following an enumeration made by the
+authority of the United States, shall revise and adjust the apportionment for senators and
+representatives on the basis of such enumeration, according to ratios to be fixed by law.
+
+*** SEND ***
+*** SSTART 046.0 005.0 0 CO 1876 ***
+
+SEC. 46. The senate shall consist of twenty-six, and the house of representatives of forty-nine
+members, which number shall not be increased until the year of our Lord one thousand eight
+hundred and ninety, after which time the general assembly may increase the number of senators
+and representatives, preserving, as near as may be, the present proportion as to the number in
+each house: Provided, That the aggregate number of senators and representatives shall never
+exceed one hundred.
+
+*** SEND ***
+*** SSTART 047.0 005.0 0 CO 1876 ***
+
+SEC. 47. Senatorial and representative districts may be altered from time to time, as public
+convenience may require. When a senatorial or representative district shall be composed of two
+or more counties, they shall be contiguous, and the district as compact as may be. No county
+shall be divided in the formation of a senatorial or representative district.
+
+*** SEND ***
+*** SSTART 048.0 005.0 0 CO 1876 ***
+
+SEC. 48. Until the State shall be divided into senatorial districts, in accordance with the
+provisions of this article, said districts shall be constituted and numbered as follows:
+The county of Weld shall constitute the first district, and be entitled to one senator.
+The county of Larimer shall constitute the second district, and be entitled to one senator.
+The county of Boulder shall constitute the third district, and be entitled to two senators.
+The county of Gilpin shall constitute the fourth district, and be entitled to one senator.
+The counties of Gilpin, Summit, and Grand shall constitute the fifth district, and be entitled to
+one senator.
+The county of Clear Creek shall constitute the sixth district, and be entitled to two senators.
+The county of Jefferson shall constitute the seventh district, and be entitled to one senator.
+The county of Arapahoe shall constitute the eighth district, and be entitled to four senators..
+The counties of Elbert and Bent shall constitute the ninth district, and be entitled to one senator.
+The county of El Paso shall constitute the tenth district, and be entitled to one senator.
+The county of Douglas shall constitute the eleventh district, and be entitled to one senator.
+The county of Park shall constitute the twelfth district, and be entitled to one senator.
+The counties of Lake and Saguache shall constitute the thirteenth district, and be entitled to one
+senator.
+The county of Fremont shall constitute the fourteenth district, and be entitled to one senator.
+The county of Pueblo shall constitute the fifteenth district, and be entitled to one senator.
+The county of Huerfano shall constitute the sixteenth district, and be entitled to one senator.
+The county of Las Animas shall constitute the seventeenth district, and be entitled to two
+senators.
+The county of Costilla shall constitute the eighteenth district, and be entitled to one senator.
+The county of Conejos shall constitute the nineteenth district, and be entitled to one senator.
+The counties of Rio Grande, Hinsdale, La Plata, and San Juan shall constitute the twentieth
+district, and be entitled to one senator.
+
+*** SEND ***
+*** SSTART 049.0 005.0 0 CO 1876 ***
+
+SEC. 49. Until an apportionment of representatives be made, in accordance with the provisions
+of this article, they shall be divided among the several counties of the State in the following
+manner: The county of Arapahoe shall have seven; the counties of Boulder and Clear Creek,
+each, four; the counties of Gilpin and Las Animas, each, three; the counties of El Paso, Fremont,
+Huerfano, Jefferson, Pueblo, and Weld, each, two; the counties of Bent, Costilla, Conejos,
+Douglas, Elbert, Grand, Hinsdale, Larimer, La Plata., Lake, Park, Rio Grande, Summit,
+Saguache, and San Juan, each, one; and the counties of Costilla, and Conejos, jointly, one.
+
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 CO 1876 ***
+
+
+ARTICLE VI
+
+JUDICIAL DEPARTMENT
+
+*** SSTART 001.0 006.0 0 CO 1876 ***
+
+SECTION 1. The judicial powers of the State, as to matters of law and equity, except as in this
+constitution otherwise provided, shall be vested in a supreme court, district courts, county courts,
+justices of the peace, and such other courts as may be created by law for cities and incorporated
+towns.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 CO 1876 ***
+
+SUPREME COURT
+
+SEC. 2. The supreme court, except as otherwise provided in this constitution, shall have
+appellate jurisdiction only, which shall be coextensive with the State, and shall have a general
+superintending control over all inferior courts, under such regulations and limitations as may be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 CO 1876 ***
+
+
+SEC. 3. It shall have power to issue writs of habeas corpus, mandamus, quo warranto,
+certiorari, injunction, and other original and remedial writs, with authority to hear and determine
+the same.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 CO 1876 ***
+
+SEC. 4. At least two terms of the supreme court shall be held each year, at the seat of
+government.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 CO 1876 ***
+
+SEC. 5. The supreme court shall consist of three judges, a majority of whom shall be necessary to
+form a quorum or pronounce a decision.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 CO 1876 ***
+
+SEC. 6. The judges of the supreme court shall be elected by electors of the State at large, as
+hereinafter provided.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 CO 1876 ***
+
+SEC. 7. The term of office of the Judges of the supreme court, except as in this article otherwise
+provided, shall be nine years.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 CO 1876 ***
+
+SEC. 8. The judges of the supreme court shall, immediately after the first election under this
+constitution, be classified by lot, so that one shall hold his office for the term of three years, one
+for the term of six years, and one for the term of nine years. The lot shall be drawn by the judges,
+who shall for that purpose assemble at the seat of government, and they shall cause the result
+thereof to be certified to the secretary of the Territory, and filed in his office. The judge having
+the shortest term to serve, not holding his office by appointment or election to fill a vacancy,
+shall be the chief justice, and shall preside at all terms of the supreme court, and, in case of his
+absence, the judge having in like manner the next shortest term to serve shall preside in his stead.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 CO 1876 ***
+
+SEC. 9. There shall be a clerk of the supreme court, who shall be appointed by the judges thereof,
+and shall hold his office during the pleasure of said judges, and whose duties and emoluments
+shall be as prescribed by law and by the rules of the supreme court.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 CO 1876 ***
+
+SEC. 10. No person shall be eligible to the office of judge of the supreme court unless he be
+learned in the law, be at least thirty years of age, and a citizen of the United States, nor unless he
+shall have resided in this State or Territory at least two years next preceding his election.
+
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 CO 1876 ***
+
+
+DISTRICT COURTS
+
+SEC. 11. The district courts shall have original jurisdiction of all causes, both at law and in
+equity, and such appellate jurisdiction as may be conferred by law. They shall have original
+jurisdiction to determine all controversies upon relation of any person on behalf of the people
+concerning the rights, duties, and liabilities of railroad, telegraph, or toll-road companies or
+corporations.
+ 
+*** SEND ***
+*** SSTART 012.0 006.0 0 CO 1876 ***
+
+SEC. 12. The State shall be divided into judicial districts, in each of which there shall be elected
+by the electors thereof one judge of the district court therein, whose term of office shall be six
+years. The judges of the district courts may hold courts for each other, and shall do so when
+required by law.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 CO 1876 ***
+
+SEC. 13. Until otherwise provided by law, said districts shall be four in number, and constituted
+as follows, viz:
+First district.-The counties of Boulder, Jefferson, Gilpin, Clear Creek, Summit, and Grand.
+Second district.-The counties of Arapahoe, Douglas, Elbert, Weld, and Larimer.
+Third district.-The counties of Park, El Paso, Fremont, Pueblo, Bent, Las Animas, and Huerfano.
+Fourth district.-The counties of Costilla, Conejos, Rio Grande, San Juan, La Plata, Hinsdale,
+Saguache, and Lake.
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 CO 1876 ***
+
+SEC. 14. The general assembly may, after the year 1880, (whenever two-thirds of the members
+of each house shall concur therein,) but not oftener than once in six years, increase the number of
+the judicial districts and the judges thereof; such districts shall be formed of compact territory,
+and bounded by county-lines; but such increase or change in the boundaries of a district shall not
+work the removal of any judge from his office during the term for which he shall have been
+elected or appointed.
+
+*** SEND ***
+*** SSTART 015.0 006.0 0 CO 1876 ***
+
+SEC. 15. The judges of the district court first elected shall be chosen at the first general election.
+The general assembly may provide that after the year 1878 the election of the judges of the
+supreme, district. and county courts, and the district attorneys, or any of them, shall be on a
+different day from that on which an election is held for any other purpose, and for that purpose
+may extend or abridge the term of office of any such officers then holding, but not in any case
+more than six months. Until otherwise provided by law, such officers shall be elected at the time
+of holding the general elections. The terms of office of all judges of the district court, elected in
+the several districts throughout the State shall expire on the same day; and the terms of office of
+the district attorneys elected in the several districts throughout the State shall, in like manner,
+expire on the same day.
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 CO 1876 ***
+
+SEC. 16. No person shall be eligible to the office of district judge unless he be learned in the law,
+be at least thirty years old, and a citizen of the United States, nor unless he shall have resided in
+the State or Territory at least two years next preceding his election, nor unless he shall, at the
+time of his election, be an elector within the judicial district for which he is elected: Provided,
+That at the first election any person of the requisite age and learning, and who is an elector of the
+Territory of Colorado, under the laws thereof, at the time of the adoption of this constitution,
+shall be eligible to the office of judge of the district court of the judicial district within which he
+is an elector.
+
+*** SEND ***
+*** SSTART 017.0 006.0 0 CO 1876 ***
+
+SEC. 17. The time of holding courts within the said districts shall be as provided by law; but at
+least one term of the district court shall be held annually in each county, except in such counties
+as may be attached, for judicial purposes, to another county wherein such courts are so held. This
+shall not be construed to prevent the holding of special terms, under such regulations as may be
+provided by law.
+
+*** SEND ***
+*** SSTART 018.0 006.0 0 CO 1876 ***
+
+SEC. 18. The judges of the supreme and district courts shall each receive such salary as may be
+provided by law; and no such judge shall receive any other compensation, perquisite, or
+emolument for or on account of his office, in any form whatever, nor act as attorney or counselor
+at law.
+
+*** SEND ***
+*** SSTART 019.0 006.0 0 CO 1876 ***
+
+SEC. 19. There shall be a clerk of the district court in each county wherein a term is held, who
+shall be appointed by the judge of the district, to hold his office during the pleasure of the judge.
+His duties and compensation shall be as provided by law and regulated by the rules of the court.
+
+*** SEND ***
+*** SSTART 020.0 006.0 0 CO 1876 ***
+
+SEC. 20. Until the general assembly shall provide by law for fixing the terms of the courts
+aforesaid, the judges of the supreme and district courts, respectively, shall fix the terms thereof.
+
+
+*** SEND ***
+*** SSTART 021.0 006.0 0 CO 1876 ***
+
+DISTRICT ATTORNEYS
+
+SEC. 21. There shall be elected by the qualified electors of each judicial district, at each regular
+election for judges of the supreme court, a district attorney for such district, whose term of office
+shall be three years, and whose duties and compensations shall be as provided by law. No person
+shall be eligible to the office of district attorney who shall not, at the time of his election, be at
+least twenty-five years of age, and possess all the other qualifications for judges of district courts,
+as prescribed in this article.
+
+*** SEND ***
+*** SSTART 022.0 006.0 0 CO 1876 ***
+
+
+COUNTY COURTS
+
+SEC. 22. There shall be elected, at the general election in each organized county in the year 1877,
+and every three years thereafter, except as otherwise provided in this article, a county judge, who
+shall be judge of the county court of said county, whose term of office shall be three years, and
+whose compensation shall be as may be provided by law.
+
+*** SEND ***
+*** SSTART 023.0 006.0 0 CO 1876 ***
+
+SEC. 23. County courts shall be courts of record, and shall have original jurisdiction in all
+matters of probate, settlement of estates of deceased persons, appointment of guardians,
+conservators, and administrators, and settlement of their accounts, and such other civil and
+criminal jurisdiction as may be conferred by law: Provided, Such courts shall not have
+jurisdiction in any case where the debt, damage, or claim, or value of property involved, shall
+exceed two thousand dollars, except in cases relating to the estates of deceased persons. Appeals
+may be taken from county to district courts, or to the supreme court, in such cases and in such
+manner as may be prescribed by law. Writs of error shall lie from the supreme court to every
+final judgment of the county court. No appeal shall lie to the district court from any judgment
+given upon an appeal from a justice of the peace.
+
+*** SEND ***
+*** SSTART 024.0 006.0 0 CO 1876 ***
+
+CRIMINAL COURT
+
+SEC. 24. The general assembly shall have power to create and establish a criminal court in each
+county having a population exceeding fifteen thousand, which court may have concurrent
+jurisdiction with the district courts in all criminal cases not capital, the terms of such courts to be
+as provided by law.
+
+*** SEND ***
+*** SSTART 025.0 006.0 0 CO 1876 ***
+
+JUSTICES OF THE PEACE
+
+SEC. 25. Justices of the peace shall have such jurisdiction as may be conferred by law; but they
+shall not have jurisdiction of any case wherein the value of the property, or the amount in
+controversy, exceeds the sum of three hundred dollars, nor where the boundaries or title to real
+property shall be called in question.
+
+*** SEND ***
+*** SSTART 026.0 006.0 0 CO 1876 ***
+
+POLICE MAGISTRATES
+
+SEC. 26. The general assembly shall have power to provide for creating such police magistrates
+for cities and towns, as may be deemed from time to time necessary or expedient, who shall have
+jurisdiction of all cases arising under the ordinances of such cities and towns respectively.
+
+*** SEND ***
+*** SSTART 027.0 006.0 0 CO 1876 ***
+
+MISCELLANEOUS
+
+SEC. 27. The judges of courts of record, inferior to the court, shall, on or before the first day in
+July in each year, report in writing to the judges of the supreme court such defects and omissions
+in the laws as their knowledge and experience may suggest, and the judges of the supreme court
+shall, on or before the first day of December of each year, report in writing to the governor, to be
+by him transmitted to the general assembly, together with his message, such defects and
+omissions in the constitution and laws as they may find to exist, together with appropriate bills
+for curing the same.
+
+*** SEND ***
+*** SSTART 028.0 006.0 0 CO 1876 ***
+
+SEC. 28. All laws relating to courts shall be general and of uniform operation throughout the
+State; and the organization, jurisdiction, powers, proceedings, and practice of all the courts, of
+the same class or grade, so far as regulated by law, and the force and effect of the proceedings,
+judgments, and decrees of such courts severally, shall be uniform.
+
+*** SEND ***
+*** SSTART 029.0 006.0 0 CO 1876 ***
+
+SEC. 29. All officers provided for in this article, excepting judges of the supreme court, shall
+respectively reside in the district, county, precinct, city, or town for which they may be elected or
+appointed. Vacancies in  elective offices shall be filled by election, but when the unexpired term
+does not exceed one year, the vacancy shall be filled by appointment, as follows: Of judges of the
+supreme and district courts, by the governor; of district attorneys, by the judge of the court of
+which the office appertains, and of all other judicial officers by the board of county
+commissioners of the county where the vacancy occurs.
+
+*** SEND ***
+*** SSTART 030.0 006.0 0 CO 1876 ***
+
+SEC. 30. All process shall run in the name of " The people of the State of Colorado; " all
+prosecutions shall be carried on in the name and by the authority of " The people of the State of
+Colorado," and conclude, " against the peace and dignity of the same."
+
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 CO 1876 ***
+
+
+ARTICLE VII
+
+*** SSTART 001.0 007.0 0 CO 1876 ***
+
+SUFFRAGE AND ELECTIONS
+
+SECTION 1. Every male person over the age of 21 years, possessing the following qualifications,
+shall be entitled to vote at all elections:
+First. He shall be a citizen of the United States, or, not being a citizen of the United States, he
+shall have declared his intention, according to law, to become such citizen, not less than four
+months before he offers to vote.
+Second. He shall have resided in the State six months immediately preceding the election at
+which he offers to vote, and in the county, city, town, ward, or precinct, such time as may be
+prescribed by law: Provided, That no person shall be denied the right to vote at any school-
+district election, nor to hold any school-district office, on account of sex.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 CO 1876 ***
+
+SEC. 2. The general assembly shall, at the first session thereof, and may at any subsequent
+session, enact laws to extend the right of suffrage to women of lawful age, and otherwise
+qualified according to the provisions of this article. No such enactment shall be of effect until
+submitted to the vote of the qualified electors at a general election, nor unless the same be
+approved by a majority of those voting thereon.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 CO 1876 ***
+
+SEC. 3. The general assembly may prescribe, by law, an educational qualification for electors,
+but no such law shall take effect prior to the year of our Lord one thousand eight hundred and
+ninety, and no qualified elector shall be thereby disqualified.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 CO 1876 ***
+
+SEC. 4. For the purpose of voting and eligibility to office, no person shall be deemed to have
+gained a residence by reason of his presence, or lost it by reason of his absence, while in the civil
+or military service of the State, or of the United States, nor while a student at any institution of
+learning, nor while kept at public expense in any poor-house or other asylum, nor while confined
+in public prison.
+
+*** SEND ***
+*** SSTART 005.0 007.0 0 CO 1876 ***
+
+SEC. 5. Voters shall in all cases, except treason, felony, or breach of the peace, be privileged
+from arrest during their attendance at elections, and in going to and returning therefrom.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 CO 1876 ***
+
+SEC. 6. No person except a qualified elector shall be elected or appointed to any civil or military
+office in the State.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 CO 1876 ***
+
+SEC. 7. The general election shall be held on the first Tuesday of October, in the years of our
+Lord eighteen hundred and seventy-six, eighteen hundred and seventy-seven, and eighteen
+hundred and seventy-eight, and annually thereafter on such day as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 008.0 007.0 0 CO 1876 ***
+
+SEC. 8. All elections by the people shall be by ballot; every ballot voted shall be numbered in the
+order in which it shall be received, and the number be recorded by the election-officers on the list
+of voters opposite the name of the voter who presents the ballot. The election-officers shall be
+sworn or affirmed not to inquire or disclose how any elector shall have voted. In all cases of
+contested elections, the ballots cast may be counted, compared with the list of voters, and
+examined, under such safeguards and regulations as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 009.0 007.0 0 CO 1876 ***
+
+SEC. 9. In trials of contested elections, and for offences arising under the election-law, no person
+shall be permitted to withhold his testimony on the ground that it may criminate himself, or
+subject him to public infamy; but such testimony shall not be used against him in any judicial
+proceedings, except for perjury in giving such testimony.
+
+*** SEND ***
+*** SSTART 010.0 007.0 0 CO 1876 ***
+
+SEC. 10. No person while confined in any public prison shall be entitled to vote; but every such
+person who was a qualified elector prior to such imprisonment, and who is released therefrom by
+virtue of a pardon, or by virtue of having served out his full term of imprisonment, shall, without
+further action, be invested with all the rights of citizenship, except as otherwise provided in this
+constitution.
+
+*** SEND ***
+*** SSTART 011.0 007.0 0 CO 1876 ***
+
+SEC. 11. The general assembly shall pass laws to secure the purity of elections and guard against
+abuses of the elective franchise.
+
+*** SEND ***
+*** SSTART 012.0 007.0 0 CO 1876 ***
+
+SEC. 12. The general assembly shall, by general law, designate the courts and judges by whom
+the several classes of election contests, not herein provided for, shall be tried, and regulate the
+manner of trial, and all matters incident thereto; but no such law shall apply to any contest arising
+out of an election held before its passage.
+
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 CO 1876 ***
+
+
+ARTICLE VIII
+
+
+STATE INSTITUTIONS
+
+*** SSTART 001.0 008.0 0 CO 1876 ***
+
+SECTION 1. Educational, reformatory, and penal institutions, and those for the benefit of the
+insane, blind, deaf and mute, and such other institutions as the public good may require, shall be
+established and supported by the State, in such manner as may be prescribed by law.
+
+*** SEND ***
+*** SSTART 002.0 008.0 0 CO 1876 ***
+
+SEC. 2. The general assembly shall have no power to change or to locate the seat of government
+of the State, but shall at its first session subsequent to the year of our Lord one thousand eight
+hundred and eighty, provide by law for submitting the question of the permanent location of the
+seat of government to the qualified electors of the State, at the general election then next ensuing,
+and a majority of all the votes upon said question, cast at said election, shall be necessary to
+determine the location thereof. Said general assembly shall also provide that in case there shall be
+no choice of location at said election, the question of choice between the two places for which
+the highest number of votes shall have been cast, shall be submitted in like manner to the
+qualified electors of the State, at the next general election: Provided, That until the seat of
+government shall have been permanently located as herein provided, the temporary location
+thereof shall remain at the city of Denver.
+
+*** SEND ***
+*** SSTART 003.0 008.0 0 CO 1876 ***
+
+SEC. 3. When the seat of government shall have been located as herein provided, the location
+thereof shall not thereafter be changed except by a vote of two-thirds of all the qualified electors
+of the State voting on that question, at a general election, at which the question of location of the
+seat of government shall have been submitted by the general assembly. 
+
+
+*** SEND ***
+*** SSTART 004.0 008.0 0 CO 1876 ***
+
+SEC. 4. The general assembly shall make no appropriation or expenditures for capitol buildings
+or grounds until the seat of government shall have been permanently located as herein provided.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 CO 1876 ***
+
+SEC. 5. The following territorial institutions, to wit, The University at Boulder, the Agricultural
+College at Fort Collins, the School of Mines at Golden, the Institute for the Education of Mutes
+at Colorado Springs, shall, upon the adoption of this constitution, become institutions of the State
+of Colorado, and the management thereof subject to the control of the State, under such laws and
+regulations as the general assembly shall provide; and the location of said institutions, as well as
+all gifts, grants, and appropriations of money and property, real and personal, heretofore made to
+said several institutions, are hereby confirmed to the use and benefit of the same respectively:
+Provided, This section shall not apply to any institution, the property, real or personal, of which
+is now vested in the trustees thereof, until such property be transferred by proper conveyance,
+together with the control thereof, to the officers provided for the management of said institution
+by this constitution or by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 CO 1876 ***
+
+
+ARTICLE IX
+
+EDUCATION
+
+*** SSTART 001.0 009.0 0 CO 1876 ***
+
+SECTION 1. The general supervision of the public schools of the State shall be vested in a board
+of education, whose powers and duties shall be prescribed by law; the superintendent of public
+instruction, the secretary of state, and attorney-general shall constitute the board, of which the
+superintendent of public instruction shall be president.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 CO 1876 ***
+
+SEC. 2. The general assembly shall, as soon as practicable, provide for the establishment and
+maintenance of a thorough and uniform system of free public schools throughout the State
+wherein all residents of the State between the ages of six and twenty-one years may be educated
+gratuitously. One or more public schools shall be maintained in each school-district within the
+State at least three months in each year; any school-district failing to have such school shall not
+be entitled to receive any portion of the school-fund for that year.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 CO 1876 ***
+
+SEC. 3. The public-school fund of the State shall forever remain inviolate and intact; the interest
+thereon only shall be expended in the maintenance of the schools of the State, and shall be
+distributed among the several counties and school-districts of the State in such manner as may be
+prescribed by law. No part of this fund, principal or interest, shall ever be transferred to any other
+fund, or used or appropriated except as herein provided. The State treasurer shall be the custodian
+of this fund, and the same shall be securely and profitably invested as may be by law directed.
+The State shall supply all losses thereof that may in any manner occur.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 CO 1876 ***
+
+SEC. 4. Each county treasurer shall collect all school-funds belonging to his county, and the
+several school-districts therein, and disburse the same to the proper districts upon warrants drawn
+by the county superintendent or by the proper district authorities as may be provided by law.
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 CO 1876 ***
+
+SEC. 5. The public-school fund of the State shall consist of the proceeds of such lands as have
+heretofore been, or may hereafter be, granted to the State by the General Government for
+educational purposes; all estates that may escheat to the State; also all other grants, gifts, or
+devises that may be made to this State for educational purposes.
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 CO 1876 ***
+
+SEC. 6. There shall be a county superintendent of schools in each county whose term of office
+shall be two years, and whose duties, qualifications, and compensation shall be prescribed by
+law. He shall be ex officio commissioner of lands within his county, and shall discharge the
+duties of said office under the direction of the State board of land commissioners, as directed by
+law.
+
+*** SEND ***
+*** SSTART 007.0 009.0 0 CO 1876 ***
+
+SEC. 7. Neither the general assembly, nor any county, city, town, township, school-district, or
+other public corporation shall ever make any appropriation, or pay from any public fund or
+moneys whatever, anything in aid of any church or sectarian society, or for any sectarian purpose,
+or to help support or sustain any school, academy, seminary, college, university, or other literary
+or scientific institution controlled by any church or sectarian denomination whatsoever; nor shall
+any grant or donation of land, money, or other personal property ever be made by the State, or
+any such public corporation, to any church or for any sectarian purposes.
+
+*** SEND ***
+*** SSTART 008.0 009.0 0 CO 1876 ***
+
+SEC. 8. No religious test or qualification shall ever be required of any person as a condition of
+admission into any public educational institution of the State, either as teacher or student; and no
+teacher or student of any such institution shall ever be required to attend or participate in any
+religious service whatever. No sectarian tenets or doctrines shall ever be taught in the public
+schools, nor shall any distinction or classification of pupils be made on account of race or color.
+
+*** SEND ***
+*** SSTART 009.0 009.0 0 CO 1876 ***
+
+SEC. 9. The governor, superintendent of public instruction, secretary of state, and attorney-
+general shall constitute the State board of land commissioners, who shall have the direction,
+control, and disposition of the public lands of the State, under such regulations as may be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 010.0 009.0 0 CO 1876 ***
+
+SEC. 10. It shall be the duty of the State board of land commissioners to provide for the location,
+protection, sale, or other disposition of all the lands heretofore, or which may hereafter be,
+granted to the State by the General Government, under such regulations as may be prescribed by
+law, and in such manner as will secure the maximum possible amount therefor. No law shall ever
+be passed by the general assembly granting any privileges to persons who may have settled upon
+any such public lands subsequent to the survey thereof by the General Government, by which the
+amount to be derived by the sale, or other disposition of such lands, shall be diminished, directly
+or indirectly. The general assembly shall, at the earliest practicable period, provide by law that
+the several grants of land made by Congress to the State shall be judiciously located and carefully
+preserved and held in trust subject to disposal for the use and benefit of the respective objects for
+which said grants of land were made, and the general assembly shall provide for the sale of said
+lands from time to time, and for the faithful application of the proceeds thereof in accordance
+with the terms of said grants.
+
+*** SEND ***
+*** SSTART 011.0 009.0 0 CO 1876 ***
+
+SEC. 11. The general assembly may require, by law, that every child of sufficient mental and
+physical ability shall attend the public school during the period between the ages of six and
+eighteen years, for a time equivalent to three years, unless educated by other means.
+
+*** SEND ***
+*** SSTART 012.0 009.0 0 CO 1876 ***
+
+SEC. 12. There shall be elected by the qualified electors of the State, at the first general election
+under this constitution, six regents of the university, who shall, immediately after their election,
+be so classified, by lot, that two shall hold their office for the term of two years, two for four
+years, and two for six years; and every two years after the first election there shall be elected two
+regents of the university, whose term of office shall be six years. The regents thus elected, and
+their successors, shall constitute a body-corporate, to be known by the name and style of " The
+Regents of the University of Colorado."
+
+*** SEND ***
+*** SSTART 013.0 009.0 0 CO 1876 ***
+
+SEC. 13. The regents of the university shall, at their first meeting, or as soon thereafter as
+practicable, elect a president of the university, who shall hold his office until removed by the
+board of regents for cause; he shall be ex officio a member of the board, with the privilege of
+speaking, but not of voting, except in cases of a tie; he shall preside at the meetings of the board,
+and be the principal executive officer of the university, and a member of the faculty thereof.
+
+*** SEND ***
+*** SSTART 014.0 009.0 0 CO 1876 ***
+
+SEC. 14. The board of regents shall have the general supervision of the university, and the
+exclusive control and direction of all the funds of, and appropriations to, the university.
+
+*** SEND ***
+*** SSTART 015.0 009.0 0 CO 1876 ***
+
+SEC. 15. The general assembly shall, by law, provide for organization of school districts of
+convenient size, in each of which shall be established a board of education, to consist of three or
+more directors, to be elected by the qualified electors of the district. Said directors shall have
+control of instruction in the public schools of their respective districts.
+
+*** SEND ***
+*** SSTART 016.0 009.0 0 CO 1876 ***
+
+SEC. 16. Neither the general assembly nor the State board of education shall have power to
+prescribe text-books to be used in the public schools.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 CO 1876 ***
+
+
+ARTICLE X
+
+REVENUE
+
+*** SSTART 001.0 010.0 0 CO 1876 ***
+
+
+SECTION 1. The fiscal year shall commence on the first day of October in each year, unless
+otherwise provided by law.
+
+*** SEND ***
+*** SSTART 002.0 010.0 0 CO 1876 ***
+
+SEC. 2. The general assembly shall provide by law for an annual tax sufficient, with other
+resources, to defray the estimated expenses of the State government for each fiscal year.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 CO 1876 ***
+
+SEC. 3. All taxes shall be uniform upon the same class of subjects within the territorial limits of
+the authority levying the tax, and shall be levied and collected under general laws, which shall
+prescribe such regulations as shall secure a just valuation for taxation of all property, real and
+personal: Provided, That mines and mining claims bearing gold, silver, and other precious
+metals, (except the net proceeds and surface improvements thereof,) shall be exempt from
+taxation for the period of ten years from the date of the adoption of this constitution, and
+thereafter may be taxed as provided by law. Ditches, canals, and flumes owned and used by
+individuals or corporations for irrigating lands owned by which individuals or corporations, or
+the individual members thereof, shall not be separately taxed so long as they shall be owned and
+used exclusively for such purpose.
+
+*** SEND ***
+*** SSTART 004.0 010.0 0 CO 1876 ***
+
+SEC. 4. The property, real and personal, of the State, counties, cities, and other municipal
+corporations, and public libraries, shall be exempt from taxation.
+
+*** SEND ***
+*** SSTART 005.0 010.0 0 CO 1876 ***
+
+SEC. 5. Lots, with the buildings thereon, if said buildings are used solely and exclusively for
+religious worship, for schools, or for strictly charitable purposes, also cemeteries not used or held
+for private or corporate profit, shall be exempt from taxation, unless otherwise provided by
+general law.
+
+*** SEND ***
+*** SSTART 006.0 010.0 0 CO 1876 ***
+
+
+SEC. 6. All laws exempting from taxation property other than that hereinbefore mentioned shall
+be void.
+
+*** SEND ***
+*** SSTART 007.0 010.0 0 CO 1876 ***
+
+SEC. 7. The general assembly shall not impose taxes for the purposes of any county city, town,
+or other municipal corporation, but may, by law, vest in the corporate authorities thereof
+respectively the power to assess and collect taxes for all purposes of such corporation.
+
+*** SEND ***
+*** SSTART 008.0 010.0 0 CO 1876 ***
+
+SEC. 8. No county, city, town, or other municipal corporation, the inhabitants thereof, nor the
+property therein, shall be released or discharged from their, or its, proportionate share of taxes to
+be levied for State purposes.
+
+*** SEND ***
+*** SSTART 009.0 010.0 0 CO 1876 ***
+
+SEC. 9. The power to tax corporations and corporate property, real and personal, shall never be
+relinquished  or suspended.
+
+*** SEND ***
+*** SSTART 010.0 010.0 0 CO 1876 ***
+
+SEC. 10. All corporations in this State, or doing business therein, shall be subject to taxation for
+State, county, school, municipal, and other purposes, on the real and personal property owned or
+used by them within the territorial limits of the authority levying the tax.
+
+*** SEND ***
+*** SSTART 011.0 010.0 0 CO 1876 ***
+
+SEC. 11. The rate of taxation on property, for State purposes, shall never exceed six mills on
+each dollar of valuation; and whenever the taxable property within the State shall amount to one
+hundred million dollars the rate shall not exceed four mills on each dollar of valuation; and
+whenever the taxable property within the State shall amount to three hundred million dollars the
+rate shall never thereafter exceed two mills on each dollar of valuation, unless a proposition to
+increase such rate, specifying the rate proposed, and the time during which the same shall be
+levied, be first submitted to a vote of such of the qualified electors of the State as in the year next
+preceding such election shall have paid a property-tax assessed to them within the State, and a
+majority of those voting thereon shall vote in favor thereof, in such manner as may be provided
+by law.
+
+*** SEND ***
+*** SSTART 012.0 010.0 0 CO 1876 ***
+
+SEC. 12. The treasurer shall keep a separate account of each fund in his hands, and shall, at the
+end of each quarter of the fiscal year, report to the governor in writing, under oath, the amount of
+all moneys in his hands to the credit of every such fund, and the place where the same are kept or
+deposited, and the number and amount of every warrant received and the number and amount of
+every warrant paid therefrom during the quarter. Swearing falsely to any such report shall be
+deemed perjury. The governor shall cause every such report to be immediately published in at
+least one newspaper printed at the seat of government, and otherwise as the general assembly
+may require. The general assembly may provide by law further regulations for the safe-keeping
+and management of the public funds in the hands of the treasurer; but notwithstanding any such
+regulation, the treasurer and his sureties shall in all cases be held responsible therefor.
+
+*** SEND ***
+*** SSTART 013.0 010.0 0 CO 1876 ***
+
+SEC. 13. The making of profit, directly or indirectly, out of State, county, city, town or school-
+district money, or using the same for any purpose not authorized by law, by any public officer,
+shall be deemed a felony, and shall be punished as provided by law.
+
+*** SEND ***
+*** SSTART 014.0 010.0 0 CO 1876 ***
+
+SEC. 14. Private property shall not be taken or sold for the payment of the corporate debt of
+municipal corporations.
+
+*** SEND ***
+*** SSTART 015.0 010.0 0 CO 1876 ***
+
+SEC. 15. There shall be a State board of equalization, consisting of the governor, State auditor,
+State treasurer, secretary of state, and attorney-general; also, in each county of this State, a county
+board of equalization, consisting of the board of county commissioners of said county. The duty
+of the State board of equalization shall be to adjust and equalize the valuation of real and
+personal property among the several counties of the State. The duty of the county board of
+equalization shall be to adjust and equalize the valuation of real and personal property within
+their respective counties. Each board shall also perform such other duties as may be prescribed
+by law.
+
+*** SEND ***
+*** SSTART 016.0 010.0 0 CO 1876 ***
+
+SEC. 16. No appropriation shall be made, nor any expenditure authorized by the general
+assembly, whereby the expenditure of the State, during any fiscal year, shall exceed the total tax
+then provided for by law and applicable for such appropriation or expenditure, unless the general
+assembly making such appropriation shall provide for levying a sufficient tax, not exceeding the
+rates allowed in section eleven of this article, to pay such appropriation or expenditure within
+such fiscal year. This provision shall not apply to appropriations or expenditures to suppress
+insurrection, defend the State, or assist in defending the United States in time of war.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 CO 1876 ***
+
+
+ARTICLE XI
+
+
+PUBLIC INDEBTEDNESS
+
+*** SSTART 001.0 011.0 0 CO 1876 ***
+
+
+SECTION 1. Neither the State, nor any county, city, town, township, or school-district shall lend
+or pledge the credit or faith thereof, directly or indirectly, in any manner to, or in aid of, any
+person, company, or corporation, public or private, for any amount or for any purpose whatever,
+or become responsible for any debt, contract, or liability of any person, company, or corporation,
+public or private, in or out of the State. 
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 CO 1876 ***
+
+SEC. 2. Neither the State, nor any county, city, town, township, or school-district shall make any
+donation or grant to, or in aid of, or become a subscriber to, or shareholder in, any corporation or
+company, or a joint owner with any person, company, or corporation, public or private, in or out
+of the State, except as to such ownership as may accrue to the State by escheat, or by forfeiture,
+by operation or provision of law; and except as to such ownership as may accrue to the State, or
+to any county, city, town, township, or school-district, or to either or any of them, jointly with
+any person, company, or corporation, by forfeiture or sale of real estate for non-payment of taxes,
+or by donation or devise for public use, or by purchase by or on behalf of any or either of them,
+jointly with any or either of them, under execution in cases of fine, penalties, or forfeiture of
+recognizance, breach of condition of official bond, or of bond to secure public moneys, or the
+performance of any contract in which they or any of them may be jointly or severally interested.
+
+*** SEND ***
+*** SSTART 003.0 011.0 0 CO 1876 ***
+
+SEC. 3. The State shall not contract any debt by loan, in any form, except to provide for casual
+deficiencies of revenue, erect public buildings for use of the State, suppress insurrection, defend
+the State, or, in time of war, assist in defending the United States; and the amount of debt
+contracted in any one year to provide for deficiencies of the revenue shall not exceed one-fourth
+of a mill on each dollar of valuation of taxable property within the State, and the aggregate
+amount of such debt shall not at any time exceed three fourths of a mill on each dollar of said
+valuation until the valuation shall equal one hundred millions of dollars, and thereafter such debt
+shall not exceed one hundred thousand dollars, and the debt incurred in any one year for erection
+of public buildings shall not exceed one-half mill on each dollar of said valuation, and the aggre-
+
+gate amount of such debt shall never at any time exceed the sum of fifty thousand dollars, (except
+as provided in section five of this article;) and in all cases the valuation in this section mentioned
+shall be, that of the assessment last preceding the creation of said debt.
+
+*** SEND ***
+*** SSTART 004.0 011.0 0 CO 1876 ***
+
+SEC. 4. In no case shall any debt above mentioned in this article be created, except by a law
+which shall be irrepealable, until the indebtedness therein provided for shall have been fully paid
+or discharged; such law shall specify the purposes to which the funds so raised shall be applied,
+and provide for the levy of a tax sufficient to pay the interest on, and extinguish the principal of,
+such debt within the time limited by such law for the payment thereof, which, in the case of debts
+contracted for the erection of public buildings and supplying deficiencies of revenue, shall not be
+less than ten nor more than fifteen years; and the funds arising from the collection of any such tax
+shall not be applied to any other purpose than that provided in the law levying the same; and
+when the debt thereby created shall be paid or discharged such tax shall cease, and the balance, if
+any, to the credit of the fund, shall immediately be placed to the credit of the general fund of the
+State.
+
+*** SEND ***
+*** SSTART 005.0 011.0 0 CO 1876 ***
+
+SEC. 5. A debt for the purpose of erecting public buildings may be created by law, as provided
+for in section  four of this article, not exceeding in the aggregate three mills on each dollar of said
+valuation: Provided, That before going into effect such law shall be ratified by the vote of a
+majority of such qualified electors of the State as shall vote thereon at a general election, under
+such regulations as the general assembly may prescribe.
+
+*** SEND ***
+*** SSTART 006.0 011.0 0 CO 1876 ***
+
+SEC. 6. No county shall contract any debt by loan in any form, except for the purpose of erecting
+necessary public buildings, making or repairing public roads and bridges; and such indebtedness
+contracted in any one year shall not exceed the rates upon the taxable property in such county
+following, to wit: counties in which the assessed valuation of taxable property shall exceed five
+millions of dollars, one dollar and fifty cents on each thousand dollars thereof; counties in which
+such valuation shall be less than five millions of dollars, three dollars on each thousand dollars
+thereof; and the aggregate amount of indebtedness of any county, for all purposes, exclusive of
+debts contracted before the adoption of this constitution, shall not at any time exceed twice the
+amount above herein limited, unless when, in manner provided by law, the question of incurring
+such debt shall, at a general election, be submitted to such of the qualified electors of such county
+as in the year last preceding such election shall have paid a tax upon property assessed to them in
+such county, and a majority of those voting thereon shall vote in favor of incurring the debt; but
+the bonds, if any be issued therefor, shall not run less than ten years; and the aggregate amount of
+debt so contracted shall not at any time exceed twice the rate upon the valuation last herein
+mentioned: Provided, That this section shall not apply to counties having a valuation of less than
+one million of dollars.
+
+*** SEND ***
+*** SSTART 007.0 011.0 0 CO 1876 ***
+
+SEC. 7. No debt by loan in any form shall be contracted by any school-district for the purpose of
+erecting and furnishing school buildings or purchasing grounds, unless the proposition to create
+such debt shall first be submitted to such qualified electors of the districts as shall have paid a
+school-tax therein in the year next preceding such election, and a majority of those voting thereon
+shall vote in favor of incurring such debt.
+
+*** SEND ***
+*** SSTART 008.0 011.0 0 CO 1876 ***
+
+SEC. 8. No city or town shall contract any debt by loan in any form, except by means of an
+ordinance, which shall be irrepealable until the indebtedness therein provided for shall have been
+fully paid or discharged, specifying the purposes to which the funds to be raised shall be applied,
+and providing for the levy of a tax, not exceeding twelve mills on each dollar of valuation of
+taxable property within such city or town, sufficient to pay the annual interest and extinguish the
+principal of such debt within fifteen, but not less than ten, years from the creation thereof; and
+such tax, when collected, shall be applied only to the purposes in such ordinance specified until
+the indebtedness shall be paid or discharged; but no such debt shall be created unless the question
+of incurring the same shall, at a regular election for councilmen, alderman, or officers of such
+city or town, be submitted to a vote of such qualified electors thereof as shall, in the year next
+preceding, have paid a property-tax therein, and a majority of those voting on the question, by
+ballot deposited in a separate ballot-box, shall vote in favor of creating such debt; but the
+aggregate amount of debt so created, together with the debt existing at the time of such election,
+shall not at any time exceed three per cent. of the valuation last aforesaid. Debts contracted for
+supplying water to such city or town are excepted from the operation of this section. The
+valuation in this section mentioned shall be in all cases that of the assessment next preceding the
+last assessment before the adoption of such ordinance.
+
+
+*** SEND ***
+*** SSTART 009.0 011.0 0 CO 1876 ***
+
+SEC. 9. Nothing contained in this article shall be so construed as to either impair or add to the
+obligation of any debt heretofore contracted by any county, city, town, or school-district in
+accordance with the laws of Colorado Territory, or prevent the contracting of any debt, or the
+issuing of bonds therefor, in accordance with said laws, upon any proposition for that purpose
+which may have been, according to said laws, submitted to a vote of the qualified electors of any
+county, city, town, or school-district before the day on which this constitution takes effect.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 012.0 CO 1876 ***
+
+ARTICLE XII
+OFFICERS
+*** SSTART 001.0 012.0 0 CO 1876 ***
+
+SECTION 1. Every person holding any civil office under the State or any municipality therein
+shall, unless removed according to law, exercise the duties of such office until his successor is
+duly qualified; but this shall not apply to members of the general assembly, nor to members of
+any board or assembly two or more of whom are elected at the same time; the general assembly
+may by law provide for suspending any officer in his functions pending impeachment or
+prosecution for misconduct in office.
+
+*** SEND ***                                                
+
+*** SSTART 002.0 012.0 0 CO 1876 ***
+
+SEC. 2. No person shall hold any office or employment of trust or profit, under the laws of the
+State or any ordinance of any municipality therein, without devoting his personal attention to the
+duties of the same.
+
+
+*** SEND ***
+
+*** SSTART 003.0 012.0 0 CO 1876 ***
+
+SEC. 3. No person who is now or hereafter may become a collector or receiver of public money,
+or the deputy or assistant of such collector or receiver, and who shall have become a defaulter in
+his office, shall be eligible to or assume the duties of any office of trust or profit in this State,
+under the laws thereof, or of any municipality therein, until he shall have accounted for and paid
+over all public money for which he may be accountable.
+
+*** SEND ***
+
+
+*** SSTART 004.0 012.0 0 CO 1876 ***
+
+ SEC. 4. No person hereafter convicted of embezzlement of public moneys, bribery, perjury,
+solicitation of bribery, or subornation of perjury, shall be eligible to the general assembly, or
+capable of holding any office of trust or profit in this State.
+
+*** SEND ***
+
+*** SSTART 005.0 012.0 0 CO 1876 ***
+
+SEC. 5. The district court of each county shall, at each term thereof, specially give in charge to
+the grand jury, if there be one, the laws regulating the accountability of the county treasurer, and
+shall appoint a committee of such grand jury, or if other reputable persons, not exceeding five, to
+investigate the official accounts and affairs of the treasurer of such county, and report to the court
+the condition thereof. The judge of the district court may appoint a like committee in vacation at
+any time, but not oftener than once in every three months. The district court of the county 
+wherein the seat of government may be shall have the like power to appoint committees to
+investigate the official accounts and affairs of the State treasurer and the auditor of State..
+
+*** SEND ***
+
+*** SSTART 006.0 012.0 0 CO 1876 ***
+
+ SEC. 6. Any civil officer or member of the general assembly who shall solicit, demand, or
+receive, or consent to receive, directly or indirectly, for himself or for another, from any
+company, corporation, or person, any money, office, appointment, employment, testimonial,
+reward, thing of value or enjoyment, or of personal advantage, or promise thereof, for his vote,
+official influence, or action, or for withholding the same, or with an understanding that his
+official influence or action shall be in any way influenced thereby, or who shall solicit or demand
+any such money or advantage, matter, or thing aforesaid for another, as the consideration of his
+vote, official influence, or action, or for withholding the same, or shall give or withhold his vote,
+official influence, or action in consideration of the payment or promise of such money,
+advantage, matter, or thing to another, shall be held guilty of bribery, or solicitation of bribery as
+the case may be, within the meaning of this constitution, and shall incur the disabilities provided
+thereby for such offence, and such additional punishment as is or shall be prescribed by law.
+
+*** SEND ***
+
+*** SSTART 007.0 012.0 0 CO 1876 ***
+
+SEC. 7. Every member of the general assembly shall, before he enters upon his official duties,
+take an oath or affirmation to support the Constitution of the United States and of the State of
+Colorado, and to faithfully perform the duties of his office according to the best of his ability.
+This oath, or affirmation, shall be administered in the hall of the house to which the member
+shall have been elected.
+
+*** SEND ***
+
+*** SSTART 008.0 012.0 0 CO 1876 ***
+
+SEC. 8. Every civil officer, except members of the general assembly and such inferior officers as
+may be by law exempted, shall, before he enters upon the duties of his office, take and subscribe
+an oath or affirmation to support the Constitution of the United States and the State of Colorado,
+and to faithfully perform the duties of the office upon which he shall be about to enter.
+
+*** SEND ***
+
+*** SSTART 009.0 012.0 0 CO 1876 ***
+
+SEC. 9. Officers of the executive department and judges of the supreme and district courts, and
+district attorneys, shall file their oaths of office with the secretary of state; every other officer
+shall file his oath of office with the county clerk of the county wherein he shall have been
+elected.
+
+*** SEND ***
+
+*** SSTART 010.0 012.0 0 CO 1876 ***
+
+SEC. 10. If any person elected or appointed to any office shall refuse or neglect to qualify therein
+within the time prescribed by law, such office shall be deemed vacant.
+
+*** SEND ***
+
+*** SSTART 011.0 012.0 0 CO 1876 ***
+
+SEC. 11. The term of office of any officer elected to fill a vacancy shall terminate at the
+expiration of the term during which the vacancy occurred.
+
+*** SEND ***
+
+
+*** SSTART 012.0 012.0 0 CO 1876 ***
+
+SEC. 12. No person who shall hereafter fight a duel, or assist in the same as a second, or send,
+accept, or knowingly carry a challenge therefor, or agree to go out of the State to fight a duel,
+shall hold any office in the State.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 013.0 CO 1876 ***
+
+ARTICLE XIII
+
+IMPEACHMENTS
+*** SSTART 001.0 013.0 0 CO 1876 ***
+
+SECTION 1. The house of representatives shall have the sole power of impeachment. The
+concurrence of a majority of all the members shall be necessary to an impeachment. All
+impeachments shall be tried by the Senate, and, when sitting for that purpose, the senators shall
+be upon oath or affirmation to do justice according to law and evidence. When the governor or
+lieutenant governor is on trial, the chief-justice of the supreme court shall preside. No person
+shall be convicted without a concurrence of two-thirds of the senators elected.
+
+*** SEND ***
+
+*** SSTART 002.0 013.0 0 CO 1876 ***
+
+SEC. 2. The governor and other State and judicial officers, except county judges and justices of
+the peace, shall be liable to impeachment for high crimes or misdemeanors, or malfeasance in
+office, but judgement in such cases shall only extend to removal from office and disqualification
+to hold any office of honor, trust, or profit in the State. The party, whether convicted or acquitted,
+shall, nevertheless, be liable to prosecution, trial, judgment, and punishment according to law.
+
+*** SEND ***
+
+*** SSTART 003.0 013.0 0 CO 1876 ***
+
+SEC. 3. All officers not liable to impeachment shall be subject to removal for misconduct or
+malfeasance in office, in such manner as may be provided by law..
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 014.0 CO 1976 ***
+
+ARTICLE XIV
+
+COUNTIES
+*** SSTART 001.0 014.0 0 CO 1876 ***
+
+
+SECTION 1. The several counties of the Territory of Colorado, as they now exist, are hereby
+declared to be counties of the State.
+
+*** SEND ***
+
+*** SSTART 002.0 014.0 0 CO 1876 ***
+
+SEC. 2. The general assembly shall have no power to remove the county-seat of any county, but
+the removal of county-seats shall be provided for by general law, and no county-seat shall be
+removed unless a majority of the qualified electors of the county, voting on the proposition at a
+general election, vote therefor; and no such proposition shall be submitted oftener than once in
+four years, and no person shall vote on such proposition who shall not have resided in the county
+six months and in the election-precinct ninety days next preceding such election.
+
+*** SEND ***
+
+*** SSTART 003.0 014.0 0 CO 1876 ***
+
+SEC. 3. No part of the territory of any county shall be stricken off and added to an adjoining
+county without first submitting the question to the qualified voters of the county from which the
+territory is proposed to be stricken off; nor unless a majority of all the qualified voters of said
+county voting on the question shall vote therefor.
+
+*** SEND ***
+
+*** SSTART 004.0 014.0 0 CO 1876 ***
+
+SEC. 4. In all cases of the establishment of any new county, the new county shall be held to pay
+its ratable proportion of all then existing liabilities of the county or counties froin which such
+new county shall be formed.
+
+*** SEND ***
+
+*** SSTART 005.0 014.0 0 CO 1876 ***
+
+SEC. 5. When any part of a county is stricken off and attached to another county, the part
+stricken off shall be held to pay its ratable proportion of all then existing liabilities of the county
+from which it is taken.
+
+*** SEND ***
+
+*** SSTART 006.0 014.0 0 CO 1876 ***
+
+
+COUNTY OFFICERS
+
+SEC. 6. In each county there shall be elected for the term of three years three county
+commissioners, who shall hold sessions for the transaction of county business as provided by
+law, any two of whom shall constitute a quorum for the transaction of business. One of said
+commissioners shall be elected on the first Tuesday of October, eighteen hundred and seventy-
+six, and every year thereafter one such officer shall be elected in each county at the general
+election, for the term of three years; Provided, That when the population of any county shall
+exceed ten thousand, the board of county commissioners may consist of five members, who shall
+be elected as provided by law, any three of whom shall constitute a quorum for the transaction of
+business.
+
+*** SEND ***
+
+*** SSTART 007.0 014.0 0 CO 1876 ***
+
+SEC. 7. The compensation of all county and precinct officers shall be as provided by law.
+
+*** SEND ***
+
+*** SSTART 008.0 014.0 0 CO 1876 ***
+
+SEC. 8. There shall be elected in each county, on the first Tuesday of October, in the year one
+thousand eight hundred and seventy-seven. and every alternate year forever thereafter, one county
+clerk. who shall be ex officio recorder of deeds and clerk of the board of county commissioners;
+one sheriff; one coroner; one treasurer, who shall be collector of taxes; one county superintendent
+of schools; one county surveyor, and one county assessor. 
+
+*** SEND ***
+
+*** SSTART 009.0 014.0 0 CO 1876 ***
+
+SEC. 9. In case of a vacancy occurring in the office of county commissioner, the governor shall
+fill the same by appointment; and in the case of a vacancy in any other county office, or in any
+precinct office. the board of county commissioners shall fill the same by appointment; and the
+person appointed shall hold the office until the next general election, or until the vacancy be
+filled by election according to law.
+
+*** SEND ***
+
+*** SSTART 010.0 014.0 0 CO 1876 ***
+
+SEC. 10. No person shall be eligible to any county office unless he be a qualified elector; nor
+unless he shall have resided in the county one year preceding his election.
+
+*** SEND ***
+
+*** SSTART 011.0 014.0 0 CO 1876 ***
+
+ SEC. 11. There shall, at the first election at which county officers are chosen, and annually
+thereafter, be elected in each precinct one justice of the eace and one constable, who shall each
+hold his office for the term of two years: Provided, That in precincts containing five thousand or
+more inhabitants, the number of justices and constables may be increased as provided by law.
+
+*** SEND ***
+
+*** SSTART 012.0 014.0 0 CO 1876 ***
+
+ SEC. 12. The general assembly shall provide for the election or appointment, of such other
+county, township, precinct, and municipal officers as public convenience may require; and their
+terms of office shall be as prescribed by law, not in any case to exceed two years.
+
+*** SEND ***
+
+*** SSTART 013.0 014.0 0 CO 1876 ***
+
+ SEC. 13. The general assembly shall provide, by general laws, for the organization and
+classification of cities and towns. The number of such classes shall not exceed four, and the
+powers of each class shall be defined by general laws, so that all municipal corporations of the
+same class shall possess the same powers, and be subject to the same restrictions.
+
+*** SEND ***
+
+*** SSTART 014.0 014.0 0 CO 1876 ***
+
+ SEC. 14. The general assembly shall also make provision, by general law, whereby any city,
+town, or village, incorporated by any special or local law, may elect to become subject to, and be
+governed by, the general law relating to such corporations.
+
+*** SEND ***
+
+*** SSTART 015.0 014.0 0 CO 1876 ***
+
+ SEC. 15. For the purpose of providing for and regulating the compensation of county and
+precinct officers, the general assembly shall, by law, classify the several counties of the State
+according to population, and shall grade and fix the compensation of the officers within the
+respective classes according to the population thereof. Such law shall establish scales of fees to
+be charged and collected by such of the county and precinct officers as may be designated
+therein, for services to be performed by them respectively; and where salaries are provided the
+same shall be payable only out of the fees actually collected in all cases where fees are
+prescribed. All fees, perquisites, and emoluments, above the amount of such salaries, shall be
+paid into the county treasury.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 015.0 CO 1876 ***
+ARTICLE XV
+
+CORPORATIONS
+
+*** SSTART 001.0 015.0 0 CO 1876 ***
+
+SECTION .1. All existing charters or grants of special or exclusive privileges, under which the
+corporators or grantees shall not have organized and commenced business in good faith at the
+time of the adoption of this constitution, shall thereafter have no validity.
+
+*** SEND ***
+
+*** SSTART 002.0 015.0 0 CO 1876 ***
+
+SEC. 2 . No charter of incorporations shall be granted, extended, changed or amended by special
+law, except for such municipal, charitable, educational, penal, or reformatory corporations as are
+or may be under the control of the State, but the general assembly shall provide by general laws
+for the organization of corporations hereafter to be created.
+
+*** SEND ***
+
+*** SSTART 003.0 015.0 0 CO 1876 ***
+
+SEC. 3.. The general assembly shall have the power to alter, revoke, or annul any charter of
+incorporation now existing and revocable at the adoption of this constitution, or any that may
+hereafter be created, whenever in their opinion it may be injurious to the citizens of the State, in
+such manner, however, that no injustice shall be done to the corporators.
+
+*** SEND ***
+
+*** SSTART 004.0 015.0 0 CO 1876 ***
+
+SEC. 4. All railroads shall be public highways, and all railroad companies shall be common
+carriers. Any association or corporation organized for the purpose shall have the right to
+construct and operate a railroad between any designated points within this State, and to connect
+at the State line with railroads of other States and Territories. Every railroad company shall have
+the right with its road to intersect, connect with, or cross any other railroad.
+
+*** SEND ***
+
+*** SSTART 005.0 015.0 0 CO 1876 ***
+
+SEC. 5. No railroad corporation, or the lessees or managers thereof, shall consolidate its stock,
+property, or franchises with any other railroad corporation owning or having under its control a
+parallel or competing line.
+
+*** SEND ***
+
+*** SSTART 006.0 015.0 0 CO 1876 ***
+
+SEC. 6. All individuals, associations, and corporations shall have equal rights to have persons
+and property transported over any railroad in this State, and no undue or unreasonable
+discrimination shall be made in charges or in facilities for transportation of freight or passengers
+within the State, and no railroad company, nor any lessee, manager, or employ‚ thereof, shall
+give any preference to individuals, associations, or corporations in furnishing cars or motive-
+power.
+
+
+*** SEND ***
+
+*** SSTART 007.0 015.0 0 CO 1876 ***
+
+SEC. 7. No railroad or other transportation company in existence at the time of the adoption of
+this constitution shall have the benefit of any future legislation without first filing in the office of
+the secretary of state an acceptance of the provisions of this constitution in binding form.
+
+*** SEND ***
+
+*** SSTART 008.0 015.0 0 CO 1876 ***
+
+SEC. 8. The right of eminent domain shall never he abridged, nor so construed as to prevent the
+general assembly from taking the property and franchises of incorporated companies and
+subjecting them to public use, the same as the property of individuals; and the police powers of
+the State shall never be abridged, or so construed as to permit corporations to conduct their
+business in such manner as to infringe the equal rights of individuals or the general well-being of
+the State.
+
+*** SEND ***
+
+*** SSTART 009.0 015.0 0 CO 1876 ***
+
+SEC. 9. No corporation shall issue stocks or bonds, except for labor done, services performed, or
+money or property actually received, and all fictitious increase of stock and indebtedness shall be
+void. The stock of corporations shall not be increased except in pursuance of general law, nor
+without the consent of the persons holding a majority of the stock, first obtained at a meeting
+held after at least thirty days' notice given in pursuance of law.
+
+*** SEND ***
+
+*** SSTART 010.0 015.0 0 CO 1876 ***
+
+SEC. 10. No foreign corporation shall do any business in this State, without having one or more
+known places of business, and an authorized agent or agents in the same upon whom process
+may be served
+
+*** SEND ***
+
+*** SSTART 011.0 015.0 0 CO 1876 ***
+
+SEC. 11. No street-railroad shall be constructed within any city, town, or incorporated village
+without the consent of the local authorities having the control of the street or highway proposed
+to be occupied by such street-railroad.
+
+*** SEND ***
+
+*** SSTART 012.0 015.0 0 CO 1876 ***
+
+SEc. 12. The general assembly shall pass no law for the benefit of a railroad or other corporation,
+or any individual or association of individuals, retrospective in its operation, or which imposes
+on the people of any county or municipal subdivision of the State a new liability in respect to
+transactions or considerations already past.
+
+*** SEND ***
+
+*** SSTART 013.0 015.0 0 CO 1876 ***
+
+SEC. 13 Any association or corporation, or the lessees or managers thereof, organized for the
+purpose, or any individual, shall have the right to construct and maintain lines of telegraph within
+this State, and to connect the same with other lines; and the general assembly shall, by general
+law of uniform operation, provide reasonable regulations to give full effect to this section. No
+telegraph company shall consolidate with, or hold a controlling interest in, the stock or bonds of
+any other telegraph company owning or having the control of a competing line, or acquire, by
+purchase or otherwise, any other competing line of telegraph.
+
+*** SEND ***
+
+*** SSTART 014.0 015.0 0 CO 1876 ***
+
+SEC. 14. If any railroad, telegraph, express, or other corporation organized under any of the laws
+of this State shall consolidate, by sale or otherwise, with any railroad, telegraph, express, or other
+corporation organized under any laws of any other State or Territory, or of the United States, the
+same shall not thereby become a foreign corporation, but the courts of this State shall retain
+jurisdiction over that part of the corporate property within the limits of the State in all matters
+which may arise, as if said consolidation had not taken place.
+
+*** SEND ***
+
+*** SSTART 015.0 015.0 0 CO 1876 ***
+
+SEC. 15. It shall be unlawful for any person, company, or corporation to require of its servants or
+employ‚s, as a condition of their employment or otherwise, any contract or agreement whereby
+such person, company, or corporation shall be released or discharged from liability or
+responsibility on account of personal injuries received by such servants or employ‚s while in the
+service of such person, company, or corporation by reason of the negligence of such person,
+company, or corporation, or the agents or employ‚s thereof; and such contracts shall be
+absolutely null and void.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 016.0 CO 1876 ***
+
+ARTICLE XVI
+
+MINING AND IRRIGATION
+
+MINING
+*** SSTART 001.0 016.0 0 CO 1876 ***
+
+SECTION 1. There shall be established and maintained the office of commissioner of mines, the
+duties and salary of which shall be prescribed by law. When said office shall be established the
+governor shall, with the advice and consent of the Senate, appoint thereto a person known to be
+competent, whose term of office shall be four years.
+
+*** SEND ***
+
+*** SSTART 002.0 016.0 0 CO 1876 ***
+
+SEC. 2. The general assembly shall provide by law for the proper ventilation of mines, the
+construction of escapement-shafts, and such other appliances as may be necessary to protect the
+health and secure the safety of the workmen therein, and shall prohibit the employment in the
+mines of children under twelve years of age.
+
+*** SEND ***
+
+*** SSTART 003.0 016.0 0 CO 1876 ***
+
+SEC. 3. The general assembly may make such regulations from time to time as may be necessary
+for the proper and equitable drainage of mines.
+
+*** SEND ***
+
+*** SSTART 004.0 016.0 0 CO 1876 ***
+
+SEC. 4. The general assembly may provide that the science of mining and metallurgy be taught in
+one or more of the institutions of learning under the patronage of the State.
+
+
+*** SEND ***
+
+*** SSTART 005.0 016.0 0 CO 1876 ***
+
+
+SEC. 5. The water of every natural stream not heretofore appropriated within the State of
+Colorado is hereby declared to be the property of the public; and the same is dedicated to the use
+of the people of the State, subject to appropriation as hereinafter provided.
+
+*** SEND ***
+
+*** SSTART 006.0 016.0 0 CO 1876 ***
+
+SEC. 6. The right to divert the unappropriated waters of any natural stream to beneficial uses
+shall never be denied. Priority of appropriation shall give the better right as between those using
+the water for the same purpose; but when the waters of any natural stream are not sufficient for
+the service of all those desiring the use of the same, those using the water for domestic purposes
+shall have the preference over those claiming for any other purpose, and those using the water for
+agricultural purposes shall have preference over those using the, same for manufacturing
+purposes.
+
+*** SEND ***
+
+*** SSTART 007.0 016.0 0 CO 1876 ***
+
+SEC. 7. All persons and corporations shall have the, right of way across public, private, and
+corporate lands for the construction of ditches, canals, and flumes, for the purpose of conveying
+water for domestic purposes, for the irrigation of agricultural lands, and for mining and
+manufacturing purposes, and for drainage, upon payment of just compensation.
+
+*** SEND ***                     
+
+*** SSTART 008.0 016.0 0 CO 1876 ***
+
+SEC. 8. The general assembly shall provide by law that the board of county commissioners, in
+their respective counties, shall have power, when application is made to them by either party
+interested, to establish reasonable maximum rates to be charged for the use of water, whether
+furnished by individuals or corporations.
+
+*** SEND ***
+
+*** AEND ***
+                              
+*** ASTART 017.0 CO 1876 ***
+
+ARTICLE XVII
+
+MILITIA
+*** SSTART 001.0 017.0 0 CO 1876 ***
+
+SECTION 1. The militia of the State shall consist of all able-bodied male residents of the State
+between the ages of eighteen and forty-five years, except such persons as may be exempted by
+the laws of the United States or of the State.
+     
+*** SEND ***
+
+*** SSTART 002.0 017.0 0 CO 1876 ***
+
+SEC. 2. The organization, equipment and discipline of the militia shall conform, as nearly as
+practicable, to the regulations for the government of the armies of the United States.
+
+*** SEND ***
+
+*** SSTART 003.0 017.0 0 CO 1876 ***
+
+SEC. 3. The governor shall appoint all general, field, and staff officers, and commission them.
+Each company shall elect its own officers, who shall be commissioned by the governor; but if
+any company shall fail to elect such officers within the time prescribed by law, they may be
+appointed by the governor.
+
+*** SEND ***
+
+*** SSTART 004.0 017.0 0 CO 1876 ***
+
+SEC. 4. The general assembly shall provide for the safe-keeping of the public arms, military
+records, relics, and banners of the State.
+
+*** SEND ***
+
+*** SSTART 005.0 017.0 0 CO 1876 ***
+
+SEC. 5. No person having conscientious scruples against bearing arms shall be compelled to do
+militia duty in time of peace: Provided, Such person shall pay an equivalent for such exemption.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 018.0 CO 1876 ***
+
+ARTICLE XVIII
+MISCELLANEOUS
+
+*** SSTART 001.0 018.0 0 CO 1876 ***
+
+SECTION 1. The general assembly shall pass liberal homestead and exemption laws.
+
+*** SEND ***
+
+*** SSTART 003.0 018.0 0 CO 1876 ***
+
+SEC. 2. The general assembly shall have no power to authorize lotteries or gift enterprises for
+any purpose, and shall pass laws to prohibit the sale of lottery or gift-enterprise tickets in this
+State.
+
+*** SEND ***
+
+*** SSTART 003.0 018.0 0 CO 1876 ***
+
+SEC. 3. It shall be the duty of the general assembly to pass such laws as may be necessary and
+proper to decide differences by arbitrators, to be appointed by mutual agreement of the parties to
+any controversy, who may choose that mode of adjustment. The powers and duties of such
+arbitrators shall be as prescribed by law.
+
+*** SEND ***
+
+*** SSTART 004.0 018.0 0 CO 1876 ***
+
+SEC. 4. The term felony, wherever it may occur in this constitution or the laws of the State, shall
+be construed to mean any criminal offence punishable by death or imprisonment in the
+penitentiary, and none other.
+
+*** SEND ***
+
+*** SSTART 005.0 018.0 0 CO 1876 ***
+
+SEC. 5. The general assembly shall prohibit by law the importation into the State, for the purpose
+of sale, of any spurious, poisonous, or drugged spirituous liquors, or spirituous liquors
+adulterated with any poisonous or deleterious substance, mixture, or compound; and shall
+prohibit the compounding or manufacture within this State, except for chemical or mechanical
+purposes, of any of said liquors, whether they be denominated spirituous, vinous, malt, or
+otherwise; and shall also prohibit the sale of any such liquors to be used as a beverage; and any
+violation of either of said prohibitions shall be punished by fine and imprisonment. The general
+assembly shall provide by law for the condemnation and destruction of all spurious, poisonous,
+or drugged liquors herein. prohibited.
+
+*** SEND ***
+
+*** SSTART 006.0 018.0 0 CO 1876 ***
+
+SEC. 6. The general assembly shall enact laws in order to prevent the destruction of, and to keep
+in good preservation, the forests upon the lands of the State, or upon lands of the public domain,
+the control of which shall be conferred by Congress upon the State.
+
+*** SEND ***
+
+*** SSTART 007.0 018.0 0 CO 1876 ***
+
+SEC. 7. The general assembly may provide that the increase in the value of private lands, caused
+by the planting of hedges, orchards, and forests thereon, shall not, for a limited time, to be fixed
+by law, be taken into account in assessing such lands for taxation.
+
+*** SEND ***
+
+*** SSTART 008.0 018.0 0 CO 1876 ***
+
+SEC. 8. The general assembly shall provide for the publication of the laws passed at each session
+thereof; and, until the year 1900, they shall cause to be published in Spanish and German a
+sufficient number of copies of said laws to supply that portion of the inhabitants of the State who
+speak those languages, and who may be unable to read and understand the English language.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 019.0 CO 1876 ***
+
+ARTICLE XIX
+
+FUTURE AMENDMENTS
+
+*** SSTART 001.0 019.0 0 CO 1876 ***
+
+SECTION 1. The general assembly may, at any time, by a vote of two-thirds of the members
+elected to each house, recommend to the electors of the State to vote at the next general election
+for or a against a convention to revise, alter, and amend this constitution; and if a majority of
+those voting on the question shall declare in favor of such convention, the general assembly shall,
+at its next session, provide for the calling thereof. The number of members of the convention
+shall be twice that of the senate, and they shall be elected in the same manner, at the same places,
+and in the same districts. The general assembly shall, in the act calling the convention, designate
+the day, hour, and place of its meeting; fix the pay of its members and officers, and provide for
+the payment of the same, together with the necessary expenses of the convention. Before
+proceeding the members shall take an oath to support the Constitution of the United States and of
+the State of Colorado, and to faithfully discharge their duties as members of the convention. The
+qualifications of members shall be the same as of members of the senate, and vacancies
+occurring shall be filled in the manner provided for filling vacancies in the general assembly.
+Said convention shall meet within three months after such election, and prepare such revisions,
+alterations, or amendments to the constitution as may be deemed necessary, which shall be
+submitted to electors for their ratification or rejection at an election appointed by the convention
+for that purpose, not less than two nor more than six months after the adjournment thereof; and
+unless so submitted and approved by a majority of the electors voting at the election, no such
+revision, alteration, or amendment shall take effect.
+
+*** SEND ***
+
+*** SSTART 002.0 019.0 0 CO 1876 ***
+
+SEC. 2. Any amendment or amendments to this constitution may be proposed in either house of
+the general assembly, and if the same shall be voted for by two-thirds of all the members elected
+to each house, such proposed amendments, together with the ayes and noes of each house
+thereon, shall be entered in full on their respective journals; and the secretary of state shall cause
+the said amendment or amendments to be published in full in at least one newspaper in each
+county, (if such there be,) for three months previous to the next general election for members to
+the general assembly; and at said election the said amendment or amendments shall be submitted
+to the qualified electors of the State for their approval or rejection, and such as are approved by a
+majority of those voting thereon shall become part of this constitution; but the general assembly
+shall have no power to propose amendments to more than one article of this constitution at the
+same session.
+
+*** SEND ***
+
+*** AEND ***
+
+*** ASTART 9003.0 CO 1876 ***
+
+SCHEDULE
+That no inconvenience may arise by reason of the change in the form of government, it is hereby
+ordained and declared:
+
+*** SSTART 001.0 9003.0 0 CO 1876 ***
+
+
+SECTION 1. That all laws in force at the adoption of this constitution shall, so far as not
+inconsistent therewith, remain of the same force as if this constitution had not been adopted until
+they expire by their own limitation, or are altered or repealed by the general assembly; and all
+rights actions, prosecutions, claims, and contracts of the Territory of Colorado, counties,
+individuals, or bodies-corporate, (not inconsistent therewith,) shall continue as if the form of
+government had not been changed and this constitution adopted.
+
+*** SEND ***
+
+*** SSTART 002.0 9003.0 0 CO 1876 ***
+
+SEC. 2. That all recognizances, obligations, and all others instruments entered into or executed
+before the admission of the State to the Territory of Colorado, or to any county, school-district, or
+other municipality therein, or any officer thereof, and all fines, taxes, penalties, and forfeitures
+due or owing to the Territory of Colorado, or any such county, school-district, or municipality, or
+officer, and all writs, prosecutions, actions, and causes of action, except as herein otherwise
+provided, shall continue and remain unaffected by the change of the form of government. All
+indictments which shall have been found, or may hereafter be found, and all informations which
+shall have been filed, or may hereafter be filed, for any crime or offence committed before this
+constitution takes effect, may be proceeded upon as if no change bad taken place, except as
+otherwise provided in the constitution.
+
+*** SEND ***
+
+*** SSTART 003.0 9003.0 0 CO 1876 ***
+
+SEC. 3. That all property, real and personal, and all moneys, credits, claims, and choses in action
+belonging to the Territory of Colorado at the adoption of this constitution shall be vested in and
+become the property of the State of Colorado.
+
+*** SEND ***
+
+*** SSTART 004.0 9003.0 0 CO 1876 ***
+
+SEC. 4. The general assembly shall pass all necessary laws to carry into effect the provisions of
+the constitution.
+
+*** SEND ***
+
+*** SSTART 005.0 9003.0 0 CO 1876 ***
+
+SEC. 5. Whenever any two of the judges of the supreme court of the State, elected or appointed
+under the provisions of this constitution, shall have qualified in their office, the causes
+theretofore pending in the supreme court of the Territory, and. the papers, records, and
+proceedings of said court, and the seal and other property pertaining thereto, shall pass into the
+jurisdiction and possession of the supreme court of the State; and, until so superseded, the
+supreme court of the Territory, and the judges thereof, shall continue with like powers and
+jurisdiction as if this constitution had not been adopted. Whenever the judge of the district court
+of any district, elected or appointed under thr provisions of this constitution, shall have qualified
+in his office, the several causes theretofore pending in the district court of the Territory, within
+any county in such district,
+and the records, papers, and proceedings of said district court, and the seal and other property
+pertaining thereto, shall pass into the jurisdiction and possession of the district court of the State
+for such county, and until the district courts of the Territory shall be superseded in manner
+aforesaid, the said district courts and the judges thereof shall continue with the same jurisdiction
+and powers to be exercised in the same judicial districts respectively as heretofore constituted
+under the laws of the Territory.
+
+*** SEND ***
+
+*** SSTART 006.0 9003.0 0 CO 1876 ***
+
+SEC. 6. The terms of office of the several judges of the supreme and district courts and the
+district attorneys of the several judicial districts first elected under this constitution shall
+commence from the day of filing their respective oaths of office in the office of the secretary of
+state.
+
+*** SEND ***
+
+*** SSTART 007.0 9003.0 0 CO 1876 ***
+
+SEC. 7. Until otherwise provided by law, the seals now in use in the supreme and district courts
+of this Territory are hereby declared to be the seals of the supreme and district courts respectively
+of the State.
+
+*** SEND ***
+
+*** SSTART 008.0 9003.0 0 CO 1876 ***
+
+SEC. 8.Whenever this constitution shall go into effect, the books, records, papers, and
+proceedings of the probate court in each county, and all causes and matters of administration
+pending therein, shall pass into the jurisdiction and possession of the county court of the same
+county, and the said county court shall proceed lo final decree or judgment, order, or other
+determination, in the said several matters and causes as the said probate court might have done if
+this constitution had not been adopted. And until the election of the county judges provided for in
+this constitution, the probate judges shall act as judges of the county courts within their
+respective counties, and the seal of the probate court in each county shall be the seal of the
+county court therein until the said court shall have procured a proper seal.
+
+*** SEND ***
+
+*** SSTART 009.0 9003.0 0 CO 1876 ***
+
+SEC. 9. The terms " probate court " or " probate judge," whenever occurring  in the statutes of
+Colorado Territory, shall, after the adoption of this constitution, be held to apply to the county
+court or county judge; and all laws specially applicable to the probate court in any county shall be
+construed to apply to and be in force as to the county court in the same county until repealed.
+
+*** SEND ***
+
+*** SSTART 010.0 9003.0 0 CO 1876 ***
+
+SEC. 10. All county and precinct officers who may be in office at the time of the adoption of this
+constitution shall hold their respective offices for the full time for which they may have been
+elected, and until such time as their successors may be elected and qualified, in accordance with
+the provisions of this constitution, and the official bonds of all such officers shall continue in full
+force and effect as though this constitution had not been adopted.
+
+*** SEND ***
+
+*** SSTART 011.0 9003.0 0 CO 1876 ***
+
+SEC. 11. All county offices that may become vacant during the year one thousand eight hundred
+and seventy-six, by the expiration of the term of the persons elected to said offices, shall be filled
+at the general election on the first Tuesday in October, in the year one thousand eight hundred
+and seventy-six, and, except county commissioners, the persons so elected shall hold their
+respective offices for the term of one year.
+
+*** SEND ***
+
+*** SSTART 012.0 9003.0 0 CO 1876 ***
+
+SEC. 12. The provisions of this constitution shall be in force from the day on which the President
+of the United States shall issue his proclamation declaring the State of Colorado admitted into the
+Union; and the governor, secretary, treasurer, auditor, and superintendent of public instruction of
+the Territory of Colorado shall continue to discharge the duties of their respective offices after
+the admission of the State into the Union until the qualification of the officers elected or
+appointed under the State government; and said officers, for the time they may serve, shall
+receive the same compensation as the State officers shall by law be paid for like services.
+
+*** SEND ***
+
+*** SSTART 013.0 9003.0 0 CO 1876 ***
+
+SEC. 13. In case of a contest of election between candidates, at the first general election under
+this constitution, for judges of the supreme district, or county courts, or district attorneys, the
+evidence shall be taken in the manner prescribed by territorial law; and the testimony so taken
+shall be certified to the secretary of state, and said officer, together with the governor and
+attorney-general, shall review the testimony and determine who is entitled to the certificate of
+election.
+
+*** SEND ***
+
+*** SSTART 014.0 9003.0 0 CO 1876 ***
+
+SEC. 14. The votes at the first general election under this constitution for the several offices
+provided for in this constitution who are to be elected at the first election shall be canvassed in
+the manner prescribed by the territorial law for canvassing votes for like officers. The votes cast
+for the judges of the supreme and district courts and district attorneys shall be canvassed by, the
+county canvassing-board in the manner prescribed by the territorial law for canvassing the votes
+for members of the general assembly; and the county clerk shall transmit the abstract of votes to
+the secretary of the Territory, acting as secretary of state, under the same regulations as are
+prescribed by law for sending the abstracts of votes for territorial officers; and the aforesaid
+acting secretary of state, auditor, treasurer, or any two of them, in the presence of the governor,
+shall proceed to canvass the votes, under the regulations of sections thirty-five and thirty-six of
+chapter twenty-eight of the revised statutes of Colorado Territory.
+
+*** SEND ***
+
+*** SSTART 015.0 9003.0 0 CO 1876 ***
+
+SEC 15. Senators and members of the house of representatives shall be chosen by the qualified
+electors of the several senatorial and representative districts, as established in this constitution,
+until such districts shall be changed by law, and thereafter by the qualified electors of the several
+districts as the same shall be established by law.
+
+*** SEND ***
+
+*** SSTART 016.0 9003.0 0 CO 1876 ***
+
+SEC. 16. The votes cast for Representatives in Congress at the first election held under this
+constitution shall be canvassed and the result determined in the manner provided by the laws of
+the territory for the canvass of votes for Delegate in Congress.
+
+*** SEND ***
+
+*** SSTART 017.0 9003.0 0 CO 1876 ***
+
+SEC. 17. The provision of the constitution that no bill, except the general appropriation bill,
+introduced in either house after the first twenty-five days of the session, shall become a law, shall
+not apply to the first session of the general assembly; but no bill, introduced in either house at the
+first session of the general assembly after the first fifty days thereof, shall become a law.
+
+*** SEND ***
+
+*** SSTART 018.0 9003.0 0 CO 1876 ***
+
+SEC. 18. A copy of the abstracts of the votes cast at the first general election held tinder this
+constitution shall, by the county clerks of the several counties, be returned to the secretary of the
+Territory immediately after the canvass of said votes in their several counties; and the secretary,
+auditor, and treasurer of the Territory, or any two of them, shall, on the twenty-fifth day after the
+election, meet at the seat of government and proceed to canvass the votes cast for members of the
+general assembly. and determine the result thereof.
+
+*** SEND ***
+
+*** SSTART 019.0 9003.0 0 CO 1876 ***
+
+SEC. 19. The general assembly shall, at their first session, immediately after the organization of
+the two houses, and after the canvass of the votes for the officers of the executive department,
+and before proceeding to other business, provide, by act or joint resolution, for the appointment
+by said general assembly of electors in the electoral college; and such joint resolution, or the bill
+for such enactment, may be passed without being printed, or referred to any committee, or read
+on more than one day in either house, and shall take effect immediately after the concurrence of
+the two houses therein; and the approval of the governor thereto shall not be necessary.
+
+*** SEND ***
+
+*** SSTART 020.0 9003.0 0 CO 1876 ***
+
+SEC. 20. The general assembly shall provide that after the year one thousand eight hundred and
+seventy-six the electors of the electoral college shall be chosen by direct vote of the people.
+
+*** SEND ***
+
+*** SSTART 021.0 9003.0 0 CO 1876 ***
+
+SEC. 21. The general assembly shall have power, at their first session, to provide for the payment
+of the expenses of this convention, if any there be then remaining unpaid.
+
+*** SEND ***
+
+*** SSTART 022.0 9003.0 0 CO 1876 ***
+
+SEC. 22. All recognizances, bail-bonds, official bonds, and other obligations or undertakings
+which have been, or at any time before the admission of the State shall be, made or entered into
+and expressed to be payable to the people of the Territory of Colorado, shall continue in full
+force, notwithstanding the change in the form of government; and any breach thereof, whenever
+occurring may, after the admission of the State, be prosecuted in the name of the people of the
+State.
+
+*** SEND ***
+
+*** AEND ***
+*** ASTART 9016.0 CO 1876 ***
+
+Done in convention, at the city of Denver, Colorado, this fourteenth day of March, in the year of
+our Lord one thousand eight hundred and seventy-six, and of the Independence of the United
+States the one hundredth.
+In witness whereof we have hereunto subscribed our names.
+Attest:   J. C. Wilson, President.
+
+W. W. COULSON, Secretary. HERBERT STANLEY~ First Assistant Secretary. H. A.
+TERPENNING, Second Assistant Secretary.
+
+*** AEND ***
+*** CEND ***
+
+
+

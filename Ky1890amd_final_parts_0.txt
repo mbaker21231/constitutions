@@ -1,0 +1,1214 @@
+This is ready to go.
+
+JW 12.31.01
+
+
+
+
+*** MSTART 001 181.0 9018.0 0 KY 1890 1903 ***
+The General Assembly shall not impose taxes for the purposes of any county, city, town or other
+municipal corporation, but may, by general laws, confer on the proper authorities thereof,
+respectively, the power to assess and collect such taxes. The General Assembly may, by general
+laws only, provide for the payment of license fees on franchises, stock used for breeding purposes,
+the various trades, occupations and professions, or a special or excise tax; and may, by general
+laws, delegate the power to counties, towns, cities and other municipal corporations, to impose
+and collect license fees on stock used for breeding purposes, on franchises, trades, occupations
+and professions. And the General Assembly may, by general laws only, authorize cities or towns
+of any class to provide for taxation for municipal purposes on personal property, tangible and
+intangible, based on income, licenses or franchises, in lieu of an ad valorem tax thereon: Provided,
+Cities of the first class shall not be authorized to omit the imposition of an ad valorem tax on such
+property of any steam railroad, street railway, ferry, bridge, gas, water, heating, telephone,
+telegraph, electric light or electric power company. 
+(Amended 11/3/1903)
+*** MEND ***
+
+*** MSTART 002 157.5 9017.0 0 KY 1890 1909 ***
+The credit of the Commonwealth may be given, pledged or loaned to any county of the
+Commonwealth for public road purposes, and any county may be permitted to incur an
+indebtedness in any amount fixed by the county, not in excess of five per centum of the value of
+the taxable property therein, for public road purposes in said county, provided said additional
+indebtedness is submitted to the voters of the county for their ratification or rejection at a special
+election held for said purpose, in such manner as may be provided by law and when any such
+indebtedness is incurred by any county said county may levy, in addition to the tax rate allowed
+under Section 157 of the Constitution of Kentucky, an amount not exceeding twenty cents on the
+one hundred dollars of the assessed valuation of said county for the purpose of paying the interest
+on said indebtedness and providing a sinking fund for the payment of said indebtedness.
+(Added by amendment 11/2/1909)
+*** MEND ***
+
+*** MSTART 003 171.0 9018.0 0 KY 1890 1915 ***
+The General Assembly shall provide by law an annual tax, which, with other resources, shall be
+sufficient to defray the estimated expenses of the Commonwealth for each fiscal year. Taxes shall
+be levied and collected for public purposes only and shall be uniform upon all property of the
+same class subject to taxation within the territorial limits of the authority levying the tax; and all
+taxes shall be levied and collected by general laws.
+
+The General Assembly shall have power to divide property into classes and to determine what
+class or classes of property shall be subject to local taxation. Bonds of the state and of counties,
+municipalities, taxing and school districts shall not be subject to taxation.
+
+Any law passed or enacted by the General Assembly pursuant to the provisions of or under this
+amendment, or amended section of the Constitution, classifying property and providing a lower
+rate of taxation on personal property, tangible or intangible, than upon real estate shall be subject
+to the referendum power of the people, which is hereby declared to exist to apply only to this
+section, or amended section. The referendum may be demanded by the people against one or more
+items, sections, or parts of any act enacted pursuant to or under the power granted by this
+amendment, or amended section. The referendum petition shall be filed with the Secretary of State
+not more than four months after the final adjournment of the Legislative Assembly which passed
+the bill on which the referendum is demanded. The veto power of the Governor shall not extend
+to measures referred to the people under this section. All elections on measures referred to the
+people under this act shall be at the regular general election, except when the Legislative
+Assembly shall order a special election. Any measure referred to the people shall take effect and
+become a law when approved by the majority of the votes cast thereon, and not otherwise. The
+whole number of votes cast for the candidates for Governor at the regular election, last preceding
+the filing of any petition, shall be the basis upon which the legal voters necessary to sign such
+petition shall be counted. The power of the referendum shall be ordered by the Legislative
+Assembly at any time any acts or bills are enacted, pursuant to the power granted under this
+section or amended section, prior to the year of one thousand nine hundred and seventeen. After
+that time the power of the referendum may be ordered either by the petition signed by five percent
+of the legal voters or by the Legislative Assembly at the time said acts or bills are enacted. The
+General Assembly enacting the bill shall provide a way by which the act shall be submitted to the
+people. The filing of a referendum petition against one or more items, sections or parts of an act,
+shall not delay the remainder of that act from becoming operative.
+(Amended 11/2/1915)
+*** MEND ***
+
+*** MSTART 004 253.0 9022.0 0 KY 1890 1915 ***
+Persons convicted of felony and sentenced to confinement in the penitentiary shall be confined at
+labor within the walls of the penitentiary; and the General Assembly shall not have the power to
+authorize employment of convicts elsewhere, except upon the public works of the Commonwealth
+of Kentucky, or when, during pestilence or in case of the destruction of the prison buildings, they
+cannot be confined in the penitentiary.
+
+That Section 253 of the Constitution be amended so that the Commonwealth of Kentucky may
+use and employ outside of the walls of the penitentiaries in such manner and means as may be
+provided by law, persons convicted of felony and sentenced to confinement in the penitentiary for
+the purpose of constructing or reconstructing and maintaining public roads and public bridges or
+for the purpose of making and preparing material for public roads and bridges, and that the
+Commonwealth of Kentucky may, by the use and employment of convict labor outside of the
+walls of the penitentiary by other ways or means, as may be provided by law, aid the counties for
+road and bridge purposes, work on the State farm or farms.
+(Amended 11/2/1915)
+*** MEND ***
+
+*** MSTART 005 201.0 9019.0 0 KY 1890 1917 ***
+No railroad, telegraph, telephone, bridge or common carrier company shall consolidate its capital
+stock, franchises or property, or pool its earnings, in whole or in part, with any other railroad,
+telegraph, telephone, bridge or common carrier company owning a parallel or competing line or
+structure, or acquire by purchase, lease or otherwise, any parallel or competing line or structure,
+or operate the same; nor shall any railroad company or other common carrier combine or make
+any contract with the owners of any vessel that leaves or makes port in this State, or with any
+common carrier, by which combination or contract the earnings of one doing the carrying are to
+be shared by the other not doing the carrying: Provided, however, That telephone companies may
+acquire by purchase or lease, or otherwise, and operate, parallel or competing exchanges, lines
+and structures, and the property of other telephone companies, if the Railroad Commission or
+such other State commission as may have jurisdiction over such matters shall first consent thereto,
+and if, further, each municipality wherein such property or any part thereof is located shall also
+first consent thereto as to the property within its limits, but under any such acquisition and
+operation toll line connections with the property so acquired shall be continued and maintained
+under an agreement between the purchasing company and the toll line companies then furnishing
+such service, and in the event they are unable to agree as to the terms of such an agreement the
+Railroad Commission or such other State commission as may have jurisdiction over such matters,
+shall fix the term of such agreement.
+(Amended 11/6/1917)
+*** MEND ***
+
+*** MSTART 006 226.5 9022.0 0 KY 1890 1919 ***
+After June 30, 1920, the manufacture, sale or transportation of spirituous, vinous, malt or other
+intoxicating liquors, except for sacramental, medicinal, scientific or mechanical purposes, in the
+Commonwealth of Kentucky, is hereby prohibited. All sections or parts thereof of the
+constitution, insofar as they may be inconsistent with this section, are hereby repealed and
+nullified.  The general assembly shall enforce this section by appropriate legislation.
+(Added by amendment, 11/4/1919)
+*** MEND ***
+
+*** MSTART 007 227.0 9022.0 0 KY 1890 1919 ***
+Judges of the County Court, Justices of the Peace, Sheriffs, Coroners, Surveyors, Jailers,
+Assessors, County Attorneys and Constables shall be subject to indictment or prosecution for
+misfeasance or malfeasance in office, or willful neglect in discharge of official duties, in such
+mode as may be prescribed by law, and upon conviction his office shall become vacant, but such
+officer shall have the right to appeal to the Court of Appeals. Provided, also, that the General
+Assembly may, in addition to the indictment or prosecution above provided, by general law,
+provide other manner, method or mode for the vacation of office, or the removal from office of
+any sheriff, jailer, constable or peace officer for neglect of duty, and may provide the method,
+manner or mode of reinstatement of such officers.
+(Amended 11/4/1919)
+*** MEND ***
+
+*** MSTART 008 061.0 9005.0 0 KY 1890 1935 ***
+The General Assembly shall, by general law, provide a means whereby the sense of the people of
+any county, city, town, district or precinct may be taken, as to whether or not spirituous, vinous
+or malt liquors shall be sold, bartered or loaned therein, or the sale thereof regulated. But nothing
+herein shall be construed to interfere with or to repeal any law in force relating to the sale or gift
+of such liquors. All elections on this question may be held on a day other than the regular election
+days.
+(Amended 11/5/1935)
+*** MEND ***
+
+*** MSTART 009 226.5 9022.0 0 KY 1890 1935 ***
+(REPEALED)
+After June 30, 1920, the manufacture, sale or transportation of spirituous, vinous, malt or other
+intoxicating liquors, except for sacramental, medicinal, scientific or mechanical purposes, in the
+Commonwealth of Kentucky, is hereby prohibited. All sections or parts thereof of the
+constitution, insofar as they may be inconsistent with this section, are hereby repealed and
+nullified.  The general assembly shall enforce this section by appropriate legislation.
+(Added by amendment, 11/4/1919)
+(Repealed 11/5/1935)
+*** MEND ***
+
+*** MSTART 010 244.5 9022.0 0 KY 1890 1935 ***
+The assembly shall prescribe such laws as may be necessary for the granting and paying of old
+persons an annuity or pension.
+(Added by amendment, 11/5/1935)
+*** MEND ***
+
+*** MSTART 011 147.0 9015.0 0 KY 1890 1941 ***
+The general assembly shall provide by law for the registration of all persons entitled to vote in
+cities and towns having a population of five thousand or more; and may provide by general law
+for the registration of other voters in the State. Where registration is required, only persons
+registered shall have the right to vote. The mode of registration shall be prescribed by the general
+assembly. In all elections by persons in a representative capacity, the voting shall be viva voce and
+made a matter of record; but all elections by the people shall be by secret official ballot, furnished
+by public authority to the voters at the polls, and marked by each voter in private at the polls, and
+then and there deposited. Provided that counties so desiring may use voting machines, these
+machines to be installed at the expense of such counties. The word "elections" in this section
+includes the decision of questions submitted to the voters, as well as the choice of officers by
+them. The first general assembly held after the adoption of this Constitution shall pass all
+necessary laws to enforce this provision, and shall provide that persons illiterate, blind, or in any
+way disabled, may have their ballots marked and/or voted as herein required. 
+(Amended 11/1941.)
+*** MEND ***
+
+*** MSTART 012 186.0 9007.0 0 KY 1890 1941 ***
+All funds accruing to the school fund shall be used for the maintenance of the public schools of
+the Commonwealth, and for no other purpose, and the General Assembly shall by general law
+prescribe the manner of the distribution and use of the public school fund for public school
+purposes. Provided that each school district in the Commonwealth shall receive on a census pupil
+basis its proportionate part of at least ninety percent of any fund accruing to the school fund. The
+remainder of any fund accruing to the school fund may be distributed upon other than a census
+pupil basis.
+(Amended 11/1941.)
+*** MEND ***
+
+*** MSTART 013 147.0 9015.0 0 KY 1890 1945 ***
+The General Assembly shall provide by law for the registration of all persons entitled to vote in
+cities and towns having a population of five thousand or more; and may provide by general law
+for the registration of other voters in the state. Where registration is required, only persons
+registered shall have the right to vote. The mode of registration shall be prescribed by the General
+Assembly. In all elections by persons in a representative capacity, the voting shall be viva voce
+and made a matter of record; but all elections by the people shall be by secret official ballot,
+furnished by public authority to the voters at the polls, and marked by each voter in private at the
+polls, and then and there deposited, or any person absent from the county of his legal residence,
+or from the state, may be permitted to vote in a manner provided by law. Counties so desiring
+may use voting machines, these machines to be installed at the expense of such counties. The
+word "elections" in this section includes the decision of questions submitted to the voters, as well
+as the choice of officers by them. The General Assembly shall pass all necessary laws to enforce
+this section, and shall provide that persons illiterate, blind, or in any way disabled may have their
+ballots marked or voted as herein required.
+(Amended 11/1941)
+(Amended 11/6/1945)
+*** MEND ***
+
+*** MSTART 014 230.0 9022.0 0 KY 1890 1945 ***
+No money shall be drawn from the State Treasury, except in pursuance of appropriations made by
+law; and a regular statement and account of the receipts and expenditures of all public money shall
+be published annually. No money derived from excise or license taxation relating to gasoline and
+other motor fuels, and no moneys derived from fees, excise or license taxation relating to
+registration, operation, or use of vehicles on public highways shall be expended for other than the
+cost of administration, statutory refunds and adjustments, payment of highway obligations, costs
+for construction, reconstruction, rights-of-way, maintenance and repair of public highways and
+bridges, and expense of enforcing state traffic and motor vehicle laws.
+(Amended 11/6/1945)
+*** MEND ***
+
+*** MSTART 015 186.0 9007.0 0 KY 1890 1949 ***
+All funds accruing to the school fund shall be used for the maintenance of the public schools of
+the Commonwealth, and for no other purpose, and the General Assembly shall by general law
+prescribe the manner of the distribution and use of the public school fund for public school
+purposes. Provided that each school district in the Commonwealth shall receive on a census pupil
+basis its proportionate part of at least seventy five percent of any fund accruing to the school
+fund. The remainder of any fund accruing to the school fund may be distributed upon other than a
+census pupil basis.
+(Amended 11/1941)
+(Amended 11/8/1949)
+*** MEND ***
+
+*** MSTART 016 246.0 9022.0 0 KY 1890 1949 ***
+No public officer or employee except the Governor, shall receive as compensation per annum for
+official services, exclusive of the compensation of legally authorized deputies and assistants which
+shall be fixed and provided for by law, but inclusive of allowance for living expenses, if any, as
+may be fixed and provided for by law, any amount in excess of the following sums: Officers
+whose jurisdiction or duties are coextensive with the Commonwealth, the mayor of any city of the
+first class, and Judges and Commissioners of the Court of Appeals, Twelve Thousand Dollars
+($12,000); Circuit Judges, Eight Thousand Four Hundred Dollars ($8,400); all other public
+officers, Seven Thousand Two Hundred Dollars ($7,200). Compensation within the limits of this
+amendment may be authorized by the General Assembly to be paid, but not retroactively, to
+public officers in office at the time of its adoption, or who are elected at the election at which this
+amendment is adopted. Nothing in this amendment shall permit any officer to receive, for the year
+1949, any compensation in excess of the limit in force prior to the adoption of this amendment.
+(Amended 11/8/1949)
+*** MEND ***
+
+*** MSTART 017 186.0 9007.0 0 KY 1890 1953 ***
+All funds accruing to the school fund shall be used for the maintenance of the public schools of
+the
+Commonwealth, and for no other purpose, and the General Assembly shall by general law
+prescribe the manner of the distribution of the public school fund among the school districts and
+its use for public school purposes.
+(Amended 11/1941)
+(Amended 11/8/1949)
+(Amended 11/3/1953)
+*** MEND ***
+
+*** MSTART 018 145.0 9015.0 0 KY 1890 1955 ***
+Every citizen of the United States of the age of eighteen years who has resided in the state one
+year, and in the county six months, and the precinct in which he offers to vote sixty days next
+preceding the election, shall be a voter in said precinct and not elsewhere but the following
+persons are excepted and shall not have the right to vote.
+
+1. Persons convicted in any court of competent jurisdiction of treason, or felony, or bribery in an
+election, or of such high misdemeanor as the General Assembly may declare shall operate as an
+exclusion from the right of suffrage, but persons hereby excluded may be restored to their civil
+rights by executive pardon.
+
+2. Persons who, at the time of the election, are in confinement under the judgment of a court for
+some penal offense.
+
+3. Idiots and insane persons.
+(Amended 11/8/1955)
+*** MEND ***
+
+*** MSTART 019 170.0 9018.0 0 KY 1890 1955 ***
+There shall be exempt from taxation public property used for public purposes; places actually used
+for religious worship, with the grounds attached thereto and used and appurtenant to the house of
+worship, not exceeding one-half acre in cities or towns, and not exceeding two acres in the
+country; places of burial not held for private or corporate profit, institutions of purely public
+charity, and institutions of education not used or employed for gain by any person or corporation,
+and the income of which is devoted solely to the cause of education, public libraries, their
+endowments, and the income of such property as is used exclusively for their maintenance; all
+parsonages or residences owned by any religious society, and occupied as a home, and for no
+other purpose, by the minister of any religion, with not exceeding one-half acre of ground in
+towns and cities and two acres of ground in the country appurtenant thereto; household goods of
+a person used in his home; crops grown in the year in which the assessment is made, and in the
+hands of the producer; and all laws exempting or omitting property from. taxation other than the
+property above mentioned shall be void. The General Assembly may authorize any incorporated
+city or town to exempt manufacturing establishments from municipal taxation, for a period not
+exceeding five years, as an inducement to
+their location.
+(Amended 11/8/1955)
+*** MEND ***
+
+*** MSTART 020 172.5 9018.0 0 KY 1890 1969 ***
+Assessment for ad valorem tax purposes of agricultural and horticultural land.
+
+Notwithstanding contrary provisions of Sections 171, 172, or 174 of this Constitution --
+
+The General Assembly shall provide by general law for the assessment for ad valorem tax
+purposes of agricultural and horticultural land according to the land's value for agricultural or
+horticultural use. The General Assembly may provide that any change in land use from
+agricultural or horticultural to another use shall require the levy of an additional tax not to exceed
+the additional amount that would have been owing had the land been assessed under Section 172
+of this Constitution for the current year and the two next preceding years.
+
+The General Assembly may provide for reasonable differences in the rate of ad valorem taxation
+within different areas of the same taxing districts on that class of property which includes the
+surface of the land. Those differences shall relate directly to differences between nonrevenue-
+producing governmental services and benefits giving land urban character which are furnished in
+one or several areas in contrast to other areas of the taxing district.
+(Added by amendment 11/4/1969)
+*** MEND ***
+
+*** MSTART 021 170.0 9018.0 0 KY 1890 1971 ***
+There shall be exempt from taxation public property used for public purposes; places actually used
+for religious worship, with the grounds, attached thereto and used and appurtenant to the house
+of worship, not exceeding one-half acre in cities or towns, and not exceeding two acres in the
+country; places of burial not held for private or corporate profit, institutions of purely public
+charity, and institutions of education not used or employed for gain by any person or corporation,
+and the income of which is devoted solely to the cause of education, public libraries, their
+endowments, and the income of such property as is used exclusively for their maintenance: all
+parsonages or residences owned by any religious society, and occupied as a home, and for no
+other purpose, by the minister of any religion, with not exceeding one-half acre of ground in
+towns and cities and two acres of ground in the country appurtenant thereto: household goods of
+a person used in his home; a homestead, which is a single-unit residential property maintained by
+the owner, who is sixty-five years of age or older, his personal residence, up to the assessed
+valuation of sixty-five hundred dollars on said residence and contiguous real property, except for
+assessment for special benefits; crops grown in the year in which the Assessment is made, and in
+the hands of the producer; and all laws  exempting property from  taxation other than the property
+above mentioned shall be void. The General Assembly may authorize Any incorporated city or
+town to exempt manufacturing establishments from municipal taxation, for a period not exceeding
+five years, as an inducement to their location. 
+(Amended 11/8/1955)
+(Amended 11/2/1971)
+*** MEND ***
+
+*** MSTART 022 109.0 9006.0 0 KY 1890 1976 ***
+The judicial power of the Commonwealth shall be vested exclusively in one Court of Justice
+which shall be divided into a Supreme Court, a Court of Appeals, a trial court of general
+jurisdiction known as the Circuit Court and a trial court of limited jurisdiction known as the
+District Court. The court shall constitute a unified judicial system for operation and
+administration. The impeachment powers of the General Assembly shall remain inviolate.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 023 110.0 9006.0 0 KY 1890 1976 ***
+(1) The Supreme Court shall consist of the Chief Justice of the Commonwealth and six associate
+Justices.
+
+(2) (a) The Supreme Court shall have appellate jurisdiction only, except it shall have the power to
+issue all writs necessary in aid of its appellate jurisdiction, or the complete determination of any
+cause, or as may be required to exercise control of the Court of Justice.
+
+(b) Appeals from a judgment of the Circuit Court imposing a sentence of death or life
+imprisonment or imprisonment for twenty years or more shall be taken directly to the Supreme
+Court. In all other cases, criminal and civil, the Supreme Court shall exercise appellate jurisdiction
+as provided by its rules.
+
+(3) A majority of the Justices of the Supreme Court shall constitute a quorum for the transaction
+of business. If as many as two Justices decline or are unable to sit in the trial of any cause, the
+Chief Justice shall certify that fact to the Governor, who shall appoint to try the particular cause a
+sufficient number of Justices to constitute a full court for the trial of the cause.
+
+(4) The Court of Appeals districts existing on the effective date of this amendment to the
+Constitution shall constitute the initial Supreme Court districts. The General Assembly thereafter
+may redistrict the Commonwealth, by counties, into seven Supreme Court districts as nearly equal
+in population and as compact in form as possible. There shall be one Justice from each Supreme
+Court district.
+
+(5) (a) The Justices of the Supreme Court shall elect one of their number to serve as Chief Justice
+for a term of four years.
+
+(b) The Chief Justice of the Commonwealth shall be the executive head of the Court of Justice
+and he shall appoint such administrative assistants as he deems necessary. He shall assign
+temporarily any justice or judge of the Commonwealth, active or retired, to sit in any court other
+than the Supreme Court when he deems such assignment necessary for the prompt disposition of
+causes. The Chief Justice shall submit the budget for the Court of Justice and perform all other
+necessary administrative functions relating to the court.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 024 111.0 9006.0 0 KY 1890 1976 ***
+(1) The Court of Appeals shall consist initially of fourteen judges, an equal number to be selected
+from each Supreme Court district. The number of judges thereafter shall be determined from time
+to time by the General Assembly upon certification of necessity by the Supreme Court.
+
+(2) The Court of Appeals shall have appellate jurisdiction only, except that it may be authorized
+by rules of the Supreme Court to review directly decisions of administrative agencies of the
+Commonwealth, and it may issue all writs necessary in aid of its appellate jurisdiction, or the
+complete determination of any cause within its appellate jurisdiction. In all other cases, it shall
+exercise appellate jurisdiction as provided by law.
+
+(3) The judges of the Court of Appeals shall elect one of their number to serve as Chief Judge for
+a term of four years. The Chief Judge shall exercise such authority and perform such duties in the
+administration of the Court of Appeals as are prescribed in this section or as may be prescribed by
+the Supreme Court.
+
+(4) The Court of Appeals shall divide itself into panels of not less than three judges. A panel may
+decide a cause by the concurring vote of a majority of its judges. The Chief Judge shall make
+assignments of judges to panels. The Court of Appeals shall prescribe the times and places in the
+Commonwealth at which each panel shall sit.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 025 112.0 9006.0 0 KY 1890 1976 ***
+(1) Circuit Court shall be held in each county.
+
+(2) The Circuit Court districts existing on the effective date of this amendment to the Constitution
+shall continue under the name "Judicial Circuits," the General Assembly having power upon
+certification of the necessity therefor by the Supreme Court to reduce, increase or rearrange the
+judicial districts.  A judicial circuit composed of more than one county shag be as compact in form
+as possible and of contiguous counties. No county shall be divided in creating a judicial circuit.
+
+(3) The number of circuit judges in each district existing on the effective date of this amendment
+shall continue, the General Assembly having power upon certification of the necessity therefor by
+the Supreme Court to change the number of circuit judges in any judicial circuit.
+
+(4) In a judicial circuit having only one judge, he shag be the chief judge. In judicial circuits
+having two or more judges, they shall select biennially a chief judge, and if they fail to do so
+within a reasonable time, the Supreme Court shall designate the chief judge. The chief judge shall
+exercise such authority and perform such duties in the administration of his judicial circuit as may
+be prescribed by the Supreme Court. The Supreme Court may provide by rules for administration
+of judicial circuits by regions designated by it.
+
+(5) The Circuit Court shall have original jurisdiction of all justiciable causes not vested in some
+other court.  It shall have such appellate jurisdiction as may be provided by law.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 026 113.0 9006.0 0 KY 1890 1976 ***
+(1) District Court shall be held in each county.
+
+(2) The Circuit Court districts existing on the effective date of this amendment shall continue for
+District Court purposes under the name "Judicial Districts," the General Assembly having power
+upon certification of the necessity therefor by the Supreme Court to reduce, increase or rearrange
+the districts. A judicial district composed of more than one county shall be as compact in form as
+possible and of contiguous counties. No county shall be divided in creating a judicial district.
+
+(3) Each judicial district created by this amendment initially shall have at least one district judge
+who shall serve as chief judge and there shall be such other district judges as the General
+Assembly shall determine. The number of district judges in each judicial district thereafter shall be
+determined by the General Assembly upon certification of necessity therefor by the Supreme
+Court.
+
+(4) In a judicial district having only one judge he shall be the chief judge. In those districts having
+two or more judges they shall select biennially a chief judge and if they fail to do so within a
+reasonable time, the Supreme Court shall designate the chief judge. The chief judge shall exercise
+such authority and perform such duties in the administration of his district as may be prescribed by
+the Supreme Court.
+
+(5) In any county in which no district judge resides the chief judge of the district shall appoint a
+trial commissioner who shall be a resident of such county and who shall be an attorney if one is
+qualified and available. Other trial commissioners with like qualifications may be appointed by the
+chief judge in any judicial district upon certification of the necessity therefor by the Supreme
+Court.  All trial commissioners shall have power to perform such duties of the district court as
+may be prescribed by the Supreme Court.
+
+(6) The district court shall be a court of limited jurisdiction and shall exercise original jurisdiction
+as may be provided by the General Assembly.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 027 114.0 9006.0 0 KY 1890 1976 ***
+(1) The Supreme Court shall appoint a clerk to serve as it shall determine.
+
+(2) The Court of Appeals shall appoint a clerk to serve as it shall determine.
+
+(3) The clerks of the Circuit Court shall be elected in the manner provided elsewhere in this
+Constitution. The clerks of the Circuit Court shall serve as the clerks of the District Court. The
+clerks of the Circuit Court shall be removable from office by the Supreme Court upon good cause
+shown.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 028 115.0 9006.0 0 KY 1890 1976 ***
+In all cases, civil and criminal, there shall be allowed as a matter of right at least one appeal to
+another court, except that the Commonwealth may not appeal from a judgment of acquittal in a
+criminal case, other than for the purpose of securing a certification of law, and the General
+Assembly may prescribe that there shall be no appeal from that portion of a judgment dissolving a
+marriage. Procedural rules shall provide for expeditious and inexpensive appeals. Appeals shall be
+upon the record and not by trial de novo.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 029 116.0 9006.0 0 KY 1890 1976 ***
+The Supreme Court shall have the power to prescribe rules governing its appellate jurisdiction,
+rules for the appointment of commissioners and other court personnel, and rules of practice and
+procedure for the Court of Justice. The Supreme Court shall, by rule, govern admission to the bar
+and the discipline of members of the bar.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 030 117.0 9006.0 0 KY 1890 1976 ***
+Justices of the Supreme Court and judges of the Court of Appeals, Circuit and District Court shall
+be elected from their respective districts or circuits on a nonpartisan basis as provided by law.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 031 118.0 9006.0 0 KY 1890 1976 ***
+(1) A vacancy in the office of a justice of the Supreme Court, or of a judge of the Court of
+Appeals, circuit or district court which under Section 152 of this Constitution is to be filled by
+appointment by the Governor shall be filled by the Governor from a list of three names presented
+to him by the appropriate judicial nominating commission. If the Governor fails to make an
+appointment from the list within sixty days from the date it is presented to him, the appointment
+shall be made from the same list by the chief justice of the Supreme Court.
+
+(2) There shall be one judicial nominating commission for the Supreme Court and the Court of
+Appeals, one for each judicial circuit and one for each judicial district, except that a circuit and
+district having the same boundary shall have but one judicial nominating commission. Each
+commission shall consist of seven members, one of whom shall be the chief justice of the Supreme
+Court, who shall be chairman. Two members of each commission shall be members of the bar,
+who shall be elected by their fellow members. The other four members shall be appointed by the
+Governor from among persons not members of the bar, and these four shall include at least two
+members of each of the two political parties of the Commonwealth having the largest number of
+voters. Members of a judicial circuit or judicial district nominating commission must be residents
+of the circuit or district, respectively, and the lawyer members of the commission shall be elected
+by the members of the bar residing in the circuit or district, respectively. The terms of office of
+members of judicial nominating commissions shall be fixed by the General Assembly. No person
+shall be elected or appointed a member of a judicial nominating commission who holds any other
+public office or any office in a political party or organization.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 032 119.0 9006.0 0 KY 1890 1976 ***
+Justices of the Supreme Court and judges of the Court of Appeals and Circuit Court shall
+severally hold their offices for terms of eight years, and judges of the District Court for terms of
+four years. All terms commence on the first Monday in January next succeeding the regular
+election for the office. No justice or judge may be deprived of his term of office by redistricting,
+or by a reduction in the number of justices or judges.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 033 120.0 9006.0 0 KY 1890 1976 ***
+All justices and judges shall be paid adequate compensation which shall be fixed by the General
+Assembly. All compensation and necessary expenses of the Court of Justice shall be paid out of
+the State Treasury. The compensation of a justice or judge shall not be reduced during his term.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 034 121.0 9006.0 0 KY 1890 1976 ***
+Subject to rules of procedure to be established by the Supreme Court, and after notice and
+hearing, any justice of the Supreme Court or judge of the Court of Appeals, Circuit Court or
+District Court may be retired for disability or suspended without pay or removed for good cause
+by a commission composed of one judge of the Court of Appeals, selected by that court, one
+circuit judge and one district judge selected by a majority vote of the circuit judges and district
+judges, respectively, one member of the bar appointed by its governing body, and two persons,
+not members of the bench or bar, appointed by the Governor. The commission shall be a state
+body whose members shall hold office for four-year terms. Its actions shall be subject to judicial
+review by the Supreme Court.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 035 122.0 9006.0 0 KY 1890 1976 ***
+To be eligible to serve as a justice of the Supreme Court or a judge of the Court of Appeals,
+Circuit Court or District Court a person must be a citizen of the United States, licensed to
+practice law in the courts of this Commonwealth, and have been a resident of this Commonwealth
+and of the district from which he is elected for two years next preceding his taking office. In
+addition, to be eligible to serve as a justice of the Supreme Court or judge of the Court of Appeals
+or Circuit Court a person must have been a licensed attorney for at least eight years. No district
+judge shall serve who has not been a licensed attorney for at least two years.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 036 123.0 9006.0 0 KY 1890 1976 ***
+During his term of office, no justice of the Supreme Court or judge of the Court of Appeals,
+Circuit Court or District Court shall engage in the practice of law, or run for elective office other
+than judicial office, or hold any office in a political party or organization.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 037 124.0 9006.0 0 KY 1890 1976 ***
+Any remaining sections of the Constitution of Kentucky as it existed prior to the effective date of
+this amendment which are in conflict with the provisions of amended Sections 110 through 125
+are repealed to the extent of the conflict, but such amended sections are not intended to repeal
+those parts of Sections 140 and 142 conferring nonjudicial powers and duties upon county judges
+and justices of the peace. Nothing in such amended sections shall be construed to limit the powers
+otherwise granted by this Constitution to the county judge as the chief executive, administrative
+and fiscal officer of the county, or to limit the powers otherwise granted by the Constitution to the
+justices of the peace or county commissioners as executive, administrative and fiscal officers of a
+county, or of the fiscal court as a governing body of a county.
+(Amended -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 038 125.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 039 126.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 040 127.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 041 128.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 042 129.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 043 130.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 044 131.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 045 132.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 046 133.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 047 134.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 048 135.0 9006.0 0 KY 1890 1976 ***
+
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 049 136.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 050 137.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 051 138.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 052 139.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 053 141.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 054 143.0 9006.0 0 KY 1890 1976 ***
+(REPEALED -- Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 055 170.0 9018.0 0 KY 1890 1976 ***
+There shall be exempt from taxation public property used for public purposes; places actually used
+for religious worship, with the grounds attached thereto and used and appurtenant to the house of
+worship, not exceeding one-half acre in cities or towns, and not exceeding two acres-in the
+country; places of burial not held for private or corporate profit, institutions of purely public
+charity, and institutions of education not used or employed for gain by any person or corporation,
+and the income of which is devoted solely to the cause of education, public libraries, their
+endowments, and the income of such property as is used exclusively for their maintenance; all
+parsonages or residences owned by any religious society, and occupied as a home, or residences
+owned by any religious society, and occupied as a home, and for no other purpose, by the minister
+of any religion, with not exceeding one-half acre of ground in towns and cities and two acres of
+ground in the country appurtenant thereto; household goods of a person used in his home; crops
+grown in the year in which the assessment is made, and in the hands of the producer; and real
+property maintained as the permanent residence of the owner, who is sixty-five years of age or
+older, up to the assessed valuation of sixty-five hundred dollars on said residence and contiguous
+real property, except for assessment for special benefits. The real property may be held by legal or
+equitable title, by the entireties, jointly, in common, as a condominium, or indirectly by the stock
+ownership or membership representing the owners or member's proprietary interest in a
+corporation owning a fee or a leasehold initially in excess of ninety-eight years. The exemption
+shall apply only to the value of the real property assessable to the owner or, in case of ownership
+through stock or membership in a corporation the value of the proportion which has interest in the
+corporation bears to the assessed value of the property. All laws exempting or omitting property
+from taxation other than the property above mentioned shall be void. The General Assembly may
+authorize any incorporated city or town to exempt manufacturing establishments from municipal
+taxation, for a period not exceeding five years, as an inducement to their location.
+(Amended 11/8/1955)
+(Amended 11/2/1971)
+(Amended 11/4/1975, Effective 1/1/1976)
+*** MEND ***
+
+*** MSTART 056 030.0 9005.0 0 KY 1890 1979 ***
+Members of the House of Representatives and Senators shall be elected at the general election in
+even-numbered years for terms of four years for Senators and two years for members of the
+House of Representatives. The term of office of Representatives and Senators shall begin upon
+the first day of January of the year succeeding their election.
+(Amended 11/6/1979)
+*** MEND ***
+
+*** MSTART 057 031.0 9005.0 0 KY 1890 1979 ***
+At the general election to be held in November, 1984, and every two years thereafter, there shall
+be elected for four years one Senator in each Senatorial District in which the term of his
+predecessor in office will then expire and in every Representative District one Representative for
+two years.
+(Amended 11/6/1979)
+*** MEND ***
+
+*** MSTART 058 036.0 9005.0 0 KY 1890 1979 ***
+The General Assembly shall meet on the first Tuesday after the first Monday in January in odd-
+numbered years for a period not to exceed ten legislative days for the purposes of electing
+legislative leaders, adopting rules of procedure and the organizing of committees. The General
+Assembly shall then adjourn until the first Tuesday after the first Monday in January of the
+following even-numbered years, at which time the General Assembly shall convene in regular
+session, and its sessions shall be held at the seat of government, except in case of war,
+insurrection or pestilence, when it may, by proclamation of the Governor, assemble, for the time
+being, elsewhere.
+(Amended 11/6/1979)
+*** MEND ***
+
+*** MSTART 059 042.0 9005.0 0 KY 1890 1979 ***
+The members of the General Assembly shall severally receive from the State Treasury
+compensation for their services: Provided, No change shall take effect during the session at which
+it is made; nor shall a session of the General Assembly continue beyond sixty legislative days,
+exclusive of Sundays, legal holidays or any day on which neither House meets, except that no
+regular session shall extend beyond April 15 of even numbered years; but this limitation as to
+length of session shall not apply to the Senate when sitting as a court of impeachment. A
+legislative day shall be construed to mean a calendar day.
+(Amended 11/6/1979)
+*** MEND ***
+
+*** MSTART 060 256.0 9012.0 0 KY 1890 1979 ***
+Amendments to this Constitution may be proposed in either House of the General Assembly at a
+regular session, and if such amendment or amendments shall be agreed to by three-fifths of all the
+members elected to each House, such proposed amendment or amendments, with the yeas and
+nays of the members of each House taken thereon, shall be entered in full in their respective
+journals. Then such proposed amendment or amendments shall be submitted to the voters of the
+State for their ratification or rejection at the next general election for members of the House of
+Representatives, the vote to be taken thereon in such manner as the General Assembly may
+provide, and to be certified by the officers of election to the Secretary of State in such manner as
+shall be provided by law, which vote shall be compared and certified by the same board authorized
+by law to compare the polls and give certificates of election to officers for the State at large. If it
+shall appear that a majority of the votes cast for and against an amendment at said election was
+for the amendment, then the same shall become a part of the Constitution of this Commonwealth,
+and shall be so proclaimed by the Governor, and published in such manner as the General
+Assembly may direct. Said amendments shall not be submitted at an election which occurs less
+than ninety days from the final passage of such proposed amendment or amendments. Not more
+than four amendments shall be voted upon at any one time. If two or more amendments shall be
+submitted at the same time, they shall be submitted in such manner that the electors shall vote for
+or against each of such amendments separately, but an amendment may relate to a single subject
+or to related subject matters and may amend or modify as many articles and as many sections of
+the Constitution as may be necessary and appropriate in order to accomplish the objectives of the
+amendment. The approval of the Governor shall not be necessary to any bill, order, resolution or
+vote of the General Assembly, proposing an amendment or amendments to this Constitution,
+(Amended 11/6/1979)
+*** MEND ***
+
+*** MSTART 061 170.0 9018.0 0 KY 1890 1981 ***
+There shall be exempted from taxation public property used for public purposes; places actually
+used for religious worship, with the grounds attached thereto and used and appurtenant to the
+house of worship, not exceeding one-half acre in cities or towns, and not exceeding two acres in
+the country; places of burial not held for private or corporate profit, institutions of purely public
+charity, and institutions of education not used or employed for gain by any person or corporation,
+and the income of which is devoted solely to the cause of education, public libraries, their
+endowments, and the income of such property as is used exclusively for their maintenance; all
+parsonages or residences owned by any religious society, and occupied as a home, or residences
+owned by any religious society, and occupied as a home, and for no other purpose, by the minister
+of any religion, with not exceeding one-half acre of ground in towns and cities and two acres of
+ground in the country appurtenant thereto; household goods of a person used in his home; crops
+grown in the year in which the assessment is made, and in the hands of the producer; and real
+property maintained as the permanent residence of the owner, who is sixty-five years of age or
+older, or is classified as totally disabled under a program authorized or administered by an agency
+of the United States government or by the railroad retirement system, provided the property
+owner received disability payments pursuant to such disability classification, has maintained such
+disability classification for the entirety of the particular taxation period, and has filed with the
+appropriate local assessor by December 31 of the taxation period, on forms provided therefor, a
+signed statement indicating continuing disability as provided herein made under penalty of perjury,
+up to the assessed valuation of sixty-five hundred dollars on said residence and contiguous real
+property, except for assessment for special benefits. The real property may be held by legal or
+equitable title, by the entireties, jointly, in common, as a condominium, or indirectly by the stock
+ownership or membership representing the owner's or member's proprietary interest in a
+corporation owning a fee or a leasehold initially, in excess of ninety-eight years. The exemptions
+shall apply only to the value of the real property assessable to the owner or, in case of ownership
+through stock or membership in a corporation, the value of the proportion which his interest in
+the corporation bears to the assessed value of the property. All laws exempting or omitting
+property from taxation other than the property above mentioned shall be void. The general
+assembly may authorize any incorporated city or town to exempt manufacturing establishments
+from municipal taxation, for a period not exceeding five years, as an inducement to their location.
+(Amended 11/8/1955)
+(Amended 11/2/1971)
+(Amended 11/4/1975)
+(Amended 11/3/1981)
+
+
+*** MSTART 062 172.0.5 90.018 0 KY 1890 1981 ***
+Notwithstanding contrary provisions of Sections 170, 171, 172, or 174 of this Constitution, the
+General Assembly may provide by general law that the governing bodies of county, municipal, and
+urban-county governments may declare property assessment or reassessment moratoriums for
+qualifying units of real property for the purpose of encouraging the repair, rehabilitation, or
+restoration of existing improvements thereon. Prior to the enactment of any property assessment
+or reassessment moratorium program, the General Assembly shall provide or direct the local
+governing authority to provide property qualification standards for participation in the program
+and a limitation on the duration of any assessment or reassessment moratorium. In no instance
+shall any such moratorium extend beyond five years for any particular unit of real property and
+improvements thereon.
+(Added by amendment 11/3/1981)
+*** MEND ***
+
+*** MSTART 063 099.0 9024.0 0 KY 1890 1984 ***
+There shall be elected in each county a Judge of the County Court, a County Court Clerk, a
+County Attorney, Sheriff, Jailer, Coroner, Surveyor and Assessor, and in each Justice's District
+one Justice of the Peace and one Constable, who shall enter upon the discharge of the duties of
+their offices on the first Monday in January after their election, and who shall hold their offices
+four years until the election and qualification of their successors. 
+(Amended 11/1984)
+
+*** MSTART 064 160.0 9017.0 0 KY 1890 1986 ***
+The Mayor or Chief Executive, Police Judges, members of legislative boards or councils of towns
+and cities shall be elected by the qualified voters thereof: Provided, The Mayor or Chief Executive
+and Police Judges of the towns of the fourth, fifth and sixth classes may be appointed or elected as
+provided by law. The terms of office of Mayors or Chief Executives and Police Judges shall be
+four years, and until their successors shall be qualified, and of members of legislative boards, two
+years. When any city of the first or second class is divided into wards or districts, members of
+legislative boards shall be elected at large by the qualified voters of said city, but so selected that
+an equal proportion thereof shall reside in each of the said wards or districts; but when in any city
+of the first, second or third class, there are two legislative boards, the less numerous shall be
+selected from and elected by the voters at large of said city; but other officers of towns or cities
+shall be elected by the
+qualified voters therein, or appointed by the local authorities thereof, as the General Assembly
+may, by a general law, provide; but when elected by the voters of a town or city, their terms of
+office shall be four years, and until their successors shall be qualified. No Mayor or Chief
+Executive of any city of the first or second class, after the expiration of three successive terms of
+office to which he has been elected under this Constitution shall be eligible for the succeeding
+term. No fiscal officer of any city of the first or second class, after the expiration of the term of
+office to which he has been elected under this Constitution, shall be eligible for the succeeding
+term. "Fiscal officer" shall not include an Auditor or Assessor, or any other officer whose chief
+duty is not the collection or holding of public moneys. The General Assembly shall prescribe the
+qualifications of all officers of towns and cities, the manner in and causes for which they may be
+removed from office, and how vacancies in such offices may be filled.
+(Amended 11/6/1986)
+*** MEND ***
+
+*** MSTART 065 019.0 9002.0 0 KY 1890 1988 ***
+(1) No ex post facto law, nor any law impairing the obligation of contracts, shall be enacted. (2)
+In any instrument heretofore or hereafter executed purporting to sever the surface and mineral
+estates or to grant a mineral estate or to grant a right to extract minerals, which fails to state or
+describe in express and specific terms the method of coal extraction to be employed, or where
+said instrument contains language subordinating the surface estate to the mineral estate, it shall be
+held, in the absence of clear and convincing evidence to the contrary, that the intention of the
+parties to the instrument was that the coal be extracted only by the method or methods of
+commercial coal extraction commonly known to be in use in Kentucky in the area affected at the
+time the instrument was executed, and that the mineral estate be dominant to the surface estate for
+the purposes of coal extraction by only the method or methods of commercial coal extraction
+commonly known to be in use in Kentucky in the area affected at the time the instrument was
+executed.
+(Amended 11/8/1988)
+*** MEND ***
+
+*** MSTART 066 226.0 9022.0 0 KY 1890 1988 *** 
+(1) The general assembly may establish a Kentucky state lottery and may establish a state lottery
+to be conducted in cooperation with other states. Any lottery so established shall be operated by
+or on behalf of the Commonwealth of Kentucky.
+
+(2) Lotteries and gift enterprises forbidden. Lotteries and gift enterprises are forbidden, and no
+privileges shall be granted for such purposes, and none shall be exercised, and no schemes for
+similar purposes shall be allowed. The General Assembly shall enforce this section by proper
+penalties. All lottery privileges or charters heretofore granted are revoked.
+(Amended 11/8/1988)
+*** MEND ***
+
+*** MSTART 067 170.0 9018.0 0 KY 1890 1990 ***
+There shall be exempt from taxation public property used for public purposes; places of burial not
+held for private or corporate profit; real property owned and occupied by, and personal property
+both tangible and intangible owned by, institutions of religion; institutions of purely public charity,
+and institutions of education not used or employed for gain by any person or corporation, and the
+income of which is devoted solely to the cause of education, public libraries, their endowments,
+and the income of such property as is used exclusively for their maintenance; household goods of
+a Person used in his home; crops grown in the year in which the assessment is made, and in the
+hands of the producer; and real property maintained as the permanent residence of the owner,
+who is sixty-five years of age or older, or is classified as totally disabled under a program
+authorized or administered by an agency of the United States government or by the railroad
+retirement system, provided the property owner received disability payments pursuant to such
+disability classification, has maintained such disability classification for the entirety of the
+particular taxation period, and has filed with the appropriate local assessor by December 31 of the
+taxation period, on forms provided therefor, a signed statement indicating continuing disability as
+provided herein made under penalty of perjury, up to the assessed valuation of sixty-five hundred
+dollars ($6,500) on said residence and contiguous real property, except for assessment for special
+benefits. The real property may be held by legal or equitable title, by the entireties, jointly, in
+common, as a condominium, or indirectly by the stock ownership or membership representing the
+owner's or member's proprietary interest in a corporation owning a fee or a leasehold initially in
+excess of ninety-eight (98) years. The exemptions shall apply only to the value of the real property
+assessable to the owner or, in case of ownership through stock or membership in a corporation,
+the value of the proportion which his interest in the corporation bears to the assessed value of the
+property. All laws exempting or omitting property from taxation other than the property above
+mentioned shall be void. The General Assembly may authorize any incorporated city or town to
+exempt manufacturing establishments from municipal taxation, for a period not exceeding five (5)
+years, as an inducement to their location. 
+(Amended 11/8/1955)
+(Amended 11/2/1971)
+(Amended 11/4/1975)
+(Amended 11/3/1981)
+(Amended 11/6/1990)
+*** MEND ***
+
+*** MSTART 068 070.0 9004.0 0 KY 1890 1992 ***
+The Governor and Lieutenant Governor shall be elected for the term of four years by the qualified
+voters of the State. They shall be elected jointly by the casting by each voter of a single vote
+applicable to both offices, as shall be provided by law. The slate of candidates having the highest
+number of votes cast jointly for them for Governor and Lieutenant Governor shall be elected; but
+if two or more slates of candidates shall be equal and highest in votes, the election shall be
+determined by lot in such manner as the General Assembly may direct.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 069 071.0 9004.0 0 KY 1890 1992 ***
+The Governor shall be ineligible for the succeeding four years after the expiration of any second
+consecutive term for which he shall have been elected.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 070 072.0 9004.0 0 KY 1890 1992 ***
+The Governor and the Lieutenant Governor shall be at least thirty years of age, and have been
+citizens and residents of Kentucky for at least six years next preceding their election. The duties of
+the Lieutenant Governor shall be prescribed by law, and he shall have such other duties as
+delegated by the Governor.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 071 073.0 9004.0 0 KY 1890 1992 ***
+The Governor and the Lieutenant Governor shall commence the execution of the duties of their
+offices on the fifth Tuesday succeeding their election, and shall continue in the execution thereof
+until a successor shall have qualified.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 072 074.0 9004.0 0 KY 1890 1992 ***
+The Governor and Lieutenant Governor shall at stated times receive for the performance of their
+duties of their respective offices compensation to be fixed by law.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 073 082.0 9004.0 0 KY 1890 1992 ***
+The Lieutenant Governor shall be ineligible to the office of Lieutenant Governor for the
+succeeding four (4) years after the expiration of any second consecutive term for which he shall
+have been elected.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 074 083.0 9004.0 0 KY 1890 1992 ***
+(Repealed 11/3/1992)
+*** MEND ***
+
+*** MSTART 075 084.0 9004.0 0 KY 1890 1992 ***
+Should the Governor be impeached and removed from office, die, refuse to qualify, resign, certify
+by entry on his Journal that he is unable to discharge the duties of his office, or be, from any
+cause, unable to discharge the duties of his office, the Lieutenant Governor shall exercise all the
+power and authority appertaining to the office of Governor until another be duly elected and
+qualified, or the Governor shall be able to discharge the duties of his office. On the trial of the
+Governor, the President of the Senate shall not preside over the proceedings, but the Chief Justice
+of the Supreme Court shall preside during the trial.
+
+If the Governor, due to physical or mental incapacitation, is unable to discharge the duties of his
+office, the Attorney General may petition the Supreme Court to have the Governor declared
+disabled. If the Supreme Court determines in a unanimous decision that the Governor is unable to
+discharge the duties of his office, the Chief Justice shall certify such disability to the Secretary of
+State who shall enter same on the Journal of the Acts of the Governor, and the Lieutenant
+Governor shall assume the duties of the Governor, and shall act as Governor until the Supreme
+Court determines that the disability of the Governor has ceased to exist. Before the Governor
+resumes his duties, the finding of the Court that the disability has ceased shall be certified by the
+Chief Justice to the Secretary of State who shall enter such finding on the Journal of the Acts of
+the Governor.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 076 085.0 9004.0 0 KY 1890 1992 ***
+A President of the Senate shall be elected by each Senate as soon after its organization as possible
+and as often as there is a vacancy in the office of President, another President of the Senate shall
+be elected by the Senate, if in session. And if, during the vacancy of the office of Governor, the
+Lieutenant Governor shall be impeached and removed from office, refuse to qualify, resign, or die,
+the President of the Senate shall in like manner administer the government.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 077 086.0 9004.0 0 KY 1890 1992 ***
+The President of the Senate shall receive for his services the same compensation which shall, for
+the same period, be allowed to the Speaker of the House of Representatives, and during the time
+he administers the government as Governor, he shall receive the same compensation which the
+Governor would have received had he been employed in the duties of his office.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 078 087.0 9004.0 0 KY 1890 1992 ***
+If the Lieutenant Governor shall be called upon to administer the government in place of the
+Governor, and shall, while in such administration, resign, or die during the recess of the Genera(
+Assembly, if there be no President of the Senate, it shall be the duty of the Attorney General, for
+the time being, to convene the Senate for the purpose of choosing a President; and until a
+President is chosen, the Attorney General shall administer the government. If there be no Attorney
+General to perform the duties devolved upon him by this section, then the Auditor, for the time
+being, shall convene the Senate for the purpose of choosing a President, and shall administer the
+government until a President is chosen.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 079 091.0 9004.0 0 KY 1890 1992 ***
+A Treasurer, Auditor of Public Accounts' Commissioner of Agriculture, Labor and Statistics,
+Secretary of State, and Attorney-General, shall be elected by the qualified voters of the State at
+the same time the Governor and Lieutenant Governor are elected, for the term of four years, each
+of whom shall be at least thirty years of age at the time of his election, and shall have been a
+resident citizen of the State at least two years next before his election. The duties of all these
+officers shall be such as may be prescribed by law, and the Secretary of State shall keep a fair
+register of and attest all the official acts of the Governor, and shall, when required, lay the same
+and all papers, minutes and vouchers relative thereto before either House of the General
+Assembly. The officers named in this section shall enter upon the discharge of their duties the first
+Monday in January after their election, and shall hold their offices until their successors are
+elected and qualified.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 080 093.0 9004.0 0 KY 1890 1992 ***
+The Treasurer, Auditor of Public Accounts, Secretary of State, Commissioner of Agriculture,
+Labor and Statistics, and Attorney General shall be ineligible to reelection for the succeeding four
+years after the expiration of any second consecutive term for which they shall have been elected.
+The duties and responsibilities of these officers shall be prescribed by law, and all fees collected by
+any of said officers shall be covered into the treasury. Inferior State officers and members of
+boards and commissions, not specifically provided for in this Constitution, may be appointed or
+elected, in such manner as may be prescribed by law, which may include a requirement of consent
+by the Senate, for a term not exceeding four years, and until their successors are appointed or
+elected and qualified.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 081 094.0 9004.0 0 KY 1890 1992 ***
+(Repealed 11/3/1992)
+*** MEND ***
+
+*** MSTART 082 095.0 9004.0 0 KY 1890 1992 ***
+The election under this Constitution for Governor, Lieutenant Governor, Treasurer, auditor of
+Public Accounts, Attorney General, Secretary of State, and Commissioner of Agriculture, Labor
+and Statistics, shall be held on the first Tuesday after the first Monday in November, eighteen
+hundred and ninety-five, and the same day every four years thereafter.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 083 097.0 9024.0 0 KY 1890 1992 ***
+In the year two thousand, and every six years thereafter, there shall be an election in each county
+for a Circuit Court Clerk, and for a Commonwealth's Attorney, in each circuit court district,
+unless that office be abolished, who shall hold their respective offices for six years from the first
+Monday in January after their election, and until the election and qualification of their successors.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 084 099.0 9024.0 0 KY 1890 1992 ***
+At the regular election in nineteen hundred and ninety-eight and every four years thereafter, there
+shall be elected in each county a Judge of the County Court, a County Court Clerk, a County
+Attorney, Sheriff, Jailer, Coroner, Surveyor and Assessor, and in each Justice's District one
+Justice of the Peace and one Constable, who shall enter upon the discharge of the duties of their
+offices on the first Monday in January after their election, and who shall hold their offices four
+years until the election and qualification of their successors.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 085 148.0 9015.0 0 KY 1890 1992 ***
+Not more than one election each year shall be held in this State or in any city, town, district,
+urban-county or county thereof, except as otherwise provided in this Constitution. All regular
+elections of State, county, city, town, urban-county, or district officers shall be held on the first
+Tuesday after the first Monday in November. All elections by the people shall be between the
+hours of six o'clock a.m. and seven o'clock p.m., but the General Assembly may change said
+hours, and all officers of any election shall be residents and voters in the precinct in which they
+act. The General Assembly shall provide by law that all employers shall allow employees, under
+reasonable regulations, at least four hours on election days, in which to cast their votes.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 086 167.0 9017.0 0 KY 1890 1992 ***
+All officers required to be elected in cities, urban-counties, and towns by this Constitution, or by
+general laws enacted in conformity to its provisions, shall be elected at the general elections in
+November in even-numbered years.
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 087 226.0 9022.0 0 KY 1890 1992 ***
+(1) The General Assembly may establish a Kentucky state lottery and may establish a state lottery
+to be conducted in cooperation with other states. Any lottery so established shall be operated by
+or on behalf of the Commonwealth of Kentucky.
+
+(2) The General Assembly may by general law permit charitable lotteries and charitable gift
+enterprises and, if it does so, it shall:
+(a) Define what constitutes a charity or charitable organization;
+(b) Define the types of charitable lotteries and charitable gift enterprises which may be engaged in;
+(c) Set standards for the conduct of charitable lotteries and charitable gift enterprises by charitable
+organizations;
+(d) Provide for means of accounting for the amount of money raised by lotteries and gift
+enterprises and for assuring its expenditure only for charitable purposes;
+(e) Provide suitable penalties for violation of statutes relating to charitable lotteries and charitable
+gift enterprises; and
+(f) Pass whatever other general laws the General Assembly deems necessary to assure the proper
+functioning, honesty, and integrity of charitable lotteries and charitable gift enterprises, and the
+charitable purposes for which the funds are expended.
+(3) Except as provided in this section, lotteries and gift enterprises are forbidden, and no
+privileges shall be granted for such purposes, and none shall be exercised, and no schemes for
+similar purposes shall be allowed. The General Assembly shall enforce this section by proper
+penalties. All lottery privileges or charters heretofore granted are revoked.
+(Amended 11/8/1988)
+(Amended 11/3/1992)
+*** MEND ***
+
+*** MSTART 088 156.0 9017.0 0 KY 1890 1994 ***
+(Repealed 11/8/1994)
+*** MEND ***
+
+*** MSTART 089 156.5 9017 0 KY 1890 1994 ***
+The General Assembly may provide for the creation, alteration of boundaries, consolidation,
+merger, dissolution, government, functions, and officers of cities. The General Assembly shall
+create such classifications of cities as it deems necessary based on population, tax base, form of
+government, geography, or any other reasonable basis and enact legislation relating to the
+classifications. All legislation relating to cities of a certain classification shall apply equally to all
+cities within the same classification. The classification of all cities and the law pertaining to the
+classifications in effect at the time of adoption of this section shall remain in effect until otherwise
+provided by law.
+(Added by Amendment 11/8/1994)
+*** MEND ***
+
+*** MSTART 090 156.7 9017 0 KY 1890 1994 ***
+The General Assembly may provide by general law that cities may exercise any power and
+perform any function within their boundaries that is in furtherance of a public purpose of a city
+and not in conflict with a constitutional provision or statute.
+(Added by Amendment 11/8/1994)
+*** MEND ***
+
+*** MSTART 091 157.0 9017.0 0 KY 1890 1994 ***
+The tax rate of cities, counties, and taxing districts, for other than school purposes, shall not, at
+any time, exceed the following rates upon the value of the taxable property therein: For all cities
+having a population of fifteen thousand or more, one dollar and fifty cents on the hundred dollars;
+for all cities having less than fifteen thousand and not less than ten thousand, one dollar on the
+hundred dollars; for all cities having less than ten thousand, seventy-five cents on the hundred
+dollars; and for counties and taxing districts, fifty cents on the hundred dollars.
+(Amended 11/8/1994)
+*** MEND ***
+
+*** MSTART 092 157.5 9017 0 KY 1890 1994 ***
+Prior to each fiscal year, the legislative body of each city, county, and taxing district shall adopt a
+budget showing total expected revenues and expenditures for the fiscal year. No city, county, or
+taxing district shall expend any funds in any fiscal year in excess of the revenues for that fiscal
+year. A city, county, or taxing district may amend its budget for a fiscal year, but the revised
+expenditures may not exceed the revised revenues. As used in this section, "revenues" shall mean
+all income from every source, including unencumbered reserves carried over from the previous
+fiscal year, and "expenditures" shall mean all funds to be paid out for expenses of the city, county,
+or taxing district during the fiscal year, including amounts necessary to pay the principal and
+interest due during the fiscal year on any debt.
+(Amended 11/8/1994)
+*** MEND ***
+
+*** MSTART 093 158.0 9017.0 0 KY 1890 1994 ***
+Cities, towns, counties, and taxing districts shall not incur indebtedness to an amount exceeding
+the following maximum percentages on the value of the taxable property therein, to be estimated
+by the last assessment previous to the incurring of the indebtedness: Cities having a population of
+fifteen thousand or more, ten percent (10%); cities having a population of less than fifteen
+thousand but not less than three thousand, five percent (5%); cities having a population of less
+than three thousand, three percent (3%); and counties and taxing districts, two percent (2%),
+unless in case of emergency, the public health or safety should so require. Nothing shall prevent
+the issue of renewal bonds, or bonds to fund the floating indebtedness of any city, county, or
+taxing district. Subject to the limits and conditions set forth in this section and elsewhere in this
+Constitution, the General Assembly shall have the power to establish additional limits on
+indebtedness and conditions under which debt may be incurred by cities, counties, and taxing
+districts.
+(Amended 11/8/1994)
+*** MEND ***
+
+*** MSTART 094 180.0 9018.0 0 KY 1890 1996 ***
+Every act enacted by the General Assembly, and every ordinance and resolution passed by any
+county, city, town or municipal board or local legislative body, levying a tax, shall specify
+distinctly the purpose for which said tax is levied, and no tax levied and collected for one purpose
+shall ever be devoted to another purpose.
+(Amended 11/5/1996)
+*** MEND ***
+
+*** MSTART 095 187.0 9007.0 0 KY 1890 1996 ***
+In distributing the school fund no distinction shall be made on account of race or color.
+(Amended 11/5/1996)
+*** MEND ***
+
+*** MSTART 096 170.0 9018.0 0 KY 1890 1998 ***
+There shall be exempt from taxation public property used for public purposes; places of burial not
+held for private or corporate profit; real property owned and occupied by, and personal property
+both tangible and intangible owned by, institutions of religion; institutions of purely public charity,
+and institutions of education not used or employed for gain by any person or corporation, and the
+income of which is devoted solely to the cause of education, public libraries, their endowments,
+and the income of such property as is used exclusively for their maintenance; household goods of
+a person used in his home; crops grown in the year in which the assessment is made, and in the
+hands of the producer; and real property maintained as the permanent residence of the owner,
+who is sixty-five years of age or older, or is classified as totally disabled under a program
+authorized or administered by an agency of the United States government or by any retirement
+system either within or without the Commonwealth of Kentucky, provided the property owner
+received disability payments pursuant to such disability classification, has maintained such
+disability classification for the entirety of the particular taxation period, and has filed with the
+appropriate local assessor by December 31 of the taxation period, on forms provided therefor, a
+signed statement indicating continuing disability as provided herein made under penalty of perjury,
+up to the assessed valuation of sixty-five hundred dollars on said residence and contiguous real
+property, except for assessment for special benefits, The real property may be held by legal or
+equitable title, by the entireties, jointly, in common, as a condominium, or indirectly by the stock
+ownership or membership representing the owner's or member's proprietary interest in a
+corporation owning a fee or a leasehold initially in excess of ninety-eight years. The exemptions
+shall apply only to the value of the real property assessable to the owner or, in case of ownership
+through stock or membership in a corporation, the value of the proportion which his interest in
+the corporation bears to the assessed value of the property. The General Assembly may authorize
+any incorporated city or town to exempt manufacturing establishments from municipal taxation,
+for a period not exceeding five years, as an inducement to their location. Notwithstanding the
+provisions of Sections 3, 172, and 174 of this Constitution to the contrary, the General Assembly
+may provide by law an exemption for all or any portion of the property tax for any class of
+personal property.
+(Amended 11/8/1955)
+(Amended 11/2/1971)
+(Amended 11/4/1975)
+(Amended 11/3/1981)
+(Amended 11/6/1990)
+(Amended 11/3/1998)
+*** MEND ***

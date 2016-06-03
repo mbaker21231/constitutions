@@ -1,0 +1,1597 @@
+  This is ready to go.
+  
+  JW 8/13/02
+  
+  
+  
+  
+  *** CSTART  IA 09/03/1857 99/99/9999 ***
+  
+  CONSTITUTION OF IOWA 1857 
+  
+  *** ASTART 9001.0 IA 1857 ***
+  *** SSTART 001.0 9001.0 0 IA 1857 ***
+  
+  We, the People of the State of Iowa, grateful to the Supreme Being for the blessings
+  hitherto enjoyed, and feeling our dependence on Him for a continuation of those blessings,
+  do ordain and establish a free and independent government, b the name of The State of
+  Iowa, the boundaries whereof shall be as follows:
+   Beginning in the middle of the main channel of the Mississippi river, at a point due east
+  of the middle of the mouth of the main channel of the Des Moines river; thence up the
+  middle of the main channel of the said Des Moines river, to a point on said river where the
+  northern boundary line of the State of Missouri as established by the Constitution of that
+  State, adopted June 12th, 1820 crosses the said middle of the main channel of the said Des
+  Moines river; thence westawardly along the said northern boundary line of the State of
+  Missouri, as established at the time aforesaid; until an extension of said line intersects the
+  middle of the main channel of the Missouri river; thence up the middle of the main channel
+  of the said Missouri river to a point opposite the middle of the main channel of the Big
+  Sioux river, according to Nicollett's map; thence up the main channel of the said Big Sioux
+  river, according to the said map, until it is intersected by the parallel of forty-three degrees
+  and thirty minutes north latitude; thence east along said parallel of forty-three degrees and
+  thirty minutes, until said parallel intersects the middle of the main channel of the
+  Mississippi river; thence down the middle of the main channel of the said Mississippi river
+  to the place of beginning.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 001.0 IA 1857 ***
+  
+  ARTICLE I
+  
+  BILL OF RIGHTS
+  
+  *** SSTART 001.0 001.0 0 IA 1857 ***
+  
+  SECTION 1. All men are, by nature, free and equal, and have certain inalienable rights,
+  among which are those of enjoying and defending life and liberty, acquiring, possessing
+  and protecting property, and pursuing and obtaining safety and happiness.
+  
+  *** SEND ***
+  *** SSTART 002.0 001.0 0 IA 1857 ***
+  
+  SEC. 2. All political power is inherent in the people. Government is instituted for the
+  protection, security, and benefit of the people, and they have the right, at all times, to alter
+  or reform the same, whenever the public good may require it.
+  
+  *** SEND ***
+  *** SSTART 003.0 001.0 0 IA 1857 ***
+  
+  SEC. 3.Assembly shall make no law respecting an establishment of religion, or prohibiting
+  the free exercise thereof; nor shall any person be compelled to attend any place of worship,
+  pay tithes, taxes or other rates, for building or repairing places of worship, or the
+  maintenance of any minister or ministry.
+  
+  *** SEND ***
+  *** SSTART 004.0 001.0 0 IA 1857 ***
+  
+  SEC. 4. No religious test shall be required as a qualification for any office, of public trust,
+  and no person shall be deprived of any of his rights, privileges or capacities, or disqualified
+  from the performance any of his public or private duties, or rendered incompetent to give
+  evidence in any court of law or equity, in consequence of his opinions on the subject of
+  religion; and any party to any judicial proceeding shall have the right to use as a witness, or
+  take the testimony of, any other person, not disqualified on account of interest, who may be
+  cognizant of any fact material to the case; and parties to suits may be witnesses, as
+  provided by law.
+  
+  *** SEND ***
+  *** SSTART 005.0 001.0 0 IA 1857 ***
+  
+  SEC. 5. Any citizen of this State who may hereafter be engaged, either directly or
+  indirectly, in a duel, either as principal or accessory before the fact, shall forever be
+  disqualified from holding any office under the constitution and laws of this State.
+  
+  *** SEND ***
+  *** SSTART 006.0 001.0 0 IA 1857 ***
+  
+  SEC. 6. All laws of a general nature shall have a uniform operation; the General Assembly
+  shall not grant to any citizen or class of citizens, privileges or immunities, which upon the
+  same terms shall not equally belong to all citizens.
+  
+  *** SEND ***
+  *** SSTART 007.0 001.0 0 IA 1857 ***
+  
+  SEC. 7. Every person may speak, write and publish his sentiments on. all subjects, being
+  responsible for the abuse of that right. No law shall be passed to restrain or abridge the
+  liberty of speech, or of the press. In all prosecutions or indictments for libel, the truth may
+  be given in evidence to the jury, and if it appear to the jury that the matter charged as
+  libelous was true, and was published with good motives and for justifiable ends, the party
+  shall be acquitted.
+  
+  *** SEND ***
+  *** SSTART 008.0 001.0 0 IA 1857 ***
+  
+  SEC. 8. The right of the people to be secure in their persons, houses, papers and effects,
+  against unreasonable seizures and searches shall not be violated; and no warrant shall issue
+  but on probable cause, supported by oath or affirmation, particularly describing the place to
+  be searched, and the persons and things to be seized.
+  
+  *** SEND ***
+  *** SSTART 009.0 001.0 0 IA 1857 ***
+  
+  SEC. 9. The right of trial by jury shall remain inviolate; but the General Assembly may
+  authorize trial by jury of a less number than twelve men in inferior courts; but no person
+  shall be deprived of life, liberty, or property, without due process of law.
+  
+  *** SEND ***
+  *** SSTART 010.0 001.0 0 IA 1857 ***
+  
+  SEC. 10. In all criminal prosecutions, and in cases involving the life or liberty of in
+  individual, the accused shall have a right to a speedy and public trial by an impartial jury;
+  to be informed of the accusation against him; to have a copy of the same when demanded
+  to be confronted with the witnesses against him; to have compulsory process for his
+  witnesses; and to have the assistance of counsel.
+  
+  *** SEND ***
+  *** SSTART 011.0 001.0 0 IA 1857 ***
+  
+  SEC. 11. All offenses less than felony, and in which the punishment does not exceed a fine
+  of one hundred dollars, or imprisonment for thirty days, shall be tried summarily before a
+  Justice of the Peace, or other officer authorized by law, on information under oath, without
+  indictment, or the intervention of a grand jury, saving to the defendant the right of appeal;
+  and no person shall be held to answer for any higher criminal offense, unless on
+  presentment or indictment by a grand jury, except in cases arising in the army or navy, or in
+  the militia, when in actual service, in time of war or public danger.
+  
+  *** SEND ***
+  *** SSTART 012.0 001.0 0 IA 1857 ***
+  
+  SEC. 12. No person shall, after acquittal, be tried for the same offense. All persons shall
+  before conviction, be bailable by sufficient sureties, except for capital offenses, where the
+  proof is evident, or the presumption great.
+  
+  *** SEND ***
+  *** SSTART 013.0 001.0 0 IA 1857 ***
+  
+  SEC. 13. The writ of habeas corpus shall not be suspended, or refused when application is
+  made as required by law, unless in case of rebellion or invasion the public safety may
+  require it.
+  
+  *** SEND ***
+  *** SSTART 014.0 001.0 0 IA 1857 ***
+  
+  SEC. 14. The military shall be subordinate to the civil power. No standing army shall be
+  kept up by the State in time of peace; and in time of war, no appropriation for a standing
+  army shall be for a longer time than two years.
+  
+  *** SEND ***
+  *** SSTART 015.0 001.0 0 IA 1857 ***
+  
+  SEC. 15. No soldier shall, in time of peace, be quartered in any house without the consent
+  of the owner, nor in time of war except in the manner prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 016.0 001.0 0 IA 1857 ***
+  
+  SEC. 16. Treason against the state shall consist only in levying war against it, adhering to
+  its enemies, or giving them aid and comfort. No person shall be convicted of treason,
+  unless on the evidence of two witnesses to the same overt act, or confession in open court.
+  
+  *** SEND ***
+  *** SSTART 017.0 001.0 0 IA 1857 ***
+  
+  SEC. 17. Excessive bail shall not be required; excessive fines shall not be imposed, and
+  cruel and unusual punishment shall not be inflicted.
+  
+  *** SEND ***
+  *** SSTART 018.0 001.0 0 IA 1857 ***
+  
+  SEC. 18. Private property shall not be taken for public use without just compensation first
+  being made, or secured to be made, to the owner thereof, as soon as the damages shall be
+  assessed by a jury, who shall not take into consideration any advantages that may result to
+  said owner on account of the improvement for which it is taken.
+  
+  *** SEND ***
+  *** SSTART 019.0 001.0 0 IA 1857 ***
+  
+  SEC. 19. No person shall be imprisoned for debt in any civil action, on mesne or final
+  process, unless in case of fraud; and no person shall be imprisoned for a military fine in
+  time of peace.
+  
+  *** SEND ***
+  *** SSTART 020.0 001.0 0 IA 1857 ***
+  
+  SEC. 20. The people have the right to freely assemble together to counsel for the common
+  good; to make known their opinions to their representatives, and to petition for a redress of
+  grievances.
+  
+  *** SEND ***
+  *** SSTART 021.0 001.0 0 IA 1857 ***
+  
+  SEC. 21. No bill of attainder ex-post-facto law, or law impairing the obligation of
+  contracts, shall ever be passed.
+  
+  *** SEND ***
+  *** SSTART 022.0 001.0 0 IA 1857 ***
+  
+  SEC. 22. Foreigners who are, or may hereafter become residents of this State, shall enjoy
+  the same rights in respect to the possession, enjoyment, and descent of property, as native
+  born citizens.
+  
+  *** SEND ***
+  *** SSTART 023.0 001.0 0 IA 1857 ***
+  
+  SEC. 23. There shall be no slavery in this State; nor shall there be involuntary servitude
+  unless for the punishment of crime.
+  
+  *** SEND ***
+  *** SSTART 024.0 001.0 0 IA 1857 ***
+  
+  SEC. 24. No lease or grant of agricultural lands, reserving any rent or service of any kind,
+  shall be valid for a longer period than twenty years.
+  
+  *** SEND ***
+  *** SSTART 025.0 001.0 0 IA 1857 ***
+  
+  SEC. 25. This enumeration of rights shall not be construed to impair or deny others,
+  retained by the people.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 002.0 IA 1857 ***
+  
+  ARTICLE II
+  RIGHT OF SUFFRAGE
+  
+  *** SSTART 001.0 002.0 0 IA 1857 ***
+  
+  SECTION 1. Every white male citizen of the United States of the age of twenty-one years,
+  who shall have been a resident of this State six months next preceding the election, and of
+  the county in which he claims his vote, sixty days, shall be entitled to vote at all elections
+  which are now or hereafter may be authorized by law.
+  
+  *** SEND ***
+  *** SSTART 002.0 002.0 0 IA 1857 ***
+  
+  SEC. 2. Electors shall, in all cases except treason, felony, or breach of the peace, be
+  privileged from arrest on the days of election, during their attendance at such elections,
+  going to and returning therefrom.
+  
+  *** SEND ***
+  *** SSTART 003.0 002.0 0 IA 1857 ***
+  
+  SEC. 3. No elector shall be obliged to perform military duty on the day of election, except
+  in time of war or public danger.
+  
+  *** SEND ***
+  *** SSTART 004.0 002.0 0 IA 1857 ***
+  
+  SEC. 4. No person in the military, naval, or marine service of the United States shall be
+  considered a resident of this state by being stationed in any garrison, barrack, or military or
+  naval place or station within this state.
+  
+  *** SEND ***
+  *** SSTART 005.0 002.0 0 IA 1857 ***
+  
+  SEC. 5. No idiot or insane person, or person convicted of any infamous crime, shall be
+  entitled to the privilege of an elector.
+  
+  *** SEND ***
+  *** SSTART 006.0 002.0 0 IA 1857 ***
+  
+  SEC. 6. All elections by the people shall be by ballot.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 003.1 IA 1857 ***
+  
+  ARTICLE III
+  OF THE DISTRIBUTION OF POWERS
+  
+  *** SSTART 001.0 003.1 0 IA 1857 ***
+  
+  SECTION 1. The powers of the government of Iowa shall be divided into three separate
+  departments: The Legislative, the Executive and the Judicial; and no person charged with
+  the exercise of powers properly belonging to one of these departments shall exercise any
+  function appertaining to either of the others, except in cases hereinafter expressly directed
+  or permitted.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 003.2 IA 1857 ***
+  
+  LEGISLATIVE DEPARTMENT
+  
+  *** SSTART 001.0 003.2 0 IA 1857 ***
+  
+  SECTION 1. The Legislative authority of this state shall be vested in a General Assembly,
+  which shall consist of a Senate and House of Representatives; and the style of every law
+  shall be:
+  "Be it enacted by the General Assembly of the State of Iowa."
+  
+  *** SEND ***
+  *** SSTART 002.0 003.2 0 IA 1857 ***
+  
+  SEC. 2. The sessions of the general assembly shall be biennial, and shall commence on the
+  second Monday in January next ensuing the election of its members, unless the Governor
+  of the State shall, in the meantime, convene the General Assembly by proclamation.
+  
+  *** SEND ***
+  *** SSTART 003.0 003.2 0 IA 1857 ***
+  
+  SEC. 3. The members of the House of Representatives shall be chosen every second year,
+  by the qualified electors of their respective districts, on the second Tuesday in October,
+  except the years of the Presidential election, when the election shall be on the Tuesday next
+  after the first Monday in November; and their term of office shall commence on the first
+  day of January next after their election, and continue two years, and until their successors
+  are elected and qualified.
+  
+  *** SEND ***
+  *** SSTART 004.0 003.2 0 IA 1857 ***
+  
+  SEC. 4. No person shall be a member of the House of Representatives who shall not have
+  attained the age of twenty-one years, be a free white male citizen of the United States, and
+  shall have been an inhabitant of this state one year next preceding his election, and at the
+  time of his election shall have had an actual residence of sixty days in the county or district
+  he may have been chosen to represent.
+  
+  *** SEND ***
+  *** SSTART 005.0 003.2 0 IA 1857 ***
+  
+  SEC. 5. Senators shall be chosen for the term of four years, at the same time and place as
+  Representatives; they shall be twenty-five years of age, and possess the qualifications of
+  Representatives as to residence and citizenship.
+  
+  *** SEND ***
+  *** SSTART 006.0 003.2 0 IA 1857 ***
+  
+  SEC. 6. The number of Senators shall not be less than one-third nor more than one-half the
+  Representative body; and shall be so classified by lot, that one class being as nearly one-
+  half as possible, when the number of Senators is shall be elected every two years is
+  increased, they shall be annexed by lot to one or the other of the two classes, so as to keep
+  them as nearly equal in numbers as practicable.
+  
+  *** SEND ***
+  *** SSTART 007.0 003.2 0 IA 1857 ***
+  
+  SEC. 7. Each house shall choose its own officers, and judge of the qualification, election,
+  and return of its own members. A contested election shall be determined in such a manner
+  as shall be directed by law.
+  
+  *** SEND ***
+  *** SSTART 008.0 003.2 0 IA 1857 ***
+  
+  SEC. 8. A majority of each House shall constitute a quorum to transact business; but a
+  smaller number may adjourn from day to day, and may compel the attendance of absent
+  members in such a manner and under such penalties as each House may provide.
+  
+  *** SEND ***
+  *** SSTART 009.0 003.2 0 IA 1857 ***
+  
+  SEC. 9. Each House shall sit upon its own adjournments, keep a journal of its proceedings,
+  and publish the same; determine its rules of proceedings, punish members for disorderly
+  behavior, and, with the consent of two-thirds, expel a member, but not a second time for
+  the same offense; and shall have all other powers necessary for a branch of the General
+  Assembly of a free and independent State.
+  
+  *** SEND ***
+  *** SSTART 010.0 003.2 0 IA 1857 ***
+  
+  SEC. 10. Every member of the General Assembly shall have the liberty to dissent from or
+  protest against any act or resolution which he may think injurious to the public or an
+  individual, and have the reasons for his dissent entered on the journals; and the yeas and
+  nays of the members of either House, on any question, shall, at the desire of any two
+  members present, be entered on the journals.
+  
+  *** SEND ***
+  *** SSTART 011.0 003.2 0 IA 1857 ***
+  
+  SEC. 11. Senators and Representatives, in all cases except treason, felony, or breach of the
+  peace, shall be privileged from arrest during the session of the General Assembly, and in
+  going to and returning from the same.
+  
+  *** SEND ***
+  *** SSTART 012.0 003.2 0 IA 1857 ***
+  
+  SEC. 12. When vacancies occur in either House, the Governor, or the person exercising the
+  functions of Governor, shall issue writs of election to fill such vacancies.
+  
+  *** SEND ***
+  *** SSTART 013.0 003.2 0 IA 1857 ***
+  
+  SEC. 13. The doers of each House shall be open, except on such occasions as, in the
+  opinion of the House, may require secrecy.
+  
+  *** SEND ***
+  *** SSTART 014.0 003.2 0 IA 1857 ***
+  
+  SEC. 14. Neither House shall, without the consent of the other, adjourn for more than three
+  days, nor to any other place than that in which they may be sitting.
+  
+  *** SEND ***
+  *** SSTART 015.0 003.2 0 IA 1857 ***
+  
+  SEC. 15. Bills may originate in either House, and may be amended, altered, or rejected by
+  the other; and every bill having passed both Houses, shall be signed by the Speaker and
+  President of their respective Houses.
+  
+  *** SEND ***
+  *** SSTART 016.0 003.2 0 IA 1857 ***
+  
+  SEC. 16. Every bill which shall have passed the General Assembly, shall, before it
+  becomes a law, be presented to the Governor. If he approve, he shall sign it; but if not, he
+  shall return it, with his objections, to the House in which it originated, which shall enter the
+  same upon their journal, and proceed to reconsider it; if, after such reconsideration, it again
+  pass both Houses, by yeas and nays, by a majority of two thirds of the members of each
+  House, it shall become a law, notwithstanding the Governor's objections. If any bill shall
+  not be returned within three days after it shall have been presented to him, (Sunday
+  excepted), the same shall be a law in like manner as if he had signed it, unless the General
+  Assembly, by adjournment prevent such return. Any bill submitted to the Governor for his
+  approval during the last three days of a session of the General Assembly, shall be deposited
+  by him in the office of the Secretary of State within thirty days after the adjournment, with
+  his approval, if approved by him, and with his objections if he disapproves thereof.
+  
+  *** SEND ***
+  *** SSTART 017.0 003.2 0 IA 1857 ***
+  
+  SEC. 17. No bill shall be passed unless by the assent of a majority of all the members
+  elected to each branch of the General Assembly, and the question upon the final passage
+  shall be taken immediately upon its last reading, and the yeas and nays entered upon the
+  journal.
+  
+  *** SEND ***
+  *** SSTART 018.0 003.2 0 IA 1857 ***
+  
+  SEC. 18. An accurate statement of the receipts and expenditures of the public money shall
+  be attached to and published with the laws at every regular session of the General
+  Assembly.
+  
+  *** SEND ***
+  *** SSTART 019.0 003.2 0 IA 1857 ***
+  
+  SEC. 19. The House of Representatives shall have the sole power of impeachment, and all
+  impeachments shall be tried by the Senate. When sitting for that purpose, the Senators shall
+  be upon oath or affirmation; and no person shall be convicted without the concurrence of
+  two-thirds of the members present.
+  
+  *** SEND ***
+  *** SSTART 020.0 003.2 0 IA 1857 ***
+  
+  SEC. 20. The Governor, Judges of the Supreme and District Courts. and other State
+  officers, shall be liable to impeachment for any misdemeanor or malfeasance in office; but
+  judgment in such cases shall extend only to removal from office, and disqualification to
+  hold any office of honor, trust, or profit under this State; but the party convicted or
+  acquitted shall nevertheless be liable to indictment; trial, and punishment according to law.
+  All other civil officers shall be tried for misdemeanors and malfeasance in office, in such
+  manner as the General Assembly may provide.
+  
+  *** SEND ***
+  *** SSTART 021.0 003.2 0 IA 1857 ***
+  
+  SEC. 21. No Senator or Representative shall, during the time for which he shall have been
+  elected, be appointed to any civil office of profit under this State, which shall have been
+  created, or the emoluments of which shall have been increased during such term, except
+  such offices as may be filled by elections by the people.
+  
+  *** SEND ***
+  *** SSTART 022.0 003.2 0 IA 1857 ***
+  
+  SEC. 22. No person holding any lucrative office under the United States, or this State, or
+  any other power, shall be eligible to hold a seat in the General Assembly; but offices in the
+  militia, to which there is attached no annual salary, or the office of Justice of the Peace, or
+  Postmaster, whose compensation does not exceed one hundred dollars per annum, or
+  notary public, shall not be deemed lucrative
+  
+  *** SEND ***
+  *** SSTART 023.0 003.2 0 IA 1857 ***
+  
+  SEC. 23. No person who may hereafter be a collector or holder of public moneys, shall
+  have a seat in either House of the General Assembly, or be eligible to hold any office of
+  trust or profit in this State, until he shall have accounted for and paid into the treasury all
+  sums for which he may be liable.
+  
+  *** SEND ***
+  *** SSTART 024.0 003.2 0 IA 1857 ***
+  
+  SEC. 24. No money shall be drawn from the treasury but in consegence of appropriations
+  made by law.
+  
+  *** SEND ***
+  *** SSTART 025.0 003.2 0 IA 1857 ***
+  
+  SEC. 25. Each member of the First General Assembly under this Constitution shall receive
+  three dollars per diem while in session; and the further sum of three dollars for every
+  twenty miles traveled in going to and returning from the place where such session is held,
+  by the nearest traveled route; after which they shall receive such compensation as shall be
+  fixed by law; but no General Assembly shall have the power to increase the compensation
+  of its members. And when convened in extra session they shall receive the same mileage
+  and per diem compensation as fixed by law for the regular session and none other.
+  
+  *** SEND ***
+  *** SSTART 026.0 003.2 0 IA 1857 ***
+  
+  SEC. 26. No law of the General Assembly, passed at a regular session of a public nature,
+  shall take effect until the fourth day of July next after the passage thereof. Laws passed at a
+  special session shall take effect ninety days after the adjournment of the General Assembly
+  by which they were passed. If the General Assembly shall deem any law of immediate
+  importance, they may provide that the same shall take effect by publication in newspapers
+  in the State.
+  
+  *** SEND ***
+  *** SSTART 027.0 003.2 0 IA 1857 ***
+  
+  SEC. 27. No divorce shall be granted by the General Assembly.
+  
+  *** SEND ***
+  *** SSTART 028.0 003.2 0 IA 1857 ***
+  
+  SEC. 28. No lottery shall be authorized by this State; nor shall the sale of lottery tickets be
+  allowed.
+  
+  *** SEND ***
+  *** SSTART 029.0 003.2 0 IA 1857 ***
+  
+  SEC. 29. Every act shall embrace but one subject, and matters properly connected
+  therewith; which subject, shall be expressed in the title, but if any subject shall be
+  embraced in an act which shall not be expressed in the title, such act shall be void only as
+  to so much thereof as shall not be expressed in the title.
+  
+  *** SEND ***
+  *** SSTART 030.0 003.2 0 IA 1857 ***
+  
+  SEC. 30. The General Assembly shall not pass local or special laws in the following cases:
+  For the assessment and collection of taxes for state, county, or road purposes; 
+   For laving out, opening, and working roads or highways;
+   For changing the names of persons;
+   For the incorporation of cities and towns;
+   For vacating roads, town plats, streets, alleys, or public squares;
+   For locating or changing county seats.
+  In all the cases above enumerated, and in all other cases where a general law can be
+  made applicable, all laws shall be general, and of uniform operation throughout the state;
+  and no law changing the boundary lines of an county shall have effect until upon being
+  submitted to the people of the counties affected by the change at a general election, it shall
+  be approved by a majority of the votes in each county, cast for and against it.
+  
+  *** SEND ***
+  *** SSTART 031.0 003.2 0 IA 1857 ***
+  
+  SEC. 31. No extra compensation shall be made to any officer, public agent, or contractor,
+  after the service shall have been rendered, or the contract entered into; nor shall any money
+  be paid on any claim, the subject matter of which shall not have been provided for by pre-
+  existing laws, and no public money or property shall be appropriated for local, or private
+  purposes, unless such appropriation, compensation or claim be allowed by two thirds of the
+  members elected to each branch of the General Assembly.
+  
+  *** SEND ***
+  *** SSTART 032.0 003.2 0 IA 1857 ***
+  
+  SEC. 32. Members of the General Assembly shall, before they enter upon the duties of
+  their respective offices, take and subscribe the following oath or affirmation: "I do
+  solemnly swear, or affirm, (as the case may be,) that I will support the Constitution of the
+  United States, and the Constitution of the State of Iowa, and that I will faithfully discharge
+  the duties of Senator, (or Representative, as the case may be,) according to the best of my
+  ability." And members of the General Assembly are hereby empowered to administer to
+  each other the said oath or affirmation.
+  
+  *** SEND ***
+  *** SSTART 033.0 003.2 0 IA 1857 ***
+  
+  SEC. 33. The General Assembly shall, in the years one thousand eight hundred and fifty-
+  nine, one thousand eight hundred and sixty three, one thousand eight hundred and sixty-
+  five, one thousand eight hundred and sixty-seven, one thousand eight hundred sixty-nine,
+  and one thousand eight hundred and seventy-five, and every ten years thereafter, cause an
+  enumeration to be made of all the white inhabitants of the State.
+  
+  *** SEND ***
+  *** SSTART 034.0 003.2 0 IA 1857 ***
+  
+  SEC. 34. The number of Senators shall, at the next session following each period of
+  making such enumeration, and the next session following each United States census, be
+  fixed by law, and apportioned among the several counties according to the number of white
+  inhabitants in each. 
+  
+  *** SEND ***
+  *** SSTART 035.0 003.2 0 IA 1857 ***
+  
+  SEC. 35. The Senate shall not consist of more than fifty members, nor the House of
+  Representatives of more than one hundred; and they shall be apportioned among the
+  several counties and representative districts in the State according to the number of white
+  inhabitants in each, upon ratios to be fixed by law; but no representative district shall
+  contain more than four organized counties, and each district shall be entitled to at least one
+  Representative. Every county and district which shall have a number of inhabitants equal to
+  one-half of the ratio fixed by law, shall be entitled to one Representative; and any one
+  county containing, in addition to the ratio fixed by law, one-half of that number, or more,
+  shall be entitled to one additional Representative. No floating district shall hereafter be
+  formed.
+  
+  *** SEND ***
+  *** SSTART 036.0 003.2 0 IA 1857 ***
+  
+  SEC. 36. At its first session under this Constitution, and at every subsequent regular
+  session, the General Assembly shall fix the ratio of representation, and also form into
+  representative districts those counties which will not be entitled singly to a Representative.
+  
+  *** SEND ***
+  *** SSTART 037.0 003.2 0 IA 1857 ***
+  
+  SEC. 37. When a Congressional, Senatorial, or Representative district shall be composed
+  of two or more counties, it shall not be entirely separated by any county belonging to
+  another district; and no county shall be divided in forming a Congressional, Senatorial, or
+  Representative districts.
+  
+  *** SEND ***
+  *** SSTART 038.0 003.2 0 IA 1857 ***
+  
+  SEC. 38. In all elections by the General Assembly, the members thereof shall vote-viva
+  voce; and the votes shall be entered on the journal.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 004.0 IA 1857 ***
+  
+  ARTICLE IV
+  
+  EXECUTIVE DEPARTMENT
+  
+  *** SSTART 001.0 004.0 0 IA 1857 ***
+  
+  SECTION 1. The supreme executive power of this State shall be vested in a Chief
+  Magistrate, who shall be styled the Governor of the State of Iowa.
+  
+  *** SEND ***
+  *** SSTART 002.0 004.0 0 IA 1857 ***
+  
+  SEC. 2. The Governor shall be elected by the qualified electors at the time and place of
+  voting for members of the General Assembly, and shall hold his office two years from the
+  time of his installation, and until his successor is elected and qualified.
+  
+  *** SEND ***
+  *** SSTART 003.0 004.0 0 IA 1857 ***
+  
+  SEC. 3. There shall be a Lieutenant Governor, who shall hold his office two years, and be
+  elected at the same time as the Governor. In voting for Governor and Lieutenant Governor,
+  the electors shall designate for whom they vote as Governor, and for whom as Lieutenant
+  Governor. The returns of every election for Governor, and Lieutenant Governor, shall be
+  sealed up and transmitted to the seat of Government of the State, directed to the Speaker of
+  the House of Representatives, who shall open and publish them in the presence of both
+  Houses of the General Assembly.
+  
+  *** SEND ***
+  *** SSTART 004.0 004.0 0 IA 1857 ***
+  
+  SEC. 4. The persons respectively having the highest number of votes for Governor and
+  Lieutenant Governor, shall be declared duly elected; but in case two or more persons shall
+  have an equal, and the highest number of votes for either office, the General Assembly
+  shall, by joint vote, forthwith proceed to elect one of said persons Governor, or Lieutenant
+  Governor, as the case may be.
+  
+  *** SEND ***
+  *** SSTART 005.0 004.0 0 IA 1857 ***
+  
+  SEC. 5. Contested elections for Governor, or Lieutenant Governor, shall be determined by
+  the General Assembly in such manner as may be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 006.0 004.0 0 IA 1857 ***
+  
+  SEC. 6. No person shall be eligible to the office of Governor, or Lieutenant Governor, who
+  shall not have been a citizen of the United States, and a resident of the State two years next
+  preceding the election, and attained the age of thirty years at the time of said election.
+  
+  *** SEND ***
+  *** SSTART 007.0 004.0 0 IA 1857 ***
+  
+  SEC. 7. The Governor shall be commander in chief of the militia, the army, and navy of
+  this State.
+  
+  *** SEND ***
+  *** SSTART 008.0 004.0 0 IA 1857 ***
+  
+  SEC. 8. He shall transact all executive business with the officers of government, civil and
+  military, and may require information in writing from the officers of the Executive
+  Department upon tiny subject relating to the duties of their respective offices.
+  
+  *** SEND ***
+  *** SSTART 009.0 004.0 0 IA 1857 ***
+  
+  SEC. 9. He shall take care that the laws are faithfully executed.
+  
+  *** SEND ***
+  *** SSTART 010.0 004.0 0 IA 1857 ***
+  
+  SEC. 10. When any office shall, from any cause, become vacant, and no mode is provided
+  by the Constitution and laws for filling such vacancy, the Governor shall have power to fill
+  such vacancy, by granting a commission, which shall expire at the end of the next session
+  of the General Assembly or at the next election by the people.
+  
+  *** SEND ***
+  *** SSTART 011.0 004.0 0 IA 1857 ***
+  
+  SEC. 11. He may, on extraordinary occasions, convene the General Assembly, by
+  proclamation, and shall state to both Houses. when assembled, the purpose for which they
+  shall have been convened.
+  
+  *** SEND ***
+  *** SSTART 012.0 004.0 0 IA 1857 ***
+  
+  SEC. 12. He shall communicate, by message, to the General Assembly, at every regular
+  session, the condition of the State, and recommend such matters as he shall deem
+  expedient.
+  
+  *** SEND ***
+  *** SSTART 013.0 004.0 0 IA 1857 ***
+  
+  SEC. 13. In case of disagreement between the two Houses with respect to the time of
+  adjournment, the Governor shall have power to adjourn the General Assembly to such time
+  as he may think proper; but no such adjournment shall be beyond the time fixed for the
+  regular meeting of the next General Assembly.
+  
+  *** SEND ***
+  *** SSTART 014.0 004.0 0 IA 1857 ***
+  
+  SEC. 14. No person shall, while holding any office under the authority of the United States,
+  or this State, execute the office of Governor, or Lieutenant-Governor, except as hereinafter
+  expressly provided.
+  
+  *** SEND ***
+  *** SSTART 015.0 004.0 0 IA 1857 ***
+  
+  SEC. 15. The official term of the Governor, and Lieutenant-Governor, shall commence on
+  the second Monday of January next after their election, and continue for two years, and
+  until their successors are elected and qualified. The Lieutenant-Governor, while acting as
+  Governor, shall receive the same pay as provided for Governor, and while presiding in the
+  Senate, shall receive as compensation therefor, the same mileage and double the per them
+  pay provided for a Senator, and none other.
+  
+  *** SEND ***
+  *** SSTART 016.0 004.0 0 IA 1857 ***
+  
+  SEC. 16. The Governor shall have power to grant reprieves, commutations and pardons,
+  after conviction, for all offenses except treason and cases of impeachment, subject to such
+  regulations as may be provided by law. Upon conviction for treason, he shall have power to
+  suspend the execution of the sentence until the case shall be reported to the General
+  Assembly at its next meeting, when the General Assembly shall either grant a pardon,
+  commute the sentence, direct the execution of the sentence, or grant a further reprieve. He
+  shall have power to remit fines and forfeitures, under such regulations as may be prescribed
+  by law; and shall report to the General Assembly, at its next meeting, each case of reprieve,
+  commutation, or pardon granted, and the reason therefor; and also all persons in whose
+  favor remission of fines and forfeitures shall have been made, and the several amounts
+  remitted.
+  
+  *** SEND ***
+  *** SSTART 017.0 004.0 0 IA 1857 ***
+  
+  SEC. 17. In case of the death, impeachment, resignation, removal from office, or other
+  disability of the Governor, the powers and duties of the office for the residue of the term, or
+  until he shall be acquitted. or the disability removed, shall devolve, upon the Lieutenant-
+  Governor.
+  
+  *** SEND ***
+  *** SSTART 018.0 004.0 0 IA 1857 ***
+  
+  SEC. 18. The Lieutenant-Governor shall be President of the Senate but shall only vote
+  when the Senate is equally divided: and in case of his absence or impeachment, or when he
+  shall exercise the office of Governor, the Senate shall choose a President pro tempore.
+  
+  *** SEND ***
+  *** SSTART 019.0 004.0 0 IA 1857 ***
+  
+  SEC 19. If the Lieutenant-Governor, while acting as Governor, shall be impeached,
+  displaced, resign or die, or otherwise become incapable of performing the duties of the
+  office, the President pro tempore of the Senate shall act as Governor until the vacancy is
+  filled, or the disability removed; and if the President of the Senate, for any of the above
+  causes, shall be rendered incapable of performing the duties pertaining to the office of
+  Governor, the same shall devolve upon the Speaker of the House of Representatives.
+  
+  *** SEND ***
+  *** SSTART 020.0 004.0 0 IA 1857 ***
+  
+  SEC. 20. There shall be a seal of this State, which shall be kept by the Governor, and used
+  by him officially, and shall be called the Great Seal of the State of Iowa.
+  
+  *** SEND ***
+  *** SSTART 021.0 004.0 0 IA 1857 ***
+  
+  SEC. 21. All grants and commissions shall be in the name and by the authority or the
+  people of the State of Iowa, sealed with the Great Seal of the State, signed by the Governor,
+  and countersigned by the Secretary of State.
+  
+  *** SEND ***
+  *** SSTART 022.0 004.0 0 IA 1857 ***
+  
+  SEC. 22. A Secretary of State, Auditor of State, and Treasury of State shall be elected by
+  the qualified electors, who shall continue in office two years, and until their successors are
+  elected and qualified; and perform such duties as may be required by law.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 005.0 IA 1857 ***
+  
+  ARTICLE V
+  
+  JUDICIAL DEPARTMENT
+  
+  *** SSTART 001.0 005.0 0 IA 1857 ***
+  
+  SECTION 1. The Judicial power shall be vested in a Supreme Court, District Court, and
+  such other Courts, inferior to the Supreme Court, as the General Assembly may, from time
+  to time, establish.
+  
+  *** SEND ***
+  *** SSTART 002.0 005.0 0 IA 1857 ***
+  
+  SEC. 2. The Supreme Court shall consist of three Judges, two of whom shall constitute a
+  quorum to hold Court.
+  
+  *** SEND ***
+  *** SSTART 003.0 005.0 0 IA 1857 ***
+  
+  SEC. 3. The Judges of the Supreme Court shall be elected by the qualified electors of the
+  State, and shall hold their Court at such time and place as the General Assembly may
+  prescribe. The Judges of the Supreme Court so elected, shall be classified so that one,
+  judge shall go out of office every two years; and the Judge holding the shortest term of
+  office under such classification, shall be Chief Justice of the Court during his term, and so
+  on in rotation. After the expiration of their terms of office, under such classification, the
+  term of each Judge of the Supreme Court shall be six years, and until his successor shall
+  have been elected and qualified. The Judges of the Supreme Court shall be ineligible to any
+  other office in the State, during the term for which they have been elected.
+  
+  *** SEND ***
+  *** SSTART 004.0 005.0 0 IA 1857 ***
+  
+  SEC. 4. The Supreme Court shall have appellate jurisdiction only in cases in chancery, and
+  shall constitute a court for the correction of errors at law, under such restrictions as the
+  General Assembly may by law prescribe; and shall have power to issue all writs and
+  process necessary to secure justice to parties, and exercise a supervisory control over all
+  inferior judicial tribunals throughout the State.
+  
+  *** SEND ***
+  *** SSTART 005.0 005.0 0 IA 1857 ***
+  
+  SEC. 5. The District Court, shall consist, of a. single Judge, who shall be elected by the
+  qualified electors of the District in which he resides. The Judge of the District Court shall
+  hold his office for the term of four years, and until his successor shall have been elected
+  and qualified; and shall be ineligible to any other office except that of Judge of the
+  Supreme Court  during the term for which he was elected.
+  
+  *** SEND ***
+  *** SSTART 006.0 005.0 0 IA 1857 ***
+  
+  SEC. 6. The District Court shall be a Court of law and equity, which shall be distinct and
+  separate jurisdictions, and have jurisdiction in civil and criminal matters arising in their
+  respective districts, in such manner as shall be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 007.0 005.0 0 IA 1857 ***
+  
+  SEC. 7. The Judges of the Supreme and District Courts shall be conservators of the peace
+  throughout the State
+  
+  *** SEND ***
+  *** SSTART 008.0 005.0 0 IA 1857 ***
+  
+  SEC. 8. The style of all process shall be "The State of Iowa," and all prosecutions shall be
+  conducted in the name and by the authority of the same.
+  
+  *** SEND ***
+  *** SSTART 009.0 005.0 0 IA 1857 ***
+  
+  SEC. 9. The salary of each Judge of the Supreme Court shall be two thousand dollars per
+  annum; and that of each District Judge, one thousand six hundred dollars per annum, until
+  the year eighteen hundred and sixty; after which time they shall severally receive such
+  compensation as the General Assembly may, by law, prescribe; which compensation shall
+  not be increased or diminished during the term for which they shall have been elected.
+  
+  *** SEND ***
+  *** SSTART 010.0 005.0 0 IA 1857 ***
+  
+  SEC. 10. The State shall be divided into eleven Judicial Districts; and after the year
+  eighteen hundred and sixty, the General Assembly may reorganize the Judicial Districts,
+  and increase or diminish the number of Districts, or the number of Judges of the said
+  Court, and may increase the number of Judges of the Supreme Court; but such increase or
+  diminution shall not be more than one District, or one Judge of either Court, at any one
+  session; and no re-organization of the Districts, or diminution of the number of Judges,
+  shall have the effect of removing a Judge from office. Such re-organization of the Districts,
+  or any change in the boundaries thereof, or increase or diminution of the number of Judges,
+  shall take place every four years thereafter, if necessary, and at no other time.
+  
+  *** SEND ***
+  *** SSTART 011.0 005.0 0 IA 1857 ***
+  
+  SEC. 11. The Judges of the Supreme and District Courts shall be chosen at the general
+  election; and the term of office of each Judge shall commence on the first day of January
+  next, after his election.
+  
+  *** SEND ***
+  *** SSTART 012.0 005.0 0 IA 1857 ***
+  
+  SEC. 12. The General Assembly shall provide, by law, for the election of an Attorney-
+  General by the people, whose term of office shall be two years, and until his successor shall
+  have been elected and qualified.
+  
+  *** SEND ***
+  *** SSTART 013.0 005.0 0 IA 1857 ***
+  
+  SEC. 13. The qualified electors of each Judicial District shall, at the time of the election of
+  District Judge, elect a District Attorney, who shall be a resident of the District for which he
+  is elected, and who shall hold his office for the term of four years, and until his successor
+  shall have been elected and qualified.
+  
+  *** SEND ***
+  *** SSTART 014.0 005.0 0 IA 1857 ***
+  
+  SEC. 14. It shall be the duty of the General Assembly to provide for the carrying into effect
+  of this article, and to provide for a general system of practice in all the Courts of this State.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 006.0 IA 1857 ***
+  
+  ARTICLE VI
+  
+  MILITIA
+  
+  *** SSTART 001.0 006.0 0 IA 1857 ***
+  
+  SECTION 1. The militia of this State shall be composed of all able-bodied white male
+  citizens, between the ages of eighteen and forty-five years, except such as are, or may
+  hereafter be, exempt by the laws of the United States, or of this State; and shall be armed,
+  equipped, and trained, as the General Assembly may provide by law.
+  
+  *** SEND ***
+  *** SSTART 002.0 006.0 0 IA 1857 ***
+  
+  SEC. 2. No person or persons conscientiously scrupulous of bearing arms shall be
+  compelled to do military duty in time of peace; Provided, that such person or persons shall
+  pay an equivalent for such exemption in the same manner as other citizens.
+  
+  *** SEND ***
+  *** SSTART 003.0 006.0 0 IA 1857 ***
+  
+  SEC. 3. All commissioned officers of the militia (staff officers excepted) shall be elected
+  by persons liable to perform military duty, and shall be commissioned by the Governor.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 007.0 IA 1857 ***
+  
+  ARTICLE VII
+  
+  STATE DEBTS
+  
+  *** SSTART 001.0 007.0 0 IA 1857 ***
+  
+  SECTION 1. The credit of the State shall not, in any manner, be given or loaned to, or in
+  aid of, any individual, association, or corporation; and the State shall never assume, or
+  become responsible for, the debts or liabilities of any individual, association, or
+  corporation, unless incurred in time of war for the benefit of the State.
+  
+  *** SEND ***
+  *** SSTART 002.0 007.0 0 IA 1857 ***
+  
+  SEC.2. The State may contract debts to supply casual deficits or failures in revenues, or to
+  meet expenses not otherwise provided for; but the aggregate amount of such debts, direct
+  and contingent, whether contracted by virtue of one or more acts of the General Assembly,
+  or at different periods of time, shall never exceed the sum of two hundred and fifty
+  thousand dollars; and the money arising from the creation of such debts, shall be applied to
+  the purpose for which it was obtained, or to repay the debts so contracted, and to no other
+  purpose whatever.
+  
+  *** SEND ***
+  *** SSTART 003.0 007.0 0 IA 1857 ***
+  
+  SEC. 3. All losses to the Permanent, School, or University fund of this State, which shall
+  have been occasioned by the defalcation, mismanagement, or fraud of the agents or officers
+  controlling and managing the same, shall be audited by the proper authorities of the State.
+  The amount so audited shall be a permanent funded debt against the State, in favor of the
+  respective fund, sustaining the loss, upon which not less than six per cent annual interest
+  shall be paid. The amount of liability so created shall not be counted as a part of the
+  indebtedness authorized by the second section of this article.
+  
+  *** SEND ***
+  *** SSTART 004.0 007.0 0 IA 1857 ***
+  
+  SEC. 4. In addition to the above limited power to contract debts, the State may contract
+  debts to repel invasion, suppress insurrection, or defend the State in war; but the money
+  arising from the debts so contracted shall be applied to the purpose for which it was raised,
+  or to repay such debts, and to no other purpose whatever.
+  
+  *** SEND ***
+  *** SSTART 005.0 007.0 0 IA 1857 ***
+  
+  SEC. 5. Except the debts hereinbefore specified in this article, no debt shall be hereafter
+  contracted by, or on behalf of this State, unless such debt shall be authorized by some law
+  for some single work or object, to be distinctly specified therein; and such law shall impose
+  and provide for the collection of a direct annual tax, sufficient to pay the interest on such
+  debt, as it falls due, and also to pay and discharge the principal of such debt, within twenty
+  years from the time of the contracting thereof; but no such law shall take effect until at a
+  general election it shall have been submitted to the people, and have received a majority of
+  all the votes cast for and against it at such election; and all money raised by authority of
+  such law, shall be applied only to the specific object therein stated, or to the payment of the
+  debt created thereby; and such law shall be published in at least one newspaper in each
+  county, if one is published therein, throughout the State, for three months preceding the
+  election at which it is submitted to the people.
+  
+  *** SEND ***
+  *** SSTART 006.0 007.0 0 IA 1857 ***
+  
+  SEC. 6. The Legislature may, at any time, after the approval of such law by the people, if
+  no debt shall have been contracted in pursuance thereof, repeal the same; and may, at any
+  time, forbid the contracting of any further debt, or liability, under such law; but the tax
+  imposed by such law, in proportion to the debt or liability, which ma have been contracted
+  in pursuance thereof, shall remain in force and be irrepealable, and be annually collected,
+  until the principal and interest are fully paid.
+  
+  *** SEND ***
+  *** SSTART 007.0 007.0 0 IA 1857 ***
+  
+  SEC. 7. Every law which imposes, continues, or revives a tax, shall distinctly state the tax,
+  and the object to which it is to be applied; and it shall not be sufficient to refer to any other
+  law to fix such tax or object.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 008.0 IA 1857 ***
+  
+  ARTICLE VIII
+  
+  CORPORATIONS
+  
+  *** SSTART 001.0 008.0 0 IA 1857 ***
+  
+  SECTION 1. No corporation shall be created by special laws, but the General Assembly
+  shall provide, by general laws, for the organization of all corporations hereafter to be
+  created, except as hereinafter provided.
+  
+  *** SEND ***
+  *** SSTART 002.0 008.0 0 IA 1857 ***
+  
+  SEC. 2. The property of all corporations for pecuniary profit shall be subject to taxation,
+  the same as that of individuals.
+  
+  *** SEND ***
+  *** SSTART 003.0 008.0 0 IA 1857 ***
+  
+  SEC. 3. The State shall not become a stockholder in any corporation, nor shall it assume or
+  pay the debt or liability of any corporation, unless incurred in time of war, for the benefit of
+  the State.
+  
+  *** SEND ***
+  *** SSTART 004.0 008.0 0 IA 1857 ***
+  
+  SEC. 4. No political or municipal corporation shall become a stockholder in any banking
+  corporation., directly or indirectly.
+  
+  *** SEND ***
+  *** SSTART 005.0 008.0 0 IA 1857 ***
+  
+  SEC. 5. No act of the General Assembly, authorizing or creating corporations or
+  associations with banking powers, nor amendments thereto, shall take effect, or in any
+  manner be in force, until the same shall have been submitted, separately, to the people, at a
+  general or special election, as provided by law, to be held not less than three months after
+  the passage of the act, and shall have been approved by a majority of all the electors voting
+  for and against it at such election.
+  
+  *** SEND ***
+  *** SSTART 006.0 008.0 0 IA 1857 ***
+  
+  SEC. 6. Subject to the provisions of the foregoing section, the General Assembly may also
+  provide for the establishment of a State Bank, with branches.
+  
+  *** SEND ***
+  *** SSTART 007.0 008.0 0 IA 1857 ***
+  
+  SEC. 7. If a State Bank be established, it shall be founded on an actual specie basis, and the
+  branches shall be mutually responsible for each other's liabilities upon all notes, bills, and
+  other issues intended for circulation as money.
+  
+  *** SEND ***
+  *** SSTART 008.0 008.0 0 IA 1857 ***
+  
+  SEC. 8. If a general banking law shall be enacted, it shall provide for the registry and
+  countersigning, by an officer of State, of all bills or paper credit designed to circulate as
+  money, and require security to the full amount thereof, to be deposited with the State
+  Treasurer, in United States stocks, or in interest paying stocks of States in good credit and
+  standing, to be rated at ten per cent below their average value in the city of New York, for
+  the thirty days next preceding their deposit; and in case of a depreciation of any portion of
+  such stocks, to the amount of ten per cent on the dollar, the bank or banks owning said
+  stocks shall be required to make up said deficiency by depositing additional stocks; and
+  said law shall also provide for the recording of the names of all stockholders in such
+  corporations, the amount of stock held by each, the time of transfer, and to whom.
+  
+  *** SEND ***
+  *** SSTART 009.0 008.0 0 IA 1857 ***
+  
+  SEC. 9. Every stockholder in a banking corporation or institution shall be individually
+  responsible and liable to its creditors, over and above the amount of stock by him or her
+  held, to an amount equal to his or her respective shares so held, for all of its liabilities,
+  accruing while he or she remains such stockholder.
+  
+  *** SEND ***
+  *** SSTART 010.0 008.0 0 IA 1857 ***
+  
+  SEC. 10. In case of the insolvency of any banking institution, the bill holders shall have a
+  preference over its other creditors.
+  
+  *** SEND ***
+  *** SSTART 011.0 008.0 0 IA 1857 ***
+  
+  SEC. 11. The suspension of specie payments by banking institutions shall never be
+  permitted or sanctioned.
+  
+  *** SEND ***
+  *** SSTART 012.0 008.0 0 IA 1857 ***
+  
+  SEC. 12. Subject to the provisions of this article the General Assembly shall have power to
+  amend or repeal all laws for the organization or creation of corporations, or granting of
+  special or exclusive privileges or immunities, by a vote of two-thirds of each branch of the
+  General Assembly; and no exclusive privileges, except as in this article provided, shall
+  ever be granted.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 009.1 IA 1857 ***
+  
+  ARTICLE IX
+  
+  EDUCATION AND SCHOOL LANDS
+  
+  1ST EDUCATION 
+  
+  *** SSTART 001.0 009.1 0 IA 1857 ***
+  
+  SECTION 1. The educational interest of the State, including Common Schools and other
+  educational institutions, shall be under the management of a Board of Education, which
+  shall consist of the Lieutenant-Governor, who shall be the presiding officer of the Board,
+  and have the casting vote in case of a tie, and one member to be elected from each judicial
+  district in the State.
+  
+  *** SEND ***
+  *** SSTART 002.0 009.1 0 IA 1857 ***
+  
+  SEC. 2. No person shall be eligible as a member of said Board who shall not have attained
+  the age of twenty-five years, and shall have been one year a citizen of the State.
+  
+  *** SEND ***
+  *** SSTART 003.0 009.1 0 IA 1857 ***
+  
+  SEC. 3. One member of said Board shall be chosen by the qualified electors of each
+  district, and shall hold the office for the term of four years, and until his successor is
+  elected and qualified. After the first election under this Constitution, the Board shall be
+  divided, as nearly as practicable, into two equal classes, and the seats of the first class shall
+  be vacated after the expiration of two years; and one-half of the Board shall be chosen
+  every two years thereafter.
+  
+  *** SEND ***
+  *** SSTART 004.0 009.1 0 IA 1857 ***
+  
+  SEC. 4. The first session of the Board of Education shall be held at the Seat of
+  Government, on the first Monday of December, after their election; after which the General
+  Assembly may fix the time and place of meeting.
+  
+  *** SEND ***
+  *** SSTART 005.0 009.1 0 IA 1857 ***
+  
+  SEC. 5. The session of the Board shall be limited to twenty days, and but one session shall
+  be held in any one year, except upon extraordinary occasions, when, upon the
+  recommendation of two-thirds of the Board, the Governor may order it special session.
+  
+  *** SEND ***
+  *** SSTART 006.0 009.1 0 IA 1857 ***
+  
+  SEC. 6. The Board of Education shall appoint a Secretary, who shall be the executive
+  officer of the Board and perform such duties as may be imposed upon him by the Board,
+  and the laws of the State. They shall keep it journal of their proceedings, which shall be
+  published and distributed in the same manner as the journals of the General Assembly.
+  
+  *** SEND ***
+  *** SSTART 007.0 009.1 0 IA 1857 ***
+  
+  SEC. 7. All rules and regulations made by the Board shall be published and distributed to
+  the several counties, townships, and school districts, as may be provided for by the Board,
+  and when so made, published and distributed, they shall have the force and effect of law.
+  
+  *** SEND ***
+  *** SSTART 008.0 009.1 0 IA 1857 ***
+  
+  SEC. 8. The Board of Education shall have full power and authority to legislate and make
+  all needful rules and regulations in relation to Common Schools, and other educational
+  institutions, that are instituted, to receive aid from the School or University fund of this
+  State; but all acts, rules, and regulations of said Board may be altered, amended or repealed
+  by the General Assembly; and when so altered, amended, or repealed, they shall not be re-
+  enacted by the Board of Education.
+  
+  *** SEND ***
+  *** SSTART 009.0 009.1 0 IA 1857 ***
+  
+  SEC. 9. The Governor of the State shall be, ex-officio, a member of said Board.
+  
+  *** SEND ***
+  *** SSTART 010.0 009.1 0 IA 1857 ***
+  
+  SEC. 10. The Board shall have no power to levy taxes, or make appropriations of money.
+  Their contingent expenses shall be provided for by the General Assembly.
+  
+  *** SEND ***
+  *** SSTART 011.0 009.1 0 IA 1857 ***
+  
+  SEC. 11. The State University shall be established at one place without branches at any
+  other place, and the University fund shall be applied to that institution and no other.
+  
+  *** SEND ***
+  *** SSTART 012.0 009.1 0 IA 1857 ***
+  
+  SEC. 12. The Board of Education shall provide for the education of all the youths of the
+  State, through a system of common schools, and such schools shall be organized and kept
+  in each school district at least three months in each year. Any district failing for two
+  consecutive years, to organize and keep up a school, as aforesaid, may be deprived of their
+  portion of the school fund.
+  
+  *** SEND ***
+  *** SSTART 013.0 009.1 0 IA 1857 ***
+  
+  SEC. 13. The members of the Board of Education shall each receive the same per diem
+  during the time of their session, and mileage going to and returning therefrom, as members
+  of the General Assembly.
+  
+  *** SEND ***
+  *** SSTART 014.0 009.1 0 IA 1857 ***
+  
+  SEC. 14. A majority of the Board shall constitute a quorum for the transaction of business;
+  but no rule, regulation, or law, for the government of common schools or other educational
+  institutions shall pass without the concurrence of a majority of all the members of the
+  Board, which shall be expressed by the yeas and nays on the final passage. The style of all
+  acts of the Board shall be, "Be it enacted by the Board of Education of the State of Iowa."
+  
+  *** SEND ***
+  *** SSTART 015.0 009.1 0 IA 1857 ***
+  
+  SEC. 15. At any time after the year one thousand, eight hundred and sixty-three, the
+  General Assembly shall have power to abolish or re-organize said Board of Education, and
+  provide for the educational interest of the State in any other manner that to them shall seem
+  best and proper.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 009.2 IA 1857 ***
+  
+  2ND SCHOOL FUNDS AND SCHOOL LANDS  
+  
+  *** SSTART 001.0 009.2 0 IA 1857 ***
+  
+  SECTION 1. The educational and school funds and lands, shall be under the control and
+  management of the General Assembly of this State.
+  
+  *** SEND ***
+  *** SSTART 002.0 009.2 0 IA 1857 ***
+  
+  SEC. 2. The University lands, and the proceeds thereof, and all moneys belonging to said
+  fund shall be a permanent fund for the sole use of the State University. The interest arising
+  from the same shall be annually appropriated for the support and benefit of said University.
+  
+  *** SEND ***
+  *** SSTART 003.0 009.2 0 IA 1857 ***
+  
+  SEC. 3. The General Assembly shall encourage, by all suitable means, the promotion of
+  intellectual, scientific, moral, and agricultural improvement. The proceeds of all lands that
+  have been, or hereafter may be, granted by the United States to this State, for the support of
+  schools, which may have been, or shall hereafter be sold, or disposed of, and the five
+  hundred thousand acres of land granted to the new States, under an act of Congress,
+  distributing the proceeds of the public lands among the several States of the Union,
+  approved in the year of our Lord one thousand eight hundred and forty-one, and all estates
+  of deceased persons who may have died without leaving a will or heir, and also such per
+  cent as has been or may hereafter be granted by Congress, on the sale of lands in this State,
+  shall be, and remain a perpetual fund, the interest of which, together with all rents of the
+  unsold lands, and such other means as the General Assembly may provide, shall be
+  inviolably appropriated to the support of common schools throughout the State.
+  
+  *** SEND ***
+  *** SSTART 004.0 009.2 0 IA 1857 ***
+  
+  SEC. 4. The money which may have been or shall be paid by persons as an equivalent from
+  exemption from military duty, and the clear proceeds of all fines collected in the several
+  counties for any breach of the penal laws, shall be exclusively applied, in the several
+  counties in which such money is paid, or fine collected, among the several school districts
+  of said counties, in proportion to the number of youths subject to enumeration in such
+  districts, to the support of common schools, or the establishment of libraries, as the Board
+  of Education shall from time to time provide.
+  
+  *** SEND ***
+  *** SSTART 005.0 009.2 0 IA 1857 ***
+  
+  SEC. 5. The General Assembly shall take measures for the protection, improvement, or
+  other disposition of such lands as have been, or may hereafter be reserved, or granted by
+  the United States, or any person or persons, to this State, for the use of the University, and
+  the funds accruing from the rents or sale of such lands, or from any other source for the
+  purpose aforesaid, shall be, and remain, a permanent fund, the interest of which shall be
+  applied to the support of said University, for the promotion of literature, the arts and
+  sciences, as may be authorized by the terms of such grant. And it shall be the duty of the
+  General Assembly as soon as may be, to provide effectual means for the improvement and
+  permanent security of the funds of said University.
+  
+  *** SEND ***
+  *** SSTART 006.0 009.2 0 IA 1857 ***
+  
+  SEC. 6. The financial agents of the school funds shall be the same, that by law, receive and
+  control the State and county revenue, for other civil purposes, under such regulations as
+  may be provided by law.
+  
+  *** SEND ***
+  *** SSTART 007.0 009.2 0 IA 1857 ***
+  
+  SEC. 7. The money subject to the support and maintenance of common schools shall be
+  distributed to the districts in proportion to the number of youths, between the ages of five
+  and twenty-one years, in such manner as may be provided by the General Assembly.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 010.0 IA 1857 ***
+  
+  ARTICLE X
+  
+  AMENDMENTS TO THE CONSTITUTION
+  
+  *** SSTART 001.0 010.0 0 IA 1857 ***
+  
+  SECTION 1. Any amendment or amendments to this Constitution may be proposed in
+  either House of the General Assembly; and if the same shall be agreed to by a majority of
+  the members elected to each of the two Houses, such proposed amendment shall be entered
+  on their journals, with the yeas and nays taken thereon, and referred to the Legislature to be
+  chosen at the next general election, and shall be published as provided by law for three
+  months previous to the time of making such choice; and if, in the General Assembly so
+  next chosen as aforesaid, such proposed amendment or amendments shall be agreed to, by
+  a majority of all the members elected to each House, then it shall be the duty of the General
+  Assembly to submit such proposed amendment or amendments to the people in such
+  manner, and at such time as the General Assembly shall provide; and if the people shall
+  approve and ratify such amendment or amendments by a majority of the electors qualified
+  to vote for members of the General Assembly, voting thereon, such. amendment or
+  amendments shall become a part of the Constitution of this State.
+  
+  *** SEND ***
+  *** SSTART 002.0 010.0 0 IA 1857 ***
+  
+  SEC. 2. If two or more amendments shall be submitted at the same time, they shall be
+  submitted in such manner that the electors shall vote for or against each of such
+  amendments separately.
+  
+  *** SEND ***
+  *** SSTART 003.0 010.0 0 IA 1857 ***
+  
+  SEC. 3. At the general election to be held in the year one thousand eight hundred and
+  seventy, and in each tenth year thereafter, and also at such times as the General Assembly
+  may, by law, provide, the question, "Shall there be a Convention to revise the Constitution,
+  and amend the same?" shall be decided by the electors qualified to vote for members of the
+  General Assembly; and in case a majority of the electors so qualified, voting at such
+  election for and against such proposition, shall decide in favor of a convention for such
+  purpose, the General Assembly, at its next session, shall provide by law for the election of
+  delegates to such Convention.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 011.0 IA 1857 ***
+  
+  ARTICLE XI
+  
+  MISCELLANEOUS
+  
+  *** SSTART 001.0 011.0 0 IA 1857 ***
+  
+  SECTION 1. The jurisdiction of Justices of the Peace shall extend to all civil cases, (except
+  cases in chancery, and cases where the question of title to real estate may arise.) where the
+  amount in controversy, does not exceed one hundred dollars, and by the consent of parties
+  may be extended to any amount not exceeding three hundred dollars.
+  
+  *** SEND ***
+  *** SSTART 002.0 011.0 0 IA 1857 ***
+  
+  SEC. 2. No new county shall be hereafter created containing less than four hundred and
+  thirty-two square miles; nor shall the territory of any organized county be reduced below
+  that area; except the county of Worth, and the counties west of it, along the northern
+  boundary of this State, may be organized without additional territory.
+  
+  *** SEND ***
+  *** SSTART 003.0 011.0 0 IA 1857 ***
+  
+  SEC. 3. No county, or other political or municipal corporation, shall be allowed to become
+  indebted, in any manner, or for any purpose, to an amount, in the aggregate, exceeding five
+  per centum of the value of the taxable property within such county or corporation to be
+  ascertained by the last State and county tax lists, previous to the incurring of such
+  indebtedness.
+  
+  *** SEND ***
+  *** SSTART 004.0 011.0 0 IA 1857 ***
+  
+  SEC. 4. The boundaries of the State may be enlarged, with the consent of Congress and the
+  General Assembly.
+  
+  *** SEND ***
+  *** SSTART 005.0 011.0 0 IA 1857 ***
+  
+  SEC. 5. Every person elected or appointed to any office, shall, before entering upon the
+  duties thereof, take an oath or affirmation to support the Constitution of the United States,
+  and of this State, and also an oath of office.
+  
+  *** SEND ***
+  *** SSTART 006.0 011.0 0 IA 1857 ***
+  
+  SEC. 6. In all cases of elections to fill vacancies in office occurring before the expiration of
+  a full term, the person so elected shall hold for the residue of the unexpired term; and all
+  persons appointed to fill vacancies in office, shall hold until the next general election, and
+  until their successors are elected and qualified.
+  
+  *** SEND ***
+  *** SSTART 007.0 011.0 0 IA 1857 ***
+  
+  SEC. 7. The General Assembly shall not locate any of the public lands which have been, or
+  may be granted by Congress to this State, and the location of which may be given to the
+  Ceneral Assembly, upon lands actually settled, without the consent of the occupant. The
+  extent of the claim of such occupant so exempted shall not exceed three hundred and
+  twenty acres.
+  
+  *** SEND ***
+  *** SSTART 008.0 011.0 0 IA 1857 ***
+  
+  SEC. 8. The seat of government is hereby permanently established, as now fixed by law, at
+  the city of Des Moines, in the county of Polk and the State University at Iowa City, in the
+  county of Johnson.
+  
+  *** SEND ***
+  *** AEND ***
+  *** ASTART 012.0 IA 1857 ***
+  
+  ARTICLE XII
+  
+  SCHEDULE
+  
+  *** SSTART 001.0 012.0 0 IA 1857 ***
+  
+  SECTION 1. The Constitution shall be the supreme law of the State. and any law
+  inconsistent therewith, shall be void. The General Assembly shall pass all laws necessary
+  to carry this Constitution into effect.
+  
+  *** SEND ***
+  *** SSTART 002.0 012.0 0 IA 1857 ***
+  
+  SEC. 2. All laws now in force and not inconsistent with this Constitution, shall remain in
+  force until they shall expire or be repealed.
+  
+  *** SEND ***
+  *** SSTART 003.0 012.0 0 IA 1857 ***
+  
+  SEC. 3. All indictments, prosecutions, suits, pleas, plaints, process, and other proceedings
+  pending in any of the courts, shall be prosecuted to final judgment and execution, and all
+  appeals, writs of error, certiorari, and injunctions, shall he carried on in the several courts,
+  in the same manner as now provided by law, and all offenses, misdemeanors and crimes
+  that may have been committed before the taking effect of this Constitution, shall be subject
+  to indictment, trial and punishment, in the same manner is they would have been had not
+  this Constitution been made.
+  
+  *** SEND ***
+  *** SSTART 004.0 012.0 0 IA 1857 ***
+  
+  SEC. 4. All fines, penalties, or forfeitures due, or to become due, or accruing to the State,
+  or to any county therein, or to the school fund, shall inure to the State, county, or school
+  fund, in the manner prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 005.0 012.0 0 IA 1857 ***
+  
+  SEC. 5. All bonds executed to the State, or to any officer in his official capacity, shall
+  remain in force and inure to use of those concerned.
+  
+  *** SEND ***
+  *** SSTART 006.0 012.0 0 IA 1857 ***
+  
+  SEC. 6. The first election under this Constitution shall be held on the second Tuesday in
+  October, in the year one thousand eight hundred and fifty-seven, at which time the electors
+  of the State shall elect the Governor and Lieutenant-Governor. There shall also be elected
+  at such election, the successors of such State Senators as were elected at the August
+  election, in the year one thousand eight hundred and fifty-four, and members of the House
+  of Representatives, who shall be elected in accordance with the act of apportionment,
+  enacted at the session of the General Assembly which commenced on the first Monday of
+  December one thousand eight hundred and fifty-six.
+  
+  *** SEND ***
+  *** SSTART 007.0 012.0 0 IA 1857 ***
+  
+  SEC. 7. The first election for Secretary, Auditor, and Treasurer of State, Attorney-General,
+  District Judges, Members of the Board of Education, District Attorneys, Members of
+  Congress, and such State Officers as shall be elected at the April Election, in the year one
+  thousand eight hundred and fifty-seven, (except the Superintendent of Public Instruction),
+  and such county officers as were elected at the August election, in the year one thousand
+  eight hundred and fifty-six, except Prosecuting Attorneys, shall be held on the second
+  Tuesday of October, one thousand eight hundred and fifty-eight: 
+  Provided, That the time for which any District Judge or Other State or county officer
+  elected at the April election in the year one thousand eight hundred and fifty-eight, shall
+  not extend beyond the time fixed for filling like offices at the October election, in the year
+  one thousand eight hundred and fifty-eight.
+  
+  *** SEND ***
+  *** SSTART 008.0 012.0 0 IA 1857 ***
+  
+  SEC. 8. The first election for Judges of the Supreme Court, and such county officers as
+  shall be elected at the August election, in the year one thousand eight hundred and fifty-
+  seven, shall be held on the second Tuesday in October, in the year one thousand eight
+  hundred and fifty-nine.
+  
+  *** SEND ***
+  *** SSTART 009.0 012.0 0 IA 1857 ***
+  
+  SEC. 9. The first regular session of the General Assembly shall be held in the year one
+  thousand eight hundred and fifty-eight, commencing on the second Monday of January of
+  said year.
+  
+  *** SEND ***
+  *** SSTART 010.0 012.0 0 IA 1857 ***
+  
+  SEC. 10. Senators elected at the August election, in the year one thousand eight hundred
+  and fifty-six, shall continue in office until the second Tuesday of October, in the year one
+  thousand eight hundred and fifty-nine, at which time their successors shall be elected as,
+  may be prescribed by law.
+  
+  *** SEND ***
+  *** SSTART 011.0 012.0 0 IA 1857 ***
+  
+  SEC. 11. Every person elected by popular vote, by a vote of the General Assembly, or who
+  may hold office by executive appointment, which office is continued by this Constitution,
+  and every person who shall be so elected or appointed to any such office, before the taking
+  effect of this Constitution, (except as in the Constitution otherwise provided), shall
+  continue in office until the term  for which such person has been or may be elected or
+  appointed shall expire; but no such person shall continue in office after the taking effect of
+  this Constitution, for a longer period than the term of such office, in this Constitution
+  prescribed.
+  
+  *** SEND ***
+  *** SSTART 012.0 012.0 0 IA 1857 ***
+  
+  SEC. 12. The General Assembly, at the first session under this Constitution, shall district
+  the State into eleven Judicial Districts, for District Court purposes; and shall also provide
+  for the apportionment of the members of the General Assembly in accordance with the
+  provisions of this Constitution.
+  
+  *** SEND ***
+  *** SSTART 013.0 012.0 0 IA 1857 ***
+  
+  SEC. 13. This Constitution shall be submitted to the electors of the State at the August
+  election, in the year one thousand eight hundred and fifty-seven, in the several election
+  districts in this State. The ballots at such election shall be written or printed as follows:
+  Those in favor of. the Constitution, "New Constitution-Yes." Those against the
+  Constitution, "New Constitution-No." The election shall be conducted in the same manner
+  as the general elections of the State, and the poll-books shall be returned and canvassed as
+  provided in the twenty-fifth chapter of the Code, and abstracts shall be forwarded to the
+  Secretary of State, which abstracts shall be canvassed in the manner provided for the
+  canvass of State officers. And if it shall appear that a majority of all the votes cast at such
+  election for and against this Constitution are in favor of the same, the Governor shall
+  immediately issue his proclamation stating that fact, and such Constitution shall be the
+  Constitution of the State of Iowa, and shall take effect from and after the publication of
+  said proclamation.
+  
+  *** SEND ***
+  *** SSTART 014.0 012.0 0 IA 1857 ***
+  
+  SEC. 14. At the same election that this Constitution is submitted to the people for its
+  adoption or rejection, a proposition to amend the same by striking out the word "white"
+  from the article on the "Right of Suffrage," shall be separately submitted to the electors of
+  this State for adoption or rejection, in the manner following, Namely: A separate ballot
+  may be given by every person having a right to vote at said election, to be deposited in a
+  separate box. And those given for the adoption of such proposition shall have the words,
+  "shall the word 'white' be stricken out of the article on the  "Right of Suffrage? Yes." And
+  those given against the proposition shall have the words, "Shall the word 'white' be
+  stricken out of the article on the 'Right of Suffrage?' No." And if at said election the
+  number of ballots cast in favor of said proposition shall be equal to a majority of those cast
+  for and against this Constitution, then said word 'white' shall be stricken from said article
+  and be no part thereof.
+  
+  *** SEND ***
+  *** SSTART 015.0 012.0 0 IA 1857 ***
+  
+  SEC. 15. Until otherwise directed by law, the county of Mills shall be in and a part of the
+  Sixth Judicial District of this State.
+  
+  *** SEND ***
+  *** AEND ***
+  
+  *** ASTART 9016.0 IA 1857 ***                         
+  
+  Done in convention at Iowa City, this fifth day of March, in the year of our Lord one
+  thousand eight hundred and fifty-seven, and of the independence of the United States of
+  America, the eighty-first.
+   In testimony whereof, we have hereunto subscribed our names.
+                         FRANCIS SPRINGER, President.
+   Attest:
+      TH. J. SAUNDERS, Secretary. 
+      E. N. BATES, Assistant Secretary.
+  
+  
+  *** AEND ***
+  *** CEND ***
+  

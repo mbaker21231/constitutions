@@ -1,0 +1,1416 @@
+*** CSTART NC 12/18/1776 07/01/1868 ***
+
+
+CONSTITUTION OF NORTH CAROLINA OF 1776
+
+
+*** ASTART 9002.0 NC 1776 ***
+
+A DECLARATION OF RIGHTS
+
+A Declaration of Rights, made by the Representatives of the Freeman of the State of North
+Carolina.
+
+*** SSTART 001.0 9002.0 0 NC 1776 ***
+
+1. That all political power is vested, in and derived from, the people only.
+
+*** SEND ***
+*** SSTART 002.0 9002.0 0 NC 1776 ***
+
+2. That the people of this State ought to have the sole and exclusive right of regulating the
+internal government and police thereof.
+
+*** SEND ***
+*** SSTART 003.0 9002.0 0 NC 1776 ***
+
+3. That no men, or set of men, are entitled to exclusive or separate emoluments or privileges from
+the community, but in consideration of public services.
+
+*** SEND ***
+*** SSTART 004.0 9002.0 0 NC 1776 ***
+
+4. That the legislative, executive and supreme judicial powers of government, ought to be forever
+separate and distinct from each other.
+
+*** SEND ***
+*** SSTART 005.0 9002.0 0 NC 1776 ***
+
+5. That all powers of suspending laws, or the execution of laws, by any authority, without
+consent of the representatives of the people, is injurious to their rights, and ought not to be
+exercised.
+
+*** SEND ***
+*** SSTART 006.0 9002.0 0 NC 1776 ***
+
+6. That elections of members to serve as representatives in general assembly ought to be free.
+
+*** SEND ***
+*** SSTART 007.0 9002.0 0 NC 1776 ***
+
+7. That in all criminal prosecutions, every man has a right to be informed of the accusation
+against him, and to confront the accusers and witnesses with other testimony, and shall not be
+compelled to give evidence against himself.
+
+*** SEND ***
+*** SSTART 008.0 9002.0 0 NC 1776 ***
+
+8. That no freeman shall be put to answer any criminal charge, but by indictment, presentment, or
+impeachment.
+
+*** SEND ***
+*** SSTART 009.0 9002.0 0 NC 1776 ***
+
+9. That no freeman shall be convicted of any crime, but by the unanimous verdict of a jury of
+good and lawful men, in open court, as heretofore used.
+
+*** SEND ***
+*** SSTART 010.0 9002.0 0 NC 1776 ***
+
+10. That excessive bail should not be required, nor excessive fines imposed, nor cruel nor
+unusual punishments inflicted.
+
+*** SEND ***
+*** SSTART 011.0 9002.0 0 NC 1776 ***
+
+11. That general warrants, whereby any officer or messenger may be commanded to search
+suspected places, without evidence of the act committed, or to seize any person or persons not
+named, whose offenses are not particularly described, and supported by evidence, are dangerous
+to liberty, and ought not to be granted.
+
+*** SEND ***
+*** SSTART 012.0 9002.0 0 NC 1776 ***
+
+12. That no freeman ought to be taken, imprisoned, or disseized of his freehold, liberties, or
+privileges, or outlawed or exiled, or in any manner destroyed, or deprived of his life, liberty or
+property, but by the law of the land.
+
+*** SEND ***
+*** SSTART 013.0 9002.0 0 NC 1776 ***
+
+13. That every freeman restrained of his liberty is entitled to a remedy, to inquire in to the
+lawfulness thereof, and to remove the same, if unlawful; and that such remedy ought not to be
+denied or delayed.
+
+*** SEND ***
+*** SSTART 014.0 9002.0 0 NC 1776 ***
+
+14. That in all controversies at law, respecting property, the ancient mode of trial by jury is one
+of the best securities of the rights of the people, and ought to remain sacred and inviolable.
+
+*** SEND ***
+*** SSTART 015.0 9002.0 0 NC 1776 ***
+
+15. That the freedom of the press is one of the great bulwarks of liberty; and therefore ought
+never to be restrained.
+
+*** SEND ***
+*** SSTART 016.0 9002.0 0 NC 1776 ***
+
+16. That the people of this State ought not to be taxed, or made subject to the payment of any
+impost, or duty, without the consent of themselves, or their representatives in the general
+assembly freely given.
+
+*** SEND ***
+*** SSTART 017.0 9002.0 0 NC 1776 ***
+
+17. That the people have a right to bear arms, for the defense of the State; and as standing armies,
+in time of peace, are dangerous to liberty, they ought not to be kept up; and that the military
+should be kept under strict subordination to, and governed by, the civil power.
+
+*** SEND ***
+*** SSTART 018.0 9002.0 0 NC 1776 ***
+
+18. That the people have a right to assemble together, to consult for the common good, to instruct
+their representatives, and to apply to the legislature for redress of grievances.
+
+*** SEND ***
+*** SSTART 019.0 9002.0 0 NC 1776 ***
+
+19. That all men have a natural and unalienable right to worship Almighty God according to the
+dictates of their own conscience.
+
+*** SEND ***
+*** SSTART 020.0 9002.0 0 NC 1776 ***
+
+20. That, for redress of grievances, and for amending and strengthening the laws, elections ought
+to be often held.
+
+*** SEND ***
+*** SSTART 021.0 9002.0 0 NC 1776 ***
+
+21. That a frequent recurrence to fundamental principles is absolutely necessary to preserve the
+blessings of liberty.
+
+*** SEND ***
+*** SSTART 022.0 9002.0 0 NC 1776 ***
+
+22. That no hereditary emoluments, privileges, or honors ought to be granted or conferred in this
+State.
+
+*** SEND ***
+*** SSTART 023.0 9002.0 0 NC 1776 ***
+
+23. That perpetuities and monopolies are contrary to the genius of a free State, and ought not to
+be allowed.
+
+*** SEND ***
+*** SSTART 024.0 9002.0 0 NC 1776 ***
+
+24. That retrospective laws, punishing acts committed before the existence of such laws, and by
+them only declared criminal, are oppressive, unjust, and incompatible with liberty; wherefore, no
+ex post facto law ought to be made.
+
+*** SEND ***
+*** SSTART 025.0 9002.0 0 NC 1776 ***
+
+25. The property of the soil, in a free government, being one of the essential rights of the
+collective body of the people, it is necessary, in order to avoid future disputes, that the limits of
+the State should be ascertained with precision: and as the f ormer temporary line between
+North and South Carolina was confirmed, and extended by commissioners, appointed by the
+legislatures of the two States, agreeable to the order of the late King George II in council, that
+line, and that only, should be esteemed the southern boundary of this State; that is to say,
+beginning on the seaside at a cedar stake at or near the mouth of Little River, (being the southern
+extremity of Brunswick County), and running from thence a northwest course, through the
+boundary-house, which stands in thirty-three degrees fifty-six minutes, to a thirty-five degrees
+north latitude; and from thence a west course, so far as is mentioned in the charter of King
+Charles II to the late proprietors of Carolina. Therefore, all the territory, seas, waters, and
+harbors, with their appurtenances, lying between the line above described, and the southern line
+of the State of Virginia, which begins on the seashore, in thirty-six degrees thirty minutes north
+latitude, and from thence runs west, agreeable to the said charter of King Charles, are the right
+and property of the people of this State, to be held by them in sovereignty: any partial line,
+without the consent of the legislature of this State, at any time thereafter directed or laid out, in a
+ny wise notwithstanding: provided always, that this declaration of right shall not prejudice any
+nation or nations of Indians, from enjoying such hunting grounds as may have been, or hereafter
+shall be secured to them, by any former or future legislature of this State: And provided also, that 
+it shall not be construed so as to prevent the establishment of one or more governments westward
+of this State, by consent of the legislature:  And provided further, that nothing herein contained
+shall affect the titles or possessions of individuals holding or claiming under the laws heretofore
+in force, or grants heretofore made by the late King George II, or his predecessors, or the late
+lords proprietors, or any of them.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9001.0 NC 1776 ***
+*** SSTART 001.0 9001.0 0 NC 1776 ***
+
+ THE CONSTITUTION
+
+ The Constitution, or form of Government, agreed to and Resolved upon, by the Representatives
+of the freemen of the State of North Carolina, elected and chosen for that particular purpose, in
+Congress assembled, at Halifax, the eighteenth day of December , in the year of our Lord one
+thousand seven hundred and seventy-six.
+
+Whereas, allegiance and protection are in their nature reciprocal, and the one should of right be
+refused when the other is withdrawn;
+
+And whereas, George the Third, king of Great Britain, and late sovereign of the Brit ish
+American colonies, hath not only withdrawn from them his protection, but, by an act of the
+British legislature, declared the inhabitants of these States out of the protection of the British
+crown, and all their property found upon the high-seas liable to be seized and confiscated to the
+uses mentioned in the said act; and the said George the Third has also sent fleets and armies to
+prosecute a cruel war against them, for the purpose of reducing the inhabitants of the said
+colonies to a state of object slavery; in consequence whereof, all government, under the said
+king, within the said colonies, hath ceased, and a total dissolution of government, in many of
+them, hath taken place:
+
+And whereas, the continental congress, having considered the premises, and other previous
+violations of the rights of the good people of America, have therefore declared that the thirteen
+united colonies are, of right, wholly absolved from all allegiance to the British crown, or any
+other foreign jurisdiction whatsoever; and that the said colonies now are, and forever shall be,
+free and independent states. Wherefore, in our present State, in order to prevent anarchy and
+confusion, it becomes necessary that government should be established in this State; therefore,
+we the representatives of the freemen of North Carolina, chosen and assembled in congress for
+the express purpose of framing a constitution, under the authority of the people, most conducive
+to their happiness and prosperity, do declare, that a government for this State shall be established,
+in manner and form following, to wit:
+
+*** SEND ***
+*** AEND ***
+*** ASTART 000.0 NC 1776 ***
+
+Note: The original constitution had 46 clauses, which were not titled articles or sections.  We
+have numbered them as sections of Article OOO.
+
+The amendments that follow in 1835 created Articles and Sections.  
+
+
+
+*** SSTART 001.0 000.0 0 NC 1776 ***
+
+1. That the legislative authority shall be vested in two distinct branches, both dependent on the
+people, to wit, a senate and house of commons.
+
+*** SEND ***
+*** SSTART 002.0 000.0 0 NC 1776 ***
+
+2. That the senate shall be composed of representatives, annually chosen by ballot, one for each
+county in the State.
+
+*** SEND ***
+*** SSTART 003.0 000.0 0 NC 1776 ***
+
+3. That the house of commons shall be composed of representatives, annually chosen by ballot,
+two for each county, and one for each of the towns of Edenton, New Bern, Wilmington,
+Salisbury, Hillsborough, and Halifax.
+
+*** SEND ***
+*** SSTART 004.0 000.0 0 NC 1776 ***
+
+4. That the senate and house of commons, assembled for the purpose of legislation, shall be
+denominated the general assembly.
+
+*** SEND ***
+*** SSTART 005.0 000.0 0 NC 1776 ***
+
+5. That each member of the senate shall have usually resided in the county in which he is chosen
+for one year immediately preceeding his election, and for the same time shall have possessed, and
+continue to possess, in the county which he represents, not less than three hundred acres of land
+in fee.
+
+*** SEND ***
+*** SSTART 006.0 000.0 0 NC 1776 ***
+
+6. That each member of the house of commons shall have usually resided in the county in which
+he is chosen for one year immediately preceding his election, and for six months shall have
+possessed, and continue to possess, in the county which he represents , not less than one hundred
+acres of land in fee, or for the term of his own life.
+
+*** SEND ***
+*** SSTART 007.0 000.0 0 NC 1776 ***
+
+7. That all freemen of the age of twenty-one years, who have been inhabitants of any one county
+within the State twelve months immediately preceding the day of any election, and possessed of a
+freehold, within the same county, of fifty acres of land, for six months next before, and at the day
+of election, shall be entitled to vote for a member of the senate.
+
+*** SEND ***
+*** SSTART 008.0 000.0 0 NC 1776 ***
+
+8. That all freemen of the age of twenty-one years, who have been inhabitants of any one county
+within the State twelve months immediately preceding the day of any election, and shall have
+paid public taxes, shall be entitled to vote for members of the house of commons, for the county
+in which he resides.
+
+*** SEND ***
+*** SSTART 009.0 000.0 0 NC 1776 ***
+
+9. That all persons possessed of a freehold, in any town in this State, having a right of
+representation, and also all freemen, who have been inhabitants of any such town twelve months
+next before, and at the day of election, and shall have paid public taxes, shall be entitled to vote
+for a member to represent such town in the house of commons: provided, always, that this
+section shall not entitle any inhabitant of such town to vote for members of the house of
+commons for the county in which he may reside: nor any freeholder in such county, who resides
+without or beyond the limits of such town, to vote for a member of the said town.
+
+*** SEND ***
+*** SSTART 010.0 000.0 0 NC 1776 ***
+
+10. That the senate and house of commons, when met, shall each have power to choose a
+speaker, and their other officers; be judges of the qualifications and elections of their members;
+sit upon their own adjournments from day to day; and prepare bills to be passed into laws. The
+two houses shall direct writs of election, for supplying intermediate vacancies: and shall also
+jointly, by ballot, adjourn themselves to any future day and place.
+
+*** SEND ***
+*** SSTART 011.0 000.0 0 NC 1776 ***
+
+11. That all bills shall be read three times in each house, before they pass into laws, and be
+signed by the speakers of both houses.
+
+*** SEND ***
+*** SSTART 012.0 000.0 0 NC 1776 ***
+
+12. That every person, who shall be chosen a member of the senate or house of commons, or
+appointed to any office or place of trust, before taking his seat, or entering upon the execution of
+his office, shall take an oath to the State: and all officers sh all take an oath of office.
+
+*** SEND ***
+*** SSTART 013.0 000.0 0 NC 1776 ***
+
+13. That the general assembly shall, by joint ballot of both houses, appoint judges of the supreme
+courts of law and equity, judges of admiralty and attorney-general, who shall be commissioned
+by the governor, and hold their offices during good behavior.
+
+*** SEND ***
+*** SSTART 014.0 000.0 0 NC 1776 ***
+
+14. That the senate and house of commons shall have power to appoint the generals and field
+officers of the militia, and all officers of the regular army of this State.
+
+*** SEND ***
+*** SSTART 015.0 000.0 0 NC 1776 ***
+
+15. That the senate and house of commons, jointly, at their first meeting after each annual
+election, shall, by ballot, elect a governor for one year, who shall not be eligible to that office
+longer than three years, in six successive years; that no person under thirty years of age, and who
+has not been a resident in this State above five years, and having, in the State, a freehold in lands
+and tenements, above the value of one thousand pounds, shall be eligible as a governor.
+
+*** SEND ***
+*** SSTART 016.0 000.0 0 NC 1776 ***
+
+16. That the senate and house of commons, jointly, at their first meeting, after each annual
+election, shall, by ballot, elect seven persons to be a council of state for one year;  who shall
+advise the governor in the execution of his office; and that four members shall be a quorum;
+their advice and proceedings shall be entered in a journal, to be kept for that purpose only, and
+signed by the members present; to any part of which any member present may enter his dissent.
+And such journal shall be laid before the general assembly when called for by them.
+
+*** SEND ***
+*** SSTART 017.0 000.0 0 NC 1776 ***
+
+17. That there shall be a seal of this State, which shall be kept by the governor, and used by him
+as occasion may require; and shall be called the great seal of the State of North Carolina, and
+shall be affixed to all grants and commissions.
+
+*** SEND ***
+*** SSTART 018.0 000.0 0 NC 1776 ***
+
+18. The governor, for the time being, shall be captain-general and commander-in-chief of the
+militia; and in the recess of the general assembly, shall have power, by and with the advice of the
+council of state, to embody the militia for the public safety.
+
+*** SEND ***
+*** SSTART 019.0 000.0 0 NC 1776 ***
+
+19. The governor, for the time being, shall have power to draw for and apply such sums of money
+as shall be voted by the general assembly, for the contingencies of government, and be
+accountable to them for the same. He also may, by and with the advice of the council of state, lay
+embargoes, or prohibit the exportation of any commodity, for any term not exceeding thirty days,
+at any one time in the recess of the general assembly;  and shall have the power of granting
+pardons and reprieves, except where the prosecution shall be carried on by the general assembly,
+or the law shall otherwise direct; in which case, he may, in the recess, grant a reprieve until the
+next sitting of the general assembly; and he may exercise all the other executive powers of
+government, limited and restrained, as by this constitution is mentioned, and according to the
+laws of the State. And, on his death, inability, or absence from the State, the speaker of the
+senate, for the time being, and in case of his death, inability, or absence from the State, the
+speaker of the house of commons, shall exercise the powers of government, after such death, or
+during such absence or inability of the governor, or speaker of the senate, or until a new
+nomination is made by the general assembly.
+
+*** SEND ***
+*** SSTART 020.0 000.0 0 NC 1776 ***
+
+20. That, in every case, where any officer, the right of whose appointment is, by this constitution,
+vested in the general assembly, shall, during their recess, die, or his office by other means
+become vacant, the governor shall have power, with the advice of the council of State, to fill up
+such vacancy, by granting a temporary commission, which shall expire at the end of the next
+session of the general assembly.
+
+*** SEND ***
+*** SSTART 021.0 000.0 0 NC 1776 ***
+
+21. That the governor, judges of the supreme court of law and equity, judges of admiralty, and
+attorney-general, shall have adequate salaries, during their continuance in office.
+
+*** SEND ***
+*** SSTART 022.0 000.0 0 NC 1776 ***
+
+22. That the general assembly shall, by joint ballot of both houses, annually appoint a treasurer or
+treasurers for this State.
+
+*** SEND ***
+*** SSTART 023.0 000.0 0 NC 1776 ***
+
+23. That the governor, and other officers, offending against the State, by violating any part of this
+constitution, maladministration, or corruption, may be prosecuted, on the impeachment of the
+general assembly, or presentment of the grand jury of any court of supreme jurisdiction in this
+State.
+
+*** SEND ***
+*** SSTART 024.0 000.0 0 NC 1776 ***
+
+24. That the general assembly shall, by joint ballot of both houses, triennially appoint a secretary
+for this State.
+
+*** SEND ***
+*** SSTART 025.0 000.0 0 NC 1776 ***
+
+25. That no persons who heretofore have been, or hereafter may be, receivers of public moneys,
+shall have a seat in either house of general assembly, or be eligible to any office in this State,
+until such person shall have fully accounted for, and paid in to the treasury, all sums for which
+they may be accountable and liable.
+
+*** SEND ***
+*** SSTART 026.0 000.0 0 NC 1776 ***
+
+26. That no treasurer shall have a seat, either in the senate, house of commons, or council of
+state, during his continuance in that office, or before he shall have finally settled his accounts
+with the public, for all the moneys which may be in his hands , at the expiration of his office,
+belonging to the State, and hath paid the same into the hands of the succeeding treasurer.
+
+*** SEND ***
+*** SSTART 027.0 000.0 0 NC 1776 ***
+
+27. That no officer in the regular army or navy, in the service and pay of the United States, of this
+State or any other State, nor any contractor or agent for supplying such army or navy with
+clothing or provisions, shall have a seat either in the senate , house of commons, or council of
+state, or be eligible thereto; and any member of the senate, house of commons, or council of
+state, being appointed to ,and accepting of such office, shall thereby vacate his seat.
+
+*** SEND ***
+*** SSTART 028.0 000.0 0 NC 1776 ***
+
+28. That no member of the council of state shall have a seat, either in the senate or house of
+commons.
+
+*** SEND ***
+*** SSTART 029.0 000.0 0 NC 1776 ***
+
+29. That no judge of the supreme court of law or equity, or judge of admiralty, shall have a seat
+in the senate, house of commons, or council of state.
+
+*** SEND ***
+*** SSTART 030.0 000.0 0 NC 1776 ***
+
+30. That no secretary of this State, attorney-general, or clerk of any court of record, shall have a
+seat in the senate, house of commons, or council of state.
+
+*** SEND ***
+*** SSTART 031.0 000.0 0 NC 1776 ***
+
+31. That no clergyman, or preacher of the gospel, of any denomination, shall be capable of being
+a member of either the senate, house of commons, or council of state, while he continues in the
+exercise of his pastoral function.
+
+*** SEND ***
+*** SSTART 032.0 000.0 0 NC 1776 ***
+
+32. That no person who shall deny the being of God, or the truth of the Protestant religion, or the
+divine authority of either the Old or New Testaments, or who shall hold religious principles
+incompatible with the freedom and safety of the State, shall b e capable of holding any office,
+or place of trust or profit, in the civil department, within this State.
+
+*** SEND ***
+*** SSTART 033.0 000.0 0 NC 1776 ***
+
+33. That the justices of the peace, within their respective counties in this State, shall in future be
+recommended to the governor for the time being, by the representatives in general assembly; and
+the governor shall commission them accordingly; and the justices, when so commissioned, shall
+hold their offices during good behaviour, and shall not be removed from office by the general
+assembly, unless for misbehaviour, absence, or inability.
+
+*** SEND ***
+*** SSTART 034.0 000.0 0 NC 1776 ***
+
+34. That there shall be no establishment of any one religious church or denomination in this
+State, in preference to any other; neither shall any person, on any pretense whatsoever be
+compelled to attend any place of worship contrary to his own faith or judgement, nor be obliged
+to pay for
+the purchase of any glebe, or the building of any house of worship, or for the maintenance of any
+minister or ministry, contrary to what he believes right, or has voluntarily and personally engaged
+to perform; but all persons shall be at liberty to exercise their own mode of worship:
+Provided, that nothing herein contained shall be construed to exempt preachers of treasonable or
+seditious discourses, from legal trial and punishment.
+
+*** SEND ***
+*** SSTART 035.0 000.0 0 NC 1776 ***
+
+35. That no person in the State shall hold more than one lucrative office at any one time:
+Provided that no appointment in the militia, or the office of a justice of the peace, shall be
+considered as a lucrative office.
+
+*** SEND ***
+*** SSTART 036.0 000.0 0 NC 1776 ***
+
+36. That all commissions and grants shall run in the name of the State of North Carolina, and
+bear test, and be signed by the Governor. All writs shall run in the same manner, and bear test,
+and be signed by the clerks of the respective courts. Indictments shall conclude, against the peace
+and dignity of the State.
+
+*** SEND ***
+*** SSTART 037.0 000.0 0 NC 1776 ***
+
+37. That the delegates for this State to the continental congress, while necessary, shall be chosen
+annually by the general assembly, by ballot; but may be superseded, in the mean time, in the
+same manner; and no person shall be elected to serve in that capacity for more than three years
+successively.
+
+*** SEND ***
+*** SSTART 038.0 000.0 0 NC 1776 ***
+
+38. That there shall be a sheriff, coroner, or coroners, and constables, in each county within this
+State.
+
+*** SEND ***
+*** SSTART 039.0 000.0 0 NC 1776 ***
+
+39. That the person of a debtor, where there is not a strong presumption of fraud, shall not be
+continued in prison after delivering up, bona fide, all his estate, real and personal, for the use of
+his creditors, in such manner as shall hereafter be regulated by law. All prisoners shall be
+bailable by sufficient sureties, unless for capital offenses, when the proof is evident, or the
+presumption great.
+
+*** SEND ***
+*** SSTART 040.0 000.0 0 NC 1776 ***
+
+40. That every foreigner who comes to settle in this State; having first taken an oath of allegiance
+to the same, may purchase, or, by other just means, acquire, hold, and transfer land, or other real
+estate, and after one year's residence be deemed a free citizen.
+
+*** SEND ***
+*** SSTART 041.0 000.0 0 NC 1776 ***
+
+41. That a school or schools shall be established by the legislature, for the convenient instruction
+of youth, with such salaries to the masters, paid by the public, as may enable them to instruct at
+low prices; and, all usefull learning shall be duly encouraged and promoted in one or more
+universities.
+
+*** SEND ***
+*** SSTART 042.0 000.0 0 NC 1776 ***
+
+42. That no purchase of lands shall be made of the Indian natives, but on behalf of the public, by
+authority of the general assembly.
+
+*** SEND ***
+*** SSTART 043.0 000.0 0 NC 1776 ***
+
+43. That the future legislature of this State shall regulate entails, in such a manner as to prevent
+perpetuities.
+
+*** SEND ***
+*** SSTART 044.0 000.0 0 NC 1776 ***
+
+44. That the declaration of rights is hereby declared to be part of the constitution of this State,
+and ought never to be violated on any pretence whatsoever.
+
+*** SEND ***
+*** SSTART 045.0 000.0 0 NC 1776 ***
+
+45. That any member of either house of general assembly shall have liberty to dissent from and
+protest against any act or resolve which he may think injurious to the public, or any individual,
+and have the reasons of his dissent entered on the journals.
+
+*** SEND ***
+*** SSTART 046.0 000.0 0 NC 1776 ***
+
+46. That neither house of the general assembly shall proceed upon public business, unless a
+majority of all the members of such house are actually present; and that upon a motion made and
+seconded, the yeas and nays, upon any question, shall be taken and entered on the journals: and
+that the journals of the proceedings of both houses of the general assembly shall be printed, and
+made public, immediately after their adjournment.
+
+This constitution is not intended to preclude the present congress from making a temporary
+provision, for the well ordering of this State, until the general assembly shall establish
+government agreeable to the mode herein before described.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9016.0 NC 1776 ***
+
+
+RICHARD CASWELL, President.
+
+December the eighteenth, one thousand seven hundred and seventy-six, read the third  time, and
+ratified in open congress. 
+
+*** AEND ***
+*** MSTART 001 001.0 9099.0 0 NC 1776 1789 ***
+
+AMENDMENT OF 1789
+
+AN ORDINANCE TO ENABLE THE FREEMAN OF THE TOWN OF FAYETTEVILLE TO
+ELECT A MEMBER TO REPRESENT SAID TOWN ON THE SAME TERMS WITH THE
+OTHER TOWNS IN THE STATE.
+
+*** MEND ***
+*** MSTART 002 001.1 001.0 0 NC 1776 1835 ***
+
+AMENDMENTS OF 1835
+
+Article I. Section 1.
+
+1. The senate of this State shall consist of fifty representatives, biennially chosen by ballot, and to
+be elected by districts; which districts shall be laid off by the general assembly, at its first session
+after the year one thousand eight hundred and forty-one; and afterwards, at its first session after
+the year one thousand eight hundred and fifty-one; and then every twenty years thereafter, in
+proportion to the public taxes paid into the treasury of the State, by the citizens thereof; and the
+average of the public taxes paid by each county into the treasury of the State, for the five years
+preceding the laying off of the districts, shall be considered as its proportion of the public taxes,
+and constitute the basis of apportionment: Provided that no county shall be divided in the
+formation of a senatorial district. And when there are one or more counties having an excess of
+taxation above the ratio to form a senatorial district, adjoining a county or counties deficient in
+such ratio, the excess or excesses aforesaid shall be added to the taxation of the county or
+counties deficient; and if, with such addition, the county or counties receiving it shall have the
+requisite ratio, such county and counties each shall constitute a senatorial district.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 003 001.2 001.0 0 NC 1776 1835 ***
+
+2. The house of commons shall be composed of one hundred and twenty representatives,
+biennially chosen by ballot, to be elected by counties according to their federal population, that
+is, according to their respective numbers, which shall be determined by adding to the whole
+number of free persons, including those bound to service for a term of years, and excluding
+Indians not taxed, three-fifths of all other persons; and each county shall have at least one
+member in the house of commons, although it may not contain the requisite ratio of population.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 004 001.3 001.0 0 NC 1776 1835 ***
+
+3. This apportionment shall be made by the general assembly, at the respective times and periods
+when the districts for the senate are hereinbefore directed to be laid off; and the said
+apportionment shall be made according to an enumeration to be ordered by the general assembly,
+or according to the census which may be taken by order of congress, next preceding the making
+such apportionment.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 005 001.4 001.0 0 NC 1776 1835 ***
+
+4. In making the apportionment in the house of commons, the ratio of representation shall be
+ascertained by dividing the amount of federal population in the State, after deducting that
+comprehended within those counties which do not severally contain the one hundred and
+twentieth part of the entire federal population aforesaid, by the number of representatives less
+than the number assigned to the said counties. To each county containing the said ratio, and not
+twice the said ratio, there shall be assigned one representative; to each county containing
+twice, but not three times the said ratio, there shall be as signed two representatives, and so on
+progressively; and then the remaining representatives shall be assigned severally to the counties
+having the largest fractions.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 006 002.1 001.0 0 NC 1776 1835 ***
+
+Section 2.
+
+1. Until the first session of the general assembly, which shall be had after the year eighteen
+hundred and forty-one, the senate shall be composed of members to be elected from the several
+districts hereinafter named, that is to say, the first district shall consist of the counties of
+Perquimans and Pasquotank; the 2nd district of Camden and Currituck; the 3rd district, Gates
+and Chowan; the 4th district, Washington and Tyrrell; the 5th district, Northampton; the 6th
+district, Hertford; the 7th district, Bertie; the 8th district, Martin;  the 9th district, Halifax; the
+10th district, Nash; the 11th district, Wake; the 12th district, Franklin; the 13th district, Johnston;
+the 14th district, Warren; the 15th district, Edgecombe; the 16th district, Wayne; the 17th district,
+Greene and Lenoir; the 18th district, Pitt; the 19th district, Beaufort and Hyde; the 20th district,
+Carteret and Jones; the 21st district, Craven; the 22d district, Chatham; the 23d district,
+Granville; the 24th district, Person; the 25th district, Cumberland; the 26th district, Sampson; the
+27th district, New Hanover; the 28th district, Duplin; the 29th district, Onslow; the 30th district,
+Brunswick, Bladen, and Columbus; the 31st district, Robeson and Richmond; the 32d district,
+Anson; the 33d district, Cabarrus; the 34th district, Moore and Montgomery; the 35th district,
+Caswell; the 36th district, Rockingham; the 37th district, Orange; the 38th district, Randolph; the
+39th district, Guilford; the 40th district, Stokes; the 41st district, Rowan;  the 42d district,
+Davidson; the 43d district, Surry; the 44th district, Wilkes and Ashe; the 45th district, Burke and
+Yancey; the 46th district, Lincoln; the 47th district, Iredell; the 48th district, Rutherford; the 49th
+district, Buncombe, Haywood and Macon; the 50th district, Mecklenburg:-each district to be
+entitled to one senator.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 007 002.2 001.0 0 NC 1776 1835 ***
+
+ 2. Until the first session of the general assembly after the year eighteen hundred and forty-one,
+the house of commons shall be composed of members elected from the counties in the following
+manner, viz.: The counties of Lincoln and Orange shall elect four members each. The counties of
+Burke, Chatham, Granville, Guilford, Halifax, Iredell, Mecklen- burg, Rowan, Rutherford, Surry,
+Stokes, and Wake shall elect three members each. The counties of Anson, Beaufort, Bertie, 
+Buncombe, Cumberland, Craven, Caswell, Davidson, Duplin, Edgecombe, Franklin, Johnston,
+Montgomery, New Hanover, Northampton, Person, Pitt, Randolph, Robeson, Richmond,
+Rockingham, Sampson Warren, Wayne, and Wilkes shall elect two members each. The counties
+of Ashe, Bladen, Brunswick, Camden, Columbus, Chowan, Currituck, Carteret, Cabarrus, Gates,
+Greene, Haywood, Hertford, Hyde, Jones, Lenoir, Macon, Moore, Martin, Nash, Onslow,
+Pasquotank, Perquimans, Tyr rell, Washington, and Yancey shall elect one member each.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 008 003.1 001.0 0 NC 1776 1835 ***
+
+Section 3
+
+1. Each member of the senate shall have usually resided in the district for which he is chosen for
+one year immediately preceding his election, and for the same time shall have possessed and
+continued to possess in the district which he represents, not less than three hundred acres of land
+in fee.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 009 003.2 001.0 0 NC 1776 1835 ***
+
+2. All free men of the age of twenty-one years (except as is hereinafter declared), who have been
+inhabitants of any one district within the State twelve months immediately preceding the day of
+any election, and possessed of a freehold within the same district of fifty acres of land, for six
+months next before and at the day of election, shall be entitled to vote for a member of the senate.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 010 003.3 001.0 0 NC 1776 1835 ***
+
+3. No free Negro, free mulatto, or free person of mixed blood, descended from Negro ancestors
+to the fourth generation inclusive (though one ancestor of each generation may have been a white
+person) shall vote for members of the senate or house of commons.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 011 004.1 001.0 0 NC 1776 1835 ***
+
+Section 4.
+
+1. In the election of all officers, whose appointment is conferred on the general assembly by the
+constitution, the vote shall be viva voce.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 012 004.2 001.0 0 NC 1776 1835 ***
+
+2. The general assembly shall have power to pass laws regulating the mode of appointing and
+removing militia officers.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 013 004.3 001.0 0 NC 1776 1835 ***
+
+3. The general assembly shall have power to pass general laws regulating divorce and alimony,
+but shall not have power to grant a divorce or secure alimony in any individual case.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 014 004.4 001.0 0 NC 1776 1835 ***
+
+4. The general assembly shall not have power to pass any private law to alter the name of any
+person, or to legitimate any persons not born in lawful wedlock, or to restore to the rights of
+citizenship any person convicted of an infamous crime; but shall have power to pass general laws
+regulating the same.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 015 004.5 001.0 0 NC 1776 1835 ***
+
+5 The general assembly shall not pass any private law, unless it shall be made to appear that
+thirty days' notice of application to pass such law shall have been given, under such directions
+and in such manner as shall be provided by law.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 016 004.6 001.0 0 NC 1776 1835 ***
+
+6. If vacancies shall occur by death, resignation or otherwise, before the meeting of the general
+assembly, writs may be issued by the governor, under such regulations as may be prescribed by
+law.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 017 004.7 001.0 0 NC 1776 1835 ***
+
+7. The general assembly shall meet biennially, and at each biennial session shall elect, by joint
+vote of the two houses, a secretary of state, treasurer and council of state, who shall continue in
+office for the term of two years.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 018 001.0 002.0 0 NC 1776 1835 ***
+
+Article II.
+
+1. The governor shall be chosen by the qualified voters for the members of the house of
+commons, at such time and places as members of the general assembly are elected.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 019 002.0 002.0 0 NC 1776 1835 ***
+
+2. He shall hold his office for the term of two years from the time of his installation, and until
+another shall be elected and qualified; but he shall not be eligible more than four years in any
+term of six years.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 020 003.0 002.0 0 NC 1776 1835 ***
+
+3. The returns of every election for governor shall be sealed up and transmitted to the seat of
+government, by the returning officers, directed to the speaker of the senate, who shall open and
+publish them in the presence of a majority of the members of both houses of the general
+assembly. The person having the highest number of votes shall be governor; but if two or more
+shall be equal and highest in votes, one of them shall be chosen governor by joint vote of both
+houses of the general assembly.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 021 004.0 002.0 0 NC 1776 1835 ***
+
+4. Contested elections for governor shall be determined by both houses of the general assembly,
+in such manner as shall be prescribed by law.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 022 005.0 002.0 0 NC 1776 1835 ***
+
+5. The governor-elect shall enter on the duties of the office on the first day of January next after
+his election, having previously taken the oaths of office in the presence of the members of both
+branches of the general assembly, or before the chief justice of the supreme court, who,
+in case the governor-elect should be prevented from attendance before the general assembly, by
+sickness or other unavoidable cause, is authorized to administer the same.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 023 001.1 003.0 0 NC 1776 1835 ***
+
+Article III.
+
+Section 1.
+
+1. The governor, judges of the supreme court, and judges of the superior courts, and all other
+officers of this State (except justices of the peace and militia officers), may be impeached for
+wilfully violating any article of the constitution, maladministration, or corruption.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 024 001.2 003.0 0 NC 1776 1835 ***
+
+2. Judgment, in cases of impeachment, shall not extend further than to remove from office and
+disqualification to hold and enjoy any office of honor, trust, or profit under this State; but the
+party convicted may nevertheless be liable to indictment, trial, judgment, and punishment,
+according to law.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 025 001.3 003.0 0 NC 1776 1835 ***
+
+3. The house of commons shall have the sole power of impeachment. The senate shall have the
+sole power to try all impeachments. No person shall be convicted upon any impeachment, unless
+two-thirds of the senators present shall concur in such conviction; and before the trial of any
+impeachment, the members of the senate shall take an oath or affirmation truly and impartially to
+try and determine the charge in question, according to evidence. 
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 026 002.1 003.0 0 NC 1776 1835 ***
+
+Section 2.
+
+1. Any judge of the supreme court, or of the superior courts, may be removed from office for
+mental or physical inability, upon a concurrent resolution of two-thirds of both branches of the
+general assembly. The judge, against whom the legislature may be about to proceed, shall receive
+notice thereof, accompanied by a copy of the causes alleged for his removal, at least twenty days
+before the day on which either branch of the general assembly shall act thereon.
+
+*** MEND ***
+*** MSTART 027 002.2 003.0 0 NC 1776 1835 ***
+
+
+The salaries of the judges of the supreme court, or of the superior courts, shall not be diminished
+during their continuance in office.
+
+[Ratified by voters November 9, 1835.  In the source text, this is part of section 2.1, but it
+appears as though it should be section 2.2, as it is followed by section 2.3 and deals with a
+separate issue from section 2.1]
+
+*** MEND ***
+*** MSTART 028 002.3 003.0 0 NC 1776 1835 ***
+
+Section 3.
+
+Upon the conviction of any justice of the peace of any infamous crime, or of corruption or
+malpractice in office, the commission of such justice shall be thereby vacated, and he shall be
+forever disqualified from holding such appointment.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 029 002.4 003.0 0 NC 1776 1835 ***
+
+Section 4.
+
+The general assembly at its first session after the year one thousand eight hundred and thirty-nine,
+and from time to time thereafter, shall appoint an attorney-general, who shall be commissioned
+by the governor, and shall hold his office for the term of four years; but if the general assembly
+should hereafter extend the term during which solicitors of the State shall hold their offices, then
+they shall have power to extend the term of office of the attorney-general to the same period.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 030 001.1 004.0 0 NC 1776 1835 ***
+
+Article IV
+Section 1.
+
+
+l. No convention of the people shall be called by the general assembly, unless by the concurrence
+of two-thirds of all the members of each house of the general assembly.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 031 001.2 004.0 0 NC 1776 1835 ***
+
+2. No part of the constitution of this State shall be altered, unless a bill to alter the same shall
+have been read three times in each house of the general assembly, and agreed to by three-fifths of
+the whole number of members of each house respectively; nor shall any alteration take place until
+the bill so agreed to shall have been published six months previous to a new election of members
+to the general assembly. If, after such publication, the alteration proposed by the preceding
+general assembly shall be agreed to in the first session thereafter, by two-thirds of the whole 
+representation in each house of the general assembly, after the same shall have been read three
+times on three several days, in each house, then the said general assembly shall pre scribe a mode
+by which the amendment or amendments may be submitted to the qualified voters of the house of
+commons throughout the State; and if, upon comparing the votes given in the whole State, it
+shall appear that a majority of the voters have approve d thereof, then, and not otherwise, the
+same bill become a part of the constitution.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***                            
+*** MSTART 032 002.0 004.0 0 NC 1776 1835 ***
+
+Section 2.
+
+The thirty-second section of the constitution shall be amended to read as follows: No person who
+shall deny the being of God, or the truth of the Christian religion, or the divine authority of the
+Old or New Testament, or who shall hold religious principles incompatible with the freedom or
+safety of the State, shall be capable of holding any office or place of trust or profit in the civil
+department within this State.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 033 032.0 000.0 0 NC 1776 1835 ***
+
+Section 2.
+
+The thirty-second section of the constitution shall be amended to read as follows: No person who
+shall deny the being of God, or the truth of the Christian religion, or the divine authority of the
+Old or New Testament, or who shall hold religious principles incompatible with the freedom or
+safety of the State, shall be capable of holding any office or place of trust or profit in the civil
+department within this State.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+
+
+
+*** MSTART 034 003.1 004.0 0 NC 1776 1835 ***
+
+Section 3.
+
+1. Capitation tax shall be equal throughout the State, upon all individuals subject to the same.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 035 003.2 004.0 0 NC 1776 1835 ***
+
+2. All free males over the age of twenty-one years, and under the age of forty-five years, and all
+slaves over the age of twelve years, and under the age of fifty years, shall be subject to capitation
+tax, and no other person shall be subject to such tax: Provided, that nothing herein contained
+shall prevent exemptions of taxable polls, as heretofore prescribed by law, in cases of bodily
+infirmity.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 036 004.0 004.0 0 NC 1776 1835 ***
+
+Section 4.
+
+No person who shall hold any office or place of trust or profit under the United States, or any
+department thereof, or under this State, or any other State government, shall hold or exercise any
+other office or place of trust or profit under the authority of this State, or be eligible to a seat in
+either house of the general assembly: Provided, that nothing here-in contained shall extend to
+officers in the militia or justices of the peace.
+
+*** MEND ***
+*** MSTART 037 001.0 9016.0 0 NC 1776 1835 ***
+
+
+Ratified in convention, this eleventh day of July, in the year of our
+Lord one thousand eight hundred and thirty-five.
+ NATHANIEL MACON, President.
+ EDMUND B. FREEMAN, Secretary.
+ JOSEPH D. WARD, Asst. Secty.
+
+[Ratified by voters November 9, 1835.]
+
+*** MEND ***
+*** MSTART 038 003.2 001.0 0 NC 1776 1857 ***
+
+Whereas, a large number of the people are disfranchised, by the freehold qualification now
+required of voters for members of the Senate: Therefore,
+
+Sec. 1.  Be it enacted by the General Assembly of the State of North-Carolina, and it is hereby
+enacted by the authority of the same, (three-fifths of the whole number of members of each
+House concurring,) That the second clause of the third section of the first article of the amended
+constitution, ratified by the people of North-Carolina, on the second Monday of November, in the
+year of [our] Lord eighteen hundred and thirty-five, shall be amended to read as follows: 
+
+Every free white man of the age of twenty-one years, being a native or naturalized citizen of the
+United States, and who has been an inhabitant of the State for twelve months immediately
+preceding the day of any election, and shall have paid public taxes shall be entitled to vote for a
+member of the Senate, for the district in which he resides.
+
+[Ratified August 6, 1857.]
+
+*** MEND ***
+*** MSTART 039 001.0 9013.0 0 NC 1776 1861 ***
+
+AMENDMENTS OF 1861-62
+
+
+I. AN ORDINANCE TO DISSOLVE THE UNION BETWEEN THE STATE OF NORTH
+CAROLINA AND THE OTHER STATES UNITED WITH HER UNDER THE COMPACT OF
+GOVERNMENT ENTITLED THE CONSTITUTION OF THE UNITED STATES.
+
+We, the people of the State of North Carolina in Convention assembled, do declare and ordain,
+and it is hereby declared and ordained, that the ordinance adopted by the State of North Carolina,
+in the Convention of 1789, whereby the Constitution of the United States was ratified and
+adopted, and also, all acts and parts of acts of the General Assembly, ratifying and adopting
+amendments to the said Constitution, are hereby repealed, rescinded and abrogated.
+
+We do further declare and ordain, that the Union now subsisting between the State of North
+Carolina and the other States, under the title of the United States of America, is hereby dissolved,
+and that the State of North Carolina is in the full possession of exercise of all those rights of
+sovereignty which belong and appertain to a free and independent State. 
+
+[Passed, 20th day of May 1861.]
+
+*** MEND ***
+*** MSTART 040 002.0 9013.0 0 NC 1776 1861 ***
+
+II. AN ORDINANCE DEFINING TREASON AGAINST THE STATE.
+
+Be it ordained by this Convention, and it is hereby ordained by the authority of the same as
+follows:-
+
+Treason against the State of North Carolina, shall consist only in levying War against her, or in
+adhering to her enemies; giving them aid and comfort. No person shall be convicted of Treason,
+unless on the Testimony of two witnesses to the same over act, or on confession in open Court.
+
+[Passed 18th June 1861.]
+
+*** MEND ***
+*** MSTART 041 003.0 9013.0 0 NC 1776 1861 ***
+
+III. AN ORDINANCE TO RATIFY THE CONSTITUTION OF THE PROVISIONAL
+GOVERNMENT OF THE CONFEDERATE STATES OF AMERICA.
+
+
+We the people of North Carolina, in Convention assembled, do declare and
+ordain, and it is hereby declared and ordained,
+
+That the State of North Carolina does hereby assent to and ratify the Constitution for the
+Provisional Government of the Confederate States of America, adopted at Montgomery, in the
+State of Alabama, on the 8th day of February, A. D. 1861, by the Convention of Delegates from
+the States of South Carolina, Georgia, Florida, Alabama, Mississippi and Louisiana, and that
+North Carolina will enter into the Federal Association of States upon the terms therein proposed
+when admitted by the Congress or any Competent authority of the Confederate States.
+
+[May 20, 1861.]
+
+*** MEND ***
+*** MSTART 042 004.0 9013.0 0 NC 1776 1835 ***
+
+IV. AN ORDINANCE TO RATIFY THE CONSTITUTION OF THE CONFEDERATE
+STATES OF AMERICA.
+
+Whereas, on the eleventh day of March, A. D. 1861, at Montgomery, in the State of Alabama, a
+Constitution was adopted, by a Congress of delegates from the States of Alabama, Florida,
+Georgia, Louisiana, Mississippi, South Carolina, and Texas, united under the name of the
+Confederate States of America, which Constitution hath been ratified by each of the said
+states:
+
+Now, therefore, this convention, having seen and considered the said Constitution, doth, in behalf
+of the people of the State of North Carolina, adopt and ratify the said Constitution and form of
+Government, the tenor of which appears in a schedule hereto annexed.
+
+[Passed, 6th June 1861.]
+
+*** MEND ***
+*** MSTART 043 005.0 9013.0 0 NC 1776 1861 ***
+
+V. AN ORDINANCE TO AMEND THE 4TH SECTION OF THE 4TH ARTICLE OF THE
+AMENDMENTS TO THE CONSTITUTION.
+
+Be it Ordained by this Convention of the people, and it is hereby ordained by the authority of the
+same, That the fourth Section of the fourth Article of the amendments to the Constitution,
+proposed and ratified in the year eighteen hundred and thirty-five, be amended by striking out the
+word "United" and inserting in lieu thereof, the word "Confederate" before the word "States".
+
+[Passed, 20th June 1861.]
+
+*** MEND ***
+*** MSTART 044 004.0 004.0 0 NC 1776 1861 ***
+
+V. AN ORDINANCE TO AMEND THE 4TH SECTION OF THE 4TH ARTICLE OF THE
+AMENDMENTS TO THE CONSTITUTION.
+
+Be it Ordained by this Convention of the people, and it is hereby ordained by the authority of the
+same, That the fourth Section of the fourth Article of the amendments to the Constitution,
+proposed and ratified in the year eighteen hundred and thirty-five, be amended by striking out the
+word "United" and inserting in lieu thereof, the word "Confederate" before the word "States".
+
+[Passed, 20th June 1861.]
+
+*** MEND ***
+
+
+*** MSTART 045 003.0 004.0 0 NC 1776 1861 ***
+
+VI. AN ORDINANCE IN RELATION TO TAXATION.
+
+SECTION 1. Be it ordained, That the third Section of the fourth article of the amendments of the
+Constitution be and the same is hereby annulled.
+
+[Passed 25th June 1861.  This annuls Wallis amendment number 034]
+
+SEC. 2. Be it further ordained, That all free males over the age of twenty-one years and under the
+age of forty-five years shall be subject to a Capitation tax, not less than the tax laid on land of the
+value of three hundred dollars, and no other free person nor slave, shall be liable to such taxation;
+and also, land and slaves shall be taxed according to their value, and the tax on slaves shall be as
+much but not more than that on land, according to their respective values; but the tax on slaves
+may be laid on their general average value in the State or on their values in classes in respect to
+age, sex, and other distinctive properties, in the discretion of the General Assembly; and the
+value be assessed in such modes as may be prescribed by law: Provided, That nothing herein
+contained shall prevent the exemption from taxation of soldiers in the public service, or of free
+males or slaves in cases of bodily or mental infirmity, or of such real estate as hath hitherto been
+exempted by law.
+
+[Passed 25th June 1861.]
+
+*** MEND ***
+*** MSTART 046 002.0 9099.0 0 NC 1776 1861 ***
+
+VII. AN ORDINANCE TO SECURE TO CERTAIN OFFICERS AND SOLDIERS THE RIGHT
+TO VOTE.
+
+SECTION 1. Be it ordained by this convention and it is hereby ordained by authority of the same,
+That all officers and soldiers in the service of the State or of the Confederate States, who are of
+the age of twenty-one years and who are citizens of this State, or who, if within the State, shall be
+absent from their respective counties, at elections hereafter to be held, if the exigencies of the
+times shall permit, shall be entitled to vote for Sheriffs, Clerks of the County and Superior
+Courts, our members of the General Assembly for their respective Counties; and shall, also, be
+entitled to vote for Governor, Electors for President and Vice President of the Confederate States,
+and for members of the Confederate Congress for their respective districts.
+
+SEC. 2. Be it further ordained, That three freeholders of the respective Companies, under the
+direction of the Commanding Officers of the regiments, to which they belong, shall open polls on
+Thursday before the day appointed for holding elections in this State, and said elections
+shall be conducted in all respects according to the laws of this State. The three freeholders
+aforesaid, shall prepare a fair copy of the votes polled, and shall transmit the same with the list of
+voters to the sheriffs of their respective counties; and where Officers and Soldiers in the same
+Companies, shall vote in different Counties or different Congressional districts the said free
+holders shall specify accordingly, and make returns to the Sheriffs of the different Counties
+above referred to.
+
+SEC. 3. Be it further ordained, That the Sheriffs of the respective Counties of this State shall
+count the votes of the said officers and soldiers, if received within seven days after the elections;
+and they shall not declare the result of the said elections until the seven days above mentioned,
+shall have expired. 
+
+SEC. 4. Be it further ordained that this ordinance shall be in force from and after the day of its
+ratification; provided this ordinance shall be in force during the existence of the present war with
+the United States, and no longer.
+
+*** MEND ***
+*** MSTART 047 046.0 000.0 0 NC 1776 1861 ***
+
+VIII. AN ORDINANCE TO PROVIDE FOR AMENDING THE FORTY-SIXTH SECTION
+OF THE CONSTITUTION OF THIS STATE, IN REGARD TO TAKING THE YEAS AND
+NAYS IN EITHER HOUSE OF THE GENERAL ASSEMBLY.
+
+Be it ordained by the Delegates of the people of North Carolina in Convention assembled and it
+is hereby ordained by the authority of the same; That the forty-sixth section of the Constitution of
+this State be so amended as to insert, after the word "seconded" in the fourth line of said
+section, the words "by one-fifth of the members present." 
+
+[Ratified December 6, 1861.]
+
+*** MEND ***
+*** MSTART 048 002.0 004.0 0 NC 1776 1861 ***
+
+IX. AN ORDINANCE TO AMEND THE SECOND SECTION OF THE FOURTH ARTICLE
+OF THE AMENDMENTS TO THE CONSTITUTION.
+
+Be it ordained by the Delegates of the people of North Carolina in Convention assembled, and it
+is hereby ordained by the authority of the same, That the second section of the fourth article of
+the amendments to the Constitution shall be amended to read as follows:
+
+"No person who shall deny the being of God, or the divine authority of both the Old and New
+Testiments, or who shall hold religious opinions incompatible with the freedom or safety of the
+State, shall be capable of holding any office or place of trust or profit in the civil department of
+this State."
+
+[Ratified December 6, 1861.]
+
+*** MEND ***
+*** MSTART 049 002.0 9099.0 0 NC 1776 1862 ***
+
+AN ORDINANCE TO AMEND AN ORDINANCE ENTITLED"AN ORDINANCE TO
+SECURE TO CERTAIN OFFICERS AND SOLDIERS THE RIGHT TO VOTE.
+
+SECTION 1. Be it ordained by the Delegates of the people of North Carolina in Convention
+assembled, and it is hereby ordained by the authority of the same, That the proper returning
+officers of every County in this State shall include in their returns the votes of officers and
+soldiers given in any election in which they may be entitled to vote by Law, if received within
+twenty days after they are cast, and the said returning officers shall not make up their returns and
+declare the result of said elections until the expiration of twenty days as aforesaid.
+
+
+SEC. 2. Be it further ordained, That the proper returning officer of every County shall, within
+eight days after the period fixed for comparing the returns, transmit to the seat of government and
+deliver to the proper officer a statement of votes given in his county for Governor, which
+statement shall be made in the manner and form now required by law.
+
+
+SEC. 3. Be it further ordained, That the Governor be directed to make known by proclamation
+the provisions of the ordinance securing to officers and soldiers the right to vote.  
+
+[Passed and ratified May 8, 1862.]                     
+
+*** MEND ***
+*** MSTART 050 003.2 001.0 0 NC 1776 1862 ***
+
+X. AN ORDINANCE IN RELATION TO ELECTORS OF THE SENATE.
+
+Be it ordained by the Delegates of the people of North Carolina in Convention assembled and it
+is hereby ordained by the authority of the same, That every free white man, of the age of twenty
+one years, being a native or naturalized citizen of the Confederate States, who has been an
+inhabitant of the state for twelve months, and of the district in which he proposes to vote six
+months next before the day of any election, and shall have paid public taxes, shall be entitled to
+vote for a member of the Senate for the district in which he resides.
+
+[Passed and ratified May 10, 1862.]
+
+*** MEND ***
+*** MSTART 051 003.0 9099.0 0 NC 1776 1862 ***
+
+XI. AN ORDINANCE CONCERNING THE ELECTION OF GOVERNOR.
+
+Whereas, By the construction which, in practice, has been given to the constitution of the State,
+the Speaker of the Senate, in case of a vacancy in the office of the Governor, shall exercise the
+powers of Governor by virtue of his office as Speaker, and without vacating the same, which said
+office of Speaker must cease and determine with that of the incumbent as a Senator, upon the
+election of his successor in the next election, a vacancy will take place in the office of Governor
+from and after the day of the next election on the first Thursday in August next until the first day
+of January, A. D. 1863, against which it is the duty of this Convention to provide, Therefore,
+
+SECTION 1. Be it ordained by the Delegates of the people of North Carolina in Convention
+assembled, and it is hereby ordained by the authority of the same; That the person who shall be
+elected Governor of this State at the next regular election on the first Thursday in August next, as
+now provided for by Law, shall also fill the office and discharge the duties of Governor of this
+State from the second Monday of September until his successor shall be qualified.
+
+SEC. 2. Be it further ordained, That the proper returning officers of every county shall, as soon as
+the result of the election is known in his county, transmit to the Secretary of State a statement of
+the votes taken in his county for Governor, which statement shall be made up from the poll books
+of his county, as is now prescribed by law.
+
+
+SEC. 3. Be it further ordained, That the Secretary of State, the Treasurer and Comptroller, shall,
+on the fourth Thursday in August next, in the presence of the Governor, proceed to examine said
+returns, and ascertain and declare what person shall have received the greatest number of votes,
+where upon the Governor shall issue his proclamation, declaring such person duly elected
+Governor of this State from the second Monday of September, A. D. 1862, until his successor
+shall be qualified.
+
+
+SEC. 4. Be it further ordained, That the person so declared and proclaimed Governor, as
+aforesaid, shall, on the second Monday of September, A. D. 1862, appear before some Judge of
+the Supreme Court, or someone of the Judges of the Superior Courts of Law, and take and
+subscribe the oath now prescribed by law for qualification of Governor of this State, and shall
+immediately enter upon the discharge of the duties of his office; which oath is taken and
+subscribed shall be filed in the office of the Secretary of State.
+
+
+SEC. 5. Be it further ordained, That His Excellency, Henry T. Clark, shall continue to hold the
+office and discharge the duties of Governor of this State from the first Thursday in August until
+the second Monday in September next or until his successor shall be qualified, as fully and to
+all intents and purposes as he has heretofore done, and shall receive the usual salary, in
+proportion to his extended term of service.
+
+[Passed and ratified on May 2, 1862.]
+
+*** MEND ***
+*** MSTART 052 004.0 9099.0 0 NC 1776 1862 ***
+
+XII. AN ORDINANCE TO ALLOW CERTAIN PERSONS TO VOTE FOR GOVERNOR IN
+ANY OTHER THAN THE COUNTIES IN WHICH THEY RESIDE.
+
+SECTION 1. Be it ordained by the Delegates of the people of North Carolina in convention
+assembled, and it is hereby ordained by the authority of the same, That any citizen of this State
+who shall be entitled to vote for Governor in the county wherein he is domiciled, shall be entitled
+to vote for Governor in any county in this State.
+
+SEC. 2. Be it further ordained, That it shall or may be lawful for the Sheriffs of the counties in
+this State in the possession of or under the control of the enemy to compare the poles of their
+respective counties for Governor and members of the Legislature, at any place in this State they
+may think proper. 
+
+SEC. 3. Be it further ordained, That this ordinance shall be and continue in force for and during
+the present war, and no longer, unless sooner repealed or modified by the General Assembly.
+
+[Passed May 12, 1862.]
+
+*** MEND ***
+*** MSTART 053 005.0 9099.0 0 NC 1776 1862 ***
+
+AN ORDINANCE DECLARING WHAT ORDINANCES OF THIS CONVENTION SHALL
+HAVE PERMANENT OPERATION.
+
+SECTION 1. Be it ordained by the Delegates of the people of North Carolina in Convention
+assembled, and it is hereby ordained by the authority of the same, That the following ordinances
+passed by this Convention shall be of permanent operation and be irrepealable by the General
+Assembly namely:
+
+I. An Ordinance to dissolve the Union between the State of North Carolina and the other States
+united with her under the compact of government entitled "the Constitution of the United States."
+
+II. An Ordinance defining treason against the State.
+
+III. An Ordinance to ratify the Constitution of the provisional Government of the Confederate
+States of America.
+
+IV. An Ordinance to ratify the Constitution of the Confederate States of America.
+
+V. An Ordinance to amend the fourth section of the fourth Article of the amendments to the
+Constitution.
+
+VI. An Ordinance in relation to taxation
+
+VII. An Ordinance to secure to certain officers and soldiers the right to vote.
+
+VIII. An Ordinance in relation to taking the yeas and nays in the General Assembly.
+
+IX. An Ordinance to amend the second section of the fourth Article of the amendments to the
+Constitution.
+
+X. An Ordinance in relation to elections of the Senate.
+
+XI. An Ordinance concerning the election of Governor.
+
+XII. An Ordinance to allow certain persons to vote for Governor in any other County than that in
+which they reside.
+
+SEC. 2. Be it further ordained, That all other ordinances and resolutions passed by this
+convention at any of its sessions, shall have the force and effect only of acts of the ordinary
+Legislature, and may be repealed or modified at the pleasure of the General Assembly, in the
+same manner and to the same extent that public statutes are liable to repeal or modification.
+
+[Passed and Ratified May 13, 1862.]
+
+*** MEND ***
+*** CEND ***

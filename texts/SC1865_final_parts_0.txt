@@ -1,0 +1,981 @@
+Trisha did South Carolina
+
+this is ready to go.
+
+JW 6/2/04
+
+
+
+
+*** CSTART SC 9/27/1865 4/16/1868 ***
+*** ASTART 9001.0 SC 1865 ***
+
+CONSTITUTION OF SOUTH CAROLINA-1865
+
+We, the people of the State of South Carolina, by our delegates in convention met, do ordain and
+establish this constitution for the government of the said State.
+
+*** AEND ***
+*** ASTART 001.0 SC 1865 ***
+*** SSTART 001.0 001.0 0 SC 1865 ***
+
+ARTICLE I
+
+SECTION 1. The legislative authority of this State shall be vested in a general assembly which
+shall consist of a senate and a house of representatives.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 SC 1865 ***
+
+SEC. 2. The house of representatives shall be composed of members chosen by ballot, every
+second year, by the citizens of this State, qualified as in this constitution is provided.
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 SC 1865 ***
+
+SEC. 3. Each judicial district in the State shall constitute one election district, except Charleston
+district, which shall be divided into two election districts; one, consisting of the late parishes of
+Saint Philip and Saint Michael, to be designated the election district of Charleston; the other,
+consisting of all that part of the judicial district which is without the limits of the said parishes, to
+be known as the election district of Berkeley.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 SC 1865 ***
+
+SEC. 4. The boundaries of the several judicial and election districts shall remain as they are now
+established.
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 SC 1865 ***
+
+SEC. 5. The house of representatives shall consist of one hundred and twenty-four members, to
+be apportioned among the several election districts of the State, according to the number of white
+inhabitants contained in each, and the amount of all taxes raised by the general assembly,
+whether direct or indirect, or of whatever species paid in each, deducting therefrom all taxes paid
+on account of property held in any other district, and adding thereto all taxes elsewhere paid on
+account of property held in such district. An enumeration of the white inhabitants, for this
+purpose, was made in the year one thousand eight hundred and fifty-nine, and shall be made in
+the course of every tenth year thereafter, in such manner as shall be by law directed; and
+representatives shall be assigned to the different districts in the above-mentioned proportion by
+act of the general assembly at the session immediately succeeding every enumeration: Provided,
+That until the apportionment, which shall be made upon the next enumeration, shall take effect,
+the representation of the several election districts, as herein constituted, shall continue as
+assigned at the last apportionment, each district which has been heretofore divided into smaller
+districts, known as parishes having the aggregate number of representatives which the parishes
+heretofore embraced within its limits have had since that apportionment, the representative to
+which the parish of All Saints has been heretofore entitled being, during the interval, assigned to
+Horry election district.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 SC 1865 ***
+
+SEC. 6. If the enumeration herein directed shall not be made in the course of the year appointed
+for the purpose, it shall be the duty of the governor to have it effected as soon thereafter as shall
+be practical.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 SC 1865 ***
+
+SEC. 7. In assigning representatives to the several districts, the general assembly shall allow one
+representative for every sixty-second part of the whole number of white inhabitants in the State,
+and one representative, also, for every sixty-second part of the whole taxes raised by the general
+assembly. There shall be further allowed one representative for such fractions of the sixty-second
+part of the white inhabitants, and of the sixty-second part of the taxes, as, when added together,
+form a unit.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 SC 1865 ***
+
+SEC. 8. All taxes upon property, real or personal, shall be laid upon the actual value of the
+property taxed, as the same shall be ascertained by an assessment made for the purpose of laying
+such tax. In the first apportionment which shall be made under this constitution, the amount of
+taxes shall be estimated from the average of the two years next preceding such apportionment;
+but in every subsequent apportionment, from the average of the ten cars then next preceding.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 SC 1865 ***
+
+SEC. 9. If, in the apportionment of representatives, any election district shall appear not to be
+entitled, from its population and its taxes, to a representative, such election district shall
+nevertheless send one representative; and if there be still a deficiency of the number of
+representatives required by section fifth, such deficiency shall be supplied by assigning
+representatives to those election districts having the largest surplus fractions, whether those
+fractions consist of a combination of population and taxes, or of population or taxes separately,
+until the number of one hundred and twenty-four members are made up: Provided, however, That
+not more than twelve representatives shall in any apportionment be assigned to any one election
+district.
+
+*** SEND ***
+*** SSTART 010.0 001.0 0 SC 1865 ***
+
+SEC. 10. No apportionment of representatives shall be construed to take effect, in any manner,
+until the general election which shall succeed such apportionment.
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 SC 1865 ***
+
+SEC. 11. The senate shall be composed of one member from each election district, except the
+election district of Charleston, to which shall be allowed two senators.
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 SC 1865 ***
+
+SEC. 12. Upon the meeting of the first general assembly which shall be chosen under the
+provisions of this constitution, the senators shall be divided, by lot, into two classes; the seats of
+the senators of the one class to be vacated at the expiration of two years after the Monday
+following the general election, and of those of the other class at the expiration of four years; and
+the number of these classes shall be so proportioned that one-half of the whole number of
+senators may, as nearly as possible, continue to be chosen thereafter every second year.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 SC 1865 ***
+
+SEC. 13. No person shall be eligible to, or take or retain a seat in, the house of representatives,
+unless he is a free white man who bath attained the age of twenty-one years, hath been a citizen
+and a resident of this State three years next preceding the day of election, and bath been for the
+last six months of this time, and shall continue, a resident of the district which he is to represent.
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 SC 1865 ***
+
+SEC. 14. No person shall be eligible to or take or retain a seat in the senate, unless he is a free
+white man, who hath attained the age of thirty years, hath been a citizen and resident of this State
+five years next preceding the day of election, and hath been, for the last six months of this time,
+and shall continue to be, a resident of the district which he is to represent.
+
+*** SEND ***
+*** SSTART 015.0 001.0 0 SC 1865 ***
+
+SEC. 15. Senators and members of the house of representatives shall be chosen at a general
+election on the third Wednesday in October in the present year, and on the same day in every
+second year thereafter, in such manner and for such terms of office as are herein directed. They
+shall meet on the fourth Monday in November, annually, at Columbia, (which shall remain the
+seat of government until otherwise determined by the concurrence of two-thirds of both branches
+of the whole representation,) unless the casualties of war or contagious disorders shall render it
+unsafe to meet there; in either of which cases the governor, or commander-in-chief, for the time
+being, may, by proclamation, appoint a more secure and convenient place of meeting.
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 SC 1865 ***
+
+SEC. 16. The terms of office of the senators and representatives chosen at a general election shall
+begin on the Monday following such election.
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 SC 1865 ***
+
+SEC. 17. Each house shall judge of the election returns, and qualifications of its own members;
+and a majority of each house shall constitute a quorum to do business; but a smaller number may
+adjourn from day to day, and may be authorized to compel the attendance of absent members, in
+such manner and under such penalties as may be provided by law.
+
+*** SEND ***
+*** SSTART 018.0 001.0 0 SC 1865 ***
+ 
+SEC. 18. Each house shall choose its own officers, determine its rules of proceeding, punish its
+members for disorderly behavior, and, with the concurrence of two-thirds, expel a member, but
+not a second time for the same cause.
+
+*** SEND ***
+*** SSTART 019.0 001.0 0 SC 1865 ***
+
+SEC. 19. Each house may punish, by imprisonment, during its sitting, any person not a member
+who shall be guilty of disrespect to the house by any disorderly or contemptuous behavior in its
+presence; or who, during the time of its sitting, shall threaten harm to body or estate of any
+member for anything said or done in either house, or who shall assault any of them therefor, or
+who shall assault or arrest any witness or other person ordered to attend the house in his going
+thereto or returning therefrom, or who shall rescue any person arrested by order of the house.
+
+*** SEND ***
+*** SSTART 020.0 001.0 0 SC 1865 ***
+
+SEC. 20. The members of both houses shall be protected in their persons and estates during their
+attendance on, going to, and returning from the general assembly, and ten days previous to the
+sitting and ten days after the adjournment thereof. But these privileges shall not be extended so as
+to protect any member who shall be charged with treason, felony, or breach of the peace.
+
+*** SEND ***
+*** SSTART 021.0 001.0 0 SC 1865 ***
+
+SEC. 21. Bills for raising a revenue shall originate in the house of representatives, but may be
+altered, amended, or rejected by the senate; and all other bills may originate in either house and
+may be amended, altered, or rejected by the other.
+
+*** SEND ***
+*** SSTART 022.0 001.0 0 SC 1865 ***
+
+SEC. 22. Every act or resolution having the force of law shall relate to but one subject, and that
+shall be expressed in the title.
+
+*** SEND ***
+*** SSTART 023.0 001.0 0 SC 1865 ***
+
+SEC. 23. No bill shall have the force of law until it shall have been read three times, and on three
+several days, in each house, has had the seal of the State affixed to it, and has been signed in the
+senate-house by the president of the senate and the speaker of the house of representatives.
+
+*** SEND ***
+*** SSTART 024.0 001.0 0 SC 1865 ***
+
+SEC. 24. No money shall be drawn out of the public treasury but by the legislative authority of
+the State.
+
+*** SEND ***
+*** SSTART 025.0 001.0 0 SC 1865 ***
+
+SEC. 25. In all elections by the general assembly, or either house thereof, the members shall vote
+viva voce, and their votes thus given shall be entered upon the journals of the house to which
+they
+respectively belong.
+
+*** SEND ***
+*** SSTART 026.0 001.0 0 SC 1865 ***
+
+SEC. 26. The members of the general assembly who shall meet under this constitution, shall be
+entitled to receive out of the public treasury for their expenses during their attendance on, going
+to, and returning from the general assembly, five dollars for each day's attendance, and twenty
+cents for every mile of the ordinary route of travel between the residence of the member and the
+capital or other place of sitting of the general assembly, both going and returning; and the same
+may be increased or diminished by law if circumstances shall require; but no alteration shall be
+made to take effect during the existence of the general assembly which shall make such altera-
+
+tion.
+
+*** SEND ***
+*** SSTART 027.0 001.0 0 SC 1865 ***
+
+SEC. 27. Neither house during the session of the general assembly shall, without the consent of
+the other, adjourn for more than three days, nor to any other place than that in which the
+assembly shall be at the time sitting.
+
+*** SEND ***
+*** SSTART 028.0 001.0 0 SC 1865 ***
+
+SEC. 28. No person shall be eligible to a seat in the general assembly whilst he holds any office
+of profit or trust under this State, the United States of America, or any of them, or under any
+other power, except officers in the Militia, army or navy of this State, magistrates, or justices of
+inferior courts, while such justices receive no salaries; nor shall any contractor of the army or
+navy of this State, the United States of America, or any of them, or the agents of such contractor,
+be eligible to a seat in either house. And if any member shall accept or exercise any of the said
+disqualifying offices, lie shall vacate his seat.
+
+*** SEND ***
+*** SSTART 029.0 001.0 0 SC 1865 ***
+
+SEC. 29. If any election district shall neglect to choose a member or members on the day of
+election, or if any person chosen a member of either house shall refuse to qualify and take his
+seat, or shall resign, die, depart the State, accept any disqualifying office, or become otherwise
+disqualified to hold his seat, a writ of election shall be issued by the president of the Senate or
+speaker of the house of representatives, as the case may be, for the purpose of filling the vacancy
+thereby occasioned for the remainder of the term for which the person so refusing to qualify,
+resigning, dying, departing the State, or becoming disqualified was elected to serve, or the
+defaulting election district ought to have chosen a member or members.
+
+*** SEND ***
+*** SSTART 030.0 001.0 0 SC 1865 ***
+
+SEC. 30. And whereas the ministers of the gospel are, by their profession, dedicated to the
+service of God and the cure of souls, and ought not to be diverted from the great duties of their
+functions; therefore no minister of the gospel, or public preacher of any religious persuasion,
+whilst he continues in the exercise of his pastoral functions, shall be eligible to the office of
+governor, lieutenant-governor, or to a seat in the senate or house of representatives.
+
+
+
+*** SEND ***
+*** AEND ***
+*** ASTART 002.0 SC 1865 ***
+*** SSTART 001.0 002.0 0 SC 1865 ***
+
+ARTICLE II
+
+SECTION 1. The executive authority of this State shall be vested in a chief magistrate, who shall
+be styled the governor of the State of South Carolina.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 SC 1865 ***
+
+SEC. 2. The governor shall be elected by the electors duly qualified to vote for members of the
+house of representatives, and shall hold his office for four years, and until his successor shall be
+chosen and qualified; but the same person shall not be governor for two consecutive terms.
+
+*** SEND ***
+*** SSTART 003.0 002.0 0 SC 1865 ***
+
+SEC. 3. No person shall be eligible to the office of governor unless he hath attained the age of
+thirty years, and hath been a citizen and resident of this State for the ten years next preceding the
+day of election. And no person shall hold the office of governor and any other office or
+commission, civil or military, (except in the militia,) under this State or the United States, or any
+of them, or any other power, at one and the same time.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 SC 1865 ***
+
+SEC. 4. The returns of every election of governor shall be scaled up by the managers of elections
+in their respective districts, and transmitted by a messenger chosen by them to the seat of
+government, directed to the secretary of state, who shall deliver them to the speaker of the house
+of representatives, at the next ensuing session of the general assembly during the first week of
+which session the speaker shall open and publish them in the presence of both houses of the
+general assembly. The person having the highest number of votes shall be governor, but if two or
+more shall be equal and highest in votes, the general assembly shall, during the same session, in
+the house of representatives, choose one of them governor viva voce. Contested elections for
+governor shall be determined by the general assembly in such manner as shall be prescribed by
+law.
+
+*** SEND ***
+*** SSTART 005.0 002.0 0 SC 1865 ***
+
+SEC. 5. A lieutenant-governor shall be chosen at the same time, in the same manner, continue in
+office for the same period, and be possessed of the same qualifications as the governor, and shall,
+ex offico, be the president of the senate.
+
+*** SEND ***
+*** SSTART 006.0 002.0 0 SC 1865 ***
+
+SEC. 6. The lieutenant-governor, acting as president of the senate, shall have no vote, unless the
+senate be equally divided.
+
+*** SEND ***
+*** SSTART 007.0 002.0 0 SC 1865 ***
+
+SEC. 7. The senate shall choose a president pro tempore to act in the absence of the lieutenant-
+governor, or when he shall exercise the office of governor.
+
+*** SEND ***
+*** SSTART 008.0 002.0 0 SC 1865 ***
+
+SEC. 8. A member of the senate, or of the house of representatives, being chosen, and acting as
+governor or lieutenant-governor, shall thereupon vacate his seat, and another person shall be
+elected in his stead.
+
+*** SEND ***
+*** SSTART 009.0 002.0 0 SC 1865 ***
+
+SEC. 9. In case of the impeachment of the governor, or his removal from office, death,
+resignation, disqualification, disability, or removal from the State, the lieutenant-governor shall
+succeed to his office; and in case of the impeachment of the lieutenant-governor, or his removal
+from office, death, resignation, disqualification, disability, or removal from the State, the
+president pro tempore of the senate shall succeed to his office; and when the offices of the
+governor, lieutenant-governor, and president pro tempore of the senate shall become vacant in
+the recess of the senate, the secretary of state, for the time being, shall, by proclamation, convene
+the senate, that a president pro tempore may be chosen to exercise the office of governor for the
+unexpired term.
+
+*** SEND ***
+*** SSTART 010.0 002.0 0 SC 1865 ***
+
+SEC. 10. The governor shall be commander-in-chief of the army and navy of this State, and of
+the militia, except when they shall be called into the actual service of the United States.
+
+*** SEND ***
+*** SSTART 011.0 002.0 0 SC 1865 ***
+
+SEC. 11. He shall have power to grant reprieves and pardons after conviction, (except in cases of
+impeachment,) in such manner, on such terms, and under such restrictions as he shall think
+proper, and he shall have power to remit fines and forfeitures, unless otherwise directed by law. It
+shall be his duty to report to the general assembly at the next regular session thereafter all
+pardons granted by him, with a full statement of each case and the reasons moving him thereunto.
+
+*** SEND ***
+*** SSTART 012.0 002.0 0 SC 1865 ***
+
+SEC. 12. He shall take care that the laws be faithfully executed in mercy.
+
+*** SEND ***
+*** SSTART 013.0 002.0 0 SC 1865 ***
+
+SEC. 13. The governor and lieutenant-governor shall, at stated times, receive for their services a
+compensation which shall be neither increased nor diminished during the period for which they
+shall have been elected.
+
+*** SEND ***
+*** SSTART 014.0 002.0 0 SC 1865 ***
+
+SEC. 14. All officers in the executive department, when required by the governor, shall give him
+information in writing upon any subject relating to the duties of their respective offices.
+
+*** SEND ***
+*** SSTART 015.0 002.0 0 SC 1865 ***
+
+SEC. 15. The governor shall, from time to time, give to the general assembly information of the
+condition of the State, and recommend to their consideration such measures as he shall judge
+necessary or expedient.
+
+*** SEND ***
+*** SSTART 016.0 002.0 0 SC 1865 ***
+
+SEC. 16. He may, on extraordinary occasions, convene the general assembly, and should either
+house remain without a quorum for three days, or in case of disagreement, between the two
+houses with respect to the time of adjournment, may adjourn them to such time as he shall think
+proper, not beyond the fourth Monday of November then next ensuing.
+
+*** SEND ***
+*** SSTART 017.0 002.0 0 SC 1865 ***
+
+SEC. 17. He shall commission all officers of the State.
+
+*** SEND ***
+*** SSTART 018.0 002.0 0 SC 1865 ***
+
+SEC. 18. It shall be the duty of the managers of elections of this State, at the first general election
+under this constitution, and at each alternate general election thereafter, to hold an election for
+governor and lieutenant-governor.
+
+*** SEND ***
+*** SSTART 019.0 002.0 0 SC 1865 ***
+
+SEC. 19. The governor and the lieutenant-governor, before entering upon the duties of their
+respective offices, shall, in the presence of the general assembly, take the oath of office
+prescribed in this constitution.
+
+*** SEND ***
+*** SSTART 020.0 002.0 0 SC 1865 ***
+
+SEC. 20. The governor shall reside, during the sitting of the general assembly, at the place where
+its sessions may be held; and the general assembly may, by law, require him to reside at the
+capital of the State.
+
+*** SEND ***
+*** SSTART 021.0 002.0 0 SC 1865 ***
+
+SEC. 21. Every bill which shall have passed the general assembly shall, before it become a law,
+be presented to the governor; if  he approve he shall sign it; but if not, he shall return it, with his
+objections, to that house in which it shall have originated, who shall enter the objections at large
+on their journal, and proceed to reconsider it. If after such reconsideration a majority of the whole
+representation of that house shall agree to pass the bill, it shall be sent, together with the
+objections, to the other house, by which it shall likewise be reconsidered, and if approved by a
+majority of the whole representation of that other house, it shall become a law. But in all such
+cases the votes of both houses shall be determined by yeas and nays, and the names of the
+persons voting for and against the bill shall be entered on the journal of each house respectively.
+If any bill shall not be returned by the governor within two days (Sundays excepted) after it shall
+have been presented to him, the same shall be a law in like manner as if be had signed it. And,
+that time may be always allowed the governor to consider bills passed by the general assembly,
+neither house shall read any bill on the last day of its session, except such bills as have been
+returned by the governor as herein provided.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 003.0 SC 1865 ***
+*** SSTART 001.0 003.0 0 SC 1865 ***
+
+ARTICLE III
+
+SECTION 1. The judicial power shall be vested in such superior and inferior courts of law and
+equity as the general assembly shall, from time to time, direct and establish. The judges of the
+superior courts shall be elected by the general assembly, shall hold their offices during good
+behavior, and shall at stated times receive a compensation for their services, which shall neither
+be increased nor diminished during their continuance in office; but they shall receive no fees or
+perquisites of office, nor hold any other office of profit or trust under this State, the United States
+of America, or any of them, or any other power. The general assembly shall, as soon as possible,
+establish for each district in the State an inferior court or courts, to be styled the "district court"
+the judge whereof shall be resident in the district while in office shall be elected by the general
+assembly for four years, and shall be re‰ligible, which court shall have jurisdiction of all civil
+causes wherein one or both of the parties are persons of color, and of all criminal cases wherein
+the accused is a person of color; and the general assembly is empowered to extend the jurisdic-
+
+tion of the said court to other subjects.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 SC 1865 ***
+
+SEC. 2. The judges shall meet and sit at Columbia, at such time as the general assembly may by
+act prescribe, for the purpose of hearing and determining all motions for new trials and in arrest
+of judgment, and such points of law as may be submitted to them; and the general assembly may,
+by act, appoint such other places for such meetings as in their discretion may seem fit.
+
+*** SEND ***
+*** SSTART 003.0 003.0 0 SC 1865 ***
+
+SEC. 3. The style of all processes shall be " The State of South Carolina." All prosecutions shall
+be carried on in the name and by the authority of the State of South Carolina, and conclude,
+"against the peace and dignity of the same."
+
+*** SEND ***
+*** AEND ***
+*** ASTART 004.0 SC 1865 ***
+
+ARTICLE IV
+
+In all elections to be made by the people of this State, or of any part thereof, for civil or political
+offices, every person shall be entitled to vote who has the following qualifications, to wit: He
+shall be a free white man who has attained. the age of twenty-one years, and is not a pauper, nor a
+non-commissioned officer or private soldier of the Army, nor a seaman or marine of the Navy of
+the United States. He shall, for the two years next preceding the day of election, have been a
+citizen of this State, or, for the same period, an emigrant from Europe, who has declared his
+intention to become a citizen of the United States, according to the Constitution and laws of the
+United States. He shall have resided in this State for at least two years next preceding the day of
+election, and for the last six months of that time in the district in which he offers to vote:
+Provided, however, That the general assembly may, by requiring a registry of voters, or other
+suitable legislation, guard against frauds in elections and usurpations of the right of suffrage may
+impose disqualification to vote as a punishment for crime, and may prescribe additional
+qualifications for voters in municipal elections.
+
+*** AEND ***
+*** ASTART 005.0 SC 1865 ***
+
+ARTICLE V
+
+All persons who shall be elected or appointed to any office of profit or trust, before entering on
+the execution thereof, shall take (besides special oaths, not repugnant to this constitution,
+prescribed by the general assembly) the following oath: " I do swear [or affirm] that I am duly
+qualified, according to the constitution of this State, to exercise the office to which I have been
+appointed, and that I will, to the best of my ability, discharge the duties thereof, and preserve,
+protect, and defend the constitution of this State, and that of the United States: So help me God."
+
+*** AEND ***
+*** ASTART 006.0 SC 1865 ***
+*** SSTART 001.0 006.0 0 SC 1865 ***
+
+ARTICLE VI
+
+SECTION 1. The house of representatives shall have the sole power of impeaching; but no
+impeachment shall be made unless with the concurrence of two-thirds of the house of
+representatives.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 SC 1865 ***
+
+SEC. 2. All impeachments shall be tried by the senate. When sitting for that purpose, the senators
+shall be on oath or affirmation, and no person shall be convicted without the concurrence of two-
+thirds of the members present.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 SC 1865 ***
+
+SEC.3. The governor, lieutenant-governor, and all civil officers, shall be liable to impeachment
+for high crimes and misdemeanors, for any misbehavior in office, for corruption in procuring
+office, or for any act which shall degrade their official character. But judgment in such cases
+shall not extend further than to removal from office and disqualification to hold any office of
+honor, trust, or profit under this State. The party convicted shall, nevertheless, be liable to indict-
+
+ment, trial, judgment, and punishment according to law.
+
+*** SEND ***
+*** SSTART 004.0 006.0 0 SC 1865 ***
+
+SEC. 4. All civil officers whose authority is limited to a single judicial district, a single election
+district, or part of either, shall be appointed, hold their office, be removed from office, and, in
+addition to liability to impeachment, may be punished for official misconduct, in such manner as
+the general assembly, previous to their appointment, may provide.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 SC 1865 ***
+
+SEC. 5. If any civil officer shall become disabled from discharging the duties of his office by
+reason of any permanent bodily or mental infirmity, his office may be declared to be vacant, by
+joint resolution, agreed to by two-thirds of the whole representation in each house of the general
+assembly: Provided, That such resolution shall contain the grounds for the proposed removal,
+and, before it shall pass either house, a copy of it shall be served on the officer, and a hearing be
+allowed him.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 007.0 SC 1865 ***
+*** SSTART 001.0 007.0 0 SC 1865 ***
+
+ARTICLE VII
+
+SECTION 1. The treasurer and the secretary of state shall be elected by the general assembly in
+the house of representatives, shall hold their offices for four years, and shall not be eligible for
+the next succeeding term.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 SC 1865 ***
+
+SEC. 2. All other officers shall be appointed as they hitherto have been, until otherwise directed
+by law; but the same person shall not hold the office of sheriff for two consecutive terms.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 SC 1865 ***
+
+SEC. 3 All commissions shall be in the name and by the authority of the State of South Carolina,
+be scaled with the seal of the State, and be signed by the governor.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 008.0 SC 1865 ***
+
+ARTICLE VIII
+
+All laws of force in this State at the adoption of this constitution, and not repugnant hereto, shall
+so continue until altered or repealed, except where they are temporary; in which case they shall
+expire at the times respectively limited for their duration, if not continued by act of the general
+assembly.
+
+*** AEND ***
+*** ASTART 009.0 SC 1865 ***
+*** SSTART 001.0 009.0 0 SC 1865 ***
+
+ARTICLE IX
+
+SECTION 1. All power is originally vested in the people, and all free governments are founded
+on their authority, and are instituted for their peace, safety, and happiness.
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 SC 1865 ***
+
+SEC. 2. No person shall be taken, or imprisoned, or disseized of his freehold, liberties, or
+privileges, or outlawed or exiled or in any manner deprived of his life, liberty, or property, but by
+due process of law; nor shall any bill of attainder, ex post facto law, or law impairing the
+obligation of contracts ever be passed by the general assembly.
+
+*** SEND ***
+*** SSTART 003.0 009.0 0 SC 1865 ***
+
+SEC. 3. The military shall be subordinate to the civil power.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 SC 1865 ***
+
+SEC. 4. The privilege of the writ of habeas corpus shall not be suspended, unless when, in case
+of rebellion or invasion, the public safety requires it.
+
+*** SEND ***
+*** SSTART 005.0 009.0 0 SC 1865 ***
+
+SEC. 5. Excessive bail shall not be required, nor excessive fines imposed, nor cruel punishments
+inflicted.
+
+*** SEND ***
+*** SSTART 006.0 009.0 0 SC 1865 ***
+
+SEC. 6. The general assembly shall not grant any title of nobility, or hereditary distinction, nor
+create any office the appointment to which shall be for any longer time than during good
+behavior.
+
+*** SEND ***
+*** SSTART 007.0 009.0 0 SC 1865 ***
+
+SEC. 7. The trial by jury as heretofore used in this State, and the liberty of the press, shall be
+forever inviolably preserved. But the general assembly shall have power to determine the number
+of persons who shall constitute the jury in the inferior and district courts.
+
+*** SEND ***
+*** SSTART 008.0 009.0 0 SC 1865 ***
+
+SEC. 8. The free exercise and enjoyment of religious profession and worship, without
+discrimination or preference, shall be allowed within this State to all mankind : Provided, That
+the liberty of conscience hereby declared shall not be construed as to excise acts of
+licentiousness, or justify practices inconsistent with the peace and safety of the State.
+
+*** SEND ***
+*** SSTART 009.0 009.0 0 SC 1865 ***
+
+SEC. 9 The rights, privileges, immunities, and estates of both civil and religious societies and of
+corporate bodies shall remain as if the constitution: of this State had not been altered or amended.
+
+*** SEND ***
+*** SSTART 010.0 009.0 0 SC 1865 ***
+
+SEC. 10. The rights of primogeniture shall not be reestablished, and there shall not fail to be
+some legislative provision for the equitable distribution of the estates of intestates.
+
+*** SEND ***
+*** SSTART 011.0 009.0 0 SC 1865 ***
+
+SEC. 11. The slaves in South Carolina having been emancipated by the action of the United
+States authorities, neither slavery nor involuntary servitude, except as a punishment for crime,
+whereof the party shall have been duly convicted, shall ever be reestablished in this State.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 SC 1865 ***
+
+ARTICLE X
+
+The general assembly, whenever a tax is laid upon land, shall, at the same time, impose a
+capitation-tax, which shall not be less upon each poll than one-fourth of the tax laid upon each
+hundred dollars' worth of the assessed value of the land taxed; excepting, however, from the
+operation of such capitation-tax all such classes of persons as from disability or otherwise ought,
+in the judgment of the general assembly, to be exempted.
+
+
+*** AEND ***
+*** ASTART 011.0 SC 1865 ***
+*** SSTART 001.0 011.0 0 SC 1865 ***
+
+ARTICLE XI
+
+SECTION 1. The business of the treasury shall be conducted by one treasurer, who shall hold his
+office and reside at the seat of government.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 SC 1865 ***
+
+SEC. 2. The secretary of state shall hold his office and reside at the seat of government.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 SC 1865 ***
+*** SSTART 001.0 012.0 0 SC 1865 ***
+
+ARTICLE XII
+
+SECTION 1. No convention of the people shall be called, unless by the concurrence of two-
+thirds of the whole representation in each house of the general assembly.
+
+*** SEND ***
+*** SSTART 002.0 012.0 0 SC 1865 ***
+
+SEC. 2. No part of this constitution shall be altered, unless a bill to alter the same shall have been
+read on three several days in the house of representatives, and on three several days in the senate,
+and agreed to, at the second and third reading, by two-thirds of the whole representation in each
+house of the general assembly; neither shall any alteration take effect until the bill, so agreed to,
+shall be published for three months previous to a new election for members of the house of
+representatives; and the alteration proposed by the preceding general assembly shall be agreed to
+by the new general assembly, in their first session, by the concurrence of two-thirds of the whole
+representation in each house, after the same shall have been read on three several days in each;
+then and not otherwise the same shall become a part of the constitution.
+
+Done in convention at Columbia, in the State of South Carolina, the twenty-seventh day of
+September, in the year of our Lord one thousand eight hundred and sixty-five.
+D. L. WARDLAW, President.
+JOHN T. SLOAN, Clerk.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 9023.1 SC 1865 ***
+*** SSTART 001.0 9023.1 0 SC 1865 ***
+
+ORDINANCE
+
+Section 1.  We, the People of the State of South Carolina, by our Delegates in Convention met,
+do ordain, That on the third Wednesday in October next, elections shall be held for the offices of
+Governor and Lieutenant-Governor of the State of South Carolina, and for Members of the
+Senate and House of Representatives of the General Assembly of the State.
+
+*** SEND ***
+*** SSTART 002.0 9023.1 0 SC 1865 ***
+
+Section 2.  That the Managers of Elections throughout the State shall give public notice of such
+elections, and on the day indicated shall open separate polls at their respective precincts for each
+of the said elections, and shall conduct the same, in all respects, in accordance with the laws and
+usages of this State.  In case there be no regularly appointed Managers at any precinct, said
+elections shall be held and conducted by Managers for that purpose specially appointed by a
+majority of the persons who are now the Delegates of this Convention from the District in which
+such precinct lies, and vacancies among the Managers shall be in like manner filled.
+
+*** SEND ***
+*** SSTART 003.0 9023.1 0 SC 1865 ***
+
+Section 3.  In the elections to the General Assembly, the Districts of Beaufort, Colleten,
+Orangeburg and Berkeley shall each elect one Senator, and on general ticket as many Members
+of the House of Representatives as were assigned by the last apportionment to the several
+Parishes comprised in each.  The District of Georgetown shall elect one Senator and three
+Representatives.  The District of Horry shall elect one Senator and two Representatives.  The
+Election District of Charleston shall elect two Senators and twenty Representatives; and other
+Districts shall elect each one Senator and as many Representatives as were assigned to each by
+the last apportionment.
+
+*** SEND ***
+*** SSTART 004.0 9023.1 0 SC 1865 ***
+
+Section 4.  That immediately after closing the polls, the Managers shall count the votes polled,
+and after making returns thereof, showing the number of votes polled for each person, shall
+certify the same under their hands, and appoint one of their number to carry such returns, with a
+list of the voters, and report the same to the general meeting of the Managers of the District;
+which general meeting shall be held at the Court House of the District on the day following the
+election; except that the Managers for the Election District of Berkeley shall hold their general
+meeting at the city of Charleston, on the second day following the election, at 2 o'clock P.M. and
+the Managers, when so assembled in general meeting, shall, after ascertaining the result of the
+several returns, proceed to declare the election of Members of the General Assembly, and shall
+furnish certificates, under their hands, of such elections to the persons entitled thereto.
+
+*** SEND ***
+*** SSTART 005.0 9023.1 0 SC 1865 ***
+
+Section 5.  That the members so elected shall meet in General Assembly, in special session, at
+Columbia, on Wednesday, the twenty-fifth day of October next.
+
+*** SEND ***
+*** SSTART 006.0 9023.1 0 SC 1865 ***
+
+Section 6.  That the Managers, when so assembled in general meeting, shall make separate
+returns of the results of the ballotings for Governor and Lieutenant-Governor, shall certify the
+same to the Secretary of State, under their hands, and shall forward to him such returns, each in a
+separate sealed envelope, appropriately endorsed, by a Messenger to be by them appointed for
+that purpose, who shall be by them sworn to deliver and shall deliver the same, with the seals
+unbroken, to the Secretary of State, at Columbia, on or before the fourth Monday of November
+next.
+
+*** SEND ***
+*** SSTART 007.0 9023.1 0 SC 1865 ***
+
+Section 7.  That the Secretary of State shall, at such time as they may be required of him, deliver
+said returns to the Speaker of the House of Representatives, who shall, during the first week of
+the regular session, open and announce the said returns, declare the election, and order the
+entering of the same on the Journal of the House.
+
+*** SEND ***
+*** SSTART 008.0 9023.1 0 SC 1865 ***
+
+Section 8.  That the Messengers be entitled to receive out of the Treasury of the State a
+compensation equal to five dollars per diem, and twenty cents per mile going to and returning
+from Columbia   the number of days and miles to be ascertained by the Secretary of State, who
+shall certify pay-bills therefor.
+
+*** SEND ***
+*** SSTART 009.0 9023.1 0 SC 1865 ***
+
+Section 9.  That the Clerk of the Convention shall order the immediate printing of one thousand
+copies of this Ordinance, and forthwith distribute the same to the Managers of Elections
+throughout the State.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9023.2 SC 1865 ***
+*** SSTART 001.0 9023.2 0 SC 1865 ***
+
+ORDINANCE
+
+SECTION 1. We, the people of the State of South Carolina, by our delegates in convention met,
+do ordain that the constitution of this State, as ordained and established by the people in
+convention at Charleston, on the eighth day of April, in the year of our Lord one thousand eight
+hundred and sixty-one, is in force, except as amended or altered by this constitution.
+
+*** SEND ***
+*** SSTART 002.0 9023.2 0 SC 1865 ***
+
+SEC. 2. That all laws, orders, resolutions, and rules ascertaining the rights of persons, natural or
+artificial, or regulating proceedings in the courts of law or of equity, which were of force in this
+State on the nineteenth day of December, in the year of our Lord one thousand eight hundred and
+sixty, are now in force, and shall so continue until altered, modified, repealed, or avoided by
+proper State authority, except in so far as the same or any of them have or has been, since that
+time, so altered, modified, repealed, or avoided.
+
+*** SEND ***
+*** SSTART 003.0 9023.2 0 SC 1865 ***
+
+SEC. 3. That all acts and resolutions of the general assembly of this State which have been
+passed, adopted, or ratified since the nineteenth day of December, in the year of our Lord one
+thousand eight hundred and sixty aforesaid, are now in force, and shall so continue until altered,
+modified, repealed, or avoided by proper State authority, except such as have expired by their
+own limitation, or by reason of the cessation of the causes which occasioned their enactment; not,
+however, including within this exception the act of assembly prohibiting the collector of debts,
+usually known as the stay law: Provided however, That all laws, resolutions, orders, or rules
+embraced within the terms of this and preceding sections, which recognize the existence of
+slavery and regulate the relations of master and slave, and define and enforce the rights and
+duties growing thereout, or create and punish offences against such rights, or against the public
+policy of the State in reference to slavery, have become of no further or future, force or effect by
+reason of the extinction of slavery.
+
+*** SEND ***
+*** SSTART 004.0 9023.2 0 SC 1865 ***
+
+SEC. 4. That all official acts in the executive and other departments of the government of this
+State, judicial proceedings, rules of court, gales, conveyances, contracts, obligations, instruments
+of writing, and transactions affecting rights of persons or property, had, made, executed, or
+incurred since the nineteenth day of December; in the year of our Lord one thousand eight
+hundred and sixty, have, and shall continue to have, in all respects, the same force, effect, and
+validity as if the same had been made, executed or incurred in a time of peace, and as if the
+ordinance of secession had not been passed: Provided, That in every action arising on any
+contract, whether under seal or parol, written or oral, made between the first day of January, in
+the year of our Lord one thousand eight hundred and sixty-two, and the fifteenth day of May, in
+the year of our Lord one thousand eight hundred and sixty-five, it shall be lawful for either party
+to the action to introduce testimony showing the true value ad real character of the consideration
+of such contract at the time it was made, so that, regard being had to the particular circumstances
+of each case, such verdict or decree may be rendered as will effect substantial justice between the
+parties: And provided further, That all prosecutions now pending under any act or acts of the
+general assembly, passed to aid or assist in the war against the United States, shall be
+discontinued.
+
+*** SEND ***
+*** SSTART 005.0 9023.2 0 SC 1865 ***
+
+SEC. 5. The general assembly of this State is hereby forever prohibited from passing any law
+imposing civil disabilities, forfeiture of property or of other rights, or punishment of any kind, on
+any citizen or resident of this State, or persons owning property therein, for the relation of. such
+citizen, resident, or person to, or his or her conduct in reference to, the late secession of this State
+from the Federal Union, or the War which grew out of the same, or for any participation, aid,
+counsel, or assistance therein.
+
+*** SEND ***
+*** SSTART 006.0 9023.2 0 SC 1865 ***
+
+SEC. 6. The judges of the several courts in this State, and other judicial officers, the attorney-
+general and solicitors, president and directors of the Bank of the State of South Carolina, the
+secretary of state, commissioners of the treasury, surveyor-general, and all district and other
+officers who derive their authority from or under the executive, legislative, or judicial
+departments, who were holding and exercising office before and on the twenty-sixth day of April
+last, or had before that day been elected thereto, are, in the regard of the State, (except where
+vacancies have since occurred, or may occur by reason of death, expiration of term, or otherwise,
+under the laws of the State,) still holding their respective offices, and are entitled to hold and
+exercise the same by the original tenure thereof for the residue of the terms for which they were
+severally elected or appointed: Provided, however, That every person so holding office has
+heretofore taken and subscribed, or shall, before the first day of December next, take and
+subscribe, before some officer properly authorized to administer the same, the oath prescribed
+and required in the proclamation of His Excellency Andrew Johnson, President of the United
+States, of the twenty-ninth day of May last, commonly called the " amnesty proclamation;" and
+upon failure to comply with the requirements of this proviso, the office of such person shall be
+thereupon vacant, and shall be filled in the manner provided by law in cases of vacancy otherwise
+occurring.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9023.3 SC 1865 ***
+*** SSTART 001.0 9023.3 0 SC 1865 ***
+
+Section 1.  We, the People of the State of South Carolina, by our Delegates in Convention met,
+do ordain, That the President and Directors of the Bank of the State of South Carolina be, and
+they are, hereby authorized to advance to the use of the State from any funds now in their
+possession and under their control, a sum not exceeding thirteen thousand dollars in gold coin;
+and the faith and credit of the State are hereby pledged for the repayment of the said sum in gold
+coin, to the said President and Directors.  And the said sum so advanced shall be subject to the
+order of this Convention.  That the General Assembly of this State shall, at its next session,
+provide for the repayment of the said sum of thirteen thousand dollars in gold coin, with interest,
+to the said President and Directors of the Bank of the State of South Carolina.  That for the sum
+or sums to be advanced under this Ordinance, a certificate or certificates shall be issued, signed
+by the President of this Convention, in the form following, that is to say: "The State of South
+Carolina.  Be it known that there is due from the State of South Carolina to the President and
+Directors of the Bank of the State of South Carolina, the sum of ------------ in gold coin, to be
+paid to the said president and directors, with interest from the date hereof, within six months
+from the date of this certificate; the said sum having been advanced to the use of the State, under
+an Ordinance of the Convention of the People of the State, convened at Columbia on the
+thirteenth day of September, in the year of the Lord one thousand eight hundred and sixty-five. 
+Done at Columbia, this ---------- day of -----------, in the year of our Lord one thousand eight
+hundred and sixty-five."  Which certificate or certificate so executed shall be binding upon the
+State, and payable out of its treasury.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9023.4 SC 1865 ***
+*** SSTART 001.0 9023.4 0 SC 1865 ***
+
+Section 1.  We, the People of the State of South Carolina, by our Delegates in Convention met,
+do ordain, That the Ordinance adopted by us in Convention on the twentieth day of December, in
+the year of our Lord one thousand eight hundred and sixty, entitled an "Ordinance to dissolve the
+Union between the State of South Carolina and other States united with her, under the compact
+entitled 'The Constitution of the United States of America," is hereby repealed.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9023.5 SC 1865 ***
+
+*** SSTART 001.0 9023.5 0 SC 1865 ***
+
+Section 1.  We, the People of the State of South Carolina, by our Delegates in Convention met,
+do ordain, That the State of South Carolina shall be, and the same is, hereby divided into four
+Congressional Districts, as follows, namely: First Congressional District, to be composed of the
+Judicial District of Lancaster, Chesterfield, Marlborough, Darlington, Marion, Horry,
+Georgetown, Williamsburg, Sumter, Clarendon and Kershaw: Second Congressional District, to
+be composed of the Judicial Districts of Charleston, Colleton, Beaufort and Barnewell; Third
+Congressional District, to be composed of the Judicial Districts of Orangeburg, Edgefield,
+Abbeville, Lexington, Newberry, Richland and Fairfield; and the Fourth Congressional District,
+to be composed of the Judicial Districts of Anderson, Pickens, Greenville, Laurens, Spartanburg,
+Union, York and Chester.
+
+*** SEND ***
+
+*** SSTART 002.0 9023.5 0 SC 1865 ***
+
+Section 2.  That until the next apportionment be made by the Congress of the Untied States, each
+of the said Congressional Districts shall be entitled to elect one Member to represent this State in
+the Congress of the United States.
+
+*** SEND ***
+*** AEND ***
+*** CEND ***

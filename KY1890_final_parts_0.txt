@@ -1,0 +1,2479 @@
+This is ready to go
+
+JW 12.31.01
+
+
+
+
+*** CSTART KY 9/28/1891 99/99/9999 ***
+
+CONSTITUTION OF THE COMMONWEALTH OF KENTUCKY-1890
+
+*** ASTART 9001.0 KY 1890 ***
+PREAMBLE                         
+
+     We, the people of the Commonwealth of Kentucky, grateful to Almighty God for the civil,
+political and religious liberties we enjoy and invoking the continuance of these blessings, do
+ordain and establish this Constitution.
+*** AEND ***
+
+*** ASTART 9002.0 KY 1890 ***
+BILL OF RIGHTS
+
+     That the great and essential principles of liberty and free government may be recognized
+and established We Declare that:
+
+*** SSTART 001.0 9002.0 0 KY 1890 ***
+SECTION 1.  All men are, by nature, free and equal, and have certain inherent and inalienable
+rights, among which may be reckoned:
+
+First: The right of enjoying and defending their lives and liberties.
+Second: The right of worshiping Almighty God according to the dictates of their consciences.
+Third: The right of seeking and pursuing their safety and happiness.
+Fourth: The right of freely communicating their thoughts and opinions.
+Fifth: The right of acquiring and protecting property.
+Sixth: The right of assembling together in a peaceable manner for their common good, and of
+applying to those invested with the power of government for redress of grievances or other
+proper purposes, by petition, address or remonstrance.
+Seventh: The right to bear arms in defense of themselves and of the State, subject to the power of
+the General Assembly to enact laws to prevent persons from carrying concealed weapons.
+*** SEND ***
+
+*** SSTART 002.0 9002.0 0 KY 1890 ***
+SEC. 2. Absolute and arbitrary power over the lives, liberty and property of freemen exists
+nowhere in a republic, not even in the largest majority.
+*** SEND ***
+
+*** SSTART 003.0 9002.0 0 KY 1890 ***
+SEC. 3. All men, when they form a social compact, are equal; and no grant of exclusive, separate
+public emoluments or privileges shall be made to any man or set of men, except in consideration
+of public services; but no property shall be exempt from taxation except as provided in this
+Constitution, and every grant of a franchise, privilege or exemption, shall remain subject to
+revocation, alteration or amendment.
+*** SEND ***
+
+*** SSTART 004.0 9002.0 0 KY 1890 ***
+SEC. 4. All power is inherent in the people, and all free governments are founded on their
+authority and instituted for their peace, safety, happiness and the protection of property. For the
+advancement  of these ends, they have at all times an inalienable and indefeasible right to alter,
+reform or abolish their government in such manner as they may deem proper.
+*** SEND ***
+
+*** SSTART 005.0 9002.0 0 KY 1890 ***
+SEC. 5. No preference shall ever be given by law to any religion, sect, society or denomination,
+nor to any particular creed, mode of worship or system of ecclesiastical polity, nor shall any
+person be compelled to attend any place of worship, to contribute to the erection or maintenance
+of any such place, or to the salary or support of any minister or religion; nor shall any man be
+compelled to send his child to any school to which he may be conscientiously opposed; and the
+civil rights, privileges or capacities of no person shall be taken away, or in any way diminished or
+enlarged, on account of his belief or disbelief of any religious tenet, dogma or teaching. No human
+authority shall, in any case whatever, control or interfere with the rights of conscience.
+*** SEND ***
+
+*** SSTART 006.0 9002.0 0 KY 1890 ***
+SEC. 6. All elections shall be free and equal.
+*** SEND ***
+
+*** SSTART 007.0 9002.0 0 KY 1890 ***
+SEC. 7. The ancient mode of trial by jury shall be held sacred, and the right thereof remain
+inviolate, subject to such modifications as may be authorized by this Constitution.
+*** SEND ***
+
+*** SSTART 008.0 9002.0 0 KY 1890 ***
+SEC. 8. Printing presses shall be free to every person who undertakes to examine the proceedings
+of the General Assembly or any branch of government, and no law shall ever be made to restrain
+the right thereof. Every person may freely and fully speak write and print on any subject, being
+responsible for the abuse of that liberty.
+*** SEND ***
+
+*** SSTART 009.0 9002.0 0 KY 1890 ***
+SEC. 9. In prosecutions for the publication of papers investigating the official conduct of officers
+or men in a public capacity, or where the matter published is proper for public information, the
+truth thereof may be given in evidence; and in all indictments for libel the jury shall have the right
+to determine the law and the facts, under the direction of the court, as in other cases.
+*** SEND ***
+
+*** SSTART 010.0 9002.0 0 KY 1890 ***
+SEC. 10. The people shall be secure in their persons, houses, papers and possessions, from
+unreasonable search and seizure; and no warrant shall issue to search any place, or seize any
+person or thing, without describing them as nearly as may be, nor without probable cause
+supported by oath or affirmation.
+*** SEND ***
+
+*** SSTART 011.0 9002.0 0 KY 1890 ***
+SEC. 11. In all criminal prosecutions the accused has the right to be heard by himself and counsel;
+to demand the nature and cause of the accusation against him; to meet the witnesses face to face,
+and to have compulsory process for obtaining witnesses in his favor. He can not be compelled to
+give evidence against himself, nor can he be deprived of his life, liberty or property, unless by the
+judgment of his peers or the law of the land; and in prosecutions by indictment or information, he
+shall have a speedy public trial by an impartial jury of the vicinage; but the General Assembly may
+provide by general law for a change of venue in such prosecutions for both the defendant and the
+Commonwealth, the change to be made to the most convenient county in which a fair trial can be
+obtained.
+*** SEND ***
+
+*** SSTART 012.0 9002.0 0 KY 1890 ***
+SEC. 12. No person, for an indictable offense, shall be proceeded against criminally by
+information, except in cases arising in the land or naval forces, or in the militia, when in actual
+service in time of war or public danger, or by leave of court for oppression or misdemeanor in
+office.
+*** SEND ***
+
+*** SSTART 013.0 9002.0 0 KY 1890 ***
+SEC. 13. No person shall, for the same offense, be twice put in jeopardy of his life or limb, nor
+shall any man's property be taken or applied to public use without the consent of his
+representatives, and without just compensation being previously made to him.
+*** SEND ***
+
+*** SSTART 014.0 9002.0 0 KY 1890 ***
+SEC. 14. All courts shall be open and every person for an injury done him in his lands, goods,
+person or reputation, shall have remedy by due course of law, and right and justice administered
+without sale, denial or delay.
+*** SEND ***
+
+*** SSTART 015.0 9002.0 0 KY 1890 ***
+SEC. 15. No power to suspend laws shall be exercised, unless by the General Assembly or its
+authority.
+*** SEND ***
+
+*** SSTART 016.0 9002.0 0 KY 1890 ***
+SEC. 16 All prisoners shall be bailable by sufficient securities, unless for capital offenses when the
+proof is evident or the presumption great; and the privilege of the writ of habeas corpus shall not
+be suspended unless when, in case of rebellion or invasion, the public safety may require it.
+*** SEND ***
+
+*** SSTART 017.0 9002.0 0 KY 1890 ***
+SEC. 17. Excessive bail shall not be required., nor excessive fines imposed, nor cruel punishment
+inflicted.
+*** SEND ***
+
+*** SSTART 018.0 9002.0 0 KY 1890 ***
+
+SEC. 18. The person of a debtor, where there is not strong presumption of fraud, shall not be
+continued in prison after delivering up his estate for the benefit of his creditors in such manner as
+shall be prescribed by law.
+*** SEND ***
+
+*** SSTART 019.0 9002.0 0 KY 1890 ***
+SEC. 19. No ex post facto law, nor any law impairing the obligation of contracts, shall be enacted.
+*** SEND ***
+
+*** SSTART 020.0 9002.0 0 KY 1890 ***
+SEC. 20. No person shall be attainted of treason or felony by the General Assembly, and no
+attainder shall work corruption of blood, nor, except during the life of the offender, forfeiture of
+estate to the Commonwealth.
+*** SEND ***
+
+*** SSTART 021.0 9002.0 0 KY 1890 ***
+SEC. 21. The estate of such persons as shall destroy their own lives shall descend or vest as in
+cases of natural death; and if any person shall be killed by casualty, there shall be no forfeiture by
+reason thereof.
+*** SEND ***
+
+*** SSTART 022.0 9002.0 0 KY 1890 ***
+SEC. 22. No standing army shall, in time of peace, be maintained without the consent of the
+General Assembly; and the military shall, in all cases and at all times, be in strict subordination to
+the civil power; nor shall any soldier, in time of peace, be quartered in any house without the
+consent of the owner, nor in time of war, except in a manner prescribed by law.
+*** SEND ***
+
+*** SSTART 023.0 9002.0 0 KY 1890 ***
+SEC. 23. The General Assembly shall not grant any title of nobility or hereditary distinction, nor
+create any office, the appointment of which shall be for a longer time than a term of years.
+*** SEND ***
+
+*** SSTART 024.0 9002.0 0 KY 1890 ***
+SEC. 24. Emigration from the State shall not be prohibited.
+*** SEND ***
+
+*** SSTART 025.0 9002.0 0 KY 1890 ***
+SEC. 25. Slavery and involuntary servitude in this State are forbidden, except as a punishment for
+crime, whereof the party shall have been duly convicted.
+*** SEND ***
+
+*** SSTART 026.0 9002.0 0 KY 1890 ***
+SEC. 26. To guard against transgression of the high powers which we have delegated, WE
+DECLARE that every thing in this Bill of Rights is excepted out of the general powers of
+government, and shall forever remain inviolate; and all laws contrary thereto, or contrary to this
+Constitution, shall be void.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9021.0 KY 1890 ***
+DISTRIBUTION OF THE POWERS OF GOVERNMENT
+
+*** SSTART 027.0 9021.0 0 KY 1890 ***
+SEC. 27. The powers of the government of the Commonwealth of Kentucky shall be divided into
+three distinct departments, and each of them be confined to a separate body of magistracy, to-wit:
+Those which are legislative, to one; those which are executive, to another; and those which are
+judicial, to another.
+*** SEND ***
+
+*** SSTART 028.0 9021.0 0 KY 1890 ***
+SEC. 28. No person or collection of persons, being of one of those departments, shall exercise
+any power properly belonging either of the others, except in the instances hereinafter expressly
+directed or permitted.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9005.0 KY 1890 ***
+LEGISLATIVE DEPARTMENT
+
+*** SSTART 029.0 9005.0 0 KY 1890 ***
+SEC. 29. The legislative power shall be vested in a House of Representatives and a Senate, which,
+together, shall be styled the "General Assembly of the Commonwealth of Kentucky."
+*** SEND ***
+
+*** SSTART 030.0 9005.0 0 KY 1890 ***
+SEC. 30. Members of the House of Representatives and Senators elected at the August election in
+one thousand eight hundred and ninety-one, and Senators then holding over, shall continue in
+office until and including the last day of December, one thousand eight hundred and ninety-three.
+Thereafter the term of office of Representatives and Senators shall begin upon the first day of
+January of the year succeeding their election.
+*** SEND ***
+
+*** SSTART 031.0 9005.0 0 KY 1890 ***
+SEC. 31. At the general election in the year one thousand eight hundred and ninety-three one
+Senator shall be elected in each Senatorial District, and one Representative in each Representative
+District. The Senators then elected shall hold their offices, one-half for two years and one-half for
+four years, as shall be determined by lot at the first session of the General Assembly after their
+election, and the Representatives shall hold their offices for two years. Every two years thereafter
+there shall be elected for four years one Senator in each Senatorial District in which the term of
+his predecessor in office will then expire, and in every Representative District one Representative
+for two years.
+*** SEND ***
+
+*** SSTART 032.0 9005.0 0 KY 1890 ***
+SEC. 32. No person shall be a Representative who, at the time of his election, is not a citizen of
+Kentucky, has not attained the age of twenty-four years, and who has not resided in this State two
+years next preceding his election, and the last year thereof in the county, town or city for which he
+may be chosen. No person shall be a Senator who, at the time of his election, is not a citizen of
+Kentucky, has not attained the age of thirty years, and has not resided in this State six years next
+preceding his election, and the last year thereof in the district for which he may be chosen.
+*** SEND ***
+
+*** SSTART 033.0 9005.0 0 KY 1890 ***
+SEC. 33. The first General Assembly after the adoption of this Constitution shall divide the State
+into thirty-eight Senatorial districts, and one hundred representative districts, as nearly equal in
+population as may be without dividing any county, except where a county may include more than
+one district, which districts shall constitute the Senatorial and Representative districts for ten
+years. Not more than two counties shall be joined together to form a Representative district:
+Provided, In doing so the principle requiring every district to be as nearly equal in population as
+may be shall not be violated. At the expiration of that time, the General Assembly shall then, and
+every ten years thereafter, redistrict the State according to this rule, and for the purposes
+expressed in this section. If, in making said districts, inequality of population should be
+unavoidable, any advantage resulting therefrom shall be given to districts having the largest
+territory. No part of a county shall be added to another county to make a district and the counties
+forming a district shall be contiguous.
+*** SEND ***
+
+*** SSTART 034.0 9005.0 0 KY 1890 ***
+SEC. 34. The House of Representatives shall choose its Speaker and other officers, and the
+Senate shall have power to choose its officers biennially.
+*** SEND ***
+
+*** SSTART 035.0 9005.0 0 KY 1890 ***
+SEC. 35. The number of Representatives shall be one hundred, and the number of Senators thirty-
+eight.
+*** SEND ***
+
+*** SSTART 036.0 9005.0 0 KY 1890 ***
+SEC. 36. The first General Assembly, the members of which shall be elected under this
+Constitution, shall meet on the first Tuesday after the first Monday in January eighteen hundred
+and ninety-four, and thereafter the General Assembly shall meet on the same day every second
+year, and its sessions shall be held at the seat of government, except in case of war, insurrection or
+pestilence, when it may, by proclamation of the Governor, assemble for the time being, elsewhere.
+*** SEND ***
+
+*** SSTART 037.0 9005.0 0 KY 1890 ***
+SEC. 37. Not less than a majority of the members of each House of the General Assembly shall
+constitute a quorum to do business but a smaller number may adjourn from day to day, and shall
+be authorized by law to compel the attendance of absent members in such manner and under such
+penalties as may be prescribed by law.
+*** SEND ***
+
+*** SSTART 038.0 9005.0 0 KY 1890 ***
+SEC. 38. Each House of the General Assembly shall judge of the qualifications, elections and
+returns of its members, but a contested election shall be determined in such manner as shall be
+directed by law.
+*** SEND ***
+
+*** SSTART 039.0 9005.0 0 KY 1890 ***
+SEC. 39. Each House of the General Assembly may determine the rules of its proceedings, punish
+a member for disorderly behavior, and, with the concurrence of two-thirds, expel a member, but
+not a second time for the same cause, and may punish for contempt any person who refuses to
+attend as a witness or to bring any paper proper to be used as evidence before the General
+Assembly, or either House thereof, or a Committee of either or to testify concerning any matter
+which may be a proper subject of inquiry by the General Assembly, or offers or gives a bribe to a
+member of the General Assembly, or attempts by other corrupt means or device to control or
+influence a member to cast his vote or withhold the same. The punishment, and mode of
+proceeding for contempt in such cases shall be prescribed by law, but the term of imprisonment in
+any such case shall not extend beyond the session of the General Assembly.
+*** SEND ***
+
+*** SSTART 040.0 9005.0 0 KY 1890 ***
+SEC. 40. Each House of the General Assembly shall keep and publish daily a journal of its
+proceedings; and the yeas and nays or the members on any question shall, at the desire of any two
+of the members elected, be entered on the journal.
+*** SEND ***
+
+*** SSTART 041.0 9005.0 0 KY 1890 ***
+SEC. 41. Neither House, during the session of the General Assembly, shall, without the consent
+of the other, adjourn for more than three days, nor to any other place than that in which it may be
+sitting.
+*** SEND ***
+
+*** SSTART 042.0 9005.0 0 KY 1890 ***
+SEC 42. The members of the General Assembly shall severally receive from the State Treasury
+compensation for their services, which shall be five dollars a day, during their attendance on and
+fifteen cents per mile for the necessary travel in going to and returning from, the sessions of their
+respective Houses: Provided, The same may be changed by law; but no change shall take effect
+during the session at which it is made; nor shall a session of the General Assembly continue
+beyond sixty legislative days, exclusive of Sundays and legal holidays; but this limitation as to
+length of session shall not apply to the first session held under this Constitution, nor to the Senate
+when sitting as a court of impeachment. A legislative day shall be construed to mean a calendar
+day.
+*** SEND ***
+
+*** SSTART 043.0 9005.0 0 KY 1890 ***
+SEC. 43. The members of the General Assembly shall. in all cases except treason, felony, breach
+or surety of the peace, be privileged from arrest during their attendance on the sessions of their
+respective Houses, and in going to and returning from the same; and for any speech or debate in
+either House they shall not be questioned in any other place.
+*** SEND ***
+
+*** SSTART 044.0 9005.0 0 KY 1890 ***
+SEC. 44. No Senator or Representative shall, during the term for which he was elected, nor for
+one year thereafter, be appointed or elected to any civil office of profit in this Commonwealth,
+which shall have been created, or the emoluments of which shall have been increased, during the
+said term, except to such offices as may be filled by the election of the people.
+*** SEND ***
+
+*** SSTART 045.0 9005.0 0 KY 1890 ***
+SEC. 45. No person who may have been a collector of taxes or public moneys for the
+Commonwealth, or for any county, city, town or district, or the assistant or deputy of such
+collector, shall be eligible to the General Assembly, unless he shall have obtained a quietus six
+months before the election for the amount of such collection, and for all public moneys for which
+he may have been responsible.
+*** SEND ***
+
+*** SSTART 046.0 9005.0 0 KY 1890 ***
+SEC. 46. No bill shall be considered for final passage, unless the same has been reported by a
+Committee and printed for the use of the members. Every bill shall be read at length on three
+different days in each House: but the second and third readings may be dispensed with by a
+majority of all the members elected to the House in which the bill is pending. But whenever a
+Committee refuses or fails to report a bill submitted to it in a reasonable time, the same may be
+called up by any member, and be considered in the same manner it would have been considered if
+it had been reported. No bill shall become a law unless, on its final passage, it receives the votes
+of at least two-fifths of the members elected to each House, and a majority of the members
+voting, the vote to be taken by yeas and nays and entered in the journal; Provided, Any act or
+resolution for the appropriation of money or the creation of debt shall, on its final passage, receive
+the votes of a majority of all the members elected to each House.
+*** SEND ***
+
+*** SSTART 047.0 9005.0 0 KY 1890 ***
+SEC. 47. All bills for raising revenue shall originate in the House of Representatives, but the
+Senate may propose amendments thereto; Provided, No new matter shall be introduced, under
+color of amendment, which does not relate to raising revenue.
+*** SEND ***
+
+*** SSTART 048.0 9005.0 0 KY 1890 ***
+SEC. 48. The General Assembly shall have no power to enact laws to diminish the resources of
+the Sinking Fund as now established by law until the debt of the Commonwealth be paid, but may
+enact laws to increase them; and the whole resources of said fund, from year to year, shall be
+sacredly set apart and applied to the payment of the interest and principal of the State debt, and to
+no other use or purpose, until the whole debt of the State is fully satisfied.
+*** SEND ***
+
+*** SSTART 049.0 9005.0 0 KY 1890 ***
+SEC. 49. The General Assembly may contract debts to meet casual deficits or failures in the
+revenue; but such debts, direct or contingent, singly or in the aggregate, shall not at any time
+exceed five hundred thousand dollars,_and the moneys arising from loans creating such debts shall
+be applied only to the purpose or purposes for which they were obtained, or to repay such debts:
+Provided, The General Assembly may contract debts to repel invasion, suppress insurrection, or,
+if hostilities are threatened, provide for the public defense.
+*** SEND ***
+
+*** SSTART 050.0 9005.0 0 KY 1890 ***
+SEC. 50. No act of the General Assembly shall authorize any debt to be contracted on behalf of
+the Commonwealth except for the purposes mentioned in section forty-nine, unless provision be
+made therein to levy and collect an annual tax sufficient to pay the interest stipulated, and to
+discharge the debt within thirty years; nor shall such act take effect until it shall have been
+submitted to the people at a general election, and shall have received a majority of all the votes
+cast for and against it: Provided, The General Assembly may contract debts by borrowing money
+to pay any part of the debt of the State, without submission to the people, and without making
+provision in the act authorizing the same for a tax to discharge the debt so contracted, or the
+interest thereon.
+*** SEND ***
+
+*** SSTART 051.0 9005.0 0 KY 1890 ***
+SEC. 51. No law enacted by the General Assembly shall relate to more than one subject, and that
+shall be expressed in the title, and no law shall be revised, amended, or the provisions thereof
+extended or conferred by reference to its title only, but so much thereof as is revised, amended,
+extended or conferred, shall be reenacted and published at length.
+*** SEND ***
+
+*** SSTART 052.0 9005.0 0 KY 1890 ***
+SEC. 52. The General Assembly shall have no power to release, extinguish, or authorize the
+releasing or extinguishing, in whole or in part, the indebtedness or liability of any corporation or
+individual to this Commonwealth, or to any county or municipality thereof.
+*** SEND ***
+
+*** SSTART 053.0 9005.0 0 KY 1890 ***
+SEC. 53. The General Assembly shall provide by law for monthly investigations into the accounts
+of the Treasurer and Auditor of Public Accounts, and the result of these investigations shall be
+reported to the Governor, and these reports shall be semi-annually published in two newspapers
+of general circulation in. the State. The reports received by the Governor shall, at the beginning of
+each session be transmitted by him to the General Assembly for scrutiny and appropriate action.
+*** SEND ***
+
+*** SSTART 054.0 9005.0 0 KY 1890 ***
+SEC. 54. The General Assembly shall have no power to limit the amount to be recovered for
+injuries resulting in death, or for injuries to person or property.
+*** SEND ***
+
+*** SSTART 055.0 9005.0 0 KY 1890 ***
+SEC. 55. No act, except general appropriation bills, shall become a law until ninety days after the
+adjournment of the session at which it was passed, except in cases of emergency, when, by the
+concurrence of a majority of the members elected to each House of the General Assembly, by a
+yea and nay vote entered upon their journals, an act may become a law when approved by the
+Governor; but the reasons for the emergency that justifies this action must be set out at length in
+the journal of each House.
+*** SEND ***
+
+*** SSTART 056.0 9005.0 0 KY 1890 ***
+SEC. 56. No bill shall become a law until the same shall have been signed by the presiding officer
+of each of the two Houses in open session; and before such officer shall have affixed his signature
+to any bill, he shall suspend all other business, declare that such bill will now be read, and that he
+will sign the same to the end that it may become a law. The bill shall then be read at length and
+compared; and., if correctly enrolled, he shall, in presence of the House in open session, and
+before any other business is entertained, affix his signature, which fact shall be noted in the
+journal, and the bill immediately sent to the other House. When it reaches the other House, the
+presiding officer thereof shall immediately suspend all other business, announce the reception of
+the bill and the same proceeding shall thereupon be observed in every respect as in the House in
+which it was first signed. And thereupon the Clerk of the latter House shall immediately present
+the same to the Governor for his signature and approval.
+*** SEND ***
+
+*** SSTART 057.0 9005.0 0 KY 1890 ***
+SEC. 57. A member who has a personal or private interest in any measure or bill proposed or
+pending before the General Assembly, shall disclose the fact to the House of which he is a
+member, and shall not vote thereon upon pain of expulsion.
+*** SEND ***
+
+*** SSTART 058.0 9005.0 0 KY 1890 ***
+SEC. 58. The General Assembly shall neither audit nor allow any private claim against the
+Commonwealth, except for expenses incurred during the session at which the same was allowed;
+but may appropriate money to pay such claim as shall have been audited and allowed according to
+law.
+*** SEND ***
+
+*** SSTART 059.0 9005.0 0 KY 1890 ***
+LOCAL AND SPECIAL LEGISLATION
+SEC. 59. The General Assembly shall not pass local or special acts concerning any of the
+following subjects, or for any of the following purposes, namely:
+
+First: To regulate the jurisdiction, or the practice, or the circuits of courts of justice, or the rights,
+powers, duties or compensation of the officers thereof; but the practice in circuit courts in
+continuous session may, by a general law, be made different from the practice of circuit courts
+held in terms.
+Second: To regulate the summoning, impaneling or compensation of grand or petit jurors.
+Third: To provide for changes of venue in civil or criminal causes.
+Fourth: To regulate the punishment of crimes and misdemeanors, or to remit fines, penalties or
+forfeitures.
+Fifth: To regulate the limitation of civil or criminal causes.
+Sixth: To affect the estate of cestuis que trust, decedents, infants or other persons under
+disabilities, or to authorize any such persons to sell, lease, encumber or dispose of their property.
+Seventh: To declare any person of age, or to relieve an infant or feme covert of disability, or to
+enable him to do acts allowed only to adults not under disabilities.
+Eighth: To change the law of descent, distribution or succession.
+Ninth: To authorize the adoption or legitimation of children.
+Tenth: To grant divorces.
+Eleventh: To change the name of persons.
+Twelfth: To give effect to invalid deeds, wills or other instruments.
+Thirteenth: To legalize, except as against the Commonwealth, the unauthorized or invalid act of
+any other or public agent of the Commonwealth, or of any city, county or municipality thereof.
+Fourteenth: To refund money legally paid into the State Treasury.
+Fifteenth: To authorize or to regulate the levy, the assessment or the collection of taxes, or to
+give any indulgence or discharge to any assessor or collector of taxes, or to his sureties.
+Sixteenth: To authorize the opening, altering, maintaining or vacating roads, highways, streets,
+alleys, town plats, cemeteries, graveyards, or public grounds not owned by the Commonwealth.
+Seventeenth: To grant a charter to any corporation, or to amend the charter of any existing
+corporation; to license companies or persons to own or operate ferries, bridges, roads or
+turnpikes; to declare streams navigable, or to authorize the construction of booms or dams
+therein, or to remove obstructions therefrom; to affect, toll-gates, or to regulate tolls; to regulate
+fencing or the running at large of stock.
+Eighteenth: To create, increase or decrease fees percentages or allowances to public officers, or
+to extend the time for the collection thereof, or to authorize officers to appoint deputies.
+Nineteenth: To give any person or corporation the right to lay a railroad track or tramway, or to
+amend existing charters for such purposes.
+Twentieth: To provide for conducting elections, or for designating the places of voting, or
+changing the boundaries of wards, precincts or districts, except when new counties may be
+created.
+Twenty-first: To regulate the rate of interest.
+Twenty-second: To authorize the creation, extension, enforcement, impairment or release of liens.
+Twenty-third: To provide for the protection of game and fish.
+Twenty-fourth: To regulate labor, trade, mining or manufacturing.
+Twenty-fifth: To provide for the management of common schools.
+Twenty-sixth: To locate or change a county seat.
+Twenty-seventh: To provide a means of taking the sense of the people or any city, town, district,
+precinct, or county, whether they wish to authorize, regulate or prohibit therein the sale of vinous,
+spirituous or malt liquors, or alter the liquor laws.
+Twenty-eighth: Restoring to citizenship persons convicted of infamous crimes.
+Twenty-ninth: In all other cases where a general law can be made applicable, no special law shall
+be enacted.
+*** SEND ***
+
+*** SSTART 060.0 9005.0 0 KY 1890 ***
+SEC.60. The General Assembly shall not indirectly enact any special or local act by the repeal in
+part of a general act, or by exempting from the operation of a general act any city, town, district
+or county; but laws repealing local or special acts may be enacted. No law shall be enacted
+granting powers or privileges in any case where the granting power of powers or privileges shall
+have been provided for by a general law, nor where the Courts have jurisdiction to grant the same
+or to give the relief asked for. No law, except such as relates to the sale, loan or gift of vinous,
+spirituous or malt liquors, bridges, turnpikes, or other public roads, public buildings or
+improvements, fencing, running at large of stock, matters pertaining to common schools, paupers,
+and the regulation by counties, cities, towns or other municipalities of their local affairs, shall be
+enacted to take effect upon the approval of any other authority than the General Assembly, unless
+otherwise expressly provided in this Constitution.
+*** SEND ***
+
+*** SSTART 061.0 9005.0 0 KY 1890 ***
+SEC. 61. The General Assembly shall by general law, provide a means whereby the sense of the
+people of any county, city, town, district or precinct may be taken, as to whether or not
+spirituous, vinous or malt liquors shall be sold, bartered or loaned therein, or the sale thereof
+regulated. But nothing herein shall be construed to interfere with or to repeal any law in force
+relating to the sale or gift of such liquors. All elections on this question may be held on a day
+other than the regular election days.
+*** SEND ***
+
+*** SSTART 062.0 9005.0 0 KY 1890 ***
+SEC. 62. Style of the laws of this Commonwealth shall be as follows: "Be it enacted by the
+General Assembly of the Commonwealth of Kentucky."
+*** SEND ***
+
+
+*** SSTART 063.0 9005.0 0 KY 1890 ***
+COUNTIES AND COUNTY SEATS
+SEC. 63. No new county shall be created by the General Assembly which will reduce the county
+or counties, or either of them, from which it shall be taken, to less area than four hundred square
+miles; nor shall any county be formed of less area, nor shall any boundary line thereof pass within
+less than ten miles of any county seat of the county or counties proposed to be divided. Nothing,
+contained herein shall prevent the General Assembly from abolishing any county.
+*** SEND ***
+
+*** SSTART 064.0 9005.0 0 KY 1890 ***
+SEC. 64. No county shall be divided, or have any part stricken therefrom, except in the formation
+of new counties, without submitting the question to a vote of the people of the county, nor unless
+the majority of all the legal voters of the county voting on the question shall vote for the same.
+The county seat of no county as now located, or as may hereafter be located, shall be moved,
+except upon a vote of two-thirds of those voting; nor shall any new county be established which
+will reduce any county to less than twelve thousand inhabitants, nor shall any county be created
+containing a less population.
+*** SEND ***
+
+*** SSTART 065.0 9005.0 0 KY 1890 ***
+SEC. 65. There shall be no territory stricken from any county unless a majority of them in such
+territory shall petition for such division. But the portion so stricken off and added to another
+county, or formed in whole or in part into a new county, shall be bound for its proportion of the
+indebtedness of the county from which it has been taken.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9009.0 KY 1890 ***
+IMPEACHMENTS
+
+*** SSTART 066.0 9009.0 0 KY 1890 ***
+SEC. 66. The House of Representatives shall have the sole power of impeachment.
+*** SEND ***
+
+*** SSTART 067.0 9009.0 0 KY 1890 ***
+SEC. 67. All impeachments shall be tried by the Senate. When sitting for that purpose, the
+Senators shall be upon oath or affirmation. No person shall be convicted without the concurrence
+of two-thirds of the Senators present.
+*** SEND ***
+
+*** SSTART 068.0 9009.0 0 KY 1890 ***
+SEC. 68. The Governor and all civil officers shall be liable to impeachment for any misdemeanors
+in office; but judgment in such cases shall not extend further than removal from office, and
+disqualification to hold any office of honor, trust or profit under this Commonwealth; but the
+party convicted shall, nevertheless, be subject and liable to indictment, trial and punishment by
+law.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9004.0 KY 1890 ***
+THE EXECUTIVE DEPARTMENT
+
+*** SSTART 069.0 9004.0 0 KY 1890 ***
+OFFICERS FOR THE STATE AT LARGE
+SEC. 69. The supreme executive power of the Commonwealth shall be vested in a Chief
+Magistrate, who shall be styled the "Governor of the Commonwealth of Kentucky."
+*** SEND ***
+
+*** SSTART 070.0 9004.0 0 KY 1890 ***
+SEC. 70. He shall be elected for the term of four years by the qualified voters of the State. The
+person having the highest number of votes shall be Governor; but if two or more shall be equal
+and highest in votes, the election shall be determined by lot in such manner as the General
+Assembly may direct.
+*** SEND ***
+
+*** SSTART 071.0 9004.0 0 KY 1890 ***
+SEC. 71. He shall be ineligible for the succeeding four years after the expiration of the term for
+which he shall have been elected.
+*** SEND ***
+
+*** SSTART 072.0 9004.0 0 KY 1890 ***
+SEC. 72. He shall be at least thirty years of age, and have been a citizen and a resident of
+Kentucky for at least six years next preceding his election.
+*** SEND ***
+
+*** SSTART 073.0 9004.0 0 KY 1890 ***
+SEC. 73. He shall commence the execution of the duties of his office on the fifth Tuesday
+succeeding his election, and shall continue in the execution thereof until his successor shall have
+qualified.
+*** SEND ***
+
+*** SSTART 074.0 9004.0 0 KY 1890 ***
+SEC. 74. He shall at stated times receive for his services a compensation to be fixed by law.
+*** SEND ***
+
+*** SSTART 075.0 9004.0 0 KY 1890 ***
+SEC. 75. He shall be Commander-in-Chief of the army and navy of this Commonwealth, and of
+the militia thereof, except when they shall be called into the service of the United States; but he
+shall not command personally in the field, unless advised so to do by a resolution of the General
+Assembly.
+*** SEND ***
+
+*** SSTART 076.0 9004.0 0 KY 1890 ***
+SEC. 76. He shall have the. power, except as otherwise provided in this Constitution, to fill
+vacancies by granting commissions, which shall expire when such vacancies shall have been filled 
+according to the provisions of this Constitution.
+*** SEND ***
+
+*** SSTART 077.0 9004.0 0 KY 1890 ***
+SEC. 77. He shall have power to remit fines and forfeitures, commute sentences, grant reprieves
+and pardons, except in case of impeachment, and he shall file with each application therefor a
+statement of the reasons for his decision thereon, which application and statement shall always be
+open to public inspection. In cases of treason, he shall have power to grant reprieves until the end
+of the next session of the General Assembly' in which the power of pardoning shall be vested; but
+he shall have no power to remit the fees of the Clerk, Sheriff, or Commonwealth's Attorney in
+penal or criminal cases.
+*** SEND ***
+
+*** SSTART 078.0 9004.0 0 KY 1890 ***
+SEC. 78. He may require information in writing from the officers of the Executive Department
+upon any subject relating to the duties of their respective offices.
+*** SEND ***
+
+*** SSTART 079.0 9004.0 0 KY 1890 ***
+SEC. 79. He shall, from time to time, give to the General Assembly of the state of the Common
+wealth, and recommend to their consideration such measures as he may deem expedient.
+*** SEND ***
+
+*** SSTART 080.0 9004.0 0 KY 1890 ***
+SEC. 80. He may, on extraordinary occasions, convene the General Assembly at the seat of
+Government, or at a different place, of that should have become dangerous from an enemy or
+from contagious diseases. In case of disagreement between the two Houses with respect to the
+time of adjournment, he may adjourn them to such time is he shall think proper, not exceeding
+four months. When he shall convene the General Assembly it shall be by proclamation, stating the
+subjects to be considered, and no others shall be considered.
+*** SEND ***
+
+*** SSTART 081.0 9004.0 0 KY 1890 ***
+SEC. 81. He shall take care that the laws be faithfully executed.
+*** SEND ***
+
+*** SSTART 082.0 9004.0 0 KY 1890 ***
+SEC. 82. A Lieutenant-Governor shall be chosen at every regular election for Governor, in the
+same manner, to continue in office for the same time, and possess the same qualifications as the
+Governor. He shall be ineligible to the office of Lieutenant- Governor for the succeeding four
+years after the expiration of the term for which he shall have been elected.
+*** SEND ***
+
+*** SSTART 083.0 9004.0 0 KY 1890 ***
+SEC. 83. He shall, by virtue of his office, be President of the Senate, have a right, when in
+Committee of the Whole, to debate and vote on all subjects, and when the Senate is equally
+divided, to give the casting vote.
+*** SEND ***
+
+*** SSTART 084.0 9004.0 0 KY 1890 ***
+SEC. 84. Should the Governor be impeached and removed from office, die, refuse to qualify,
+resign, be absent from the State, or be, from any cause, unable to discharge the duties of his
+office, the Lieutenant-Governor shall exercise all the power and authority to the office of
+Governor until another be duly elected and qualified, or the Governor shall return or be able to
+discharge the duties of his office. On the trial of the Governor, the Lieutenant-Governor shall not
+act as President of the Senate or take part in the proceedings, but the Chief Justice of the Court of
+Appeals shall preside 
+during the trial.
+*** SEND ***
+
+*** SSTART 085.0 9004.0 0 KY 1890 ***
+SEC. 85. A President pro tempore of the Senate shall be elected by each Senate as soon after its
+organization as possible, the Lieutenant-Governor vacating his seat as President of the Senate
+until such election. shall be made; and as often as there is a vacancy in the office of President pro
+tempore, another President pro tempore of the Senate shall be elected by the Senate, if in session.
+And if, during the vacancy of the office of Governor, the Lieutenant-Governor shall be impeached
+and removed from office, refuse to qualify, resign, die or be absent from the State, the President
+pro tempore of the Senate shall in like manner administer the government: Provided, Whenever a
+vacancy shall occur in the office of Governor before the first two years of the term shall have
+expired, a new election for Governor shall take place to fill such vacancy.
+*** SEND ***
+
+*** SSTART 086.0 9004.0 0 KY 1890 ***
+SEC. 86. The Lieutenant-Governor, or President pro tempore of the Senate, while he acts as
+President of the Senate, shall receive for his services the same compensation which shall, for the
+same period, be allowed to the Speaker of the House of Representatives, and during the time he
+administers the government as Governor, he shall receive the same compensation which the
+Governor would have received had he been employed in the duties of his office.
+*** SEND ***
+
+*** SSTART 087.0 9004.0 0 KY 1890 ***
+SEC. 87. If the Lieutenant-Governor shall be called upon to administer the government, and shall,
+while in such administration, resign, die or be absent from the State during the recess of the
+General Assembly, if there be no President pro tempore of the Senate, it shall be the duty of the
+Secretary of State, for the time being, to convene the Senate for the purpose of choosing a
+President; and until a President is chosen, the Secretary of State shall administer the government.
+If there be no Secretary of State to perform the duties devolved upon him by this section, or in
+case that officer be absent from the State, then the Attorney-General, for the time being, shall
+convene the Senate for the purpose of choosing a President, and shall administer the government
+until a President is chosen.
+*** SEND ***
+
+*** SSTART 088.0 9004.0 0 KY 1890 ***
+SEC. 88. Every bill which shall have passed the two Houses shall be presented to the Governor. If
+he approve, he shall sign it; but if not, he shall return it, with his objections, to the House in which
+it originated, which shall enter the objections in full upon its journal, and proceed to reconsider it.
+After such reconsideration, a majority of all the members elected to that House shall agree to pass
+it shall be sent, with the objections, to the other House, by the bill, which it shall likewise be
+considered, and if approved by a majority of all the members elected to that House, it shall be a
+law; but in such case the votes of both Houses shall be determined by yeas and nays, and the
+names of the members voting for and against the bill shall be entered upon the journal of each
+House respectively. If any bill shall not be returned by the Governor within ten days (Sundays
+excepted) after it shall have been presented to him, it shall be a law in like manner as if he had
+signed it, unless the General Assembly, by their adjournment, prevent its return, in which case it
+shall be a law, unless disapproved by him within ten days after the adjournment, in which case his
+veto message shall be spread upon the register kept by the Secretary of State. The Governor shall
+have power to disapprove any part or parts of appropriation bills embracing distinct items, and the
+part or parts disapproved shall not become a law unless reconsidered and passed as in case of a
+bill.
+*** SEND ***
+
+*** SSTART 089.0 9004.0 0 KY 1890 ***
+SEC. 89. Every order, resolution or vote, in which the concurrence of both Houses may be
+necessary, except on a question of adjournment, or as otherwise provided in this Constitution,
+shall be presented to the Governor, and, before it shall take effect, be approved by him; or being
+disapproved, shall be repassed by a majority of the members elected to both Houses, according to
+the, rules and limitations prescribed in case of a bill.
+*** SEND ***
+
+*** SSTART 090.0 9004.0 0 KY 1890 ***
+SEC. 90. Contested elections for Governor and Lieutenant-Governor shall be determined by both
+Houses of the General Assembly, according to such regulations as may be established by law.
+*** SEND ***
+
+*** SSTART 091.0 9004.0 0 KY 1890 ***
+SEC. 91. A Treasurer, Auditor of Public Accounts, Register of the Land Office, Commissioner of
+Agriculture, Labor and Statistics, Secretary of State, Attorney-General and Superintendent of
+Public Instruction, shall be elected by the qualified voters of the State at the same time the
+Governor is elected, for the term of four years, each of whom shall be at least thirty years of age
+at the time of his election, and shall have been a resident citizen of the State at least two years
+next before his election. The duties of all these officers shall be such as may be prescribed by law,
+and the Secretary of State shall keep a fair register of and attest All the official acts of the
+Governor, and shall, when required, lay the same and all papers, minutes and vouchers relative
+thereto before either House of the General Assembly. The officers named in this section shall
+enter upon the discharge of their duties the first Monday in January after their election, and shall
+hold their offices until their successors are elected and qualified.
+*** SEND ***
+
+*** SSTART 092.0 9004.0 0 KY 1890 ***
+SEC. 92. The Attorney-General shall have been a practicing lawyer eight years before his election.
+*** SEND ***
+
+*** SSTART 093.0 9004.0 0 KY 1890 ***
+SEC. 93. The Treasurer, Auditor of Public Accounts, Secretary of State, Commissioner of
+Agriculture, Labor and Statistics Attorney-General, Superintendent of Public Instruction and
+Register of the Land Office shall be ineligible to re-election for the succeeding four years after the
+expiration of the term for which they shall have been elected. The duties and responsibilities of
+these officers shall be prescribed by law, and all fees collected by any of said officers shall be
+covered into the treasury. Inferior State officers, not specifically provided for in this Constitution
+may be appointed or elected, in such manner as may be prescribed by law, for a term not
+exceeding four years, and until their successors are appointed or elected and qualified.
+*** SEND ***
+
+*** SSTART 094.0 9004.0 0 KY 1890 ***
+SEC. 94. The General Assembly may provide for the abolishment of the office of the Register of
+the Land Office, to take effect at the end of any term, and shall provide by law for the custody and
+preservation of the papers and records of said office, if the same be abolished.
+*** SEND ***
+
+*** SSTART 095.0 9004.0 0 KY 1890 ***
+SEC. 95. The election under this Constitution for Governor, Lieutenant-Governor, Treasurer,
+Auditor of Public Accounts, Register of the Land Office, Attorney-General, Secretary of State,
+Superintendent of Public Instruction, and Commissioner of Agriculture, Labor and Statistics, shall
+be held on the first Tuesday after the first Monday in November, eighteen hundred and ninety five,
+and the same day every four years thereafter.
+*** SEND ***
+
+*** SSTART 096.0 9004.0 0 KY 1890 ***
+SEC. 96. All the officers mentioned in section ninety-five shall be paid for their services by salary,
+and not otherwise.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9024.0 KY 1890 ***
+
+*** SSTART 097.0 9024.0 0 KY 1890 ***
+OFFICERS FOR DISTRICTS AND COUNTIES
+SEC. 97. At the general election in eighteen hundred and ninety-two there shall be elected in each
+circuit court district a Commonwealth's Attorney, and in each county a clerk of the circuit court,
+who shall enter upon the discharge of the duties of their respective offices on the first Monday in
+January after their election, and shall hold their offices five years, and until their successors are
+elected and qualified. In the year eighteen hundred and ninety-seven, and every six years
+thereafter, there shall be an election in each county for a circuit court clerk, and for a
+Commonwealth's Attorney in each circuit court district, unless that office be abolished, who shall
+hold their respective offices for six years from the first Monday in January after their election, and
+until the election and qualification of their successors.
+*** SEND ***
+
+*** SSTART 098.0 9024.0 0 KY 1890 ***
+SEC. 98. The compensation of the Commonwealth's Attorney shall be by salary and such
+percentage of fines and forfeitures as may be fixed by law, and such salary shall be uniform in so
+far as the same shall be paid out of the State Treasury, and not to exceed the sum of five hundred
+dollars per annum; but any county may make additional compensation, to be paid by said county.
+Should any percentage of fines and forfeitures be allowed by law, it shall not be paid except upon
+such proportion of the fines and forfeitures as have been collected and paid into the State
+Treasury, and not until so collected and paid.
+*** SEND ***
+
+*** SSTART 099.0 9024.0 0 KY 1890 ***
+SEC. 99. There shall be elected in eighteen hundred and ninety-four in each county a judge of the
+County Court, a County Court Clerk, a County Attorney, Sheriff, Jailer, Coroner, Surveyor and
+Assessor, and in each Justice's District one Justice of the Peace and one Constable, who shall
+enter upon the discharge of the duties of their offices on the first Monday in January after their
+election, and continue in office three years, and until the election and qualification of their
+successors; and in eighteen hundred and ninety-seven, and every four years thereafter, there shall
+be an election in each county of the officers mentioned, who shall hold their offices four years
+(from the first Monday in January after their election), and until the election and qualification of
+their successors. The first election of Sheriffs under this Constitution shall be held in eighteen
+hundred and ninety-two, and the Sheriffs then elected shall hold their offices two years, and until
+the election and qualification of their successors. The Sheriffs now in office for their first term
+shall be eligible to re-election in eighteen hundred and ninety-two, and those elected in eighteen
+hundred and ninety-two for the first term shall be eligible to re-election in eighteen hundred and
+ninety-four, but thereafter no sheriff shall be eligible to re-election or to act as deputy for the
+succeeding term. 
+*** SEND ***
+
+*** SSTART 100.0 9024.0 0 KY 1890 ***
+SEC. 100. No person shall be eligible to the offices mentioned in sections ninety-seven and ninety-
+nine who is not at the time of his election twenty-four years of age (except Clerks of County and
+Circuit Courts, who shall be twenty-one years of age), a citizen of Kentucky, and who has not
+resided in the State two years, and one year next preceding his election in the county and district
+in which he is a candidate. No person shall be eligible to the office of Commonwealth's Attorney
+unless he shall have been a licensed practicing lawyer four years. No person shall be eligible to the
+office of County Attorney unless he shall have been a licensed practicing lawyer two years. No
+person shall be eligible to the office of Clerk unless he shall have procured from a Judge of the
+Court of Appeals, or a Judge of a Circuit Court, a certificate that he has been examined by the
+Clerk of his Court under his supervision, and that he is qualified for the office for which he is a
+candidate.
+*** SEND ***
+
+*** SSTART 101.0 9024.0 0 KY 1890 ***
+SEC. 101. Constables shall possess the same qualifications as Sheriffs, and their jurisdiction shall
+be co-extensive with the counties in which they reside. Constables now in office shall continue in
+office until their successors are elected and qualified.
+*** SEND ***
+
+*** SSTART 102.0 9024.0 0 KY 1890 ***
+SEC. 102. When a new county shall be created, officers for the same, to serve until the next
+regular election, shall be elected or appointed in such way and at such times as the General
+Assembly may prescribe.
+*** SEND ***
+
+*** SSTART 103.0 9024.0 0 KY 1890 ***
+SEC. 103. The Judges of County Courts, Clerks, Sheriffs, Surveyors, Coroners, Jailers,
+Constables, and such other officers as the General Assembly may, from time to time, require,
+shall, before they enter upon the duties of their respective offices, and as often thereafter as may
+be deemed proper, give such bond and security as may be prescribed by law.
+*** SEND ***
+
+*** SSTART 104.0 9024.0 0 KY 1890 ***
+SEC. 104. The General Assembly may abolish the office of Assessor and provide that the
+assessment of property shall be made by other officers; but it shall have power to re-establish the
+office, of Assessor and prescribe his duties. No person shall be eligible to the office of Assessor
+two consecutive terms.
+*** SEND ***
+
+*** SSTART 105.0 9024.0 0 KY 1890 ***
+SEC. 105. The General Assembly may, at any time, consolidate the offices of Jailer and Sheriff in
+any county or counties, as it shall deem most expedient; but in the event such consolidation be
+made, the office of Sheriff shall be retained, and the Sheriff shall be required to perform the duties
+of Jailer.
+*** SEND ***
+
+*** SSTART 106.0 9024.0 0 KY 1890 ***
+SEC. 106. The fees of county officers shall be regulated by law. In counties or cities having a
+population of seventy-five thousand or more, the Clerks of the respective courts thereof (except
+the Clerk of the City Court), the Marshals, the Sheriffs and the Jailers, shall be paid out of the
+State Treasury, by salary to be fixed by law, the salaries of said officers and of their deputies and
+necessary office expenses not to exceed seventy-five per centum of the fees collected by said
+officers, respectively, and paid into the Treasury.
+*** SEND ***
+
+*** SSTART 107.0 9024.0 0 KY 1890 ***
+SEC. 107. The General Assembly may provide for the election or appointment, for a term not
+exceeding four years, of such other county or district ministerial and executive officers as may,
+from time to time, be necessary.
+*** SEND ***
+
+*** SSTART 108.0 9024.0 0 KY 1890 ***
+SEC. 108. The General Assembly may, at any time after the expiration of six years from the
+adoption of this Constitution, abolish the office of Commonwealth's Attorney, to take effect upon
+the expiration of the terms of the incumbents in which event the duties of said office shall be
+discharged by the County Attorneys.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9006.0 KY 1890 ***
+THE JUDICIAL DEPARTMENT
+
+*** SSTART 109.0 9006.0 0 KY 1890 ***
+SEC. 109. The judicial power of the Commonwealth, both as to matters of law and equity, shall
+be vested in the Senate when sitting as a court of impeachment, and one Supreme Court (to be
+styled the Court of Appeals) and the courts established by this Constitution.
+*** SEND ***
+
+*** SSTART 110.0 9006.0 0 KY 1890 ***
+COURT OF APPEALS
+SEC. 110. The Court of Appeals shall have appellate jurisdiction only, which shall be co-extensive
+with the State, under such restrictions and regulations not repugnant to this Constitution, as may
+from time to time be prescribed by law. Said court shall have power to issue such writs as may be
+necessary to give it a general control of inferior jurisdictions.
+*** SEND ***
+
+*** SSTART 111.0 9006.0 0 KY 1890 ***
+SEC. 111. The Court of Appeals shall be held at the seat of government; but if that shall become
+dangerous, in case of war, insurrection or pestilence, it may adjourn to meet and transact its
+business at such other place in the State as it may, deem expedient for the time being.
+*** SEND ***
+
+*** SSTART 112.0 9006.0 0 KY 1890 ***
+SEC. 112. The Judges of the Court of Appeals shall severally hold their offices for the term of
+eight years, commencing on the first Monday in January next succeeding their respective
+elections, and until their several successors are qualified, subject to the conditions hereinafter
+prescribed. For any reasonable cause the Governor shall remove them, or any one or more of
+them, on the address of two-thirds of each House of the General Assembly. The cause or causes
+for which said removal shall be required shall be stated at length in such address and in the journal
+of each House. They shall at stated times receive for their services an adequate compensation, to
+be fixed by law.
+*** SEND ***
+
+*** SSTART 113.0 9006.0 0 KY 1890 ***
+SEC. 113. The Court of Appeals shall, after eighteen hundred and ninety-four, consist of not less
+than five nor more than seven Judges. They shall, severally, by virtue of their office, be
+conservators of the peace throughout the State, and shall be commissioned by the Governor.
+*** SEND ***
+
+*** SSTART 114.0 9006.0 0 KY 1890 ***
+SEC. 114. No person shall be eligible to election as a Judge of the Court of Appeals who is not a
+citizen of Kentucky and has not resided in this State five years and in the district in which he is
+elected two years next preceding his election, and who is less than thirty-five years of age, and has
+not been a practicing lawyer eight years, or whose services upon the bench of a Circuit Court or
+court of similar jurisdiction, when added to the time he may have practiced law, shall not be equal
+to eight years.
+*** SEND ***
+
+*** SSTART 115.0 9006.0 0 KY 1890 ***
+SEC. 115. The present Judges of the Court of Appeals shall hold their offices until their
+respective terms expire, and until their several successors shall be qualified; and at the regular
+election next preceding the expiration of the term of each of the present Judges, his successor
+shall be elected. The General Assembly shall, before the regular election in eighteen hundred and
+ninety-four, provide for the election of such Judges of the Court of Appeals, not less than five nor
+exceeding seven, as may be necessary; and if less than seven Judges be provided for, the General
+Assembly may, at any time, increase the number to seven.
+*** SEND ***
+
+*** SSTART 116.0 9006.0 0 KY 1890 ***
+SEC. 116. The Judges of the Court of Appeals shall be elected by districts. The General Assembly
+shall, before the regular election in eighteen hundred and ninety-four, divide the State, by counties
+into as many districts, as nearly equal in population and as compact in form as possible, as it may
+provide shall be the number of Judges of the Court of Appeals; and it may, every ten years
+thereafter, or when the number of Judges requires it, redistrict the State in like manner. Upon the
+creation of new or additional districts, the General Assembly shall designate the year in which the
+first election for a Judge of the Court of Appeals shall be held in each district, so that not more
+than the number of Judges provided for shall be elected, and that no Judge may be deprived of his
+office until the expiration of the term for which he was elected.
+*** SEND ***
+
+*** SSTART 117.0 9006.0 0 KY 1890 ***
+SEC. 117. A majority of the Judges of the Court of Appeals shall constitute a quorum for the
+transaction of business, but in the event as many as two decline, on account of interest or for
+other reason, to preside in the trial of any cause, the Governor, on that fact, being certified to him
+by the Chief Justice, shall appoint to try the particular cause a sufficient number of Judges to
+constitute a full Court. The Judges so appointed shall possess the qualifications prescribed for
+Judges of the Court of Appeals, and receive the same compensation proportioned to the length of
+service.
+*** SEND ***
+
+*** SSTART 118.0 9006.0 0 KY 1890 ***
+
+SEC. 118. The Judge longest in commission as Judge of the Court of Appeals shall be Chief
+Justice, and if the term of service of two or more Judges be the same, they shall determine by lot
+which of their number shall be Chief Justice. The Court shall prescribe by rule that petitions for
+rehearing shall be considered by a Judge who did not deliver the opinion in the case; and the
+Court, if composed of seven Judges, shall divide itself into sections for the transaction of business,
+if, in the judgment of the Court, such arrangement is necessary.
+*** SEND ***
+
+*** SSTART 119.0 9006.0 0 KY 1890 ***
+SEC. 119. The Superior Court shall continue until the terms of the present Judges of said Court
+expire, and upon the expiration of their terms, all causes pending before the Superior Court shall
+be transferred to the Court of Appeals and be determined by it.
+*** SEND ***
+
+*** SSTART 120.0 9006.0 0 KY 1890 ***
+SEC. 120. The present Clerk of the Court of Appeals shall serve until the expiration of the term
+for which he was elected and until his successor is elected and qualified. At the election in the year
+eighteen hundred and ninety-seven there shall be elected by the qualified voters of the State a
+Clerk of the Court of Appeals, who shall take his office the first Monday in September, eighteen
+hundred and ninety-eight, and who shall hold his office until the regular election in nineteen
+hundred and three, and until his successor shall be elected and qualified. In nineteen hundred and
+three and thereafter, the Clerk of the Court of Appeals shall be elected at the same time as the
+Governor for the term of four years, and the said Clerk shall take his office on the first Monday in
+January following his election, and shall hold his office until his successor is elected and qualified.
+The Clerk shall be ineligible for the succeeding term.
+*** SEND ***
+
+*** SSTART 121.0 9006.0 0 KY 1890 ***
+SEC. 121. No person shall be eligible to the office of Clerk of the Court of Appeals unless he is a
+citizen of Kentucky, a resident thereof for two years next preceding his election, of the age of
+twenty-one years, and have a certificate from a Judge of the Court of Appeals that he has been
+examined by him, or by the Clerk of his Court-under his supervision, and that he is qualified for
+the office.
+*** SEND ***
+
+*** SSTART 122.0 9006.0 0 KY 1890 ***
+SEC. 122. Should a vacancy occur in the office of the Clerk of the Court of Appeals, or should
+the Clerk be under charges, the Court of Appeals shall have power to appoint a Clerk until the
+vacancy be filed provided in this Constitution, or until the Clerk be acquitted.
+*** SEND ***
+
+*** SSTART 123.0 9006.0 0 KY 1890 ***
+SEC. 123. The style of process shall be, "The Commonwealth of Kentucky." All prosecutions
+shall be carried on in the name and by the authority of the "Commonwealth of Kentucky," and
+conclude "against the peace and dignity of the same".
+*** SEND ***
+
+*** SSTART 124.0 9006.0 0 KY 1890 ***
+SEC. 124. The Clerks of the Court of Appeals, Circuit and County Courts, shall be removable
+from office by the Court of Appeals, upon information and good cause shown. The Court shall be
+judge of the facts as well as the law. Two-thirds of the members present must concur in the
+sentence.
+*** SEND ***
+
+CIRCUIT COURTS
+
+*** SSTART 125.0 9006.0 0 KY 1890 ***
+SEC. 125. A Circuit Court shall be established in each county now existing, or which may
+hereafter be created, in this Commonwealth.
+*** SEND ***
+
+*** SSTART 126.0 9006.0 0 KY 1890 ***
+SEC. 126. The jurisdiction of said Court shall be and remain as now established, hereby giving to
+the General Assembly the power to change it.
+*** SEND ***
+
+*** SSTART 127.0 9006.0 0 KY 1890 ***
+SEC. 127. The right to appeal or sue out a writ of error shall remain as it now exists until altered
+by law, hereby giving to the General Assembly the power to change or modify said right.
+*** SEND ***
+
+*** SSTART 128.0 9006.0 0 KY 1890 ***
+SEC. 128. At its first session after the adoption of this Constitution, the General Assembly,
+having due regard to territory, business and population, shall divide the State into a sufficient
+number of judicial districts to carry into effect the provisions of this Constitution concerning
+Circuit Courts. In making such apportionment no county shall be divided, and the number of said
+districts, excluding those in counties having a population of one hundred and fifty thousand, shall
+not exceed one district for each sixty thousand of the population of the entire State.
+*** SEND ***
+
+*** SSTART 129.0 9006.0 0 KY 1890 ***
+SEC. 129. The General Assembly shall, at the same time the judicial districts are laid off, direct
+elections to be held in each district to elect a judge therein. The first election of judges of the
+Circuit Courts under this Constitution shall take place at the annual election in the year eighteen
+hundred and ninety-two, and the judges then elected shall enter upon the discharge of the duties
+of their respective offices on the first Monday in January after their election, and hold their offices
+five years, and until their successors are elected and qualified. At the general election in eighteen
+hundred and ninety-seven, and every six years thereafter, there shall be an election for Judges of
+the circuit courts, who shall hold their offices for six years from the first Monday in January
+succeeding their election. They shall be commissioned by the Governor, and continue in office
+until their successors shall have been qualified, but shall be removable in the same manner as the
+Judges of the Court of Appeals. The removal of a Judge from his district shall vacate his office.
+*** SEND ***
+
+*** SSTART 130.0 9006.0 0 KY 1890 ***
+SEC. 130. No person shall be eligible as Judge of the circuit court who is less than thirty-five
+years of age when elected who is not a citizen of Kentucky, and a resident of the district in which
+he may be a candidate two years next receding his election, and who has not been a practicing
+lawyer eight years.
+*** SEND ***
+
+*** SSTART 131.0 9006.0 0 KY 1890 ***
+SEC. 131. There shall at least three regular terms of Circuit Court held in each county every year.
+*** SEND ***
+
+*** SSTART 132.0 9006.0 0 KY 1890 ***
+SEC. 132. The General Assembly, when deemed necessary, may establish additional districts; but
+the whole number of districts, exclusive of counties having a population of one hundred and fifty
+thousand, shall not exceed at any time one for every sixty thousand of population of the State
+according to the last enumeration.
+*** SEND ***
+
+*** SSTART 133.0 9006.0 0 KY 1890 ***
+SEC. 133. The Judges of the Circuit Court shall, at stated times, receive for their services an
+adequate compensation to be fixed by law, which shall be equal and uniform throughout the State,
+so far as the same shall be paid out of the State Treasury.
+*** SEND ***
+
+*** SSTART 134.0 9006.0 0 KY 1890 ***
+SEC. 134. The Judicial Districts of the State shall not be changed except at the first session after
+an enumeration, unless upon the establishment of a new district.
+*** SEND ***
+
+*** SSTART 135.0 9006.0 0 KY 1890 ***
+SEC. 135. No Courts, save those provided for in this Constitution, shall be established.
+*** SEND ***
+
+*** SSTART 136.0 9006.0 0 KY 1890 ***
+SEC. 136. The General Assembly shall provide by law for holding Circuit Courts when, from any
+cause, the Judge shall fail to attend, or, if in attendance, can not properly preside.
+*** SEND ***
+
+*** SSTART 137.0 9006.0 0 KY 1890 ***
+SEC. 137. Each county having a population of one hundred and fifty thousand or over, shall
+constitute a district, which shall be entitled to four Judges.. Additional Judges for said district
+may, from time to time, be authorized by the General Assembly, but not to exceed one Judge for
+each increase of forty thousand of population in said county, to be ascertained by the last
+enumeration Each of the Judges in such a district shall hold a separate court, except when a
+general term may be held for the purpose of making rules of court, or as may be required by law:
+Provided, No general term shall have power to review any order, decision or proceeding of any
+branch of the court in said district made in separate term. There shall be one Clerk for such
+district who shall be known as the Clerk of the Circuit Court. Criminal causes shall be under the
+exclusive jurisdiction of some one branch of said court, and all other litigation in said district, of
+which the Circuit Court may have jurisdiction, shall be distributed as equally as may be between
+the other branches thereof, in accordance with the rules of the court made in general term or as
+may be prescribed by law.
+*** SEND ***
+
+*** SSTART 138.0 9006.0 0 KY 1890 ***
+SEC. 138. Each county having a city of twenty thousand inhabitants, and a population, including
+said city, of forty thousand or more, may constitute a district, and when its population reaches
+seventy-five thousand, the General Assembly may provide that it shall have an additional Judge,
+and such district may have a Judge for each additional fifty thousand population above one
+hundred thousand. And in such counties the General Assembly shall, by proper laws, direct in
+what manner the court shall be held and the business therein conducted.
+*** SEND ***
+
+*** SSTART 139.0 9006.0 0 KY 1890 ***
+QUARTERLY COURTS
+
+SEC. 139. There shall be established in each county now existing, or which may be hereafter
+created, in this State, a Court, to be st led the Quarterly Court, the jurisdiction of which shall be
+uniform throughout the State, and shall be regulated by a general law, and, until changed, shall be
+the same as that now vested by law in the Quarterly Courts of this Commonwealth. The Judges of
+the County Court shall be the Judges of the Quarterly Courts.
+*** SEND ***
+
+*** SSTART 140.0 9006.0 0 KY 1890 ***
+COUNTY COURTS
+ 
+SEC. 140. There shall be established in each county now existing, or which may be hereafter
+created, in this State, a Court to be styled the County Court, to consist of a Judge, who shall be a
+conservator of the peace, and shall receive such compensation for his services as may be
+prescribed by law. He shall be commissioned by the Governor, and shall vacate his office by
+removal from the county in which he may have been elected.
+*** SEND ***
+
+*** SSTART 141.0 9006.0 0 KY 1890 ***
+SEC. 141. The jurisdiction of the County Court shall be uniform throughout the State, and shall
+be regulated by general law, and, until changed, shall be the same as now vested in the County
+Courts of this State by law.
+*** SEND ***
+
+*** SSTART 142.0 9006.0 0 KY 1890 ***
+JUSTICES' COURTS
+
+SEC. 142. Each county now existing, or which may hereafter be created, in this State, shall be laid
+off into districts in such manner as the General Assembly may direct; but no county shall have less
+than three nor more than eight districts, in each of which districts one Justice of the Peace shall be
+elected as provided in section ninety-nine. The General Assembly shall make provisions for
+regulating the number of said districts from time to time within the limits herein prescribed, and
+for fixing the boundaries thereof. The jurisdiction of justices of the Peace shall be co-extensive
+with the county, and shall be equal and uniform throughout the State. Justices of the Peace shall
+be conservators of the peace. They shall be commissioned by the Governor, and shall vacate their
+offices by removal from the districts, respectively, in which they may have been elected.
+*** SEND ***
+
+*** SSTART 143.0 9006.0 0 KY 1890 ***
+POLICE COURTS
+
+SEC. 143. A Police Court may be established in each city and town in this State, with jurisdiction
+in cases of violation of municipal ordinances and by-laws within the corporate limits of the city or
+town, and such criminal jurisdiction within the said limits as Justices of the Peace have. The said
+Courts may be authorized to act as examining Courts, but shall have no civil jurisdiction:
+Provided, The General Assembly may confer civil jurisdiction on Police Courts in cities and towns
+of the fourth and fifth classes and in towns of the sixth class having a population of two hundred
+and fifty or more, which jurisdiction shall be uniform throughout the State, and not exceed that of
+Justices of the Peace.
+*** SEND ***
+
+*** SSTART 144.0 9006.0 0 KY 1890 ***
+FISCAL COURTS
+
+SEC. 144. Counties shall have a Fiscal Court, which may consist of the Judge of the County
+Court and the Justices of the Peace, in which Court the Judge of the County Court shall preside, if
+present; or a county may have three Commissioners, to be elected from the county at large, who,
+together with the Judge of the County Court, shall constitute the Fiscal Court. A majority of the
+members of said Court shall constitute a Court for the transaction of business. But where, for
+county governmental purposes, a city is by law separated from the remainder of the county, such
+Commissioners may be elected from the part of the county outside of such city.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9015.0 KY 1890 ***
+SUFFRAGE AND ELECTIONS
+
+*** SSTART 145.0 9015.0 0 KY 1890 ***
+SEC. 145. Every male citizen of the United States of the age of twenty-one years, who has
+resided in the State one year, and in the county six months, and in the precinct in which he offers
+to vote sixty days, next preceding the election, shall be a voter in said precinct and not elsewhere;
+but the following persons are excepted and shall not have the right to vote:
+
+First. Persons convicted in any court of competent jurisdiction of treason, or felon or bribery in an
+election, or of such high misdemeanor as the General Assembly may declare shall operate as an
+exclusion from the right of suffrage; but persons hereby excluded ma be restored to their civil
+rights by Executive pardon.
+Second. Persons who at the time of the election, are in confinement under the judgment of a court
+for some penal offense.
+Third: Idiots and insane persons.
+*** SEND ***
+
+*** SSTART 146.0 9015.0 0 KY 1890 ***
+SEC. 146. No person in the military, naval or marine service of the United States shall be deemed
+a resident of this State by reason of being stationed within the same.
+*** SEND ***
+
+*** SSTART 147.0 9015.0 0 KY 1890 ***
+SEC. 147. The General Assembly shall provide by law for the registration of all persons entitled
+to vote in cities and towns having a population of five thousand or more; and may provide by
+general law for the registration of other voters in the State. Where registration is required, only
+persons registered shall have the right to vote. The mode of registration shall be prescribed by the
+General Assembly. In all elections b persons in a representative capacity the voting shall be viva
+voce and made a matter of record; but all elections by the people shall be by secret official ballot,
+furnished by public authority to the voters at the polls, and marked by each voter in private at the
+polls, and then and there deposited. The word "Elections" in this section includes the decision of
+questions submitted to the voters, as well as the choice of officers by them. The first General
+Assembly held after the adoption of this Constitution shall pass all necessary laws to enforce this
+provision, and shall provide that persons illiterate, blind, or in any way disabled, may have their
+ballots marked as herein required.
+*** SEND ***
+
+*** SSTART 148.0 9015.0 0 KY 1890 ***
+SEC. 148. Not more than one election each year shall be held in this State or in any city, town,
+district, or county thereof, except as otherwise provided in this Constitution. All elections of
+State, county, city, town or district officers shall be hold on the first Tuesday after the first
+Monday in November, but no officer of any city, town, or county, or of any subdivision thereof,
+except members of municipal legislative boards, shall be elected in the same year in which
+members of the House of Representatives of the United States are elected. District or State
+Officers, including members of the General Assembly, may be elected in the same year in which
+members of the House of Representatives of the United States are elected. All elections by the
+people shall be between the hours of six o'clock A. M. and seven o'clock P. M., but the General
+Assembly may change said hours, and all officers of any election shall be residents and voters in
+the precinct in which they act. The General Assembly shall provide by law that all employers shall
+allow employees, under reasonable regulations,.at least four hours on election days, in which to
+cast their votes.
+*** SEND ***
+
+*** SSTART 149.0 9015.0 0 KY 1890 ***
+SEC. 149. Voters, in all cases except treason, felony, breach or surety of the peace, or violation
+of the election laws, shall be privileged from arrest during their attendance at elections, and while
+they are going to and returning therefrom.
+*** SEND ***
+
+*** SSTART 150.0 9015.0 0 KY 1890 ***
+SEC. 150. Every person shall be disqualified from holding any office of trust or profit for the term
+for which he shall have been elected who shall be convicted of having given, or consented to the
+giving, offer or promise of any money or other thing of value, to procure his election, or to
+influence the vote of any voter at such election; and in any corporation shall, directly or indirectly,
+offer, promise or give, or shall. authorize, directly or indirectly, any person to offer, promise or
+give any money or any thing of value to influence the result of any election in this State, or the
+vote of any voter authorized to vote therein, or who shall afterward reimburse or compensate, in
+any manner whatever, any person who shall have offered, promised or given any money or other
+thing of value to influence the result of any election or the vote of any such voter, such
+corporation if organized under the laws of this Commonwealth, shall, on conviction thereof,
+forfeit its charter and all rights, privileges and immunities thereunder; and if chartered by another
+State and doing business in this State, whether by license, or upon mere sufferance, such
+corporation upon conviction of either of the offenses aforesaid, shall forfeit all right to carry on
+any business in this State; and it shall be the duty of the General Assembly to provide for the
+enforcement of the provisions of this section. All persons shall be excluded from office who have
+been, or shall hereafter be, convicted of a felon, or of such high misdemeanor as may be
+prescribed by law, but such disability may be removed by pardon of the Governor. The privilege
+of free suffrage shall be supported by laws regulating elections, and prohibiting, under adequate
+penalties, all undue influence thereon, from power, bribery, tumult or other improper practices.
+*** SEND ***
+
+*** SSTART 151.0 9015.0 0 KY 1890 ***
+SEC. 151. The General Assembly shall provide suitable means for depriving of office any person
+who, to procure his nomination or election, has, in his canvass or election, been guilty of any
+unlawful use of money, or other thing of value, or has been guilty of fraud, intimidation, bribery,
+or any other corrupt practice, and he shall be held responsible for acts done by others with his
+authority, or ratified by him.
+*** SEND ***
+
+*** SSTART 152.0 9015.0 0 KY 1890 ***
+SEC. 152. Except as otherwise provided in this Constitution, vacancies in all elective offices shall
+be filled by election or appointment, as follows: If the unexpired term will end at the next
+succeeding annual election at which either city, town, county, district, or State officers are to be
+elected, the office shall be filled by appointment for the remainder of the term. If the unexpired
+term will not end at the next succeeding annual election at which either city, town, county,
+district, or State officers are to be elected, and if three months intervene before said succeeding
+annual election at which either city, town, county, district, or State officers are to be elected, the
+office shall be filled by appointment until said election, and then said vacancy shall be filled by
+election for the remainder of the term. If three months do not intervene between the happening of
+said vacancy and the next succeeding election at which city, town, county, district or State
+officers are to be elected, the office shall be filled by appointment until the second succeeding
+annual election at which city, town, county, district or State officers are to be elected; and then, if
+any part of the term remains unexpired, the office shall be filled by election until the regular time
+for the election of officers to fill said offices. Vacancies in all offices for the State at large., or for
+districts larger than a county, shall be filled by appointment of the Governor; all other
+appointments shall be made as may be prescribed by law. No person shall ever be appointed a
+member of the General Assembly, but vacancies therein may be filled at a special election, in such
+manner as may be provided by law.
+*** SEND ***
+
+*** SSTART 153.0 9015.0 0 KY 1890 ***
+SEC. 153. Except as otherwise herein expressly provided, the General Assembly shall have power
+to provide by general law for the manner of voting, for ascertaining the result of elections and
+making due returns thereof, for issuing certificates or commissions to all persons entitled thereto,
+and for the trial of contested elections.
+*** SEND ***
+
+*** SSTART 154.0 9015.0 0 KY 1890 ***
+SEC. 154. The General Assembly shall prescribe such laws as may be necessary for the restriction
+or prohibition of the sale or gift of spirituous, vinous or malt liquors on election days.
+*** SEND ***
+
+*** SSTART 155.0 9015.0 0 KY 1890 ***
+SEC. 155. The provisions of sections one hundred and forty-five to one hundred and fifty-four,
+inclusive, shall not apply to the election of school trustees and other common school district
+elections. Said elections shall be regulated by the General Assembly, except as otherwise provided
+in this constitution.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9017.0 KY 1890 ***
+MUNICIPALITIES.
+
+*** SSTART 156.0 9017.0 0 KY 1890 ***
+SEC. 156. The cities and towns of this Commonwealth, for the purposes of their organization and
+government, shall be divided into six classes. The organization and powers of each class shall be
+defined and provided for by general laws, so that all municipal corporations of the same class shall
+possess the same powers and be subject to the same restrictions. To the first class shall belong
+cities with a population of one hundred thousand or more; to the second class, cities with a
+population of twenty thousand or more, and less than one hundred thousand; to the third class,
+cities with a population of eight thousand or more, and less than twenty thousand; to the fourth
+class, cities and towns with a population of three thousand or more, and less than eight thousand;
+to the fifth class, cities and towns with a population of one thousand or more, and less than three
+thousand; to the sixth class, towns with a population of less than one thousand. The General
+Assembly shall assign the cities and towns of the Commonwealth to the classes to which they
+respectively belong, and change assignments made as the population of said cities and towns may
+increase or decrease, and in the absence of other satisfactory information as to their population,
+shall be governed by the last preceding Federal census in so doing; but no city or town shall be
+transferred from one class to another, except in pursuance of a law previously enacted and
+providing therefor. The General Assembly, by a general law, shall provide how towns may be
+organized, and enact laws for the government of such towns until the same are assigned to one or
+the other of the classes above named; but such assignment shall be made at the first session of the
+General Assembly after the organization of said town or city.
+*** SEND ***
+
+*** SSTART 157.0 9017.0 0 KY 1890 ***
+SEC. 157. The tax rate of cities, towns, counties, taxing districts and other municipalities, for
+other than school purposes, shall not, at any time, exceed the following rates upon the value of
+the taxable property therein, viz: For all towns or cities having a population of fifteen thousand or
+more, one dollar and fifty cents on the hundred dollars; for all towns or cities having less than
+fifteen thousand and not less than ten thousand, one dollar on the hundred dollars; for all towns or
+cities having less than ten thousand, seventy-five cents on the hundred dollars; and for counties
+and taxing districts, fifty cents on the hundred dollars; unless it should be necessary to enable such
+city, town, county, or taxing district to pay the interest on, and provide a sinking fund for the
+extinction of, indebtedness contracted before the adoption of this Constitution. No county, city,
+town, taxing district, or other municipality, shall be authorized or permitted to become indebted,
+in any manner or for any purpose, to an amount exceeding, in any year, the income and revenue
+provided for such year, without the assent of two-thirds of the voters thereof, voting at an
+election to be held for that purpose; and any indebtedness contracted in violation of this section
+shall be void. Nor shall such contract be enforceable by the person with whom made; nor shall
+such municipality ever be authorized to assume the same.
+*** SEND ***
+
+*** SSTART 158.0 9017.0 0 KY 1890 ***
+SEC. 158. The. respective cities, towns, counties, taxing districts, and municipalities shall not be
+authorized or permitted to incur indebtedness to an amount, including existing indebtedness, in
+the aggregate exceeding the following named maximum percentages on the value of the taxable
+property therein, to be estimated by the assessment next before the last assessment previous to the
+incurring of the indebtedness, viz: Cities of the first and second classes, and of the third class
+having a population exceeding fifteen thousand, ten per centum; cities of the third class having a
+population of less than fifteen thousand, and cities and towns of the fourth class, five per centum;
+cities and towns of the fifth and sixth classes, three per centum; and counties, taxing districts and
+other municipalities, two per centum: Provided, Any city, town, county, taxing district or other
+municipality may contract an indebtedness in excess of such limitations when the same has been
+authorized under laws in force prior to the adoption of this Constitution, or when necessary for
+the completion of and payment for a public improvement undertaken and not completed and paid
+for at the time of the adoption of this Constitution: And provided further, If, at the time of the
+adoption of this Constitution, the aggregate indebtedness, bonded or floating of any city, town,
+county, taxing district or other municipality, including that which it has been or may be authorized
+to contract as herein provided, shall exceed the limit herein prescribed, then no such city or town
+shall be authorized or permitted to increase its indebtedness in an amount exceeding two per
+centum and no such county, taxing district or other municipality, in an amount exceeding one per
+centum, in the aggregate upon the value of the taxable property  therein, to be ascertained as
+herein provided, until the aggregate of its indebtedness shall have been reduced below the limit
+herein fixed, and thereafter it shall riot exceed the limit, unless in case of emergency, the public
+health or safety should so require. Nothing herein shall prevent the issue of renewal bonds, or
+bonds to fund the floating indebtedness of any city, town, county, taxing district or other
+municipality.
+*** SEND ***
+
+*** SSTART 159.0 9017.0 0 KY 1890 ***
+SEC. 159. Whenever any county, city, town, taxing district or other municipality is authorized to
+contract an indebtedness, it shall be required, at the same time, to provide for the collection of an
+annual tax sufficient to pay the interest on said indebtedness, and to create a sinking fund for the
+payment of the principal thereof, within not more than forty years from the time of contracting the
+same.
+*** SEND ***
+
+*** SSTART 160.0 9017.0 0 KY 1890 ***
+SEC. 160. The Mayor or Chief Executive, Police Judges, members of legislative boards or
+councils of towns and cities shall be elected by the qualified voters thereof : Provided, The Mayor
+or Chief Executive and Police Judges of the towns of the fourth, fifth and sixth classes may be
+appointed or elected as provided by law. The terms of office of Mayors or Chief Executives and
+Police Judges shall be four years, and until their successors shall be qualified , and of members of
+legislative boards, two years. When any of the first or second class is divided into wards or
+districts, members of legislative boards shall be elected at large by the qualified voters of said city,
+but so selected that an equal  proportion thereof shall reside in each of the said wards or districts;
+but when in any city of the first, second or third class, there are two legislative boards, the less
+numerous shall be selected from and elected by the voters at shall be four years, and until their
+successors shall be qualified. No Mayor or Chief Executive or fiscal officer of any city of the first
+or second class, after the expiration of the term of office to which he has been elected under this
+Constitution, shall be eligible for the succeeding term.. "Fiscal officer" shall not include an
+Auditor or Assessor, or any other officer whose chief duty is not the collection or holding of
+public moneys. The General Assembly shall prescribe the qualifications of all officers of towns and
+cities, the manner in and cases for which they may be removed from office, and how vacancies in
+such large of said city; but other officers of towns or cities shall be elected by the qualified voters
+therein, or appointed by the local authorities thereof, as the General Assembly may, by a general
+law, provide but when elected by the voters of a town or city, their terms of office.
+*** SEND ***
+
+*** SSTART 161.0 9017.0 0 KY 1890 ***
+SEC. 161. The compensation of any city, county, town or municipal officer shall not be changed
+after his election or appointment. or during his term of office; nor shall the term of any such
+officer be extended beyond the period for which he may have been elected or appointed.
+*** SEND ***
+
+*** SSTART 162.0 9017.0 0 KY 1890 ***
+SEC 162. No county, city, town or other municipality be authorized or permitted to pay any claim
+created against it, under any agreement or contract made without express authority of law, and all
+such unauthorized agreements or contracts shall be null and void.
+*** SEND ***
+
+*** SSTART 163.0 9017.0 0 KY 1890 ***
+SEC. 163. No street railway, gas, water, steam heating, telephone, or electric light company,
+within a city or town, shall be permitted or authorized to construct its tracks, lay its pipes or
+mains, or erect its poles, posts or other apparatus along, over, under or across the streets, alleys
+or public grounds of a city or town, without the consent of the proper legislative bodies or boards
+of such city or town being first obtained; but when charters have been heretofore granted
+conferring such rights, and work has in good faith been begun thereunder, the provisions of this
+section shall not apply.
+*** SEND ***
+
+*** SSTART 164.0 9017.0 0 KY 1890 ***
+SEC. 164. No county, city, town, taxing district or other municipality shall be authorized or
+permitted to grant any franchise or privilege, or make any contract in reference thereto, for a term
+exceeding twenty years. Before granting such franchise or privilege for a term of years, such
+municipality shall first, after due advertisement, receive bids therefor publicly, and award the same
+to the highest and best bidder; but it shall have the right to reject any or all bids. This section shall
+not apply to a trunk railway.
+*** SEND ***
+
+*** SSTART 165.0 9017.0 0 KY 1890 ***
+SEC. 165. No person shall, at the same time, be a State officer or a deputy officer, or member of
+the General Assembly, and an officer of any county, city, town, or other municipality, or an
+employee thereof; and no person shall, at the same time, fill two municipal offices, either in the
+same or different municipalities, except as may be otherwise provided in this Constitution; but a
+Notary Public, or an officer of the Militia, shall not be ineligible to hold any other office
+mentioned in this section.
+*** SEND ***
+
+*** SSTART 166.0 9017.0 0 KY 1890 ***
+SEC. 166. All acts of incorporation of cities and towns heretofore granted, and all amendments
+thereto, except as provided in section one hundred and sixty-seven, shall continue in force under
+this Constitution, and all City and Police Courts established in any city or town shall remain, with
+their present powers and jurisdictions, until such time as the General Assembly shall provide by
+general laws for the government of towns and cities, and the officers and courts thereof ; but not
+longer than four years from and after the first day of January, one thousand eight hundred and
+ninety-one, within which time the General Assembly shall provide, by general laws for the
+government of towns and cities, and the officers and courts thereof, as provided in this
+Constitution.
+*** SEND ***
+
+*** SSTART 167.0 9017.0 0 KY 1890 ***
+SEC. 167. All city and town officers in this State shall be elected or appointed as provided in the
+charter of each respective town and city, until the general election in November, 1893, and until
+their successors shall be elected and qualified, at which time the terms of all such officers shall
+expire; and at that election, and thereafter as their terms of office may expire, all officers required
+to be elected in cities and towns by this Constitution, or by general laws enacted in conformity to
+its provisions, shall be elected at the general elections in November, but only in the odd years,
+except members of municipal legislative boards, who may be elected either in the even or odd
+years, or part in the even and part in the odd years: Provided, That the terms of office of Police
+Judges, who were elected for four years at the August election, eighteen hundred and ninety, shall
+expire August thirty-first, eighteen hundred and ninety-four, and the terms of office Judges
+elected in November, eighteen hundred and ninety-three, shall begin September first, eighteen
+hundred and ninety-four, and continue until the November election, eighteen hundred and ninety-
+seven and until their successors are elected and qualified.
+*** SEND ***
+
+*** SSTART 168.0 9017.0 0 KY 1890 ***
+SEC. 168. No municipal ordinance shall fix a penalty for a violation thereof at less than that
+imposed by statute for the same offense. A conviction or acquittal under either shall constitute a
+bar to another prosecution for the same offense.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9018.0 KY 1890 ***
+REVENUE AND TAXATION
+
+*** SSTART 169.0 9018.0 0 KY 1890 ***
+SEC. 169. The fiscal year shall commence on the first day of July in each year, unless otherwise
+provided by law.
+*** SEND ***
+
+*** SSTART 170.0 9018.0 0 KY 1890 ***
+SEC. 170. There shall be exempt from taxation public property used for public purposes; places
+actually used for religious worship, with the grounds attached thereto and used and appurtenant
+to the house of worship, not exceeding one-half acre in cities or towns, and not exceeding two
+acres in the country; places of burial not held for private or corporate profit, institutions of purely
+public charity, and institutions of education not used or employed for gain by any person or
+corporation, and the income of which is devoted solely to the cause of education; public libraries,
+their endowments and the income of such property as is used exclusively for their maintenance; all
+parsonages or residences owned by any religious society, and occupied as a home, and for no
+other purpose, by the minister of any religion, with not exceeding one-half acre of ground in
+towns and cities and two acres of ground in the country appurtenant thereto; household goods
+and other personal property of a person with a family, not exceeding two hundred and fifty dollars
+in value; crops grown in the year in which the assessment is made, and in the hands of the
+producer; and all laws exempting or commuting property from taxation other than the property
+above mentioned shall be void. The General Assembly may authorize any incorporated city or
+town to exempt manufacturing establishments from municipal taxation for a period not exceeding
+five years, as an inducement to their location.
+*** SEND ***
+
+*** SSTART 171.0 9018.0 0 KY 1890 ***
+SEC. 171. The General Assembly shall provide by law an annual tax, which, with other resources,
+shall be sufficient to defray the estimated expenses of the Commonwealth for each fiscal year.
+Taxes shall be levied and collected for public purposes only. They shall be uniform upon all
+property subject to taxation within the territorial limits of the authority levying the tax; and all
+taxes shall be levied and collected by general laws.
+*** SEND ***
+
+*** SSTART 172.0 9018.0 0 KY 1890 ***
+SEC. 172. All property, not exempted from taxation by this Constitution, shall be assessed for
+taxation at its fair cash value, estimated at the price it would bring at a fair voluntary sale; and any
+officer, or other person authorized to assess values for taxation, who shall commit any willful
+error in the performance of his duty, shall be deemed guilty of misfeasance and upon conviction
+thereof shall forfeit his office, and be otherwise punished as may be provided by law.
+*** SEND ***
+
+*** SSTART 173.0 9018.0 0 KY 1890 ***
+SEC 173. The receiving, directly or indirectly, by any officer of the Commonwealth, or of any
+county, city or town, or member or officer of the General Assembly, of any interest, profit or
+perquisites arising from the use or loan of public funds in his hands, or moneys to be raised
+through his agency for State, city, town, district or county purposes shall be deemed a felony.
+Said offense shall be punished as may be prescribed by law, a part of which punishment shall be
+disqualification to hold office.
+*** SEND ***
+
+*** SSTART 174.0 9018.0 0 KY 1890 ***
+SEC. 174. All property, whether owned by natural persons or corporations, shall be taxed in
+proportion to its value, unless exempted by this Constitution; and all corporate property shall pay
+the same rate of taxation paid by individual property. Nothing in this Constitution shall be
+construed to prevent the General Assembly from providing for taxation based on incomes,
+licenses or franchises.
+*** SEND ***
+
+*** SSTART 175.0 9018.0 0 KY 1890 ***
+SEC. 175. The power to tax property shall not be surrendered or suspended by any contract or
+grant to which the Commonwealth shall be a party.
+*** SEND ***
+
+*** SSTART 176.0 9018.0 0 KY 1890 ***
+SEC. 176. The Commonwealth shall not assume the debt of any county, municipal corporation or
+political subdivision of the State, unless such debt shall have been contracted to defend itself in
+time of war, to repel invasion or to suppress insurrection.
+*** SEND ***
+
+*** SSTART 177.0 9018.0 0 KY 1890 ***
+SEC. 177. The credit of the Commonwealth shall not be given, pledged or loaned to any
+individual, company, corporation or association municipality, or political subdivision of the State;
+nor shall the Commonwealth become an owner or stockholder in nor make donation to, any
+company, association or corporation; nor shall the Commonwealth construct a railroad or other
+highway.
+*** SEND ***
+
+*** SSTART 178.0 9018.0 0 KY 1890 ***
+SEC. 178. All laws authorizing the borrowing of money by and on behalf of the Commonwealth,
+county or other political subdivision of the State, shall specify the purpose for which the money is
+to be used, and the money so borrowed shall be used for no other purpose.
+*** SEND ***
+
+*** SSTART 179.0 9018.0 0 KY 1890 ***
+SEC. 179. The General Assembly shall not authorize any county or subdivision thereof, city,
+town, or incorporated district, to become a stockholder in any company, association or
+corporation, or to obtain or appropriate money for, or to loan its credit to, any corporation,
+association or individual, except for the purpose of constructing or maintaining bridges, turnpike
+roads, or gravel roads: Provided, If any municipal corporation shall offer to' the Commonwealth
+any property or money for locating or building a Capitol, and the Commonwealth accepts such
+offer, the corporation may comply with the offer.
+*** SEND ***
+
+*** SSTART 180.0 9018.0 0 KY 1890 ***
+SEC. 180. The General Assembly may authorize the counties, cities or towns to levy a poll-tax
+not exceeding one dollar and fifty cents per head. Every act enacted by the General Assembly, and
+every ordinance and resolution passed by any county, city, town, or municipal board or local
+legislative body, levying a tax, shall specify distinctly the purpose or which said tax is levied, and
+no tax levied and collected for one purpose shall ever be devoted to another purpose. 
+*** SEND ***
+
+*** SSTART 181.0 9018.0 0 KY 1890 ***
+SEC. 181. The General Assembly shall not impose taxes for the purposes of any county, city,
+town or other municipal corporation, but may, by general laws, confer on the proper authorities
+thereof, respectively, the power to assess and collect such taxes. The General Assembly may, by
+general laws only, provide for the payment of license fees on franchises, stock used for breeding
+purposes, the various trades, occupations and professions, or a special or excise tax; and may by
+general laws, delegate the power to counties, towns, cities, and other municipal corporations, to
+impose and collect license fees on stock used for breeding purposes, on franchises, trades,
+occupations and professions.
+*** SEND ***
+
+*** SSTART 182.0 9018.0 0 KY 1890 ***
+SEC. 182. Nothing in this Constitution shall be construed to prevent the General Assembly from
+providing by law how railroads and railroad property shall be assessed and how taxes thereon
+shall be collected. And until otherwise provided, the present law on said subject shall remain in
+force.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9007.0 KY 1890 ***
+EDUCATION
+
+*** SSTART 183.0 9007.0 0 KY 1890 ***
+SEC. 183. The General Assembly shall, by appropriate legislation, provide for an efficient system
+of common schools throughout the State.
+*** SEND ***
+
+*** SSTART 184.0 9007.0 0 KY 1890 ***
+SEC. 184. The bond of the Commonwealth issued in favor of the Board of Education for the sum
+of one million three hundred and twenty-seven thousand dollars shall constitute one bond of the
+Commonwealth in favor of the Board of Education, and this bond and the seventy-three thousand
+five hundred dollars of the stock in the Bank of Kentucky, held by the Board of Education, and its
+proceeds, shall be held inviolate for the purpose of sustaining the system of common schools. The
+interest and dividends of said fund together with any sum which may be produced by taxation or
+otherwise for purposes of common school education, shall be appropriated to the common
+schools, and to no other purpose. No sum shall be raised or collected for education other than in
+common schools until the question of taxation is submitted to the legal voters, and the majority of
+the votes cast at said election shall be in favor of such taxation: Provided, The tax now imposed
+for educational purposes, and for the endowment and maintenance of the Agricultural and
+Mechanical College, shall remain until changed by law.
+*** SEND ***
+
+*** SSTART 185.0 9007.0 0 KY 1890 ***
+SEC. 185. The General Assembly shall make provision, by law, for the payment of the interest of
+said school fund and may provide for the sale of the stock in the Bank of Kentucky; and in case of
+a sale of all or any part of said stock, the proceeds of sale shall be invested by the Sinking Fund
+Commissioners in other good interest-bearing stocks or bonds, which shall be subject to sale and
+reinvestment, from time to time, in like manner, and with the same restrictions, as provided with
+reference to the sale of the said stock in the Bank of Kentucky.
+*** SEND ***
+
+*** SSTART 186.0 9007.0 0 KY 1890 ***
+SEC. 186. Each county in the Commonwealth shall be entitled to its proportion of the school fund
+on its census of pupil children for each school year; and if the pro rata share of any school district
+be not called for after the second school year, it shall be covered into the treasury and be placed
+to the credit of the school fund for general apportionment the following school year. The surplus
+now due the several counties shall remain a perpetual obligation against the Commonwealth for
+the benefit of said respective counties, for which the Commonwealth shall execute its bond,
+bearing interest at the rate of six per centum per annum, payable annually to the counties
+respectively entitled to the same, and in the proportion to which they are entitled, to be used
+exclusively in aid of common schools.
+*** SEND ***
+
+*** SSTART 187.0 9007.0 0 KY 1890 ***
+SEC. 187. In distributing the school fund no distinction shall be made on account of race or color,
+and separate schools for white and colored children shall be maintained.
+*** SEND ***
+
+*** SSTART 188.0 9007.0 0 KY 1890 ***
+SEC. 188. So much of any moneys as may be received by the Commonwealth from the United
+States under the recent act of Congress refunding the direct tax shall become a part of the school
+fund, and be held as provided in section one hundred and eighty-four; but the General Assembly
+may authorize the use, by the Commonwealth, of the moneys so received or any part thereof, in
+which event a bond shall be executed to the Board of Education for the amount so used which
+bond shall be held on the same terms and conditions, and subject to the provisions of section one
+hundred and eighty-four, concerning the bond therein referred to.
+*** SEND ***
+
+*** SSTART 189.0 9007.0 0 KY 1890 ***
+SEC. 189. No portion of an fund or tax now existing, or that may hereafter be raised or levied for
+educational purposes, shall be appropriated to, or used by, or in aid of, any church, sectarian or
+denominational school.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9019.0 KY 1890 ***
+CORPORATIONS
+
+*** SSTART 190.0 9019.0 0 KY 1890 ***
+SEC. 190. No corporation in existence at the time of the adoption of this Constitution shall have
+the benefit of future legislation without first filing in the office of the Secretary of State an
+acceptance of the provisions of this Constitution.
+*** SEND ***
+
+*** SSTART 191.0 9019.0 0 KY 1890 ***
+SEC. 191. All existing charters or grants of special or exclusive privileges, under which a bona
+fide organization shall not have taken place, and business been commenced in good faith at the
+time of the adoption of this Constitution, shall thereafter be void and of no effect.
+*** SEND ***
+
+*** START 192 9019 0 KY 1890 ***
+SEC. 192. No corporation shall engage in business other than that expressly authorized by its
+charter, or the law under which it may have been or hereafter may be organized, nor shall it hold
+any real estate, except such as may be proper and necessary for carrying on its legitimate business,
+for a longer period than five years, under penalty of escheat.
+*** SEND ***
+
+*** SSTART 193.0 9019.0 0 KY 1890 ***
+SEC. 193. No corporation shall issue stock or bonds except for an equivalent in money paid or
+labor done, or property actually received and applied to the purposes for which such corporation
+was created, and neither labor nor property shall be received in payment of stock or bonds at a
+greater value than the market price at the time said labor was done or property delivered, and all
+fictitious increase of stock or indebtedness shall be void.
+*** SEND ***
+
+*** SSTART 194.0 9019.0 0 KY 1890 ***
+SEC. 194. All corporations formed under the laws of this State, or carrying on business in this
+State, shall, at all times, have one or more known places of business in this State, and an
+authorized agent or agents there, upon whom process may be executed, and the General
+Assembly shall enact laws to carry into effect the provisions of this section.
+*** SEND ***
+
+*** SSTART 195.0 9019.0 0 KY 1890 ***
+SEC. 195. The Commonwealth, in the exercise of the right of eminent domain, shall have and
+retain the same powers to take the property and franchises of incorporated companies for public
+use which it has and retains to take the property of individuals, and the exercise of the police
+powers of this Commonwealth shall never be abridged, nor so construed as permit corporations to
+conduct their. business in such manner as to infringe upon. the equal rights of individuals.
+*** SEND ***
+
+*** SSTART 196.0 9019.0 0 KY 1890 ***
+SEC. 196. Transportation of freight and passengers by railroad, steamboat or other common
+carrier, shall be so regulated, by the general law, as to prevent unjust discrimination. No common
+carrier shall be permitted to contract, for relief from its common law liability.
+*** SEND ***
+
+*** SSTART 197.0 9019.0 0 KY 1890 ***
+SEC. 197. No railroad, steamboat or other common carrier, under heavy penalty to be fixed by
+the General Assembly, shall give a free pass or passes, or shall, at reduced rates not common to
+the public, sell tickets for transportation to any State, district, city, town or county officer, or
+member of the General Assembly, or Judge; and any State, district, city, town or county officer,
+or member of the General Assembly, or Judge, who shall accept or use a free pass or passes, or
+shall receive or use tickets or transportation at, reduced rates not common to the public, shall
+forfeit his office. It shall be the duty of the General Assembly to enact laws to enforce the
+provisions of this section.
+*** SEND ***
+
+*** SSTART 198.0 9019.0 0 KY 1890 ***
+SEC. 198. It shall be the duty of the General Assembly from time to time, as necessity may
+require, to enact such laws as may be necessary to prevent all trusts, pools, combinations or other
+organizations, from combining to depreciate below its real value any article, or to enhance the
+cost of any article above its real value.
+*** SEND ***
+
+*** SSTART 199.0 9019.0 0 KY 1890 ***
+SEC. 199. Any association or corporation, or the lessees or managers thereof, organized for the
+purpose, or an individual, shall have the right to construct and maintain lines of telegraph within
+this State, and to connect the same with other lines, and said companies shall receive and transmit
+each other's messages without unreasonable delay or discrimination, and all such companies are
+hereby declared to be common carriers and subject to legislative control. Telephone companies
+operating exchanges in different towns or cities, or other public stations, shall receive and transmit
+each other's messages without unreasonable delay or discrimination. The General Assembly shall,
+by general laws of uniform operation, provide reasonable regulations to give full effect to this
+section. Nothing herein shall be construed to interfere with the rights of cities or towns to arrange
+and control their streets and alleys, and to designate the places get which, and the manner in
+which, the wires of such companies shall be erected or laid within the limits of such city or town.
+*** SEND ***
+
+*** SSTART 200.0 9019.0 0 KY 1890 ***
+SEC. 200. If any railroad, telegraph, express, or other corporation, organized under the laws of
+this Commonwealth, shall consolidate by sale or otherwise with any railroad, telegraph, express or
+other corporation organized under the laws of any other State, the same shall not thereby become
+a foreign corporation, but the courts of this Commonwealth shall retain jurisdiction over that part
+of the corporate property within the limits of this State in all matters which may arise, as if said
+consolidation had not taken place.
+*** SEND ***
+
+*** SSTART 201.0 9019.0 0 KY 1890 ***
+SEC. 201. No railroad, telegraph, telephone, bridge or common carrier company shall consolidate
+its capital stock, franchises or property, or pool its earnings, in whole or in part, with any other
+railroad, telegraph, telephone, bridge or common carrier company, owning a parallel or competing
+line or structure, or acquire by purchase, lease or otherwise, any parallel or competing line or
+structure, or operate the same; nor shall any railroad company or other common carrier combine
+or make any contract with the owners of any vessel that leaves or makes port in this State, or with
+any common carrier, by which combination or contract the earnings of one doing the carrying are
+to be shared by the other not doing the carrying.
+*** SEND ***
+
+*** SSTART 202.0 9019.0 0 KY 1890 ***
+SEC. 202. No corporation organized outside the limits of this State shall be allowed to transact
+business within the State on more favorable conditions than are prescribed by law to similar
+corporations organized under the laws of this Commonwealth.
+*** SEND ***
+
+*** SSTART 203.0 9019.0 0 KY 1890 ***
+SEC. 203. No corporation shall lease or alienate any franchise so as to relieve the franchise or
+property held thereunder from the liabilities of the lessor or grantor, lessee or grantee, contracted
+or incurred in the operation, use or enjoyment of such franchise, or any of its privileges.
+*** SEND ***
+
+*** SSTART 204.0 9019.0 0 KY 1890 ***
+SEC. 204. Any President, Director, Manager, Cashier or other officer of any banking institution
+or association for the deposit or loan of money, or any individual banker, who shall receive or
+assent to the receiving of deposits after he shall have knowledge of the fact that such banking
+institution or association or individual banker is insolvent, shall be individually responsible for
+such deposits so received, and shall be guilty of felony and subject to such punishment as shall be
+prescribed by law.
+*** SEND ***
+
+*** SSTART 205.0 9019.0 0 KY 1890 ***
+SEC. 205. The General Assembly shall, by general laws, provide for the revocation or forfeiture
+of the charters of all corporations guilty of abuse or misuse of their corporate powers, privileges
+or franchises, or whenever said corporations become detrimental to the interest and welfare of the
+Commonwealth or its citizens.
+*** SEND ***
+
+*** SSTART 206.0 9019.0 0 KY 1890 ***
+SEC. 206. All elevators or storehouses, where grain or other property is stored for a
+compensation, whether the property stored be kept separate or not, are declared to be public
+warehouses, subject to legislative control, and the General Assembly shall enact laws for the
+inspection of grain, tobacco and other produce, and for the protection of producers, shippers and
+receivers of grain, tobacco and other produce.
+*** SEND ***
+
+*** SSTART 207.0 9019.0 0 KY 1890 ***
+SEC. 207. In all elections for directors or managers of any corporation, each share-holder shall
+have the right to cast as many votes in the aggregate as he shall be entitled to vote in said
+company under its charter, multiplied by the number of directors or managers to be elected at
+such election; and each share-holder may cast the whole number of votes, either in person or by
+proxy, for one candidate, or distribute such votes among two or more candidates, and such
+directors or managers shall not be elected in any other manner.
+*** SEND ***
+
+*** SSTART 208.0 9019.0 0 KY 1890 ***
+SEC. 208. The word corporation as used in this Constitution shall embrace joint stock companies
+and associations.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9020.0 KY 1890 ***
+RAILROADS AND COMMERCE
+
+*** SSTART 209.0 9020.0 0 KY 1890 ***
+SEC. 209. A commission is hereby established, to be known as "The Railroad Commission "
+which shall be composed of three Commissioners. During the session of the General Assembly
+which convenes in December, eighteen hundred and ninety-one, and before, the first day of June,
+eighteen hundred and ninety-two, the Governor shall appoint, by and with the advice and consent
+of the Senate, said three Commissioners, one from each Superior Court District as now
+established, and said appointees shall take their office at the expiration of the terms of the present
+incumbents. The Commissioners so appointed shall continue in office during the term of the
+present Governor, and until their successors are elected and qualified. At the regular election in
+eighteen hundred and ninety-five and ever, four years thereafter the Commissioners shall be
+elected, one in each Superior Court District, by the qualified voters thereof, at the same time and
+for the same term as the Governor. No person shall be eligible to said office unless he be, at the
+time of his election at least thirty years of age, a citizen of Kentucky two years and a resident of
+the district from which is chosen one year, next preceding his election. Any vacancy in this office
+shall be filled as provided in section one hundred and fifty-two of this Constitution. The General
+Assembly may from time to time change said districts so as to equalize the population thereof; and
+may, if deemed expedient, require that the Commissioners be all elected by the qualified voters of
+the State at large. And if so required, one Commissioner shall be from each district. No person in
+the service of any railroad or common carrier company or corporation, or of any firm or
+association conducting business as a common carrier, or in any ways pecuniarily interested in such
+company, corporation, firm or association, or in the railroad business, or as a common carrier,
+shall hold such office. The powers and duties of the Railroad Commissioners shall be regulated by
+law; and until otherwise provided by law, the Commission so created shall, have the same powers
+and jurisdiction, perform the same duties, be subject to the same regulations, and receive the same
+compensation, as now conferred, prescribed and allowed by law to the existing Railroad
+Commissioners. The General Assembly may, for cause, address any of said Commissioners out of
+office by similar proceedings as in the case of Judges of the Court of Appeals; and the General
+Assembly shall enact laws to prevent the nonfeasance and misfeasance in office of said
+Commissioners, and to impose proper penalties therefor.
+*** SEND ***
+
+*** SSTART 210.0 9020.0 0 KY 1890 ***
+SEC. 210. No corporation engaged in the business of common carrier shall, directly or indirectly,
+own, manage, operate, or engage in any other business than that of a common carrier, or hold,
+own, ease or acquire directly or indirectly, mines, factories, or timber, except such as shall be
+necessary to carry on its business; and the General Assembly shall enact laws to give effect to the
+provisions of this section.
+*** SEND ***
+
+*** SSTART 211.0 9020.0 0 KY 1890 ***
+SEC. 211. No railroad corporation organized under the laws of any other State, or of the United
+States, and doing business, or proposing to do business, in this State, shall be entitled to the
+benefit of the right of eminent domain or have power to acquire the right of way or real estate for
+depot or other uses, until it shall have become a body-corporate pursuant to and in accordance
+with the laws of this Commonwealth.
+*** SEND ***
+
+*** SSTART 212.0 9020.0 0 KY 1890 ***
+SEC. 212. The rolling stock and other movable property belonging to any railroad corporation or
+company in this State shall be considered personal property, and shall be liable to execution and
+sale in the same manner as the personal property of individuals. The earnings of any railroad
+company or corporation, and choses in action, money and personal property of all kinds belonging
+to it, in the hands, or under the control, of any officer agent or employee of such corporation or
+company, shall be subject to process of attachment, to the same extent and in the same manner, as
+like property of individuals when in the hands or under the control of other persons. Any such
+earnings, choses in action, money or other personal property may be subjected to the payment of
+any judgment against such corporation or company, in the same manner and to the same extent as
+such property of individuals in the hands of third persons.
+*** SEND ***
+
+*** SSTART 213.0 9020.0 0 KY 1890 ***
+SEC. 213. All railroad, transfer, belt lines and railway bridge companies, organized under the laws
+of Kentucky, or operating, maintaining or controlling any railroad, transfer, belt lines or bridges,
+or doing a railway business in this State, shall receive, transfer, deliver, and switch empty or
+loaded cars, and shall move, transport, receive, load or unload all the freight in car loads or less
+quantities, coming to or going from any railroad, transfer, belt line, bridge, or siding thereon, with
+equal promptness and dispatch, and without any discrimination as to charges, preference,
+drawback or rebate in favor of any person, corporation, consignee, or consignor, in any matter as
+to payment, transportation handling or delivery and shall so receive, deliver, transfer, and
+transport all freight as above set forth, from and to any point where there is a physical connection
+between the tracks of said companies.  But this section shall not be construed as requiring any
+common carrier to allow the use of its tracks from the trains of another engaged in the like
+business.
+*** SEND ***
+
+*** SSTART 214.0 9020.0 0 KY 1890 ***
+SEC. 214. No railway, transfer, belt line or railway bridge company shall make any exclusive or
+preferential contract or arrangement with any individual, association or corporation, for the
+receipt, transfer, delivery, transportation, handling, care or custody of any freight, or for the
+conduct of any business as a common carrier.
+*** SEND ***
+
+*** SSTART 215.0 9020.0 0 KY 1890 ***
+SEC. 215. All railway, transfer, belt lines or railway bridge companies shall receive, load, unload,
+transport, haul, deliver and handle freight of the same class for all persons, associations or
+corporations from and to the same points and upon the same conditions, in the same manner and
+for the same charges, and for the same method of payment.
+*** SEND ***
+
+*** SSTART 216.0 9020.0 0 KY 1890 ***
+SEC. 216. All railway, transfer, belt lines and railway bridge companies shall allow the tracks of
+each other to unite, intersect and cross at any point where such union, intersection and crossing is
+reasonable or feasible.
+*** SEND ***
+
+*** SSTART 217.0 9020.0 0 KY 1890 ***
+SEC. 217. Any person, association or corporation, willfully or knowingly violating any of the
+provisions of sections two hundred and thirteen, two hundred and fourteen, two hundred and
+fifteen, or two hundred and sixteen, shall, upon conviction by a court of competent jurisdiction,
+for the first offense be fined two thousand dollars; for the second offense, five thousand dollars,
+and for the third offense, shall thereupon, ipso facto, forfeit its franchises, privileges or charter
+rights; and if such delinquent be a foreign corporation, it shall, ipso facto, forfeit its right to do
+business in this State; and the Attorney-General of the Commonwealth shall forthwith, upon
+notice of the violation of any of said provisions, institute proceedings to enforce the provisions of
+the aforesaid sections.
+*** SEND ***
+
+*** SSTART 218.0 9020.0 0 KY 1890 ***
+SEC. 218. It shall be unlawful for any person or corporation, owning or operating a railroad in
+this State, or any common carrier, to charge or receive any greater compensation in the aggregate
+for the transportation of passengers, or of property of like kind, under substantially similar
+circumstances and conditions, for a shorter than for a longer distance over the same line, in the
+same direction, the shorter being included within the longer distance; but this shall not be
+construed as authorizing any common carrier or person or corporation, owning or operating a
+railroad in this State, to receive as great compensation for a shorter as for a longer distance:
+Provided, That upon application to the Railroad Commission, such common carrier, or person, or
+corporation owning or operating a railroad in this State, may in special cases, after investigation
+by the Commission, be authorized to charge less for longer than for shorter distances for the
+transportation of passengers, or property; and the Commission may, from time to time, prescribe
+the extent to which such common carrier, or person or corporation, owning or operating a
+railroad in this State, may be relieved from the operations of this section.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9008.0 KY 1890 ***
+THE MILITIA
+
+*** SSTART 219.0 9008.0 0 KY 1890 ***
+SEC. 219. The militia of the Commonwealth of Kentucky shall consist of all able-bodied male
+residents of the State between the ages of eighteen and forty-five years, except such persons as
+may be exempted by the laws of the State or of the United States.
+*** SEND ***
+
+*** SSTART 220.0 9008.0 0 KY 1890 ***
+SEC. 220. The General Assembly shall provide for maintaining an organized militia; and may
+exempt from military service persons having conscientious scruples against bearing arms; but such
+persons shall pay an equivalent for such exemption.
+*** SEND ***
+
+*** SSTART 221.0 9008.0 0 KY 1890 ***
+SEC. 221. The organization, equipment and discipline of the militia shall conform as nearly as
+practicable to the regulations for the government of the armies of the United States.
+*** SEND ***
+
+*** SSTART 222.0 9008.0 0 KY 1890 ***
+SEC. 222. All militia officers whose appointment is not herein otherwise provided for, shall be
+elected by persons subject to military duty within their respective companies, battalions, regiments
+or other commands, under such rules and regulations and for such terms, not exceeding four
+years, as the General Assembly may, from time to time, direct and establish. The Governor shall
+appoint an Adjutant General and his other staff officers; the generals and commandants of
+regiments and battalions shall respectively appoint their staff officers, and the commandants of
+companies shall, subject to the approval of their regimental or battalion commanders, appoint
+their non-commissioned officers. The Governor shall have power to fill vacancies that may occur
+in elective offices by granting commissions which shall expire when such vacancies have been
+filled ed according to the provisions of this Constitution.
+*** SEND ***
+
+*** SSTART 223.0 9008.0 0 KY 1890 ***
+SEC. 223. The General Assembly shall provide for the safe-keeping of the public arms, military
+records, relics and banners of the Commonwealth of Kentucky.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9022.0 KY 1890 ***
+GENERAL PROVISIONS
+
+*** SSTART 224.0 9022.0 0 KY 1890 ***
+SEC. 224. The General Assembly shall provide by a general law what officers shall execute bond
+for the faithful discharge of their duties, and fix the liability therein.
+*** SEND ***
+
+*** SSTART 225.0 9022.0 0 KY 1890 ***
+SEC. 225. No armed person or bodies of men shall be brought into this State for the preservation
+of the peace or the suppression of domestic violence, except upon the application of the General
+Assembly, or of the Governor when the General Assembly may not be in session. 
+*** SEND ***
+
+*** SSTART 226.0 9022.0 0 KY 1890 ***
+SEC. 226. Lotteries and gift enterprises are forbidden, and no privileges shall be granted for such
+purposes, and none shall be exercised, and no schemes for similar purposes shall be allowed. The
+General Assembly shall enforce this section by proper penalties. All lottery privileges or charters
+heretofore granted are revoked.
+*** SEND ***
+
+*** SSTART 227.0 9022.0 0 KY 1890 ***
+SEC. 227. Judges of the County Court, Justices of the Peace, Sheriffs, Coroners, Surveyors,
+Jailers, Assessors, County Attorneys and Constables shall be subject to indictment or prosecution
+for misfeasance or malfeasance in office, or willful neglect in discharge of official duties, in such
+mode as may be prescribed by law; and upon conviction, his office shall become vacant, but such
+officer shall have the right of appeal to the Court of Appeals.
+*** SEND ***
+
+*** SSTART 228.0 9022.0 0 KY 1890 ***
+SEC. 228. Members of the General Assembly and all officers, before they enter upon the
+execution of the duties of their respective offices, and all members of the bar, before they enter
+upon the practice of their profession, shall take the following oath or affirmation: I do solemnly
+swear (or affirm, as the case may be) that I will support the Constitution of the United States and
+the Constitution of this Commonwealth, and be faithful and true to the Commonwealth of
+Kentucky so long as I continue a citizen thereof, and that I will faithfully execute, to the best of
+my ability the office of ---according to law; and I do further solemnly swear (or affirm) that since t
+e adoption of the present Constitution, I, being a citizen of this State, have not fought a duel with
+deadly weapons within this State nor out of it, nor have I sent or accepted a challenge to fight a
+duel with deadly weapons, nor have I acted as second in carrying a challenge, nor aided or
+assisted any person thus offending, so help me God.
+*** SEND ***
+
+*** SSTART 229.0 9022.0 0 KY 1890 ***
+SEC. 229. Treason against the Commonwealth shall consist only in levying war against it, or in
+adhering to its enemies, giving them aid and comfort. No person shall be convicted of treason
+except on the testimony of two witnesses to the same overt act, or his own confession in open
+court.
+*** SEND ***
+
+*** SSTART 230.0 9022.0 0 KY 1890 ***
+SEC. 230. No money shall be drawn from the State Treasury, except in pursuance of
+appropriations made by law; and a regular statement and account of the receipts and expenditures
+of all public money shall be published annually.
+*** SEND ***
+
+*** SSTART 231.0 9022.0 0 KY 1890 ***
+SEC. 231. The General Assembly may, by law, direct in what manner and in what courts suits
+may be brought, against the Commonwealth.
+*** SEND ***
+
+*** SSTART 232.0 9022.0 0 KY 1890 ***
+SEC. 232. The manner of administering an oath or affirmation shall be such as is most consistent
+with the conscience of the deponent, and shall be esteemed by the General Assembly the most
+solemn appeal to God.
+*** SEND ***
+
+*** SSTART 233.0 9022.0 0 KY 1890 ***
+SEC. 233. All laws which, on the first day of June, one thousand seven hundred and ninety-two,
+were in force in the State of Virginia, and which are of a general nature and not local to that
+State, and not repugnant to this Constitution, nor to the laws which have been enacted by the
+General Assembly of this Commonwealth, shall be in force within this State until they shall be
+altered or repealed by the General Assembly.
+*** SEND ***
+
+*** SSTART 234.0 9022.0 0 KY 1890 ***
+SEC. 234. All civil officers for the State at large shall reside within the State, and all district,
+county, city or town officers shall reside within their respective districts, counties, cities or towns,
+and shall keep their offices at such places therein as may be required by law.
+*** SEND ***
+
+*** SSTART 235.0 9022.0 0 KY 1890 ***
+SEC. 235. The salaries of public officers shall not be changed during the terms for which they
+were elected; but it shall be the duty of the General Assembly to regulate, by a general law, in
+what cases and what deductions shall be made for neglect of official duties. This section shall
+apply, to members of the General Assembly also.
+*** SEND ***
+
+*** SSTART 236.0 9022.0 0 KY 1890 ***
+SEC. 236. The General Assembly shall, by law, prescribe the time, when the several officers
+authorized or directed by this Constitution to be elected or appointed, shall enter upon the duties
+of their respective offices, except where the time is fixed by, this Constitution.
+*** SEND ***
+
+*** SSTART 237.0 9022.0 0 KY 1890 ***
+SEC. 237. No member of Congress, or person holding or exercising an office of trust or profit
+under the United States, or any of them, or under any foreign power, shall be eligible to hold or
+exercise any office of trust or profit under this Constitution, or the laws made in pursuance
+thereof.
+*** SEND ***
+
+*** SSTART 238.0 9022.0 0 KY 1890 ***
+SEC. 238. The General Assembly shall direct by law how persons who now are, or may hereafter
+become, sureties for public officers, ma be relieved of or discharged from suretyship.
+*** SEND ***
+
+*** SSTART 239.0 9022.0 0 KY 1890 ***
+SEC. 239. Any person who shall, after the adoption of this Constitution, either directly or
+indirectly give, accept or knowingly carry a challenge to an person or persons to fight in single
+combat, with  citizen of this state, with a deadly weapon, either in or out of the State, shall be
+deprived of the right to hold any office of honor or profit in this Commonwealth; and if said acts,
+or any of them, be committed within this State, the person or persons so committing them shall be
+further punished in such manner as the General Assembly may prescribe by law.
+*** SEND ***
+
+*** SSTART 240.0 9022.0 0 KY 1890 ***
+SEC. 240. The Governor shall have power, after five years from the time of the offense, to pardon
+any person who shall have participated in a duel as principal, second or otherwise, find to restore
+him to all the rights, privileges and immunities to which he was entitled before such participation.
+Upon presentation of such pardon the oath prescribed in section two hundred and twenty-eight
+shall be varied to suit the case.
+*** SEND ***
+
+*** SSTART 241.0 9022.0 0 KY 1890 ***
+SEC. 241. Whenever the death of a person shall result from an injury inflicted by negligence or
+wrongful act, then, in every such case, damages may be recovered for such death, from the
+corporations and persons so causing the same. Until otherwise provided by law, the action to
+recover such damages shall in all cases be prosecuted by the personal representative of the
+deceased person. The General Assembly may provide how the recovery shall go and to whom
+belong; and until such provision is made the same shall form part of the personal estate of the
+deceased person.
+*** SEND ***
+
+*** SSTART 242.0 9022.0 0 KY 1890 ***
+SEC. 242. Municipal and other corporations, and individuals invested with the privilege of taking
+private property for public use, shall make just compensation for property taken, injured or
+destroyed by them; which compensation shall be paid before such taking, or paid or secured, at
+the election of such corporation or individual, before such injury or destruction. The General
+Assembly shall not deprive any person of an Appeal from any preliminary assessment of damages
+against any such corporation or individual made by Commissioners or otherwise; and upon
+Appeal from such preliminary assessment, the amount of such damages shall, in all cases be
+determined by a jury, according to the course of the common law.
+*** SEND ***
+
+*** SSTART 243.0 9022.0 0 KY 1890 ***
+SEC. 243. The General Assembly shall, by law, fix the minimum ages at which children may be
+employed in places dangerous to life or health, or injurious to morals; and shall provide adequate
+penalties for violations of such law.
+*** SEND ***
+
+*** SSTART 244.0 9022.0 0 KY 1890 ***
+SEC. 244. All wage-earners in this State employed in factories, mines, workshops, or by
+corporations, shall be paid for their labor in lawful money. The General Assembly shall prescribe
+adequate penalties for violations of this section.
+*** SEND ***
+
+*** SSTART 245.0 9022.0 0 KY 1890 ***
+SEC. 245. Upon the promulgation of this Constitution, the Governor shall appoint three persons,
+learned in the law, who shall be Commissioners to revise the statute laws of this Commonwealth,
+and prepare amendments thereto, to the end that the statute laws shall conform to and effectuate
+this Constitution. Such revision and amendments shall be laid before the next General Assembly
+for adoption or rejection, in whole or in part. The said Commissioners shall be allowed ten dollars
+each per day for their services, and also necessary stationery for the time during which they are
+actually employed; and upon their certificate the Auditor shall draw his warrant upon the
+Treasurer. They shall have the power to employ clerical assistants, at a compensation not
+exceeding ten dollars per day in the aggregate. If the Commissioners, or any of them, shall refuse
+to act, or a vacancy shall occur, the Governor shall appoint another or others in his or their place.
+*** SEND ***
+
+*** SSTART 246.0 9022.0 0 KY 1890 ***
+SEC. 246. No public officer, except the Governor, shall receive more than five thousand dollars
+per annum, as compensation for official services, independent of the compensation of legally
+authorized deputies and assistants, which shall be fixed and provided for by law. The General
+Assembly shall provide for the enforcement of this section by suitable penalties, one of which shall
+be forfeiture of office by any person violating its provisions.
+*** SEND ***
+
+*** SSTART 247.0 9022.0 0 KY 1890 ***
+SEC. 247. The printing and binding of the laws, journals, department reports, and all other public
+printing and binding, shall be performed under contract, to be given to the lowest responsible
+bidder, below such maximum and under such regulations as may be prescribed by law. No
+member of the General Assembly, or officer of the Commonwealth, shall be in any way interested
+in any such contract; and all such contracts shall be subject to the approval of the Governor.
+*** SEND ***
+
+*** SSTART 248.0 9022.0 0 KY 1890 ***
+SEC. 248. A grand jury shall consist of twelve persons, nine of whom concurring, may find an
+indictment. In civil and misdemeanor cases, in courts inferior to the Circuit Courts, a jury shall
+consist of six persons. The General Assembly may provide that in any or all trials of civil actions
+in the Circuit Courts, three-fourths or more of the jurors concurring may return a verdict, which
+shall have the same force and effect as if rendered by the entire panel. But where a verdict is
+rendered by a less number than the whole jury, it shall be signed by all the jurors who agree to it.
+*** SEND ***
+
+*** SSTART 249.0 9022.0 0 KY 1890 ***
+SEC. 249. The House of Representatives of the General Assembly shall not elect, appoint, employ
+or pay for, exceeding one Chief Clerk, one Assistant Clerk, one Enrolling Clerk, one Sergeant-at-
+Arms, one Door-keeper, one Janitor, two Cloak-room Keepers and four Pages; and the Senate
+shall not elect appoint, employ or pay for, exceeding one Chief Clerk, one Assistant Clerk, one
+Enrolling Clerk, one Sergeant-at-Arms, one Door-keeper, one Janitor, one Cloak-room Keeper
+and three Pages; and the General Assembly shall provide, by general law, for fixing the per diem
+or salary of all of said employees.
+*** SEND ***
+
+*** SSTART 250.0 9022.0 0 KY 1890 ***
+SEC. 250. It shall be the duty of the General Assembly to enact such laws as shall be necessary
+and proper to decide differences by arbitrators, the arbitrators to be appointed by the parties who
+may choose that summary mode of adjustment.
+*** SEND ***
+
+*** SSTART 251.0 9022.0 0 KY 1890 ***
+SEC. 251. No action shall be maintained for possession of any lands lying within this State, where
+it is necessary for the claimant to rely for his recovery on any grant or patent issued by the
+Commonwealth of Virginia, or by the Commonwealth of Kentucky prior to the year one thousand
+eight hundred and twenty, against any person claiming such lands by possession to a well-defined
+boundary, under a title of record, unless such action shall be instituted within five years after this
+Constitution shall go into effect, or within five years after the occupant may take possession; but
+nothing herein shall be construed to affect any right, title or interest in lands acquired by virtue of
+adverse possession under the laws of this commonwealth.
+*** SEND ***
+
+*** SSTART 252.0 9022.0 0 KY 1890 ***
+SEC. 252. It shall be the duty of the General Assembly to provide by law, as soon as practicable,
+for the establishment and maintenance of an institution or institutions for the detention,
+correction, instruction and reformation of all persons under the age of eighteen years, convicted
+of such felonies and such misdemeanors as may be designated by law. Said institution shall be
+known as the "House of Reform."
+*** SEND ***
+
+*** SSTART 253.0 9022.0 0 KY 1890 ***
+SEC. 253. Persons convicted of felony and sentenced to confinement in the penitentiary shall be
+confined at labor within the walls of the penitentiary; and the General Assembly shall not have the
+power to authorize employment of convicts elsewhere, except upon the public works of the
+Commonwealth of Kentucky, or when, during pestilence or in case of the destruction of the
+prison buildings, they cannot be confined in the penitentiary.
+*** SEND ***
+
+*** SSTART 254.0 9022.0 0 KY 1890 ***
+SEC. 254. The Commonwealth shall maintain control of the discipline, and provide for all
+supplies, and for the sanitary condition of the convicts, and the labor only of convicts may be
+leased.
+*** SEND ***
+
+*** SSTART 255.0 9022.0 0 KY 1890 ***
+SEC. 255. The seat of government shall continue in the city of Frankfort, unless removed by a
+vote of two-thirds of each House of the first General Assembly which convenes after the adoption
+of this Constitution.
+*** SEND ***
+*** AEND ***
+
+*** ASTART 9012.0 KY 1890 ***
+MODE OF REVISION
+
+*** SSTART 256.0 9012.0 0 KY 1890 ***
+SEC. 256. Amendments to this Constitution may be proposed in either House of the General
+Assembly at a regular session, and if such amendment or amendments shall be agreed to by three-
+fifths of all the members elected to each House, such proposed amendment or amendments, with
+the yeas and nays of the members of each House taken thereon, shall be entered in full in their
+respective journals. Then such proposed amendment or amendments shall be submitted to the
+voters of the State for their ratification or rejection at the next general election for members of the
+House of Representatives, the vote to be taken thereon in such manner as the General Assembly
+may provide, and to be certified by the officers of election to the Secretary of State in such
+manner as shall be provided by law, which vote shall be compared and certified by the same board
+authorized by law to compare the polls and give certificates of election to officers for the State at
+large. If it shall appear that a majority of the votes cast for and against an amendment at said
+election was for the amendment, then the same shall become a part of the Constitution of this
+Commonwealth, and shall be so proclaimed by the Governor, and published in such manner as the
+General Assembly may direct and amendments shall not be submitted at an election which occurs
+less than ninety days from the final passage of such proposed amendment or amendments. Not
+more than two amendments shall be voted upon at any one time. Nor shall the same amendment
+be again submitted within five years after submission. Said amendments shall be so submitted as to
+allow a separate vote on each, and no amendment shall relate to more than one subject. But no
+amendment shall be proposed by the first General Assembly which convenes after the adoption of
+this Constitution. The approval of the Governor shall not be necessary to any bill, order,
+resolution or vote of the General Assembly, proposing an amendment or amendments to this
+Constitution.
+*** SEND ***
+
+*** SSTART 257.0 9012.0 0 KY 1890 ***
+SEC. 257. Before an amendment shall be submitted to a vote, the Secretary of State shall cause
+such proposed amendment, and the time that the same is to be voted upon, to be published at least
+ninety days before the vote is to be taken thereon in such manner as may be prescribed by law.
+*** SEND ***
+
+*** SSTART 258.0 9012.0 0 KY 1890 ***
+SEC. 258. When a majority of all the members elected to each House of the General Assembly
+shall concur, by a yea and nay vote, to be entered upon their respective journals, in enacting a law
+to take the sense of the people of the State as to the necessity and expediency of calling a
+convention for the purpose of revising or amending this Constitution, and such amendments as
+may have been made to the same, such law shall be spread upon their respective journals. If the
+next General Assembly shall, in like manner, concur in such law, it shall provide for having a poll
+opened in each voting precinct in this State by the officers provided by law for holding general
+elections at the next ensuing regular election to be held for State officers or members of the
+House of Representatives, which does not occur within ninety days from the final passage of such
+law, at which time and places the votes of the qualified voters shall be taken for and against
+calling the Convention, in the same manner provided by law for taking votes in other State
+elections. The vote for and against said proposition shall be certified to the Secretary of State by
+the same officers and in the same manner as in State elections. If it shall appear that a majority
+voting on the proposition was for calling a Convention, and if the total number of votes cast for
+the calling of the Convention is equal to one-fourth of the number of qualified voters who voted
+at the last preceding general election in this State, the Secretary of State shall certify the same to
+the General Assembly at its next regular session, at which session a law shall be enacted calling a
+Convention to readopt, revise or amend this Constitution, and such amendments as may have
+been made thereto.
+*** SEND ***
+
+*** SSTART 259.0 9012.0 0 KY 1890 ***
+SEC. 259. The Convention shall consist of as many delegates as there are members of the House
+of Representatives; and the delegates shall have the same qualifications and be elected from the
+same districts as said Representatives.
+*** SEND ***
+
+*** SSTART 260.0 9012.0 0 KY 1890 ***
+SEC. 260. Delegates to such convention shall be elected at the next general State election after
+the passage of the act calling the convention , which does not occur within less than ninety days;
+and they shall meet within ninety days after their election at the capital of the State, and continue
+in session until their work is completed.
+*** SEND ***
+
+*** SSTART 261.0 9012.0 0 KY 1890 ***
+SEC. 261. The General Assembly, in the act, calling the convention, shall provide for comparing
+the polls and giving certificates of election to the delegates elected, and provide for their
+compensation.
+*** SEND ***
+
+*** SSTART 262.0 9012.0 0 KY 1890 ***
+SEC. 262. The convention, when assembled, shall be the judge of the election and qualification of
+its members, and shall determine contested elections. But the General Assembly shall, in the act
+calling the convention, provide for taking testimony in such cases, and for issuing a writ of
+election in case of a tie.
+*** SEND ***
+
+*** SSTART 263.0 9012.0 0 KY 1890 ***
+SEC. 263. Before a vote is taken upon the question of calling a convention, the Secretary of State
+shall cause notice of the election to be published in such manner as may be provided by the act
+directing said vote to be taken.
+*** SEND ***
+*** AEND***
+
+*** ASTART 9003.0 KY 1890 ***
+SCHEDULE.
+
+     That no inconvenience may arise from the alterations and amendments made in this
+Constitution and in order to carry the same into complete operation, it is hereby declared and
+ordained:
+
+First: That all laws of this Commonwealth in force at the time of the adoption of this Constitution,
+not inconsistent therewith, shall remain in full force until altered or repealed by the General
+Assembly; and all rights, actions, prosecutions, claims and contracts of the State, counties,
+individuals or bodies corporate, not inconsistent therewith, shall continue as valid as if this
+Constitution had not been adopted. The provisions of all laws which are inconsistent with this
+Constitution shall cease upon its adoption, except that all laws which are inconsistent with such
+provisions as require legislation to enforce them shall remain in force until such legislation is had,
+but not longer than six years after the adoption of this Constitution, unless sooner amended or
+repealed by the General Assembly.
+
+Second: That all recognizances, obligations and all other instruments entered into or executed
+before the adoption of this Constitution, to the State, or to any city, town, county or subdivision
+thereof, and all fines, taxes, penalties and forfeitures due or owing to this State, or to any city,
+town, county or subdivision thereof; and all writs, prosecutions, actions and causes of action,
+except as otherwise herein provided, shall continue and remain unaffected by the adoption of this
+Constitution. And all indictments which shall have been found, or may hereafter be found, for any
+crime or offense committed before this Constitution takes effect, may be prosecuted as if no
+change bad taken place, except as otherwise provided in this Constitution.
+
+Third: All circuit, chancery, criminal, law and equity, law, and Common Pleas Courts, as now
+constituted and organized by law, shall continue with their respective jurisdictions until the Judges
+of the Circuit Courts provided for in this Constitution shall have been elected and qualified, and
+shall then cease and determine; and the causes, actions and proceedings then pending in said first
+named courts, which are discontinued by this Constitution, shall be transferred to, and tried by,
+the Circuit Courts in the counties, respectively, in which said causes, actions and proceedings are
+pending.
+
+Fourth: The Treasurer, Attorney-General, Auditor of Public Accounts, Superintendent of Public
+Instruction, and Register of the Land Office, elected in eighteen hundred and ninety-one, shall
+hold their offices until the first Monday in January, eighteen hundred and ninety-six, and until the
+election and qualification of their successors. The Governor and Lieutenant-Governor elected in
+eighteen hundred and ninety-one shall hold their offices until the sixth Tuesday after the first
+Monday in November, eighteen hundred and ninety-five, and until their successors are elected and
+qualified. The Governor and Treasurer elected in eighteen hundred and ninety-one shall be
+ineligible to the succeeding term. The Governor elected in eighteen hundred and ninety-one may
+appoint a Secretary of State and a Commissioner of Agriculture, Labor and Statistics, as now
+provided, who shall hold their offices until their successors are elected and qualified, unless
+sooner removed by the Governor. The official bond of the present Treasurer shall be renewed at
+the expiration of two years from the time of his qualification.
+
+Fifth: All officers who may be in office at the adoption of this Constitution, or who may be elected
+before the election of their successors, as provided in this Constitution, shall hold their respective 
+offices until their successors are elected or appointed and qualified as provided in this
+Constitution.
+Sixth: The quarterly courts created by this Constitution shall be the successors of the present
+statutory Quarterly Courts in the several counties of this State; and all suits, proceedings,
+prosecutions, records and judgments now pending or being in said last named courts shall, after
+the adoption of this Constitution, be transferred to the Quarterly Courts created by this
+Constitution, and shall proceed as though the same had been therein instituted.
+*** AEND ***
+
+*** ASTART 9023.0 KY 1890 ***
+ORDINANCE
+     We, the representatives of the people of Kentucky, in Convention assembled, in their name
+and by their authority and in virtue of the power vested in us as Delegates from the counties and
+districts respectively affixed to our names, do ordain and proclaim the foregoing to be the
+Constitution of the Commonwealth of Kentucky from and after this date.
+
+     Done at Frankfort this twenty-eighth day of September, in the year of our Lord one
+thousand eight hundred and ninety-one, and in the ninety-ninth year of the Commonwealth.
+
+CASSIUS M. CLAY, Jr.,
+President of the Convention, and Member from the County of Bourbon.
+
+THOMAS G. POORE, Secretary.
+JAMES B. MARTIN, Assistant Secretary.
+JAMES EDWARDS STONE, Reading Clerk.
+
+FRANKFORT, KY., October 6, 1891.
+
+     Having been appointed by the Convention to superintend the correct printing of the
+Constitution, etc., I hereby certify that I have carefully compared the above printed copy with the
+enrolled copy in the office of Secretary of State, and find it correct.
+C. T. ALLEN,
+Delegate from Caldwell County.
+*** AEND ***
+*** CEND ***

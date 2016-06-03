@@ -1,0 +1,2067 @@
+This is ready to go.
+     
+               
+JW 9/11/02
+
+
+
+
+*** CSTART NY 11/6/1894 11/8/1938 ***
+
+*** ASTART 9001.0 NY 1894 ***
+
+New York State Constitution, 1894
+
+We, the people of the State of New York, grateful to Almighty God for our Freedom, in order to
+secure its blessings, do establish this constitution.
+
+*** AEND ***
+*** ASTART 001.0 NY 1894 ***
+
+*** SSTART 001.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 1
+1.  No member of this State shall be disfranchised, or deprived of any of the rights or privileges
+secured by any citizen thereof, unless by the law of the land, or the judgement of his peers.
+
+*** SEND ***
+*** SSTART 002.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 2
+2.  The trial by jury in all cases in which it has been heretofore used, shall remain inviolate
+forever; but a jury trial may be waived by the parties in all civil cases in the manner to be
+prescribed by law.
+
+*** SEND ***
+*** SSTART 003.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 3.
+3.  The free exercise and enjoyment of religious profession and worship, without discrimination
+or preference, shall forever be allowed in this State to all mankind; and no person shall be
+rendered incompetent to be a witness on account of his opinions on matters of religious belief;
+but the liberty of conscience hereby secured shall not be so construed as to excuse acts of
+licentiousness, or justify practices, inconsistent with the peace or safety of this State.
+
+*** SEND ***
+*** SSTART 004.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 4.
+4.  The privilege of the writ of habeas corpus shall not be suspended, unless when, in cases of
+rebellion or invasion, the public safety may require its suspension.
+
+*** SEND ***
+*** SSTART 005.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 5.
+5.  Excessive bail shall not be required nor excessive fines imposed, nor shall cruel and unusual
+punishments be inflicted, nor shall witnesses be unreasonably detained.
+
+*** SEND ***
+*** SSTART 006.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 6.
+6. No person sha1l be held to answer for a capital or otherwise infamous crime (except in case of
+impeachment, and in cases of militia when in actual service; and the land and naval forces in
+time of war, or which this state may keep, with the consent of Congress in time of peace; and in
+cases of petit larceny, under the regulation of the Legislature), unless on presentment or
+indictment of a grand jury; and in any trial in any court whatever, the party accused shall be
+allowed to appear and defend in person and with counsel as in civil actions.  No person shall be
+subject to be twice put in jeopardy for the same offence; nor shall he be compelled in any
+criminal case to be a witness against himself; nor be deprived of life, liberty or. property without
+due process of law; nor shall private property be taken for public use, without just compensation.
+
+*** SEND ***
+*** SSTART 007.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 7.
+7. When private property shall be taken for any public use the compensation to be made therefor,
+when such compensation is not made by the State, shall be ascertained by a jury or by not less
+than three commissioners appointed by a court of record, as shall be prescribed, by law. Private
+roads may be opened in the manner to be prescribed by law; but in every case the necessity of the
+road, and the amount of all damage to be sustained by the opening thereof, shall be first
+determined by a jury of freeholders, and such amount, together with the expenses of the
+proceeding, shall be paid by the person to be benefitted. General laws may be passed permitting
+the owners or occupants of agricultural lands to construct and maintain for the drainage thereof;
+necessary drains, ditches and dykes upon the lands of others, under proper restrictions and with
+just compensation, but no special laws shall be enacted for such purposes.
+
+*** SEND ***
+*** SSTART 008.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 8.
+8.   Every citizen may freely speak, write, and publish his sentiments on all subjects, being
+responsible for the abuse of that right; and no law shall be passed to restrain or abridge the liberty
+of speech or of the press. In all criminal prosecutions or indictments for libels, the truth may be
+given in evidence to the jury; and if it shall appear to the jury, that the matter charged as libelous
+is true, and was published with good motives, and for justifiable ends, the party shall be       
+acquitted; and the jury shall have the right to determine the law and the fact.
+
+*** SEND ***
+*** SSTART 009.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 9.
+9. No law shall be passed abridging the right of the people peaceably to assemble and to petition
+the government, or any department thereof; nor shall any divorce be granted otherwise than by
+due judicial proceedings; nor shall any lottery or the sale of lottery tickets, pool-selling,
+book-making, or any other kind of gambling hereafter be authorized or allowed within this State;
+and the Legislature shall pass appropriate laws to prevent offenses against any of the provisions
+of this section.
+         
+*** SEND ***
+*** SSTART 010.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 10.
+10. The people of this State, in their right of sovereignty, are deemed to possess the original and
+ultimate property in and to all lands within the jurisdiction of the State; and all lands the title to    
+  which shall fail, from a defect of heirs, shall revert, or escheat to the people.
+
+*** SEND ***
+*** SSTART 011.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 11.
+11. All feudal tenures of every description, with all their incidents, are declared to be abolished,
+saving, however, all rents and services certain which at any time heretofore have been lawfully
+created or reserved.
+
+*** SEND ***
+*** SSTART 012.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 12.
+12. All lands within this state are declared to be allodial, so that, subject only to the liability to
+escheat, the entire and absolute property is vested in the owners, according to the nature of their
+respective estates.
+
+*** SEND ***
+*** SSTART 013.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 13.
+13. No lease or grant. of agricultural land, for a longer period than twelve years, hereafter made,
+in which shall be reserved any rent or service of any kind, shall be valid.
+
+*** SEND ***
+*** SSTART 014.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 14.
+14. All fines, quarter sales, or other like restraints upon alienation reserved in any grant of land,
+hereafter to be made, shall be void.
+         
+*** SEND ***
+*** SSTART 015.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 15.
+15. No purchase or contract for the sale of lands in this state made since the fourteenth day of
+October, one thousand seven hundred and seventy-five, or which may hereafter be made, of, or
+with the Indians, shall be valid, unless made under the authority, and with the consent of the
+legislature.
+
+*** SEND ***
+*** SSTART 016.0 001.0 0 NY 1894 ***         
+
+Art. 1, Sec. 16.
+16. Such parts of the common law, and of the acts of the legislature of the colony of New York,
+as together did form the law of the said colony, on the nineteenth day of April, one thousand
+seven hundred and seventy-five, and the resolutions of the congress of the said colony, and of the
+convention of the State of New York, in force on the twentieth day of April, one thousand seven
+hundred and seventy-seven, which have not since expired, or been repealed or altered; and such
+acts of the Legislature of this State as are now in force, shall be and continue the law of this
+State, subject to such alterations as the Legislature shall make concerning the same. But all such
+parts of the common law, and such of the said acts, or parts thereof, as are repugnant to this
+constitution, are hereby abrogated.
+
+*** SEND ***
+*** SSTART 017.0 001.0 0 NY 1894 ***
+
+Art. 1, Sec. 17.
+17. All grants of land within this State, made by the king of  Great Britain, or persons acting
+under his authority, after the fourteenth day of October, one thousand seven hundred and
+seventy-five, shall be null and void; but nothing contained in this constitution shall affect any
+grants of land within this State, made by the authority of this king or the said predecessors, or
+shall annul any charters to bodies politic and corporate, by him or them made, before that day;     
+or shall affect any such grants or charters since made by this State, or by persons acting under its
+authority; or shall, impair the obligation of any debts contracted by the State, or individuals, or
+bodies corporate, or any other rights of property, or any suits, actions, rights of actions, or other
+proceedings in courts of justice.   
+         
+*** SEND ***
+*** AEND ***
+
+*** ASTART 002.0 NY 1894 ***
+
+ARTICLE II.
+
+*** SSTART 001.0 002.0 0 NY 1894 ***
+
+Art. 2, Sec. 1.
+1. Every male citizen of the age of twenty-one years, who shall have been a citizen for Ninety
+days, and an inhabitant of this State one year next preceding an election, and for the last four
+months a resident of the county, and for the last thirty days a resident of the election district in
+which he may offer his vote, shall be entitled to vote at such election in the election district of
+which he shall at the time be a resident, and not elsewhere, for all officers that now are or
+hereafter may be elective by the people, and upon all questions which may be submitted to the
+vote of the people; provided that in time of war no elector in the actual military service of the
+State, or of the United States, in the army or navy thereof, shall be deprived of his vote by       
+reason of his absence from such election district; and the Legislature shall have power to provide
+the manner in which and the time and place at which such absent electors may vote, and for the
+return and canvass of their votes in the election districts in which they respectively reside.
+
+*** SEND ***
+*** SSTART 002.0 002.0 0 NY 1894 ***              
+
+Art. 2, Sec. 2.
+2. No person who shall receive, accept, or offer to receive, or pay, offer or promise to pay,
+contribute, offer or promise to contribute to another, to be paid or used, any money or other
+valuable thing as a compensation or reward for the giving or withholding a vote at an election, or
+who shall make any promise to influence the giving or withholding any such vote, or who shall
+make or become directly or indirectly interested in any bet or wager depending upon the result of 
+
+any election, shall vote at such election; and upon challenge for such cause, the person so
+challenged, before the officers authorized for that purpose shall receive his vote, shall swear or
+affirm, before such officer that he has not received or offered, does not expect to receive, has not
+paid, offered or promised to pay, contributed, offered or promised to contribute to another, to be
+paid or used, any money or other valuable thing as a compensation or reward for the giving or      
+
+withholding a vote at such election, and has not made any promise to influence the giving or
+withholding of any such vote, nor made or become directly or indirectly interested in any bet or
+wager depending upon the result of such election. The Legislature shall enact laws excluding
+from the right of suffrage all persons convicted of bribery or of any infamous crime.
+         
+*** SEND ***
+
+
+
+*** SSTART 003.0 002.0 0 NY 1894 ***
+
+Art. 2, Sec. 3
+
+For the purpose of voting, no person shall be deemed to have gained or lost a residence, by
+reason of his presence or absence, while employed in the service of the United States; nor while
+engaged in the navigation of the waters of this State, or of the United States, or of the high seas;
+nor while a student of any seminary of learning; nor while kept at any almshouse, or other
+asylum, or institution wholly or partly supported at public expense or by charity; nor while
+confined in any public prison.
+
+*** SEND ***
+*** SSTART 004.0 002.0 0 NY 1894 ***
+
+Art. 2, Sec. 4
+4. Laws shall be made for ascertaining, by proper proofs, the citizens who shall be entitled to the
+right of suffrage hereby established, and for the registration of voters; which registration shall be
+completed at least ten days before each election. Such registration shall not be required for town
+and village elections except by express provision of law, in cities and villages having five
+thousand inhabitants or more; according to the last preceding State enumeration of inhabitants,
+voters shall be registered upon personal application only; but voters not residing in such cities or
+villages shall not be required to apply in person for registration at the first meeting of the officers
+having charge of the registry of voters.
+
+
+*** SEND ***
+*** SSTART 005.0 002.0 0 NY 1894 ***
+
+Art. 2, Sec. 5.
+5. All elections by the citizens, except for such town officers as may by law be directed to be
+otherwise chosen, shall be by ballot, or by such other method as may be prescribed by law,
+provided that secrecy in voting be preserved.
+
+*** SEND ***
+*** SSTART 006.0 002.0 0 NY 1894 ***
+
+Art. 2, Sec. 6.
+6. All laws creating, regulating or affecting boards or officers charged with the duty of
+registering
+voters, or of. distributing ballots at the polls to voters, or of receiving, recording or counting
+votes at elections, shall secure equal representation of the two political parties, which at the
+general election next preceding that for which such boards or officers are to serve, cast the
+highest and the next highest number of votes. All such boards and officers shall be appointed or
+elected in such manner, and upon the nomination of such representatives of said parties
+respectively, as the Legislature may direct. Existing laws on this subject shall continue until the
+Legislature shall otherwise provide. This section shall not apply to town meetings, or to village
+elections.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 003.0 NY 1894 ***
+*** SSTART 001.0 003.0 0 NY 1894 ***
+
+Art. 3, Sec. 1
+1.  The legislative power of this State shall be vested in a Senate and Assembly.
+
+*** SEND ***
+*** SSTART 002.0 003.0 0 NY 1894 ***
+
+Art. 3, Sec. 2
+2. The Senate shall consist of fifty members, except as hereinafter provided. The Senators elected
+in the year one thousand eight hundred and ninety-five shall hold their offices for three years, and
+their successors shall be chosen for two years. The Assembly shall consist of one hundred and
+fifty members, who shall be chosen for one year.
+
+*** SEND ***
+*** SSTART 003.0 003.0 0 NY 1894 ***
+         
+3. The State shall be divided into fifty districts, to be called senate districts, each of which shall
+choose one senator. The districts shall be numbered from one to fifty, inclusive.
+District number one (1) shall consist of the counties of Suffolk and Richmond.
+District number two (2) shall consist of the county of Queens.
+District number three (3) shall consist of that part of the county of Kings. comprising the first,
+second, third, fourth, fifth and sixth wards of the city of Brooklyn.
+District number four (4) shall consist of that part of the county of Kings comprising the seventh,
+thirteenth, nineteenth and twenty-first wards of the city of Brooklyn.
+District number five (5) shall consist of that part of the county of Kings comprising the eighth,
+tenth, twelfth and thirtieth wards of the city of Brooklyn, and the ward of the city of Brooklyn
+which was formerly the town of Gravesend.
+District number (6) shall consist of that part of the county of Kings comprising the ninth,
+eleventh, twentieth and twenty-second wards of the city of Brooklyn.
+District number seven (7) shall consist of that part of the county of Kings comprising the
+fourteenth, fifteenth, sixteenth and seventeenth wards of the city of Brooklyn.
+District number eight (8) shall consist of that part of the county of Kings comprising the
+twenty-third, twenty-fourth, twenty-fifth and twenty-ninth wards of the city of Brooklyn, and the
+town of Flatlands.
+District number nine (9) shall consist of that part of the county of Kings comprising, the
+eighteenth, twenty-sixth, twenty-seventh and twenty-eighth wards of the city of Brooklyn.
+District number ten ([0) shall consist of that part of the county of New York within and bounded
+by a line beginning at Canal street and the Hudson river, and running thence along Canal street,
+Hudson street, Dominick street, Varick street, Broome street, Sullivan street, Spring street,
+Broadway, Canal street, the Bowery, Division street, Grand street and Jackson street to the East
+river, and thence around the southern end of Manhattan Island to the place of beginning, and also
+Governor's, Bedlow's and Ellis islands.
+District number eleven (11) shall consist of that part of the county of New York lying north of
+district number ten, and within and bounded by a line beginning at the junction of Broadway and
+Canal street, and running thence along Broadway, Fourth street, the Bowery and Third avenue,
+St. Mark's place, Avenue A, Seventh street, Avenue B, Clinton street, Rivington street, Norfolk
+street, Division street, Bowery and Canal street, to the place of beginning.
+District number twelve (12) shall consist of that part of the county of New York lying north of
+districts numbers ten and eleven, and within and bounded by a line beginning at Jackson street
+and the East river, and running thence through Jackson street, Grand street, Division street,
+Norfolk street, Rivington street, Clinton street, Avenue B, Seventh street, Avenue A, St. Mark's
+place, Third avenue, East Fourteenth street to the East river, and along the East river to the place  
+      of beginning.
+District number thirteen (13) shall consist of that part of the county of New York lying north of
+district number ten, and within and bounded by a line beginning at the Hudson river at the foot of
+Canal street, and running thence along Canal street, Hudson street, Dominick street, Varick
+street, Broome street, Sullivan street, Spring street, Broadway, Fourth street, the Bowery and
+Third avenue, Fourteenth street, Sixth avenue, West Fifteenth street, Seventh avenue, West
+Nineteenth street, Eighth avenue, West Twentieth street and the Hudson river to the place of
+beginning.    
+District number fourteen (14) shall consist of that part of the county of N w York lying north of
+districts numbers twelve and thirteen, and within and bounded by a line beginning at East
+Fourteenth street and the East river, and running thence along East Fourteenth street, Irving
+place, East Nineteenth street, Third avenue, East.
+Twenty-third street, Lexington avenue, East Fifty-third street, Third avenue, East Fifty-second
+street, and the East river to the place of beginning.
+District number fifteen (15) shall consist of that part of the county of New York lying north of
+district number thirteen, and within and bounded by a line beginning at the junction of West
+Fourteenth street and Sixth avenue, and running thence along Sixth avenue, West Fifteenth street,
+Seventh avenue, West Fortieth street, Eighth avenue, and the transverse road across Central park
+at Ninety-seventh street, Fifth avenue, East Ninety-sixth street, Lexington avenue, East
+Twenty-third street, Third avenue east Nineteenth street, Irving place, and Fourteenth street, to
+the place of beginning.
+District number sixteen (16) shall consist of that part of the county, of New York lying north of
+district number thirteen, and within and bounded by a line beginning at Seventh avenue and West
+Nineteenth street, and running thence along West Nineteenth street, Eighth avenue, West
+Twentieth street, the Hudson river, West Forty-sixth street, Tenth avenue, West Forty-third
+street, Eighth avenue, West Fortieth street and Seventh avenue, to the place of beginning.
+District number seventeen (17) shall consist of that part of the county of New York lying north of
+district number sixteen, and within and bounded by a line beginning at the junction of Eighth
+avenue and West Forty-third street, and running thence along West Forty-third street, Tenth
+avenue, West Forty-sixth street, the Hudson river, West Eighty-ninth street, Tenth or Amsterdam
+avenue, West Eighty-sixth street, Ninth or Columbus avenue, West Eighty-first street and Eighth  
+ avenue, to the place of beginning.
+District number eighteen (18) shall consist of that part of the county of New York lying north of
+district number fourteen, and within and bounded by a line beginning at the junction of' East
+Fifty-second street and the East river, and running thence along East Fifty-second street, Third
+avenue, East Fifty-third street, Lexington avenue, East Eighty-fourth street, Second avenue, East
+Eighty-third street, and the East river, to the place of beginning; and also Blackwell's island.
+District number nineteen (19) shall consist of that part of the county of New York lying north of
+district number seventeen, and within and bounded by a line beginning at West Eighty-ninth
+street and the Hudson river, and running thence along the Hudson river and Spuyten Duyvil
+creek
+around the northern end of Manhattan island; thence southerly along the Harlem river to the
+north, end of Fifth avenue; thence along Fifth avenue, East One Hundred and Twenty-ninth       
+street, Fourth or Park avenue, East One Hundred and Tenth street, Fifth avenue, the transverse
+road across Central Park at Ninety-seventh street Eighth avenue, West Eighty-first street, Ninth
+or Columbus avenue, West Eighty-sixth street, Tenth or Amsterdam avenue and West
+eighty-ninth street, to the place of beginning.
+District number twenty (20) shall consist of that part of the county of New York lying north of
+districts numbers eighteen and fifteen, and within and bounded by a line beginning at East
+Eighty-third street and the East river, running thence through East Eighty-third street, Second
+avenue, East Eighty-fourth street, Lexington avenue, East Ninety-sixth street, Fifth avenue, East
+One Hundred and Tenth street, Fourth or Park avenue, East One Hundred and Nineteenth    
+street to the Harlem river, and along the Harlem and East rivers, to the place of beginning; and
+also Randall's island and Ward's island.
+All of the above districts in the county of New York bounded upon or along, the boundary waters
+of the county, shall be deemed to extend to the county line.
+District number twenty-one (21) shall consist of that part of the county of New York lying north
+of districts numbers nineteen and twenty, within and bounded by a line beginning at East One
+Hundred and Nineteenth street and the Harlem river, and running thence along East One Hundred
+and Nineteenth street, Fourth or Park avenue, One Hundred and Twenty-ninth street, Fifth
+avenue and the Harlem river, to the place of beginning; and all that part of the county of New
+York not hereinbefore described.
+District number twenty-two (22) shall consist of the county of Westchester.
+District number twenty-three (23) shall consist of the counties of Orange and Rockland.
+District number twenty-four (24) shall consist of the counties of Dutchess, Columbia and
+Putnam.
+District number twenty-five (25) shall consist of the counties of Ulster and Greene.
+District number twenty-six (26) shall consist of the counties of Delaware, Chenango and
+Sullivan.
+District number twenty-seven (27) shall consist of the counties of Montgomery, Fulton,
+Hamilton
+and Schoharie.
+District number twenty-eight (28) shall consist of the counties of Saratoga, Schenectady and
+Washington.
+District number twenty-nine (29) shall consist of the county of Albany.
+District number thirty (30) shall consist of the county of Rensselaer.
+District number thirty-one (31) shall consist of the counties of Clinton, Essex and Warren.
+District number thirty-two (32) shall consist of the counties of St. Lawrence and Franklin.
+District number thirty-three (33) shall consist of the, counties of Otsego and Herkimer.
+District number thirty-four (34) shall consist of the county of Oneida.
+District number thirty-five (35) shall consist of the counties of Jefferson and Lewis.
+District number thirty-six (36) shall consist of the county of Onondaga.
+District number thirty-seven (37) shall consist of the counties of Oswego and Madison.
+District number thirty-eight (38) shall consist of the counties of Broome, Cortland and Tioga.
+District number thirty-nine (39) shall consist of the counties of Cayuga and Seneca.
+District number forty (40) shall consist of the counties of Ohemung, Tompkins and Schuyler.
+District number forty-one (41) shall consist of the counties of Steuben and Yates.
+District number forty-two (42) shall consist of the counties of Ontario and Wayne.
+District number forty-three (43) shall consist of that part of the county of Monroe comprising the
+towns of Brighton, Henrietta, Irondequoit, Mendon, P‚nfield, Perinton, Pittsford, Rush and
+Webster, and the fourth, sixth, seventh, eighth, twelfth, thirteenth, fourteenth, sixteenth,
+seventeenth and eighteenth wards of the city of Rochester, as at present constituted.
+District number forty-four (44) shall consist of that part of the county of Monroe comprising the
+towns of Chili, Clarkson, Gates, Greece, Hamlin, Ogden, Parma, Riga, Sweden and Wheatland,
+and the first, second, third, fifth, ninth, tenth, eleventh, fifteenth, nineteenth and twentieth wards
+of the city of Rochester, as at present constituted.
+District number forty-five (45) shall consist of the counties of Niagara, Genesee and Orleans.
+District number forty-six (46) shall consist of the counties of Alleganv, Livingston and
+Wyoming.
+District number forty-seven (47) shall consist of that part of the county of Erie comprising the
+first, second, third, sixth, fifteenth, nineteenth, twentieth, twenty-first, twenty-second,
+twenty-third and twenty-fourth. wards of the city of Buffalo, as at present constituted.
+District number forty-eight (48) shall consist of that part of the county of Erie comprising the
+fourth, fifth, seventh, eighth, ninth, tenth, eleventh, twelfth, thirteenth, fourteenth and sixteenth
+wards of the city of Buffalo, as at present constituted.
+District number forty-nine (49) shall consist of that part of the county of Erie comprising the
+seventeenth, eighteenth and twenty-fifth wards of the city of Buffalo, as at present constituted;
+and all the remainder of the said county of Erie not hereinbefore described.
+District number fifty (50) shall consist of the counties of Chautauqua and Cattaraugus.
+
+*** SEND ***
+*** SSTART 004.0 003.0 0 NY 1894 ***
+
+4. An enumeration of the inhabitants of the State shall be taker under the direction of the
+Secretary of State, during the months of May and June, in the year one thousand nine hundred
+and five, and in the same months every tenth year thereafter; arid the said district shall be so
+altered by the Legislature at the first regular session after the return of every enumeration, that
+each senate district shall contain as nearly as may be an equal number of inhabitants, excluding    
+
+  aliens, and be in as compact form as practicable, and shall remain unaltered until the return of
+another enumeration, and shall at all times, consist of contiguous territory, and no county shall be
+divided in the formation of a senate district except to make two or more senate districts wholly in
+such county. No town, and no block in a city inclosed by streets or public ways, shall be divided
+in the formation of senate districts; nor shall any district contain a greater excess in population
+over an adjoining district in the same county, than the population of a town or block therein,
+adjoining such district, counties, towns or blocks which, from their location, may be included       
+in either of two districts, shall be so placed as to make said districts most nearly equal in number
+of inhabitants, excluding aliens.
+     No county shall have four or more senators unless it shall have a full ratio for each senator.
+No county shall have more than one-third of all the senators; and no two counties or the territory
+thereof as now organized, which are adjoining counties, or which are separated only by public
+waters, shall have more than one-half of all the senators.
+    The ratio for apportioning senators shall always be obtained by dividing the number of
+inhabitants, excluding aliens, by fifty, and the Senate shall always be composed of fifty
+members,
+except that if any county having three or more senators at the time of any apportionment shall be
+entitled on such ratio to an additional senator or senators, such additional senator or senators
+shall be given to such county in addition to the fifty senators, and the whole number of senators
+shall be increased to that extent.
+
+*** SEND ***
+*** SSTART 005.0 003.0 0 NY 1894 ***
+
+5. The members of the Assembly shall be chosen by single districts, and shall be apportioned by
+the Legislature at the first regular session after the return of every enumeration among the several
+counties of the State, as nearly as may be according to the number of their respective inhabitants,
+excluding aliens. Every county heretofore established and separately organized, except the
+county
+of Hamilton, shall always be entitled to one member of assembly, and no county shall hereafter
+be erected unless its population shall entitle it to a member. The county of Hamilton shall elect
+with the county of Fulton, until the population of the county of Hamilton shall, according to the
+ratio, entitle it to a member. But the Legislature may abolish the said county of Hamilton and
+annex the, territory thereof to some other county or counties.
+     The quotient obtained by dividing the whole number of inhabitant of the State, excluding
+aliens, by the number of members of assembly, shall be the ratio for apportionment which shall
+be made as follows: One member of assembly shall be apportioned to every county, including
+Fulton and Hamilton as one county, containing less than the ratio and one-half over. Two
+members shall be apportioned to every other county. The remaining members of assembly shall
+be apportioned.
+to the counties having more than two ratios according to the number of inhabitants, excluding
+aliens. Members apportioned on remainders shall be apportioned to the counties having the
+highest remainders in the order thereof respectively. No county shall have more members of
+assembly than a county having a greater number of inhabitants, excluding aliens.
+     Until after the next enumeration, members ,of the Assembly shall be apportioned to the
+several counties as follows: Albany county, four members; Alleganv county one member;
+Broome county, two members; Cattaraugus county, two members; Cayuga county, two
+members;
+Chautauqua county, two members; Chemung county, one member; Chenango county, one
+member; Clinton county, one member; Columbia county, one member; Cortland county,. One
+member; Delaware county, one member; Dutchess county, two members; Erie county, eight
+members; Essex county, one member; Franklin county, one member; Fulton and Hamilton
+counties, one member;      Genesee county, one member; Greene county, one member; Herkirmer
+county, one member; Jefferson county, two members; Kings county, twenty-one members; Lewis
+county, one member; Livingston county, one member; Madison county, one member; Monroe
+county, four members; Montgomery county, one member; New York county, thirty-five
+members; Niagara county, two members; Oneida county; three members; Onondaga county, four
+members; Ontario county,         one member: Orange county, two, members; Orleans county, one
+member; Oswego county, two members; Otsego county, one member; Putnam county, one
+member; Queens county, three members; Rensselaer county, three members; Richmond county,
+one member; Rockland county, one member; St. Lawrence county, two members; Saratoga
+county, one member; Schenectady county, one member; Schoharie county, one member;
+Schuyler county, one member; Seneca        county, one member; Steuben county, two members;
+Suffolk county, two members;. Sullivan county; one member; Tioga county, one member;
+Tompkins county, one member; Ulster county, two members ; Warren county, one member;
+Washington county, one member; Westchester county, three members; Wyoming county, one
+member; and Yates county, one member.
+     In any county entitled to more than one member, the board of supervisors, and in any city
+embracing an entire county and having no board of supervisors, the common council, or if there
+be none, the body exercising the powers of a common council, shall assemble on the second
+Tuesday in June, one thousand eight hundred and ninety-five, and at such times as the
+Legislature
+making an apportionment shall prescribe, and divide such counties into assembly districts as     
+nearly equal in number of inhabitants, excluding aliens, as may be, of convenient and contiguous
+territory in as compact form as practicable, each of which shall be wholly within a senate district
+formed under the same apportionment, equal to the number of members of assembly to which
+such county shall be entitled, and shall cause to be filed it the office of the Secretary of State and
+of the clerk of such county, a description of such districts, specifying the number of each district
+and of the inhabitants, thereof, excluding aliens, according to the last preceding enumeration and
+such apportionment and districts shall. remain unaltered until another enumeration shall be made,
+as herein provided; but said division of the city of Brooklyn and the county of Kings to be made
+on the second Tuesday of June, one thousand eight hundred and ninety-five, shall be made by the
+common council of said city and the board of supervisors of said county, assembled in joint
+session. In counties having more than one senate district, the same number of assembly districts
+shall be put in each senate district, unless the assembly districts cannot be evenly divided among
+the senate districts of any county, in which case one more assembly district shall be put in the
+senate district in such county having the largest, or one less assembly district shall be put in the
+senate district in such county having the smallest number of inhabitants, excluding aliens, as the
+case may require. No town, and no block in a city inclosed by streets or public ways, shall be
+divided in the formation of assembly districts, nor shall any district contain a greater excess in
+population over an adjoining district in the same senate district, than the population of a town or
+block therein adjoining such assembly district. Towns or blocks which, from their location, may
+be included in either of two districts, shall be so placed as to make said districts most nearly
+equal in number of inhabitants, excluding aliens; but in the division of cities under the first
+apportionment, regard shall. be had to the number of inhabitants, excluding aliens, of the election
+districts according to the state enumeration of one thousand eight hundred and ninety-two, so far
+as may be, instead of blocks. Nothing in this section shall prevent the division, at any time, of
+counties and towns, and the erection of new towns by the Legislature.
+     An apportionment by the Legislature, or other body, shall be subject to review by the
+Supreme
+Court, at the suit of any citizen, under such reasonable regulations as the Legislature may
+prescribe; and any court before which a cause may be pending involving an appointment, shall     
+
+give precedence thereto over all other causes and proceedings, and if said court be not in session
+it shall convene promptly for the disposition of the same.
+
+*** SEND ***
+*** SSTART 006.0 003.0 0 NY 1894 ***
+
+6. Each member of the Legislature shall receive for his services an annual salary of one thousand
+five hundred dollars. The members of either house shall also receive the sum of one dollar for
+every ten miles they shall travel in going to and returning from their place of meeting, once in
+each session, on the most usual route. Senators, when the Senate alone is convened in
+extraordinary session, or when serving as members of the Court for the Trial of Impeachments,
+and such members of the Assembly, not exceeding nine in number, as shall be appointed
+managers of an impeachment, shall receive an additional allowance of ten dollars a day.
+
+*** SEND ***
+*** SSTART 007.0 003.0 0 NY 1894 ***
+
+7. No member of the Legislature shall receive any civil appointment within this State, or the
+Senate of the United States, from the Governor, the Governor and Senate, or from the
+Legislature, or from any city government during the time for which he shall have been elected;
+and all such appointments and all votes given for any such member for any such office or
+appointment shall be void.
+
+*** SEND ***
+*** SSTART 008.0 003.0 0 NY 1894 ***
+
+8. No person shall be eligible to the Legislature, who at the time of his election, is, or within one
+hundred days previous thereto, has been a member of Congress, a civil or military officer under
+the United States, or an officer under any city government. And if any person shall, after his
+election as a member of the Legislature, be elected to Congress, or appointed to any office, civil
+or military, under the government of the United States, or under any city government, his
+acceptance thereof shall vacate his seat.
+
+*** SEND ***
+*** SSTART 009.0 003.0 0 NY 1894 ***
+
+9. The elections of Senators and members of Assembly, pursuant to the provisions of this
+Constitution, shall be held on the Tuesday succeeding the first Monday of November, unless
+otherwise directed by the Legislature.
+
+*** SEND ***
+*** SSTART 010.0 003.0 0 NY 1894 ***
+
+10. A majority of each house shall constitute a quorum to do business. Each house shall
+determine the rules of its own proceedings and be the judge of the elections, returns and
+qualifications of its own members; shall choose its own officers; and the Senate shall choose a
+temporary president to preside in case of the absence or impeachment of the
+Lieutenant-Governor, or when he shall refuse to act as president, or shall act as Governor.
+         
+*** SEND ***
+*** SSTART 011.0 003.0 0 NY 1894 ***
+
+11. Each house shall keep a journal of its proceedings, and publish the same, except such parts as
+may require secrecy. The doors of each house shall be kept open, except when the public welfare
+shall require secrecy. Neither house shall, without the consent of the other, adjourn for more than
+two days.
+
+*** SEND ***
+*** SSTART 012.0 003.0 0 NY 1894 ***
+
+12. For any speech or debate in either house of the Legislature, the members shall not be
+questioned in any other place.
+
+*** SEND ***
+*** SSTART 013.0 003.0 0 NY 1894 ***
+
+13. Any bill may originate in either house of the Legislature, and all bills passed by one house
+may be amended by the other.
+
+*** SEND ***
+*** SSTART 014.0 003.0 0 NY 1894 ***
+
+14. The enacting clause of all bills shall be "The People of the State of New York, represented in
+Senate and Assembly, do enact as follows," and no law shall be enacted except by bill.
+
+*** SEND ***
+*** SSTART 015.0 003.0 0 NY 1894 ***
+
+15. No bill shall be passed or become a law unless it shall have been printed and upon the desks
+of the members, in its final form, at least three calendar legislative days prior to its final passage,
+unless the Governor, or the acting Governor, shall have certified to the necessity of its immediate
+passage, under his hand and the seal of the State; nor shall any bill be passed or become a law,
+except by the assent of a majority of the members elected to each branch of the Legislature;       
+and upon the last reading of a bill, no amendment thereof shall be allowed, and the question upon
+its final passage shall be taken immediately thereafter, and the yeas and nays entered on the
+journal.
+
+*** SEND ***
+*** SSTART 016.0 003.0 0 NY 1894 ***
+
+16. No private or local bill, which may be passed by the Legislature, shall embrace more than
+one. subject, and that shall be expressed in the title.
+         
+*** SEND ***
+*** SSTART 017.0 003.0 0 NY 1894 ***
+
+17.  No act shall be passed which shall provide that any existing law, or any part thereof, shall be
+made or deemed a part of said act, or which shall enact that any existing law, or part thereof,
+shall be applicable, except by inserting it in such act.
+
+*** SEND ***
+*** SSTART 018.0 003.0 0 NY 1894 ***
+
+18.  The Legislature shall not pass a private or local bill in any of the following cases:
+     Changing the names of persons.
+     Laying out, opening, altering, working or discontinuing roads, highways or alleys, or for
+draining swamps or other lowlands.         
+     Locating or changing county seats.
+     Providing for changes of venue in civil or criminal cases.
+     Incorporating villages.
+     Providing for election of members of boards of supervisors.
+     Selecting, drawing, summoning or impaneling grand or petit jurors.
+     Regulating the rate of interest on money.
+     The opening and conducting of elections or designating places of voting.
+     Creating, increasing or decreasing fees, percentage or allowances of public officers, during the
+term for which said officers are elected or appointed.
+     Granting to any corporation, association or individual the right to lay down railroad tracks.
+     Granting to any private corporation, association or individual any exclusive privilege,
+immunity or franchise whatever.
+     Providing for building bridges, and chartering companies for such purposes, except on, the
+Hudson river below Waterford, and on the East river, or over the waters forming a part of the
+boundaries of this State.
+     The Legislature shall pass general laws providing for the cases enumerated in this section, and
+for all other cases which, in its judgment, may be provided for by general laws. But no law shall
+authorize the construction or operation of a street railroad except upon the condition that the
+consent of the owners of one-half in value the property bounded on, and the consent also of the
+local authorities having the control of that portion of a street or highway upon which it is
+proposed to construct or operate such railroad be first obtained, or in case the consent of such
+property-owners cannot be obtained, the Appellate Division of the Supreme Court, in the
+department in which it is proposed to be constructed, may, upon application, appoint three      
+commissioners Who shall determine, after a hearing of, all parties interested, whether such
+railroad ought to be constructed or operated; and their determination, confirmed by the court,
+may be taken in lieu of the consent of the property-owners.
+
+*** SEND ***
+*** SSTART 019.0 003.0 0 NY 1894 ***
+
+19. The Legislature shall neither audit nor allow any private claim or account against the State,
+but may appropriate money to pay such claims as shall have been audited and allowed according
+to law.
+
+*** SEND ***
+*** SSTART 020.0 003.0 0 NY 1894 ***
+
+20. The assent of two-thirds of the members elected to each branch of the Legislature, shall be
+requisite to every bill appropriating the public moneys or property for local or private purposes.    
+    
+*** SEND ***
+*** SSTART 021.0 003.0 0 NY 1894 ***
+
+21. No money shall ever be paid out of the treasury of this State, or any of its funds, or any of the
+funds under its management, except in pursuance of an appropriation by law; nor unless such
+payment be made within two years next after the passage of such appropriation act; and every
+such law making a new appropriation, or continuing or reviving an appropriation, shall distinctly
+specify the sum appropriated, and the object to which it is to be applied; and it shall not be
+sufficient for such law to refer to any other law to fix such sum.
+         
+*** SEND ***
+*** SSTART 022.0 003.0 0 NY 1894 ***
+
+22. No provision or enactment shall be embraced in the annual appropriation or supply bill,
+unless it relates specifically to some particular appropriation in the bill; and any such provision
+or
+enactment shall be limited in its operation to such appropriation.
+*** SEND ***
+*** SSTART 023.0 003.0 0 NY 1894 ***
+
+23. Sections seventeen and eighteen of this article shall not apply to any bill, or the amendments
+to any bill, which shall be reported to the Legislature by commissioners who have been
+appointed
+pursuant to law to revise the statutes.
+
+*** SEND ***
+*** SSTART 024.0 003.0 0 NY 1894 ***
+
+
+24. Every law which imposes, continues or revives a tax shall distinctly state the tax and the
+object to which it is to be applied, and it shall not be sufficient to refer to any other law to fix
+such tax or object.         
+
+*** SEND ***
+*** SSTART 025.0 003.0 0 NY 1894 ***
+
+
+25. On the final passage, in either house of the Legislature, of any act which imposes, continues
+or revives a tax, or creates a debt or charge, or makes, continues or revives any appropriation of
+public or trust money or property, or releases, discharges or commutes any claim or demand of
+the State, the question shall be taken by yeas and nays, which shall be duly entered upon the
+journals, and three-fifths of all the members elected to either house shall, in all such cases, be       
+necessary to constitute a quorum therein.
+
+*** SEND ***
+*** SSTART 026.0 003.0 0 NY 1894 ***
+
+
+26. There shall be in the several counties, except in cities whose boundaries are the same as those
+of the county, a board of supervisors, to be composed of such members, and elected in such
+manner, and for such period, as is or may be provided by law. In any such city the duties and
+powers of a board of supervisors may be devolved upon the common council or board of
+aldermen thereof.
+
+*** SEND ***
+*** SSTART 027.0 003.0 0 NY 1894 ***
+
+
+27. The Legislature shall, by general laws, confer upon the boards of supervisors of the several
+counties of the State such further powers of local legislation and administration.,. as the4
+legislature may from time to time deem expedient.
+
+*** SEND ***
+*** SSTART 028.0 003.0 0 NY 1894 ***
+
+28. The Legislature shall not, nor shall the common council of any city, nor any board of
+supervisors, grant any extra compensation to any public officer, servant, agent or contractor.
+
+*** SEND ***
+*** SSTART 029.0 003.0 0 NY 1894 ***
+
+29. The Legislature shall, by law, provide for the occupation and employment of prisoners
+sentenced to the several State prisons, penitentiaries, jails and reformatories in the State; and on
+and after the first day of January in the year one thousand eight hundred and ninety-seven, no
+person in any such prison, penitentiary, jail or reformatory, shall be required or allowed to work,
+while under sentence thereto, at any trade, industry or occupation, wherein or whereby his work,
+or the product or profit of his work, shall be farmed out, contracted, given or sold to any person,
+firm, association or corporation. This section shall not be construed to prevent the Legislature
+from providing that convicts may work for, and that the products of their labor flay be disposed
+of to, the State or any political division thereof, or for or to any public institution owned or
+managed and controlled by the State, or any political division thereof.
+
+*** SEND ***
+*** AEND ***
+
+*** ASTART 004.0 NY 1894 ***
+         
+                                      ARTICLE 4
+
+*** SSTART 001.0 004.0 0 NY 1894 ***
+
+1. The executive power shall be vested in a Governor, who shall hold his office for two years; a
+Lieutenant-Governor shall be chosen at the same time, and for the same term. The Governor and  
+ Lieutenant-Governor elected next preceding the time when this section shall take effect, shall
+hold office until and including the thirty-first day of December, one thousand eight hundred and
+ninety-six, and their successors shall be chosen at the general election in that year.
+
+*** SEND ***
+*** SSTART 002.0 004.0 0 NY 1894 ***
+         
+2. No person shall be eligible to the office of governor or Lieutenant-Governor, except a citizen
+of the United States, of the age of not less than thirty years, and who shall have been five years,
+next preceding his election, a resident of this State.
+
+*** SEND ***
+*** SSTART 003.0 004.0 0 NY 1894 ***
+
+3. The Governor and Lieutenant-Governor shall be elected at the times and places of choosing
+members of the Assembly. The persons respectively having the highest number of votes for
+Governor and Lieutenant-Governor, shall be elected; but in case two or more shall have an equal
+and the highest number of votes for Governor, or for Lieutenant-Governor, the two houses of the
+Legislature, at its next annual session, shall, forthwith, by joint ballot, choose one of the said
+persons so having an equal and the highest number of votes for Governor or
+Lieutenant-Governor.
+
+*** SEND ***
+*** SSTART 004.0 004.0 0 NY 1894 ***
+          
+4. The Governor shall be Commander-in-Chief of the military and naval forces of the State. lie
+shall have power to convene the Legislature, or the Senate only, on extraordinary occasions. At
+extraordinary sessions no subject shall be acted upon, except such as the Governor may
+recommend for consideration. He shall communicate by message to the Legislature at every
+session the condition of the State, and recommend such matters to it as he shall judge expedient.
+He shall transact all necessary business with the officers of government, civil and military. He
+shall expedite all such measures as may be resolved upon by the Legislature, and shall take care
+that the laws are faithfully executed. He shall receive for his services an annual salary of ten
+thousand dollars, and there shall be provided for his use a suitable and furnished executive
+residence.
+
+*** SEND ***
+*** SSTART 005.0 004.0 0 NY 1894 ***        
+         
+5. The Governor shall have the power to grant reprieves, commutations and pardons after
+conviction, for all offenses except treason and cases of impeachment, upon such conditions and
+with such restrictions and limitations, as he may think proper, subject to such regulations as may
+be provided by law relative to the manner of applying for pardons. Upon conviction for treason,
+he shall have power to suspend the execution of the sentence, until the case shall be reported to
+the Legislature at its next meeting, when the Legislature shall either pardon, or commute the
+sentence, direct the execution of the sentence, or grant a further reprieve. He shall annually
+communicate to the Legislature each case of reprieve, commutation or pardon granted, stating the
+name of the convict, the crime of which he was convicted, the sentence and its date, and the date
+of the commutation, pardon or reprieve.
+
+*** SEND ***
+*** SSTART 006.0 004.0 0 NY 1894 ***
+         
+6. In case of the impeachment of the Governor, or his removal from office, death, inability to
+discharge the powers and duties of the said office, resignation or absence from the State, the
+powers and duties of the office shall develop upon the Lieutenant-Governor for the residue of the
+term, or until the disability shall cease. But when the Governor shall, with the consent of the
+Legislature, be out of the State in time of war, at the head of a military force thereof, he shall        
+continue commander-in-chief of all the military force of the State.
+
+*** SEND ***
+*** SSTART 007.0 004.0 0 NY 1894 ***
+
+7. The Lieutenant-Governor shall possess the same qualifications of eligibility for office as the
+Governor.  He shall be President of the Senate, but shall have only a casting vote therein. If
+during a vacancy of the office of Governor, the Lieutenant-Governor shall be impeached,
+displaced, resign, die, or become incapable of performing the duties of his office, or be absent
+from the State, the President of the Senate shall act as Governor until the vacancy be filled or the
+disability shall cease; and if the President of the Senate for any of the above causes shalt become
+incapable of performing the duties pertaining to the office of Governor, the Speaker of the
+Assembly shall act as Governor until the vacancy be filled or the disability shall cease.
+
+*** SEND ***
+*** SSTART 008.0 004.0 0 NY 1894 ***
+         
+8. The Lieutenant-Governor shall receive for his services an annual salary of five thousand
+dollars, and shall not receive or be entitled to any other compensation, fee or perquisite, for any
+duty or      service he may be required to perform by the Constitution or by law.
+
+*** SEND ***
+*** SSTART 009.0 004.0 0 NY 1894 ***
+
+9. Every bill which shall have passed the Senate and Assembly shall, before it becomes a law, be
+presented to the Governor; if he approve he shall sign it; but if not, he shall return it with his
+objections to the house in which it shall have originated,, which shall enter the objections at large
+on the journal, and proceed to reconsider it. if, after such reconsideration, two-thirds of the
+members elected to that house shall agree to pass the bill, it shall be sent together with the
+objections to the other house by which it shall likewise be reconsidered, and if approved by
+two-thirds of the members elected to that house, it shall become a law notwithstanding, the
+objections of the Governor. In all such cases, the votes in both houses shall be determined by
+yeas and nays, and the names of the members voting shall be entered on the journal of each
+house
+respectively. If any bill shall not be returned by the Governor within ten days (Sundays excepted) 
+  after it shall have been presented to him, the same shall be a law, in like manner as if he had
+signed it, unless the Legislature shall, by their adjournment, prevent its return, in which case it
+shall not     become a law without the approval of the Governor.  No bill shall become a law after
+the final adjournment of the Legislature, unless approved by the Governor within thirty days
+after
+such adjournment. If any bill presented to the Governor contain several items of appropriation of
+money, he may object to one or more of such items while approving of the other portion of the
+bill. In such case, he shall append to the bill, at the time of signing it, a statement of the items to
+which lie objects; and the appropriation so objected to shall not take effect. If the Legislature be
+in session, he shall transmit to the house in which the bill originated a copy of such statement,
+and the items objected to shall be separately reconsidered. If, on reconsideration, one or more of
+such items be approved by two-thirds of the members elected to each house, the same shall be
+part of the law, notwithstanding the objections of the Governor. All the provisions of this section,
+in relation to bills not approved by the Governor, shall apply in cases in which he shall withhold
+his approval from any item or items contained in a bill appropriating money.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 005.0 NY 1894 ***
+                                     ARTICLE V
+
+*** SSTART 001.0 005.0 0 NY 1894 ***
+
+1. The Secretary of State, Comptroller, Treasurer, Attorney-General and State Engineer and
+Surveyor shall be chosen at a general election, at the times and places of electing a Governor and
+Lieutenant-Governor, and shall hold their offices for two years, except as provided in section two
+of this article. Each of the officers in this article named, excepting the Speaker of the Assembly,
+shall at stated times during his continuance in office, receive for his services a compensation
+which shall, not be increased or diminished during the term for which he shall have been elected;
+nor shall he receive to his use any fees or perquisites of office or other compensation. No person
+shall be elected to the office of State Engineer and Surveyor who is not a practical civil engineer.
+
+*** SEND ***
+*** SSTART 002.0 005.0 0 NY 1894 ***
+
+2. The first election of the Secretary of State, Comptroller, Treasurer, Attorney-General and State
+Engineer and Surveyor, pursuant to this article shall be held in the year one thousand eight
+hundred and ninety-five, and their terms of office shall begin on the first day of January
+following, and shall be for three years. At the general election in the year one thousand eight
+hundred and ninety eight, and every two years thereafter, their successors shall be chosen for the
+term of two years.
+                                                 
+*** SEND ***
+*** SSTART 003.0 005.0 0 NY 1894 ***
+         
+3. A Superintendent of Public Works shall be appointed by the Governor, by and with the advice
+and consent of the Senate, and hold this office until the end of the term of the Governor by whom
+he was nominated, and until his successor is appointed and qualified. He shall receive a
+compensation to be fixed by law. He shall be required by law to give security for the faithful
+execution of his office before entering upon the duties thereof. He shall be charged with the
+execution of all laws relating to the repair and navigation of the canals, and also of those relating
+to the construction and improvement of the canals, except so far as the execution of the laws
+relating to such construction or improvement shall be confided to the State Engineer and    
+Surveyor; subject to the control of the Legislature, he shall make the rules and regulations for the
+navigation or use of the canals. He may be suspended or removed from office by the Governor,
+whenever, in his judgment, the public interest shall so require; but in case of the removal of such
+Superintendent of Public Works from office, the Governor shall file with the Secretary of State a
+statement of the cause of such removal, and shall report such removal and the cause thereof to
+the Legislature at its next session. The Superintendent of Public Works shall appoint not more
+than three assistant superintendents, whose duties shall be prescribed by him, subject to
+modification by the Legislature, and who shall receive for their services a compensation to be
+fixed by law. They shall hold their office for three years, subject to suspension or removal by the
+Superintendent of Public Works, whenever, in his judgment, the public interest shall so require.
+Any vacancy in the office of any such assistant superintendent shall be filled for the remainder of
+the term for which he was appointed, by the Superintendent of Public Works; but in case of the
+suspension or removal of any such assistant superintendent by him, he shall at once report to the
+Governor, in writing, the cause of such removal. All other persons employed in the care and
+management of the canals, except collectors of tolls, and those in the department of the State
+Engineer and Surveyor, shall be appointed by the Superintendent of Public Works, and be subject
+to suspension or removal by him. The Superintendent of Public Works shall perform all the
+duties   of the former Canal Commissioners, and Board of Canal Commissioners, as now
+declared by law, until otherwise provided by the Legislature. The Governor, by and with the
+advice and consent of the Senate, shall have power to fill vacancies in the office of
+Superintendent of Public Works; if the Senate be not in session, he may grant commissions
+which shall expire at the end of the next succeeding session of the Senate.
+                  
+*** SEND ***
+*** SSTART 004.0 005.0 0 NY 1894 ***
+
+4.  A Superintendent of State Prisons shall be appointed by the Governor, by and with the advice
+and consent of the Senate, and hold his office for five years, unless sooner removed; he shall give
+security in such amount, and with such sureties as shall be required by law for the faithful
+discharge of his duties; he shall have the superintendence, management and control of state
+prisons, subject to such laws as now exist or may hereafter be enacted; he shall appoint the
+agents, wardens, physicians and chaplains of .the prisons. The agent and warden of each prison
+shall appoint all other officers of such prison, except the clerk, subject to the approval of the
+same by the Superintendent. The Comptroller shall appoint the clerks of the prisons. The
+Superintendent shall have all the powers and perform all the duties not in consistent herewith,
+which were formerly had and performed by the Inspectors of State Prisons. The Governor may
+remove the Superintendent for cause at any time, giving to him a copy of the charges against
+him,
+and an opportunity to be heard in his defense.
+
+*** SEND ***
+*** SSTART 005.0 005.0 0 NY 1894 ***
+
+5. The Lieutenant-Governor, Speaker of the Assembly, Secretary of State, Comptroller,
+Treasurer, Attorney-General and State Engineer and Surveyor shall be the commissioners of the
+land office. The Lieutenant-Governor, Secretary of State, Comptroller, Treasurer and        
+Attorney-General shall be the commissioners of the canal fund. The canal board shall consist of
+the commissioners of the canal fund, the State Engineer and Surveyor and the Superintendent of
+Public Works.
+
+*** SEND ***
+*** SSTART 006.0 005.0 0 NY 1894 ***
+
+6. The powers and duties of the respective boards, and of the several officers in this article
+mentioned, shall be such as are now or hereafter may be prescribed by law.
+
+*** SEND ***
+*** SSTART 007.0 005.0 0 NY 1894 ***
+         
+7. The Treasurer may be suspended from. office by the Governor, during the recess of the
+Legislature, and until thirty days after the commencement of the next session of the Legislature,
+whenever it shall appear to him that such Treasurer has, in any particular, violated his duty. The
+Governor shall appoint a competent person to discharge. the duties of the office during such
+suspension of the Treasurer.
+
+*** SEND ***
+*** SSTART 008.0 005.0 0 NY 1894 ***
+
+8. All offices for the weighing, gauging, measuring, culling or inspecting any merchandise,
+produce, manufacture or commodity whatever, are hereby abolished ; and no such office shall
+hereafter be created by law; but nothing in this section contained shall abrogate any office
+created
+for the purpose of protecting the public health or the interest of the State in its property, revenue,
+tolls or purchases, or of supplying the people with correct standards of weights and measures, or
+shall prevent the creation of any office for such purposes hereafter.
+
+*** SEND *** 
+*** SSTART 009.0 005.0 0 NY 1894 ***
+                  
+9. Appointments and promotions in the civil service of the State, and of all the civil divisions
+thereof, including cities and villages, shall be made according to merit and fitness to be
+ascertained, so far as practicable, by examinations, which, so far as practicable, shall be        
+competitive; provided, however, that honorably discharged soldiers and sailors from the army
+and navy of the United States in the late civil war, who are citizens and residents of this State,
+shall be entitled to preference in appointment and promotion, without regard to their standing on
+any list from which such appointment or promotion may be made. Laws shall be made to provide
+for the enforcement of this section.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 006.0 NY 1894 ***
+         
+                                    ARTICLE VI
+
+*** SSTART 001.0 006.0 0 NY 1894 ***
+
+1. The Supreme Court is continued with general jurisdiction in law and equity, subject to such
+appellate jurisdiction of the Court of Appeals as now is or may be prescribed by law not
+inconsistent with this article. The existing judicial districts of the State are continued until
+changed as hereinafter provided. The Supreme Court shall consist of the Justices now in office,
+and of the Judges transferred thereto by the fifth section of this article, all of whom shall continue
+to be Justices of the Supreme Court during their respective terms, and of twelve additional
+Justices who shall reside in and be chosen by the electors of the several existing judicial districts,
+three in the       first district, three in the second, and one in each of the other districts; and of
+their successors. The successors of said Justices shall be chosen by the electors of their respective
+judicial districts. The Legislature. may alter the judicial districts once after every enumeration
+under the Constitution, of the inhabitants of the State, and thereupon reapportion the Justices to
+be thereafter elected in the districts so altered.
+
+*** SEND ***
+*** SSTART 002.0 006.0 0 NY 1894 ***
+         
+2. The Legislature shall divide the State into four judicial departments.  The first department
+shall consist of the county of New York; the others shall be bounded by county lines, and be
+compact     and equal in population as nearly as may be. Once every ten years the Legislature
+may
+alter the judicial departments, but without increasing the number thereof. There shall be an
+appellate division of the Supreme Court, consisting of seven justices in the first department, and
+of five justices in each of the other departments. In each department four shall constitute a
+quorum, and the concurrence of three shall be necessary to a decision. No more than five justices
+shall sit in any case.
+    From all the justices elected to the Supreme Court the Governor shall designate those who
+shall constitute the Appellate Division in each department; and he shall designate the presiding
+justice thereof, who shall act as such during his term of office, and shall be a resident of the
+department. The other justices shall be designated for terms of five years, or the unexpired
+portions of their respective terms of office, if less than five years. From time to time as the terms
+of such      designations expire, or vacancies occur, he shall 'make new designations. He may also
+make temporary designations in case of the absence or inability to act, of any justice in the
+Appellate Division. A majority of the justices designated to sit in the Appellate Division in each
+department shall be residents of the department. Whenever the Appellate Division in any
+department shall be unable to dispose of its business within a reasonable time, a majority of the
+presiding justices of the several departments at a meeting called by the presiding justice of the
+department in arrears may transfer fly pending appeals from such department to any other
+department for hearing and determination. No justice of the Appellate Division shall exercise any
+of the powers of a justice of the Supreme Court, other than those of a justice out of court, and
+those pertaining to the Appellate Division or to the hearing and decision of motions submitted by
+consent of counsel.         From and after the last day of December, one thousand eight hundred
+and ninety-five, the Appellate Division shall have the jurisdiction now exercised by the Supreme
+Court at its General Terms, and by the General terms of the Court of Common Pleas for the City
+and County of New York, the Superior Court of the City pf New York, the Superior Court of
+Buffalo and the City Court of Brooklyn, and such additional jurisdiction as such may be
+conferred by the Legislature.    It shall have power to appoint and remove a reporter.  The justices
+of the Appellate Division in each department shall have power to fix the times and places for
+holding special and trial terms therein,, and to assign the justices in the departments to hold such
+terms; or to make rules therefore.
+
+*** SEND ***
+*** SSTART 003.0 006.0 0 NY 1894 ***
+         
+3. No judge or justice shall sit in the Appellate Division of in the Court of Appeals in review of a
+decision made by him or by any court of which he was at the time a sitting member. The
+testimony in equity cases shall, he taken in like manner as in cases at law; and, except as herein
+otherwise provided, the Legislature shall have the same power to alter and regulate the
+jurisdiction and proceedings in law and in equity that it has heretofore exercised.
+                  
+*** SEND ***
+*** SSTART 004.0 006.0 0 NY 1894 ***
+
+4. The official terms of the justices of the Supreme Court shall be fourteen years from and
+including the first day of January next after their election. When a vacancy shall occur otherwise
+than by expiration of term in the office of justice of the Supreme Court the same shall be filled
+for a full term, at the next general election, happening not less than three months after such
+vacancy occurs; and until the vacancy shall be so filled, the Governor by and with the advice and
+consent of the Senate, if the Senate shall be in session, or if not in session the Governor, may fill
+such vacancy by appointment, which shall continue until and including the last day of December
+next after the election at which the vacancy shall be filled.
+
+*** SEND ***
+*** SSTART 005.0 006.0 0 NY 1894 ***
+         
+5. The Superior Court of the City of New York, the Court of Common Pleas for the City and
+County of New York, the Superior Court of Buffalo, and the City Court of Brooklyn, are
+abolished from and after the first day of January, one thousand eight hundred and ninety-six, and
+thereupon the seals, records, papers and documents of or belonging to such courts, shall be
+deposited in the offices of the clerks of the several counties in which said courts now exist ; and
+all actions and proceedings then pending in such courts shall be transferred to the Supreme Court
+for hearing and determination. The judges of said courts in office on the first day of January, one
+thousand eight hundred and ninety-six, shall, for the remainder of the terms for which they were
+elected or appointed, be justices of the Supreme Court; but they shall sit only in the counties in
+which they were elected or appointed. Their salaries shall be paid by the said counties
+respectively, and shall be the same as the salaries of the other Justices of the Supreme Court
+residing in the same counties.  Their successors shall be elected as justices of the Supreme Court
+by the electors of the judicial districts in which they respectively reside.
+    The jurisdiction now exercised by the several courts hereby abolished, shall be vested in the
+Supreme Court. Appeals from inferior and local courts now heard in the Court of Common Pleas
+for the City and County of New York and the Superior Court of Buffalo, shall be heard in the
+Supreme Court in such manner and by such justice or justices as the Appellate Divisions in the
+respective departments which include New York and Buffalo shall direct, unless otherwise
+provided by the Legislature.
+
+*** SEND ***
+*** SSTART 006.0 006.0 0 NY 1894 ***
+   
+6. Circuit Courts and Courts of Oyer and Terminer are abolished from and after the last day of
+December, one thousand eight hundred and ninety-five. All their jurisdiction shall thereupon be
+vested in the Supreme Court, and all actions and proceedings then pending in such Courts shall
+be transferred to the Supreme Court for hearing and determination. Any justice of the Supreme
+Court, except as otherwise provided in this article, may hold, court in any County.
+
+*** SEND ***
+*** SSTART 007.0 006.0 0 NY 1894 ***
+         
+7. The Court of Appeals is continued. It shall consist of the chief judge and associate judges now
+in office, who shall hold their offices until the expiration of their respective terms, and their
+successors, who shall be chosen by the electors of the State. The official terms of the chief judge
+and associate judges shall be fourteen years from and including the first day of January next after
+their election.  Five members of the court shall form a quorum, and the concurrence of four shall
+be necessary to a decision. The court shall have power to appoint and to remove its reporter,
+clerk and attendants.
+
+*** SEND ***
+*** SSTART 008.0 006.0 0 NY 1894 ***
+         
+8. When a vacancy shall occur otherwise than by expiration of term, in the office of chief or
+associate judge of the Court of Appeals, the same shall be filled, for a full term, at the next
+general election happening not less than three months after such vacancy occurs; and until the
+vacancy shall be so filled, the Governor, by and with the advice and consent of the Senate, if the
+Senate shall be in session, or if not in session the Governor may fill such vacancy by
+appointment. If any, such appointment of chief judge shall be made from among the associate
+judges, a temporary appointment of associate judge shall be made in like manner; but in such
+case, the person      appointed chief judge shall not be deemed to vacate his office of associate
+judge any longer than until the expiration of his appointment as chief judge. The powers and
+jurisdiction of the court shall not be suspended for want of appointment or election, when the
+number of judges is sufficient to constitute a quorum. All appointments under this section shall
+continue until and including the last day of December next after the election at which the
+vacancy
+shall be filled.
+
+*** SEND ***
+*** SSTART 009.0 006.0 0 NY 1894 ***
+         
+9. After the last day of December, one thousand eight hundred and ninety-five, the jurisdiction of
+the Court of Appeals, except where the judgment is of death, shall be limited to the review of
+questions of law. No unanimous decision of the Appellate Division of the Supreme Court that
+there is evidence supporting or tending to sustain a finding of fact or a verdict not directed by the
+court, shall be reviewed by the Court of Appeals. Except where the judgment is of death, appeals
+may be taken as of right, to said court only from judgments or orders entered upon decisions of
+the Appellate Division of the Supreme Court, finally determining actions or special proceedings,  
+  and from orders granting new trials on exceptions, where the appellants that upon affirmance
+judgment absolute shall be rendered against them. The Appellate Division in any department
+may, however, allow an appeal upon any question of law which, in its opinion, ought to be
+reviewed by the Court of Appeals. The Legislature may further restrict the jurisdiction of the
+Court of Appeals and the right of appeal thereto, but the right to appeal shall not depend upon the
+amount involved. The provisions of this section shall not apply to orders made or judgments
+rendered by any General Term before the last day of December, one thousand eight hundred and
+ninety-five, but appeals therefrom may be taken under existing provisions of law.
+
+*** SEND ***
+*** SSTART 010.0 006.0 0 NY 1894 ***
+
+10. The judges of the Court of Appeals and the justices of the Supreme Court shall not hold any
+other office or public trust. All votes for any of them, for any other than a judicial office, given
+by   the Legislature or the people, shall be void.
+
+*** SEND ***
+*** SSTART 011.0 006.0 0 NY 1894 ***
+         
+11. Judges of the Court of Appeals and justices of the Supreme Court, may be removed by
+concurrent resolution of both houses of the Legislature, if two-thirds of all the members elected
+to each house concur therein. All other judicial officers, except justices of the peace and judges
+or justices of inferior Courts not of record, may be removed by the Senate, on the
+recommendation of the Governor, if two-thirds of all the members elected to the Senate concur
+therein. But no officer shall be removed by virtue of this section except for cause, which shall be
+entered in the journals, nor unless he shall have been served with a statement of the cause
+alleged, and shall have had an opportunity to be heard. On the question of removal, the yeas and
+nays shall be entered on the journal.
+
+*** SEND ***
+*** SSTART 012.0 006.0 0 NY 1894 ***
+
+12. The judges and justices hereinbefore mentioned shall receive for there services a
+compensation established by law, which shall not be increased or diminished during their official
+terms, except as provided in section five of this article. No person shall hold the office of judge
+or justice of any court longer than until and including the last day of December next after he shall
+be seventy years of age. No judge or justice elected after the first day of January, one thousand
+eight hundred and ninety-four, shall be entitled to receive any compensation after the last day of
+December next after he shall be seventy years of age; but the compensation of every judge of the
+Court of Appeals or justice of the Supreme Court elected prior to the first day of January, one
+thousand eight hundred and ninety-four, whose term of office has been, or whose present term of
+office shall be so abridged, and who shall have served as such judge or justice ten years or more,
+shall be continued during the remainder of the term for which he was elected; but any such judge
+or justice may, with his consent, be assigned by the Governor, from time to time, to any duty in
+the Supreme Court while hi compensation is so continued.
+
+*** SEND ***
+*** SSTART 013.0 006.0 0 NY 1894 ***
+         
+13. The Assembly shall have the power of impeachment by a vote of a majority of all the
+members elected. The court for the trial of impeachments shall be composed of the President of
+the Senate, the senators, or the major part of them, and the judges of the Court of Appeals, or the
+major part of them. On the trial of an impeachment against the Governor or
+Lieutenant-Governor,
+the Lieutenant-Governor shall not act as a member of the court. No judicial officer shall exercise
+his office, after articles of impeachment against him shall have been preferred to the Senate, until
+he shall have been acquitted.  Before the trial of an impeachment the members of the court shall   
+take an oath or affirmation truly and impartially to try the impeachment according to the
+evidence, and no person shall be convicted without the concurrence of two-thirds of the members
+present.
+Judgment in cases of impeachment shall not extend further than to removal from office and
+disqualification to hold and enjoy any office of honor, trust or profit under this State; but the
+party impeached shall be liable to indictment and punishment according to law.
+
+*** SEND ***
+*** SSTART 014.0 006.0 0 NY 1894 ***
+
+14. The existing County Courts are continued, and the judges thereof now in office shall hold
+their offices until the expiration of their respective terms. In the county of Kings there shall be
+two county judges and the additional county judge shall be chosen at the next general election
+held after the adoption of this article. The successors of the several county judges shall be chosen
+by the electors of the counties for the term of six years. County Courts shall have the powers and
+jurisdiction they now possess, and also original jurisdiction in actions for the recovery of money
+only, where the defendants reside in the county, and in which the complaint demands judgment
+for a sum not exceeding two thousand dollars. The Legislature may hereafter enlarge or restrict
+the jurisdiction of the County Courts, provided, however, that their jurisdiction shall not be so
+extended as to authorize an action therein for the recovery of money only, in which the sum
+exceeds two thousand dollars, or in which any person not a resident of the county is a defendant.
+Courts of Sessions, except in the county of New York, are abolished from and after the last day
+of December, one thousand eight hundred and ninety-fire. All the jurisdiction of the Court of
+Sessions in each county, except the county of New York, shall thereupon be vested in the County
+Court thereof, and all actions and proceedings then pending in such Courts of Sessions shall be
+transferred to said county Courts for hearing and determination. Every county judge shall
+perform such duties as may be required by law. His salary shall be established by law, payable
+out of the county treasury. A county judge of any county may hold County Courts in any other
+county when requested by the judge of such other county.
+         
+*** SEND ***
+*** SSTART 015.0 006.0 0 NY 1895 ***
+         
+15. The existing Surrogates' Courts are continued, and the surrogates mow in office shall hold
+their offices until the expiration of their terms. Their successors shall be chosen by the electors of
+their respective counties, and their terms of office shall be six years except in the county of New
+York, where they shall continue to be fourteen years.  Surrogates and Surrogates' Courts shall
+have the jurisdiction and powers which the surrogates and existing Surrogates' Courts now       
+possess, until otherwise provided by the Legislature. The county judge shall be surrogate of his
+county, except where a separate surrogate has been or shall be elected. In counties having a
+population exceeding forty thousand, wherein there is no separate surrogate, the Legislature may
+provide for the election of a separate officer to be surrogate, whose term of office shall be six
+years. When the surrogate shall be elected as a separate officer his salary shall be established by
+law, payable out of the county treasury. No county judge or Surrogate shall hold office longer
+than until including the last day of December next after he shall be seventy years of age.
+Vacancies  occurring in the office of county judge or surrogate shall be filled in the same manner
+as like vacancies occurring in the Supreme Court.  The compensation of any county judge or
+surrogate shall not be increased or diminished during his term of office. For the relief of
+Surrogates' Courts the Legislature may confer upon the Supreme Court in any county having a
+population exceeding four hundred thousand, the powers and jurisdiction of surrogates, with
+authority to try issues of      fact by jury in probate cases.
+
+*** SEND ***
+*** SSTART 016.0 006.0 0 NY 1894 ***
+         
+16. The Legislature may, on application of the board of supervisors, provide for the election of
+local officers, not to exceed two in any county, to discharge the duties of county judge and of
+surrogate, in cases of their inability or of a vacancy, and in such other cases as may be provided
+by law, and to exercise such other powers in special cases as are or may be provided by law.
+
+*** SEND ***
+*** SSTART 017.0 006.0 0 NY 1894 ***
+         
+17. The electors of the several towns shall, at their annual town meetings, or at such other time
+and in such manner as the Legislature may direct, elect justices of the peace, whose term of
+office
+shall be four years. In case of an election to fill a vacancy occurring before the expiration of a full
+term, they shall hold for the residue of the unexpired term. Their number and classification may
+be regulated by law. Justices of the peace and judges or justices of inferior Courts not of record,
+and their clerks, may be removed for cause, after due notice and an opportunity of being heard,
+by such Courts as are or may be prescribed by law. Justices of the peace and district court
+justices 
+ may be elected in the different cities of this State in such manlier, and with such powers, and for
+such terms respectively, as are or shall be prescribed by law ; all other judicial officers in cities,
+whose election or appointment is not otherwise provided for in this article, shall be chosen by the
+electors of such cities, or appointed by some local authorities thereof.
+
+*** SEND ***
+*** SSTART 018.0 006.0 0 NY 1894 ***
+
+18. Inferior local Courts of civil and criminal jurisdiction may be established by the Legislature,
+but no inferior local court hereafter created shall be a court of record. The Legislature shall not
+hereafter confer upon any inferior or local court of its Creation, any equity jurisdiction or any
+greater jurisdiction in other respects than is conferred upon County Courts by or under this
+article. Except as herein otherwise provided, all judicial officers shall be elected or appointed at
+such times and in such manner as the Legislature may direct.
+         
+
+*** SEND ***
+*** SSTART 019.0 006.0 0 NY 1894 ***
+         
+19. Clerks of the several counties shall be clerks of the Supreme Court, with such powers and
+duties as shall be prescribed by law. The justices of the appellate division in each department
+shall have power to appoint and to remove a clerk who shall keep his office at a place to be
+designated by said justices. The clerk of the Court of Appeals shall keep his office at the seat of
+government. The clerk of the Court of Appeals and the clerks of the Appellate Division shall
+receive compensation to be established by law and paid out of the public treasury.
+         
+*** SEND ***
+*** SSTART 020.0 006.0 0 NY 1894 ***
+         
+20. No judicial officer, except justices of the peace, shall receive to his own use any fees or
+perquisites of office; nor shall any judge of the Court of Appeals, or justice of the Supreme
+Court, or any county judge or surrogate hereafter elected in a county having a population
+exceeding one hundred and twenty thousand, practice as an attorney or counselor in any court of
+record in this State, or act as referee.  The Legislature may impose a similar prohibition upon
+county judges and surrogates in other counties. No one shall be eligible to the office of judge of
+the Court of Appeals, justice of the Supreme Court, or except in the county of Hamilton, to the
+office of county judge or surrogate, who is not an attorney and counselor of this State.
+
+*** SEND ***
+*** SSTART 021.0 006.0 0 NY 1894 ***
+         
+21. The Legislature shall provide for the speedy publication of all statutes, and shall regulate the
+reporting of the decisions of the Courts; but all laws and judicial decisions shall be free for
+publication by any person.
+
+*** SEND ***
+*** SSTART 022.0 006.0 0 NY 1894 ***
+         
+22. Justices of the peace and other local judicial officers provided  for in sections seventeen and
+eighteen, in office when this article takes effect, shall hold their offices until the expiration of
+their respective terms.
+
+*** SEND ***
+*** SSTART 023.0 006.0 0 NY 1894 ***
+
+23. Courts of Special Sessions shall have such jurisdiction of offenses of the grade of
+misdemeanors as may be prescribed by law.
+
+*** SEND ***
+*** AEND ***
+
+
+*** ASTART 007.0 NY 1894 *** 
+                                    ARTICLE VII.
+
+*** SSTART 001.0 007.0 0 NY 1894 ***
+
+1. The credit of the State shall not in any manner be given or loaned to or in aid of any
+individual, association or corporation.
+
+*** SEND ***
+*** SSTART 002.0 007.0 0 NY 1894 ***
+         
+2. The State hay, to meet casual deficits or failures in revenues, or for expenses not provided for,
+contract debts; but such debts, direct or contingent, singly or in the aggregate, shall not at any
+time exceed one million of dollars; and the money arising from the loans creating such debts
+shall be applied to the purpose for which they were obtained, or to repay the debt so contracted,
+and to no other purpose whatever.
+
+*** SEND ***
+*** SSTART 003.0 007.0 0 NY 1894 ***
+
+3.  In addition to the above limited power to contract debts, the State may contract debts to repel
+invasion, suppress insurrection, or defend the State in war; but the money arising from the
+contracting of such debts shall be applied to the purpose for which it was raised, or to repay such
+debts, and to no other purpose whatever.
+
+*** SEND ***
+*** SSTART 004.0 007.0 0 NY 1894 ***         
+
+4. Except the debts specified in sections two and three of this article, no debts shall hereafter be
+contracted by or on behalf of this State, unless such debt shall be authorized by law, for some
+single work or object, to be distinctly specified therein; arid such law shall impose and provide
+for the collection of a direct annual tax to pay, and sufficient to pay, the interest on such debt as it
+falls due, and also to pay and discharge the principal of such debt within eighteen years from the
+time of the contracting thereof. No such law shall take effect until it shall, at a general election,
+have been submitted to the people, and have received a majority of all the votes cast for and        
+against it at such election. On the final passage of such bill in either house of the Legislature, the
+question shall be taken by ayes and noes, to be duly entered on the journals thereof, and shall be:
+" Shall this bill pass, and ought the same to receive the sanction of the people?"
+     The Legislature may, at any time, after the approval of such law by the people, if no debt shall
+have been contracted in pursuance thereof; repeal the same; and may at any time, by law forbid
+the contracting of and further debt or liability under such law; but the tax imposed by such act, in
+proportion to the debt and liability which may have been contracted, in pursuance of such law,
+shall remain in force and be irrepealable, and be annually collected, until the proceeds thereof
+shall have made the provision hereinbefore specified to pay and discharge the interest and
+principal of such debt and liability. The money arising from any loan or stock creating such debt
+or liability shall be applied to the work or object specified in the act authorizing such debt or
+liability, or for the repayment of such debt or liability, and for no other purpose whatever. No
+such law shall be submitted to be voted on, within three months after its passage, or at any
+general election when any other law, or any bill, or any amendment to the Constitution, shall be
+submitted to be voted
+for or against.
+                  
+*** SEND ***
+*** SSTART 005.0 007.0 0 NY 1894 ***
+
+5. The sinking funds provided for the payment of interest and the extinguishment of the principal
+of the debts of the State shall be separately kept and safely invested, and neither of them shall be
+appropriated or used in any manner other than for the specific purpose for which it shall have
+been provided.
+
+*** SEND ***
+*** SSTART 006.0 007.0 0 NY 1894 ***
+         
+6. Neither the Legislature, canal board, nor any person or persons acting in behalf of the State,
+shall audit, allow, or pay any claim which, as between citizens of the State, would be barred by
+lapse of time. This provision shall not be construed to repeal any statute fixing the time within
+which claims shall be presented or allowed, nor shall it extended to any claims duly presented
+within the time allowed by law, and prosecuted with the due diligence from the time of such      
+presentment. But if the claimant shall be under legal disability, the claim may be presented
+within two years after such disability is removed.
+
+*** SEND ***
+*** SSTART 007.0 007.0 0 NY 1894 ***
+         
+7. The lands of the State, now owned or hereafter acquired, constituting the forest preserve as
+now fixed by law, shall be forever kept as wild forest lands. They shall not be leased, sold or
+exchanged, or be taken by any corporation, public or private, nor. shall the timber thereon be
+sold, removed or destroyed.
+
+*** SEND ***
+*** SSTART 008.0 007.0 0 NY 1894 ***
+
+8. The Legislature shall not sell, lease or otherwise dispose of the Erie canal, the Oswego canal,
+the Champlain canal, the Cayuga and Seneca canal, or the Black River canal; but they shall
+remain the property of the State and under its management forever. The prohibition of lease, sale
+or other disposition herein contained, shall not apply to the canal known as the Main and
+Hamburg street canal situated in the city of Buffalo and which extends easterly from the westerly
+line of Maim street to the westerly line of Hamburg street. All funds that may be derived from
+any lease, sale or other disposition of any canal shall be applied to the improvement,
+superintendence or repair of the remaining portion of the canals.
+
+*** SEND ***
+*** SSTART 009.0 007.0 0 NY 1894 ***
+                  
+9. No tolls shall hereafter be imposed on persons or property transported on the canals, but all
+boats navigating the canals, and the owners and masters thereof, shall be subject to such laws and
+regulations as have been or may hereafter be enacted concerning the navigation of the canals.
+The
+Legislature shall annually, by equitable taxes, make provision for the expenses of the
+superintendence and repairs of the canals. All contracts for work or materials on any canal shall
+be made with the persons who shall offer to do or provide the same at the lowest price, with
+adequate security for their performance. No extra compensation shall be made to any contractor;
+but if, from any unforeseen cause, the terms of any contract shall prove to be unjust and
+oppressive, the canal board may, upon the application of the contractor, cancel such contract.
+
+*** SEND ***
+*** SSTART 010.0 007.0 0 NY 1894 ***
+         
+10. The canals may be improved in such manner as the Legislature shall provide by law. A debt
+may be authorized for that purpose in the mode prescribed by section four of this article, or the
+cost of such improvement may be defrayed by the appropriation of funds from the State treasury,
+or by equitable annual tax.
+
+*** SEND ***
+*** AEND ***
+                    
+*** ASTART 008.0 NY 1894 ***
+
+                                   ARTICLE VIII
+*** SSTART 001.0 008.0 0 NY 1894 ***         
+
+1. Corporations may be formed under general laws; but shall not be created by special act, except
+for municipal purposes, and in cases where, in the judgment of the Legislature, the objects of the  
+ corporation cannot be attained under general laws. All general laws and special acts passed
+pursuant to this section may he altered from time to time or repealed.
+                  
+*** SEND ***
+*** SSTART 002.0 008.0 0 NY 1894 ***
+
+2. Dues from corporations shall be secured by such individual liability of the corporators and
+other means as may be prescribed by law.
+
+*** SEND *** 
+*** SSTART 003.0 008.0 0 NY 1894 ***
+         
+3. The term corporations as used in this article shall be construed to include all associations and
+joint-stock companies having any of the powers or privileges of corporations not possessed by
+individuals or partnerships. And all corporations shall have the right to sue and shall be subject to
+be sued in all Courts in like cases as natural persons.
+*** SEND ***
+*** SSTART 004.0 008.0 0 NY 1894 ***
+         
+4. The Legislature shall, by general law, conform all charters of savings banks, or institutions for
+savings, to a uniformity of powers, rights and liabilities, and all charters hereafter granted for
+such corporations shall be made to conform to such general law, and to such amendments as may
+be made thereto. And no such corporation shall have any capital stock, nor shall the trustees
+thereof, or any of them have any interest whatever, direct or indirect, in the profits of such
+corporation; and no director or trustee of any such bank or institution shall be interested in any
+loan or use of any money or property of such bank or institution for savings. The Legislature
+shall have no        power to pass any act granting any special charter for banking purposes; but
+corporations or associations may be formed for such purposes under general laws.
+
+*** SEND ***
+*** SSTART 005.0 008.0 0 NY 1894 ***
+
+5. The Legislature shall have no power to pass any law sanctioning in any manner, directly or
+indirectly, the suspension of specie payments, by any person, association or corporation issuing
+bank notes of any description.
+
+*** SEND ***
+*** SSTART 006.0 008.0 0 NY 1894 ***
+
+6. The Legislature shall provide by law for the registry of all bills or notes, issued or put in
+circulation as money, and shall require ample security for the redemption of the same in specie.
+
+*** SEND ***
+*** SSTART 007.0 008.0 0 NY 1894 ***
+
+7. The stockholders of every corporation and joint-stock association for banking purposes, shall
+be individually responsible to the amount of their respective share or shares of stock in any such
+corporation or association, for all its debts and liabilities of every kind.
+
+*** SEND ***
+*** SSTART 008.0 008.0 0 NY 1894 ***
+
+8. In case of the insolvency of any, bank or banking association, the bill-holders thereof shall be
+entitled to preference in payment, over all other creditors of such bank or association.
+
+*** SEND ***
+*** SSTART 009.0 008.0 0 NY 1894 ***
+
+9. Neither the credit nor the money of the State shall be given or loaned to or in aid of any
+association, corporation or private undertaking. This section shall not, however, prevent the
+Legislature from making such provision for the education and support of the blind, the deaf and
+dumb, and juvenile delinquents, as to it may seem proper.  Nor shall it apply to any fund or
+property now held, or which may hereafter be held by the State for educational purposes.
+
+*** SEND ***
+*** SSTART 010.0 008.0 0 NY 1894 ***
+
+10. No county, city, town or village shall hereafter give any money or property, or loan its money
+or credit to or in aid of any individual, association or corporation, or become directly or
+indirectly
+the owner of stock in, or bonds of, any association or corporation; nor shall any such county,
+city,
+town or village be allowed to incur any indebtedness except for county, city, town or village
+purposes. This section shall not prevent such county, city, town or village from making such       
+provision for the aid or support of its poor as may be authorized by law. No county or city shall
+be allowed to become indebted for any purpose or in tiny manner to an amount which, including
+existing indebtedness, s/tall exceed ten per centum of the assessed valuation of the real estate of
+such county or city subject to taxation, as it appeared by the assessment rolls of said county or
+city on the last assessment for State or county taxes prior to the incurring of such indebtedness;
+and all indebtedness in excess of suck limitation, except such as may now exist, shall be
+absolutely void, except as herein otherwise provided. No county or city whose present
+indebtedness exceeds ten per centum of the assessed valuation of its real estate subject to
+taxation, shall be allowed to become indebtedness in any further amount until suck indebtedness
+shall be reduced .within such limit. This sec/ion shall not be construed to prevent the issuing of
+certificates of indebtedness or revenue bonds issued in anticipation of/he collection of taxes for
+amounts actually contained, or to be contained in the taxes for the year when such certificates or
+revenue bonds are issued and payable out of such taxes. Nor shall this section be construed to
+prevent the issue of bonds to provide for the supply of water; but the term of the bonds issued to
+provide the supply of water shall not exceed twenty years, and a sinking fund shall be created on
+the issuing of the said bonds for their redemption, by raising annually a sum which will produce
+an amount equal to the sum of the principal and interest of said bonds at their maturity. All
+certificates of indebtedness or revenue bonds issued in anticipation of the collection of taxes,
+which are not retired within five years after their date of issue, and bonds issued to provide for
+the supply of water, and any debt thereafter incurred by any portion or part of a city, if there shall
+be any such debt, shall be included in ascertaining the power of the city to become otherwise
+indebted. Whenever hereafter the boundaries of any city shall become the same as those of a
+county, the power of the county to become indebted shall cease, but the debt of the county at that
+time existing shall not be included as a part of the city debt. The amount hereafter to be raised by
+tax for county or city purposes, in any county containing a city of over one hundred thousand
+inhabitants, or such city of this State, in addition to providing for the principal and interest of
+existing debt, shall not in the aggregate exceed in any one year two per centum of the assessed
+valuation of the real and personal estate of such county or city, to be ascertained as prescribed in
+this section in respect to county or city debt.
+                  
+*** SEND ***
+*** SSTART 011.0 008.0 0 NY 1894 ***
+
+11. The Legislature shall provide for a State Board of Charities, which shall visit and inspect all
+institutions, whether State, county,   municipal, incorporated or Dot incorporated, which are of a
+charitable,  eleemosynary, correctional or reformatory character, excepting only such institutions
+as are hereby made subject to the visitation and inspection of either of the commissions
+hereinafter mentioned, but including all reformatories except those in which adult males
+convicted of felony shall be confined; a State Commission in Lunacy, which shall visit and
+inspect all institutions, either public or private, used for the care and. treatment of the insane (not
+including institutions for epileptics or idiots) ; a State Commission of Prisons which shall visit
+and inspect all institutions used for the detention of sane adult charged with or convicted of
+crime, or detained as witnesses or debtors.
+         
+*** SEND ***
+*** SSTART 012.0 008.0 0 NY 1894 ***
+
+12. The members of the said board and of the said commission shall be appointed by the
+Governor, by and with the advice and consent of the Senate; and any member may be removed
+from office by the Governor for cause, an opportunity having been given him to be heard in his
+defense.
+
+*** SEND ***
+*** SSTART 013.0 008.0 0 NY 1894 ***
+         
+13. Existing laws relating to institutions referred to in the foregoing sections and to their
+supervision and inspection, in so far as such laws are not inconsistent with the provisions of the
+Constitution, shall remain in force until amended or repealed by the Legislature.  The visitation
+and inspection herein provided for, shall not be exclusive of other visitation and inspection now
+authorized by law.
+
+*** SEND ***
+*** SSTART 014.0 008.0 0 NY 1894 ***
+         
+14. Nothing in this constitution contained shall prevent the Legislature from making such
+provision for the education and support of the blind, the deaf and dumb, and juvenile
+delinquents, as to it may seem proper; or prevent any county, city, town or village from
+providing
+for the care, support, maintenance and secular education, of inmates of orphan asylums, homes
+for dependent children or correctional institutions, whether under public or private control.
+Payments by counties, cities, towns and villages to charitable, eleemosynary, correctional and
+reformatory institutions, wholly or partly  under private control, for care, support and
+maintenance, may be authorized, but shall not be required by the Legislature. No such payments
+shall be made for any inmate of such institutions who is not received and retained therein
+pursuant to rules established by the State Board of Charities. Such rules shall be subject to the
+control of the Legislature by general laws.
+
+*** SEND ***
+*** SSTART 015.0 008.0 0 NY 1894 ***
+
+15. Commissioners of the State Board of Charities and commissioners of the State Commission
+in Lunacy, now holding office, shall be continued in office for the term for which they were
+appointed, respectively, unless the Legislature shall otherwise provide. The Legislature may
+confer upon the commissioners and upon the board mentioned in the foregoing sections any
+additional powers that are not inconsistent with other provisions of the Constitution.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 009.0 NY 1894 ***
+
+                                    ARTICLE IX.
+
+*** SSTART 001.0 009.0 0 NY 1894 ***
+
+1. The Legislature shall provide for the maintenance and support of a system of free common
+schools; wherein all the children of this State may be educated,
+
+*** SEND ***
+*** SSTART 002.0 009.0 0 NY 1894 ***
+         
+2. The corporation created in the year one thousand seven hundred and eighty-four, under the
+name of The Regents of the University of the State of New York, is hereby continued under the   
+name of The University of the State of New York. It shall be governed and its corporate powers,
+which may be increased, modified or diminished by the Legislature, shall be exercised by not
+less
+than nine regents.
+                  
+*** SEND ***
+*** SSTART 003.0 009.0 0 NY 1894 ***
+
+3. The capital of the common school fund, the capital of the literature fund, and the capital of the
+United States deposit fund shall be respectively preserved inviolate. The revenue of the said
+common school fund shall be applied to the support of common schools; the revenue of the said
+literature fund shall be applied to the support of academies; and the sum of twenty-five thousand
+dollars of the revenues of the United States deposit fund shall each year be appropriated to and
+made part of the capital of the said common school fund.
+
+*** SEND ***
+*** SSTART 004.0 009.0 0 NY 1894 ***
+         
+4. Neither the State nor any subdivision thereof, shall use its property or credit or any public
+money, or authorize or permit either to be used, directly or indirectly, in aid or maintenance,
+other than for examination or inspection, of any school or institution of learning wholly or in part
+under the control or direction of any religious denomination, or in which any denominational
+tenet or doctrine is taught.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 010.0 NY 1894 ***
+         
+ARTICLE X.
+
+*** SSTART 001.0 010.0 0 NY 1894 ***
+         
+1. Sheriffs, clerks of counties, district attorneys, and registers in counties having registers, shall
+be chosen by the electors of the respective counties, once in every three years and as often as
+vacancies shall happen, except in the counties of New York and Kings, and in counties whose
+boundaries are the same as those of a city, where such officers shall be chosen by the electors
+once in every two or four years as the Legislature shall direct. Sheriffs shall hold no other office,
+and be ineligible for the next term after the termination of their offices. They may be required by
+law to renew their security, from time to time; and in default of giving such new security, their
+offices shall be deemed vacant. But the county shall never be made responsible for the acts of the
+sheriff. The Governor may remove any officer, in this section mentioned, within the term for
+which he shall have been elected; giving to such officer a copy of the charges against him, and an
+opportunity of being heard in his defense.
+                  
+*** SEND ***
+*** SSTART 002.0 010.0 0 NY 1894 ***
+
+2. All county officers whose election or appointment is not provided for by this constitution,
+shall
+be elected by the electors of the respective counties or appointed by the boards of supervisors, or
+other county authorities, as the Legislature shall direct. All city, town, and village officers, whose
+election or appointment is not provided for by this constitution, shall be elected by the electors of
+such cities, towns and villages, or of some division thereof, or appointed by such authorities
+thereof, as the Legislature shall designate for that purpose. All other officers, whose election or
+appointment is not provided for by this constitution, and all officers whose offices may hereafter
+be created by law, shall be elected by the people, or appointed, as the Legislature may direct.
+
+*** SEND ***
+*** SSTART 003.0 010.0 0 NY 1894 ***
+         
+3. When the duration of any office is not provided by this constitution, it may he declared by law,
+and if not so declared, such office shall be held during the pleasure of the authority making the
+appointment.
+         
+*** SEND ***
+*** SSTART 004.0 010.0 0 NY 1894 ***
+         
+4. The time of electing all officers named in this article shall be prescribed by law.
+
+*** SEND ***
+*** SSTART 005.0 010.0 0 NY 1894 ***
+
+5. The legislature shall provide for filling vacancies in office, and in case of elective officers, no
+person appointed to fill a vacancy shall hold his office by virtue of such appointment longer than
+the commencement of the political year next succeeding the first annual election after the
+happening of the vacancy.
+
+*** SEND ***
+*** SSTART 006.0 010.0 0 NY 1894 ***
+         
+6. The political year and legislative term shall begin on the first day of January; and the
+legislature shall every year, assemble on the first Wednesday in January.
+
+*** SEND ***
+*** SSTART 007.0 010.0 0 NY 1894 ***
+         
+7. Provision shall be made by law for the removal for misconduct or malversation in office of all
+officers (except judicial) whose powers and duties are not local or legislative, and who shall be
+elected at general elections, and also for supplying vacancies created by such removal.
+
+*** SEND ***
+*** SSTART 008.0 010.0 0 NY 1894 ***
+
+8. The legislature may declare the cases in which any office shall be deemed vacant when no
+provision is made for that purpose in this constitution.
+
+*** SEND ***
+*** SSTART 009.0 010.0 0 NY 1894 ***
+
+9. No officer whose salary is fixed by the constitution shall receive any additional compensation.
+Each of the other State officers named in the constitution shall, during his continuance in office,
+receive a compensation, to be fixed by law, which shall not be increased or diminished during the
+term for which he shall have been elected or appointed; nor shall he receive to his use, any fees
+or perquisites of office or other compensation.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 011.0 NY 1894 ***
+         
+                                    ARTICLE XI
+         
+*** SSTART 001.0 011.0 0 NY 1894 ***
+
+1. All able-bodied male citizens between the ages of eighteen and forty-five years, who are
+residents of the State, shall constitute the militia; subject, however, to such exemptions as are
+now or may be hereafter created by the laws of the United States, or by the Legislature of this
+State.
+
+*** SEND ***
+*** SSTART 002.0 011.0 0 NY 1894 ***
+
+2. The Legislature may provide for the enlistment into the active force of such other persons as
+may make application to be so enlisted.                  
+
+*** SEND ***
+*** SSTART 003.0 011.0 0 NY 1894 ***
+
+3. The militia shall be organized and divided into such land and naval, and active and reserve
+forces, as the Legislature may deem proper, provided, however, that there shall be maintained at
+all times a force of not less than ten thousand enlisted men, fully, uniformed, trained, equipped,
+disciplined and ready for active service. And it shall be the duty of the Legislature at each session
+to make sufficient appropriations for the maintenance thereof.
+
+*** SEND ***
+*** SSTART 004.0 011.0 0 NY 1894 ***
+         
+4. The Governor shall appoint the chiefs of the several staff departments, his aides-de-camp and
+military secretary, all of whom shall hold office during his pleasure, their commissions to expire
+with the term for which the Governor shall have been elected; he shall also nominate, and with
+the consent of the Senate, appoint all major generals.
+
+*** SEND ***
+*** SSTART 005.0 011.0 0 NY 1894 ***
+         
+5. All other commissioned and non-commissioned officers shall be chosen or appointed in such
+manner as the Legislature may deem most conducive to the improvement of the militia,
+provided,
+however, that no law shall be passed changing the existing mode of election and appointment
+unless two-thirds of the members present in each house shall concur therein.
+
+*** SEND ***
+*** SSTART 006.0 011.0 0 NY 1894 ***
+
+6. The commissioned officers shall be commissioned by the governor, as commander-in-chief.
+No commissioned officer shall be removed from office during the term for which he shall have
+been      appointed or elected, unless by the Senate on the recommendation of the governor,
+stating the grounds on which such removal is recommended, or by the sentence of a
+court-martial, or upon the findings of an examining board organized pursuant to law, or for
+absence without leave for a period of six months or more.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 012.0 NY 1894 ***         
+
+            ARTICLE XII.
+
+*** SSTART 001.0 012.0 0 NY 1894 ***
+
+1. It shall be the duty of the Legislature to provide for the organization of cities and incorporated
+villages, and to restrict their power of taxation, assessment, borrowing money, contracting debts,  
+ and loaning their credit, so as to prevent abuses in assessments, and in contracting debt by such
+municipal corporations.
+                  
+*** SEND ***
+*** SSTART 002.0 012.0 0 NY 1894 ***
+
+2. All cities are classified according to the latest State enumeration, as from time to time made, as
+follows: The first class includes all cities having a population of two hundred and fifty thousand, 
+or more; the second class, all cities having a population of fifty thousand and less than two
+hundred and fifty thousand; the third class, all other cities. Laws relating to the property, affairs
+of government of cities, and the several departments thereof, are divided into general and special
+city laws; general city laws are those which relate to all the cities of one or more classes; special
+city laws are those which relate to a single city, or to less than all the cities of a class. Special city
+laws shall not be passed except in conformity with the provisions of this section. After any bill
+for a special city law, relating to a city, has been passed by both branches of the Legislature, the
+house in which it originated shall immediately transmit a certified copy thereof to the mayor of
+such city, and within fifteen days thereafter the mayor shall return such bill to the house from
+which it was     sent, or if the session of the Legislature at which such bill has terminated, to the
+Governor, with the mayor's certificate thereon, stating whether the city has or has not accepted
+the same. In every city of the first class, the mayor, and in every other city, the mayor and the
+legislative body thereof concurrently, shall act for such city as to such bill; but the Legislature
+may provide for the concurrence of the legislative body in cities of the first class. The Legislature
+shall provide for a public notice and opportunity for a public hearing concerning any such bill in
+every city to which it relates, before action thereon. Such a bill, if it relates to more than one city,
+shall be transmitted to the mayor of each city to which it relates, and shall not be deemed
+accepted unless as herein provided, by every such city. Whenever any such bill is accepted as
+herein provided, it shall be subject as are other bills, to the action of the Governor. Whenever,
+during the session at which it was passed, any such bill is returned without the acceptance of the
+city or cities to which it relates, or within such fifteen days is not returned, it may nevertheless
+again he passed by both       branches of the Legislature, and it shall their be subject as are other
+bills, to the action of the Governor. In every special city law which has been accepted by the city
+or cities to which it relates, the title shall be followed by the words "accepted by the city" or
+"cities" as the ease may be; in every such law which is passed without such acceptance, by the
+words "passed without the acceptance of the city"or "cities," as the case may be.
+
+*** SEND ***
+*** SSTART 003.0 012.0 0 NY 1894 ***
+         
+3. All elections of city officers, including supervisors and judicial officers of inferior local
+Courts, elected in any city or part of a city, and of county officers elected in the counties of New
+York and Kings, and in all counties whose boundaries are the same as those of a city, except to
+fill vacancies, shall be held on the Tuesday succeeding the first Monday in November in an
+odd-numbered year, and the term of every such officer shall expire at the end of an
+odd-numbered year.  The terms of office of all such officers, elected before the first day of
+January, one thousand eight hundred and ninety-five, whose successors have not then been
+elected, which under existing laws would expire with an even-numbered year, or in an
+odd-numbered year and before the end thereof, are extended to and including the last day of
+December next following the time when such terms would otherwise expire; the terms of office
+of all such officers, which under existing      laws would expire in an even-numbered year, and
+before the end thereof, are abridged so as to expire at the end of the preceding year. This section
+shall not apply to any city of the third class, or to elections of any judicial officer, except judges
+and justices of interior local Courts.
+
+*** SEND ***
+*** AEND ***         
+*** ASTART 013.0 NY 1894 ***
+                                  ARTICLE XIII.
+
+*** SSTART 001.0 013.0 0 NY 1894 ***       
+  
+1. Members of the Legislature, and all officers, executive and judicial, except such inferior
+officers as shall be by law exempted shall, before they enter on the duties of their respective
+offices, take and subscribe the following oath or affirmation "I do solemnly swear (or affirm) that
+I will support the Constitution of the United States, and the Constitution of the State of New
+York; and that I will faithfully discharge the duties of the office of   , according to the best of
+my ability;" and all such officers who shall have been chosen at any election shall, before they
+enter on the duties of their respective offices, take and subscribe the oath or affirmation above
+prescribed,        together with the following addition thereto, as part thereof: 
+     "And I do further solemnly swear (or affirm) that I have not directly or indirectly paid, offered
+or promised to pay, contribute, or offered or promised to contribute any money or other valuable
+thing a consideration or reward for the giving or withholding a vote at the election at which I was
+elected to said office, or have not made any promise to influence the giving or withholding any
+such vote," and no other oath, declaration or test shall be required as a qualification for any office
+of public trust. 
+
+*** SEND ***
+*** SSTART 002.0 013.0 0 NY 1894 ***
+         
+2. Any person holding office under the laws of this State, who, except in payment of his legal
+salary, fee or perquisites, shall receive or consent to receive, directly or indirectly, anything of
+value or of personal advantage, or the promise thereof, for performing or omitting to perform any
+official act, or with the express or implied understanding that his official action or omission to
+act is to be in any degree influenced thereby, shall be deemed guilty of a felony. This section
+shall not affect the validity of any existing statute in relation to the offense of bribery.
+
+*** SEND ***
+*** SSTART 003.0 013.0 0 NY 1894 ***
+         
+3. Any person who shall offer or promise a bribe to an officer, if it shall be received, shall be
+deemed guilty of a felony and liable to punishment, except as herein provided. No person
+offering a bribe shall, upon any prosecution of the officer for receiving such bribe, be privileged
+from testifying in relation thereto, and he shall not be liable to civil or criminal prosecution
+therefor, if he shall testify to the giving or offering of such bribe. Any person who shall offer or
+promise a bribe, if it be rejected by the officer to whom it was tendered, shall be deemed guilty
+of
+an attempt to bribe, which is hereby declared to be a felony.
+
+*** SEND ***
+*** SSTART 004.0 013.0 0 NY 1894 ***
+
+4. Any person charged with receiving a bribe, or with offering or promising a bribe, shall be
+permitted to testify in his own behalf in any civil or criminal prosecution therefor.
+
+*** SEND ***
+*** SSTART 005.0 013.0 0 NY 1894 ***
+         
+5. No public officer, or person elected or appointed to a public office, under the laws of this
+State, shall directly or indirectly ask, demand, accept, receive or consent to receive for his own
+use or benefit, or for the use or benefit of another, any free pass, free transportation, franking
+privilege or discrimination in passenger, telegraph or telephone rates, from any person or
+corporation, or make use of the same himself or in conjunction with another. A person who
+violates any provision of this section, shall be deemed guilty of a misdemeanor and shall forfeit
+his office at the suit of the Attorney-General. Any corporation, or officer or. agent thereof, who
+shall offer or promise to   a public officer, or person elected or appointed to a public office, any
+such free pass, free transportation, franking privilege or discrimination, shall also be deemed
+guilty of a misdemeanor and liable to punishment except as herein provided. No person, or
+officer or agent of a corporation giving any such free pass, free transportation, franking privilege
+or discrimination hereby prohibited, shall be privileged from testifying in relation thereto, and he
+shall not be liable to civil or criminal prosecution therefor if he shall testify to the giving of the
+same.
+                  
+*** SEND ***
+*** SSTART 006.0 013.0 0 NY 1894 ***
+
+6. Any district attorney who shall fail faithfully to prosecute a person charged with the violation
+in his county of any provision of this article which may come to his knowledge shall be removed
+from office by the Governor, after due notice and an opportunity of being heard in his defense.
+The expenses which shall be incurred by any county, in investigating and prosecuting any charge
+of bribery or attempting to bribe any person holding office under the laws of this State, within
+such county, or of receiving bribes by any such person in said county, shall be a charge against
+the State, and their payment by the State shall be provided for by law.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 014.0 NY 1894 ***
+         
+                                    ARTICLE XIV
+         
+*** SSTART 001.0 014.0 0 NY 1894 ***
+
+1. Any amendment or amendments to this Constitution may be proposed in the Senate and
+Assembly; and if the same shall be agreed to by a majority of the members elected to each of the
+two houses, such proposed amendment or amendments shall be entered on their journals, with
+the yeas and nays taken thereon, and referred to the Legislature to be chosen at the next general
+election of senators, and shall be published for three months previous to the time of making      
+such choice; and if in the Legislature so next chosen, as aforesaid, such proposed amendment or
+amendments shall be agreed to by a majority of all the members elected to each house, then it
+shall be the duty of the Legislature to submit such proposed amendment or amendments to the
+people for approval in such manner and at such time as the Legislature shall prescribe; and if the
+people shall approve and ratify such amendment or amendments by a majority of the electors
+voting thereon, such amendment or amendments shall become a part of the Constitution from
+and after the first. day of January next after such approval.
+
+*** SEND ***
+*** SSTART 002.0 014.0 0 NY 1894 ***
+
+2. At the general election to be held in the year one thousand nine hundred and sixteen, and every
+twentieth year thereafter, and also at such times as the Legislature may by law provide, the
+question, "Shall there be a Convention to revise the Constitution and amend the same?" shall be
+decided by the electors of the State; and in case a majority of the electors voting thereon shall
+decide in favor of a convention for such purpose, the electors of every senate district of the      
+State; as then organized, shall elect three delegates at the next ensuing general election at which
+members of the Assembly shall be chosen, and the electors of the State voting at the same
+election shall elect fifteen delegates-at-large. The delegates so elected shall convene at the capitol
+on the first Tuesday of April next ensuing after their election, and shall continue their session
+until the business of such convention shall have been completed. Every delegate shall receive for
+his services the same compensation and, the same mileage as shall then be annually payable to
+the members, of the Assembly. A majority of the convention shall constitute a quorum for the
+transaction of business, and no amendment to the Constitution shall be submitted for approval to
+the electors as hereinafter provided, unless by the assent of a majority of all the delegates elected
+to the convention, the yeas and nays being entered on the journal to be kept. The convention shall
+have the power to appoint such officers, employees and assistants as it may deem necessary, and
+fix their compensation, and to provide for the printing of its documents, journal and proceedings.
+The convention shall determine the rules of its own proceedings, choose its own officers, and be
+the judge of the election, returns and qualifications of its members. In case of a vacancy, by
+death, resignation or other cause, of any district delegate elected to the convention, such vacancy
+shall be filled by a vote of the remaining delegates representing the district in which such
+vacancy occurs.  If such vacancy occurs in the office of a delegate-at-large, such vacancy shall be
+filled by a vote of the remaining delegates-at-large. Any proposed constitution or constitutional
+amendment which shall have been adopted by such convention, shall be submitted to a vote of
+the   electors of the State at the time and in the manner provided by such convention, at an
+election which shall be held not less than six weeks after the adjournment of such convention.
+Upon the approval of such constitution or constitutional amendments, in the manner provided in
+the last preceding section, such constitution or constitutional amendments shall go into effect on
+the first day of January next after such approval.
+
+*** SEND ***
+*** SSTART 003.0 014.0 0 NY 1894 ***
+         
+3. Any amendment proposed by a constitutional convention relating to the same subject as an
+amendment proposed by the Legislature, coincidently submitted. to the people for approval at the
+general election held in the year one thousand eight hundred and ninety-four or at any subsequent
+election, shall, if approved, be deemed to supersede the amendment so proposed by the
+Legislature.
+
+*** SEND ***
+*** AEND ***
+*** ASTART 015.0 NY 1894 ***
+
+                                                 ARTICLE XV.
+
+*** SSTART 001.0 015.0 0 NY 1894 ***         
+
+1. This Constitution shall be in force from and including the first day of January, one thousand
+eight hundred and ninety-five, except as herein otherwise provided.       
+
+*** SEND ***
+*** AEND ***
+               
+*** ASTART 9016.0 NY 1894 ***
+
+Done in Convention at the Capitol in the city of Albany, the twenty-ninth day of September, in
+the year one thousand eight hundred and ninety-four, and, of the Independence of the united
+States of America the one hundred and nineteenth.
+
+In witness whereof, we have hereunto subscribed our names.
+                           JOSEPH HODGES CHOATE,
+                                           President.
+                           CHARLES ELLIOTT FITCH,
+                                           Secretary
+*** AEND ***
+
+*** CEND ***
+         
+         
